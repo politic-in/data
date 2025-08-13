@@ -1,0 +1,71 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Nyapin Palin",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 9184,
+        "total_votes_polled": 5136,
+        "turnout_percentage": 55.9,
+        "margin_votes": 276,
+        "margin_percentage": 5.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tadar Tang",
+          "party": "Indian National Congress (I)",
+          "votes": 2362,
+          "votes_percentage": 49.6
+        },
+        {
+          "position": 2,
+          "name": "Tadar Taniang",
+          "party": "Peoples Party Of Arunachal",
+          "votes": 2086,
+          "votes_percentage": 43.8
+        },
+        {
+          "position": 3,
+          "name": "Techi Tuku",
+          "party": "Indian National Congress (U)",
+          "votes": 314,
+          "votes_percentage": 6.6
+        }
+      ]
+    },
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 8743,
+        "total_votes_polled": 5183,
+        "turnout_percentage": 59.3,
+        "margin_votes": 2962,
+        "margin_percentage": 57.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tadar Tang",
+          "party": "Janta Party",
+          "votes": 3961,
+          "votes_percentage": 79.9
+        },
+        {
+          "position": 2,
+          "name": "Tadar Taniang",
+          "party": "Peoples Party Of Arunachal",
+          "votes": 999,
+          "votes_percentage": 20.1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "state": "Tamil Nadu",
+  "constituency": "KUMBAKONAM",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 572159,
+        "total_votes_polled": 457883,
+        "turnout_percentage": 80.0,
+        "margin_votes": 38753,
+        "margin_percentage": 8.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Era Sezhiyan",
+          "party": "Dravida Munetra Kazhagam",
+          "votes": 242547,
+          "votes_percentage": 53.0
+        },
+        {
+          "position": 2,
+          "name": "C. R. Ramasamy",
+          "party": "Indian National Congress (ORGANISATION)",
+          "votes": 203794,
+          "votes_percentage": 44.5
+        }
+      ]
+    }
+  }
+}

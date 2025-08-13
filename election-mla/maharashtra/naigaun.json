@@ -1,0 +1,50 @@
+{
+  "state": "Maharashtra",
+  "constituency": "Naigaun",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 121733,
+        "total_votes_polled": 54777,
+        "turnout_percentage": 45.0,
+        "margin_votes": 12160,
+        "margin_percentage": 22.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ram Mahadik",
+          "party": "Indian National Congress (I)",
+          "votes": 28784,
+          "votes_percentage": 53.2
+        },
+        {
+          "position": 2,
+          "name": "N. K. Sawant",
+          "party": "Janata Party (JP)",
+          "votes": 16624,
+          "votes_percentage": 30.7
+        },
+        {
+          "position": 3,
+          "name": "Shridhar Bhagwan Tarkar",
+          "party": "Indian National Congress (U)",
+          "votes": 8529,
+          "votes_percentage": 15.8
+        },
+        {
+          "position": 4,
+          "name": "Bhavanji Asaria Sangoi",
+          "party": "Independent",
+          "votes": 167,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

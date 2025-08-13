@@ -1,0 +1,48 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "HAMIRPUR DISTRICT",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 336458,
+        "total_votes_polled": 128684,
+        "turnout_percentage": 38.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mannu Lal Duvedi",
+          "party": "Indian National Congress",
+          "votes": 42118,
+          "votes_percentage": 32.7
+        },
+        {
+          "position": 2,
+          "name": "Ran Vijaya Bahadur Singh",
+          "party": "Independent",
+          "votes": 37974,
+          "votes_percentage": 29.5
+        },
+        {
+          "position": 3,
+          "name": "Udit Narain",
+          "party": "Socialist Party",
+          "votes": 35009,
+          "votes_percentage": 27.2
+        },
+        {
+          "position": 4,
+          "name": "Parmeshwari Dayal",
+          "party": "Independent",
+          "votes": 13583,
+          "votes_percentage": 10.6
+        }
+      ]
+    }
+  }
+}

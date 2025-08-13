@@ -1,0 +1,57 @@
+{
+  "state": "West Bengal",
+  "constituency": "CHANDRAKONA (SC)",
+  "district": "Paschim Medinipur",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 249810,
+        "total_votes_polled": 222405,
+        "turnout_percentage": 90.1,
+        "margin_votes": 38381,
+        "margin_percentage": 17.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chhaya Dolai",
+          "party": "All India Trinamool Congress",
+          "votes": 117172,
+          "votes_percentage": 52.7
+        },
+        {
+          "position": 2,
+          "name": "Santinath Bodhuk",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 78791,
+          "votes_percentage": 35.4
+        },
+        {
+          "position": 3,
+          "name": "Bilash Dolui",
+          "party": "Bharatiya Janta Party",
+          "votes": 20510,
+          "votes_percentage": 9.2
+        },
+        {
+          "position": 4,
+          "name": "Ashes Sardar",
+          "party": "Shiv Sena",
+          "votes": 4447,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 5,
+          "name": "Tanushri Dolui",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1485,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "state": "Meghalaya",
+  "year": "2009",
+  "summary_stats": {
+    "total_electors_state": 1277739,
+    "total_votes_polled_state": 822629,
+    "turnout_percentage_state": 64.4,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Shillong",
+      "ac_no": 1,
+      "ac_type": "ST",
+      "district": "Meghalaya",
+      "winning_candidate": "Vincent H Pala",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 771965,
+      "total_votes_ac": 480424,
+      "poll_percentage_ac": 0.0,
+      "margin": 107868,
+      "margin_percentage": 22.5,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2009/meghalaya/shillong/7724/44/15"
+    },
+    {
+      "ac_name": "Tura",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Meghalaya",
+      "winning_candidate": "Agatha K. Sangma",
+      "winning_party": "Nationalist Congress Party",
+      "total_electors_ac": 505774,
+      "total_votes_ac": 342205,
+      "poll_percentage_ac": 0.0,
+      "margin": 17945,
+      "margin_percentage": 5.2,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2009/meghalaya/tura/7725/44/15"
+    }
+  ]
+}

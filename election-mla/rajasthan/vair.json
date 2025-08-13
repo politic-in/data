@@ -1,0 +1,57 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Vair",
+  "district": "Bharatpur",
+  "ac_type": "SC",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 240528,
+        "total_votes_polled": 165853,
+        "turnout_percentage": 69.5,
+        "margin_votes": 15283,
+        "margin_percentage": 9.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bhajan Lal Jatav",
+          "party": "Indian National Congress",
+          "votes": 78716,
+          "votes_percentage": 47.5
+        },
+        {
+          "position": 2,
+          "name": "Ramswaroop Koli",
+          "party": "Bharatiya Janta Party",
+          "votes": 63433,
+          "votes_percentage": 38.3
+        },
+        {
+          "position": 3,
+          "name": "Atarsingh Pagaria",
+          "party": "Bahujan Samaj Party",
+          "votes": 21985,
+          "votes_percentage": 13.3
+        },
+        {
+          "position": 4,
+          "name": "Dr. Bhupal Chand Koli",
+          "party": "Bharatiya Rashtravadi Samanta Party",
+          "votes": 1140,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Ramcharan",
+          "party": "Independent",
+          "votes": 579,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

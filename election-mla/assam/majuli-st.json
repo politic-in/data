@@ -1,0 +1,50 @@
+{
+  "state": "Assam",
+  "constituency": "Majuli (ST)",
+  "district": "Jorhat",
+  "ac_type": "ST",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 114516,
+        "total_votes_polled": 96774,
+        "turnout_percentage": 85.4,
+        "margin_votes": 18923,
+        "margin_percentage": 19.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sarbananda Sonowal",
+          "party": "Bharatiya Janta Party",
+          "votes": 49602,
+          "votes_percentage": 51.3
+        },
+        {
+          "position": 2,
+          "name": "Rajib Lochan Pegu",
+          "party": "Indian National Congress",
+          "votes": 30679,
+          "votes_percentage": 31.7
+        },
+        {
+          "position": 3,
+          "name": "Ranjit Doley",
+          "party": "Independent",
+          "votes": 15695,
+          "votes_percentage": 16.2
+        },
+        {
+          "position": 4,
+          "name": "Hemanta Pegu",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 798,
+          "votes_percentage": 0.8
+        }
+      ]
+    }
+  }
+}

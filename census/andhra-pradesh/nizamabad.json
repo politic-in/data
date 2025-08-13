@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 137439,
+        "male": 144978,
+        "percentage_of_total_population": 11.07,
+        "percentage_of_total_population_calculated": 11.07,
+        "percentage_of_total_population_stated": 11.07,
+        "sex_ratio": 948,
+        "total": 282417
+    },
+    "literacy": {
+        "female_literacy_rate": 51.54,
+        "female_literate": 599596,
+        "male_literacy_rate": 71.47,
+        "male_literate": 790214,
+        "rate_percentage": 61.25,
+        "total_literate": 1389810
+    },
+    "population": {
+        "female": 1300694,
+        "male": 1250641,
+        "sex_ratio": 1040,
+        "total": 2551335
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.07,
+            "population": 1847
+        },
+        "Christian": {
+            "percentage": 0.77,
+            "population": 19653
+        },
+        "Hindu": {
+            "percentage": 83.23,
+            "population": 2123426
+        },
+        "Jain": {
+            "percentage": 0.02,
+            "population": 542
+        },
+        "Muslims": {
+            "percentage": 15.35,
+            "population": 391596
+        },
+        "Not Stated": {
+            "percentage": 0.46,
+            "population": 11768
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 146
+        },
+        "Sikh": {
+            "percentage": 0.09,
+            "population": 2357
+        }
+    },
+    "rural": {
+        "child_population_female": 104350,
+        "child_population_male": 110596,
+        "child_population_percentage": 10.95,
+        "child_population_percentage_calculated": 10.95,
+        "child_population_percentage_stated": 10.95,
+        "child_population_total": 214946,
+        "child_sex_ratio": 944,
+        "female": 1004126,
+        "literacy_rate_female": 46.06,
+        "literacy_rate_male": 67.57,
+        "literacy_rate_percentage": 56.5,
+        "literate_female": 414410,
+        "literate_male": 573184,
+        "literate_total": 987594,
+        "male": 958837,
+        "percentage_population": 76.94,
+        "population": 1962963,
+        "sex_ratio": 1047
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/119-nizamabad.html",
+    "urban": {
+        "child_population_female": 33090,
+        "child_population_male": 34381,
+        "child_population_percentage": 11.47,
+        "child_population_percentage_calculated": 11.47,
+        "child_population_percentage_stated": 11.47,
+        "child_population_total": 67471,
+        "child_sex_ratio": 962,
+        "female": 296568,
+        "literacy_rate_female": 70.29,
+        "literacy_rate_male": 84.31,
+        "literacy_rate_percentage": 77.22,
+        "literate_female": 185186,
+        "literate_male": 217030,
+        "literate_total": 402216,
+        "male": 291804,
+        "percentage_population": 23.06,
+        "population": 588372,
+        "sex_ratio": 1016
+    }
+}

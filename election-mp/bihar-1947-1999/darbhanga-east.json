@@ -1,0 +1,41 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "DARBHANGA EAST",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 372053,
+        "total_votes_polled": 132722,
+        "turnout_percentage": 35.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Aniruydh Sinha",
+          "party": "Indian National Congress",
+          "votes": 69944,
+          "votes_percentage": 52.7
+        },
+        {
+          "position": 2,
+          "name": "Lakshman Jha",
+          "party": "Socialist Party",
+          "votes": 47766,
+          "votes_percentage": 36.0
+        },
+        {
+          "position": 3,
+          "name": "Harish Chandra Mishra",
+          "party": "Independent",
+          "votes": 15012,
+          "votes_percentage": 11.3
+        }
+      ]
+    }
+  }
+}

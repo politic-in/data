@@ -1,0 +1,365 @@
+{
+  "state": "Gujarat",
+  "constituency": "Vatva",
+  "district": "Ahmadabad",
+  "ac_type": "GEN",
+  "results": {
+    "2022": {
+      "poll_date": "01 December 2022",
+      "counting_date": "08 December 2022",
+      "total_contestants": 14,
+      "aggregate": {
+        "total_electors": 398664,
+        "total_votes_polled": 233973,
+        "turnout_percentage": 59.4,
+        "margin_votes": 100046,
+        "margin_percentage": 42.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Babusinh Sarabhai Jadav",
+          "party": "Bharatiya Janta Party",
+          "votes": 151710,
+          "votes_percentage": 64.1
+        },
+        {
+          "position": 2,
+          "name": "Balvantsinh Hemantsang Gadhavi",
+          "party": "Indian National Congress",
+          "votes": 51664,
+          "votes_percentage": 21.8
+        },
+        {
+          "position": 3,
+          "name": "Bipin Patel",
+          "party": "Aam Aadmi Party",
+          "votes": 24947,
+          "votes_percentage": 10.5
+        },
+        {
+          "position": 4,
+          "name": "Kalpeshbhai Narayanbhai Shete",
+          "party": "Gunj Satya Ni Janata Party",
+          "votes": 1612,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Sujith Diwakar Pandey",
+          "party": "Independent",
+          "votes": 805,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 6,
+          "name": "Rakesh Ramdev Yadav",
+          "party": "Samajwadi Party",
+          "votes": 558,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Kartik  Pandey",
+          "party": "Praja Vijay Paksh",
+          "votes": 537,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "Patel Nikhil Bhikhabhai",
+          "party": "Bharatiya National Janta Dal",
+          "votes": 478,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Sharma Deepakkumar Vasudev",
+          "party": "National Maha Sabha Party",
+          "votes": 384,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Jignaba Omkarsinh Zala",
+          "party": "Pachchasi Parivartan Samaj Party",
+          "votes": 382,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Vishal Motilal Saroj",
+          "party": "Jan Sangharsh Virat Party",
+          "votes": 322,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Mahendra Kunjadvala",
+          "party": "Jan Man Party",
+          "votes": 208,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Chaudhari Jagbirsingh",
+          "party": "Jan Sewa Driver Party",
+          "votes": 197,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Mundra Anilkumar Niranjankumar",
+          "party": "Log Party",
+          "votes": 169,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2017": {
+      "poll_date": "09 December 2017",
+      "counting_date": "18 December 2017",
+      "total_contestants": 16,
+      "aggregate": {
+        "total_electors": 295497,
+        "total_votes_polled": 209701,
+        "turnout_percentage": 71.8,
+        "margin_votes": 62380,
+        "margin_percentage": 29.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pradipsinh Bhagvatsinh Jadeja",
+          "party": "Bharatiya Janta Party",
+          "votes": 131133,
+          "votes_percentage": 62.5
+        },
+        {
+          "position": 2,
+          "name": "Patel Bipinchandra Rugnathbhai (BIPINKAKA)",
+          "party": "Indian National Congress",
+          "votes": 68753,
+          "votes_percentage": 32.8
+        },
+        {
+          "position": 3,
+          "name": "Sandhi Daud Ismail",
+          "party": "Independent",
+          "votes": 2240,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 4,
+          "name": "Maurya Rajesh Hariram",
+          "party": "Prajatantra Aadhar Party",
+          "votes": 1354,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Parmar Bharatbhai Shakarabhai",
+          "party": "Bahujan Samaj Party",
+          "votes": 1175,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Patel Atulkumar Ravjibhai",
+          "party": "Independent",
+          "votes": 987,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Saiyad Kasamali Imamali",
+          "party": "Independent",
+          "votes": 946,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Saiyad Sabanabanu Haidarabbas",
+          "party": "Independent",
+          "votes": 741,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Rathod Munirhusen Amirmiya",
+          "party": "Independent",
+          "votes": 446,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Mohmmad Jafar Mohmmad Kasam Shaikh",
+          "party": "Independent",
+          "votes": 436,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Siddiki Mo.Kalim Tauifikahemad",
+          "party": "Independent",
+          "votes": 335,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Sarafarajkhan Aladadkhan Pathan",
+          "party": "Independent",
+          "votes": 331,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 13,
+          "name": "Ansari Mohomadrashid Nurislam",
+          "party": "Independent",
+          "votes": 245,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Shaileshbhai Gandabhai Bharvad",
+          "party": "Independent",
+          "votes": 221,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Mevati Farjanabanu Ismailbhai",
+          "party": "Independent",
+          "votes": 203,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "Shaikh Salmabanu Mohmad Salimbhai",
+          "party": "Independent",
+          "votes": 155,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2012": {
+      "poll_date": "",
+      "counting_date": "20 December 2012",
+      "total_contestants": 15,
+      "aggregate": {
+        "total_electors": 226650,
+        "total_votes_polled": 159479,
+        "turnout_percentage": 70.4,
+        "margin_votes": 46932,
+        "margin_percentage": 29.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pradipsinh Bhagwatsinh Jadeja",
+          "party": "Bharatiya Janta Party",
+          "votes": 95580,
+          "votes_percentage": 59.9
+        },
+        {
+          "position": 2,
+          "name": "Patel Atulkumar Ravjibhai",
+          "party": "Indian National Congress",
+          "votes": 48648,
+          "votes_percentage": 30.5
+        },
+        {
+          "position": 3,
+          "name": "Bharwad Shaileshbhai Gandabhai",
+          "party": "Nationalist Congress Party",
+          "votes": 4633,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 4,
+          "name": "Sandhi Daud Ismail",
+          "party": "Independent",
+          "votes": 2604,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 5,
+          "name": "Pathan Mominkhan Ashrafkhan",
+          "party": "Independent",
+          "votes": 2277,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 6,
+          "name": "Patel Vinodkumar Dhanjibhai",
+          "party": "Gujarat Parivartan Party",
+          "votes": 1444,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 7,
+          "name": "Saiyad Ayubali Barkatali",
+          "party": "Independent",
+          "votes": 1275,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 8,
+          "name": "Saiyad Rasulmiya Saiyadmiya",
+          "party": "Independent",
+          "votes": 606,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Varma Ramkirti Jayram",
+          "party": "Bahujan Samaj Party",
+          "votes": 539,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Tanmanben  Ghanshyambhai Nagar",
+          "party": "Independent",
+          "votes": 406,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 11,
+          "name": "Prem Yogendrabhai Thakkar",
+          "party": "Independent",
+          "votes": 383,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Ansari Mohmadrashid Nurislam",
+          "party": "Independent",
+          "votes": 319,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 13,
+          "name": "Kansara Kiranbhai Somabhai",
+          "party": "Samajwadi Party",
+          "votes": 315,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 14,
+          "name": "Ajmeri  Iliyas Ganibhai",
+          "party": "Independent",
+          "votes": 261,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 15,
+          "name": "Yadav Sureshbhai Mahavirbhai",
+          "party": "Janata Dal (United)",
+          "votes": 189,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

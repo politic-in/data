@@ -1,0 +1,551 @@
+{
+  "state": "Maharashtra",
+  "constituency": "NANDURBAR",
+  "district": "Nandurbar",
+  "ac_type": "ST",
+  "results": {
+    "2024": {
+      "poll_date": "20 November 2024",
+      "counting_date": "23 November 2024",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 353781,
+        "total_votes_polled": 238535,
+        "turnout_percentage": 67.9,
+        "margin_votes": 76247,
+        "margin_percentage": 32.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr.Vijaykumar Krushanrao Gavit",
+          "party": "Bharatiya Janta Party",
+          "votes": 155190,
+          "votes_percentage": 64.6
+        },
+        {
+          "position": 2,
+          "name": "Engg.Kiran Damodar Tadavi",
+          "party": "Indian National Congress",
+          "votes": 78943,
+          "votes_percentage": 32.9
+        },
+        {
+          "position": 4,
+          "name": "Vasudev Namdev Gangurde",
+          "party": "Maharashtra Navnirman Sena",
+          "votes": 1209,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "Firoz Dagdu Tadvi",
+          "party": "All India Hindustan Congress Party",
+          "votes": 989,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Ravindra Ranjit Valvi",
+          "party": "Independent",
+          "votes": 896,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Rohidas Gemji Valvi",
+          "party": "Independent",
+          "votes": 424,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "Malti Dinkar Valvi",
+          "party": "Independent",
+          "votes": 367,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Arif Rajjak Tadavi",
+          "party": "Independent",
+          "votes": 262,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Devaman Zulal Thakare",
+          "party": "Independent",
+          "votes": 255,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2019": {
+      "poll_date": "21 October 2019",
+      "counting_date": "24 October 2019",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 336325,
+        "total_votes_polled": 184968,
+        "turnout_percentage": 56.0,
+        "margin_votes": 70396,
+        "margin_percentage": 38.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Vijaykumar Krushnarao Gavit",
+          "party": "Bharatiya Janta Party",
+          "votes": 121605,
+          "votes_percentage": 65.7
+        },
+        {
+          "position": 2,
+          "name": "Udesing Kocharu Padvi",
+          "party": "Indian National Congress",
+          "votes": 51209,
+          "votes_percentage": 27.7
+        },
+        {
+          "position": 3,
+          "name": "Dipa Shamshon Valvi",
+          "party": "Vanchit Bahujan Aaghadi",
+          "votes": 6734,
+          "votes_percentage": 3.6
+        },
+        {
+          "position": 4,
+          "name": "Ananda Sukalal Koli",
+          "party": "Independent",
+          "votes": 2047,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Vipul Ramsing Vasave",
+          "party": "Bahujan Samaj Party",
+          "votes": 1925,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Adv.Prakash Mohan Gangurde",
+          "party": "Swabhimani Paksha",
+          "votes": 1448,
+          "votes_percentage": 0.8
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "15 October 2014",
+      "counting_date": "19 October 2014",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 311938,
+        "total_votes_polled": 193633,
+        "turnout_percentage": 63.0,
+        "total_valid_votes": 190776,
+        "total_valid_votes_percentage": 61.2,
+        "margin_votes": 27118,
+        "margin_percentage": 14.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gavit Vijaykumar Krushnarao",
+          "party": "Bharatiya Janta Party",
+          "votes": 101328,
+          "votes_percentage": 52.3
+        },
+        {
+          "position": 2,
+          "name": "Vasave Kunal Batesing",
+          "party": "Indian National Congress",
+          "votes": 74210,
+          "votes_percentage": 38.3
+        },
+        {
+          "position": 3,
+          "name": "Virendra Ravji Valvi",
+          "party": "Shiv Sena",
+          "votes": 8598,
+          "votes_percentage": 4.4
+        },
+        {
+          "position": 4,
+          "name": "Gulabsing Divansing Vasave",
+          "party": "Maharashtra Navnirman Sena",
+          "votes": 1955,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Valvi Vikas Dulji",
+          "party": "Nationalist Congress Party",
+          "votes": 1784,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Bhil Birbal Sakharam",
+          "party": "Independent",
+          "votes": 1229,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Bhavan Pavansing Shewale",
+          "party": "Independent",
+          "votes": 1061,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "Valvi Natwar Kella",
+          "party": "Bahujan Mukti Party",
+          "votes": 611,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "13 October 2009",
+      "counting_date": "22 October 2009",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 267280,
+        "total_votes_polled": 180976,
+        "turnout_percentage": 67.7,
+        "total_valid_votes": 180353,
+        "total_valid_votes_percentage": 67.5,
+        "margin_votes": 23858,
+        "margin_percentage": 13.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gavit  Vijaykumarkrushnarao",
+          "party": "Nationalist Congress Party",
+          "votes": 99323,
+          "votes_percentage": 54.9
+        },
+        {
+          "position": 2,
+          "name": "Natawadkar Suhasinisuhas",
+          "party": "Bharatiya Janta Party",
+          "votes": 75465,
+          "votes_percentage": 41.7
+        },
+        {
+          "position": 3,
+          "name": "Gavit Sharad Dilip",
+          "party": "Independent",
+          "votes": 2957,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 4,
+          "name": "Sonawane Arjun Ratan",
+          "party": "Republican Party Of India (A)",
+          "votes": 1284,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Valvi Ashok Jumma",
+          "party": "Bahujan Samaj Party",
+          "votes": 1222,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Thakare Tukaram Bhamta",
+          "party": "Bharipa Bahujan Mahasangh",
+          "votes": 725,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "2004": {
+      "poll_date": "13 October 2004",
+      "counting_date": "16 October 2004",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 207162,
+        "total_votes_polled": 138625,
+        "turnout_percentage": 66.9,
+        "margin_votes": 38598,
+        "margin_percentage": 27.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gavit Vijaykumar Krishnarao",
+          "party": "Nationalist Congress Party",
+          "votes": 72132,
+          "votes_percentage": 52.0
+        },
+        {
+          "position": 2,
+          "name": "Gaikwad Namdevrao Ghamaji",
+          "party": "Shiv Sena",
+          "votes": 33534,
+          "votes_percentage": 24.2
+        },
+        {
+          "position": 3,
+          "name": "Vasave Gulabsing Diwansing",
+          "party": "Independent",
+          "votes": 28817,
+          "votes_percentage": 20.8
+        },
+        {
+          "position": 4,
+          "name": "Thakur Kailas Manga",
+          "party": "Independent",
+          "votes": 4131,
+          "votes_percentage": 3.0
+        }
+      ]
+    },
+    "1999": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 186944,
+        "total_votes_polled": 128837,
+        "turnout_percentage": 68.9,
+        "margin_votes": 4694,
+        "margin_percentage": 3.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gavit Vijaykumar Krishnarao",
+          "party": "Nationalist Congress Party",
+          "votes": 61707,
+          "votes_percentage": 50.6
+        },
+        {
+          "position": 2,
+          "name": "Vasave Indrasing Diwansing",
+          "party": "Indian National Congress",
+          "votes": 57013,
+          "votes_percentage": 46.8
+        },
+        {
+          "position": 3,
+          "name": "Padvi Ajabsing Gangaji",
+          "party": "Shiv Sena",
+          "votes": 1625,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 4,
+          "name": "Gangurde Vasudeo Namdeo",
+          "party": "Independent",
+          "votes": 1552,
+          "votes_percentage": 1.3
+        }
+      ]
+    },
+    "1995": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 178113,
+        "total_votes_polled": 125573,
+        "turnout_percentage": 70.5,
+        "margin_votes": 19578,
+        "margin_percentage": 15.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gavit Vijaykumar Krishnarao",
+          "party": "Independent",
+          "votes": 57694,
+          "votes_percentage": 47.7
+        },
+        {
+          "position": 2,
+          "name": "Valvi Pratap Rubji",
+          "party": "Indian National Congress",
+          "votes": 38116,
+          "votes_percentage": 31.5
+        },
+        {
+          "position": 3,
+          "name": "Valvi Rajendrasing Vikramsing",
+          "party": "Shiv Sena",
+          "votes": 17598,
+          "votes_percentage": 14.6
+        },
+        {
+          "position": 4,
+          "name": "Thakare Raysing Chiptya",
+          "party": "Independent",
+          "votes": 6469,
+          "votes_percentage": 5.4
+        },
+        {
+          "position": 5,
+          "name": "Vasave Jabarsing Mirya",
+          "party": "Doordarshi Party",
+          "votes": 1078,
+          "votes_percentage": 0.9
+        }
+      ]
+    },
+    "1990": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 162486,
+        "total_votes_polled": 90581,
+        "turnout_percentage": 55.8,
+        "margin_votes": 6136,
+        "margin_percentage": 6.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Valvi Pratap Kubaji",
+          "party": "Indian National Congress",
+          "votes": 43342,
+          "votes_percentage": 49.2
+        },
+        {
+          "position": 2,
+          "name": "Gavit Krushnarao Damaji",
+          "party": "Janata Dal",
+          "votes": 37206,
+          "votes_percentage": 42.2
+        },
+        {
+          "position": 3,
+          "name": "Vilas Rawa Kokani",
+          "party": "Shiv Sena",
+          "votes": 6790,
+          "votes_percentage": 7.7
+        },
+        {
+          "position": 4,
+          "name": "Vasave Nurji Mudya",
+          "party": "Doordarshi Party",
+          "votes": 589,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Ishi Chaitram Shivram",
+          "party": "Independent",
+          "votes": 251,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "1985": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 131505,
+        "total_votes_polled": 59587,
+        "turnout_percentage": 45.3,
+        "margin_votes": 28615,
+        "margin_percentage": 48.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Indrasing Diwansing Vasave",
+          "party": "Indian National Congress",
+          "votes": 42444,
+          "votes_percentage": 73.1
+        },
+        {
+          "position": 2,
+          "name": "Valvi Pravin Jalamsing",
+          "party": "Janta Party",
+          "votes": 13829,
+          "votes_percentage": 23.8
+        },
+        {
+          "position": 3,
+          "name": "Tejaram Baliram Kokani",
+          "party": "Independent",
+          "votes": 1145,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 4,
+          "name": "Kokani Baraku Jiwalya",
+          "party": "Independent",
+          "votes": 651,
+          "votes_percentage": 1.1
+        }
+      ]
+    },
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 119760,
+        "total_votes_polled": 55678,
+        "turnout_percentage": 46.5,
+        "margin_votes": 20380,
+        "margin_percentage": 36.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Valvi Ramesh Panya",
+          "party": "Indian National Congress (I)",
+          "votes": 37198,
+          "votes_percentage": 68.9
+        },
+        {
+          "position": 2,
+          "name": "Gavit Nalinibai Tukaram",
+          "party": "Indian National Congress (U)",
+          "votes": 16818,
+          "votes_percentage": 31.1
+        }
+      ]
+    },
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 112039,
+        "total_votes_polled": 75163,
+        "turnout_percentage": 67.1,
+        "margin_votes": 12431,
+        "margin_percentage": 16.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Valvi Ramesh Panya",
+          "party": "Indian National Congress",
+          "votes": 42526,
+          "votes_percentage": 58.6
+        },
+        {
+          "position": 2,
+          "name": "Natawadkar Jayant Ganpat",
+          "party": "Janta Party",
+          "votes": 30095,
+          "votes_percentage": 41.4
+        }
+      ]
+    }
+  }
+}

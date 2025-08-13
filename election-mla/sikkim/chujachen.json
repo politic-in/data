@@ -1,0 +1,187 @@
+{
+  "state": "Sikkim",
+  "constituency": "Chujachen",
+  "district": "East",
+  "ac_type": "GEN",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 17806,
+        "total_votes_polled": 14116,
+        "turnout_percentage": 79.8,
+        "margin_votes": 1327,
+        "margin_percentage": 9.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Krishna Bahadur Rai",
+          "party": "Sikkim Democratic Front",
+          "votes": 7266,
+          "votes_percentage": 51.5
+        },
+        {
+          "position": 2,
+          "name": "Damber Kumar Pradhan",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 5939,
+          "votes_percentage": 42.1
+        },
+        {
+          "position": 3,
+          "name": "Mohan Gurung",
+          "party": "Bharatiya Janta Party",
+          "votes": 514,
+          "votes_percentage": 3.6
+        },
+        {
+          "position": 4,
+          "name": "Gopal Chettri",
+          "party": "Indian National Congress",
+          "votes": 177,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 5,
+          "name": "Anil Kr Rai",
+          "party": "Sikkim Republican Party",
+          "votes": 107,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Rudra Khatiwara",
+          "party": "Hamro Sikkim Party",
+          "votes": 57,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Rudra Narsing Sakya",
+          "party": "Independent",
+          "votes": 56,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "12 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 15402,
+        "total_votes_polled": 12850,
+        "turnout_percentage": 83.4,
+        "total_valid_votes": 12671,
+        "total_valid_votes_percentage": 82.3,
+        "margin_votes": 3411,
+        "margin_percentage": 26.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bikram Pradhan",
+          "party": "Sikkim Democratic Front",
+          "votes": 7836,
+          "votes_percentage": 61.8
+        },
+        {
+          "position": 2,
+          "name": "Kharga Bahadur Gurung",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 4425,
+          "votes_percentage": 34.9
+        },
+        {
+          "position": 3,
+          "name": "Gajendra Rizal",
+          "party": "Bharatiya Janta Party",
+          "votes": 248,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 4,
+          "name": "Rudra Narsing Sakya",
+          "party": "Indian National Congress",
+          "votes": 162,
+          "votes_percentage": 1.3
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "30 April 2009",
+      "counting_date": "05 June 2009",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 12944,
+        "total_votes_polled": 10863,
+        "turnout_percentage": 83.9,
+        "total_valid_votes": 10564,
+        "total_valid_votes_percentage": 81.6,
+        "margin_votes": 5963,
+        "margin_percentage": 54.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Puran Kr. Gurung",
+          "party": "Sikkim Democratic Front",
+          "votes": 8077,
+          "votes_percentage": 74.4
+        },
+        {
+          "position": 2,
+          "name": "Harka Raj Gurung",
+          "party": "Indian National Congress",
+          "votes": 2114,
+          "votes_percentage": 19.5
+        },
+        {
+          "position": 3,
+          "name": "Gajen Rizal",
+          "party": "Bharatiya Janta Party",
+          "votes": 220,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 4,
+          "name": "Mohan Gurung",
+          "party": "Independent",
+          "votes": 155,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 5,
+          "name": "Dhiraj Kumar Rai",
+          "party": "Sikkim Gorkha Prajatantric Party",
+          "votes": 76,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Gopal Chettri",
+          "party": "Sikkim Himali Rajya Parishad",
+          "votes": 76,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Shiva Kr. Pradhan",
+          "party": "Nationalist Congress Party",
+          "votes": 73,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 8,
+          "name": "Biraj Adhikari",
+          "party": "Independent",
+          "votes": 72,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

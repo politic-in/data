@@ -1,0 +1,64 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "Chunpatia",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 98878,
+        "total_votes_polled": 43754,
+        "turnout_percentage": 44.3,
+        "margin_votes": 921,
+        "margin_percentage": 2.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Vir Singh",
+          "party": "Janta Party",
+          "votes": 20227,
+          "votes_percentage": 46.9
+        },
+        {
+          "position": 2,
+          "name": "Birwal Sharma",
+          "party": "Communist Party Of India",
+          "votes": 19306,
+          "votes_percentage": 44.8
+        },
+        {
+          "position": 3,
+          "name": "Bhagwat Upadhya",
+          "party": "Independent",
+          "votes": 1346,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 4,
+          "name": "Chandra Bhushan Mani Mishra",
+          "party": "All India Forward Bloc",
+          "votes": 1105,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 5,
+          "name": "Pramod Kumar Mishra",
+          "party": "Independent",
+          "votes": 823,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 6,
+          "name": "Sadhu Saran Pandey",
+          "party": "Independent",
+          "votes": 336,
+          "votes_percentage": 0.8
+        }
+      ]
+    }
+  }
+}

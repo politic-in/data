@@ -1,0 +1,50 @@
+{
+  "state": "Tripura",
+  "constituency": "KAKRABAN-SALGARAH",
+  "district": "South Tripura",
+  "ac_type": "SC",
+  "results": {
+    "2013": {
+      "poll_date": "14 February 2013",
+      "counting_date": "28 February 2013",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 45986,
+        "total_votes_polled": 43713,
+        "turnout_percentage": 95.1,
+        "margin_votes": 7190,
+        "margin_percentage": 16.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ratan Bhowmik",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 24947,
+          "votes_percentage": 57.1
+        },
+        {
+          "position": 2,
+          "name": "Rajib Samaddar",
+          "party": "Indian National Congress",
+          "votes": 17757,
+          "votes_percentage": 40.6
+        },
+        {
+          "position": 3,
+          "name": "Rabindra Kumar Das",
+          "party": "Bharatiya Janta Party",
+          "votes": 603,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 4,
+          "name": "Uttam Das",
+          "party": "Nationalist Congress Party",
+          "votes": 406,
+          "votes_percentage": 0.9
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "state": "Jammu & Kashmir",
+  "constituency": "Suran",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1987": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 48100,
+        "total_votes_polled": 38646,
+        "turnout_percentage": 80.4,
+        "margin_votes": 14717,
+        "margin_percentage": 38.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mohd. Aslam",
+          "party": "Indian National Congress",
+          "votes": 26394,
+          "votes_percentage": 68.8
+        },
+        {
+          "position": 2,
+          "name": "Mohd. Ayoub Shabnam",
+          "party": "Independent",
+          "votes": 11677,
+          "votes_percentage": 30.4
+        },
+        {
+          "position": 3,
+          "name": "Kalu Khan",
+          "party": "Independent",
+          "votes": 285,
+          "votes_percentage": 0.7
+        }
+      ]
+    },
+    "1983": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 41728,
+        "total_votes_polled": 29727,
+        "turnout_percentage": 71.2,
+        "margin_votes": 1882,
+        "margin_percentage": 6.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mohammed Aslam",
+          "party": "Indian National Congress",
+          "votes": 14150,
+          "votes_percentage": 48.3
+        },
+        {
+          "position": 2,
+          "name": "Mohammed Sayeed Beig",
+          "party": "Jammu & Kashmir National Conference",
+          "votes": 12268,
+          "votes_percentage": 41.9
+        },
+        {
+          "position": 3,
+          "name": "Mohammed Ayoub Shabnam",
+          "party": "Independent",
+          "votes": 2895,
+          "votes_percentage": 9.9
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 32764,
+        "total_votes_polled": 22554,
+        "turnout_percentage": 68.8,
+        "margin_votes": 2262,
+        "margin_percentage": 10.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mohd. Aslam",
+          "party": "Indian National Congress",
+          "votes": 11608,
+          "votes_percentage": 52.4
+        },
+        {
+          "position": 2,
+          "name": "Mohd. Syed Beg",
+          "party": "Jammu & Kashmir National Conference",
+          "votes": 9346,
+          "votes_percentage": 42.2
+        },
+        {
+          "position": 3,
+          "name": "Mushtaq Ahmed Shah",
+          "party": "Janta Party",
+          "votes": 922,
+          "votes_percentage": 4.2
+        },
+        {
+          "position": 4,
+          "name": "Mohd. Ayub",
+          "party": "Independent",
+          "votes": 153,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Nazir Ahmed",
+          "party": "Independent",
+          "votes": 138,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

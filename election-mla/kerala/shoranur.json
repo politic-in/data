@@ -1,0 +1,57 @@
+{
+  "state": "Kerala",
+  "constituency": "Shoranur",
+  "district": "Palakkad",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "06 April 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 187255,
+        "total_votes_polled": 151233,
+        "turnout_percentage": 81.1,
+        "margin_votes": 36674,
+        "margin_percentage": 24.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "P. Mammikutty",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 74400,
+          "votes_percentage": 49.2
+        },
+        {
+          "position": 2,
+          "name": "Firoz Babu.T.H",
+          "party": "Indian National Congress",
+          "votes": 37726,
+          "votes_percentage": 25.0
+        },
+        {
+          "position": 3,
+          "name": "Sandeep Varier",
+          "party": "Bharatiya Janta Party",
+          "votes": 36973,
+          "votes_percentage": 24.5
+        },
+        {
+          "position": 4,
+          "name": "Muhammad Musthafa",
+          "party": "Social Democratic Party Of India",
+          "votes": 1251,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 5,
+          "name": "Ayyappan Kutty. T.C.",
+          "party": "Bahujan Samaj Party",
+          "votes": 883,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

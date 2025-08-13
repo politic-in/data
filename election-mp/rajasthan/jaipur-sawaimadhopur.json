@@ -1,0 +1,48 @@
+{
+  "state": "Rajasthan",
+  "constituency": "JAIPUR SAWAIMADHOPUR",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 382763,
+        "total_votes_polled": 122770,
+        "turnout_percentage": 32.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ram Karan Joshi",
+          "party": "Indian National Congress",
+          "votes": 66197,
+          "votes_percentage": 53.9
+        },
+        {
+          "position": 2,
+          "name": "Sohan Mal",
+          "party": "Akhil Bharatiya Hindu Mahasabha",
+          "votes": 35338,
+          "votes_percentage": 28.8
+        },
+        {
+          "position": 3,
+          "name": "Ratan Singh",
+          "party": "Krishikar Lok Party",
+          "votes": 13741,
+          "votes_percentage": 11.2
+        },
+        {
+          "position": 4,
+          "name": "Sarda Bai",
+          "party": "Independent",
+          "votes": 7494,
+          "votes_percentage": 6.1
+        }
+      ]
+    }
+  }
+}

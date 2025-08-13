@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 49113,
+        "male": 51535,
+        "percentage_of_total_population": 9.86,
+        "percentage_of_total_population_calculated": 9.86,
+        "percentage_of_total_population_stated": 9.86,
+        "sex_ratio": 953,
+        "total": 100648
+    },
+    "literacy": {
+        "female_literacy_rate": 54.92,
+        "female_literate": 252322,
+        "male_literacy_rate": 67.93,
+        "male_literate": 312957,
+        "rate_percentage": 61.43,
+        "total_literate": 565279
+    },
+    "population": {
+        "female": 508560,
+        "male": 512231,
+        "sex_ratio": 993,
+        "total": 1020791
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.48,
+            "population": 4872
+        },
+        "Christian": {
+            "percentage": 2.17,
+            "population": 22183
+        },
+        "Hindu": {
+            "percentage": 92.29,
+            "population": 942071
+        },
+        "Jain": {
+            "percentage": 0.07,
+            "population": 761
+        },
+        "Muslims": {
+            "percentage": 4.62,
+            "population": 47210
+        },
+        "Not Stated": {
+            "percentage": 0.33,
+            "population": 3418
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 140
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 136
+        }
+    },
+    "rural": {
+        "child_population_female": 40322,
+        "child_population_male": 42281,
+        "child_population_percentage": 9.77,
+        "child_population_percentage_calculated": 9.77,
+        "child_population_percentage_stated": 9.77,
+        "child_population_total": 82603,
+        "child_sex_ratio": 954,
+        "female": 420933,
+        "literacy_rate_female": 51.06,
+        "literacy_rate_male": 64.8,
+        "literacy_rate_percentage": 57.95,
+        "literate_female": 194351,
+        "literate_male": 247909,
+        "literate_total": 442260,
+        "male": 424884,
+        "percentage_population": 82.86,
+        "population": 845817,
+        "sex_ratio": 991
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/248-chamarajanagar.html",
+    "urban": {
+        "child_population_female": 8797,
+        "child_population_male": 9248,
+        "child_population_percentage": 10.31,
+        "child_population_percentage_calculated": 10.31,
+        "child_population_percentage_stated": 10.31,
+        "child_population_total": 18045,
+        "child_sex_ratio": 951,
+        "female": 87627,
+        "literacy_rate_female": 73.54,
+        "literacy_rate_male": 83.29,
+        "literacy_rate_percentage": 78.39,
+        "literate_female": 57971,
+        "literate_male": 65048,
+        "literate_total": 123019,
+        "male": 87347,
+        "percentage_population": 17.14,
+        "population": 174974,
+        "sex_ratio": 1003
+    }
+}

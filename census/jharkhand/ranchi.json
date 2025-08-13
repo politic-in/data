@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 194189,
+        "male": 207025,
+        "percentage_of_total_population": 13.77,
+        "percentage_of_total_population_calculated": 13.77,
+        "percentage_of_total_population_stated": 13.77,
+        "sex_ratio": 938,
+        "total": 401214
+    },
+    "literacy": {
+        "female_literacy_rate": 67.44,
+        "female_literate": 826189,
+        "male_literacy_rate": 84.26,
+        "male_literate": 1085244,
+        "rate_percentage": 76.06,
+        "total_literate": 1911433
+    },
+    "population": {
+        "female": 1419316,
+        "male": 1494937,
+        "sex_ratio": 949,
+        "total": 2914253
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.03,
+            "population": 932
+        },
+        "Christian": {
+            "percentage": 6.66,
+            "population": 193974
+        },
+        "Hindu": {
+            "percentage": 55.32,
+            "population": 1612239
+        },
+        "Jain": {
+            "percentage": 0.09,
+            "population": 2733
+        },
+        "Muslims": {
+            "percentage": 14.09,
+            "population": 410759
+        },
+        "Not Stated": {
+            "percentage": 0.39,
+            "population": 11345
+        },
+        "Others": {
+            "percentage": 23.25,
+            "population": 677445
+        },
+        "Sikh": {
+            "percentage": 0.17,
+            "population": 4826
+        }
+    },
+    "rural": {
+        "child_population_female": 122845,
+        "child_population_male": 127908,
+        "child_population_percentage": 15.13,
+        "child_population_percentage_calculated": 15.13,
+        "child_population_percentage_stated": 15.13,
+        "child_population_total": 250753,
+        "child_sex_ratio": 960,
+        "female": 816390,
+        "literacy_rate_female": 56.68,
+        "literacy_rate_male": 78.63,
+        "literacy_rate_percentage": 67.81,
+        "literate_female": 393120,
+        "literate_male": 560352,
+        "literate_total": 953472,
+        "male": 840528,
+        "percentage_population": 56.86,
+        "population": 1656918,
+        "sex_ratio": 971
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/113-ranchi.html",
+    "urban": {
+        "child_population_female": 71340,
+        "child_population_male": 79121,
+        "child_population_percentage": 11.97,
+        "child_population_percentage_calculated": 11.97,
+        "child_population_percentage_stated": 11.97,
+        "child_population_total": 150461,
+        "child_sex_ratio": 902,
+        "female": 602926,
+        "literacy_rate_female": 81.47,
+        "literacy_rate_male": 91.24,
+        "literacy_rate_percentage": 86.55,
+        "literate_female": 433069,
+        "literate_male": 524892,
+        "literate_total": 957961,
+        "male": 654409,
+        "percentage_population": 43.14,
+        "population": 1257335,
+        "sex_ratio": 921
+    }
+}

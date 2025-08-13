@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 30580,
+        "male": 31267,
+        "percentage_of_total_population": 14.02,
+        "percentage_of_total_population_calculated": 14.02,
+        "percentage_of_total_population_stated": 14.02,
+        "sex_ratio": 978,
+        "total": 61847
+    },
+    "literacy": {
+        "female_literacy_rate": 59.79,
+        "female_literate": 112964,
+        "male_literacy_rate": 83.34,
+        "male_literate": 158648,
+        "rate_percentage": 71.61,
+        "total_literate": 271612
+    },
+    "population": {
+        "female": 219537,
+        "male": 221625,
+        "sex_ratio": 991,
+        "total": 441162
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.0,
+            "population": 5
+        },
+        "Christian": {
+            "percentage": 0.12,
+            "population": 522
+        },
+        "Hindu": {
+            "percentage": 99.32,
+            "population": 438152
+        },
+        "Jain": {
+            "percentage": 0.0,
+            "population": 11
+        },
+        "Muslims": {
+            "percentage": 0.23,
+            "population": 1007
+        },
+        "Not Stated": {
+            "percentage": 0.33,
+            "population": 1434
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 7
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 24
+        }
+    },
+    "rural": {
+        "child_population_female": 29553,
+        "child_population_male": 30184,
+        "child_population_percentage": 14.2,
+        "child_population_percentage_calculated": 14.2,
+        "child_population_percentage_stated": 14.2,
+        "child_population_total": 59737,
+        "child_sex_ratio": 979,
+        "female": 209605,
+        "literacy_rate_female": 58.79,
+        "literacy_rate_male": 82.82,
+        "literacy_rate_percentage": 70.84,
+        "literate_female": 105852,
+        "literate_male": 149864,
+        "literate_total": 255716,
+        "male": 211133,
+        "percentage_population": 95.37,
+        "population": 420738,
+        "sex_ratio": 993
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/415-baudh.html",
+    "urban": {
+        "child_population_female": 1034,
+        "child_population_male": 1076,
+        "child_population_percentage": 10.33,
+        "child_population_percentage_calculated": 10.33,
+        "child_population_percentage_stated": 10.33,
+        "child_population_total": 2110,
+        "child_sex_ratio": 961,
+        "female": 9932,
+        "literacy_rate_female": 79.93,
+        "literacy_rate_male": 93.29,
+        "literacy_rate_percentage": 86.8,
+        "literate_female": 7112,
+        "literate_male": 8784,
+        "literate_total": 15896,
+        "male": 10492,
+        "percentage_population": 4.63,
+        "population": 20424,
+        "sex_ratio": 947
+    }
+}

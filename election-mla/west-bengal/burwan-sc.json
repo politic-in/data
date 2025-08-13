@@ -1,0 +1,64 @@
+{
+  "state": "West Bengal",
+  "constituency": "BURWAN (SC)",
+  "district": "Murshidabad",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 192306,
+        "total_votes_polled": 148260,
+        "turnout_percentage": 78.8,
+        "margin_votes": 15002,
+        "margin_percentage": 10.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Protima Rajak",
+          "party": "Indian National Congress",
+          "votes": 55906,
+          "votes_percentage": 37.7
+        },
+        {
+          "position": 2,
+          "name": "Shasthi Charan Mal",
+          "party": "All India Trinamool Congress",
+          "votes": 40904,
+          "votes_percentage": 27.6
+        },
+        {
+          "position": 3,
+          "name": "Binoy Sarkar",
+          "party": "Revolutionary Socialist Party",
+          "votes": 33040,
+          "votes_percentage": 22.3
+        },
+        {
+          "position": 4,
+          "name": "Amiya Kumar Das",
+          "party": "Bharatiya Janta Party",
+          "votes": 15440,
+          "votes_percentage": 10.4
+        },
+        {
+          "position": 5,
+          "name": "Ranjit Das",
+          "party": "Samajwadi Party",
+          "votes": 1876,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 6,
+          "name": "Jata Sankar Thandar",
+          "party": "Independent",
+          "votes": 1094,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

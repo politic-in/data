@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 272699,
+        "male": 315260,
+        "percentage_of_total_population": 16.0,
+        "percentage_of_total_population_calculated": 16.0,
+        "percentage_of_total_population_stated": 16.0,
+        "sex_ratio": 865,
+        "total": 587959
+    },
+    "literacy": {
+        "female_literacy_rate": 56.25,
+        "female_literate": 822647,
+        "male_literacy_rate": 83.75,
+        "male_literate": 1359829,
+        "rate_percentage": 70.72,
+        "total_literate": 2182476
+    },
+    "population": {
+        "female": 1735153,
+        "male": 1939026,
+        "sex_ratio": 895,
+        "total": 3674179
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.12,
+            "population": 4384
+        },
+        "Christian": {
+            "percentage": 0.07,
+            "population": 2696
+        },
+        "Hindu": {
+            "percentage": 82.72,
+            "population": 3039279
+        },
+        "Jain": {
+            "percentage": 0.36,
+            "population": 13221
+        },
+        "Muslims": {
+            "percentage": 14.9,
+            "population": 547335
+        },
+        "Not Stated": {
+            "percentage": 0.06,
+            "population": 2384
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 348
+        },
+        "Sikh": {
+            "percentage": 1.76,
+            "population": 64532
+        }
+    },
+    "rural": {
+        "child_population_female": 233421,
+        "child_population_male": 269105,
+        "child_population_percentage": 16.64,
+        "child_population_percentage_calculated": 16.64,
+        "child_population_percentage_stated": 16.64,
+        "child_population_total": 502526,
+        "child_sex_ratio": 867,
+        "female": 1430220,
+        "literacy_rate_female": 52.16,
+        "literacy_rate_male": 82.08,
+        "literacy_rate_percentage": 67.85,
+        "literate_female": 624268,
+        "literate_male": 1083730,
+        "literate_total": 1707998,
+        "male": 1589508,
+        "percentage_population": 82.19,
+        "population": 3019728,
+        "sex_ratio": 900
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/429-alwar.html",
+    "urban": {
+        "child_population_female": 39268,
+        "child_population_male": 46165,
+        "child_population_percentage": 13.05,
+        "child_population_percentage_calculated": 13.05,
+        "child_population_percentage_stated": 13.05,
+        "child_population_total": 85433,
+        "child_sex_ratio": 851,
+        "female": 304933,
+        "literacy_rate_female": 74.67,
+        "literacy_rate_male": 91.02,
+        "literacy_rate_percentage": 83.39,
+        "literate_female": 198379,
+        "literate_male": 276099,
+        "literate_total": 474478,
+        "male": 349518,
+        "percentage_population": 17.81,
+        "population": 654451,
+        "sex_ratio": 872
+    }
+}

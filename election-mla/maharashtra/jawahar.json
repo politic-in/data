@@ -1,0 +1,43 @@
+{
+  "state": "Maharashtra",
+  "constituency": "Jawahar",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 118765,
+        "total_votes_polled": 54496,
+        "turnout_percentage": 45.9,
+        "margin_votes": 6582,
+        "margin_percentage": 12.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kom Lahanu Shidwa",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 25671,
+          "votes_percentage": 49.3
+        },
+        {
+          "position": 2,
+          "name": "Kirkira Tryambak Dhakal",
+          "party": "Indian National Congress (I)",
+          "votes": 19089,
+          "votes_percentage": 36.7
+        },
+        {
+          "position": 3,
+          "name": "Patil Sakharam Ramji",
+          "party": "Bharatiya Janta Party",
+          "votes": 7308,
+          "votes_percentage": 14.0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "state": "Tripura",
+  "year": "1998",
+  "summary_stats": {
+    "total_electors_state": 1727463,
+    "total_votes_polled_state": 1396760,
+    "turnout_percentage_state": 80.9,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Tripura East",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Tripura",
+      "winning_candidate": "Baju Ban Riyan",
+      "winning_party": "Communist Party Of India (MARXIST)",
+      "total_electors_ac": 822682,
+      "total_votes_ac": 651186,
+      "poll_percentage_ac": 0.0,
+      "margin": 72686,
+      "margin_percentage": 11.2,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1998/tripura/tripura-east/5958/25/12"
+    },
+    {
+      "ac_name": "Tripura West",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Tripura",
+      "winning_candidate": "Samar Choudhury",
+      "winning_party": "Communist Party Of India (MARXIST)",
+      "total_electors_ac": 904781,
+      "total_votes_ac": 745574,
+      "poll_percentage_ac": 0.0,
+      "margin": 18876,
+      "margin_percentage": 2.5,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1998/tripura/tripura-west/5957/25/12"
+    }
+  ]
+}

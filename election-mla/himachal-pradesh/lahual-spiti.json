@@ -1,0 +1,64 @@
+{
+  "state": "Himachal Pradesh",
+  "constituency": "Lahual & Spiti",
+  "district": "Lahul & Spiti",
+  "ac_type": "ST",
+  "results": {
+    "2012": {
+      "poll_date": "",
+      "counting_date": "20 December 2012",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 22344,
+        "total_votes_polled": 16885,
+        "turnout_percentage": 75.6,
+        "margin_votes": 3696,
+        "margin_percentage": 21.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ravi Thakur",
+          "party": "Indian National Congress",
+          "votes": 10187,
+          "votes_percentage": 60.3
+        },
+        {
+          "position": 2,
+          "name": "Dr Ram Lal Markanda",
+          "party": "Bharatiya Janta Party",
+          "votes": 6491,
+          "votes_percentage": 38.4
+        },
+        {
+          "position": 3,
+          "name": "Baldev Singh",
+          "party": "All India Trinamool Congress",
+          "votes": 77,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 4,
+          "name": "Shamsher Singh",
+          "party": "Independent",
+          "votes": 57,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 5,
+          "name": "Vijay",
+          "party": "Bahujan Samaj Party",
+          "votes": 54,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 6,
+          "name": "Gurdass",
+          "party": "Lok Jan Shakti Party",
+          "votes": 19,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

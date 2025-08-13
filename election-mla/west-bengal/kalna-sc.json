@@ -1,0 +1,57 @@
+{
+  "state": "West Bengal",
+  "constituency": "KALNA (SC)",
+  "district": "Barddhaman",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 219319,
+        "total_votes_polled": 190764,
+        "turnout_percentage": 88.3,
+        "margin_votes": 25261,
+        "margin_percentage": 13.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kundu Biswajit",
+          "party": "All India Trinamool Congress",
+          "votes": 97430,
+          "votes_percentage": 51.1
+        },
+        {
+          "position": 2,
+          "name": "Sukul Chandra Sikdar",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 72169,
+          "votes_percentage": 37.8
+        },
+        {
+          "position": 3,
+          "name": "Newton Majumdar",
+          "party": "Bharatiya Janta Party",
+          "votes": 17577,
+          "votes_percentage": 9.2
+        },
+        {
+          "position": 4,
+          "name": "Radhesyam Mandal",
+          "party": "Bahujan Samaj Party",
+          "votes": 1976,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Pejush Kumar Sahana",
+          "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+          "votes": 1612,
+          "votes_percentage": 0.9
+        }
+      ]
+    }
+  }
+}

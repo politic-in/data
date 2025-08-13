@@ -1,0 +1,50 @@
+{
+  "state": "Nagaland",
+  "constituency": "SHAMATORCHESSORE",
+  "district": "Tuensang",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 17286,
+        "total_votes_polled": 14914,
+        "turnout_percentage": 86.6,
+        "margin_votes": 307,
+        "margin_percentage": 2.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Toshi Wungtung",
+          "party": "Nationalist Democratic Progressive Party",
+          "votes": 4311,
+          "votes_percentage": 28.9
+        },
+        {
+          "position": 2,
+          "name": "R. Tohanba",
+          "party": "Naga Peoples Front",
+          "votes": 4004,
+          "votes_percentage": 26.8
+        },
+        {
+          "position": 3,
+          "name": "H. Mukam",
+          "party": "Janata Dal (United)",
+          "votes": 3654,
+          "votes_percentage": 24.5
+        },
+        {
+          "position": 4,
+          "name": "K. Yimso Yimchunger",
+          "party": "National People's Party",
+          "votes": 2945,
+          "votes_percentage": 19.7
+        }
+      ]
+    }
+  }
+}

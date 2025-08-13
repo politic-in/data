@@ -1,0 +1,143 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "PANDAUL",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2005": {
+      "poll_date": "16 November 2005",
+      "counting_date": "21 November 2005",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 210582,
+        "total_votes_polled": 88065,
+        "turnout_percentage": 41.8,
+        "total_valid_votes": 88065,
+        "total_valid_votes_percentage": 41.8,
+        "margin_votes": 3311,
+        "margin_percentage": 3.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Vinod Narayan Jha",
+          "party": "Bharatiya Janta Party",
+          "votes": 33552,
+          "votes_percentage": 38.1
+        },
+        {
+          "position": 2,
+          "name": "Naiyar Azam",
+          "party": "Rashtriya Janata Dal",
+          "votes": 30241,
+          "votes_percentage": 34.3
+        },
+        {
+          "position": 3,
+          "name": "Devendra Prasad Singh",
+          "party": "Lok Jan Shakti Party",
+          "votes": 14902,
+          "votes_percentage": 16.9
+        },
+        {
+          "position": 4,
+          "name": "Aghanoo Yadav",
+          "party": "Samajwadi Party",
+          "votes": 5504,
+          "votes_percentage": 6.3
+        },
+        {
+          "position": 5,
+          "name": "Binay Kumar Jha",
+          "party": "Bahujan Samaj Party",
+          "votes": 3866,
+          "votes_percentage": 4.4
+        }
+      ]
+    },
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 191447,
+        "total_votes_polled": 131444,
+        "turnout_percentage": 68.7,
+        "margin_votes": 22098,
+        "margin_percentage": 16.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Naiyar Azam",
+          "party": "Rashtriya Janata Dal",
+          "votes": 57674,
+          "votes_percentage": 44.4
+        },
+        {
+          "position": 2,
+          "name": "Devendra Prasad Singh",
+          "party": "Bihar People's Party",
+          "votes": 35576,
+          "votes_percentage": 27.4
+        },
+        {
+          "position": 3,
+          "name": "Kumud Ranjan Jha",
+          "party": "Indian National Congress",
+          "votes": 20764,
+          "votes_percentage": 16.0
+        },
+        {
+          "position": 4,
+          "name": "Shyamanand Yadav",
+          "party": "Independent",
+          "votes": 10393,
+          "votes_percentage": 8.0
+        },
+        {
+          "position": 5,
+          "name": "Kapaleshwar Yadav",
+          "party": "Independent",
+          "votes": 1354,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Utim Paswan",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 1265,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 7,
+          "name": "Permeshwar Mahto",
+          "party": "Bahujan Samaj Party",
+          "votes": 1096,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 8,
+          "name": "Pawas Kumar Paswan",
+          "party": "Nationalist Congress Party",
+          "votes": 1083,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 9,
+          "name": "Abhesh Chandra Jha",
+          "party": "Bhartiya Jana Congress (Rashtriya)",
+          "votes": 394,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Mannu Mochi",
+          "party": "Independent",
+          "votes": 286,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

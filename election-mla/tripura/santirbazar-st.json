@@ -1,0 +1,50 @@
+{
+  "state": "Tripura",
+  "constituency": "Santirbazar (ST)",
+  "district": "South Tripura",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 45465,
+        "total_votes_polled": 41812,
+        "turnout_percentage": 93.2,
+        "margin_votes": 2349,
+        "margin_percentage": 5.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pramod Reang",
+          "party": "Bharatiya Janta Party",
+          "votes": 21701,
+          "votes_percentage": 51.9
+        },
+        {
+          "position": 2,
+          "name": "Manindra Reang",
+          "party": "Communist Party Of India",
+          "votes": 19352,
+          "votes_percentage": 46.3
+        },
+        {
+          "position": 4,
+          "name": "Baneti Reang",
+          "party": "Indian National Congress",
+          "votes": 446,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Milan Pada Murasing",
+          "party": "Independent",
+          "votes": 313,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

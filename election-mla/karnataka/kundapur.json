@@ -1,0 +1,113 @@
+{
+  "state": "Karnataka",
+  "constituency": "Kundapur",
+  "district": "Udupi",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "12 May 2018",
+      "counting_date": "11 June 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 197061,
+        "total_votes_polled": 156831,
+        "turnout_percentage": 80.5,
+        "margin_votes": 56405,
+        "margin_percentage": 36.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Halady Srinivas Shetty",
+          "party": "Bharatiya Janta Party",
+          "votes": 103434,
+          "votes_percentage": 66.0
+        },
+        {
+          "position": 2,
+          "name": "Rakesh Malli",
+          "party": "Indian National Congress",
+          "votes": 47029,
+          "votes_percentage": 30.0
+        },
+        {
+          "position": 3,
+          "name": "Thekkatte Prakash Shetty",
+          "party": "Janata Dal (Secular)",
+          "votes": 2712,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 4,
+          "name": "Rajiv Kotian",
+          "party": "Janata Dal (United)",
+          "votes": 2628,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 5,
+          "name": "Sudhakara Soorgoli",
+          "party": "Republican Party Of India (A)",
+          "votes": 1028,
+          "votes_percentage": 0.7
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "05 May 2013",
+      "counting_date": "08 May 2013",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 181890,
+        "total_votes_polled": 138983,
+        "turnout_percentage": 76.4,
+        "margin_votes": 40611,
+        "margin_percentage": 29.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Halady Srinivasa Shetty",
+          "party": "Independent",
+          "votes": 80563,
+          "votes_percentage": 58.0
+        },
+        {
+          "position": 2,
+          "name": "Mallyadi Shivarama Shetty",
+          "party": "Indian National Congress",
+          "votes": 39952,
+          "votes_percentage": 28.8
+        },
+        {
+          "position": 3,
+          "name": "Kishore Kumar",
+          "party": "Bharatiya Janta Party",
+          "votes": 14524,
+          "votes_percentage": 10.5
+        },
+        {
+          "position": 4,
+          "name": "Srinivasa.H",
+          "party": "Independent",
+          "votes": 2442,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 5,
+          "name": "Manjunath",
+          "party": "Independent",
+          "votes": 764,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Krishna Barathcal",
+          "party": "Janata Dal (United)",
+          "votes": 738,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

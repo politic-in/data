@@ -1,0 +1,50 @@
+{
+  "state": "Tamil Nadu",
+  "constituency": "CHINGLEPUT",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 580796,
+        "total_votes_polled": 433934,
+        "turnout_percentage": 74.7,
+        "margin_votes": 118756,
+        "margin_percentage": 27.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "C. Chittibabu",
+          "party": "Dravida Munetra Kazhagam",
+          "votes": 251687,
+          "votes_percentage": 58.0
+        },
+        {
+          "position": 2,
+          "name": "P. M. Muthukumarappa",
+          "party": "Indian National Congress (ORGANISATION)",
+          "votes": 132931,
+          "votes_percentage": 30.6
+        },
+        {
+          "position": 3,
+          "name": "S. Balakrishnan",
+          "party": "Independent",
+          "votes": 26291,
+          "votes_percentage": 6.1
+        },
+        {
+          "position": 4,
+          "name": "R. Natesa Goundes",
+          "party": "Independent",
+          "votes": 8453,
+          "votes_percentage": 1.9
+        }
+      ]
+    }
+  }
+}

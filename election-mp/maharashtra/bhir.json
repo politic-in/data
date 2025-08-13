@@ -1,0 +1,127 @@
+{
+  "state": "Maharashtra",
+  "constituency": "BHIR",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 570905,
+        "total_votes_polled": 279818,
+        "turnout_percentage": 49.0,
+        "margin_votes": 154581,
+        "margin_percentage": 55.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pandit Sayajirao Trimbakrao",
+          "party": "Indian National Congress",
+          "votes": 187132,
+          "votes_percentage": 66.9
+        },
+        {
+          "position": 2,
+          "name": "Burande Gangadhar Maharudra",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 32551,
+          "votes_percentage": 11.6
+        },
+        {
+          "position": 3,
+          "name": "Kashinath Tatyaba Jadhav",
+          "party": "Communist Party Of India",
+          "votes": 22787,
+          "votes_percentage": 8.1
+        },
+        {
+          "position": 4,
+          "name": "Rajpalsinha Sahebsinha",
+          "party": "Bhartiya Jan Sangh",
+          "votes": 14242,
+          "votes_percentage": 5.1
+        },
+        {
+          "position": 5,
+          "name": "Bankat Meghrao Kande",
+          "party": "Indian National Congress (ORGANISATION)",
+          "votes": 11155,
+          "votes_percentage": 4.0
+        },
+        {
+          "position": 6,
+          "name": "Ramchandra Santram More",
+          "party": "Republican Party Of India (KHOBRAGADE)",
+          "votes": 1406,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 530388,
+        "total_votes_polled": 277616,
+        "turnout_percentage": 52.3,
+        "margin_votes": 14097,
+        "margin_percentage": 5.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "N. R. Patil",
+          "party": "Communist Party Of India",
+          "votes": 125216,
+          "votes_percentage": 45.1
+        },
+        {
+          "position": 2,
+          "name": "D. M. Mantri",
+          "party": "Indian National Congress",
+          "votes": 111119,
+          "votes_percentage": 40.0
+        },
+        {
+          "position": 3,
+          "name": "N. K. Mandhane",
+          "party": "Bhartiya Jan Sangh",
+          "votes": 25033,
+          "votes_percentage": 9.0
+        }
+      ]
+    },
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 435591,
+        "total_votes_polled": 180582,
+        "turnout_percentage": 41.5,
+        "margin_votes": 20529,
+        "margin_percentage": 11.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dwarkadasji Motilalji",
+          "party": "Indian National Congress",
+          "votes": 95700,
+          "votes_percentage": 53.0
+        },
+        {
+          "position": 2,
+          "name": "Babar Ahmad Husain Athar",
+          "party": "Communist Party Of India",
+          "votes": 75171,
+          "votes_percentage": 41.6
+        }
+      ]
+    }
+  }
+}

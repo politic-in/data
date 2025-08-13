@@ -1,0 +1,150 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "Alauli",
+  "district": "Khagaria",
+  "ac_type": "SC",
+  "results": {
+    "2010": {
+      "poll_date": "24 October 2010",
+      "counting_date": "24 November 2010",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 195125,
+        "total_votes_polled": 108355,
+        "turnout_percentage": 55.5,
+        "margin_votes": 17523,
+        "margin_percentage": 16.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ram Chandra Sada",
+          "party": "Janata Dal (United)",
+          "votes": 53775,
+          "votes_percentage": 49.6
+        },
+        {
+          "position": 2,
+          "name": "Pashupati Kumar Paras",
+          "party": "Lok Jan Shakti Party",
+          "votes": 36252,
+          "votes_percentage": 33.5
+        },
+        {
+          "position": 3,
+          "name": "Hans Kumar",
+          "party": "Shiv Sena",
+          "votes": 4017,
+          "votes_percentage": 3.7
+        },
+        {
+          "position": 4,
+          "name": "Dasharath Ram",
+          "party": "Bahujan Samaj Party",
+          "votes": 3878,
+          "votes_percentage": 3.6
+        },
+        {
+          "position": 5,
+          "name": "Rajesh Kumar Sada",
+          "party": "Indian National Congress",
+          "votes": 3594,
+          "votes_percentage": 3.3
+        },
+        {
+          "position": 6,
+          "name": "Borhan Sada",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 2885,
+          "votes_percentage": 2.7
+        },
+        {
+          "position": 7,
+          "name": "Shushila Devi",
+          "party": "Independent",
+          "votes": 2792,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 8,
+          "name": "Sanjay Ram",
+          "party": "Samajwadi Party",
+          "votes": 1162,
+          "votes_percentage": 1.1
+        }
+      ]
+    },
+    "2005": {
+      "poll_date": "26 October 2005",
+      "counting_date": "21 November 2005",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 192525,
+        "total_votes_polled": 87423,
+        "turnout_percentage": 45.4,
+        "total_valid_votes": 87423,
+        "total_valid_votes_percentage": 45.4,
+        "margin_votes": 8577,
+        "margin_percentage": 9.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pashupati Kumar Paras",
+          "party": "Lok Jan Shakti Party",
+          "votes": 40870,
+          "votes_percentage": 46.8
+        },
+        {
+          "position": 2,
+          "name": "Rambriksha Sada",
+          "party": "Rashtriya Janata Dal",
+          "votes": 32293,
+          "votes_percentage": 36.9
+        },
+        {
+          "position": 3,
+          "name": "Raj Kumari",
+          "party": "Janata Dal (United)",
+          "votes": 14260,
+          "votes_percentage": 16.3
+        }
+      ]
+    },
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 155570,
+        "total_votes_polled": 105475,
+        "turnout_percentage": 67.8,
+        "margin_votes": 4686,
+        "margin_percentage": 4.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pashupati Kumar Paras",
+          "party": "Janata Dal (United)",
+          "votes": 52740,
+          "votes_percentage": 51.2
+        },
+        {
+          "position": 2,
+          "name": "Ram Briksh Sada",
+          "party": "Rashtriya Janata Dal",
+          "votes": 48054,
+          "votes_percentage": 46.7
+        },
+        {
+          "position": 3,
+          "name": "Bidya Nand Das",
+          "party": "Indian National Congress",
+          "votes": 2226,
+          "votes_percentage": 2.2
+        }
+      ]
+    }
+  }
+}

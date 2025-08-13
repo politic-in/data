@@ -1,0 +1,55 @@
+{
+  "state": "Punjab",
+  "constituency": "NAWAN SHAHR",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 398321,
+        "total_votes_polled": 250375,
+        "turnout_percentage": 62.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Baldev Singh",
+          "party": "Indian National Congress",
+          "votes": 116109,
+          "votes_percentage": 46.4
+        },
+        {
+          "position": 2,
+          "name": "Har Kishan Singh",
+          "party": "Communist Party Of India",
+          "votes": 73448,
+          "votes_percentage": 29.3
+        },
+        {
+          "position": 3,
+          "name": "Watan Singh",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 33766,
+          "votes_percentage": 13.5
+        },
+        {
+          "position": 4,
+          "name": "Devki Nandan",
+          "party": "Socialist Party",
+          "votes": 15772,
+          "votes_percentage": 6.3
+        },
+        {
+          "position": 5,
+          "name": "Kapur Singh",
+          "party": "Independent",
+          "votes": 11280,
+          "votes_percentage": 4.5
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "MARODABAD",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 410817,
+        "total_votes_polled": 250736,
+        "turnout_percentage": 61.0,
+        "margin_votes": 12033,
+        "margin_percentage": 4.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Muzaffar",
+          "party": "Republican Party",
+          "votes": 69171,
+          "votes_percentage": 27.6
+        },
+        {
+          "position": 2,
+          "name": "Brij Bhusan Saran Bansal",
+          "party": "Jan Sangh",
+          "votes": 57138,
+          "votes_percentage": 22.8
+        },
+        {
+          "position": 3,
+          "name": "Ram Saran",
+          "party": "Indian National Congress",
+          "votes": 55874,
+          "votes_percentage": 22.3
+        },
+        {
+          "position": 4,
+          "name": "Ram Rakshpal",
+          "party": "Swatantra",
+          "votes": 22690,
+          "votes_percentage": 9.0
+        },
+        {
+          "position": 5,
+          "name": "Buddhi Singh",
+          "party": "Praja Socialist Party",
+          "votes": 22440,
+          "votes_percentage": 8.9
+        },
+        {
+          "position": 6,
+          "name": "Khaliq Ahmad",
+          "party": "Independent",
+          "votes": 9242,
+          "votes_percentage": 3.7
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 107827,
+        "male": 111622,
+        "percentage_of_total_population": 16.61,
+        "percentage_of_total_population_calculated": 16.61,
+        "percentage_of_total_population_stated": 16.61,
+        "sex_ratio": 966,
+        "total": 219449
+    },
+    "literacy": {
+        "female_literacy_rate": 48.82,
+        "female_literate": 266134,
+        "male_literacy_rate": 72.96,
+        "male_literate": 406275,
+        "rate_percentage": 61.02,
+        "total_literate": 672409
+    },
+    "population": {
+        "female": 652928,
+        "male": 668514,
+        "sex_ratio": 977,
+        "total": 1321442
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 267
+        },
+        "Christian": {
+            "percentage": 6.54,
+            "population": 86404
+        },
+        "Hindu": {
+            "percentage": 79.06,
+            "population": 1044726
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 162
+        },
+        "Muslims": {
+            "percentage": 8.09,
+            "population": 106865
+        },
+        "Not Stated": {
+            "percentage": 0.31,
+            "population": 4162
+        },
+        "Others": {
+            "percentage": 5.95,
+            "population": 78622
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 234
+        }
+    },
+    "rural": {
+        "child_population_female": 102234,
+        "child_population_male": 105570,
+        "child_population_percentage": 16.88,
+        "child_population_percentage_calculated": 16.88,
+        "child_population_percentage_stated": 16.88,
+        "child_population_total": 207804,
+        "child_sex_ratio": 968,
+        "female": 610336,
+        "literacy_rate_female": 46.72,
+        "literacy_rate_male": 71.65,
+        "literacy_rate_percentage": 59.28,
+        "literate_female": 237399,
+        "literate_male": 369261,
+        "literate_total": 606660,
+        "male": 620928,
+        "percentage_population": 93.18,
+        "population": 1231264,
+        "sex_ratio": 983
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/97-dumka.html",
+    "urban": {
+        "child_population_female": 5574,
+        "child_population_male": 6071,
+        "child_population_percentage": 12.91,
+        "child_population_percentage_calculated": 12.91,
+        "child_population_percentage_stated": 12.91,
+        "child_population_total": 11645,
+        "child_sex_ratio": 918,
+        "female": 42592,
+        "literacy_rate_female": 77.62,
+        "literacy_rate_male": 89.16,
+        "literacy_rate_percentage": 83.72,
+        "literate_female": 28735,
+        "literate_male": 37014,
+        "literate_total": 65749,
+        "male": 47586,
+        "percentage_population": 6.82,
+        "population": 90178,
+        "sex_ratio": 895
+    }
+}

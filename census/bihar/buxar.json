@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 142528,
+        "male": 152599,
+        "percentage_of_total_population": 17.3,
+        "percentage_of_total_population_calculated": 17.3,
+        "percentage_of_total_population_stated": 17.3,
+        "sex_ratio": 934,
+        "total": 295127
+    },
+    "literacy": {
+        "female_literacy_rate": 58.63,
+        "female_literate": 396263,
+        "male_literacy_rate": 80.72,
+        "male_literate": 593544,
+        "rate_percentage": 70.14,
+        "total_literate": 989807
+    },
+    "population": {
+        "female": 818375,
+        "male": 887977,
+        "sex_ratio": 922,
+        "total": 1706352
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.3,
+            "population": 5090
+        },
+        "Christian": {
+            "percentage": 0.12,
+            "population": 2125
+        },
+        "Hindu": {
+            "percentage": 93.27,
+            "population": 1591454
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 97
+        },
+        "Muslims": {
+            "percentage": 6.18,
+            "population": 105423
+        },
+        "Not Stated": {
+            "percentage": 0.11,
+            "population": 1858
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 57
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 248
+        }
+    },
+    "rural": {
+        "child_population_female": 131149,
+        "child_population_male": 140096,
+        "child_population_percentage": 17.59,
+        "child_population_percentage_calculated": 17.59,
+        "child_population_percentage_stated": 17.59,
+        "child_population_total": 271245,
+        "child_sex_ratio": 936,
+        "female": 740767,
+        "literacy_rate_female": 57.1,
+        "literacy_rate_male": 80.2,
+        "literacy_rate_percentage": 69.11,
+        "literate_female": 348097,
+        "literate_male": 530083,
+        "literate_total": 878180,
+        "male": 801086,
+        "percentage_population": 90.36,
+        "population": 1541853,
+        "sex_ratio": 925
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/84-buxar.html",
+    "urban": {
+        "child_population_female": 11352,
+        "child_population_male": 12530,
+        "child_population_percentage": 14.52,
+        "child_population_percentage_calculated": 14.52,
+        "child_population_percentage_stated": 14.52,
+        "child_population_total": 23882,
+        "child_sex_ratio": 906,
+        "female": 77608,
+        "literacy_rate_female": 72.7,
+        "literacy_rate_male": 85.34,
+        "literacy_rate_percentage": 79.38,
+        "literate_female": 48166,
+        "literate_male": 63461,
+        "literate_total": 111627,
+        "male": 86891,
+        "percentage_population": 9.64,
+        "population": 164499,
+        "sex_ratio": 893
+    }
+}

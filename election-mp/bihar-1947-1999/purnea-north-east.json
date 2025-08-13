@@ -1,0 +1,41 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "PURNEA NORTH EAST",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 369596,
+        "total_votes_polled": 120467,
+        "turnout_percentage": 32.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mohammad Islamuddin",
+          "party": "Indian National Congress",
+          "votes": 89754,
+          "votes_percentage": 74.5
+        },
+        {
+          "position": 2,
+          "name": "Krishna Lal Therari",
+          "party": "Independent",
+          "votes": 21405,
+          "votes_percentage": 17.8
+        },
+        {
+          "position": 3,
+          "name": "Bisheswar Das",
+          "party": "Socialist Party",
+          "votes": 9308,
+          "votes_percentage": 7.7
+        }
+      ]
+    }
+  }
+}

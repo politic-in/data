@@ -1,0 +1,64 @@
+{
+  "state": "Jammu & Kashmir",
+  "constituency": "GULABGARH(ST)",
+  "district": "Reasi",
+  "ac_type": "GEN",
+  "results": {
+    "2024": {
+      "poll_date": "08 October 2024",
+      "counting_date": "08 October 2024",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 94682,
+        "total_votes_polled": 69693,
+        "turnout_percentage": 75.5,
+        "margin_votes": 6527,
+        "margin_percentage": 9.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Khurshied Ahmed",
+          "party": "Jammu & Kashmir National Conference",
+          "votes": 30591,
+          "votes_percentage": 42.8
+        },
+        {
+          "position": 2,
+          "name": "Aijaz Ahmad Khan",
+          "party": "Independent",
+          "votes": 24064,
+          "votes_percentage": 33.7
+        },
+        {
+          "position": 3,
+          "name": "Mohd Akram",
+          "party": "Bharatiya Janta Party",
+          "votes": 12215,
+          "votes_percentage": 17.1
+        },
+        {
+          "position": 5,
+          "name": "Mohd Farooq",
+          "party": "Jammu & Kashmir Peoples Democratic Party",
+          "votes": 1688,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 6,
+          "name": "Arshad Ahmed",
+          "party": "Independent",
+          "votes": 775,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 7,
+          "name": "Riaz Ahmed",
+          "party": "All India Forward Bloc",
+          "votes": 360,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

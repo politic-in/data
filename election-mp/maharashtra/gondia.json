@@ -1,0 +1,50 @@
+{
+  "state": "Maharashtra",
+  "constituency": "GONDIA",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 462370,
+        "total_votes_polled": 274773,
+        "turnout_percentage": 59.4,
+        "margin_votes": 10925,
+        "margin_percentage": 4.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Balkrishna Ramchandra Wasnik",
+          "party": "Indian National Congress",
+          "votes": 107524,
+          "votes_percentage": 39.1
+        },
+        {
+          "position": 2,
+          "name": "Bihari Ramji Kamble",
+          "party": "Republican Party",
+          "votes": 96599,
+          "votes_percentage": 35.2
+        },
+        {
+          "position": 3,
+          "name": "Raghunath Lataru Ghadle",
+          "party": "Jan Sangh",
+          "votes": 41688,
+          "votes_percentage": 15.2
+        },
+        {
+          "position": 4,
+          "name": "Tularam Chandrabhan Sakhare",
+          "party": "Independent",
+          "votes": 10581,
+          "votes_percentage": 3.9
+        }
+      ]
+    }
+  }
+}

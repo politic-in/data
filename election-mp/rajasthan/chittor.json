@@ -1,0 +1,41 @@
+{
+  "state": "Rajasthan",
+  "constituency": "CHITTOR",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 405205,
+        "total_votes_polled": 112548,
+        "turnout_percentage": 27.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Umashanker",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 52460,
+          "votes_percentage": 46.6
+        },
+        {
+          "position": 2,
+          "name": "Manak Lal",
+          "party": "Indian National Congress",
+          "votes": 45861,
+          "votes_percentage": 40.7
+        },
+        {
+          "position": 3,
+          "name": "Rajendra Singh",
+          "party": "Socialist Party",
+          "votes": 14227,
+          "votes_percentage": 12.6
+        }
+      ]
+    }
+  }
+}

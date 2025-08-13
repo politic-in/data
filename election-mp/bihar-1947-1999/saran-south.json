@@ -1,0 +1,48 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "SARAN SOUTH",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 276217,
+        "total_votes_polled": 117340,
+        "turnout_percentage": 42.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dwarka Nath Tiwari",
+          "party": "Indian National Congress",
+          "votes": 50277,
+          "votes_percentage": 42.8
+        },
+        {
+          "position": 2,
+          "name": "Rajendra Singh",
+          "party": "Socialist Party",
+          "votes": 31007,
+          "votes_percentage": 26.4
+        },
+        {
+          "position": 3,
+          "name": "Trigunanand Shukla",
+          "party": "Independent",
+          "votes": 21657,
+          "votes_percentage": 18.5
+        },
+        {
+          "position": 4,
+          "name": "Jagarnath Prasad Singh",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 14399,
+          "votes_percentage": 12.3
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "state": "Meghalaya",
+  "year": "1996",
+  "summary_stats": {
+    "total_electors_state": 1092753,
+    "total_votes_polled_state": 673372,
+    "turnout_percentage_state": 61.6,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Shillong",
+      "ac_no": 1,
+      "ac_type": "ST",
+      "district": "Meghalaya",
+      "winning_candidate": "G.Gilbert Swell",
+      "winning_party": "Independent",
+      "total_electors_ac": 682709,
+      "total_votes_ac": 385600,
+      "poll_percentage_ac": 0.0,
+      "margin": 79302,
+      "margin_percentage": 20.6,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1996/meghalaya/shillong/5311/44/11"
+    },
+    {
+      "ac_name": "Tura",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Meghalaya",
+      "winning_candidate": "Purno Agitok Sangma",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 410044,
+      "total_votes_ac": 287772,
+      "poll_percentage_ac": 0.0,
+      "margin": 184790,
+      "margin_percentage": 64.2,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1996/meghalaya/tura/5312/44/11"
+    }
+  ]
+}

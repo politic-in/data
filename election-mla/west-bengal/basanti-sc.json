@@ -1,0 +1,57 @@
+{
+  "state": "West Bengal",
+  "constituency": "BASANTI (SC)",
+  "district": "South  Twenty Four Parganas",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 224293,
+        "total_votes_polled": 177020,
+        "turnout_percentage": 80.9,
+        "margin_votes": 16607,
+        "margin_percentage": 9.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gobinda Chandra Naskar",
+          "party": "All India Trinamool Congress",
+          "votes": 90522,
+          "votes_percentage": 51.1
+        },
+        {
+          "position": 2,
+          "name": "Subhas Naskar",
+          "party": "Revolutionary Socialist Party",
+          "votes": 73915,
+          "votes_percentage": 41.8
+        },
+        {
+          "position": 3,
+          "name": "Pankaj Roy",
+          "party": "Bharatiya Janta Party",
+          "votes": 10373,
+          "votes_percentage": 5.9
+        },
+        {
+          "position": 4,
+          "name": "Himanshu Kayal",
+          "party": "Mulnibasi Party Of India",
+          "votes": 1141,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 5,
+          "name": "Taranga Mondal",
+          "party": "Independent",
+          "votes": 1069,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

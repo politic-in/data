@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 93658,
+        "male": 107530,
+        "percentage_of_total_population": 15.06,
+        "percentage_of_total_population_calculated": 15.06,
+        "percentage_of_total_population_stated": 15.06,
+        "sex_ratio": 871,
+        "total": 201188
+    },
+    "literacy": {
+        "female_literacy_rate": 47.51,
+        "female_literate": 255564,
+        "male_literacy_rate": 81.51,
+        "male_literate": 486184,
+        "rate_percentage": 65.39,
+        "total_literate": 741748
+    },
+    "population": {
+        "female": 631520,
+        "male": 704031,
+        "sex_ratio": 897,
+        "total": 1335551
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 177
+        },
+        "Christian": {
+            "percentage": 0.07,
+            "population": 945
+        },
+        "Hindu": {
+            "percentage": 87.27,
+            "population": 1165505
+        },
+        "Jain": {
+            "percentage": 0.75,
+            "population": 9991
+        },
+        "Muslims": {
+            "percentage": 11.66,
+            "population": 155681
+        },
+        "Not Stated": {
+            "percentage": 0.18,
+            "population": 2398
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 42
+        },
+        "Sikh": {
+            "percentage": 0.06,
+            "population": 812
+        }
+    },
+    "rural": {
+        "child_population_female": 76966,
+        "child_population_male": 88362,
+        "child_population_percentage": 15.46,
+        "child_population_percentage_calculated": 15.46,
+        "child_population_percentage_stated": 15.46,
+        "child_population_total": 165328,
+        "child_sex_ratio": 871,
+        "female": 504492,
+        "literacy_rate_female": 42.43,
+        "literacy_rate_male": 79.43,
+        "literacy_rate_percentage": 61.92,
+        "literate_female": 181379,
+        "literate_male": 378253,
+        "literate_total": 559632,
+        "male": 564592,
+        "percentage_population": 80.05,
+        "population": 1069084,
+        "sex_ratio": 894
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/433-sawai-madhopur.html",
+    "urban": {
+        "child_population_female": 16665,
+        "child_population_male": 19195,
+        "child_population_percentage": 13.46,
+        "child_population_percentage_calculated": 13.46,
+        "child_population_percentage_stated": 13.46,
+        "child_population_total": 35860,
+        "child_sex_ratio": 868,
+        "female": 127028,
+        "literacy_rate_female": 67.22,
+        "literacy_rate_male": 89.76,
+        "literacy_rate_percentage": 78.97,
+        "literate_female": 74185,
+        "literate_male": 107931,
+        "literate_total": 182116,
+        "male": 139439,
+        "percentage_population": 19.95,
+        "population": 266467,
+        "sex_ratio": 911
+    }
+}

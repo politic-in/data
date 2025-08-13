@@ -1,0 +1,48 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "PATNA EAST",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 250896,
+        "total_votes_polled": 132716,
+        "turnout_percentage": 52.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tarkeshwari Devi",
+          "party": "Indian National Congress",
+          "votes": 62238,
+          "votes_percentage": 46.9
+        },
+        {
+          "position": 2,
+          "name": "B. P. Jawahar",
+          "party": "Socialist Party",
+          "votes": 29388,
+          "votes_percentage": 22.1
+        },
+        {
+          "position": 3,
+          "name": "Sheelbhadrayajee Alias Laddu Sharma",
+          "party": "Forward Bloc (Marxist Group)",
+          "votes": 27073,
+          "votes_percentage": 20.4
+        },
+        {
+          "position": 4,
+          "name": "Jadunandan Prasad",
+          "party": "Independent",
+          "votes": 14017,
+          "votes_percentage": 10.6
+        }
+      ]
+    }
+  }
+}

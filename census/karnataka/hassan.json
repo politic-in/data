@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 81685,
+        "male": 83952,
+        "percentage_of_total_population": 9.32,
+        "percentage_of_total_population_calculated": 9.32,
+        "percentage_of_total_population_stated": 9.32,
+        "sex_ratio": 973,
+        "total": 165637
+    },
+    "literacy": {
+        "female_literacy_rate": 68.6,
+        "female_literate": 556420,
+        "male_literacy_rate": 83.64,
+        "male_literate": 668836,
+        "rate_percentage": 76.07,
+        "total_literate": 1225256
+    },
+    "population": {
+        "female": 892754,
+        "male": 883667,
+        "sex_ratio": 1010,
+        "total": 1776421
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.04,
+            "population": 623
+        },
+        "Christian": {
+            "percentage": 0.88,
+            "population": 15611
+        },
+        "Hindu": {
+            "percentage": 91.8,
+            "population": 1630814
+        },
+        "Jain": {
+            "percentage": 0.33,
+            "population": 5820
+        },
+        "Muslims": {
+            "percentage": 6.76,
+            "population": 120011
+        },
+        "Not Stated": {
+            "percentage": 0.18,
+            "population": 3250
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 3
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 289
+        }
+    },
+    "rural": {
+        "child_population_female": 63275,
+        "child_population_male": 64762,
+        "child_population_percentage": 9.15,
+        "child_population_percentage_calculated": 9.15,
+        "child_population_percentage_stated": 9.15,
+        "child_population_total": 128037,
+        "child_sex_ratio": 977,
+        "female": 704075,
+        "literacy_rate_female": 64.29,
+        "literacy_rate_male": 81.41,
+        "literacy_rate_percentage": 72.79,
+        "literate_female": 411991,
+        "literate_male": 513580,
+        "literate_total": 925571,
+        "male": 695583,
+        "percentage_population": 78.79,
+        "population": 1399658,
+        "sex_ratio": 1012
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/257-hassan.html",
+    "urban": {
+        "child_population_female": 18391,
+        "child_population_male": 19209,
+        "child_population_percentage": 9.98,
+        "child_population_percentage_calculated": 9.98,
+        "child_population_percentage_stated": 9.98,
+        "child_population_total": 37600,
+        "child_sex_ratio": 957,
+        "female": 188679,
+        "literacy_rate_female": 84.81,
+        "literacy_rate_male": 91.94,
+        "literacy_rate_percentage": 88.36,
+        "literate_female": 144429,
+        "literate_male": 155256,
+        "literate_total": 299685,
+        "male": 188084,
+        "percentage_population": 21.21,
+        "population": 376763,
+        "sex_ratio": 1003
+    }
+}

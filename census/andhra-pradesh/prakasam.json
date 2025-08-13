@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 182474,
+        "male": 195787,
+        "percentage_of_total_population": 11.13,
+        "percentage_of_total_population_calculated": 11.13,
+        "percentage_of_total_population_stated": 11.13,
+        "sex_ratio": 932,
+        "total": 378261
+    },
+    "literacy": {
+        "female_literacy_rate": 53.11,
+        "female_literate": 796749,
+        "male_literacy_rate": 72.92,
+        "male_literate": 1107686,
+        "rate_percentage": 63.08,
+        "total_literate": 1904435
+    },
+    "population": {
+        "female": 1682684,
+        "male": 1714764,
+        "sex_ratio": 981,
+        "total": 3397448
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.0,
+            "population": 97
+        },
+        "Christian": {
+            "percentage": 0.55,
+            "population": 18775
+        },
+        "Hindu": {
+            "percentage": 92.72,
+            "population": 3150195
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 204
+        },
+        "Muslims": {
+            "percentage": 6.49,
+            "population": 220654
+        },
+        "Not Stated": {
+            "percentage": 0.21,
+            "population": 7051
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 206
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 266
+        }
+    },
+    "rural": {
+        "child_population_female": 149868,
+        "child_population_male": 161206,
+        "child_population_percentage": 11.38,
+        "child_population_percentage_calculated": 11.38,
+        "child_population_percentage_stated": 11.38,
+        "child_population_total": 311074,
+        "child_sex_ratio": 930,
+        "female": 1350225,
+        "literacy_rate_female": 48.6,
+        "literacy_rate_male": 69.8,
+        "literacy_rate_percentage": 59.29,
+        "literate_female": 583325,
+        "literate_male": 852588,
+        "literate_total": 1435913,
+        "male": 1382641,
+        "percentage_population": 80.44,
+        "population": 2732866,
+        "sex_ratio": 977
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/135-prakasam.html",
+    "urban": {
+        "child_population_female": 32640,
+        "child_population_male": 34547,
+        "child_population_percentage": 10.11,
+        "child_population_percentage_calculated": 10.11,
+        "child_population_percentage_stated": 10.11,
+        "child_population_total": 67187,
+        "child_sex_ratio": 945,
+        "female": 332459,
+        "literacy_rate_female": 71.18,
+        "literacy_rate_male": 85.73,
+        "literacy_rate_percentage": 78.43,
+        "literate_female": 213424,
+        "literate_male": 255098,
+        "literate_total": 468522,
+        "male": 332123,
+        "percentage_population": 19.56,
+        "population": 664582,
+        "sex_ratio": 1001
+    }
+}

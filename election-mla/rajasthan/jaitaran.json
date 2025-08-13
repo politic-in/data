@@ -1,0 +1,834 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Jaitaran",
+  "district": "Pali",
+  "ac_type": "GEN",
+  "results": {
+    "2023": {
+      "poll_date": "25 November 2023",
+      "counting_date": "03 December 2023",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 617872,
+        "total_votes_polled": 210407,
+        "turnout_percentage": 34.6,
+        "margin_votes": 13526,
+        "margin_percentage": 6.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Avinash Gehlot",
+          "party": "Bharatiya Janta Party",
+          "votes": 66277,
+          "votes_percentage": 31.1
+        },
+        {
+          "position": 2,
+          "name": "Surendra Goyal",
+          "party": "Indian National Congress",
+          "votes": 52751,
+          "votes_percentage": 24.7
+        },
+        {
+          "position": 3,
+          "name": "Yogi Laxman Nath",
+          "party": "Independent",
+          "votes": 40539,
+          "votes_percentage": 19.0
+        },
+        {
+          "position": 4,
+          "name": "Dilip Choudhary",
+          "party": "Aazad Samaj Party (Kanshi Ram)",
+          "votes": 28067,
+          "votes_percentage": 13.2
+        },
+        {
+          "position": 5,
+          "name": "Mukut Singh",
+          "party": "Independent",
+          "votes": 19108,
+          "votes_percentage": 9.0
+        },
+        {
+          "position": 6,
+          "name": "Saroj Meghwal",
+          "party": "Bahujan Samaj Party",
+          "votes": 1357,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Gopalsingh",
+          "party": "Abhinav Rajasthan Party",
+          "votes": 998,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Nathusingh Naruka",
+          "party": "Abhinav Loktantra Party",
+          "votes": 716,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Bhagwansingh",
+          "party": "Bharat Lok Sewak Party",
+          "votes": 594,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "01 December 2013",
+      "counting_date": "08 December 2013",
+      "total_contestants": 18,
+      "aggregate": {
+        "total_electors": 240693,
+        "total_votes_polled": 164359,
+        "turnout_percentage": 69.1,
+        "margin_votes": 34874,
+        "margin_percentage": 21.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Surendra Goyal",
+          "party": "Bharatiya Janta Party",
+          "votes": 81066,
+          "votes_percentage": 49.3
+        },
+        {
+          "position": 2,
+          "name": "Dilip Choudhary",
+          "party": "Indian National Congress",
+          "votes": 46192,
+          "votes_percentage": 28.1
+        },
+        {
+          "position": 3,
+          "name": "Krishan Singh Gurjar",
+          "party": "Independent",
+          "votes": 12636,
+          "votes_percentage": 7.7
+        },
+        {
+          "position": 4,
+          "name": "Sayar Kathat",
+          "party": "Independent",
+          "votes": 6186,
+          "votes_percentage": 3.8
+        },
+        {
+          "position": 5,
+          "name": "Shakti Singh",
+          "party": "Independent",
+          "votes": 2833,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 6,
+          "name": "Mukut Singh",
+          "party": "Independent",
+          "votes": 2521,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 7,
+          "name": "Durga Ram",
+          "party": "Bahujan Samaj Party",
+          "votes": 2005,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 8,
+          "name": "Devkishan Gurjar",
+          "party": "Bharatiya Yuva Shakti",
+          "votes": 1671,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 9,
+          "name": "Pema Ram Changal",
+          "party": "Independent",
+          "votes": 1574,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 10,
+          "name": "Santosh Devi",
+          "party": "Independent",
+          "votes": 1522,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 11,
+          "name": "Dhansingh Rathore",
+          "party": "Independent",
+          "votes": 1462,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 12,
+          "name": "Gopalsingh",
+          "party": "Independent",
+          "votes": 1249,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 13,
+          "name": "Kaluram",
+          "party": "Independent",
+          "votes": 905,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 14,
+          "name": "Ganpat",
+          "party": "Independent",
+          "votes": 619,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 15,
+          "name": "Beekha Ram",
+          "party": "National People's Party",
+          "votes": 583,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 16,
+          "name": "Asuram Meghwal",
+          "party": "Independent",
+          "votes": 536,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 17,
+          "name": "Dhagla Ram",
+          "party": "Independent",
+          "votes": 444,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 18,
+          "name": "Aasha Ram Prajapat",
+          "party": "Independent",
+          "votes": 355,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2008": {
+      "poll_date": "04 December 2008",
+      "counting_date": "08 December 2008",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 210651,
+        "total_votes_polled": 137570,
+        "turnout_percentage": 65.3,
+        "margin_votes": 6668,
+        "margin_percentage": 4.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dilip Choudhary",
+          "party": "Independent",
+          "votes": 43077,
+          "votes_percentage": 31.3
+        },
+        {
+          "position": 2,
+          "name": "Surendra Goyal",
+          "party": "Bharatiya Janta Party",
+          "votes": 36409,
+          "votes_percentage": 26.5
+        },
+        {
+          "position": 3,
+          "name": "C. D. Dewal",
+          "party": "Indian National Congress",
+          "votes": 28506,
+          "votes_percentage": 20.7
+        },
+        {
+          "position": 4,
+          "name": "Heera Singh Chauhan",
+          "party": "Loktantrik Samajwadi Party",
+          "votes": 16304,
+          "votes_percentage": 11.9
+        },
+        {
+          "position": 5,
+          "name": "Magraj Soni",
+          "party": "Independent",
+          "votes": 4009,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 6,
+          "name": "Kan Singh Rathore",
+          "party": "Bahujan Samaj Party",
+          "votes": 2239,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 7,
+          "name": "Girdhari Singh",
+          "party": "Independent",
+          "votes": 2007,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 8,
+          "name": "Madhu Singh Rajpurohit",
+          "party": "Shiv Sena",
+          "votes": 1591,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 9,
+          "name": "Shankar Lal Kumawat",
+          "party": "Lok Jan Shakti Party",
+          "votes": 1479,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 10,
+          "name": "Kalu Ram",
+          "party": "Independent",
+          "votes": 1077,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 11,
+          "name": "Kunj Bihari Sharma",
+          "party": "Independent",
+          "votes": 872,
+          "votes_percentage": 0.6
+        }
+      ]
+    },
+    "2003": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 144660,
+        "total_votes_polled": 94409,
+        "turnout_percentage": 65.3,
+        "margin_votes": 2781,
+        "margin_percentage": 2.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Surendra Goyal",
+          "party": "Bharatiya Janta Party",
+          "votes": 32299,
+          "votes_percentage": 34.3
+        },
+        {
+          "position": 2,
+          "name": "Dilip Choudhary",
+          "party": "Independent",
+          "votes": 29518,
+          "votes_percentage": 31.3
+        },
+        {
+          "position": 3,
+          "name": "Sukh Lal Sencha",
+          "party": "Indian National Congress",
+          "votes": 19653,
+          "votes_percentage": 20.9
+        },
+        {
+          "position": 4,
+          "name": "Kalu Ram Sankhala",
+          "party": "Akhil Bharat Hindu Mahasabha",
+          "votes": 8104,
+          "votes_percentage": 8.6
+        },
+        {
+          "position": 5,
+          "name": "Shankar Lal Kumawat",
+          "party": "Independent",
+          "votes": 2845,
+          "votes_percentage": 3.0
+        },
+        {
+          "position": 6,
+          "name": "Sohan Singh Sankhala",
+          "party": "Bahujan Samaj Party",
+          "votes": 1841,
+          "votes_percentage": 2.0
+        }
+      ]
+    },
+    "1998": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 131396,
+        "total_votes_polled": 83890,
+        "turnout_percentage": 63.9,
+        "margin_votes": 209,
+        "margin_percentage": 0.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Surendra Goyal",
+          "party": "Bharatiya Janta Party",
+          "votes": 28625,
+          "votes_percentage": 34.7
+        },
+        {
+          "position": 2,
+          "name": "Dilip  Choudhary",
+          "party": "Indian National Congress",
+          "votes": 28416,
+          "votes_percentage": 34.4
+        },
+        {
+          "position": 3,
+          "name": "Sant Badri Lal",
+          "party": "Independent",
+          "votes": 16213,
+          "votes_percentage": 19.6
+        },
+        {
+          "position": 4,
+          "name": "Malla Ram Sirvi",
+          "party": "Independent",
+          "votes": 7917,
+          "votes_percentage": 9.6
+        },
+        {
+          "position": 5,
+          "name": "Kalu Ram",
+          "party": "Akhil Bharat Hindu Mahasabha",
+          "votes": 729,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Ramniwas",
+          "party": "Samata Party",
+          "votes": 510,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Choudhary Nirmala Arya",
+          "party": "Independent",
+          "votes": 129,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "1993": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 12,
+      "aggregate": {
+        "total_electors": 129357,
+        "total_votes_polled": 73932,
+        "turnout_percentage": 57.2,
+        "margin_votes": 8632,
+        "margin_percentage": 11.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Surendra Goyal",
+          "party": "Bharatiya Janta Party",
+          "votes": 38735,
+          "votes_percentage": 53.4
+        },
+        {
+          "position": 2,
+          "name": "Pratap Singh",
+          "party": "Indian National Congress",
+          "votes": 30103,
+          "votes_percentage": 41.5
+        },
+        {
+          "position": 3,
+          "name": "Kamlesh Kumar",
+          "party": "Independent",
+          "votes": 929,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 4,
+          "name": "Om Prakash Parihar",
+          "party": "Doordarshi Party",
+          "votes": 867,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 5,
+          "name": "Kalu Ram Sankhala",
+          "party": "Shiv Sena",
+          "votes": 629,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Shyam Lal Dadhich",
+          "party": "Independent",
+          "votes": 360,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Kalu Ram Kumawat",
+          "party": "Independent",
+          "votes": 287,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Sohan Lal Kumawat",
+          "party": "Independent",
+          "votes": 191,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Ram Niwas",
+          "party": "Independent",
+          "votes": 160,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Chand Mal",
+          "party": "Independent",
+          "votes": 157,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Udai Raj Jangid",
+          "party": "Independent",
+          "votes": 101,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Champa Lal",
+          "party": "Independent",
+          "votes": 46,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1990": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 17,
+      "aggregate": {
+        "total_electors": 117636,
+        "total_votes_polled": 70597,
+        "turnout_percentage": 60.0,
+        "margin_votes": 1577,
+        "margin_percentage": 2.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Surender Goel",
+          "party": "Bharatiya Janta Party",
+          "votes": 17993,
+          "votes_percentage": 26.0
+        },
+        {
+          "position": 2,
+          "name": "Partap Singh",
+          "party": "Indian National Congress",
+          "votes": 16416,
+          "votes_percentage": 23.7
+        },
+        {
+          "position": 3,
+          "name": "Ram Parkash",
+          "party": "Janata Dal",
+          "votes": 12311,
+          "votes_percentage": 17.8
+        },
+        {
+          "position": 4,
+          "name": "Shiv Dan Singh Rathor",
+          "party": "Independent",
+          "votes": 8308,
+          "votes_percentage": 12.0
+        },
+        {
+          "position": 5,
+          "name": "Manju",
+          "party": "Independent",
+          "votes": 6108,
+          "votes_percentage": 8.8
+        },
+        {
+          "position": 6,
+          "name": "Kalu Ram",
+          "party": "Akhil Bharatiya Hindu Mahasabha",
+          "votes": 3649,
+          "votes_percentage": 5.3
+        },
+        {
+          "position": 7,
+          "name": "Madhu Singh",
+          "party": "Bahujan Samaj Party",
+          "votes": 2354,
+          "votes_percentage": 3.4
+        },
+        {
+          "position": 8,
+          "name": "Prabhu Dayal",
+          "party": "Doordarshi Party",
+          "votes": 640,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 9,
+          "name": "Uday Raj Jagid",
+          "party": "Lok Dal (B)",
+          "votes": 325,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 10,
+          "name": "Madan Gopal Regar",
+          "party": "Independent",
+          "votes": 321,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 11,
+          "name": "Mahesh Chander Sharma",
+          "party": "Independent",
+          "votes": 247,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 12,
+          "name": "Dharma Ram",
+          "party": "Independent",
+          "votes": 210,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 13,
+          "name": "Bhanwar Lal",
+          "party": "Janata Party (JP)",
+          "votes": 205,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 14,
+          "name": "Nathu Ram Sirvi",
+          "party": "Independent",
+          "votes": 105,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 15,
+          "name": "Kamruddin",
+          "party": "Independent",
+          "votes": 85,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "Chutra Ram Bhati",
+          "party": "Independent",
+          "votes": 54,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 17,
+          "name": "Bhera Ram Solanki",
+          "party": "Independent",
+          "votes": 14,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "1985": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 100171,
+        "total_votes_polled": 57150,
+        "turnout_percentage": 57.1,
+        "margin_votes": 17502,
+        "margin_percentage": 30.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pratap Singh",
+          "party": "Indian National Congress",
+          "votes": 32982,
+          "votes_percentage": 58.6
+        },
+        {
+          "position": 2,
+          "name": "Surendra Goyal",
+          "party": "Bharatiya Janta Party",
+          "votes": 15480,
+          "votes_percentage": 27.5
+        },
+        {
+          "position": 3,
+          "name": "Madhoo Singh",
+          "party": "Independent",
+          "votes": 4175,
+          "votes_percentage": 7.4
+        },
+        {
+          "position": 4,
+          "name": "Nathoo Singh",
+          "party": "Communist Party Of India",
+          "votes": 1925,
+          "votes_percentage": 3.4
+        },
+        {
+          "position": 5,
+          "name": "Om Prakash Gehlot",
+          "party": "Independent",
+          "votes": 801,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 6,
+          "name": "Ramji Ram Meghwal",
+          "party": "Independent",
+          "votes": 617,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 7,
+          "name": "Mangi Lal Regar",
+          "party": "Independent",
+          "votes": 263,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 84365,
+        "total_votes_polled": 47235,
+        "turnout_percentage": 56.0,
+        "margin_votes": 18250,
+        "margin_percentage": 38.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sheodan Singh",
+          "party": "Indian National Congress (I)",
+          "votes": 27005,
+          "votes_percentage": 58.4
+        },
+        {
+          "position": 2,
+          "name": "Surendra Goyal",
+          "party": "Independent",
+          "votes": 8755,
+          "votes_percentage": 18.9
+        },
+        {
+          "position": 3,
+          "name": "Narayan Singh",
+          "party": "Janata Party (JP)",
+          "votes": 8741,
+          "votes_percentage": 18.9
+        },
+        {
+          "position": 4,
+          "name": "Shimbhuram",
+          "party": "Independent",
+          "votes": 956,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 5,
+          "name": "Ramesh Solanki",
+          "party": "Janata Party (SECULAR) RAJ NARAIN",
+          "votes": 791,
+          "votes_percentage": 1.7
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 73163,
+        "total_votes_polled": 38999,
+        "turnout_percentage": 53.3,
+        "margin_votes": 2045,
+        "margin_percentage": 5.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shankar Lal",
+          "party": "Indian National Congress",
+          "votes": 18660,
+          "votes_percentage": 49.2
+        },
+        {
+          "position": 2,
+          "name": "Narain Singh",
+          "party": "Janta Party",
+          "votes": 16615,
+          "votes_percentage": 43.8
+        },
+        {
+          "position": 3,
+          "name": "Satya Deo",
+          "party": "Independent",
+          "votes": 1494,
+          "votes_percentage": 3.9
+        },
+        {
+          "position": 4,
+          "name": "Bhoora Ram",
+          "party": "Independent",
+          "votes": 653,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 5,
+          "name": "Amar Ram",
+          "party": "Independent",
+          "votes": 286,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Uttam Chand",
+          "party": "Independent",
+          "votes": 236,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

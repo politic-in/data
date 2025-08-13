@@ -1,0 +1,57 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Gadhi",
+  "district": "Banswara",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 258418,
+        "total_votes_polled": 201169,
+        "turnout_percentage": 79.6,
+        "margin_votes": 24401,
+        "margin_percentage": 12.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kailash Chandra Meena",
+          "party": "Bharatiya Janta Party",
+          "votes": 99350,
+          "votes_percentage": 49.4
+        },
+        {
+          "position": 2,
+          "name": "Kanta Bhil",
+          "party": "Indian National Congress",
+          "votes": 74949,
+          "votes_percentage": 37.3
+        },
+        {
+          "position": 3,
+          "name": "Raju",
+          "party": "Bhartiya Tribal Party",
+          "votes": 23093,
+          "votes_percentage": 11.5
+        },
+        {
+          "position": 4,
+          "name": "Chetan",
+          "party": "Bahujan Samaj Party",
+          "votes": 2618,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 5,
+          "name": "Devilal Damor",
+          "party": "Aam Aadmi Party",
+          "votes": 1159,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

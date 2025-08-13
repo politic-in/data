@@ -1,0 +1,64 @@
+{
+  "state": "Madhya Pradesh [2000 Onwards]",
+  "constituency": "Nivas",
+  "district": "Mandla",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 238242,
+        "total_votes_polled": 184512,
+        "turnout_percentage": 79.7,
+        "margin_votes": 28315,
+        "margin_percentage": 15.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr Ashok Marskole",
+          "party": "Indian National Congress",
+          "votes": 91007,
+          "votes_percentage": 49.3
+        },
+        {
+          "position": 2,
+          "name": "Rampyare Kulaste",
+          "party": "Bharatiya Janta Party",
+          "votes": 62692,
+          "votes_percentage": 34.0
+        },
+        {
+          "position": 3,
+          "name": "Rammu Lal Kulaste",
+          "party": "Gondvana Gantantra Party",
+          "votes": 21852,
+          "votes_percentage": 11.8
+        },
+        {
+          "position": 4,
+          "name": "Anita Uikey",
+          "party": "Bahujan Samaj Party",
+          "votes": 3715,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 5,
+          "name": "Rajkumar Marawi",
+          "party": "Sapaks Party",
+          "votes": 2763,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 6,
+          "name": "Ghanshyam Kudape",
+          "party": "Independent",
+          "votes": 2483,
+          "votes_percentage": 1.4
+        }
+      ]
+    }
+  }
+}

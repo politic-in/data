@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 13245,
+        "male": 14507,
+        "percentage_of_total_population": 16.98,
+        "percentage_of_total_population_calculated": 16.98,
+        "percentage_of_total_population_stated": 16.98,
+        "sex_ratio": 913,
+        "total": 27752
+    },
+    "literacy": {
+        "female_literacy_rate": 72.21,
+        "female_literate": 47967,
+        "male_literacy_rate": 83.66,
+        "male_literate": 57926,
+        "rate_percentage": 78.05,
+        "total_literate": 105893
+    },
+    "population": {
+        "female": 79675,
+        "male": 83743,
+        "sex_ratio": 951,
+        "total": 163418
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.21,
+            "population": 350
+        },
+        "Christian": {
+            "percentage": 96.82,
+            "population": 158224
+        },
+        "Hindu": {
+            "percentage": 2.18,
+            "population": 3563
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 17
+        },
+        "Muslims": {
+            "percentage": 0.58,
+            "population": 950
+        },
+        "Not Stated": {
+            "percentage": 0.05,
+            "population": 85
+        },
+        "Others": {
+            "percentage": 0.12,
+            "population": 198
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 31
+        }
+    },
+    "rural": {
+        "child_population_female": 11556,
+        "child_population_male": 12754,
+        "child_population_percentage": 17.51,
+        "child_population_percentage_calculated": 17.51,
+        "child_population_percentage_stated": 17.51,
+        "child_population_total": 24310,
+        "child_sex_ratio": 906,
+        "female": 68314,
+        "literacy_rate_female": 70.29,
+        "literacy_rate_male": 81.93,
+        "literacy_rate_percentage": 76.16,
+        "literate_female": 39896,
+        "literate_male": 47337,
+        "literate_total": 87233,
+        "male": 70529,
+        "percentage_population": 84.96,
+        "population": 138843,
+        "sex_ratio": 969
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/613-phek.html",
+    "urban": {
+        "child_population_female": 1691,
+        "child_population_male": 1751,
+        "child_population_percentage": 14.01,
+        "child_population_percentage_calculated": 14.01,
+        "child_population_percentage_stated": 14.01,
+        "child_population_total": 3442,
+        "child_sex_ratio": 966,
+        "female": 11361,
+        "literacy_rate_female": 83.46,
+        "literacy_rate_male": 92.38,
+        "literacy_rate_percentage": 88.3,
+        "literate_female": 8071,
+        "literate_male": 10589,
+        "literate_total": 18660,
+        "male": 13214,
+        "percentage_population": 15.04,
+        "population": 24575,
+        "sex_ratio": 860
+    }
+}

@@ -1,0 +1,50 @@
+{
+  "state": "Nagaland",
+  "constituency": "MONTOWN",
+  "district": "Mon",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 18084,
+        "total_votes_polled": 16211,
+        "turnout_percentage": 90.3,
+        "margin_votes": 28,
+        "margin_percentage": 0.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "N. Thongwang Konyak",
+          "party": "Naga Peoples Front",
+          "votes": 5429,
+          "votes_percentage": 33.5
+        },
+        {
+          "position": 2,
+          "name": "Y. Mankhao Konyak",
+          "party": "Nationalist Democratic Progressive Party",
+          "votes": 5401,
+          "votes_percentage": 33.3
+        },
+        {
+          "position": 3,
+          "name": "Er. Cheong Konyak",
+          "party": "National People's Party",
+          "votes": 5003,
+          "votes_percentage": 30.9
+        },
+        {
+          "position": 4,
+          "name": "Hawang T. Wangsha",
+          "party": "Indian National Congress",
+          "votes": 378,
+          "votes_percentage": 2.3
+        }
+      ]
+    }
+  }
+}

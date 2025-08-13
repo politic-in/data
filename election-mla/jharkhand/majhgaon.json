@@ -1,0 +1,78 @@
+{
+  "state": "Jharkhand",
+  "constituency": "Majhgaon",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "2005": {
+      "poll_date": "02 March 2005",
+      "counting_date": "27 February 2005",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 138565,
+        "total_votes_polled": 86788,
+        "turnout_percentage": 62.6,
+        "margin_votes": 5201,
+        "margin_percentage": 6.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Niral Purty",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 38827,
+          "votes_percentage": 44.7
+        },
+        {
+          "position": 2,
+          "name": "Barkuwar Gagrai",
+          "party": "Bharatiya Janta Party",
+          "votes": 33626,
+          "votes_percentage": 38.7
+        },
+        {
+          "position": 3,
+          "name": "Goberdhan Nayak",
+          "party": "Rashtriya Janata Dal",
+          "votes": 4006,
+          "votes_percentage": 4.6
+        },
+        {
+          "position": 4,
+          "name": "Manoher Sinku",
+          "party": "Bahujan Samaj Party",
+          "votes": 2666,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 5,
+          "name": "Jaipal Singh Bodra",
+          "party": "All Jharkhand Students Union",
+          "votes": 2567,
+          "votes_percentage": 3.0
+        },
+        {
+          "position": 6,
+          "name": "Harish Chandra Alda",
+          "party": "Independent",
+          "votes": 2126,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 7,
+          "name": "Gopal Sirka",
+          "party": "Jharkhand Party",
+          "votes": 1594,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 8,
+          "name": "Haricharan Purty",
+          "party": "Independent",
+          "votes": 1376,
+          "votes_percentage": 1.6
+        }
+      ]
+    }
+  }
+}

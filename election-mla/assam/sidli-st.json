@@ -1,0 +1,57 @@
+{
+  "state": "Assam",
+  "constituency": "Sidli (ST)",
+  "district": "Kokrajhar",
+  "ac_type": "ST",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 190029,
+        "total_votes_polled": 154318,
+        "turnout_percentage": 82.8,
+        "margin_votes": 8988,
+        "margin_percentage": 5.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chandan Brahma",
+          "party": "Bodaland Peoples Front",
+          "votes": 66037,
+          "votes_percentage": 42.8
+        },
+        {
+          "position": 2,
+          "name": "Rwngwra Narzary",
+          "party": "Independent",
+          "votes": 57049,
+          "votes_percentage": 37.0
+        },
+        {
+          "position": 3,
+          "name": "Dilip Kumar Sarania",
+          "party": "Independent",
+          "votes": 21601,
+          "votes_percentage": 14.0
+        },
+        {
+          "position": 4,
+          "name": "Pankaj Islary",
+          "party": "All India United Democratic Front",
+          "votes": 8083,
+          "votes_percentage": 5.2
+        },
+        {
+          "position": 5,
+          "name": "Phalmarston Brahma",
+          "party": "Independent",
+          "votes": 1548,
+          "votes_percentage": 1.0
+        }
+      ]
+    }
+  }
+}

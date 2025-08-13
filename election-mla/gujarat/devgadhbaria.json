@@ -1,0 +1,99 @@
+{
+  "state": "Gujarat",
+  "constituency": "Devgadhbaria",
+  "district": "Dohad",
+  "ac_type": "GEN",
+  "results": {
+    "2022": {
+      "poll_date": "01 December 2022",
+      "counting_date": "08 December 2022",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 266162,
+        "total_votes_polled": 190018,
+        "turnout_percentage": 73.2,
+        "margin_votes": 44201,
+        "margin_percentage": 23.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Khabad Bachubhai Maganbhai",
+          "party": "Bharatiya Janta Party",
+          "votes": 113527,
+          "votes_percentage": 58.3
+        },
+        {
+          "position": 2,
+          "name": "Vakhala Bharatsinh Pratapbhai",
+          "party": "Aam Aadmi Party",
+          "votes": 69326,
+          "votes_percentage": 35.6
+        },
+        {
+          "position": 3,
+          "name": "Chauhan Samatsinh Mansukhbhai",
+          "party": "Praja Vijay Paksh",
+          "votes": 5181,
+          "votes_percentage": 2.7
+        },
+        {
+          "position": 4,
+          "name": "Patel Bhimsing Maganbhai",
+          "party": "Independent",
+          "votes": 1984,
+          "votes_percentage": 1.0
+        }
+      ]
+    },
+    "2017": {
+      "poll_date": "09 December 2017",
+      "counting_date": "18 December 2017",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 218985,
+        "total_votes_polled": 169938,
+        "turnout_percentage": 80.1,
+        "margin_votes": 45694,
+        "margin_percentage": 26.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Khabad Bachubhai Maganbhai",
+          "party": "Bharatiya Janta Party",
+          "votes": 103873,
+          "votes_percentage": 61.1
+        },
+        {
+          "position": 2,
+          "name": "Vakhala Bharatsinh Pratapbhai",
+          "party": "Indian National Congress",
+          "votes": 58179,
+          "votes_percentage": 34.2
+        },
+        {
+          "position": 3,
+          "name": "Chauhan Ranjitsinh Dolatsinh",
+          "party": "Nationalist Congress Party",
+          "votes": 3529,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 4,
+          "name": "Bariya Narsing Dipsinh",
+          "party": "All India Hindustan Congress Party",
+          "votes": 3019,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 5,
+          "name": "Bariya Manilal Hirabhai",
+          "party": "Independent",
+          "votes": 1338,
+          "votes_percentage": 0.8
+        }
+      ]
+    }
+  }
+}

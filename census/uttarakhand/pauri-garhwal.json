@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 39835,
+        "male": 44066,
+        "percentage_of_total_population": 12.21,
+        "percentage_of_total_population_calculated": 12.21,
+        "percentage_of_total_population_stated": 12.21,
+        "sex_ratio": 904,
+        "total": 83901
+    },
+    "literacy": {
+        "female_literacy_rate": 72.6,
+        "female_literate": 232741,
+        "male_literacy_rate": 92.71,
+        "male_literate": 262148,
+        "rate_percentage": 82.02,
+        "total_literate": 494889
+    },
+    "population": {
+        "female": 360442,
+        "male": 326829,
+        "sex_ratio": 1103,
+        "total": 687271
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 58
+        },
+        "Christian": {
+            "percentage": 0.31,
+            "population": 2161
+        },
+        "Hindu": {
+            "percentage": 96.11,
+            "population": 660507
+        },
+        "Jain": {
+            "percentage": 0.03,
+            "population": 212
+        },
+        "Muslims": {
+            "percentage": 3.34,
+            "population": 22931
+        },
+        "Not Stated": {
+            "percentage": 0.11,
+            "population": 732
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 51
+        },
+        "Sikh": {
+            "percentage": 0.09,
+            "population": 619
+        }
+    },
+    "rural": {
+        "child_population_female": 33958,
+        "child_population_male": 37212,
+        "child_population_percentage": 12.39,
+        "child_population_percentage_calculated": 12.39,
+        "child_population_percentage_stated": 12.39,
+        "child_population_total": 71170,
+        "child_sex_ratio": 913,
+        "female": 306539,
+        "literacy_rate_female": 70.15,
+        "literacy_rate_male": 92.43,
+        "literacy_rate_percentage": 80.37,
+        "literate_female": 191203,
+        "literate_male": 213355,
+        "literate_total": 404558,
+        "male": 268029,
+        "percentage_population": 83.6,
+        "population": 574568,
+        "sex_ratio": 1144
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/579-pauri-garhwal.html",
+    "urban": {
+        "child_population_female": 5888,
+        "child_population_male": 6843,
+        "child_population_percentage": 11.3,
+        "child_population_percentage_calculated": 11.3,
+        "child_population_percentage_stated": 11.3,
+        "child_population_total": 12731,
+        "child_sex_ratio": 860,
+        "female": 53903,
+        "literacy_rate_female": 86.51,
+        "literacy_rate_male": 93.91,
+        "literacy_rate_percentage": 90.36,
+        "literate_female": 41538,
+        "literate_male": 48793,
+        "literate_total": 90331,
+        "male": 58800,
+        "percentage_population": 16.4,
+        "population": 112703,
+        "sex_ratio": 917
+    }
+}

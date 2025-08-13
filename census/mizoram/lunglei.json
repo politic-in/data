@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 12322,
+        "male": 12795,
+        "percentage_of_total_population": 15.56,
+        "percentage_of_total_population_calculated": 15.56,
+        "percentage_of_total_population_stated": 15.56,
+        "sex_ratio": 963,
+        "total": 25117
+    },
+    "literacy": {
+        "female_literacy_rate": 85.49,
+        "female_literate": 56607,
+        "male_literacy_rate": 92.04,
+        "male_literate": 64515,
+        "rate_percentage": 88.86,
+        "total_literate": 121122
+    },
+    "population": {
+        "female": 78537,
+        "male": 82891,
+        "sex_ratio": 947,
+        "total": 161428
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 17.06,
+            "population": 27543
+        },
+        "Christian": {
+            "percentage": 78.75,
+            "population": 127124
+        },
+        "Hindu": {
+            "percentage": 3.24,
+            "population": 5231
+        },
+        "Jain": {
+            "percentage": 0.06,
+            "population": 93
+        },
+        "Muslims": {
+            "percentage": 0.8,
+            "population": 1290
+        },
+        "Not Stated": {
+            "percentage": 0.04,
+            "population": 68
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 5
+        },
+        "Sikh": {
+            "percentage": 0.05,
+            "population": 74
+        }
+    },
+    "rural": {
+        "child_population_female": 8211,
+        "child_population_male": 8494,
+        "child_population_percentage": 18.03,
+        "child_population_percentage_calculated": 18.03,
+        "child_population_percentage_stated": 18.03,
+        "child_population_total": 16705,
+        "child_sex_ratio": 967,
+        "female": 45099,
+        "literacy_rate_female": 76.03,
+        "literacy_rate_male": 87.17,
+        "literacy_rate_percentage": 81.76,
+        "literate_female": 28047,
+        "literate_male": 34067,
+        "literate_total": 62114,
+        "male": 47577,
+        "percentage_population": 57.41,
+        "population": 92676,
+        "sex_ratio": 948
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/391-lunglei.html",
+    "urban": {
+        "child_population_female": 4108,
+        "child_population_male": 4304,
+        "child_population_percentage": 12.24,
+        "child_population_percentage_calculated": 12.24,
+        "child_population_percentage_stated": 12.24,
+        "child_population_total": 8412,
+        "child_sex_ratio": 954,
+        "female": 33438,
+        "literacy_rate_female": 97.37,
+        "literacy_rate_male": 98.19,
+        "literacy_rate_percentage": 97.79,
+        "literate_female": 28560,
+        "literate_male": 30448,
+        "literate_total": 59008,
+        "male": 35314,
+        "percentage_population": 42.59,
+        "population": 68752,
+        "sex_ratio": 947
+    }
+}

@@ -1,0 +1,64 @@
+{
+  "state": "West Bengal",
+  "constituency": "Bongaon Uttar",
+  "district": "North Twenty Four Parganas",
+  "ac_type": "SC",
+  "results": {
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 189467,
+        "total_votes_polled": 163641,
+        "turnout_percentage": 86.4,
+        "margin_votes": 23620,
+        "margin_percentage": 14.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Biswajit Das",
+          "party": "All India Trinamool Congress",
+          "votes": 89265,
+          "votes_percentage": 54.6
+        },
+        {
+          "position": 2,
+          "name": "Dr. Biswajit Kumar Biswas",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 65645,
+          "votes_percentage": 40.1
+        },
+        {
+          "position": 3,
+          "name": "Hari Chand Biswas",
+          "party": "Bharatiya Janta Party",
+          "votes": 5149,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 4,
+          "name": "Ganesh Ch. Biswas",
+          "party": "Bahujan Samaj Party",
+          "votes": 1828,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Pinaki Ranjan Bharati",
+          "party": "The Religion Of Man Revolving Political Party Of India",
+          "votes": 995,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Gobinda Mondal",
+          "party": "Nirjatita Samaj Biplabi Party",
+          "votes": 759,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 119729,
+        "male": 138415,
+        "percentage_of_total_population": 15.79,
+        "percentage_of_total_population_calculated": 15.79,
+        "percentage_of_total_population_stated": 15.79,
+        "sex_ratio": 865,
+        "total": 258144
+    },
+    "literacy": {
+        "female_literacy_rate": 51.93,
+        "female_literate": 341116,
+        "male_literacy_rate": 82.98,
+        "male_literate": 596935,
+        "rate_percentage": 68.16,
+        "total_literate": 938051
+    },
+    "population": {
+        "female": 776622,
+        "male": 857787,
+        "sex_ratio": 905,
+        "total": 1634409
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 94
+        },
+        "Christian": {
+            "percentage": 0.03,
+            "population": 439
+        },
+        "Hindu": {
+            "percentage": 96.81,
+            "population": 1582335
+        },
+        "Jain": {
+            "percentage": 0.23,
+            "population": 3737
+        },
+        "Muslims": {
+            "percentage": 2.78,
+            "population": 45488
+        },
+        "Not Stated": {
+            "percentage": 0.12,
+            "population": 1905
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 115
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 296
+        }
+    },
+    "rural": {
+        "child_population_female": 107498,
+        "child_population_male": 123947,
+        "child_population_percentage": 16.16,
+        "child_population_percentage_calculated": 16.16,
+        "child_population_percentage_stated": 16.16,
+        "child_population_total": 231445,
+        "child_sex_ratio": 867,
+        "female": 680716,
+        "literacy_rate_female": 49.38,
+        "literacy_rate_male": 81.81,
+        "literacy_rate_percentage": 66.33,
+        "literate_female": 283045,
+        "literate_male": 513738,
+        "literate_total": 796783,
+        "male": 751900,
+        "percentage_population": 87.65,
+        "population": 1432616,
+        "sex_ratio": 905
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/434-dausa.html",
+    "urban": {
+        "child_population_female": 12246,
+        "child_population_male": 14453,
+        "child_population_percentage": 13.23,
+        "child_population_percentage_calculated": 13.23,
+        "child_population_percentage_stated": 13.23,
+        "child_population_total": 26699,
+        "child_sex_ratio": 847,
+        "female": 95906,
+        "literacy_rate_female": 69.41,
+        "literacy_rate_male": 90.99,
+        "literacy_rate_percentage": 80.68,
+        "literate_female": 58071,
+        "literate_male": 83197,
+        "literate_total": 141268,
+        "male": 105887,
+        "percentage_population": 12.35,
+        "population": 201793,
+        "sex_ratio": 906
+    }
+}

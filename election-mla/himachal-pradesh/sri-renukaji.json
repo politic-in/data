@@ -1,0 +1,50 @@
+{
+  "state": "Himachal Pradesh",
+  "constituency": "Sri Renukaji",
+  "district": "Sirmaur",
+  "ac_type": "SC",
+  "results": {
+    "2012": {
+      "poll_date": "",
+      "counting_date": "20 December 2012",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 58325,
+        "total_votes_polled": 44324,
+        "turnout_percentage": 76.0,
+        "margin_votes": 655,
+        "margin_percentage": 1.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Vinay Kumar",
+          "party": "Indian National Congress",
+          "votes": 21332,
+          "votes_percentage": 48.1
+        },
+        {
+          "position": 2,
+          "name": "Hirdaya Ram",
+          "party": "Bharatiya Janta Party",
+          "votes": 20677,
+          "votes_percentage": 46.7
+        },
+        {
+          "position": 3,
+          "name": "Satpal",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 1531,
+          "votes_percentage": 3.5
+        },
+        {
+          "position": 4,
+          "name": "Rajesh Kumar",
+          "party": "Bahujan Samaj Party",
+          "votes": 784,
+          "votes_percentage": 1.8
+        }
+      ]
+    }
+  }
+}

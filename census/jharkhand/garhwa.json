@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 117386,
+        "male": 122278,
+        "percentage_of_total_population": 18.12,
+        "percentage_of_total_population_calculated": 18.12,
+        "percentage_of_total_population_stated": 18.12,
+        "sex_ratio": 960,
+        "total": 239664
+    },
+    "literacy": {
+        "female_literacy_rate": 47.58,
+        "female_literate": 248315,
+        "male_literacy_rate": 72.19,
+        "male_literate": 405161,
+        "rate_percentage": 60.33,
+        "total_literate": 653476
+    },
+    "population": {
+        "female": 639209,
+        "male": 683575,
+        "sex_ratio": 935,
+        "total": 1322784
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.03,
+            "population": 371
+        },
+        "Christian": {
+            "percentage": 1.3,
+            "population": 17168
+        },
+        "Hindu": {
+            "percentage": 83.5,
+            "population": 1104475
+        },
+        "Jain": {
+            "percentage": 0.0,
+            "population": 20
+        },
+        "Muslims": {
+            "percentage": 14.72,
+            "population": 194680
+        },
+        "Not Stated": {
+            "percentage": 0.1,
+            "population": 1356
+        },
+        "Others": {
+            "percentage": 0.35,
+            "population": 4591
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 123
+        }
+    },
+    "rural": {
+        "child_population_female": 112238,
+        "child_population_male": 116898,
+        "child_population_percentage": 18.29,
+        "child_population_percentage_calculated": 18.29,
+        "child_population_percentage_stated": 18.29,
+        "child_population_total": 229136,
+        "child_sex_ratio": 960,
+        "female": 606167,
+        "literacy_rate_female": 46.38,
+        "literacy_rate_male": 71.4,
+        "literacy_rate_percentage": 59.33,
+        "literate_female": 229076,
+        "literate_male": 378452,
+        "literate_total": 607528,
+        "male": 646947,
+        "percentage_population": 94.73,
+        "population": 1253114,
+        "sex_ratio": 937
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/98-garhwa.html",
+    "urban": {
+        "child_population_female": 5121,
+        "child_population_male": 5407,
+        "child_population_percentage": 15.11,
+        "child_population_percentage_calculated": 15.11,
+        "child_population_percentage_stated": 15.11,
+        "child_population_total": 10528,
+        "child_sex_ratio": 947,
+        "female": 33042,
+        "literacy_rate_female": 68.91,
+        "literacy_rate_male": 85.55,
+        "literacy_rate_percentage": 77.69,
+        "literate_female": 19239,
+        "literate_male": 26709,
+        "literate_total": 45948,
+        "male": 36628,
+        "percentage_population": 5.27,
+        "population": 69670,
+        "sex_ratio": 902
+    }
+}

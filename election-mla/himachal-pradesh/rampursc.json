@@ -1,0 +1,106 @@
+{
+  "state": "Himachal Pradesh",
+  "constituency": "RAMPUR(SC)",
+  "district": "Shimla",
+  "ac_type": "SC",
+  "results": {
+    "2022": {
+      "poll_date": "12 November 2022",
+      "counting_date": "08 December 2022",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 74616,
+        "total_votes_polled": 57494,
+        "turnout_percentage": 77.6,
+        "margin_votes": 567,
+        "margin_percentage": 1.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nand Lal",
+          "party": "Indian National Congress",
+          "votes": 28397,
+          "votes_percentage": 49.1
+        },
+        {
+          "position": 2,
+          "name": "Kaul Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 27830,
+          "votes_percentage": 48.1
+        },
+        {
+          "position": 3,
+          "name": "Uday Singh",
+          "party": "Aam Aadmi Party",
+          "votes": 706,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 4,
+          "name": "Desh Raj",
+          "party": "Bahujan Samaj Party",
+          "votes": 444,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 5,
+          "name": "Pritam Dev",
+          "party": "Independent",
+          "votes": 117,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2017": {
+      "poll_date": "09 November 2017",
+      "counting_date": "18 December 2017",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 69036,
+        "total_votes_polled": 52846,
+        "turnout_percentage": 77.3,
+        "margin_votes": 4037,
+        "margin_percentage": 7.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nand Lal",
+          "party": "Indian National Congress",
+          "votes": 25730,
+          "votes_percentage": 48.7
+        },
+        {
+          "position": 2,
+          "name": "Prem Singh Daraik",
+          "party": "Bharatiya Janta Party",
+          "votes": 21693,
+          "votes_percentage": 41.1
+        },
+        {
+          "position": 3,
+          "name": "Singhi Ram",
+          "party": "Independent",
+          "votes": 3801,
+          "votes_percentage": 7.2
+        },
+        {
+          "position": 4,
+          "name": "Vivek Kashyap",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 1325,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 5,
+          "name": "Suresh Singh Saini",
+          "party": "Bahujan Samaj Party",
+          "votes": 297,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

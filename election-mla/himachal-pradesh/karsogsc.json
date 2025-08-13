@@ -1,0 +1,141 @@
+{
+  "state": "Himachal Pradesh",
+  "constituency": "KARSOG(SC)",
+  "district": "Mandi",
+  "ac_type": "SC",
+  "results": {
+    "2022": {
+      "poll_date": "12 November 2022",
+      "counting_date": "08 December 2022",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 74559,
+        "total_votes_polled": 59806,
+        "turnout_percentage": 80.7,
+        "margin_votes": 10534,
+        "margin_percentage": 17.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Deep Raj",
+          "party": "Bharatiya Janta Party",
+          "votes": 34512,
+          "votes_percentage": 57.4
+        },
+        {
+          "position": 2,
+          "name": "Mahesh Raj",
+          "party": "Indian National Congress",
+          "votes": 23978,
+          "votes_percentage": 39.9
+        },
+        {
+          "position": 3,
+          "name": "Kishori Lal",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 480,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 4,
+          "name": "Bhagwant Singh",
+          "party": "Aam Aadmi Party",
+          "votes": 471,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 5,
+          "name": "Chaman Lal",
+          "party": "Bahujan Samaj Party",
+          "votes": 209,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Ghanshyam",
+          "party": "Independent",
+          "votes": 156,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2017": {
+      "poll_date": "09 November 2017",
+      "counting_date": "18 December 2017",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 65791,
+        "total_votes_polled": 50775,
+        "turnout_percentage": 78.2,
+        "margin_votes": 4830,
+        "margin_percentage": 9.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Hira Lal",
+          "party": "Bharatiya Janta Party",
+          "votes": 22102,
+          "votes_percentage": 43.5
+        },
+        {
+          "position": 2,
+          "name": "Mansa Ram",
+          "party": "Indian National Congress",
+          "votes": 17272,
+          "votes_percentage": 34.0
+        },
+        {
+          "position": 3,
+          "name": "Mast Ram",
+          "party": "Independent",
+          "votes": 5675,
+          "votes_percentage": 11.2
+        },
+        {
+          "position": 4,
+          "name": "Bhagat Ram",
+          "party": "Independent",
+          "votes": 2702,
+          "votes_percentage": 5.3
+        },
+        {
+          "position": 5,
+          "name": "Pawan Kumar",
+          "party": "Independent",
+          "votes": 990,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 6,
+          "name": "Bhagwant Singh",
+          "party": "Independent",
+          "votes": 842,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 7,
+          "name": "Mehar Singh Khukhaliya",
+          "party": "Rashtriya Azad Manch",
+          "votes": 521,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 8,
+          "name": "Anita Alias Nitu",
+          "party": "Independent",
+          "votes": 362,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 9,
+          "name": "Chaman Lal",
+          "party": "Bahujan Samaj Party",
+          "votes": 309,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

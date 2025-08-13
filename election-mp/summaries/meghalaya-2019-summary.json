@@ -1,0 +1,45 @@
+{
+  "state": "Meghalaya",
+  "year": "2019",
+  "summary_stats": {
+    "total_electors_state": 1846625,
+    "total_votes_polled_state": 1367231,
+    "turnout_percentage_state": 74.0,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Shillong",
+      "ac_no": 1,
+      "ac_type": "ST",
+      "district": "Meghalaya",
+      "winning_candidate": "Vincent H. Pala",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 1154272,
+      "total_votes_ac": 784190,
+      "poll_percentage_ac": 0.0,
+      "margin": 152433,
+      "margin_percentage": 19.4,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2019/meghalaya/shillong/9866/44/17"
+    },
+    {
+      "ac_name": "Tura",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Meghalaya",
+      "winning_candidate": "Agatha K. Sangma",
+      "winning_party": "National People's Party",
+      "total_electors_ac": 692353,
+      "total_votes_ac": 583041,
+      "poll_percentage_ac": 0.0,
+      "margin": 64030,
+      "margin_percentage": 11.0,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2019/meghalaya/tura/9867/44/17"
+    }
+  ]
+}

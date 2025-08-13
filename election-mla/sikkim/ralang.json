@@ -1,0 +1,71 @@
+{
+  "state": "Sikkim",
+  "constituency": "Ralang",
+  "district": "",
+  "ac_type": "BL",
+  "results": {
+    "2004": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 6395,
+        "total_votes_polled": 5237,
+        "turnout_percentage": 81.9,
+        "margin_votes": 2919,
+        "margin_percentage": 55.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dorjee Dazom Bhutia",
+          "party": "Sikkim Democratic Front",
+          "votes": 4131,
+          "votes_percentage": 77.3
+        },
+        {
+          "position": 2,
+          "name": "Chozang Bhutia",
+          "party": "Indian National Congress",
+          "votes": 1212,
+          "votes_percentage": 22.7
+        }
+      ]
+    },
+    "1989": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 4848,
+        "total_votes_polled": 3325,
+        "turnout_percentage": 68.6,
+        "margin_votes": 2612,
+        "margin_percentage": 78.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sonam Gyatso Kaleon",
+          "party": "Sikkim Sangram Parishad",
+          "votes": 2903,
+          "votes_percentage": 89.7
+        },
+        {
+          "position": 2,
+          "name": "Dorjee Dozom Bhutia",
+          "party": "Indian National Congress",
+          "votes": 291,
+          "votes_percentage": 9.0
+        },
+        {
+          "position": 3,
+          "name": "Passang Sherpa",
+          "party": "Rising Sun Party",
+          "votes": 41,
+          "votes_percentage": 1.3
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "state": "Meghalaya",
+  "constituency": "AMPATI",
+  "district": "West Garo Hills",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 28543,
+        "total_votes_polled": 25884,
+        "turnout_percentage": 91.4,
+        "margin_votes": 8104,
+        "margin_percentage": 31.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr. Mukul Sangma",
+          "party": "Indian National Congress",
+          "votes": 16721,
+          "votes_percentage": 64.6
+        },
+        {
+          "position": 2,
+          "name": "Bakul Ch. Hajong",
+          "party": "Bharatiya Janta Party",
+          "votes": 8617,
+          "votes_percentage": 33.3
+        },
+        {
+          "position": 3,
+          "name": "Joyanto K Marak",
+          "party": "Independent",
+          "votes": 546,
+          "votes_percentage": 2.1
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "23 February 2013",
+      "counting_date": "28 February 2013",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 24209,
+        "total_votes_polled": 21890,
+        "turnout_percentage": 90.4,
+        "margin_votes": 9096,
+        "margin_percentage": 41.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr. Mukul Sangma",
+          "party": "Indian National Congress",
+          "votes": 15031,
+          "votes_percentage": 68.7
+        },
+        {
+          "position": 2,
+          "name": "Clement G. Momin",
+          "party": "National People's Party",
+          "votes": 5935,
+          "votes_percentage": 27.1
+        },
+        {
+          "position": 3,
+          "name": "Mahiran Hajong",
+          "party": "Independent",
+          "votes": 924,
+          "votes_percentage": 4.2
+        }
+      ]
+    }
+  }
+}

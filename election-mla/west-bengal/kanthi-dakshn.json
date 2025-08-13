@@ -1,0 +1,50 @@
+{
+  "state": "West Bengal",
+  "constituency": "Kanthi-Dakshn",
+  "district": "Purba Medinipur",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 216913,
+        "total_votes_polled": 193811,
+        "turnout_percentage": 89.8,
+        "margin_votes": 10293,
+        "margin_percentage": 5.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Arup Kumar Das",
+          "party": "Bharatiya Janta Party",
+          "votes": 98477,
+          "votes_percentage": 50.8
+        },
+        {
+          "position": 2,
+          "name": "Jyotirmoy Kar",
+          "party": "All India Trinamool Congress",
+          "votes": 88184,
+          "votes_percentage": 45.5
+        },
+        {
+          "position": 3,
+          "name": "Anurup Panda",
+          "party": "Communist Party Of India",
+          "votes": 6014,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 4,
+          "name": "Shrabani Pahari",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1136,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

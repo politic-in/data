@@ -1,0 +1,78 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "Baharagora",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 161523,
+        "total_votes_polled": 111928,
+        "turnout_percentage": 69.3,
+        "margin_votes": 1301,
+        "margin_percentage": 1.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dinesh Kumar Sarangi",
+          "party": "Bharatiya Janta Party",
+          "votes": 30186,
+          "votes_percentage": 27.2
+        },
+        {
+          "position": 2,
+          "name": "Bidyut Mahato",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 28885,
+          "votes_percentage": 26.1
+        },
+        {
+          "position": 3,
+          "name": "Devipada Upadhyay",
+          "party": "Indian National Congress",
+          "votes": 24722,
+          "votes_percentage": 22.3
+        },
+        {
+          "position": 4,
+          "name": "Rabindra Nath Das",
+          "party": "Communist Party Of India",
+          "votes": 21888,
+          "votes_percentage": 19.8
+        },
+        {
+          "position": 5,
+          "name": "Dibakar Mardi",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 3092,
+          "votes_percentage": 2.8
+        },
+        {
+          "position": 6,
+          "name": "Bhut Nath Patra",
+          "party": "Independent",
+          "votes": 1375,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 7,
+          "name": "Daman Hembram",
+          "party": "Amara Bengali",
+          "votes": 349,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Kanai Lal Murmu",
+          "party": "Independent",
+          "votes": 331,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

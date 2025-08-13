@@ -1,0 +1,180 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Chayang tajo",
+  "district": "East Kameng",
+  "ac_type": "ST",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 11878,
+        "total_votes_polled": 10318,
+        "turnout_percentage": 87.2,
+        "margin_votes": 634,
+        "margin_percentage": 6.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Hayeng Mangfi",
+          "party": "Janata Dal (United)",
+          "votes": 5435,
+          "votes_percentage": 52.7
+        },
+        {
+          "position": 2,
+          "name": "Laching Kacha Yangfo",
+          "party": "Bharatiya Janta Party",
+          "votes": 4801,
+          "votes_percentage": 46.5
+        },
+        {
+          "position": 3,
+          "name": "Joro Doka",
+          "party": "Indian National Congress",
+          "votes": 82,
+          "votes_percentage": 0.8
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "09 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 9667,
+        "total_votes_polled": 8884,
+        "turnout_percentage": 91.9,
+        "total_valid_votes": 8806,
+        "total_valid_votes_percentage": 91.1,
+        "margin_votes": 415,
+        "margin_percentage": 4.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Karya Bagang",
+          "party": "Indian National Congress",
+          "votes": 4343,
+          "votes_percentage": 49.3
+        },
+        {
+          "position": 2,
+          "name": "L.K. Yangfo",
+          "party": "Bharatiya Janta Party",
+          "votes": 3928,
+          "votes_percentage": 44.6
+        },
+        {
+          "position": 3,
+          "name": "Jabring Venia",
+          "party": "Peoples Party Of Arunachal",
+          "votes": 535,
+          "votes_percentage": 6.1
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "13 October 2009",
+      "counting_date": "22 October 2009",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 8396,
+        "total_votes_polled": 7006,
+        "turnout_percentage": 83.4,
+        "total_valid_votes": 6806,
+        "total_valid_votes_percentage": 81.1,
+        "margin_votes": 342,
+        "margin_percentage": 4.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Karya Bagang",
+          "party": "All India Trinamool Congress",
+          "votes": 3674,
+          "votes_percentage": 52.4
+        },
+        {
+          "position": 2,
+          "name": "Kameng Dolo",
+          "party": "Indian National Congress",
+          "votes": 3332,
+          "votes_percentage": 47.6
+        }
+      ]
+    },
+    "2004": {
+      "poll_date": "10 July 2004",
+      "counting_date": "10 October 2004",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 11308,
+        "total_votes_polled": 7439,
+        "turnout_percentage": 0.7,
+        "margin_votes": 697,
+        "margin_percentage": 9.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kameng Dolo",
+          "party": "Bharatiya Janta Party",
+          "votes": 4068,
+          "votes_percentage": 54.7
+        },
+        {
+          "position": 2,
+          "name": "Tara Bagang",
+          "party": "Indian National Congress",
+          "votes": 3371,
+          "votes_percentage": 45.3
+        }
+      ]
+    },
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 10096,
+        "total_votes_polled": 5899,
+        "turnout_percentage": 58.4,
+        "margin_votes": 35,
+        "margin_percentage": 0.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kameng Dolo",
+          "party": "Independent",
+          "votes": 1894,
+          "votes_percentage": 34.9
+        },
+        {
+          "position": 2,
+          "name": "Tame Yangfo",
+          "party": "Peoples Party Of Arunachal",
+          "votes": 1859,
+          "votes_percentage": 34.2
+        },
+        {
+          "position": 3,
+          "name": "Lukup Sono Yangfo",
+          "party": "Indian National Congress (U)",
+          "votes": 872,
+          "votes_percentage": 16.1
+        },
+        {
+          "position": 4,
+          "name": "Donglo Sonam",
+          "party": "Indian National Congress (I)",
+          "votes": 804,
+          "votes_percentage": 14.8
+        }
+      ]
+    }
+  }
+}

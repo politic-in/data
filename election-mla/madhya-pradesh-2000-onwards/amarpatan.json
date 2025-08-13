@@ -1,0 +1,596 @@
+{
+  "state": "Madhya Pradesh [2000 Onwards]",
+  "constituency": "Amarpatan",
+  "district": "Satna",
+  "ac_type": "GEN",
+  "results": {
+    "2023": {
+      "poll_date": "17 November 2023",
+      "counting_date": "03 December 2023",
+      "total_contestants": 17,
+      "aggregate": {
+        "total_electors": 489690,
+        "total_votes_polled": 183762,
+        "turnout_percentage": 37.8,
+        "margin_votes": 6490,
+        "margin_percentage": 3.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr. Rajendra Kumar Singh",
+          "party": "Indian National Congress",
+          "votes": 80949,
+          "votes_percentage": 43.7
+        },
+        {
+          "position": 2,
+          "name": "Ramkhelawan Patel",
+          "party": "Bharatiya Janta Party",
+          "votes": 74459,
+          "votes_percentage": 40.2
+        },
+        {
+          "position": 3,
+          "name": "Chhangelal Kol",
+          "party": "Bahujan Samaj Party",
+          "votes": 21317,
+          "votes_percentage": 11.5
+        },
+        {
+          "position": 4,
+          "name": "Neelam-Pushpendra Pandey",
+          "party": "Independent",
+          "votes": 1321,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Ramsufal Kewat",
+          "party": "Independent",
+          "votes": 1065,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Er. Virendra Kumar Patel",
+          "party": "Independent",
+          "votes": 998,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Akhilesh Kumar Prajapati",
+          "party": "Peoples Party Of India (Democratic)",
+          "votes": 994,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Suraj Is God",
+          "party": "Independent",
+          "votes": 525,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Mo. Nasim",
+          "party": "Independent",
+          "votes": 338,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Shashi Satyendra Sharma",
+          "party": "Vindhya Janta Party",
+          "votes": 305,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Gaurishankar Triveni Prasad Tiwari",
+          "party": "Independent",
+          "votes": 290,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Balkrishna Yadav",
+          "party": "Samajwadi Party",
+          "votes": 289,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 13,
+          "name": "Ajay Kumar Kushwaha",
+          "party": "Jan Adhikar Party",
+          "votes": 208,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Baba Chhote Lal Nat",
+          "party": "Independent",
+          "votes": 207,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Ashish Kushwaha",
+          "party": "Bhartiya Shakti Chetna Party",
+          "votes": 200,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "Amit Tiwari (LALA Bhai)",
+          "party": "Bharatiya Jan Morcha Party",
+          "votes": 165,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 17,
+          "name": "Rameshvar Prasad Patel",
+          "party": "Akhil Bhartiya Apna Dal",
+          "votes": 132,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 15,
+      "aggregate": {
+        "total_electors": 218601,
+        "total_votes_polled": 164874,
+        "turnout_percentage": 76.5,
+        "margin_votes": 3747,
+        "margin_percentage": 2.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ramkhelawan Patel",
+          "party": "Bharatiya Janta Party",
+          "votes": 59836,
+          "votes_percentage": 36.3
+        },
+        {
+          "position": 2,
+          "name": "Dr. Rajendra Kumar Singh \"dada Bhai\"",
+          "party": "Indian National Congress",
+          "votes": 56089,
+          "votes_percentage": 34.0
+        },
+        {
+          "position": 3,
+          "name": "Chhangelal Kol",
+          "party": "Bahujan Samaj Party",
+          "votes": 37918,
+          "votes_percentage": 23.0
+        },
+        {
+          "position": 4,
+          "name": "Om Prakash Gautam",
+          "party": "Independent",
+          "votes": 1908,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 5,
+          "name": "Rajiv Lochan Tiwari",
+          "party": "Independent",
+          "votes": 1625,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Amit Kumar Tiwari",
+          "party": "Samajwadi Party",
+          "votes": 1495,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 7,
+          "name": "Com. Rajdhani Singh",
+          "party": "Communist Party Of India",
+          "votes": 1427,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 8,
+          "name": "Jitendra Chaurasiya",
+          "party": "Aam Aadmi Party",
+          "votes": 899,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 9,
+          "name": "Mo. Habeb",
+          "party": "Apna Dal (Soneylal)",
+          "votes": 794,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 10,
+          "name": "Dr. Santosh Kumar Gupta",
+          "party": "Gondvana Gantantra Party",
+          "votes": 750,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 11,
+          "name": "Er. Virendra Kumar Patel",
+          "party": "Independent",
+          "votes": 612,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 12,
+          "name": "Shivkumar Tripathi",
+          "party": "Bharatiya Jan Morcha Party",
+          "votes": 487,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 13,
+          "name": "'yogi' Pradeep Tiwari Ad.",
+          "party": "Sapaks Party",
+          "votes": 397,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 14,
+          "name": "Dinesh Kewat (MANJHI)",
+          "party": "Rashtriya Mahan Gantantra Party",
+          "votes": 376,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 15,
+          "name": "Dadhibal Prasad Patel",
+          "party": "Akhil Bhartiya Apna Dal",
+          "votes": 261,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "25 November 2013",
+      "counting_date": "08 December 2013",
+      "total_contestants": 12,
+      "aggregate": {
+        "total_electors": 206890,
+        "total_votes_polled": 145621,
+        "turnout_percentage": 71.8,
+        "margin_votes": 11739,
+        "margin_percentage": 8.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rajendra Kumar Singh Dadabhai",
+          "party": "Indian National Congress",
+          "votes": 48341,
+          "votes_percentage": 33.2
+        },
+        {
+          "position": 2,
+          "name": "Ramkhelawan Patel",
+          "party": "Bharatiya Janta Party",
+          "votes": 36602,
+          "votes_percentage": 25.1
+        },
+        {
+          "position": 3,
+          "name": "Chhangelal Kol",
+          "party": "Bahujan Samaj Party",
+          "votes": 35020,
+          "votes_percentage": 24.1
+        },
+        {
+          "position": 4,
+          "name": "Dharmendra Singh Tiwari",
+          "party": "Gondvana Gantantra Party",
+          "votes": 18113,
+          "votes_percentage": 12.4
+        },
+        {
+          "position": 5,
+          "name": "Dadhibal Prasad Patel",
+          "party": "Apna Dal",
+          "votes": 1325,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Jansewak Mohammed Khalil Khan",
+          "party": "Independent",
+          "votes": 1147,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 7,
+          "name": "Dr Shivlal Kushwaha",
+          "party": "Rashtriya Parivartan Dal",
+          "votes": 1117,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 8,
+          "name": "Saukhilal  Patel",
+          "party": "Hindustan Janata Party",
+          "votes": 1076,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 9,
+          "name": "Dr. Sampat Patel",
+          "party": "Independent",
+          "votes": 887,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 10,
+          "name": "Mathura Singh",
+          "party": "Nationalist Congress Party",
+          "votes": 789,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 11,
+          "name": "Balendu Vishwakarma",
+          "party": "Samajwadi Party",
+          "votes": 638,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 12,
+          "name": "Ramavatar Loni",
+          "party": "Republican Party Of India (A)",
+          "votes": 566,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "2008": {
+      "poll_date": "27 November 2008",
+      "counting_date": "08 December 2008",
+      "total_contestants": 21,
+      "aggregate": {
+        "total_electors": 167518,
+        "total_votes_polled": 119204,
+        "turnout_percentage": 71.2,
+        "margin_votes": 4701,
+        "margin_percentage": 3.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ramkhelawan Patel",
+          "party": "Bharatiya Janta Party",
+          "votes": 41049,
+          "votes_percentage": 34.4
+        },
+        {
+          "position": 2,
+          "name": "Dr. Rajendra Kuamr Singh",
+          "party": "Indian National Congress",
+          "votes": 36348,
+          "votes_percentage": 30.5
+        },
+        {
+          "position": 3,
+          "name": "Dharmendra Singh Tiwari",
+          "party": "Bahujan Samaj Party",
+          "votes": 23526,
+          "votes_percentage": 19.7
+        },
+        {
+          "position": 4,
+          "name": "Badri Bahi Chikwa",
+          "party": "Independent",
+          "votes": 2546,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 5,
+          "name": "Shyam Lal",
+          "party": "Gondwana Mukti Sena",
+          "votes": 2057,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 6,
+          "name": "Keshav Prasad Kori",
+          "party": "Independent",
+          "votes": 1448,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 7,
+          "name": "Krishna Pal Singh Lonia",
+          "party": "Independent",
+          "votes": 1347,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 8,
+          "name": "Mansukhlal Kol",
+          "party": "Independent",
+          "votes": 1289,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 9,
+          "name": "Amit Kumar",
+          "party": "Republican Party Of India",
+          "votes": 1222,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 10,
+          "name": "Ram Lal Saket",
+          "party": "Independent",
+          "votes": 1193,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 11,
+          "name": "Ram Charan Aadiwasi",
+          "party": "Independent",
+          "votes": 993,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 12,
+          "name": "Prashant Kumar",
+          "party": "Samajwadi Party",
+          "votes": 986,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 13,
+          "name": "Ram Dhani",
+          "party": "Independent",
+          "votes": 871,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 14,
+          "name": "Vijay Kumar Gupta",
+          "party": "Bharatiya Jan Shakti",
+          "votes": 713,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 15,
+          "name": "Bhai Shobhnath Sen",
+          "party": "Lok Jan Shakti Party",
+          "votes": 654,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 16,
+          "name": "Gayatri",
+          "party": "Independent",
+          "votes": 635,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 17,
+          "name": "Shivkumar",
+          "party": "Apna Dal",
+          "votes": 512,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 18,
+          "name": "Master Gaibi Prasad Gauntiya",
+          "party": "Gondvana Gantantra Party",
+          "votes": 505,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 19,
+          "name": "Ranvijay",
+          "party": "Independent",
+          "votes": 489,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 20,
+          "name": "Kamlesh Prasad Pande",
+          "party": "Independent",
+          "votes": 486,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 21,
+          "name": "Ramsumiran Kushwaha",
+          "party": "Rashtriya Samanta Dal",
+          "votes": 335,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2003": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 156107,
+        "total_votes_polled": 108747,
+        "turnout_percentage": 69.7,
+        "margin_votes": 3943,
+        "margin_percentage": 3.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rajendra Kumar Singh",
+          "party": "Indian National Congress",
+          "votes": 36834,
+          "votes_percentage": 33.9
+        },
+        {
+          "position": 2,
+          "name": "Kamalkar",
+          "party": "Bharatiya Janta Party",
+          "votes": 32891,
+          "votes_percentage": 30.3
+        },
+        {
+          "position": 3,
+          "name": "Ram Khelavan Patel",
+          "party": "Bahujan Samaj Party",
+          "votes": 25345,
+          "votes_percentage": 23.3
+        },
+        {
+          "position": 4,
+          "name": "Chhabilal Tiwari",
+          "party": "Rashtriya Samanta Dal",
+          "votes": 6049,
+          "votes_percentage": 5.6
+        },
+        {
+          "position": 5,
+          "name": "Ram Lal",
+          "party": "Independent",
+          "votes": 2257,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 6,
+          "name": "Bal Krishna Yadav",
+          "party": "Samajwadi Party",
+          "votes": 1908,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 7,
+          "name": "Krishna Adiwasi",
+          "party": "Lok Jan Shakti Party",
+          "votes": 1265,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 8,
+          "name": "Moti Lal Mishra",
+          "party": "Independent",
+          "votes": 1178,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 9,
+          "name": "Ram Sajiwan",
+          "party": "Apna Dal",
+          "votes": 952,
+          "votes_percentage": 0.9
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "state": "Tripura",
+  "constituency": "Ampinagar (ST)",
+  "district": "South Tripura",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 37520,
+        "total_votes_polled": 33432,
+        "turnout_percentage": 90.8,
+        "margin_votes": 4947,
+        "margin_percentage": 14.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sindhu Chandra Jamatia",
+          "party": "Indigenous People's Front Of Tripura",
+          "votes": 18202,
+          "votes_percentage": 54.4
+        },
+        {
+          "position": 2,
+          "name": "Daniel Jamatia",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 13255,
+          "votes_percentage": 39.6
+        },
+        {
+          "position": 3,
+          "name": "Ram Krishna Jamatia",
+          "party": "Indigenous Nationalist Party Of Twipra",
+          "votes": 1303,
+          "votes_percentage": 3.9
+        },
+        {
+          "position": 4,
+          "name": "Daniel Kaipeng",
+          "party": "Indian National Congress",
+          "votes": 672,
+          "votes_percentage": 2.0
+        }
+      ]
+    }
+  }
+}

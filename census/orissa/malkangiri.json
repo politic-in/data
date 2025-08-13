@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 54327,
+        "male": 54765,
+        "percentage_of_total_population": 17.79,
+        "percentage_of_total_population_calculated": 17.79,
+        "percentage_of_total_population_stated": 17.79,
+        "sex_ratio": 992,
+        "total": 109092
+    },
+    "literacy": {
+        "female_literacy_rate": 38.28,
+        "female_literate": 97705,
+        "male_literacy_rate": 59.07,
+        "male_literate": 147001,
+        "rate_percentage": 48.54,
+        "total_literate": 244706
+    },
+    "population": {
+        "female": 309568,
+        "male": 303624,
+        "sex_ratio": 1020,
+        "total": 613192
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 43
+        },
+        "Christian": {
+            "percentage": 1.64,
+            "population": 10039
+        },
+        "Hindu": {
+            "percentage": 97.88,
+            "population": 600219
+        },
+        "Jain": {
+            "percentage": 0.03,
+            "population": 195
+        },
+        "Muslims": {
+            "percentage": 0.31,
+            "population": 1871
+        },
+        "Not Stated": {
+            "percentage": 0.09,
+            "population": 577
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 35
+        },
+        "Sikh": {
+            "percentage": 0.03,
+            "population": 213
+        }
+    },
+    "rural": {
+        "child_population_female": 51002,
+        "child_population_male": 51263,
+        "child_population_percentage": 18.14,
+        "child_population_percentage_calculated": 18.14,
+        "child_population_percentage_stated": 18.14,
+        "child_population_total": 102265,
+        "child_sex_ratio": 995,
+        "female": 285763,
+        "literacy_rate_female": 35.95,
+        "literacy_rate_male": 56.69,
+        "literacy_rate_percentage": 46.14,
+        "literate_female": 84408,
+        "literate_male": 128473,
+        "literate_total": 212881,
+        "male": 277901,
+        "percentage_population": 91.92,
+        "population": 563664,
+        "sex_ratio": 1028
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/423-malkangiri.html",
+    "urban": {
+        "child_population_female": 3320,
+        "child_population_male": 3507,
+        "child_population_percentage": 13.78,
+        "child_population_percentage_calculated": 13.78,
+        "child_population_percentage_stated": 13.78,
+        "child_population_total": 6827,
+        "child_sex_ratio": 947,
+        "female": 23805,
+        "literacy_rate_female": 64.91,
+        "literacy_rate_male": 83.4,
+        "literacy_rate_percentage": 74.53,
+        "literate_female": 13297,
+        "literate_male": 18528,
+        "literate_total": 31825,
+        "male": 25723,
+        "percentage_population": 8.08,
+        "population": 49528,
+        "sex_ratio": 925
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 119184,
+        "male": 134824,
+        "percentage_of_total_population": 12.14,
+        "percentage_of_total_population_calculated": 12.14,
+        "percentage_of_total_population_stated": 12.14,
+        "sex_ratio": 884,
+        "total": 254008
+    },
+    "literacy": {
+        "female_literacy_rate": 76.36,
+        "female_literate": 676772,
+        "male_literacy_rate": 91.82,
+        "male_literate": 874481,
+        "rate_percentage": 84.37,
+        "total_literate": 1551253
+    },
+    "population": {
+        "female": 1005521,
+        "male": 1087224,
+        "sex_ratio": 925,
+        "total": 2092745
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 267
+        },
+        "Christian": {
+            "percentage": 1.42,
+            "population": 29789
+        },
+        "Hindu": {
+            "percentage": 85.95,
+            "population": 1798794
+        },
+        "Jain": {
+            "percentage": 0.41,
+            "population": 8591
+        },
+        "Muslims": {
+            "percentage": 11.99,
+            "population": 250919
+        },
+        "Not Stated": {
+            "percentage": 0.13,
+            "population": 2719
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 142
+        },
+        "Sikh": {
+            "percentage": 0.07,
+            "population": 1524
+        }
+    },
+    "rural": {
+        "child_population_female": 86209,
+        "child_population_male": 97827,
+        "child_population_percentage": 12.62,
+        "child_population_percentage_calculated": 12.62,
+        "child_population_percentage_stated": 12.62,
+        "child_population_total": 184036,
+        "child_sex_ratio": 881,
+        "female": 699259,
+        "literacy_rate_female": 73.43,
+        "literacy_rate_male": 91.27,
+        "literacy_rate_percentage": 82.68,
+        "literate_female": 450139,
+        "literate_male": 602971,
+        "literate_total": 1053110,
+        "male": 758499,
+        "percentage_population": 69.66,
+        "population": 1457758,
+        "sex_ratio": 922
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/196-anand.html",
+    "urban": {
+        "child_population_female": 32972,
+        "child_population_male": 37000,
+        "child_population_percentage": 11.02,
+        "child_population_percentage_calculated": 11.02,
+        "child_population_percentage_stated": 11.02,
+        "child_population_total": 69972,
+        "child_sex_ratio": 891,
+        "female": 306262,
+        "literacy_rate_female": 82.93,
+        "literacy_rate_male": 93.07,
+        "literacy_rate_percentage": 88.16,
+        "literate_female": 226633,
+        "literate_male": 271510,
+        "literate_total": 498143,
+        "male": 328725,
+        "percentage_population": 30.34,
+        "population": 634987,
+        "sex_ratio": 932
+    }
+}

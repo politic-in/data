@@ -1,0 +1,43 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "AMALAPRUAM",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 478247,
+        "total_votes_polled": 336739,
+        "turnout_percentage": 70.4,
+        "margin_votes": 12570,
+        "margin_percentage": 3.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bayya Suryanarayana Murthy",
+          "party": "Indian National Congress",
+          "votes": 151439,
+          "votes_percentage": 45.0
+        },
+        {
+          "position": 2,
+          "name": "Keneti Mohana Rao",
+          "party": "Communist Party Of India",
+          "votes": 138869,
+          "votes_percentage": 41.2
+        },
+        {
+          "position": 3,
+          "name": "Ganta Arunakumar",
+          "party": "Republican Party",
+          "votes": 35465,
+          "votes_percentage": 10.5
+        }
+      ]
+    }
+  }
+}

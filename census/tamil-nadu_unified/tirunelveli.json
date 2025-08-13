@@ -1,0 +1,87 @@
+{
+    "district": "Tirunelveli",
+    "state": "Tamil Nadu",
+    "source_census2011": "https://www.census2011.co.in/census/district/50-tirunelveli.html",
+    "source_secondary": "https://www.censusindia.co.in/district/tirunelveli-district-tamil-nadu-628",
+    "child_population": {
+        "total": 321687,
+        "male": 164157,
+        "female": 157530,
+        "sex_ratio": 960,
+        "percentage_of_total_population": 10.45,
+        "percentage_of_total_population_calculated": 10.45,
+        "percentage_of_total_population_stated": 10.45
+    },
+    "religion": {
+        "Hindu": {
+            "population": 2425630,
+            "percentage": 78.83
+        },
+        "Muslims": {
+            "population": 303368,
+            "percentage": 9.86
+        },
+        "Christian": {
+            "population": 342254,
+            "percentage": 11.12
+        },
+        "Sikh": {
+            "population": 268,
+            "percentage": 0.01
+        },
+        "Buddhist": {
+            "population": 373,
+            "percentage": 0.01
+        },
+        "Jain": {
+            "population": 144,
+            "percentage": 0.0
+        },
+        "Others": {
+            "population": 450,
+            "percentage": 0.01
+        },
+        "Not Stated": {
+            "population": 4746,
+            "percentage": 0.15
+        }
+    },
+    "rural": {
+        "population": 1557004,
+        "male": 0,
+        "female": 0,
+        "sex_ratio": 1025,
+        "percentage_population": 0,
+        "literacy_rate_percentage": 79.17,
+        "literacy_rate_male": 0,
+        "literacy_rate_female": 0,
+        "literate_total": 1100112,
+        "literate_male": 592979,
+        "literate_female": 507133
+    },
+    "urban": {
+        "population": 1520229,
+        "male": 0,
+        "female": 0,
+        "sex_ratio": 1021,
+        "percentage_population": 0,
+        "literacy_rate_percentage": 85.9,
+        "literacy_rate_male": 0,
+        "literacy_rate_female": 0,
+        "literate_total": 1173345,
+        "literate_male": 617731,
+        "literate_female": 555614
+    },
+    "scheduled_caste": {
+        "total": 569714,
+        "percentage_of_total_population": 18.5,
+        "male": 279570,
+        "female": 290144
+    },
+    "scheduled_tribe": {
+        "total": 10270,
+        "percentage_of_total_population": 0.3,
+        "male": 5109,
+        "female": 5161
+    }
+}

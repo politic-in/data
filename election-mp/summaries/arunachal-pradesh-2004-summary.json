@@ -1,0 +1,45 @@
+{
+  "state": "Arunachal Pradesh",
+  "year": "2004",
+  "summary_stats": {
+    "total_electors_state": 684034,
+    "total_votes_polled_state": 383322,
+    "turnout_percentage_state": 56.0,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Arunachal East",
+      "ac_no": 2,
+      "ac_type": "GEN",
+      "district": "Arunachal Pradesh",
+      "winning_candidate": "Tapir Gao",
+      "winning_party": "Bharatiya Janta Party",
+      "total_electors_ac": 289606,
+      "total_votes_ac": 162704,
+      "poll_percentage_ac": 0.0,
+      "margin": 44994,
+      "margin_percentage": 27.7,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2004/arunachal-pradesh/arunachal-east/6983/41/14"
+    },
+    {
+      "ac_name": "Arunachal West",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Arunachal Pradesh",
+      "winning_candidate": "Kiren Rijiju",
+      "winning_party": "Bharatiya Janta Party",
+      "total_electors_ac": 394428,
+      "total_votes_ac": 220618,
+      "poll_percentage_ac": 0.0,
+      "margin": 47424,
+      "margin_percentage": 21.5,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2004/arunachal-pradesh/arunachal-west/6982/41/14"
+    }
+  ]
+}

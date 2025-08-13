@@ -1,0 +1,71 @@
+{
+  "state": "Uttarakhand",
+  "constituency": "GHANSALI(SC)",
+  "district": "Tehri Garhwal",
+  "ac_type": "SC",
+  "results": {
+    "2022": {
+      "poll_date": "14 February 2022",
+      "counting_date": "10 March 2022",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 101772,
+        "total_votes_polled": 49026,
+        "turnout_percentage": 48.9,
+        "margin_votes": 10285,
+        "margin_percentage": 21.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shakti Lal Shah",
+          "party": "Bharatiya Janta Party",
+          "votes": 20949,
+          "votes_percentage": 42.7
+        },
+        {
+          "position": 2,
+          "name": "Dhani Lal Shah",
+          "party": "Indian National Congress",
+          "votes": 10664,
+          "votes_percentage": 21.8
+        },
+        {
+          "position": 3,
+          "name": "Bheem Lal Arya",
+          "party": "Independent",
+          "votes": 9204,
+          "votes_percentage": 18.8
+        },
+        {
+          "position": 4,
+          "name": "Darshan Lal Das",
+          "party": "Independent",
+          "votes": 4739,
+          "votes_percentage": 9.7
+        },
+        {
+          "position": 5,
+          "name": "Kamal Das",
+          "party": "Uttarakhand Kranti Dal",
+          "votes": 1653,
+          "votes_percentage": 3.4
+        },
+        {
+          "position": 6,
+          "name": "Shoorveer Lal",
+          "party": "Independent",
+          "votes": 1363,
+          "votes_percentage": 2.8
+        },
+        {
+          "position": 7,
+          "name": "Vijay Prakash",
+          "party": "Aam Aadmi Party",
+          "votes": 454,
+          "votes_percentage": 0.9
+        }
+      ]
+    }
+  }
+}

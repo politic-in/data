@@ -1,0 +1,512 @@
+name: Publish Data Packages
+
+on:
+  schedule:
+    # Run every Saturday at 11:30 PM UTC (5:00 AM IST Sunday)
+    - cron: '30 23 * * 6'
+  workflow_dispatch:
+    inputs:
+      release_type:
+        description: 'Release type'
+        required: true
+        default: 'weekly'
+        type: choice
+        options:
+          - weekly
+          - patch
+          - minor
+          - major
+
+jobs:
+  check-changes:
+    name: Check for Data Changes
+    runs-on: ubuntu-latest
+    outputs:
+      has_changes: ${{ steps.check.outputs.has_changes }}
+      change_summary: ${{ steps.check.outputs.change_summary }}
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Check for changes since last release
+        id: check
+        run: |
+          # Get the date of the last release
+          LAST_RELEASE=$(gh release list --limit 1 --json tagName,createdAt -q '.[0].createdAt' || echo "2024-01-01T00:00:00Z")
+          echo "Last release: $LAST_RELEASE"
+          
+          # Check for changes in data files since last release
+          CHANGED_FILES=$(git diff --name-only "@{$LAST_RELEASE}" HEAD -- \
+            'booth/**/*.json' \
+            'census/**/*.json' \
+            'election-mla/**/*.json' \
+            'election-mp/**/*.json' 2>/dev/null || git diff --name-only HEAD~7..HEAD -- \
+            'booth/**/*.json' \
+            'census/**/*.json' \
+            'election-mla/**/*.json' \
+            'election-mp/**/*.json')
+          
+          if [ -z "$CHANGED_FILES" ]; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "No data changes detected since last release"
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "Data changes detected:"
+            echo "$CHANGED_FILES"
+            
+            # Generate change summary
+            BOOTH_CHANGES=$(echo "$CHANGED_FILES" | grep -c "booth/" || true)
+            CENSUS_CHANGES=$(echo "$CHANGED_FILES" | grep -c "census/" || true)
+            MLA_CHANGES=$(echo "$CHANGED_FILES" | grep -c "election-mla/" || true)
+            MP_CHANGES=$(echo "$CHANGED_FILES" | grep -c "election-mp/" || true)
+            
+            SUMMARY="Changes: "
+            [ $BOOTH_CHANGES -gt 0 ] && SUMMARY="${SUMMARY}Booth($BOOTH_CHANGES) "
+            [ $CENSUS_CHANGES -gt 0 ] && SUMMARY="${SUMMARY}Census($CENSUS_CHANGES) "
+            [ $MLA_CHANGES -gt 0 ] && SUMMARY="${SUMMARY}MLA($MLA_CHANGES) "
+            [ $MP_CHANGES -gt 0 ] && SUMMARY="${SUMMARY}MP($MP_CHANGES) "
+            
+            echo "change_summary=$SUMMARY" >> $GITHUB_OUTPUT
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  build-and-publish:
+    name: Build and Publish Data Packages
+    needs: check-changes
+    if: needs.check-changes.outputs.has_changes == 'true' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    outputs:
+      version: ${{ steps.date.outputs.version }}
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+      
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Validate data
+        run: npm run validate
+      
+      - name: Build SQLite database
+        run: npm run build:db
+      
+      - name: Build Parquet files
+        run: npm run build:parquet
+        continue-on-error: true  # Parquet generation might fail on some edge cases
+      
+      - name: Build vector embeddings
+        run: |
+          echo "Building vector embeddings..."
+          npm run build:vectors
+          
+          # Export to Neo4j format
+          npm run export:neo4j
+          
+          # Export to Qdrant format
+          npm run export:qdrant
+          
+          # Export to Elasticsearch format
+          npm run export:elasticsearch
+      
+      - name: Compress artifacts
+        run: |
+          cd dist
+          
+          # Create compressed versions
+          gzip -k politic-data.db
+          gzip -k politic-data.sql
+          [ -f politic-data-delta.db ] && gzip -k politic-data-delta.db
+          
+          # Create tar.gz with all formats
+          tar -czf politic-data-all.tar.gz *.db *.sql *.parquet 2>/dev/null || tar -czf politic-data-all.tar.gz *.db *.sql
+          
+          # Create vector embeddings archive
+          if [ -f politic-data-vectors.json ]; then
+            tar -czf politic-data-vectors.tar.gz politic-data-vectors.* vector-metadata.json
+          fi
+          
+          # Create Neo4j archive
+          if [ -f politic-data-neo4j.cypher ]; then
+            tar -czf politic-data-neo4j.tar.gz politic-data-neo4j.cypher neo4j-import-instructions.md
+          fi
+          
+          # Create Qdrant archive
+          if ls qdrant-*.json 1> /dev/null 2>&1; then
+            tar -czf politic-data-qdrant.tar.gz qdrant-*.json qdrant-*.jsonl qdrant-*.sh qdrant-*.py qdrant-*.md
+          fi
+          
+          # Create Elasticsearch archive
+          if ls elasticsearch-*.ndjson 1> /dev/null 2>&1; then
+            tar -czf politic-data-elasticsearch.tar.gz elasticsearch-*.ndjson elasticsearch-*.json elasticsearch-*.sh elasticsearch-*.py
+          fi
+          
+          # Create individual archives
+          tar -czf politic-data-sqlite.tar.gz politic-data.db
+          tar -czf politic-data-postgres.tar.gz politic-data.sql
+          
+          # Create delta package with changes only
+          if [ -f politic-data-delta.db ]; then
+            tar -czf politic-data-delta.tar.gz politic-data-delta.db CHANGELOG.md changelog.json
+          fi
+          
+          # Create Parquet archive if files exist
+          if ls *.parquet 1> /dev/null 2>&1; then
+            tar -czf politic-data-parquet.tar.gz *.parquet
+          fi
+          
+          # Generate checksums
+          sha256sum *.tar.gz *.gz > checksums.txt
+          
+          cd ..
+      
+      - name: Get date version
+        id: date
+        run: echo "version=$(date +'%Y.%m.%d')" >> $GITHUB_OUTPUT
+      
+      - name: Create Full Data Release
+        id: create_full_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: v${{ steps.date.outputs.version }}
+          release_name: Full Data Release ${{ steps.date.outputs.version }}
+          body: |
+            ## 📊 Indian Political Data - Full Release
+            
+            **Version:** ${{ steps.date.outputs.version }}
+            **Type:** Complete Dataset
+            **Generated:** ${{ github.event.head_commit.timestamp || github.event.repository.updated_at }}
+            
+            ### 📦 This Release Contains Complete Data
+            
+            - **SQLite Database** (`politic-data-sqlite.tar.gz`): Complete database, perfect for local analysis
+            - **PostgreSQL Dump** (`politic-data-postgres.tar.gz`): SQL dump for PostgreSQL import
+            - **Parquet Files** (`politic-data-parquet.tar.gz`): Columnar format for analytics with DuckDB, Spark, etc.
+            - **Vector Embeddings** (`politic-data-vectors.tar.gz`): Pre-computed vector embeddings for semantic search
+            - **Neo4j Import** (`politic-data-neo4j.tar.gz`): Cypher scripts for Neo4j graph database with vector support
+            - **Qdrant Import** (`politic-data-qdrant.tar.gz`): Collections and points for Qdrant vector database
+            - **Elasticsearch** (`politic-data-elasticsearch.tar.gz`): Bulk import files for Elasticsearch/OpenSearch
+            - **All Formats** (`politic-data-all.tar.gz`): Complete package with all formats
+            
+            ### 🆕 Looking for only changes?
+            See the [Delta Release v${{ steps.date.outputs.version }}-delta](https://github.com/${{ github.repository }}/releases/tag/v${{ steps.date.outputs.version }}-delta) for incremental updates only.
+            
+            ### 🚀 Quick Start
+            
+            #### SQLite
+            ```bash
+            wget https://github.com/${{ github.repository }}/releases/download/v${{ steps.date.outputs.version }}/politic-data-sqlite.tar.gz
+            tar -xzf politic-data-sqlite.tar.gz
+            sqlite3 politic-data.db "SELECT COUNT(*) FROM booth;"
+            ```
+            
+            #### PostgreSQL
+            ```bash
+            wget https://github.com/${{ github.repository }}/releases/download/v${{ steps.date.outputs.version }}/politic-data-postgres.tar.gz
+            tar -xzf politic-data-postgres.tar.gz
+            psql -U your_user -d your_database < politic-data.sql
+            ```
+            
+            #### DuckDB (Parquet)
+            ```sql
+            -- Install DuckDB and run:
+            SELECT * FROM 'booth.parquet' LIMIT 10;
+            SELECT * FROM 'census.parquet' WHERE state_name = 'Punjab';
+            ```
+            
+            #### Neo4j (Graph + Vectors)
+            ```bash
+            wget https://github.com/${{ github.repository }}/releases/download/v${{ steps.date.outputs.version }}/politic-data-neo4j.tar.gz
+            tar -xzf politic-data-neo4j.tar.gz
+            cat politic-data-neo4j.cypher | cypher-shell -u neo4j -p password
+            ```
+            
+            #### Qdrant (Vector Search)
+            ```bash
+            wget https://github.com/${{ github.repository }}/releases/download/v${{ steps.date.outputs.version }}/politic-data-qdrant.tar.gz
+            tar -xzf politic-data-qdrant.tar.gz
+            ./qdrant-import.sh
+            ```
+            
+            #### Elasticsearch/OpenSearch
+            ```bash
+            wget https://github.com/${{ github.repository }}/releases/download/v${{ steps.date.outputs.version }}/politic-data-elasticsearch.tar.gz
+            tar -xzf politic-data-elasticsearch.tar.gz
+            ./elasticsearch-import.sh
+            ```
+            
+            ### 📋 Data Includes
+            - Booth-level election data
+            - Census demographics
+            - MLA election results (Vidhan Sabha)
+            - MP election results (Lok Sabha)
+            
+            ### 🔐 Checksums
+            See `checksums.txt` for SHA256 verification
+            
+            ### 📄 License
+            CC0 1.0 Universal (Public Domain)
+          draft: false
+          prerelease: false
+      
+      - name: Upload SQLite Package to Full Release
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_full_release.outputs.upload_url }}
+          asset_path: ./dist/politic-data-sqlite.tar.gz
+          asset_name: politic-data-sqlite.tar.gz
+          asset_content_type: application/gzip
+      
+      - name: Upload PostgreSQL Package to Full Release
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_full_release.outputs.upload_url }}
+          asset_path: ./dist/politic-data-postgres.tar.gz
+          asset_name: politic-data-postgres.tar.gz
+          asset_content_type: application/gzip
+      
+      - name: Upload All Formats Package to Full Release
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_full_release.outputs.upload_url }}
+          asset_path: ./dist/politic-data-all.tar.gz
+          asset_name: politic-data-all.tar.gz
+          asset_content_type: application/gzip
+      
+      - name: Upload Parquet Package to Full Release
+        if: ${{ hashFiles('dist/politic-data-parquet.tar.gz') != '' }}
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_full_release.outputs.upload_url }}
+          asset_path: ./dist/politic-data-parquet.tar.gz
+          asset_name: politic-data-parquet.tar.gz
+          asset_content_type: application/gzip
+      
+      - name: Upload Checksums to Full Release
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_full_release.outputs.upload_url }}
+          asset_path: ./dist/checksums.txt
+          asset_name: checksums.txt
+          asset_content_type: text/plain
+      
+      - name: Upload Vector Embeddings to Full Release
+        if: ${{ hashFiles('dist/politic-data-vectors.tar.gz') != '' }}
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_full_release.outputs.upload_url }}
+          asset_path: ./dist/politic-data-vectors.tar.gz
+          asset_name: politic-data-vectors.tar.gz
+          asset_content_type: application/gzip
+      
+      - name: Upload Neo4j Package to Full Release
+        if: ${{ hashFiles('dist/politic-data-neo4j.tar.gz') != '' }}
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_full_release.outputs.upload_url }}
+          asset_path: ./dist/politic-data-neo4j.tar.gz
+          asset_name: politic-data-neo4j.tar.gz
+          asset_content_type: application/gzip
+      
+      - name: Upload Qdrant Package to Full Release
+        if: ${{ hashFiles('dist/politic-data-qdrant.tar.gz') != '' }}
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_full_release.outputs.upload_url }}
+          asset_path: ./dist/politic-data-qdrant.tar.gz
+          asset_name: politic-data-qdrant.tar.gz
+          asset_content_type: application/gzip
+      
+      - name: Upload Elasticsearch Package to Full Release
+        if: ${{ hashFiles('dist/politic-data-elasticsearch.tar.gz') != '' }}
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_full_release.outputs.upload_url }}
+          asset_path: ./dist/politic-data-elasticsearch.tar.gz
+          asset_name: politic-data-elasticsearch.tar.gz
+          asset_content_type: application/gzip
+      
+  
+  publish-delta:
+    name: Publish Delta Package
+    needs: [check-changes, build-and-publish]
+    if: needs.check-changes.outputs.has_changes == 'true' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+      
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Generate unified delta
+        run: npm run build:delta
+      
+      - name: Create Delta Release
+        id: create_delta_release
+        if: ${{ hashFiles('dist/politic-data-delta.db') != '' || hashFiles('dist/CHANGELOG.md') != '' }}
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: v${{ needs.build-and-publish.outputs.version }}-delta
+          release_name: Delta Release ${{ needs.build-and-publish.outputs.version }}
+          body: |
+            ## 🔄 Indian Political Data - Delta Release (Changes Only)
+            
+            **Version:** ${{ needs.build-and-publish.outputs.version }}-delta
+            **Type:** Incremental Updates Only
+            **Generated:** ${{ github.event.head_commit.timestamp || github.event.repository.updated_at }}
+            
+            ### 🆕 What's Changed
+            ${{ needs.check-changes.outputs.change_summary }}
+            
+            ### 📦 This Release Contains Only Changes
+            
+            - **Unified Delta** (`politic-data-delta.tar.gz`): JSONL format with all changes
+            - **Consumer Examples** (`delta-consumers.tar.gz`): Import scripts for SQLite, PostgreSQL, Elasticsearch, Neo4j, etc.
+            - **Changelog** (`DELTA_CHANGELOG.md`): Human-readable list of changes
+            
+            ### 💾 Need the complete dataset?
+            See the [Full Release v${{ needs.build-and-publish.outputs.version }}](https://github.com/${{ github.repository }}/releases/tag/v${{ needs.build-and-publish.outputs.version }}) for complete data.
+            
+            ### 📊 How to Use Delta Updates
+            
+            ```bash
+            # Download delta package
+            wget https://github.com/${{ github.repository }}/releases/download/v${{ needs.build-and-publish.outputs.version }}-delta/politic-data-delta.tar.gz
+            tar -xzf politic-data-delta.tar.gz
+            
+            # Process with your database (examples included)
+            node delta-consumers/sqlite-consumer.js delta.jsonl your-database.db
+            python delta-consumers/es-consumer.py delta.jsonl
+            
+            # View changelog
+            cat DELTA_CHANGELOG.md
+            ```
+            
+            ### 📄 License
+            CC0 1.0 Universal (Public Domain)
+          draft: false
+          prerelease: false
+      
+      - name: Compress delta artifacts
+        if: steps.create_delta_release.outcome == 'success'
+        run: |
+          cd dist
+          
+          # Package unified delta
+          if [ -f delta.jsonl ]; then
+            tar -czf politic-data-delta.tar.gz delta.jsonl delta.json DELTA_CHANGELOG.md
+          fi
+          
+          # Package consumer examples
+          if [ -d delta-consumers ]; then
+            tar -czf delta-consumers.tar.gz delta-consumers/
+          fi
+          
+          cd ..
+      
+      - name: Upload Delta Package
+        if: ${{ hashFiles('dist/politic-data-delta.tar.gz') != '' }}
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_delta_release.outputs.upload_url }}
+          asset_path: ./dist/politic-data-delta.tar.gz
+          asset_name: politic-data-delta.tar.gz
+          asset_content_type: application/gzip
+      
+      - name: Upload Delta Consumers Package
+        if: ${{ hashFiles('dist/delta-consumers.tar.gz') != '' }}
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_delta_release.outputs.upload_url }}
+          asset_path: ./dist/delta-consumers.tar.gz
+          asset_name: delta-consumers.tar.gz
+          asset_content_type: application/gzip
+      
+      - name: Upload Changelog
+        if: ${{ hashFiles('dist/DELTA_CHANGELOG.md') != '' }}
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_delta_release.outputs.upload_url }}
+          asset_path: ./dist/DELTA_CHANGELOG.md
+          asset_name: DELTA_CHANGELOG.md
+          asset_content_type: text/markdown
+      
+      - name: Update Latest Release Badge
+        run: |
+          echo "Latest full release: v${{ needs.build-and-publish.outputs.version }}"
+          echo "Latest delta release: v${{ needs.build-and-publish.outputs.version }}-delta"
+          echo "Download full: https://github.com/${{ github.repository }}/releases/tag/v${{ needs.build-and-publish.outputs.version }}"
+          echo "Download delta: https://github.com/${{ github.repository }}/releases/tag/v${{ needs.build-and-publish.outputs.version }}-delta"
+      
+      - name: Trigger Ingestor Webhook
+        if: ${{ vars.INGESTOR_WEBHOOK_URL != '' }}
+        run: |
+          # Trigger delta ingestion webhook
+          curl -X POST "${{ vars.INGESTOR_WEBHOOK_URL }}/webhook/delta" \
+            -H "Content-Type: application/json" \
+            -H "X-GitHub-Event: release" \
+            -H "X-Hub-Signature-256: ${{ secrets.WEBHOOK_SECRET }}" \
+            -d '{
+              "action": "published",
+              "release": {
+                "tag_name": "v${{ needs.build-and-publish.outputs.version }}-delta",
+                "name": "Delta Release ${{ needs.build-and-publish.outputs.version }}",
+                "url": "https://github.com/${{ github.repository }}/releases/tag/v${{ needs.build-and-publish.outputs.version }}-delta",
+                "assets": [
+                  {
+                    "name": "politic-data-delta.tar.gz",
+                    "browser_download_url": "https://github.com/${{ github.repository }}/releases/download/v${{ needs.build-and-publish.outputs.version }}-delta/politic-data-delta.tar.gz"
+                  }
+                ]
+              }
+            }' || echo "Webhook notification failed (non-critical)"

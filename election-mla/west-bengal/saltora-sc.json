@@ -1,0 +1,64 @@
+{
+  "state": "West Bengal",
+  "constituency": "SALTORA (SC)",
+  "district": "Bankura",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 212722,
+        "total_votes_polled": 179137,
+        "turnout_percentage": 86.5,
+        "margin_votes": 12523,
+        "margin_percentage": 7.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Swapan Bouri",
+          "party": "All India Trinamool Congress",
+          "votes": 84979,
+          "votes_percentage": 47.4
+        },
+        {
+          "position": 2,
+          "name": "Sasthi Charan Bouri",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 72456,
+          "votes_percentage": 40.5
+        },
+        {
+          "position": 3,
+          "name": "Snehasis Mondal",
+          "party": "Bharatiya Janta Party",
+          "votes": 14991,
+          "votes_percentage": 8.4
+        },
+        {
+          "position": 4,
+          "name": "Dipak Kumar Bhuiya",
+          "party": "Bahujan Mukti Party",
+          "votes": 2260,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 5,
+          "name": "Dipen Bauri",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 2237,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 6,
+          "name": "Mahananda Maji",
+          "party": "Independent",
+          "votes": 2214,
+          "votes_percentage": 1.2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "state": "Assam",
+  "constituency": "Doomdooma",
+  "district": "Tinsukia",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 145259,
+        "total_votes_polled": 114573,
+        "turnout_percentage": 81.1,
+        "margin_votes": 8138,
+        "margin_percentage": 7.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rupesh Gowala",
+          "party": "Bharatiya Janta Party",
+          "votes": 49119,
+          "votes_percentage": 42.9
+        },
+        {
+          "position": 2,
+          "name": "Durga Bhumij",
+          "party": "Indian National Congress",
+          "votes": 40981,
+          "votes_percentage": 35.8
+        },
+        {
+          "position": 3,
+          "name": "Lakheswar Moran",
+          "party": "Independent",
+          "votes": 15312,
+          "votes_percentage": 13.4
+        },
+        {
+          "position": 4,
+          "name": "Suresh Bhumij",
+          "party": "Assam Jatiya Parishad",
+          "votes": 4348,
+          "votes_percentage": 3.8
+        },
+        {
+          "position": 5,
+          "name": "Kanak Chetia",
+          "party": "Independent",
+          "votes": 2181,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 6,
+          "name": "Rajesh Kishan",
+          "party": "Political Justice Party",
+          "votes": 1703,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 7,
+          "name": "Debajit Moran",
+          "party": "Independent",
+          "votes": 929,
+          "votes_percentage": 0.8
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "04 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 120375,
+        "total_votes_polled": 85691,
+        "turnout_percentage": 71.2,
+        "margin_votes": 4656,
+        "margin_percentage": 5.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dilip Moran",
+          "party": "Bharatiya Janta Party",
+          "votes": 31709,
+          "votes_percentage": 37.0
+        },
+        {
+          "position": 2,
+          "name": "Rupesh Gowala",
+          "party": "Indian National Congress",
+          "votes": 27053,
+          "votes_percentage": 31.6
+        },
+        {
+          "position": 3,
+          "name": "Durga Bhumij",
+          "party": "Independent",
+          "votes": 16971,
+          "votes_percentage": 19.8
+        },
+        {
+          "position": 4,
+          "name": "Bhabo Kanto Chutia",
+          "party": "Independent",
+          "votes": 4072,
+          "votes_percentage": 4.8
+        },
+        {
+          "position": 5,
+          "name": "Manoj Manki",
+          "party": "Asom Gana Parisad",
+          "votes": 2944,
+          "votes_percentage": 3.4
+        },
+        {
+          "position": 6,
+          "name": "Bhagwan Tanti",
+          "party": "Independent",
+          "votes": 1510,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 7,
+          "name": "Bharat Yadav",
+          "party": "All India United Democratic Front",
+          "votes": 1432,
+          "votes_percentage": 1.7
+        }
+      ]
+    }
+  }
+}

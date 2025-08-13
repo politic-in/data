@@ -1,0 +1,136 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "BHORE",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "2005": {
+      "poll_date": "19 November 2005",
+      "counting_date": "21 November 2005",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 221501,
+        "total_votes_polled": 92023,
+        "turnout_percentage": 41.6,
+        "total_valid_votes": 92023,
+        "total_valid_votes_percentage": 41.5,
+        "margin_votes": 5891,
+        "margin_percentage": 6.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Anil Kumar",
+          "party": "Rashtriya Janata Dal",
+          "votes": 33081,
+          "votes_percentage": 36.0
+        },
+        {
+          "position": 2,
+          "name": "Indradev Manjhi",
+          "party": "Bharatiya Janta Party",
+          "votes": 27190,
+          "votes_percentage": 29.6
+        },
+        {
+          "position": 3,
+          "name": "Ramnaresh Ram",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 15382,
+          "votes_percentage": 16.7
+        },
+        {
+          "position": 4,
+          "name": "Lalan Manjhi",
+          "party": "Bahujan Samaj Party",
+          "votes": 8978,
+          "votes_percentage": 9.8
+        },
+        {
+          "position": 5,
+          "name": "Surendra Ram",
+          "party": "Lok Jan Shakti Party",
+          "votes": 3838,
+          "votes_percentage": 4.2
+        },
+        {
+          "position": 6,
+          "name": "Manoj Kumar",
+          "party": "Samajwadi Party",
+          "votes": 3554,
+          "votes_percentage": 3.9
+        }
+      ]
+    },
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 202229,
+        "total_votes_polled": 118026,
+        "turnout_percentage": 58.4,
+        "margin_votes": 32373,
+        "margin_percentage": 27.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Acharya Vishwanath Baitha",
+          "party": "Bharatiya Janta Party",
+          "votes": 59230,
+          "votes_percentage": 50.9
+        },
+        {
+          "position": 2,
+          "name": "Alagu Ram",
+          "party": "Rashtriya Janata Dal",
+          "votes": 26857,
+          "votes_percentage": 23.1
+        },
+        {
+          "position": 3,
+          "name": "Ram Naresh Ram",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 20824,
+          "votes_percentage": 17.9
+        },
+        {
+          "position": 4,
+          "name": "Lalan Manjhi",
+          "party": "Nationalist Congress Party",
+          "votes": 3113,
+          "votes_percentage": 2.7
+        },
+        {
+          "position": 5,
+          "name": "Sharma Ram",
+          "party": "Bahujan Samaj Party",
+          "votes": 2680,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 6,
+          "name": "Gorakh Prasad",
+          "party": "Indian National Congress",
+          "votes": 2421,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 7,
+          "name": "Rajendra Baitha",
+          "party": "Independent",
+          "votes": 1054,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 8,
+          "name": "Vidhan Chandra Ram",
+          "party": "Independent",
+          "votes": 174,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

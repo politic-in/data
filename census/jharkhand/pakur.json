@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 87687,
+        "male": 89936,
+        "percentage_of_total_population": 19.73,
+        "percentage_of_total_population_calculated": 19.73,
+        "percentage_of_total_population_stated": 19.73,
+        "sex_ratio": 975,
+        "total": 177623
+    },
+    "literacy": {
+        "female_literacy_rate": 40.52,
+        "female_literate": 145892,
+        "male_literacy_rate": 57.06,
+        "male_literate": 206989,
+        "rate_percentage": 48.82,
+        "total_literate": 352881
+    },
+    "population": {
+        "female": 447761,
+        "male": 452661,
+        "sex_ratio": 989,
+        "total": 900422
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.03,
+            "population": 283
+        },
+        "Christian": {
+            "percentage": 8.43,
+            "population": 75865
+        },
+        "Hindu": {
+            "percentage": 45.55,
+            "population": 410127
+        },
+        "Jain": {
+            "percentage": 0.02,
+            "population": 222
+        },
+        "Muslims": {
+            "percentage": 35.87,
+            "population": 322963
+        },
+        "Not Stated": {
+            "percentage": 0.21,
+            "population": 1846
+        },
+        "Others": {
+            "percentage": 9.86,
+            "population": 88760
+        },
+        "Sikh": {
+            "percentage": 0.04,
+            "population": 356
+        }
+    },
+    "rural": {
+        "child_population_female": 82023,
+        "child_population_male": 84221,
+        "child_population_percentage": 19.96,
+        "child_population_percentage_calculated": 19.96,
+        "child_population_percentage_stated": 19.96,
+        "child_population_total": 166244,
+        "child_sex_ratio": 974,
+        "female": 414659,
+        "literacy_rate_female": 38.79,
+        "literacy_rate_male": 55.84,
+        "literacy_rate_percentage": 47.33,
+        "literate_female": 129021,
+        "literate_male": 186532,
+        "literate_total": 315553,
+        "male": 418251,
+        "percentage_population": 92.5,
+        "population": 832910,
+        "sex_ratio": 991
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/108-pakur.html",
+    "urban": {
+        "child_population_female": 5665,
+        "child_population_male": 5714,
+        "child_population_percentage": 16.85,
+        "child_population_percentage_calculated": 16.85,
+        "child_population_percentage_stated": 16.85,
+        "child_population_total": 11379,
+        "child_sex_ratio": 991,
+        "female": 33102,
+        "literacy_rate_female": 61.49,
+        "literacy_rate_male": 71.29,
+        "literacy_rate_percentage": 66.5,
+        "literate_female": 16871,
+        "literate_male": 20457,
+        "literate_total": 37328,
+        "male": 34410,
+        "percentage_population": 7.5,
+        "population": 67512,
+        "sex_ratio": 962
+    }
+}

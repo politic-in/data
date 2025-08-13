@@ -1,0 +1,50 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "ROBERTGANJ",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 412895,
+        "total_votes_polled": 181910,
+        "turnout_percentage": 44.1,
+        "margin_votes": 25841,
+        "margin_percentage": 14.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ram Sarup",
+          "party": "Indian National Congress",
+          "votes": 83280,
+          "votes_percentage": 45.8
+        },
+        {
+          "position": 2,
+          "name": "Sarabjit",
+          "party": "Jan Sangh",
+          "votes": 57439,
+          "votes_percentage": 31.6
+        },
+        {
+          "position": 3,
+          "name": "Jokhan Ram",
+          "party": "Socialist",
+          "votes": 18644,
+          "votes_percentage": 10.2
+        },
+        {
+          "position": 4,
+          "name": "Sobhnath",
+          "party": "Independent",
+          "votes": 15577,
+          "votes_percentage": 8.6
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "state": "Uttarakhand",
+  "constituency": "Mukteshwar",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "2007": {
+      "poll_date": "21 February 2007",
+      "counting_date": "27 February 2007",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 70796,
+        "total_votes_polled": 46066,
+        "turnout_percentage": 65.1,
+        "margin_votes": 10984,
+        "margin_percentage": 23.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Yashpal Arya",
+          "party": "Indian National Congress",
+          "votes": 26801,
+          "votes_percentage": 58.2
+        },
+        {
+          "position": 2,
+          "name": "Shri Chand",
+          "party": "Bharatiya Janta Party",
+          "votes": 15817,
+          "votes_percentage": 34.4
+        },
+        {
+          "position": 3,
+          "name": "Harish Kumar",
+          "party": "Bahujan Samaj Party",
+          "votes": 2396,
+          "votes_percentage": 5.2
+        },
+        {
+          "position": 4,
+          "name": "Ram Lal Arya",
+          "party": "Uttarakhand Kranti Dal",
+          "votes": 1001,
+          "votes_percentage": 2.2
+        }
+      ]
+    },
+    "2002": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 68518,
+        "total_votes_polled": 35937,
+        "turnout_percentage": 52.5,
+        "margin_votes": 1424,
+        "margin_percentage": 4.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Yashpal Arya",
+          "party": "Indian National Congress",
+          "votes": 13531,
+          "votes_percentage": 37.7
+        },
+        {
+          "position": 2,
+          "name": "Srichand",
+          "party": "Bharatiya Janta Party",
+          "votes": 12107,
+          "votes_percentage": 33.7
+        },
+        {
+          "position": 3,
+          "name": "Prakash Chandra",
+          "party": "Bahujan Samaj Party",
+          "votes": 5618,
+          "votes_percentage": 15.7
+        },
+        {
+          "position": 4,
+          "name": "Jagdish Chandra Chaudhari",
+          "party": "Uttarakhand Kranti Dal",
+          "votes": 1381,
+          "votes_percentage": 3.9
+        },
+        {
+          "position": 5,
+          "name": "Harish Chandra Alias Karobar",
+          "party": "Independent",
+          "votes": 1108,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 6,
+          "name": "Bahadur Ram",
+          "party": "Independent",
+          "votes": 826,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 7,
+          "name": "Govind Ram Gautam",
+          "party": "Samajwadi Party",
+          "votes": 789,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 8,
+          "name": "Pushpa Arya",
+          "party": "Lok Jan Shakti Party",
+          "votes": 527,
+          "votes_percentage": 1.5
+        }
+      ]
+    }
+  }
+}

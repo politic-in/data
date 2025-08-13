@@ -1,0 +1,99 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Khetadi",
+  "district": "Jhunjhunun",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 200000,
+        "total_votes_polled": 151763,
+        "turnout_percentage": 76.6,
+        "margin_votes": 957,
+        "margin_percentage": 0.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jitendra Singh",
+          "party": "Indian National Congress",
+          "votes": 57153,
+          "votes_percentage": 37.7
+        },
+        {
+          "position": 2,
+          "name": "Dharmpal",
+          "party": "Bharatiya Janta Party",
+          "votes": 56196,
+          "votes_percentage": 37.0
+        },
+        {
+          "position": 3,
+          "name": "Pooranmal Saini",
+          "party": "Bahujan Samaj Party",
+          "votes": 35166,
+          "votes_percentage": 23.2
+        },
+        {
+          "position": 4,
+          "name": "Amar Singh",
+          "party": "Rashtriya Loktantrik Party",
+          "votes": 1314,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Rishal Singh",
+          "party": "Independent",
+          "votes": 610,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Rajesh",
+          "party": "Independent",
+          "votes": 507,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "Tarachand",
+          "party": "Bharat Vahini Party",
+          "votes": 178,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "Bajrang",
+          "party": "Independent",
+          "votes": 171,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Umrao Singh Kadyan",
+          "party": "Aam Aadmi Party",
+          "votes": 165,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Priyanka",
+          "party": "Abhinav Rajasthan Party",
+          "votes": 154,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Ramswroop",
+          "party": "Bharatiya Yuva Shakti",
+          "votes": 149,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

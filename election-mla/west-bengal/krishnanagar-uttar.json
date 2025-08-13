@@ -1,0 +1,127 @@
+{
+  "state": "West Bengal",
+  "constituency": "KRISHNANAGAR UTTAR",
+  "district": "Nadia",
+  "ac_type": "GEN",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 217872,
+        "total_votes_polled": 184563,
+        "turnout_percentage": 86.2,
+        "margin_votes": 12915,
+        "margin_percentage": 7.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Abani Mohan Joardar",
+          "party": "All India Trinamool Congress",
+          "votes": 82864,
+          "votes_percentage": 44.9
+        },
+        {
+          "position": 2,
+          "name": "Asim Kumar Saha",
+          "party": "Indian National Congress",
+          "votes": 69949,
+          "votes_percentage": 37.9
+        },
+        {
+          "position": 3,
+          "name": "Chanchal Kumar Biswas",
+          "party": "Bharatiya Janta Party",
+          "votes": 26796,
+          "votes_percentage": 14.5
+        },
+        {
+          "position": 4,
+          "name": "Prabir Kumar Ghosh",
+          "party": "Shiv Sena",
+          "votes": 1605,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Ashoke Chandra Das",
+          "party": "Bahujan Samaj Party",
+          "votes": 1548,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Kamal Kanti Datta",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 978,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Amal Tarafdar",
+          "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+          "votes": 823,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 200975,
+        "total_votes_polled": 170529,
+        "turnout_percentage": 84.9,
+        "margin_votes": 35110,
+        "margin_percentage": 20.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Abani Mohan Joardar",
+          "party": "All India Trinamool Congress",
+          "votes": 96677,
+          "votes_percentage": 56.7
+        },
+        {
+          "position": 2,
+          "name": "Ghosh Subinay (BHAJAN)",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 61567,
+          "votes_percentage": 36.1
+        },
+        {
+          "position": 3,
+          "name": "Ramen Biswas",
+          "party": "Bharatiya Janta Party",
+          "votes": 5967,
+          "votes_percentage": 3.5
+        },
+        {
+          "position": 4,
+          "name": "Jagannath Guha",
+          "party": "Independent",
+          "votes": 2980,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 5,
+          "name": "Amal Tarafdar",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 1830,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Birendra Nath Mondal",
+          "party": "Bahujan Samaj Party",
+          "votes": 1508,
+          "votes_percentage": 0.9
+        }
+      ]
+    }
+  }
+}

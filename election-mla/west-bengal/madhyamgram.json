@@ -1,0 +1,148 @@
+{
+  "state": "West Bengal",
+  "constituency": "Madhyamgram",
+  "district": "North Twenty Four Parganas",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 258246,
+        "total_votes_polled": 227279,
+        "turnout_percentage": 89.2,
+        "margin_votes": 48126,
+        "margin_percentage": 21.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rathin Ghosh",
+          "party": "All India Trinamool Congress",
+          "votes": 112741,
+          "votes_percentage": 49.6
+        },
+        {
+          "position": 2,
+          "name": "Rajasree Rajbanshi",
+          "party": "Bharatiya Janta Party",
+          "votes": 64615,
+          "votes_percentage": 28.4
+        },
+        {
+          "position": 3,
+          "name": "Biswajit Maity",
+          "party": "Rashtriya Secular Majlis Party",
+          "votes": 46748,
+          "votes_percentage": 20.6
+        },
+        {
+          "position": 4,
+          "name": "Himangshu Mondal",
+          "party": "Bahujan Samaj Party",
+          "votes": 1667,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Saifuddin Mondal",
+          "party": "Independent",
+          "votes": 869,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Biplab Dutta",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 639,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 237845,
+        "total_votes_polled": 204772,
+        "turnout_percentage": 87.3,
+        "margin_votes": 35804,
+        "margin_percentage": 17.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rathin Ghosh",
+          "party": "All India Trinamool Congress",
+          "votes": 110271,
+          "votes_percentage": 53.9
+        },
+        {
+          "position": 2,
+          "name": "Tapas Majumder",
+          "party": "Indian National Congress",
+          "votes": 74467,
+          "votes_percentage": 36.4
+        },
+        {
+          "position": 3,
+          "name": "Debasish Mitra (BAPI)",
+          "party": "Bharatiya Janta Party",
+          "votes": 17148,
+          "votes_percentage": 8.4
+        },
+        {
+          "position": 4,
+          "name": "Himangshu Mondal",
+          "party": "Bahujan Samaj Party",
+          "votes": 2886,
+          "votes_percentage": 1.4
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 197220,
+        "total_votes_polled": 174600,
+        "turnout_percentage": 88.5,
+        "margin_votes": 34668,
+        "margin_percentage": 19.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rathin Ghosh",
+          "party": "All India Trinamool Congress",
+          "votes": 99841,
+          "votes_percentage": 57.2
+        },
+        {
+          "position": 2,
+          "name": "Ranjit Chowdhury",
+          "party": "All India Forward Bloc",
+          "votes": 65173,
+          "votes_percentage": 37.3
+        },
+        {
+          "position": 3,
+          "name": "Bijoy Banerjee",
+          "party": "Bharatiya Janta Party",
+          "votes": 5350,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 4,
+          "name": "Jaydeb Biswas",
+          "party": "Bahujan Samaj Party",
+          "votes": 4236,
+          "votes_percentage": 2.4
+        }
+      ]
+    }
+  }
+}

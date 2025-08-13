@@ -1,0 +1,43 @@
+{
+  "state": "Jammu & Kashmir",
+  "constituency": "AKHNOOR(SC)",
+  "district": "Jammu",
+  "ac_type": "GEN",
+  "results": {
+    "2024": {
+      "poll_date": "08 October 2024",
+      "counting_date": "08 October 2024",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 95263,
+        "total_votes_polled": 76184,
+        "turnout_percentage": 80.8,
+        "margin_votes": 24679,
+        "margin_percentage": 32.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mohan Lal",
+          "party": "Bharatiya Janta Party",
+          "votes": 49927,
+          "votes_percentage": 64.9
+        },
+        {
+          "position": 2,
+          "name": "Ashok Kumar",
+          "party": "Indian National Congress",
+          "votes": 25248,
+          "votes_percentage": 32.8
+        },
+        {
+          "position": 3,
+          "name": "Chittar Manu",
+          "party": "Bahujan Samaj Party",
+          "votes": 1009,
+          "votes_percentage": 1.3
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Machilipatnam",
+  "district": "Krishna",
+  "ac_type": "GEN",
+  "results": {
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 164114,
+        "total_votes_polled": 128765,
+        "turnout_percentage": 78.5,
+        "total_valid_votes": 128282,
+        "total_valid_votes_percentage": 78.2,
+        "margin_votes": 11399,
+        "margin_percentage": 8.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Perni Venkatramaiah (Nani)",
+          "party": "Indian National Congress",
+          "votes": 48580,
+          "votes_percentage": 37.9
+        },
+        {
+          "position": 2,
+          "name": "Kollu Ravindra",
+          "party": "Telugu Desam",
+          "votes": 37181,
+          "votes_percentage": 29.0
+        },
+        {
+          "position": 3,
+          "name": "Veda Vyas Buragadda",
+          "party": "Praja Rajyam Party",
+          "votes": 35124,
+          "votes_percentage": 27.4
+        },
+        {
+          "position": 4,
+          "name": "Maganti Venkata Nageswara Rao",
+          "party": "Lok Satta Party",
+          "votes": 2359,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 5,
+          "name": "Anees Ahamad Raja",
+          "party": "Bahujan Samaj Party",
+          "votes": 1550,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 6,
+          "name": "Vadapalli Raghunadh",
+          "party": "Pyramid Party Of India",
+          "votes": 1050,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 7,
+          "name": "Karapa Veera Venkata Ram Babu",
+          "party": "Bharatiya Janta Party",
+          "votes": 804,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "Devarapalli Anjamma",
+          "party": "Trilinga Praja Pragati Party",
+          "votes": 613,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 9,
+          "name": "Sekuboina Subramanyam",
+          "party": "Independent",
+          "votes": 600,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 10,
+          "name": "Nagesh Kumar Satyam",
+          "party": "Independent",
+          "votes": 228,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Philip Kali",
+          "party": "Republican Party Of India",
+          "votes": 193,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

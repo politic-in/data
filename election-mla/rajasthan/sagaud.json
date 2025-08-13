@@ -1,0 +1,78 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Sagaud",
+  "district": "Kota",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 194024,
+        "total_votes_polled": 153350,
+        "turnout_percentage": 79.8,
+        "margin_votes": 1868,
+        "margin_percentage": 1.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bharat Singh Kundanpur",
+          "party": "Indian National Congress",
+          "votes": 74154,
+          "votes_percentage": 48.4
+        },
+        {
+          "position": 2,
+          "name": "Heera Lal Nagar",
+          "party": "Bharatiya Janta Party",
+          "votes": 72286,
+          "votes_percentage": 47.1
+        },
+        {
+          "position": 3,
+          "name": "Suresh Kumar",
+          "party": "Independent",
+          "votes": 2774,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 4,
+          "name": "Prabhulal",
+          "party": "Bahujan Samaj Party",
+          "votes": 1371,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Dhanraj Sen",
+          "party": "Bhartiya Kisan Party",
+          "votes": 925,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Ramesh Chand",
+          "party": "Independent",
+          "votes": 905,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Yogendra Kumar",
+          "party": "Aam Aadmi Party",
+          "votes": 596,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Bhairulal Malav",
+          "party": "Bharatiya Yuva Shakti",
+          "votes": 339,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

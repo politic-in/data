@@ -1,0 +1,45 @@
+{
+  "state": "Tripura",
+  "year": "1967",
+  "summary_stats": {
+    "total_electors_state": 601964,
+    "total_votes_polled_state": 450521,
+    "turnout_percentage_state": 74.8,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Tripura East",
+      "ac_no": 520,
+      "ac_type": "ST",
+      "district": "Tripura",
+      "winning_candidate": "S. M. M. K. B. K. D .Bahadur",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 305672,
+      "total_votes_ac": 226756,
+      "poll_percentage_ac": 0.0,
+      "margin": 38586,
+      "margin_percentage": 17.0,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1967/tripura/tripura-east/1818/25/4"
+    },
+    {
+      "ac_name": "Tripura West",
+      "ac_no": 519,
+      "ac_type": "GEN",
+      "district": "Tripura",
+      "winning_candidate": "J. K. Choudhury",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 296292,
+      "total_votes_ac": 223765,
+      "poll_percentage_ac": 0.0,
+      "margin": 33822,
+      "margin_percentage": 15.1,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1967/tripura/tripura-west/1817/25/4"
+    }
+  ]
+}

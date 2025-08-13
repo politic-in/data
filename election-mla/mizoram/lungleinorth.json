@@ -1,0 +1,50 @@
+{
+  "state": "Mizoram",
+  "constituency": "LUNGLEINORTH",
+  "district": "Lunglei",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 15589,
+        "total_votes_polled": 14181,
+        "turnout_percentage": 91.4,
+        "margin_votes": 395,
+        "margin_percentage": 2.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Vanlaltanpuia",
+          "party": "Mizo National Front",
+          "votes": 5022,
+          "votes_percentage": 35.4
+        },
+        {
+          "position": 2,
+          "name": "V Malsawmtluanga",
+          "party": "Independent",
+          "votes": 4627,
+          "votes_percentage": 32.6
+        },
+        {
+          "position": 3,
+          "name": "P.C. Lalthanliana",
+          "party": "Indian National Congress",
+          "votes": 4466,
+          "votes_percentage": 31.5
+        },
+        {
+          "position": 4,
+          "name": "Ramdinzauva",
+          "party": "Bharatiya Janta Party",
+          "votes": 66,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

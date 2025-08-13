@@ -1,0 +1,43 @@
+{
+  "state": "Maharashtra",
+  "constituency": "Morhsi",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 100306,
+        "total_votes_polled": 51527,
+        "turnout_percentage": 51.4,
+        "margin_votes": 7824,
+        "margin_percentage": 15.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gawande Kokilabai Jangannath",
+          "party": "Indian National Congress (I)",
+          "votes": 26561,
+          "votes_percentage": 52.4
+        },
+        {
+          "position": 2,
+          "name": "Deshmukh Harshwardhan Pratapsinh",
+          "party": "Indian National Congress (U)",
+          "votes": 18737,
+          "votes_percentage": 37.0
+        },
+        {
+          "position": 3,
+          "name": "Bhujade Bhaurao Shamrao",
+          "party": "Independent",
+          "votes": 5413,
+          "votes_percentage": 10.7
+        }
+      ]
+    }
+  }
+}

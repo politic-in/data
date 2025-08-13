@@ -1,0 +1,50 @@
+{
+  "state": "Nagaland",
+  "constituency": "MOKOKCHUNGTOWN",
+  "district": "Mokokchung",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 7129,
+        "total_votes_polled": 5579,
+        "turnout_percentage": 78.6,
+        "margin_votes": 1004,
+        "margin_percentage": 18.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Metsubo Jamir",
+          "party": "Nationalist Democratic Progressive Party",
+          "votes": 2964,
+          "votes_percentage": 53.1
+        },
+        {
+          "position": 2,
+          "name": "C. Apok Jamir",
+          "party": "Naga Peoples Front",
+          "votes": 1960,
+          "votes_percentage": 35.1
+        },
+        {
+          "position": 3,
+          "name": "Temsuwati",
+          "party": "Independent",
+          "votes": 526,
+          "votes_percentage": 9.4
+        },
+        {
+          "position": 4,
+          "name": "Rongsenshilu",
+          "party": "Indian National Congress",
+          "votes": 129,
+          "votes_percentage": 2.3
+        }
+      ]
+    }
+  }
+}

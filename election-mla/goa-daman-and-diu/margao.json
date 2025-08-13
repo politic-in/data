@@ -1,0 +1,64 @@
+{
+  "state": "Goa, Daman And Diu",
+  "constituency": "Margao",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 15337,
+        "total_votes_polled": 9731,
+        "turnout_percentage": 63.5,
+        "margin_votes": 3874,
+        "margin_percentage": 39.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Naik Anant Narcinva",
+          "party": "Indian National Congress (U)",
+          "votes": 6502,
+          "votes_percentage": 68.2
+        },
+        {
+          "position": 2,
+          "name": "Shirodkar Gokuldas Shanu",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 2628,
+          "votes_percentage": 27.6
+        },
+        {
+          "position": 3,
+          "name": "Kudalkar Atmaram Longu",
+          "party": "Independent",
+          "votes": 152,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 4,
+          "name": "Kadam Shantaram Bigaji",
+          "party": "Independent",
+          "votes": 139,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Sarmalkar Jetendra Vassudev",
+          "party": "Janta Party (SECULAR)",
+          "votes": 106,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Buyunv Ulhas Subraya",
+          "party": "Independent",
+          "votes": 11,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

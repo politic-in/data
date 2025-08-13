@@ -1,0 +1,48 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "BHAGALPUR SOUTH",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 301167,
+        "total_votes_polled": 144686,
+        "turnout_percentage": 48.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Susama Sen",
+          "party": "Indian National Congress",
+          "votes": 71979,
+          "votes_percentage": 49.7
+        },
+        {
+          "position": 2,
+          "name": "Baijnath Prasad Singh",
+          "party": "Socialist Party",
+          "votes": 45255,
+          "votes_percentage": 31.3
+        },
+        {
+          "position": 3,
+          "name": "Lochan Bhagat",
+          "party": "Independent",
+          "votes": 18187,
+          "votes_percentage": 12.6
+        },
+        {
+          "position": 4,
+          "name": "Parduman Prasad Singh",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 9265,
+          "votes_percentage": 6.4
+        }
+      ]
+    }
+  }
+}

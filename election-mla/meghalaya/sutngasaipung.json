@@ -1,0 +1,57 @@
+{
+  "state": "Meghalaya",
+  "constituency": "SUTNGASAIPUNG",
+  "district": "Jaintia Hills",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 37980,
+        "total_votes_polled": 33687,
+        "turnout_percentage": 89.2,
+        "margin_votes": 1584,
+        "margin_percentage": 4.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shitlang Pale",
+          "party": "Indian National Congress",
+          "votes": 12257,
+          "votes_percentage": 36.4
+        },
+        {
+          "position": 2,
+          "name": "Hopeful Bamon",
+          "party": "National People's Party",
+          "votes": 10673,
+          "votes_percentage": 31.7
+        },
+        {
+          "position": 3,
+          "name": "Hambertus Nongtdu",
+          "party": "Bharatiya Janta Party",
+          "votes": 7423,
+          "votes_percentage": 22.0
+        },
+        {
+          "position": 4,
+          "name": "Defender Pakem",
+          "party": "Hill State People's Democratic Party",
+          "votes": 2800,
+          "votes_percentage": 8.3
+        },
+        {
+          "position": 5,
+          "name": "Skindro Dkhar",
+          "party": "Independent",
+          "votes": 534,
+          "votes_percentage": 1.6
+        }
+      ]
+    }
+  }
+}

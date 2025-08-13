@@ -1,0 +1,71 @@
+{
+  "state": "West Bengal",
+  "constituency": "BONGAON UTTAR (SC)",
+  "district": "North Twenty Four Parganas",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 228431,
+        "total_votes_polled": 187214,
+        "turnout_percentage": 82.9,
+        "margin_votes": 33192,
+        "margin_percentage": 17.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Biswajit Das",
+          "party": "All India Trinamool Congress",
+          "votes": 95822,
+          "votes_percentage": 51.2
+        },
+        {
+          "position": 2,
+          "name": "Sushanta Bowali",
+          "party": "All India Forward Bloc",
+          "votes": 62630,
+          "votes_percentage": 33.5
+        },
+        {
+          "position": 3,
+          "name": "K.D. Biswas",
+          "party": "Bharatiya Janta Party",
+          "votes": 21262,
+          "votes_percentage": 11.4
+        },
+        {
+          "position": 4,
+          "name": "Suniti Mallick",
+          "party": "Bahujan Samaj Party",
+          "votes": 4840,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 5,
+          "name": "Juran Chandra Panday",
+          "party": "Republican Party Of India (A)",
+          "votes": 1290,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Shyamsundar Halder",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 833,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Pinaki Ranjan Bharati",
+          "party": "The Religion Of Man Revolving Political Party Of India",
+          "votes": 537,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

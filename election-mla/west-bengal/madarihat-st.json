@@ -1,0 +1,57 @@
+{
+  "state": "West Bengal",
+  "constituency": "MADARIHAT (ST)",
+  "district": "Jalpaiguri",
+  "ac_type": "ST",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 191088,
+        "total_votes_polled": 147233,
+        "turnout_percentage": 79.7,
+        "margin_votes": 22038,
+        "margin_percentage": 15.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Manoj Tigga",
+          "party": "Bharatiya Janta Party",
+          "votes": 66989,
+          "votes_percentage": 45.5
+        },
+        {
+          "position": 2,
+          "name": "Padam Lama",
+          "party": "All India Trinamool Congress",
+          "votes": 44951,
+          "votes_percentage": 30.5
+        },
+        {
+          "position": 3,
+          "name": "Kumari Kujur",
+          "party": "Revolutionary Socialist Party",
+          "votes": 29885,
+          "votes_percentage": 20.3
+        },
+        {
+          "position": 4,
+          "name": "Padam Oraon",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 3089,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 5,
+          "name": "Sudhist Baraik",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 2319,
+          "votes_percentage": 1.6
+        }
+      ]
+    }
+  }
+}

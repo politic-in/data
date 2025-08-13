@@ -1,0 +1,339 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "Parihar",
+  "district": "Sitamarhi",
+  "ac_type": "",
+  "results": {
+    "2020": {
+      "poll_date": "28 October 2020",
+      "counting_date": "10 November 2020",
+      "total_contestants": 13,
+      "aggregate": {
+        "total_electors": 300289,
+        "total_votes_polled": 169073,
+        "turnout_percentage": 57.5,
+        "margin_votes": 1569,
+        "margin_percentage": 0.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gaytri Devi",
+          "party": "Bharatiya Janta Party",
+          "votes": 73420,
+          "votes_percentage": 43.4
+        },
+        {
+          "position": 2,
+          "name": "Ritu Kumar",
+          "party": "Rashtriya Janata Dal",
+          "votes": 71851,
+          "votes_percentage": 42.5
+        },
+        {
+          "position": 3,
+          "name": "Amjad Hussain Anwar",
+          "party": "Rashtriya Lok Samta Party",
+          "votes": 9968,
+          "votes_percentage": 5.9
+        },
+        {
+          "position": 4,
+          "name": "Sarita Yadav",
+          "party": "Jan Adhikar Party (Loktantrik)",
+          "votes": 4164,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 5,
+          "name": "Jay Kumar",
+          "party": "Independent",
+          "votes": 1993,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 6,
+          "name": "Bhushan Prasad",
+          "party": "Independent",
+          "votes": 1587,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 7,
+          "name": "Abdul Shalik",
+          "party": "Janata Congress",
+          "votes": 1492,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 8,
+          "name": "Surendra Panjiyar",
+          "party": "Rashtriya Jansambhavna Party",
+          "votes": 1360,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 9,
+          "name": "Chandrabhushan Kumar",
+          "party": "Independent",
+          "votes": 951,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 10,
+          "name": "Ganesh Sah",
+          "party": "Independent",
+          "votes": 748,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 11,
+          "name": "Mohammad",
+          "party": "Janta Dal Rashtravadi",
+          "votes": 727,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 12,
+          "name": "Chandan Kumar",
+          "party": "Bhartiya Sablog Party",
+          "votes": 466,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 13,
+          "name": "Nitish Kumar",
+          "party": "Indian National League",
+          "votes": 346,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2015": {
+      "poll_date": "05 November 2015",
+      "counting_date": "08 November 2015",
+      "total_contestants": 14,
+      "aggregate": {
+        "total_electors": 283694,
+        "total_votes_polled": 163042,
+        "turnout_percentage": 57.5,
+        "total_valid_votes": 159424,
+        "total_valid_votes_percentage": 56.2,
+        "margin_votes": 4017,
+        "margin_percentage": 2.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gaytri Devi",
+          "party": "Bharatiya Janta Party",
+          "votes": 66388,
+          "votes_percentage": 40.7
+        },
+        {
+          "position": 2,
+          "name": "Ram Chandra Purve",
+          "party": "Rashtriya Janata Dal",
+          "votes": 62371,
+          "votes_percentage": 38.3
+        },
+        {
+          "position": 3,
+          "name": "Sarita Yadav",
+          "party": "Jan Adhikar Party (Loktantrik)",
+          "votes": 8005,
+          "votes_percentage": 4.9
+        },
+        {
+          "position": 4,
+          "name": "Nilam Yadav",
+          "party": "Bahujan Samaj Party",
+          "votes": 6794,
+          "votes_percentage": 4.2
+        },
+        {
+          "position": 5,
+          "name": "Mohd. Shams Shahnawaz",
+          "party": "Samajwadi Party",
+          "votes": 2822,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 6,
+          "name": "Devendra Thakur",
+          "party": "Independent",
+          "votes": 2631,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 7,
+          "name": "Md. Nazamuddin Ansari",
+          "party": "Communist Party Of India",
+          "votes": 2405,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 8,
+          "name": "Jai Narayan Mahto",
+          "party": "Independent",
+          "votes": 1773,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 9,
+          "name": "Gopal Kumar",
+          "party": "Rashtravadi Janata Party",
+          "votes": 1393,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 10,
+          "name": "Surendra Prasad Gupta",
+          "party": "Independent",
+          "votes": 1294,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 11,
+          "name": "Md. Majibul Rahman",
+          "party": "Janta Dal Rashtravadi",
+          "votes": 1099,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 12,
+          "name": "Sogarth Paswan",
+          "party": "Proutist Bloc India",
+          "votes": 1081,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 13,
+          "name": "Md. Mustafa",
+          "party": "Socialist Party (India)",
+          "votes": 733,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 14,
+          "name": "Md. Asphak",
+          "party": "Loktantrik Sarvjan Samaj Party",
+          "votes": 635,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "2010": {
+      "poll_date": "24 October 2010",
+      "counting_date": "24 November 2010",
+      "total_contestants": 14,
+      "aggregate": {
+        "total_electors": 228952,
+        "total_votes_polled": 115475,
+        "turnout_percentage": 50.4,
+        "margin_votes": 4218,
+        "margin_percentage": 3.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ram Naresh Pr. Yadav.",
+          "party": "Bharatiya Janta Party",
+          "votes": 32987,
+          "votes_percentage": 28.6
+        },
+        {
+          "position": 2,
+          "name": "Dr. Ramchandra Purve",
+          "party": "Rashtriya Janata Dal",
+          "votes": 28769,
+          "votes_percentage": 24.9
+        },
+        {
+          "position": 3,
+          "name": "Md. Parvej Alam",
+          "party": "Indian National Congress",
+          "votes": 20388,
+          "votes_percentage": 17.7
+        },
+        {
+          "position": 4,
+          "name": "Mahendra Singh Yadav.",
+          "party": "Independent",
+          "votes": 13535,
+          "votes_percentage": 11.7
+        },
+        {
+          "position": 5,
+          "name": "Raghwendra Kumar Ravi.",
+          "party": "Bahujan Samaj Party",
+          "votes": 5101,
+          "votes_percentage": 4.4
+        },
+        {
+          "position": 6,
+          "name": "Vishun Dev Sah.",
+          "party": "Independent",
+          "votes": 2654,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 7,
+          "name": "Akhilesh Narayan Thakur.",
+          "party": "Independent",
+          "votes": 2313,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 8,
+          "name": "Basiran Khatoon.",
+          "party": "Samajwadi Janata Party (RASHTRIYA)",
+          "votes": 2182,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 9,
+          "name": "Mohamad Majlum Shah.",
+          "party": "Independent",
+          "votes": 1871,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 10,
+          "name": "Jay Narayan Mahto.",
+          "party": "Independent",
+          "votes": 1684,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 11,
+          "name": "Mohamad Hazrool Sah.",
+          "party": "Independent",
+          "votes": 1215,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 12,
+          "name": "Veer Bahadur Prasad Yadav.",
+          "party": "Janata Dal (Secular)",
+          "votes": 1100,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 13,
+          "name": "Mohammad Kamrul Hasan.",
+          "party": "Nationalist Congress Party",
+          "votes": 916,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 14,
+          "name": "Mohammad Shahanawaj Nujharul.",
+          "party": "Samajwadi Party",
+          "votes": 760,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

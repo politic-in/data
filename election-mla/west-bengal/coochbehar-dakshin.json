@@ -1,0 +1,141 @@
+{
+  "state": "West Bengal",
+  "constituency": "Coochbehar Dakshin",
+  "district": "Koch Bihar",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 223409,
+        "total_votes_polled": 194041,
+        "turnout_percentage": 87.5,
+        "margin_votes": 4931,
+        "margin_percentage": 2.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nikhil Ranjan Dey",
+          "party": "Bharatiya Janta Party",
+          "votes": 91560,
+          "votes_percentage": 47.2
+        },
+        {
+          "position": 2,
+          "name": "Avijit De Bhowmik",
+          "party": "All India Trinamool Congress",
+          "votes": 86629,
+          "votes_percentage": 44.6
+        },
+        {
+          "position": 3,
+          "name": "Akshay Thakur",
+          "party": "All India Forward Bloc",
+          "votes": 10246,
+          "votes_percentage": 5.3
+        },
+        {
+          "position": 4,
+          "name": "Rati Ranjan Paul",
+          "party": "Independent",
+          "votes": 1485,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 5,
+          "name": "Khokan Majumdar",
+          "party": "Bahujan Samaj Party",
+          "votes": 1419,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Nazma Khandakar",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1138,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Anamika Paul",
+          "party": "Independent",
+          "votes": 739,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Bidhan Barma",
+          "party": "Independent",
+          "votes": 496,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Babla Deb",
+          "party": "Amra Bangalee",
+          "votes": 329,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 212291,
+        "total_votes_polled": 176684,
+        "turnout_percentage": 84.4,
+        "margin_votes": 18195,
+        "margin_percentage": 10.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mihir Goswami",
+          "party": "All India Trinamool Congress",
+          "votes": 82849,
+          "votes_percentage": 46.9
+        },
+        {
+          "position": 2,
+          "name": "Debasis Banik",
+          "party": "All India Forward Bloc",
+          "votes": 64654,
+          "votes_percentage": 36.6
+        },
+        {
+          "position": 3,
+          "name": "Nikhil Ranjan Dey",
+          "party": "Bharatiya Janta Party",
+          "votes": 18176,
+          "votes_percentage": 10.3
+        },
+        {
+          "position": 4,
+          "name": "Maya Majumder",
+          "party": "Bahujan Samaj Party",
+          "votes": 5197,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 5,
+          "name": "Amita Das",
+          "party": "Amra Bangalee",
+          "votes": 2703,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 6,
+          "name": "Nazma Khandakar",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1678,
+          "votes_percentage": 1.0
+        }
+      ]
+    }
+  }
+}

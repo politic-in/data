@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 221610,
+        "male": 230603,
+        "percentage_of_total_population": 10.54,
+        "percentage_of_total_population_calculated": 10.54,
+        "percentage_of_total_population_stated": 10.54,
+        "sex_ratio": 961,
+        "total": 452213
+    },
+    "literacy": {
+        "female_literacy_rate": 59.34,
+        "female_literate": 1145371,
+        "male_literacy_rate": 74.56,
+        "male_literate": 1422878,
+        "rate_percentage": 66.91,
+        "total_literate": 2568249
+    },
+    "population": {
+        "female": 2151679,
+        "male": 2138910,
+        "sex_ratio": 1006,
+        "total": 4290589
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 850
+        },
+        "Christian": {
+            "percentage": 1.81,
+            "population": 77607
+        },
+        "Hindu": {
+            "percentage": 95.68,
+            "population": 4105320
+        },
+        "Jain": {
+            "percentage": 0.05,
+            "population": 2316
+        },
+        "Muslims": {
+            "percentage": 2.01,
+            "population": 86330
+        },
+        "Not Stated": {
+            "percentage": 0.36,
+            "population": 15579
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 286
+        },
+        "Sikh": {
+            "percentage": 0.05,
+            "population": 2301
+        }
+    },
+    "rural": {
+        "child_population_female": 127292,
+        "child_population_male": 130975,
+        "child_population_percentage": 11.45,
+        "child_population_percentage_calculated": 11.45,
+        "child_population_percentage_stated": 11.45,
+        "child_population_total": 258267,
+        "child_sex_ratio": 972,
+        "female": 1141433,
+        "literacy_rate_female": 44.74,
+        "literacy_rate_male": 62.96,
+        "literacy_rate_percentage": 53.71,
+        "literate_female": 453770,
+        "literate_male": 618397,
+        "literate_total": 1072167,
+        "male": 1113234,
+        "percentage_population": 52.55,
+        "population": 2254667,
+        "sex_ratio": 1025
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/130-visakhapatnam.html",
+    "urban": {
+        "child_population_female": 94291,
+        "child_population_male": 99655,
+        "child_population_percentage": 9.53,
+        "child_population_percentage_calculated": 9.53,
+        "child_population_percentage_stated": 9.53,
+        "child_population_total": 193946,
+        "child_sex_ratio": 946,
+        "female": 1010246,
+        "literacy_rate_female": 75.51,
+        "literacy_rate_male": 86.88,
+        "literacy_rate_percentage": 81.22,
+        "literate_female": 691601,
+        "literate_male": 804481,
+        "literate_total": 1496082,
+        "male": 1025676,
+        "percentage_population": 47.45,
+        "population": 2035922,
+        "sex_ratio": 985
+    }
+}

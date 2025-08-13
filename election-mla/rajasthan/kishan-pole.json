@@ -1,0 +1,78 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Kishan Pole",
+  "district": "Jaipur",
+  "ac_type": "GEN",
+  "results": {
+    "2023": {
+      "poll_date": "25 November 2023",
+      "counting_date": "03 December 2023",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 385316,
+        "total_votes_polled": 147843,
+        "turnout_percentage": 38.6,
+        "margin_votes": 7056,
+        "margin_percentage": 4.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Amin Kagzi",
+          "party": "Indian National Congress",
+          "votes": 76611,
+          "votes_percentage": 51.5
+        },
+        {
+          "position": 2,
+          "name": "Chandra Manohar Batwara Advocate",
+          "party": "Bharatiya Janta Party",
+          "votes": 69555,
+          "votes_percentage": 46.7
+        },
+        {
+          "position": 3,
+          "name": "Kamal Bhargav",
+          "party": "Aam Aadmi Party",
+          "votes": 619,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 4,
+          "name": "Rafiq Khan Khandelvi",
+          "party": "All India Majlis-E-Ittehadul Muslimeen",
+          "votes": 415,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 5,
+          "name": "Harinarayan Jadiya",
+          "party": "Bahujan Samaj Party",
+          "votes": 313,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 6,
+          "name": "Vinod Kumar Tinkar",
+          "party": "Independent",
+          "votes": 156,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 7,
+          "name": "Sunil Kumar Sharma",
+          "party": "Independent",
+          "votes": 107,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "Azam Ali Khan",
+          "party": "Independent",
+          "votes": 67,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

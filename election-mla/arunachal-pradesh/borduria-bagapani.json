@@ -1,0 +1,92 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Borduria- Bagapani",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "1999": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 6571,
+        "total_votes_polled": 4693,
+        "turnout_percentage": 71.4,
+        "margin_votes": 13,
+        "margin_percentage": 0.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Lowangcha Wanglat",
+          "party": "Indian National Congress",
+          "votes": 2289,
+          "votes_percentage": 50.1
+        },
+        {
+          "position": 2,
+          "name": "Wanglin Lowangdong",
+          "party": "Independent",
+          "votes": 2276,
+          "votes_percentage": 49.9
+        }
+      ]
+    },
+    "1995": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 5946,
+        "total_votes_polled": 5195,
+        "turnout_percentage": 87.4,
+        "margin_votes": 2199,
+        "margin_percentage": 42.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Lowangcha Wanglat",
+          "party": "Indian National Congress",
+          "votes": 3653,
+          "votes_percentage": 71.5
+        },
+        {
+          "position": 2,
+          "name": "Dinwang Lowang",
+          "party": "Independent",
+          "votes": 1454,
+          "votes_percentage": 28.5
+        }
+      ]
+    },
+    "1990": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 6106,
+        "total_votes_polled": 4773,
+        "turnout_percentage": 78.2,
+        "margin_votes": 1165,
+        "margin_percentage": 24.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "L. Wanglat",
+          "party": "Janata Dal",
+          "votes": 2932,
+          "votes_percentage": 62.4
+        },
+        {
+          "position": 2,
+          "name": "W.Ajay Rajkumar",
+          "party": "Indian National Congress",
+          "votes": 1767,
+          "votes_percentage": 37.6
+        }
+      ]
+    }
+  }
+}

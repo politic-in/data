@@ -1,0 +1,64 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Udaipur gramin",
+  "district": "Udaipur",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 256073,
+        "total_votes_polled": 185462,
+        "turnout_percentage": 74.0,
+        "margin_votes": 18707,
+        "margin_percentage": 10.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Phool Singh Meena",
+          "party": "Bharatiya Janta Party",
+          "votes": 97382,
+          "votes_percentage": 52.5
+        },
+        {
+          "position": 2,
+          "name": "Vivek Katara",
+          "party": "Indian National Congress",
+          "votes": 78675,
+          "votes_percentage": 42.4
+        },
+        {
+          "position": 3,
+          "name": "Ghanshyam Singh Tawar",
+          "party": "Communist Party Of India",
+          "votes": 4055,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 4,
+          "name": "Prabhu Lal Meena",
+          "party": "Bahujan Mukti Party",
+          "votes": 2092,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Laxman",
+          "party": "Bahujan Samaj Party",
+          "votes": 1737,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Someshwer Meena",
+          "party": "Janta Sena Rajasthan",
+          "votes": 1521,
+          "votes_percentage": 0.8
+        }
+      ]
+    }
+  }
+}

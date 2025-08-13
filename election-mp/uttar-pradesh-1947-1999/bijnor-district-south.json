@@ -1,0 +1,55 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "BIJNOR DISTRICT (SOUTH)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 381477,
+        "total_votes_polled": 190669,
+        "turnout_percentage": 50.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nemi Saran",
+          "party": "Indian National Congress",
+          "votes": 75018,
+          "votes_percentage": 39.3
+        },
+        {
+          "position": 2,
+          "name": "Govind Sahay",
+          "party": "Independent",
+          "votes": 43520,
+          "votes_percentage": 22.8
+        },
+        {
+          "position": 3,
+          "name": "Dhal Gopal Singh",
+          "party": "Socialist Party",
+          "votes": 31961,
+          "votes_percentage": 16.8
+        },
+        {
+          "position": 4,
+          "name": "Raghuvir Singh",
+          "party": "Independent",
+          "votes": 28118,
+          "votes_percentage": 14.7
+        },
+        {
+          "position": 5,
+          "name": "Gajender Singh",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 12052,
+          "votes_percentage": 6.3
+        }
+      ]
+    }
+  }
+}

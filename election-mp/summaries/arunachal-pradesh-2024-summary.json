@@ -1,0 +1,45 @@
+{
+  "state": "Arunachal Pradesh",
+  "year": "2024",
+  "summary_stats": {
+    "total_electors_state": 892694,
+    "total_votes_polled_state": 723247,
+    "turnout_percentage_state": 81.0,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Arunachal East",
+      "ac_no": 2,
+      "ac_type": "GENP",
+      "district": "Arunachal Pradesh",
+      "winning_candidate": "Tapir Gao",
+      "winning_party": "Bharatiya Janta Party",
+      "total_electors_ac": 375310,
+      "total_votes_ac": 323443,
+      "poll_percentage_ac": 0.0,
+      "margin": 30421,
+      "margin_percentage": 9.4,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2024/arunachal-pradesh/arunachal-east/10795/41/18"
+    },
+    {
+      "ac_name": "Arunachal West",
+      "ac_no": 1,
+      "ac_type": "GENP",
+      "district": "Arunachal Pradesh",
+      "winning_candidate": "Kiren Rijiju",
+      "winning_party": "Bharatiya Janta Party",
+      "total_electors_ac": 517384,
+      "total_votes_ac": 399804,
+      "poll_percentage_ac": 0.0,
+      "margin": 100738,
+      "margin_percentage": 25.2,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2024/arunachal-pradesh/arunachal-west/10794/41/18"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "BHAGALPUR CUM PURNEA",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 640994,
+        "total_votes_polled": 512765,
+        "turnout_percentage": 40.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Anup Lal Mehata",
+          "party": "Indian National Congress",
+          "votes": 159358,
+          "votes_percentage": 31.1
+        },
+        {
+          "position": 1,
+          "name": "Kirai Mushahar",
+          "party": "Socialist Party",
+          "votes": 129144,
+          "votes_percentage": 25.2
+        },
+        {
+          "position": 3,
+          "name": "Mahabir Das",
+          "party": "Indian National Congress",
+          "votes": 124589,
+          "votes_percentage": 24.3
+        },
+        {
+          "position": 4,
+          "name": "Murlidhari Singh",
+          "party": "Socialist Party",
+          "votes": 99674,
+          "votes_percentage": 19.4
+        }
+      ]
+    }
+  }
+}

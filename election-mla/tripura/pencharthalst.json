@@ -1,0 +1,64 @@
+{
+  "state": "Tripura",
+  "constituency": "Pencharthal(ST)",
+  "district": "North Tripura",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 40171,
+        "total_votes_polled": 35376,
+        "turnout_percentage": 89.1,
+        "margin_votes": 1373,
+        "margin_percentage": 3.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Santana Chakma",
+          "party": "Bharatiya Janta Party",
+          "votes": 17743,
+          "votes_percentage": 50.2
+        },
+        {
+          "position": 2,
+          "name": "Anil Chakma",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 16370,
+          "votes_percentage": 46.3
+        },
+        {
+          "position": 3,
+          "name": "Nandini Chakma",
+          "party": "Indian National Congress",
+          "votes": 644,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 5,
+          "name": "Karnadhan Chakma",
+          "party": "Amra Bangalee",
+          "votes": 223,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Kripamohan Reang",
+          "party": "Tipraland State Party",
+          "votes": 209,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Daniel Sangma",
+          "party": "Indigenous Nationalist Party Of Twipra",
+          "votes": 187,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,694 @@
+{
+  "state": "West Bengal",
+  "constituency": "Goalpokhar",
+  "district": "Uttar Dinajpur",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 215676,
+        "total_votes_polled": 159519,
+        "turnout_percentage": 74.9,
+        "margin_votes": 73514,
+        "margin_percentage": 46.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Md. Ghulam Rabbani",
+          "party": "All India Trinamool Congress",
+          "votes": 105649,
+          "votes_percentage": 66.2
+        },
+        {
+          "position": 2,
+          "name": "Md. Ghulam Sarwar",
+          "party": "Bharatiya Janta Party",
+          "votes": 32135,
+          "votes_percentage": 20.1
+        },
+        {
+          "position": 3,
+          "name": "Masood Md. Naseem Ahsen",
+          "party": "Indian National Congress",
+          "votes": 19391,
+          "votes_percentage": 12.2
+        },
+        {
+          "position": 4,
+          "name": "Sunil Biswas",
+          "party": "Bahujan Samaj Party",
+          "votes": 865,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "Shambhu Lal Roy",
+          "party": "Independent",
+          "votes": 694,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Raghu Nath Singha",
+          "party": "Independent",
+          "votes": 405,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "Nabin Chandra Singha",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 380,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 198207,
+        "total_votes_polled": 146166,
+        "turnout_percentage": 74.5,
+        "margin_votes": 7748,
+        "margin_percentage": 5.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Md Gulam Rabbani",
+          "party": "All India Trinamool Congress",
+          "votes": 64869,
+          "votes_percentage": 44.4
+        },
+        {
+          "position": 2,
+          "name": "Afjal Hosen",
+          "party": "Indian National Congress",
+          "votes": 57121,
+          "votes_percentage": 39.1
+        },
+        {
+          "position": 3,
+          "name": "Debashis Sarkar",
+          "party": "Bharatiya Janta Party",
+          "votes": 16966,
+          "votes_percentage": 11.6
+        },
+        {
+          "position": 4,
+          "name": "Julia Yeasmin",
+          "party": "Samajwadi Party",
+          "votes": 2893,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 5,
+          "name": "Dulal Rajbanshi",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1827,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 6,
+          "name": "Mansingha Hasda",
+          "party": "Bahujan Samaj Party",
+          "votes": 1805,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 7,
+          "name": "Raghu Nath Singha",
+          "party": "Independent",
+          "votes": 685,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 170176,
+        "total_votes_polled": 124995,
+        "turnout_percentage": 73.5,
+        "margin_votes": 13413,
+        "margin_percentage": 10.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Md. Ghulam Rabbani",
+          "party": "Indian National Congress",
+          "votes": 61313,
+          "votes_percentage": 49.1
+        },
+        {
+          "position": 2,
+          "name": "Safiur Rahaman",
+          "party": "All India Forward Bloc",
+          "votes": 47900,
+          "votes_percentage": 38.3
+        },
+        {
+          "position": 3,
+          "name": "Shaukat Ali",
+          "party": "Bharatiya Janta Party",
+          "votes": 6956,
+          "votes_percentage": 5.6
+        },
+        {
+          "position": 4,
+          "name": "Kamaruzzama",
+          "party": "Bahujan Samaj Party",
+          "votes": 4592,
+          "votes_percentage": 3.7
+        },
+        {
+          "position": 5,
+          "name": "Dulal Rajbanshi",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 2264,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 6,
+          "name": "Niva Sarkar (DAS)",
+          "party": "Independent",
+          "votes": 1970,
+          "votes_percentage": 1.6
+        }
+      ]
+    },
+    "2006": {
+      "poll_date": "17 April 2006",
+      "counting_date": "05 November 2006",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 169347,
+        "total_votes_polled": 128409,
+        "turnout_percentage": 75.8,
+        "margin_votes": 8310,
+        "margin_percentage": 6.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Deepa Dasmunsi",
+          "party": "Indian National Congress",
+          "votes": 63784,
+          "votes_percentage": 49.7
+        },
+        {
+          "position": 2,
+          "name": "Hafiz Alam Sairani",
+          "party": "All India Forward Bloc",
+          "votes": 55474,
+          "votes_percentage": 43.2
+        },
+        {
+          "position": 3,
+          "name": "Nirod Biswas",
+          "party": "Bahujan Samaj Party",
+          "votes": 3135,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 4,
+          "name": "Subrata Adhikary",
+          "party": "Independent",
+          "votes": 2685,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 5,
+          "name": "Puranmal Maheswari",
+          "party": "All India Trinamool Congress",
+          "votes": 1784,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 6,
+          "name": "Md. Juned Alam",
+          "party": "Independent",
+          "votes": 1515,
+          "votes_percentage": 1.2
+        }
+      ]
+    },
+    "2001": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 173484,
+        "total_votes_polled": 108609,
+        "turnout_percentage": 62.6,
+        "margin_votes": 1704,
+        "margin_percentage": 1.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Hafiz Alam Sairani",
+          "party": "All India Forward Bloc",
+          "votes": 47999,
+          "votes_percentage": 44.2
+        },
+        {
+          "position": 2,
+          "name": "Deepa Dasmunshi",
+          "party": "Indian National Congress",
+          "votes": 46295,
+          "votes_percentage": 42.6
+        },
+        {
+          "position": 3,
+          "name": "Soharab Ali",
+          "party": "Bharatiya Janta Party",
+          "votes": 5598,
+          "votes_percentage": 5.2
+        },
+        {
+          "position": 4,
+          "name": "Nizamuddin Ahmed",
+          "party": "Nationalist Congress Party",
+          "votes": 3607,
+          "votes_percentage": 3.3
+        },
+        {
+          "position": 5,
+          "name": "Md. Shahbuddin Asraf",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 1849,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 6,
+          "name": "Moni Mohan Roy",
+          "party": "Independent",
+          "votes": 1527,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 7,
+          "name": "Ejaz Ahmed Parvaze",
+          "party": "Independent",
+          "votes": 677,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "Puranmal  Maheswari",
+          "party": "Independent",
+          "votes": 555,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 9,
+          "name": "Zahid Alam",
+          "party": "Independent",
+          "votes": 477,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "1996": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 171785,
+        "total_votes_polled": 110473,
+        "turnout_percentage": 64.3,
+        "margin_votes": 32063,
+        "margin_percentage": 29.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Hafiz Alam Sairani",
+          "party": "All India Forward Bloc",
+          "votes": 55998,
+          "votes_percentage": 54.5
+        },
+        {
+          "position": 2,
+          "name": "Md. Mustafa",
+          "party": "Indian National Congress",
+          "votes": 23935,
+          "votes_percentage": 23.3
+        },
+        {
+          "position": 3,
+          "name": "Pooranmal Maheswari",
+          "party": "Bharatiya Janta Party",
+          "votes": 17905,
+          "votes_percentage": 17.4
+        },
+        {
+          "position": 4,
+          "name": "Md. Sahabuddin Asraf",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 3693,
+          "votes_percentage": 3.6
+        },
+        {
+          "position": 5,
+          "name": "Samsuddin",
+          "party": "Muslim Leage",
+          "votes": 1297,
+          "votes_percentage": 1.3
+        }
+      ]
+    },
+    "1991": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 163578,
+        "total_votes_polled": 103496,
+        "turnout_percentage": 63.3,
+        "margin_votes": 8645,
+        "margin_percentage": 8.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Md. Ramjan Ali",
+          "party": "All India Forward Bloc",
+          "votes": 39064,
+          "votes_percentage": 40.9
+        },
+        {
+          "position": 2,
+          "name": "Nizamuddin Ahamed",
+          "party": "Indian National Congress",
+          "votes": 30419,
+          "votes_percentage": 31.9
+        },
+        {
+          "position": 3,
+          "name": "Benoy Kumar Das",
+          "party": "Bharatiya Janta Party",
+          "votes": 23743,
+          "votes_percentage": 24.9
+        },
+        {
+          "position": 4,
+          "name": "Nirmal Sarkar",
+          "party": "Independent",
+          "votes": 1983,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 5,
+          "name": "Dhawla Chandra Singha",
+          "party": "Independent",
+          "votes": 312,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "1987": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 121951,
+        "total_votes_polled": 70879,
+        "turnout_percentage": 58.1,
+        "margin_votes": 2941,
+        "margin_percentage": 4.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mohammad Ranjan Ali",
+          "party": "All India Forward Bloc",
+          "votes": 27661,
+          "votes_percentage": 39.8
+        },
+        {
+          "position": 2,
+          "name": "Nizamuddin Ahamed",
+          "party": "Indian National Congress",
+          "votes": 24720,
+          "votes_percentage": 35.6
+        },
+        {
+          "position": 3,
+          "name": "Pooranmal Maheswari",
+          "party": "Bharatiya Janta Party",
+          "votes": 16584,
+          "votes_percentage": 23.9
+        },
+        {
+          "position": 4,
+          "name": "Kalipada Ghosh",
+          "party": "Janta Party",
+          "votes": 289,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 5,
+          "name": "Mohammad Shamsul Juda",
+          "party": "Independent",
+          "votes": 216,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "1982": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 113914,
+        "total_votes_polled": 69561,
+        "turnout_percentage": 61.1,
+        "margin_votes": 6268,
+        "margin_percentage": 9.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mohammad Ramjan Ali",
+          "party": "All India Forward Bloc",
+          "votes": 21206,
+          "votes_percentage": 31.3
+        },
+        {
+          "position": 2,
+          "name": "Puranmal Maheshwari",
+          "party": "Bharatiya Janta Party",
+          "votes": 14938,
+          "votes_percentage": 22.1
+        },
+        {
+          "position": 3,
+          "name": "Sheik Sharafat Hussain",
+          "party": "Indian National Congress",
+          "votes": 12234,
+          "votes_percentage": 18.1
+        },
+        {
+          "position": 4,
+          "name": "Nijamuddin",
+          "party": "Independent",
+          "votes": 11183,
+          "votes_percentage": 16.5
+        },
+        {
+          "position": 5,
+          "name": "Sohrab Ali",
+          "party": "Independent",
+          "votes": 2984,
+          "votes_percentage": 4.4
+        },
+        {
+          "position": 6,
+          "name": "Joseph Soren",
+          "party": "Independent",
+          "votes": 1309,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 7,
+          "name": "Shafiur Rahaman",
+          "party": "Independent",
+          "votes": 1288,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 8,
+          "name": "Sekandar Ali",
+          "party": "Independent",
+          "votes": 875,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 9,
+          "name": "Mahamuddin",
+          "party": "Independent",
+          "votes": 865,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 10,
+          "name": "Singh Harendra Kumar",
+          "party": "Independent",
+          "votes": 592,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 11,
+          "name": "Mahammad Islamuddin",
+          "party": "Independent",
+          "votes": 238,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 17,
+      "aggregate": {
+        "total_electors": 83333,
+        "total_votes_polled": 38332,
+        "turnout_percentage": 46.0,
+        "margin_votes": 10696,
+        "margin_percentage": 27.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ramjan Ali",
+          "party": "Independent",
+          "votes": 14363,
+          "votes_percentage": 38.4
+        },
+        {
+          "position": 2,
+          "name": "Puran Chand Meheswari",
+          "party": "Independent",
+          "votes": 3667,
+          "votes_percentage": 9.8
+        },
+        {
+          "position": 3,
+          "name": "Nani Gopal Biswas",
+          "party": "Independent",
+          "votes": 3143,
+          "votes_percentage": 8.4
+        },
+        {
+          "position": 4,
+          "name": "Md. Nazir Ahsen",
+          "party": "Independent",
+          "votes": 3080,
+          "votes_percentage": 8.2
+        },
+        {
+          "position": 5,
+          "name": "Baburam Sardar",
+          "party": "Independent",
+          "votes": 2984,
+          "votes_percentage": 8.0
+        },
+        {
+          "position": 6,
+          "name": "Sheikh Sharafat Hussain",
+          "party": "Indian National Congress",
+          "votes": 2337,
+          "votes_percentage": 6.3
+        },
+        {
+          "position": 7,
+          "name": "Md. Salimuddin",
+          "party": "Janta Party",
+          "votes": 2290,
+          "votes_percentage": 6.1
+        },
+        {
+          "position": 8,
+          "name": "Fazir Mohammad",
+          "party": "All India Forward Bloc",
+          "votes": 954,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 9,
+          "name": "Atiur Rahaman",
+          "party": "Independent",
+          "votes": 776,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 10,
+          "name": "Golam Mohiuddin",
+          "party": "Independent",
+          "votes": 667,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 11,
+          "name": "Nazir Ahmed",
+          "party": "Independent",
+          "votes": 638,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 12,
+          "name": "Ahrar Burque",
+          "party": "Independent",
+          "votes": 557,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 13,
+          "name": "Md. Qurban Ali",
+          "party": "Independent",
+          "votes": 522,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 14,
+          "name": "Ismail",
+          "party": "Independent",
+          "votes": 441,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 15,
+          "name": "Hari Prasad Ghose",
+          "party": "Independent",
+          "votes": 411,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 16,
+          "name": "Nurul Huda",
+          "party": "Independent",
+          "votes": 270,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 17,
+          "name": "Enamul Haque",
+          "party": "Independent",
+          "votes": 267,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

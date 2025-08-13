@@ -1,0 +1,118 @@
+{
+  "district_name": "Ramanathapuram",
+  "source_urls": {
+    "primary_demographics": "https://www.census2011.co.in/census/district/48-ramanathapuram.html",
+    "sc_st_population": "https://www.censusindia.co.in/district/ramanathapuram-district-tamil-nadu-626"
+  },
+  "total_population_2011": {
+    "total": 1353445,
+    "male": 682658,
+    "female": 670787,
+    "sex_ratio": 983
+  },
+  "overall_child_population_0_6_years": {
+    "total": 140644,
+    "male": 71705,
+    "female": 68939,
+    "sex_ratio": 961,
+    "percentage_of_total_population": 10.39
+  },
+  "overall_literacy": {
+    "rate_percentage": 80.72,
+    "total_literate": 978946,
+    "male_literate": 536487,
+    "female_literate": 442459,
+    "male_literacy_rate": 87.81,
+    "female_literacy_rate": 73.52
+  },
+  "urban_distribution": {
+    "percentage_of_total_population": 30.34,
+    "population": 410699,
+    "male": 208150,
+    "female": 202549,
+    "sex_ratio": 973,
+    "child_population_0_6": {
+      "total": 44224,
+      "male": 22529,
+      "female": 21695,
+      "sex_ratio": 963,
+      "percentage_of_urban_population": 10.77
+    },
+    "literacy": {
+      "rate_percentage": 89.24,
+      "total_literate": 327027,
+      "male_literate": 173709,
+      "female_literate": 153318,
+      "male_literacy_rate": 93.58,
+      "female_literacy_rate": 84.77
+    }
+  },
+  "rural_distribution": {
+    "percentage_of_total_population": 69.66,
+    "population": 942746,
+    "male": 474508,
+    "female": 468238,
+    "sex_ratio": 987,
+    "child_population_0_6": {
+      "total": 96420,
+      "male": 49176,
+      "female": 47244,
+      "sex_ratio": 961,
+      "percentage_of_rural_population": 10.23
+    },
+    "literacy": {
+      "rate_percentage": 77.03,
+      "total_literate": 651919,
+      "male_literate": 362778,
+      "female_literate": 289141,
+      "male_literacy_rate": 85.29,
+      "female_literacy_rate": 68.68
+    }
+  },
+  "religion_distribution": {
+    "hindu": {
+      "percentage": 77.39,
+      "population": 1047411
+    },
+    "muslim": {
+      "percentage": 15.37,
+      "population": 208038
+    },
+    "christian": {
+      "percentage": 6.73,
+      "population": 91139
+    },
+    "sikh": {
+      "percentage": 0.01,
+      "population": 154
+    },
+    "buddhist": {
+      "percentage": 0.01,
+      "population": 86
+    },
+    "jain": {
+      "percentage": 0.0,
+      "population": 29
+    },
+    "others": {
+      "percentage": 0.0,
+      "population": 36
+    },
+    "not_stated": {
+      "percentage": 0.48,
+      "population": 6552
+    }
+  },
+  "scheduled_caste_sc_population": {
+    "total": 249008,
+    "male": 125015,
+    "female": 123993,
+    "percentage_of_total_population": 18.4
+  },
+  "scheduled_tribe_st_population": {
+    "total": 1105,
+    "male": 559,
+    "female": 546,
+    "percentage_of_total_population": 0.1
+  }
+}

@@ -1,0 +1,696 @@
+{
+  "state": "Punjab",
+  "constituency": "Amloh",
+  "district": "Fatehgarh Sahib",
+  "ac_type": "GEN",
+  "results": {
+    "2022": {
+      "poll_date": "20 February 2022",
+      "counting_date": "10 March 2022",
+      "total_contestants": 12,
+      "aggregate": {
+        "total_electors": 144728,
+        "total_votes_polled": 113966,
+        "turnout_percentage": 78.7,
+        "margin_votes": 24663,
+        "margin_percentage": 21.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gurinder Singh Garry Birring",
+          "party": "Aam Aadmi Party",
+          "votes": 52912,
+          "votes_percentage": 46.6
+        },
+        {
+          "position": 2,
+          "name": "Gurpreet Singh Raju Khanna",
+          "party": "Shiromani Akali Dal",
+          "votes": 28249,
+          "votes_percentage": 24.9
+        },
+        {
+          "position": 3,
+          "name": "Kaka Randeep Singh Nabha",
+          "party": "Indian National Congress",
+          "votes": 16077,
+          "votes_percentage": 14.2
+        },
+        {
+          "position": 4,
+          "name": "Kanwarveer Singh Tohra",
+          "party": "Bharatiya Janta Party",
+          "votes": 9488,
+          "votes_percentage": 8.4
+        },
+        {
+          "position": 5,
+          "name": "Lakhvir Singh Sounti",
+          "party": "Shiromani Akali Dal (Amritsar)(Simranjit Singh Mann)",
+          "votes": 3793,
+          "votes_percentage": 3.3
+        },
+        {
+          "position": 6,
+          "name": "Darshan Singh Babbi",
+          "party": "Independent",
+          "votes": 1243,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 7,
+          "name": "Jaspal Singh (Harman Tiwana)",
+          "party": "Jai Jawan Jai Kisan Party",
+          "votes": 377,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Sewa Ram Singh",
+          "party": "Independent",
+          "votes": 356,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Sanjeev Kumar Pilot",
+          "party": "Janata Dal (United)",
+          "votes": 292,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Dharampal",
+          "party": "National Apni Party",
+          "votes": 289,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 11,
+          "name": "Gurbachan Singh",
+          "party": "Punjab Kisan Dal",
+          "votes": 204,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Sutantardeep Singh Badgujran",
+          "party": "Lok Insaaf Party",
+          "votes": 163,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2017": {
+      "poll_date": "04 February 2017",
+      "counting_date": "11 March 2017",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 135524,
+        "total_votes_polled": 112613,
+        "turnout_percentage": 83.7,
+        "margin_votes": 3946,
+        "margin_percentage": 3.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Randeep Singh",
+          "party": "Indian National Congress",
+          "votes": 39669,
+          "votes_percentage": 35.0
+        },
+        {
+          "position": 2,
+          "name": "Gurpreet Singh Raju Khanna",
+          "party": "Shiromani Akali Dal",
+          "votes": 35723,
+          "votes_percentage": 31.5
+        },
+        {
+          "position": 3,
+          "name": "Gurpreet Singh Bhatti",
+          "party": "Aam Aadmi Party",
+          "votes": 30573,
+          "votes_percentage": 27.0
+        },
+        {
+          "position": 4,
+          "name": "Jagmeet Singh Sahota",
+          "party": "Independent",
+          "votes": 3187,
+          "votes_percentage": 2.8
+        },
+        {
+          "position": 5,
+          "name": "Lakhvir Singh",
+          "party": "Shiromani Akali Dal (SIMRANJIT SINGH MANN)",
+          "votes": 1144,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Ram Singh",
+          "party": "Bahujan Samaj Party",
+          "votes": 942,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 7,
+          "name": "Navab Ali",
+          "party": "Independent",
+          "votes": 432,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Rajinder Singh",
+          "party": "Independent",
+          "votes": 359,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Sanjiv Kumar Pilot",
+          "party": "Hindustan Shakti Sena",
+          "votes": 222,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Gurpreet Singh Bhatti Amampura",
+          "party": "Independent",
+          "votes": 213,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Gurjinder Singh",
+          "party": "Jai Jawan Jai Kisan Party",
+          "votes": 149,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2012": {
+      "poll_date": "30 January 2012",
+      "counting_date": "03 June 2012",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 113952,
+        "total_votes_polled": 93266,
+        "turnout_percentage": 0.8,
+        "total_valid_votes": 93210,
+        "total_valid_votes_percentage": 81.8,
+        "margin_votes": 2528,
+        "margin_percentage": 2.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Randeep Singh",
+          "party": "Indian National Congress",
+          "votes": 32503,
+          "votes_percentage": 34.8
+        },
+        {
+          "position": 2,
+          "name": "Jagdeep Singh Cheema",
+          "party": "Shiromani Akali Dal",
+          "votes": 29975,
+          "votes_percentage": 32.1
+        },
+        {
+          "position": 3,
+          "name": "Jagmeet Singh Sahota",
+          "party": "People's Party Of Punjab",
+          "votes": 20538,
+          "votes_percentage": 22.0
+        },
+        {
+          "position": 4,
+          "name": "Kuldeep Singh",
+          "party": "Bahujan Samaj Party",
+          "votes": 4867,
+          "votes_percentage": 5.2
+        },
+        {
+          "position": 5,
+          "name": "Labh Singh Ahluwalia",
+          "party": "Independent",
+          "votes": 2472,
+          "votes_percentage": 2.7
+        },
+        {
+          "position": 6,
+          "name": "Gurdev Singh Khanian",
+          "party": "Independent",
+          "votes": 1532,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 7,
+          "name": "Gurdial Singh",
+          "party": "Shiromani Akali Dal (SIMRANJIT SINGH MANN)",
+          "votes": 567,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "Baljit Singh",
+          "party": "Independent",
+          "votes": 445,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 9,
+          "name": "Karamjit Kaur Dharamsot",
+          "party": "Independent",
+          "votes": 367,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "2007": {
+      "poll_date": "13 February 2007",
+      "counting_date": "27 February 2007",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 161394,
+        "total_votes_polled": 128998,
+        "turnout_percentage": 79.9,
+        "margin_votes": 6677,
+        "margin_percentage": 5.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sadhu Singh",
+          "party": "Indian National Congress",
+          "votes": 59556,
+          "votes_percentage": 46.2
+        },
+        {
+          "position": 2,
+          "name": "Satwinder Kaur",
+          "party": "Shiromani Akali Dal",
+          "votes": 52879,
+          "votes_percentage": 41.0
+        },
+        {
+          "position": 3,
+          "name": "Jeet Singh",
+          "party": "Bahujan Samaj Party",
+          "votes": 8128,
+          "votes_percentage": 6.3
+        },
+        {
+          "position": 4,
+          "name": "Bhag Singh",
+          "party": "Shiromani Akali Dal (SIMRANJIT SINGH MANN)",
+          "votes": 2522,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 5,
+          "name": "Lachhman Singh",
+          "party": "Communist Party Of India",
+          "votes": 1546,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 6,
+          "name": "Gurmeet Singh",
+          "party": "Independent",
+          "votes": 1441,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 7,
+          "name": "Balwant Singh",
+          "party": "Independent",
+          "votes": 1297,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 8,
+          "name": "Balvir Singh",
+          "party": "Independent",
+          "votes": 693,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 9,
+          "name": "Ram Singh",
+          "party": "Lok Jan Shakti Party",
+          "votes": 488,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 10,
+          "name": "Chamel Singh",
+          "party": "Independent",
+          "votes": 419,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2002": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 148262,
+        "total_votes_polled": 99788,
+        "turnout_percentage": 67.3,
+        "margin_votes": 18750,
+        "margin_percentage": 18.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sadhu Singh",
+          "party": "Indian National Congress",
+          "votes": 45383,
+          "votes_percentage": 45.5
+        },
+        {
+          "position": 2,
+          "name": "Gurdev Singh",
+          "party": "Shiromani Akali Dal",
+          "votes": 26633,
+          "votes_percentage": 26.7
+        },
+        {
+          "position": 3,
+          "name": "Harnek Singh",
+          "party": "Shiromani Akali Dal (SIMRANJIT SINGH MANN)",
+          "votes": 13309,
+          "votes_percentage": 13.3
+        },
+        {
+          "position": 4,
+          "name": "Mann Singh",
+          "party": "Bahujan Samaj Party",
+          "votes": 11120,
+          "votes_percentage": 11.2
+        },
+        {
+          "position": 5,
+          "name": "Harbhajan Singh",
+          "party": "Independent",
+          "votes": 1560,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 6,
+          "name": "Saroop Singh",
+          "party": "Independent",
+          "votes": 1023,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 7,
+          "name": "Surjit Singh",
+          "party": "Shiv Sena",
+          "votes": 725,
+          "votes_percentage": 0.7
+        }
+      ]
+    },
+    "1997": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 147805,
+        "total_votes_polled": 102116,
+        "turnout_percentage": 69.1,
+        "margin_votes": 12732,
+        "margin_percentage": 12.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Balwant Singh",
+          "party": "Shiromani Akali Dal",
+          "votes": 44204,
+          "votes_percentage": 44.5
+        },
+        {
+          "position": 2,
+          "name": "Sadhu Singh",
+          "party": "Indian National Congress",
+          "votes": 31472,
+          "votes_percentage": 31.7
+        },
+        {
+          "position": 3,
+          "name": "Dalip Singh",
+          "party": "Independent",
+          "votes": 13101,
+          "votes_percentage": 13.2
+        },
+        {
+          "position": 4,
+          "name": "Avtar Singh",
+          "party": "Bahujan Samaj Party",
+          "votes": 6809,
+          "votes_percentage": 6.9
+        },
+        {
+          "position": 5,
+          "name": "Harchand Singh",
+          "party": "Janata Dal",
+          "votes": 2046,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 6,
+          "name": "Ram Singh",
+          "party": "Independent",
+          "votes": 1640,
+          "votes_percentage": 1.7
+        }
+      ]
+    },
+    "1992": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 130524,
+        "total_votes_polled": 13958,
+        "turnout_percentage": 10.7,
+        "margin_votes": 5461,
+        "margin_percentage": 39.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sadhu Singh",
+          "party": "Indian National Congress",
+          "votes": 8500,
+          "votes_percentage": 63.2
+        },
+        {
+          "position": 2,
+          "name": "Dalip Singh Pandhi",
+          "party": "Shiromani Akali Dal",
+          "votes": 3039,
+          "votes_percentage": 22.6
+        },
+        {
+          "position": 3,
+          "name": "Sarup Singh",
+          "party": "Janata Dal",
+          "votes": 1907,
+          "votes_percentage": 14.2
+        }
+      ]
+    },
+    "1985": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 101411,
+        "total_votes_polled": 72891,
+        "turnout_percentage": 71.9,
+        "margin_votes": 14433,
+        "margin_percentage": 19.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dalip Singh Pandhi",
+          "party": "Shiromani Akali Dal",
+          "votes": 38639,
+          "votes_percentage": 55.4
+        },
+        {
+          "position": 2,
+          "name": "Gurdev Singh",
+          "party": "Indian National Congress",
+          "votes": 24206,
+          "votes_percentage": 34.7
+        },
+        {
+          "position": 3,
+          "name": "Lachman Singh",
+          "party": "Communist Party Of India",
+          "votes": 4259,
+          "votes_percentage": 6.1
+        },
+        {
+          "position": 4,
+          "name": "Sadhu Singh",
+          "party": "Independent",
+          "votes": 1011,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Mansa Singh",
+          "party": "Independent",
+          "votes": 711,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Chanan Singh",
+          "party": "Independent",
+          "votes": 568,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 7,
+          "name": "Sadhu Singh Dahliwal",
+          "party": "Independent",
+          "votes": 192,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Faqiria",
+          "party": "Independent",
+          "votes": 190,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 94855,
+        "total_votes_polled": 62937,
+        "turnout_percentage": 66.4,
+        "margin_votes": 1476,
+        "margin_percentage": 2.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dilip Singh Pandhi",
+          "party": "Shiromani Akali Dal",
+          "votes": 30881,
+          "votes_percentage": 49.8
+        },
+        {
+          "position": 2,
+          "name": "Harchand Singh",
+          "party": "Indian National Congress (I)",
+          "votes": 29405,
+          "votes_percentage": 47.4
+        },
+        {
+          "position": 3,
+          "name": "Kikkar Singh",
+          "party": "Independent",
+          "votes": 833,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 4,
+          "name": "Harnek Singh",
+          "party": "Independent",
+          "votes": 607,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Ajmer Singh",
+          "party": "Independent",
+          "votes": 345,
+          "votes_percentage": 0.6
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 84063,
+        "total_votes_polled": 56348,
+        "turnout_percentage": 67.0,
+        "margin_votes": 12351,
+        "margin_percentage": 21.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dalip Singh Pandhi",
+          "party": "Shiromani Akali Dal",
+          "votes": 32974,
+          "votes_percentage": 59.4
+        },
+        {
+          "position": 2,
+          "name": "Harchand Singh",
+          "party": "Indian National Congress",
+          "votes": 20623,
+          "votes_percentage": 37.1
+        },
+        {
+          "position": 3,
+          "name": "Chanan Singh",
+          "party": "Independent",
+          "votes": 1386,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 4,
+          "name": "Kaka Singh",
+          "party": "Independent",
+          "votes": 239,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 5,
+          "name": "Mastan Singh",
+          "party": "Independent",
+          "votes": 176,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 6,
+          "name": "Sadhu Singh",
+          "party": "Independent",
+          "votes": 110,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Ruldu Ram",
+          "party": "Independent",
+          "votes": 38,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

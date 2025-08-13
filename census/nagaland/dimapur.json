@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 25009,
+        "male": 25889,
+        "percentage_of_total_population": 13.44,
+        "percentage_of_total_population_calculated": 13.44,
+        "percentage_of_total_population_stated": 13.44,
+        "sex_ratio": 966,
+        "total": 50898
+    },
+    "literacy": {
+        "female_literacy_rate": 81.77,
+        "female_literate": 127895,
+        "male_literacy_rate": 87.54,
+        "male_literate": 150142,
+        "rate_percentage": 84.79,
+        "total_literate": 278037
+    },
+    "population": {
+        "female": 181417,
+        "male": 197394,
+        "sex_ratio": 919,
+        "total": 378811
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.34,
+            "population": 1270
+        },
+        "Christian": {
+            "percentage": 61.84,
+            "population": 234239
+        },
+        "Hindu": {
+            "percentage": 28.75,
+            "population": 108900
+        },
+        "Jain": {
+            "percentage": 0.57,
+            "population": 2148
+        },
+        "Muslims": {
+            "percentage": 8.24,
+            "population": 31212
+        },
+        "Not Stated": {
+            "percentage": 0.08,
+            "population": 319
+        },
+        "Others": {
+            "percentage": 0.04,
+            "population": 157
+        },
+        "Sikh": {
+            "percentage": 0.15,
+            "population": 566
+        }
+    },
+    "rural": {
+        "child_population_female": 12835,
+        "child_population_male": 13228,
+        "child_population_percentage": 14.4,
+        "child_population_percentage_calculated": 14.4,
+        "child_population_percentage_stated": 14.4,
+        "child_population_total": 26063,
+        "child_sex_ratio": 970,
+        "female": 87507,
+        "literacy_rate_female": 78.32,
+        "literacy_rate_male": 85.2,
+        "literacy_rate_percentage": 81.88,
+        "literate_female": 58482,
+        "literate_male": 68340,
+        "literate_total": 126822,
+        "male": 93435,
+        "percentage_population": 47.77,
+        "population": 180942,
+        "sex_ratio": 937
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/612-dimapur.html",
+    "urban": {
+        "child_population_female": 12174,
+        "child_population_male": 12661,
+        "child_population_percentage": 12.55,
+        "child_population_percentage_calculated": 12.55,
+        "child_population_percentage_stated": 12.55,
+        "child_population_total": 24835,
+        "child_sex_ratio": 962,
+        "female": 93910,
+        "literacy_rate_female": 84.92,
+        "literacy_rate_male": 89.6,
+        "literacy_rate_percentage": 87.39,
+        "literate_female": 69413,
+        "literate_male": 81802,
+        "literate_total": 151215,
+        "male": 103959,
+        "percentage_population": 52.23,
+        "population": 197869,
+        "sex_ratio": 903
+    }
+}

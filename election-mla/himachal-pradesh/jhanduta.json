@@ -1,0 +1,57 @@
+{
+  "state": "Himachal Pradesh",
+  "constituency": "Jhanduta",
+  "district": "Bilaspur",
+  "ac_type": "SC",
+  "results": {
+    "2012": {
+      "poll_date": "",
+      "counting_date": "20 December 2012",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 67186,
+        "total_votes_polled": 46828,
+        "turnout_percentage": 69.7,
+        "margin_votes": 1199,
+        "margin_percentage": 2.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rikhi Ram Kondal",
+          "party": "Bharatiya Janta Party",
+          "votes": 22941,
+          "votes_percentage": 49.0
+        },
+        {
+          "position": 2,
+          "name": "Dr.Beeru Ram Kishore",
+          "party": "Indian National Congress",
+          "votes": 21742,
+          "votes_percentage": 46.4
+        },
+        {
+          "position": 3,
+          "name": "Kashmir Singh Jamwal",
+          "party": "Himachal Lokhit Party",
+          "votes": 791,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 4,
+          "name": "Advocate Vijay Kumar Kaushal",
+          "party": "Independent",
+          "votes": 764,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 5,
+          "name": "Anup Chand Bhatia",
+          "party": "Bahujan Samaj Party",
+          "votes": 590,
+          "votes_percentage": 1.3
+        }
+      ]
+    }
+  }
+}

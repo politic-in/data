@@ -1,0 +1,57 @@
+{
+  "state": "Maharashtra",
+  "constituency": "Mawal",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 113057,
+        "total_votes_polled": 63243,
+        "turnout_percentage": 55.9,
+        "margin_votes": 1532,
+        "margin_percentage": 2.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gade Patil B. S.",
+          "party": "Indian National Congress (I)",
+          "votes": 23032,
+          "votes_percentage": 37.4
+        },
+        {
+          "position": 2,
+          "name": "Krishnarao Bhegade",
+          "party": "Indian National Congress (U)",
+          "votes": 21500,
+          "votes_percentage": 34.9
+        },
+        {
+          "position": 3,
+          "name": "Vishwanth Bhegade",
+          "party": "Bharatiya Janta Party",
+          "votes": 13599,
+          "votes_percentage": 22.1
+        },
+        {
+          "position": 4,
+          "name": "Raj Salve",
+          "party": "Independent",
+          "votes": 3217,
+          "votes_percentage": 5.2
+        },
+        {
+          "position": 5,
+          "name": "Vithal Dhondiba Vanjare",
+          "party": "Independent",
+          "votes": 294,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

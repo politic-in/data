@@ -1,0 +1,50 @@
+{
+  "state": "Mizoram",
+  "constituency": "AIZAWLEASTII",
+  "district": "Aizawl",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 17271,
+        "total_votes_polled": 14176,
+        "turnout_percentage": 82.4,
+        "margin_votes": 1492,
+        "margin_percentage": 10.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Robert Romawia Royte",
+          "party": "Mizo National Front",
+          "votes": 5869,
+          "votes_percentage": 41.4
+        },
+        {
+          "position": 2,
+          "name": "B Lalchhanzova",
+          "party": "Independent",
+          "votes": 4377,
+          "votes_percentage": 30.9
+        },
+        {
+          "position": 3,
+          "name": "Lalsawta",
+          "party": "Indian National Congress",
+          "votes": 3818,
+          "votes_percentage": 26.9
+        },
+        {
+          "position": 4,
+          "name": "T Lalmalsawmi",
+          "party": "Bharatiya Janta Party",
+          "votes": 112,
+          "votes_percentage": 0.8
+        }
+      ]
+    }
+  }
+}

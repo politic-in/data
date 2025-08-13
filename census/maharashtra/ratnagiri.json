@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 75209,
+        "male": 80351,
+        "percentage_of_total_population": 9.63,
+        "percentage_of_total_population_calculated": 9.63,
+        "percentage_of_total_population_stated": 9.63,
+        "sex_ratio": 936,
+        "total": 155560
+    },
+    "literacy": {
+        "female_literacy_rate": 74.53,
+        "female_literate": 580380,
+        "male_literacy_rate": 90.93,
+        "male_literate": 619012,
+        "rate_percentage": 82.18,
+        "total_literate": 1199392
+    },
+    "population": {
+        "female": 853948,
+        "male": 761121,
+        "sex_ratio": 1122,
+        "total": 1615069
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 7.03,
+            "population": 113467
+        },
+        "Christian": {
+            "percentage": 0.12,
+            "population": 1990
+        },
+        "Hindu": {
+            "percentage": 80.94,
+            "population": 1307211
+        },
+        "Jain": {
+            "percentage": 0.21,
+            "population": 3347
+        },
+        "Muslims": {
+            "percentage": 11.59,
+            "population": 187197
+        },
+        "Not Stated": {
+            "percentage": 0.09,
+            "population": 1532
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 95
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 230
+        }
+    },
+    "rural": {
+        "child_population_female": 62450,
+        "child_population_male": 66623,
+        "child_population_percentage": 9.55,
+        "child_population_percentage_calculated": 9.55,
+        "child_population_percentage_stated": 9.55,
+        "child_population_total": 129073,
+        "child_sex_ratio": 937,
+        "female": 721133,
+        "literacy_rate_female": 71.68,
+        "literacy_rate_male": 89.99,
+        "literacy_rate_percentage": 80.13,
+        "literate_female": 472158,
+        "literate_male": 507199,
+        "literate_total": 979357,
+        "male": 630213,
+        "percentage_population": 83.67,
+        "population": 1351346,
+        "sex_ratio": 1144
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/366-ratnagiri.html",
+    "urban": {
+        "child_population_female": 12777,
+        "child_population_male": 13710,
+        "child_population_percentage": 10.04,
+        "child_population_percentage_calculated": 10.04,
+        "child_population_percentage_stated": 10.04,
+        "child_population_total": 26487,
+        "child_sex_ratio": 932,
+        "female": 132815,
+        "literacy_rate_female": 90.16,
+        "literacy_rate_male": 95.41,
+        "literacy_rate_percentage": 92.75,
+        "literate_female": 108222,
+        "literate_male": 111813,
+        "literate_total": 220035,
+        "male": 130908,
+        "percentage_population": 16.33,
+        "population": 263723,
+        "sex_ratio": 1015
+    }
+}

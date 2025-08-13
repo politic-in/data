@@ -1,0 +1,78 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "Ghatsila",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 175088,
+        "total_votes_polled": 104122,
+        "turnout_percentage": 59.5,
+        "margin_votes": 31876,
+        "margin_percentage": 30.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pradeep Kumar Balmuchu",
+          "party": "Indian National Congress",
+          "votes": 50645,
+          "votes_percentage": 49.3
+        },
+        {
+          "position": 2,
+          "name": "Baiju Murmu",
+          "party": "Bharatiya Janta Party",
+          "votes": 18769,
+          "votes_percentage": 18.3
+        },
+        {
+          "position": 3,
+          "name": "Bablu Murmu",
+          "party": "Communist Party Of India",
+          "votes": 16353,
+          "votes_percentage": 15.9
+        },
+        {
+          "position": 4,
+          "name": "Shankar Chand Hembram",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 9891,
+          "votes_percentage": 9.6
+        },
+        {
+          "position": 5,
+          "name": "Kanhu Samant",
+          "party": "Jharkhand People's Party",
+          "votes": 2777,
+          "votes_percentage": 2.7
+        },
+        {
+          "position": 6,
+          "name": "Jaipal Manjhi",
+          "party": "Rashtriya Janata Dal",
+          "votes": 2563,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 7,
+          "name": "Sita Ram Tudu",
+          "party": "Independent",
+          "votes": 1583,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 8,
+          "name": "Sunil Murmu",
+          "party": "Independent",
+          "votes": 120,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

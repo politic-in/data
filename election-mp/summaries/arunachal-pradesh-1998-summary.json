@@ -1,0 +1,45 @@
+{
+  "state": "Arunachal Pradesh",
+  "year": "1998",
+  "summary_stats": {
+    "total_electors_state": 565621,
+    "total_votes_polled_state": 334705,
+    "turnout_percentage_state": 59.2,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Arunachal East",
+      "ac_no": 2,
+      "ac_type": "GEN",
+      "district": "Arunachal Pradesh",
+      "winning_candidate": "Wangcha Rajkumar",
+      "winning_party": "Arunachal Congress",
+      "total_electors_ac": 241511,
+      "total_votes_ac": 138059,
+      "poll_percentage_ac": 0.0,
+      "margin": 27437,
+      "margin_percentage": 19.9,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1998/arunachal-pradesh/arunachal-east/5599/41/12"
+    },
+    {
+      "ac_name": "Arunachal West",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Arunachal Pradesh",
+      "winning_candidate": "Omak Apang",
+      "winning_party": "Arunachal Congress",
+      "total_electors_ac": 324110,
+      "total_votes_ac": 196646,
+      "poll_percentage_ac": 0.0,
+      "margin": 45105,
+      "margin_percentage": 22.9,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1998/arunachal-pradesh/arunachal-west/5598/41/12"
+    }
+  ]
+}

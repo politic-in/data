@@ -1,0 +1,236 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Rumgong",
+  "district": "West Siang",
+  "ac_type": "ST",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 11286,
+        "total_votes_polled": 10087,
+        "turnout_percentage": 89.9,
+        "margin_votes": 85,
+        "margin_percentage": 0.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Talem Taboh",
+          "party": "Janata Dal (United)",
+          "votes": 4949,
+          "votes_percentage": 49.1
+        },
+        {
+          "position": 2,
+          "name": "Tamiyo Taga",
+          "party": "Bharatiya Janta Party",
+          "votes": 4864,
+          "votes_percentage": 48.2
+        },
+        {
+          "position": 3,
+          "name": "Tahang Taggu",
+          "party": "National People's Party",
+          "votes": 274,
+          "votes_percentage": 2.7
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "09 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 10510,
+        "total_votes_polled": 9058,
+        "turnout_percentage": 86.2,
+        "total_valid_votes": 9028,
+        "total_valid_votes_percentage": 85.9,
+        "margin_votes": 190,
+        "margin_percentage": 2.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tamiyo Taga",
+          "party": "Bharatiya Janta Party",
+          "votes": 4609,
+          "votes_percentage": 51.1
+        },
+        {
+          "position": 2,
+          "name": "Talem Taboh",
+          "party": "Indian National Congress",
+          "votes": 4419,
+          "votes_percentage": 49.0
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "13 October 2009",
+      "counting_date": "22 October 2009",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 11620,
+        "total_votes_polled": 9436,
+        "turnout_percentage": 81.2,
+        "total_valid_votes": 9182,
+        "total_valid_votes_percentage": 79.0,
+        "margin_votes": 743,
+        "margin_percentage": 7.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tamiyo Taga",
+          "party": "Bharatiya Janta Party",
+          "votes": 3658,
+          "votes_percentage": 38.8
+        },
+        {
+          "position": 2,
+          "name": "Karma Jerang",
+          "party": "Janata Dal (United)",
+          "votes": 2915,
+          "votes_percentage": 30.9
+        },
+        {
+          "position": 3,
+          "name": "Dibang Tatak",
+          "party": "Indian National Congress",
+          "votes": 2749,
+          "votes_percentage": 29.1
+        },
+        {
+          "position": 4,
+          "name": "Tayu Jerang",
+          "party": "Nationalist Congress Party",
+          "votes": 114,
+          "votes_percentage": 1.2
+        }
+      ]
+    },
+    "1999": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 9029,
+        "total_votes_polled": 7394,
+        "turnout_percentage": 81.9,
+        "margin_votes": 1358,
+        "margin_percentage": 18.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tamiyo Taga",
+          "party": "Indian National Congress",
+          "votes": 4031,
+          "votes_percentage": 55.6
+        },
+        {
+          "position": 2,
+          "name": "Dibang Tatak",
+          "party": "Arunachal Congress",
+          "votes": 2673,
+          "votes_percentage": 36.9
+        },
+        {
+          "position": 3,
+          "name": "Karma Jerang",
+          "party": "Nationalist Congress Party",
+          "votes": 546,
+          "votes_percentage": 7.5
+        }
+      ]
+    },
+    "1995": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 7111,
+        "total_votes_polled": 6302,
+        "turnout_percentage": 88.6,
+        "margin_votes": 192,
+        "margin_percentage": 3.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dibang Tatak",
+          "party": "Indian National Congress",
+          "votes": 2901,
+          "votes_percentage": 46.3
+        },
+        {
+          "position": 2,
+          "name": "Tamiyo Taga",
+          "party": "Janata Dal",
+          "votes": 2709,
+          "votes_percentage": 43.3
+        },
+        {
+          "position": 3,
+          "name": "Talong Taggu",
+          "party": "Independent",
+          "votes": 650,
+          "votes_percentage": 10.4
+        }
+      ]
+    },
+    "1990": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 9006,
+        "total_votes_polled": 7340,
+        "turnout_percentage": 81.5,
+        "margin_votes": 824,
+        "margin_percentage": 11.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tamiyo Taga",
+          "party": "Indian National Congress",
+          "votes": 2778,
+          "votes_percentage": 38.3
+        },
+        {
+          "position": 2,
+          "name": "Karma Jerang",
+          "party": "Independent",
+          "votes": 1954,
+          "votes_percentage": 26.9
+        },
+        {
+          "position": 3,
+          "name": "Tayi Gaduk",
+          "party": "Janata Dal",
+          "votes": 1138,
+          "votes_percentage": 15.7
+        },
+        {
+          "position": 4,
+          "name": "Taje Komut",
+          "party": "Independent",
+          "votes": 786,
+          "votes_percentage": 10.8
+        },
+        {
+          "position": 5,
+          "name": "Taka Padung",
+          "party": "Independent",
+          "votes": 604,
+          "votes_percentage": 8.3
+        }
+      ]
+    }
+  }
+}

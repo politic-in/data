@@ -1,0 +1,36 @@
+{
+  "state": "West Bengal",
+  "constituency": "BHOLPUR",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 483643,
+        "total_votes_polled": 259965,
+        "turnout_percentage": 53.8,
+        "margin_votes": 13632,
+        "margin_percentage": 5.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "A. K. Chanda",
+          "party": "Indian National Congress",
+          "votes": 131761,
+          "votes_percentage": 50.7
+        },
+        {
+          "position": 2,
+          "name": "S. Roy",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 118129,
+          "votes_percentage": 45.4
+        }
+      ]
+    }
+  }
+}

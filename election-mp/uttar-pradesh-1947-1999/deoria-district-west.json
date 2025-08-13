@@ -1,0 +1,55 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "DEORIA DISTRICT (WEST)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 369077,
+        "total_votes_polled": 114804,
+        "turnout_percentage": 31.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bishwa Nath",
+          "party": "Indian National Congress",
+          "votes": 63325,
+          "votes_percentage": 55.2
+        },
+        {
+          "position": 2,
+          "name": "Adya Prasad",
+          "party": "Socialist Party",
+          "votes": 26690,
+          "votes_percentage": 23.2
+        },
+        {
+          "position": 3,
+          "name": "Kashi Nath",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 13523,
+          "votes_percentage": 11.8
+        },
+        {
+          "position": 4,
+          "name": "Bhanu Datta Shukla",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 5901,
+          "votes_percentage": 5.1
+        },
+        {
+          "position": 5,
+          "name": "Sushil Chand",
+          "party": "Akhil Bharatiya Hindu Mahasabha",
+          "votes": 5365,
+          "votes_percentage": 4.7
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "state": "Jammu & Kashmir",
+  "constituency": "KATHUA(SC)",
+  "district": "Kathua",
+  "ac_type": "SC",
+  "results": {
+    "2024": {
+      "poll_date": "08 October 2024",
+      "counting_date": "08 October 2024",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 108666,
+        "total_votes_polled": 82508,
+        "turnout_percentage": 76.6,
+        "margin_votes": 12117,
+        "margin_percentage": 14.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr. Bharat Bhushan",
+          "party": "Bharatiya Janta Party",
+          "votes": 45944,
+          "votes_percentage": 55.2
+        },
+        {
+          "position": 2,
+          "name": "Sandeep Majotra",
+          "party": "Bahujan Samaj Party",
+          "votes": 33827,
+          "votes_percentage": 40.6
+        },
+        {
+          "position": 3,
+          "name": "Subash Chander",
+          "party": "Jammu & Kashmir National Conference",
+          "votes": 1597,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 5,
+          "name": "Khushboo Bhagat",
+          "party": "Independent",
+          "votes": 680,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Sudesh Kumar",
+          "party": "Jammu & Kashmir Peoples Democratic Party",
+          "votes": 460,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

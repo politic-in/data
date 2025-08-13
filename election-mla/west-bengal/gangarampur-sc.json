@@ -1,0 +1,64 @@
+{
+  "state": "West Bengal",
+  "constituency": "GANGARAMPUR (SC)",
+  "district": "Dakshin Dinajpur",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 197133,
+        "total_votes_polled": 170946,
+        "turnout_percentage": 88.0,
+        "margin_votes": 10733,
+        "margin_percentage": 6.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Goutam Das",
+          "party": "Indian National Congress",
+          "votes": 80401,
+          "votes_percentage": 47.0
+        },
+        {
+          "position": 2,
+          "name": "Satyendra Nath Roy",
+          "party": "All India Trinamool Congress",
+          "votes": 69668,
+          "votes_percentage": 40.8
+        },
+        {
+          "position": 3,
+          "name": "Sanatan Karmakar",
+          "party": "Bharatiya Janta Party",
+          "votes": 17604,
+          "votes_percentage": 10.3
+        },
+        {
+          "position": 4,
+          "name": "Jatindra Nath Barman",
+          "party": "Bahujan Samaj Party",
+          "votes": 1486,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Sukla Bhuimali",
+          "party": "Communist Party Of India (Marxist-Leninist) Red Star",
+          "votes": 1068,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Bimal Chandra Barman",
+          "party": "Independent",
+          "votes": 719,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

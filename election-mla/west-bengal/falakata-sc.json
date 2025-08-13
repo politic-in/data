@@ -1,0 +1,71 @@
+{
+  "state": "West Bengal",
+  "constituency": "FALAKATA (SC)",
+  "district": "Jalpaiguri",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 225396,
+        "total_votes_polled": 194128,
+        "turnout_percentage": 87.8,
+        "margin_votes": 16839,
+        "margin_percentage": 8.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Anil Adhikari",
+          "party": "All India Trinamool Congress",
+          "votes": 86647,
+          "votes_percentage": 44.6
+        },
+        {
+          "position": 2,
+          "name": "Kshitish Chandra Ray",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 69808,
+          "votes_percentage": 36.0
+        },
+        {
+          "position": 3,
+          "name": "Narayan Chandra Mondal",
+          "party": "Bharatiya Janta Party",
+          "votes": 30639,
+          "votes_percentage": 15.8
+        },
+        {
+          "position": 4,
+          "name": "Bishnupada Roy",
+          "party": "Independent",
+          "votes": 3007,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 5,
+          "name": "Paritosh Ch. Roy",
+          "party": "Independent",
+          "votes": 2016,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Tarani Roy",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1344,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Naresh Chandra Barman",
+          "party": "Independent",
+          "votes": 667,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

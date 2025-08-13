@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 327486,
+        "male": 353656,
+        "percentage_of_total_population": 17.24,
+        "percentage_of_total_population_calculated": 17.24,
+        "percentage_of_total_population_stated": 17.24,
+        "sex_ratio": 926,
+        "total": 681142
+    },
+    "literacy": {
+        "female_literacy_rate": 54.42,
+        "female_literate": 871687,
+        "male_literacy_rate": 77.03,
+        "male_literate": 1285767,
+        "rate_percentage": 65.96,
+        "total_literate": 2157454
+    },
+    "population": {
+        "female": 1929041,
+        "male": 2022821,
+        "sex_ratio": 954,
+        "total": 3951862
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 229
+        },
+        "Christian": {
+            "percentage": 0.06,
+            "population": 2330
+        },
+        "Hindu": {
+            "percentage": 89.45,
+            "population": 3534772
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 322
+        },
+        "Muslims": {
+            "percentage": 10.28,
+            "population": 406449
+        },
+        "Not Stated": {
+            "percentage": 0.18,
+            "population": 7282
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 107
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 371
+        }
+    },
+    "rural": {
+        "child_population_female": 301737,
+        "child_population_male": 325524,
+        "child_population_percentage": 17.43,
+        "child_population_percentage_calculated": 17.43,
+        "child_population_percentage_stated": 17.43,
+        "child_population_total": 627261,
+        "child_sex_ratio": 927,
+        "female": 1760541,
+        "literacy_rate_female": 53.17,
+        "literacy_rate_male": 76.49,
+        "literacy_rate_percentage": 65.04,
+        "literate_female": 775649,
+        "literate_male": 1156940,
+        "literate_total": 1932589,
+        "male": 1838119,
+        "percentage_population": 91.06,
+        "population": 3598660,
+        "sex_ratio": 958
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/71-saran.html",
+    "urban": {
+        "child_population_female": 25667,
+        "child_population_male": 28214,
+        "child_population_percentage": 15.26,
+        "child_population_percentage_calculated": 15.26,
+        "child_population_percentage_stated": 15.26,
+        "child_population_total": 53881,
+        "child_sex_ratio": 910,
+        "female": 168500,
+        "literacy_rate_female": 67.24,
+        "literacy_rate_male": 82.32,
+        "literacy_rate_percentage": 75.13,
+        "literate_female": 96038,
+        "literate_male": 128827,
+        "literate_total": 224865,
+        "male": 184702,
+        "percentage_population": 8.94,
+        "population": 353202,
+        "sex_ratio": 912
+    }
+}

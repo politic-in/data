@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 44903,
+        "male": 46008,
+        "percentage_of_total_population": 23.01,
+        "percentage_of_total_population_calculated": 23.01,
+        "percentage_of_total_population_stated": 23.01,
+        "sex_ratio": 976,
+        "total": 90911
+    },
+    "literacy": {
+        "female_literacy_rate": 65.06,
+        "female_literate": 100156,
+        "male_literacy_rate": 58.14,
+        "male_literate": 87371,
+        "rate_percentage": 61.64,
+        "total_literate": 187527
+    },
+    "population": {
+        "female": 198839,
+        "male": 196285,
+        "sex_ratio": 1013,
+        "total": 395124
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.07,
+            "population": 284
+        },
+        "Christian": {
+            "percentage": 68.74,
+            "population": 271596
+        },
+        "Hindu": {
+            "percentage": 3.15,
+            "population": 12456
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 45
+        },
+        "Muslims": {
+            "percentage": 0.42,
+            "population": 1646
+        },
+        "Not Stated": {
+            "percentage": 0.38,
+            "population": 1504
+        },
+        "Others": {
+            "percentage": 27.22,
+            "population": 107559
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 34
+        }
+    },
+    "rural": {
+        "child_population_female": 43001,
+        "child_population_male": 44053,
+        "child_population_percentage": 23.74,
+        "child_population_percentage_calculated": 23.74,
+        "child_population_percentage_stated": 23.74,
+        "child_population_total": 87054,
+        "child_sex_ratio": 976,
+        "female": 184084,
+        "literacy_rate_female": 62.75,
+        "literacy_rate_male": 55.29,
+        "literacy_rate_percentage": 59.05,
+        "literate_female": 88529,
+        "literate_male": 76611,
+        "literate_total": 165140,
+        "male": 182610,
+        "percentage_population": 92.8,
+        "population": 366694,
+        "sex_ratio": 1008
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/385-jaintia-hills.html",
+    "urban": {
+        "child_population_female": 1899,
+        "child_population_male": 1958,
+        "child_population_percentage": 13.57,
+        "child_population_percentage_calculated": 13.57,
+        "child_population_percentage_stated": 13.57,
+        "child_population_total": 3857,
+        "child_sex_ratio": 970,
+        "female": 14755,
+        "literacy_rate_female": 90.44,
+        "literacy_rate_male": 91.83,
+        "literacy_rate_percentage": 91.1,
+        "literate_female": 11627,
+        "literate_male": 10760,
+        "literate_total": 22387,
+        "male": 13675,
+        "percentage_population": 7.2,
+        "population": 28430,
+        "sex_ratio": 1079
+    }
+}

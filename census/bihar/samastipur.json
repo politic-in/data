@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 382726,
+        "male": 414655,
+        "percentage_of_total_population": 18.71,
+        "percentage_of_total_population_calculated": 18.71,
+        "percentage_of_total_population_stated": 18.71,
+        "sex_ratio": 923,
+        "total": 797381
+    },
+    "literacy": {
+        "female_literacy_rate": 51.51,
+        "female_literate": 849305,
+        "male_literacy_rate": 71.25,
+        "male_literate": 1293575,
+        "rate_percentage": 61.86,
+        "total_literate": 2142880
+    },
+    "population": {
+        "female": 2031563,
+        "male": 2230003,
+        "sex_ratio": 911,
+        "total": 4261566
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 292
+        },
+        "Christian": {
+            "percentage": 0.05,
+            "population": 2126
+        },
+        "Hindu": {
+            "percentage": 89.18,
+            "population": 3800598
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 231
+        },
+        "Muslims": {
+            "percentage": 10.62,
+            "population": 452370
+        },
+        "Not Stated": {
+            "percentage": 0.12,
+            "population": 5283
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 112
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 554
+        }
+    },
+    "rural": {
+        "child_population_female": 372783,
+        "child_population_male": 403559,
+        "child_population_percentage": 18.87,
+        "child_population_percentage_calculated": 18.87,
+        "child_population_percentage_stated": 18.87,
+        "child_population_total": 776342,
+        "child_sex_ratio": 924,
+        "female": 1961496,
+        "literacy_rate_female": 50.63,
+        "literacy_rate_male": 70.7,
+        "literacy_rate_percentage": 61.14,
+        "literate_female": 804327,
+        "literate_male": 1236255,
+        "literate_total": 2040582,
+        "male": 2152273,
+        "percentage_population": 96.53,
+        "population": 4113769,
+        "sex_ratio": 911
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/73-samastipur.html",
+    "urban": {
+        "child_population_female": 10012,
+        "child_population_male": 11027,
+        "child_population_percentage": 14.24,
+        "child_population_percentage_calculated": 14.24,
+        "child_population_percentage_stated": 14.24,
+        "child_population_total": 21039,
+        "child_sex_ratio": 908,
+        "female": 70067,
+        "literacy_rate_female": 74.89,
+        "literacy_rate_male": 85.93,
+        "literacy_rate_percentage": 80.7,
+        "literate_female": 44978,
+        "literate_male": 57320,
+        "literate_total": 102298,
+        "male": 77730,
+        "percentage_population": 3.47,
+        "population": 147797,
+        "sex_ratio": 901
+    }
+}

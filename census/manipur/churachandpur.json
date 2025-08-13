@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 18223,
+        "male": 19222,
+        "percentage_of_total_population": 13.66,
+        "percentage_of_total_population_calculated": 13.66,
+        "percentage_of_total_population_stated": 13.66,
+        "sex_ratio": 948,
+        "total": 37445
+    },
+    "literacy": {
+        "female_literacy_rate": 78.5,
+        "female_literate": 91922,
+        "male_literacy_rate": 86.97,
+        "male_literate": 104013,
+        "rate_percentage": 82.78,
+        "total_literate": 195935
+    },
+    "population": {
+        "female": 135323,
+        "male": 138820,
+        "sex_ratio": 975,
+        "total": 274143
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.18,
+            "population": 495
+        },
+        "Christian": {
+            "percentage": 93.01,
+            "population": 254979
+        },
+        "Hindu": {
+            "percentage": 4.39,
+            "population": 12034
+        },
+        "Jain": {
+            "percentage": 0.03,
+            "population": 87
+        },
+        "Muslims": {
+            "percentage": 1.05,
+            "population": 2886
+        },
+        "Not Stated": {
+            "percentage": 0.43,
+            "population": 1177
+        },
+        "Others": {
+            "percentage": 0.85,
+            "population": 2333
+        },
+        "Sikh": {
+            "percentage": 0.06,
+            "population": 152
+        }
+    },
+    "rural": {
+        "child_population_female": 17200,
+        "child_population_male": 18150,
+        "child_population_percentage": 13.82,
+        "child_population_percentage_calculated": 13.82,
+        "child_population_percentage_stated": 13.82,
+        "child_population_total": 35350,
+        "child_sex_ratio": 948,
+        "female": 126127,
+        "literacy_rate_female": 78.05,
+        "literacy_rate_male": 86.54,
+        "literacy_rate_percentage": 82.34,
+        "literate_female": 85014,
+        "literate_male": 96504,
+        "literate_total": 181518,
+        "male": 129659,
+        "percentage_population": 93.3,
+        "population": 255786,
+        "sex_ratio": 973
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/372-churachandpur.html",
+    "urban": {
+        "child_population_female": 1018,
+        "child_population_male": 1077,
+        "child_population_percentage": 11.41,
+        "child_population_percentage_calculated": 11.41,
+        "child_population_percentage_stated": 11.41,
+        "child_population_total": 2095,
+        "child_sex_ratio": 945,
+        "female": 9196,
+        "literacy_rate_female": 84.47,
+        "literacy_rate_male": 92.89,
+        "literacy_rate_percentage": 88.65,
+        "literate_female": 6908,
+        "literate_male": 7509,
+        "literate_total": 14417,
+        "male": 9161,
+        "percentage_population": 6.7,
+        "population": 18357,
+        "sex_ratio": 1004
+    }
+}

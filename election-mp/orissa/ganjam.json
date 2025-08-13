@@ -1,0 +1,62 @@
+{
+  "state": "Orissa",
+  "constituency": "GANJAM",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1957": {
+      "poll_date": "25 February 1957",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 751685,
+        "total_votes_polled": 545590,
+        "turnout_percentage": 36.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mohan Nayak",
+          "party": "Indian National Congress",
+          "votes": 127558,
+          "votes_percentage": 23.4
+        },
+        {
+          "position": 1,
+          "name": "Uma Charan Patnaik",
+          "party": "Independent",
+          "votes": 120057,
+          "votes_percentage": 22.0
+        },
+        {
+          "position": 3,
+          "name": "Ganesh Mahapatra",
+          "party": "Indian National Congress",
+          "votes": 110405,
+          "votes_percentage": 20.2
+        },
+        {
+          "position": 4,
+          "name": "Sapua Naik",
+          "party": "Independent",
+          "votes": 75971,
+          "votes_percentage": 13.9
+        },
+        {
+          "position": 5,
+          "name": "Satananda Padhi",
+          "party": "Ganatantra Parishad",
+          "votes": 62251,
+          "votes_percentage": 11.4
+        },
+        {
+          "position": 6,
+          "name": "Iswar Naik",
+          "party": "Ganatantra Parishad",
+          "votes": 49348,
+          "votes_percentage": 9.0
+        }
+      ]
+    }
+  }
+}

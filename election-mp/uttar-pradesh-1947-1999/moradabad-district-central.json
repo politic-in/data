@@ -1,0 +1,41 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "MORADABAD DISTRICT (CENTRAL)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 387330,
+        "total_votes_polled": 163085,
+        "turnout_percentage": 42.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Hifzul Rehman",
+          "party": "Indian National Congress",
+          "votes": 97863,
+          "votes_percentage": 60.0
+        },
+        {
+          "position": 2,
+          "name": "Hari Raj Sarup",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 50890,
+          "votes_percentage": 31.2
+        },
+        {
+          "position": 3,
+          "name": "Dharam Chand Grover",
+          "party": "Socialist Party",
+          "votes": 14332,
+          "votes_percentage": 8.8
+        }
+      ]
+    }
+  }
+}

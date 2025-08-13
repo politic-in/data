@@ -1,0 +1,78 @@
+{
+  "state": "Uttarakhand",
+  "constituency": "Ghansali (S.C.)",
+  "district": "Tehri Garhwal",
+  "ac_type": "GEN",
+  "results": {
+    "2017": {
+      "poll_date": "15 February 2017",
+      "counting_date": "11 March 2017",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 91356,
+        "total_votes_polled": 43799,
+        "turnout_percentage": 49.0,
+        "margin_votes": 11653,
+        "margin_percentage": 26.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shakti Lal Shah",
+          "party": "Bharatiya Janta Party",
+          "votes": 22103,
+          "votes_percentage": 49.3
+        },
+        {
+          "position": 2,
+          "name": "Dhanilal Shah",
+          "party": "Independent",
+          "votes": 10450,
+          "votes_percentage": 23.3
+        },
+        {
+          "position": 3,
+          "name": "Bheem Lal Arya",
+          "party": "Indian National Congress",
+          "votes": 4963,
+          "votes_percentage": 11.1
+        },
+        {
+          "position": 4,
+          "name": "Prem Lal",
+          "party": "Independent",
+          "votes": 3062,
+          "votes_percentage": 6.8
+        },
+        {
+          "position": 5,
+          "name": "Makan Lal",
+          "party": "Uttarakhand Raksha Morcha",
+          "votes": 1458,
+          "votes_percentage": 3.3
+        },
+        {
+          "position": 6,
+          "name": "Kamal Das",
+          "party": "Independent",
+          "votes": 715,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 7,
+          "name": "Pingal Dass",
+          "party": "Bahujan Samaj Party",
+          "votes": 653,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 8,
+          "name": "Siman Lal Arya",
+          "party": "Uttarakhand Kranti Dal",
+          "votes": 395,
+          "votes_percentage": 0.9
+        }
+      ]
+    }
+  }
+}

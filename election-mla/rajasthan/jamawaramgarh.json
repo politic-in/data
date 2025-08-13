@@ -1,0 +1,99 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Jamawaramgarh",
+  "district": "Jaipur",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 201870,
+        "total_votes_polled": 159672,
+        "turnout_percentage": 80.2,
+        "margin_votes": 21684,
+        "margin_percentage": 13.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gopal Lal Meena",
+          "party": "Indian National Congress",
+          "votes": 89165,
+          "votes_percentage": 55.8
+        },
+        {
+          "position": 2,
+          "name": "Mahendra Pal Meena",
+          "party": "Bharatiya Janta Party",
+          "votes": 67481,
+          "votes_percentage": 42.3
+        },
+        {
+          "position": 3,
+          "name": "Meera Devi",
+          "party": "Independent",
+          "votes": 1042,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 4,
+          "name": "Kishan Lal Meena",
+          "party": "Aam Aadmi Party",
+          "votes": 908,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 5,
+          "name": "Maliram Nayaka",
+          "party": "Independent",
+          "votes": 331,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 6,
+          "name": "Leeladhar Meena",
+          "party": "Rashtriya Loktantrik Party",
+          "votes": 155,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 7,
+          "name": "Madan Lal Verma",
+          "party": "Bharat Vahini Party",
+          "votes": 147,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "Hanuman Sahaya Dhanka",
+          "party": "Bhartiya Panchyat Party",
+          "votes": 128,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Ramesh Chand Dhanka",
+          "party": "Indian Peoples Green Party",
+          "votes": 125,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Riddhi Chand Meena",
+          "party": "Bharatiya Yuva Shakti",
+          "votes": 95,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Ram Prvesh Dabla",
+          "party": "Bharatiya Rashtravadi Samanta Party",
+          "votes": 95,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

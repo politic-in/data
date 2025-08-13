@@ -1,0 +1,113 @@
+{
+  "state": "Tripura",
+  "constituency": "Kailashahar",
+  "district": "North Tripura",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 46054,
+        "total_votes_polled": 39357,
+        "turnout_percentage": 86.4,
+        "margin_votes": 4834,
+        "margin_percentage": 12.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Moboshar Ali",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 18093,
+          "votes_percentage": 46.0
+        },
+        {
+          "position": 2,
+          "name": "Nitish De",
+          "party": "Bharatiya Janta Party",
+          "votes": 13259,
+          "votes_percentage": 33.7
+        },
+        {
+          "position": 3,
+          "name": "Birajit Sinha",
+          "party": "Indian National Congress",
+          "votes": 7787,
+          "votes_percentage": 19.8
+        },
+        {
+          "position": 5,
+          "name": "Narasingha Das",
+          "party": "All India Trinamool Congress",
+          "votes": 218,
+          "votes_percentage": 0.6
+        }
+      ]
+    },
+    "2003": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 34930,
+        "total_votes_polled": 28143,
+        "turnout_percentage": 80.6,
+        "margin_votes": 2001,
+        "margin_percentage": 7.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Birajit Sinha",
+          "party": "Indian National Congress",
+          "votes": 14751,
+          "votes_percentage": 52.5
+        },
+        {
+          "position": 2,
+          "name": "Inuch Mia Khadim",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 12750,
+          "votes_percentage": 45.4
+        },
+        {
+          "position": 3,
+          "name": "Bijoy Bhattacharjee",
+          "party": "All India Trinamool Congress",
+          "votes": 184,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 4,
+          "name": "Manjir Ali",
+          "party": "Independent",
+          "votes": 121,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 5,
+          "name": "Shibendra Das",
+          "party": "Independent",
+          "votes": 118,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Kamal Khan",
+          "party": "Janata Dal (United)",
+          "votes": 109,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Numan Mia",
+          "party": "Independent",
+          "votes": 66,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

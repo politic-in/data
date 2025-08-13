@@ -1,0 +1,78 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Jaayal",
+  "district": "Nagaur",
+  "ac_type": "SC",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 224450,
+        "total_votes_polled": 159847,
+        "turnout_percentage": 72.3,
+        "margin_votes": 18604,
+        "margin_percentage": 11.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Manju Devi",
+          "party": "Indian National Congress",
+          "votes": 68415,
+          "votes_percentage": 42.8
+        },
+        {
+          "position": 2,
+          "name": "Anil",
+          "party": "Rashtriya Loktantrik Party",
+          "votes": 49811,
+          "votes_percentage": 31.2
+        },
+        {
+          "position": 3,
+          "name": "Dr. Manju Baghmar",
+          "party": "Bharatiya Janta Party",
+          "votes": 32261,
+          "votes_percentage": 20.2
+        },
+        {
+          "position": 4,
+          "name": "Annu Devi",
+          "party": "National Unionist Zamindara Party",
+          "votes": 4675,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 5,
+          "name": "Jitendra",
+          "party": "Bharatiya Yuva Shakti",
+          "votes": 2232,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 6,
+          "name": "Megaram",
+          "party": "Independent",
+          "votes": 985,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Sohana Ram Rathi",
+          "party": "Independent",
+          "votes": 825,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Premraj",
+          "party": "Bahujan Sangharshh Dal",
+          "votes": 643,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

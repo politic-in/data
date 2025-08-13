@@ -1,0 +1,50 @@
+{
+  "state": "Meghalaya",
+  "constituency": "Williamnagar",
+  "district": "East Garo Hills",
+  "ac_type": "ST",
+  "results": {
+    "2013": {
+      "poll_date": "23 February 2013",
+      "counting_date": "28 February 2013",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 26687,
+        "total_votes_polled": 21537,
+        "turnout_percentage": 80.7,
+        "margin_votes": 2877,
+        "margin_percentage": 13.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Deborah C Marak",
+          "party": "Indian National Congress",
+          "votes": 8402,
+          "votes_percentage": 39.0
+        },
+        {
+          "position": 2,
+          "name": "Jonathone N Sangma",
+          "party": "Independent",
+          "votes": 5525,
+          "votes_percentage": 25.7
+        },
+        {
+          "position": 3,
+          "name": "Marcuise N Marak",
+          "party": "National People's Party",
+          "votes": 4771,
+          "votes_percentage": 22.2
+        },
+        {
+          "position": 4,
+          "name": "Santosh R  Marak",
+          "party": "United Democratic Party",
+          "votes": 2839,
+          "votes_percentage": 13.2
+        }
+      ]
+    }
+  }
+}

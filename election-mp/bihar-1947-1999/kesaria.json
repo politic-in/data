@@ -1,0 +1,111 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "KESARIA",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 586266,
+        "total_votes_polled": 247546,
+        "turnout_percentage": 42.2,
+        "margin_votes": 50287,
+        "margin_percentage": 20.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kamla Mishra Madhukar",
+          "party": "Communist Party Of India",
+          "votes": 127338,
+          "votes_percentage": 51.4
+        },
+        {
+          "position": 2,
+          "name": "Basudeo Narain Singh",
+          "party": "Indian National Congress (ORGANISATION)",
+          "votes": 77051,
+          "votes_percentage": 31.1
+        },
+        {
+          "position": 3,
+          "name": "Mahanth Sukdeo Giri",
+          "party": "Shoshit Dal Bihar",
+          "votes": 39277,
+          "votes_percentage": 15.9
+        }
+      ]
+    },
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 389402,
+        "total_votes_polled": 171090,
+        "turnout_percentage": 43.9,
+        "margin_votes": 49538,
+        "margin_percentage": 29.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bhishma Prasad Yadava",
+          "party": "Indian National Congress",
+          "votes": 88307,
+          "votes_percentage": 51.6
+        },
+        {
+          "position": 2,
+          "name": "Raghunandan Pd. Narain Sinha",
+          "party": "Swatantra",
+          "votes": 38769,
+          "votes_percentage": 22.7
+        },
+        {
+          "position": 3,
+          "name": "Tahir Ali Mian",
+          "party": "Communist Party Of India",
+          "votes": 38294,
+          "votes_percentage": 22.4
+        }
+      ]
+    },
+    "1957": {
+      "poll_date": "25 February 1957",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 339047,
+        "total_votes_polled": 131716,
+        "turnout_percentage": 38.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dwarkanath Tiwari",
+          "party": "Indian National Congress",
+          "votes": 69692,
+          "votes_percentage": 52.9
+        },
+        {
+          "position": 2,
+          "name": "Mahanth Gir",
+          "party": "Communist Party Of India",
+          "votes": 43199,
+          "votes_percentage": 32.8
+        },
+        {
+          "position": 3,
+          "name": "Rameshwar Prasad Verma",
+          "party": "Praja Socialist Party",
+          "votes": 18825,
+          "votes_percentage": 14.3
+        }
+      ]
+    }
+  }
+}

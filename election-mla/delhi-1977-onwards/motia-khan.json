@@ -1,0 +1,85 @@
+{
+  "state": "Delhi [1977 Onwards]",
+  "constituency": "Motia Khan",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1983": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 44412,
+        "total_votes_polled": 24919,
+        "turnout_percentage": 56.1,
+        "margin_votes": 1039,
+        "margin_percentage": 4.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Manohar Lal",
+          "party": "Indian National Congress",
+          "votes": 12397,
+          "votes_percentage": 50.7
+        },
+        {
+          "position": 2,
+          "name": "Pushpa Kale",
+          "party": "Bharatiya Janta Party",
+          "votes": 11358,
+          "votes_percentage": 46.5
+        },
+        {
+          "position": 3,
+          "name": "Malik C.K.",
+          "party": "Janta Party",
+          "votes": 542,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 4,
+          "name": "Tilak Raj Bajaj",
+          "party": "Independent",
+          "votes": 87,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 5,
+          "name": "Bajrang Singh",
+          "party": "Independent",
+          "votes": 70,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 43657,
+        "total_votes_polled": 25686,
+        "turnout_percentage": 58.8,
+        "margin_votes": 4851,
+        "margin_percentage": 18.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pushpa Kale",
+          "party": "Janta Party",
+          "votes": 15003,
+          "votes_percentage": 59.6
+        },
+        {
+          "position": 2,
+          "name": "P.R. Mittal",
+          "party": "Indian National Congress",
+          "votes": 10152,
+          "votes_percentage": 40.4
+        }
+      ]
+    }
+  }
+}

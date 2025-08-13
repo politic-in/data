@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 109234,
+        "male": 114984,
+        "percentage_of_total_population": 13.84,
+        "percentage_of_total_population_calculated": 13.84,
+        "percentage_of_total_population_stated": 13.84,
+        "sex_ratio": 950,
+        "total": 224218
+    },
+    "literacy": {
+        "female_literacy_rate": 61.31,
+        "female_literate": 425955,
+        "male_literacy_rate": 84.72,
+        "male_literate": 593679,
+        "rate_percentage": 73.07,
+        "total_literate": 1019634
+    },
+    "population": {
+        "female": 803990,
+        "male": 815717,
+        "sex_ratio": 986,
+        "total": 1619707
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.03,
+            "population": 556
+        },
+        "Christian": {
+            "percentage": 0.18,
+            "population": 2926
+        },
+        "Hindu": {
+            "percentage": 98.6,
+            "population": 1597089
+        },
+        "Jain": {
+            "percentage": 0.04,
+            "population": 707
+        },
+        "Muslims": {
+            "percentage": 0.88,
+            "population": 14173
+        },
+        "Not Stated": {
+            "percentage": 0.09,
+            "population": 1401
+        },
+        "Others": {
+            "percentage": 0.14,
+            "population": 2220
+        },
+        "Sikh": {
+            "percentage": 0.04,
+            "population": 635
+        }
+    },
+    "rural": {
+        "child_population_female": 95264,
+        "child_population_male": 99788,
+        "child_population_percentage": 13.99,
+        "child_population_percentage_calculated": 13.99,
+        "child_population_percentage_stated": 13.99,
+        "child_population_total": 195052,
+        "child_sex_ratio": 955,
+        "female": 693245,
+        "literacy_rate_female": 59.48,
+        "literacy_rate_male": 83.73,
+        "literacy_rate_percentage": 71.64,
+        "literate_female": 355656,
+        "literate_male": 503744,
+        "literate_total": 859400,
+        "male": 701401,
+        "percentage_population": 86.1,
+        "population": 1394646,
+        "sex_ratio": 988
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/490-janjgir-champa.html",
+    "urban": {
+        "child_population_female": 13997,
+        "child_population_male": 15169,
+        "child_population_percentage": 12.96,
+        "child_population_percentage_calculated": 12.96,
+        "child_population_percentage_stated": 12.96,
+        "child_population_total": 29166,
+        "child_sex_ratio": 923,
+        "female": 110745,
+        "literacy_rate_female": 72.66,
+        "literacy_rate_male": 90.71,
+        "literacy_rate_percentage": 81.8,
+        "literate_female": 70299,
+        "literate_male": 89935,
+        "literate_total": 160234,
+        "male": 114316,
+        "percentage_population": 13.9,
+        "population": 225061,
+        "sex_ratio": 969
+    }
+}

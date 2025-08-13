@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 39918,
+        "male": 39719,
+        "percentage_of_total_population": 14.92,
+        "percentage_of_total_population_calculated": 14.92,
+        "percentage_of_total_population_stated": 14.92,
+        "sex_ratio": 1005,
+        "total": 79637
+    },
+    "literacy": {
+        "female_literacy_rate": 32.54,
+        "female_literate": 74708,
+        "male_literacy_rate": 51.92,
+        "male_literate": 116529,
+        "rate_percentage": 42.12,
+        "total_literate": 191237
+    },
+    "population": {
+        "female": 269496,
+        "male": 264142,
+        "sex_ratio": 1020,
+        "total": 533638
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.07,
+            "population": 352
+        },
+        "Christian": {
+            "percentage": 0.92,
+            "population": 4888
+        },
+        "Hindu": {
+            "percentage": 96.3,
+            "population": 513915
+        },
+        "Jain": {
+            "percentage": 0.2,
+            "population": 1044
+        },
+        "Muslims": {
+            "percentage": 1.21,
+            "population": 6437
+        },
+        "Not Stated": {
+            "percentage": 0.09,
+            "population": 474
+        },
+        "Others": {
+            "percentage": 1.14,
+            "population": 6071
+        },
+        "Sikh": {
+            "percentage": 0.09,
+            "population": 457
+        }
+    },
+    "rural": {
+        "child_population_female": 33848,
+        "child_population_male": 33524,
+        "child_population_percentage": 15.4,
+        "child_population_percentage_calculated": 15.4,
+        "child_population_percentage_stated": 15.4,
+        "child_population_total": 67372,
+        "child_sex_ratio": 1010,
+        "female": 223475,
+        "literacy_rate_female": 24.58,
+        "literacy_rate_male": 43.66,
+        "literacy_rate_percentage": 33.88,
+        "literate_female": 46616,
+        "literate_male": 78765,
+        "literate_total": 125381,
+        "male": 213930,
+        "percentage_population": 81.97,
+        "population": 437405,
+        "sex_ratio": 1045
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/501-dantewada.html",
+    "urban": {
+        "child_population_female": 6071,
+        "child_population_male": 6194,
+        "child_population_percentage": 12.75,
+        "child_population_percentage_calculated": 12.75,
+        "child_population_percentage_stated": 12.75,
+        "child_population_total": 12265,
+        "child_sex_ratio": 980,
+        "female": 46021,
+        "literacy_rate_female": 70.32,
+        "literacy_rate_male": 85.79,
+        "literacy_rate_percentage": 78.43,
+        "literate_female": 28092,
+        "literate_male": 37764,
+        "literate_total": 65856,
+        "male": 50212,
+        "percentage_population": 18.03,
+        "population": 96233,
+        "sex_ratio": 917
+    }
+}

@@ -1,0 +1,50 @@
+{
+  "state": "Meghalaya",
+  "constituency": "WESTSHILLONG",
+  "district": "East Khasi Hills",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 25680,
+        "total_votes_polled": 18963,
+        "turnout_percentage": 74.6,
+        "margin_votes": 1984,
+        "margin_percentage": 10.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mohendro Rapsang",
+          "party": "Indian National Congress",
+          "votes": 10288,
+          "votes_percentage": 54.3
+        },
+        {
+          "position": 2,
+          "name": "Paul Lyngdoh",
+          "party": "United Democratic Party",
+          "votes": 8304,
+          "votes_percentage": 43.8
+        },
+        {
+          "position": 4,
+          "name": "Donaldson Shanpru",
+          "party": "Independent",
+          "votes": 189,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Havergail Edwina Bareh",
+          "party": "National People's Party",
+          "votes": 182,
+          "votes_percentage": 1.0
+        }
+      ]
+    }
+  }
+}

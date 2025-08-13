@@ -1,0 +1,45 @@
+{
+  "state": "Meghalaya",
+  "year": "2014",
+  "summary_stats": {
+    "total_electors_state": 1567241,
+    "total_votes_polled_state": 1078058,
+    "turnout_percentage_state": 68.8,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Shillong",
+      "ac_no": 1,
+      "ac_type": "ST",
+      "district": "Meghalaya",
+      "winning_candidate": "Vincent H. Pala",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 980740,
+      "total_votes_ac": 619987,
+      "poll_percentage_ac": 0.0,
+      "margin": 40379,
+      "margin_percentage": 6.5,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2014/meghalaya/shillong/8306/44/16"
+    },
+    {
+      "ac_name": "Tura",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Meghalaya",
+      "winning_candidate": "Purno Agitok Sangma",
+      "winning_party": "National People's Party",
+      "total_electors_ac": 586501,
+      "total_votes_ac": 458071,
+      "poll_percentage_ac": 0.0,
+      "margin": 39716,
+      "margin_percentage": 8.7,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2014/meghalaya/tura/8307/44/16"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "state": "West Bengal",
+  "constituency": "KHEJURI (SC)",
+  "district": "Purba Medinipur",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 212189,
+        "total_votes_polled": 188341,
+        "turnout_percentage": 90.0,
+        "margin_votes": 42485,
+        "margin_percentage": 22.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ranajit Mondal",
+          "party": "All India Trinamool Congress",
+          "votes": 103699,
+          "votes_percentage": 55.1
+        },
+        {
+          "position": 2,
+          "name": "Asim Kumar Mandal",
+          "party": "Independent",
+          "votes": 61214,
+          "votes_percentage": 32.5
+        },
+        {
+          "position": 3,
+          "name": "Patra Swadesh Ranjan",
+          "party": "Bharatiya Janta Party",
+          "votes": 17064,
+          "votes_percentage": 9.1
+        },
+        {
+          "position": 4,
+          "name": "Raghunath Das",
+          "party": "Samajwadi Party",
+          "votes": 3473,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 5,
+          "name": "Tapas Maiti",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 2891,
+          "votes_percentage": 1.5
+        }
+      ]
+    }
+  }
+}

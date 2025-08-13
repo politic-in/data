@@ -1,0 +1,50 @@
+{
+  "state": "Tripura",
+  "constituency": "KALYANPUR-PROMODENAGAR",
+  "district": "West Tripura",
+  "ac_type": "GEN",
+  "results": {
+    "2013": {
+      "poll_date": "14 February 2013",
+      "counting_date": "28 February 2013",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 39064,
+        "total_votes_polled": 36734,
+        "turnout_percentage": 94.0,
+        "margin_votes": 3780,
+        "margin_percentage": 10.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Manindra Chandra Das",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 19755,
+          "votes_percentage": 53.8
+        },
+        {
+          "position": 2,
+          "name": "Kajal Chandra Das",
+          "party": "Indian National Congress",
+          "votes": 15975,
+          "votes_percentage": 43.5
+        },
+        {
+          "position": 3,
+          "name": "Biplab Roy",
+          "party": "Amra Bangalee",
+          "votes": 609,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 4,
+          "name": "Khokan Chandra Pal",
+          "party": "Bharatiya Janta Party",
+          "votes": 395,
+          "votes_percentage": 1.1
+        }
+      ]
+    }
+  }
+}

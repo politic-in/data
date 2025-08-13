@@ -1,0 +1,659 @@
+{
+  "state": "Assam",
+  "constituency": "Thowra",
+  "district": "Sibsagar",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 110207,
+        "total_votes_polled": 95751,
+        "turnout_percentage": 87.9,
+        "margin_votes": 2006,
+        "margin_percentage": 2.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sushanta Borgohain",
+          "party": "Indian National Congress",
+          "votes": 48026,
+          "votes_percentage": 50.2
+        },
+        {
+          "position": 2,
+          "name": "Kushal Dowari",
+          "party": "Bharatiya Janta Party",
+          "votes": 46020,
+          "votes_percentage": 48.1
+        },
+        {
+          "position": 3,
+          "name": "Dipen Tanti",
+          "party": "Assam Jatiya Parishad",
+          "votes": 1705,
+          "votes_percentage": 1.8
+        }
+      ]
+    },
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 99755,
+        "total_votes_polled": 83960,
+        "turnout_percentage": 86.1,
+        "margin_votes": 1226,
+        "margin_percentage": 1.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kushal Dowari",
+          "party": "Bharatiya Janta Party",
+          "votes": 41560,
+          "votes_percentage": 49.5
+        },
+        {
+          "position": 2,
+          "name": "Sushanta Borgohain",
+          "party": "Indian National Congress",
+          "votes": 40334,
+          "votes_percentage": 48.0
+        },
+        {
+          "position": 3,
+          "name": "Kushal Borgohain",
+          "party": "Communist Party Of India",
+          "votes": 2066,
+          "votes_percentage": 2.5
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "04 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 94833,
+        "total_votes_polled": 71442,
+        "turnout_percentage": 75.3,
+        "margin_votes": 4286,
+        "margin_percentage": 6.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Susanta Borgohain",
+          "party": "Indian National Congress",
+          "votes": 28560,
+          "votes_percentage": 40.0
+        },
+        {
+          "position": 2,
+          "name": "Kushal Dowari",
+          "party": "Independent",
+          "votes": 24274,
+          "votes_percentage": 34.0
+        },
+        {
+          "position": 3,
+          "name": "Siba Prasad Bodra",
+          "party": "Bharatiya Janta Party",
+          "votes": 9765,
+          "votes_percentage": 13.7
+        },
+        {
+          "position": 4,
+          "name": "Lila Jyoti Phukan",
+          "party": "Asom Gana Parisad",
+          "votes": 8843,
+          "votes_percentage": 12.4
+        }
+      ]
+    },
+    "2006": {
+      "poll_date": "04 March 2006",
+      "counting_date": "05 November 2006",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 93892,
+        "total_votes_polled": 72367,
+        "turnout_percentage": 77.1,
+        "margin_votes": 6411,
+        "margin_percentage": 8.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kushal Dowari",
+          "party": "Independent",
+          "votes": 22022,
+          "votes_percentage": 30.4
+        },
+        {
+          "position": 2,
+          "name": "Siba Bodra",
+          "party": "Bharatiya Janta Party",
+          "votes": 15611,
+          "votes_percentage": 21.6
+        },
+        {
+          "position": 3,
+          "name": "Devanand Konwar",
+          "party": "Indian National Congress",
+          "votes": 15461,
+          "votes_percentage": 21.4
+        },
+        {
+          "position": 4,
+          "name": "Shiva Singha Konwar",
+          "party": "Asom Gana Parisad",
+          "votes": 12724,
+          "votes_percentage": 17.6
+        },
+        {
+          "position": 5,
+          "name": "Umesh Gogoi",
+          "party": "Independent",
+          "votes": 2761,
+          "votes_percentage": 3.8
+        },
+        {
+          "position": 6,
+          "name": "Keshab Bhuyan",
+          "party": "Nationalist Congress Party",
+          "votes": 1935,
+          "votes_percentage": 2.7
+        },
+        {
+          "position": 7,
+          "name": "Bhadreswar Buragohain",
+          "party": "Asom Gana Parishad Pragtisheel",
+          "votes": 1045,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 8,
+          "name": "Jugal Handique",
+          "party": "Assam United Democratic Front",
+          "votes": 779,
+          "votes_percentage": 1.1
+        }
+      ]
+    },
+    "2001": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 80517,
+        "total_votes_polled": 58840,
+        "turnout_percentage": 73.1,
+        "margin_votes": 12256,
+        "margin_percentage": 20.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Devananda Konwar",
+          "party": "Indian National Congress",
+          "votes": 24976,
+          "votes_percentage": 43.9
+        },
+        {
+          "position": 2,
+          "name": "Kushal Dowari",
+          "party": "Independent",
+          "votes": 12720,
+          "votes_percentage": 22.4
+        },
+        {
+          "position": 3,
+          "name": "Sibasingha Konwar",
+          "party": "Asom Gana Parisad",
+          "votes": 12347,
+          "votes_percentage": 21.7
+        },
+        {
+          "position": 4,
+          "name": "Kesha Saikia",
+          "party": "Communist Party Of India",
+          "votes": 3308,
+          "votes_percentage": 5.8
+        },
+        {
+          "position": 5,
+          "name": "Betharam Deuri",
+          "party": "All India Trinamool Congress",
+          "votes": 1485,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 6,
+          "name": "Keshab Bhuyan",
+          "party": "Nationalist Congress Party",
+          "votes": 858,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 7,
+          "name": "Subhash Chandra Kurmi",
+          "party": "Independent",
+          "votes": 654,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 8,
+          "name": "Suchendra Nath Deori",
+          "party": "Independent",
+          "votes": 422,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 9,
+          "name": "Gopal Kahar",
+          "party": "Independent",
+          "votes": 110,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "1996": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 14,
+      "aggregate": {
+        "total_electors": 73817,
+        "total_votes_polled": 56011,
+        "turnout_percentage": 75.9,
+        "margin_votes": 4135,
+        "margin_percentage": 7.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Debananda Konwar",
+          "party": "Indian National Congress",
+          "votes": 15439,
+          "votes_percentage": 29.4
+        },
+        {
+          "position": 2,
+          "name": "Rajendra Prasad Borah",
+          "party": "Independent",
+          "votes": 11304,
+          "votes_percentage": 21.5
+        },
+        {
+          "position": 3,
+          "name": "Jogen Gogoi",
+          "party": "Communist Party Of India",
+          "votes": 6048,
+          "votes_percentage": 11.5
+        },
+        {
+          "position": 4,
+          "name": "Sundar Gohain",
+          "party": "All India Indira Congress (TIWARI)",
+          "votes": 5983,
+          "votes_percentage": 11.4
+        },
+        {
+          "position": 5,
+          "name": "Siba Singha Konwar",
+          "party": "Asom Gana Parisad",
+          "votes": 5657,
+          "votes_percentage": 10.8
+        },
+        {
+          "position": 6,
+          "name": "Lila Saikia",
+          "party": "Independent",
+          "votes": 3192,
+          "votes_percentage": 6.1
+        },
+        {
+          "position": 7,
+          "name": "Bhupen Borgohain",
+          "party": "Independent",
+          "votes": 1640,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 8,
+          "name": "Kamala Kanta Bagti",
+          "party": "Independent",
+          "votes": 1228,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 9,
+          "name": "Gokul Tanti",
+          "party": "Bharatiya Janta Party",
+          "votes": 945,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 10,
+          "name": "Gunaram Konwar",
+          "party": "Independent",
+          "votes": 312,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 11,
+          "name": "Dilip Gogoi",
+          "party": "Independent",
+          "votes": 231,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 12,
+          "name": "Dharmeswar Borgohain",
+          "party": "Independent",
+          "votes": 185,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 13,
+          "name": "Purnananda Dutta",
+          "party": "Independent",
+          "votes": 176,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 14,
+          "name": "Putul Gogoi",
+          "party": "Independent",
+          "votes": 137,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "1991": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 15,
+      "aggregate": {
+        "total_electors": 71181,
+        "total_votes_polled": 50440,
+        "turnout_percentage": 70.9,
+        "margin_votes": 7347,
+        "margin_percentage": 14.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Devananda Konwar",
+          "party": "Indian National Congress",
+          "votes": 18569,
+          "votes_percentage": 38.6
+        },
+        {
+          "position": 2,
+          "name": "Rajendra Prasad Bora",
+          "party": "Asom Gana Parisad",
+          "votes": 11222,
+          "votes_percentage": 23.3
+        },
+        {
+          "position": 3,
+          "name": "Kesha Saikia",
+          "party": "Communist Party Of India",
+          "votes": 7229,
+          "votes_percentage": 15.0
+        },
+        {
+          "position": 4,
+          "name": "Bimal Phukon",
+          "party": "Natun Asom Gana Parishad",
+          "votes": 3389,
+          "votes_percentage": 7.0
+        },
+        {
+          "position": 5,
+          "name": "Miliram Hazarika",
+          "party": "Independent",
+          "votes": 2465,
+          "votes_percentage": 5.1
+        },
+        {
+          "position": 6,
+          "name": "Betharam Dewri",
+          "party": "Independent",
+          "votes": 921,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 7,
+          "name": "Rudra Mohan Lachan",
+          "party": "Independent",
+          "votes": 918,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 8,
+          "name": "Nirmal Baruah",
+          "party": "Independent",
+          "votes": 830,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 9,
+          "name": "Tarun Ch. Chutia",
+          "party": "Independent",
+          "votes": 800,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 10,
+          "name": "Bijoy Gogoi",
+          "party": "Independent",
+          "votes": 630,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 11,
+          "name": "Purnananda Bora",
+          "party": "Janata Dal",
+          "votes": 386,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 12,
+          "name": "Moneswar Konwer",
+          "party": "Independent",
+          "votes": 291,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 13,
+          "name": "Birinchi Gogoi",
+          "party": "Independent",
+          "votes": 267,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 14,
+          "name": "Ram Chandra Dutta",
+          "party": "Independent",
+          "votes": 135,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 15,
+          "name": "Purnima Buragohain",
+          "party": "Independent",
+          "votes": 118,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "1985": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 61561,
+        "total_votes_polled": 44262,
+        "turnout_percentage": 71.9,
+        "margin_votes": 6508,
+        "margin_percentage": 14.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Barki Prasad Telenga",
+          "party": "Independent",
+          "votes": 22248,
+          "votes_percentage": 52.7
+        },
+        {
+          "position": 2,
+          "name": "Tankeswar Dihingia",
+          "party": "Indian National Congress",
+          "votes": 15740,
+          "votes_percentage": 37.3
+        },
+        {
+          "position": 3,
+          "name": "Jogen Gogoi",
+          "party": "Communist Party Of India",
+          "votes": 2452,
+          "votes_percentage": 5.8
+        },
+        {
+          "position": 4,
+          "name": "Sundar Buragohain",
+          "party": "Independent",
+          "votes": 810,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 5,
+          "name": "Umesh Gogoi",
+          "party": "Independent",
+          "votes": 479,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Nageswar Gogoi",
+          "party": "Independent",
+          "votes": 316,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 7,
+          "name": "Hem Chandra Borgahain",
+          "party": "Janta Party",
+          "votes": 169,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "1983": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 59874,
+        "total_votes_polled": 3192,
+        "turnout_percentage": 5.3,
+        "margin_votes": 1309,
+        "margin_percentage": 41.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tankeswar Dehingia",
+          "party": "Indian National Congress",
+          "votes": 2044,
+          "votes_percentage": 67.4
+        },
+        {
+          "position": 2,
+          "name": "Jogen Gogoi",
+          "party": "Communist Party Of India",
+          "votes": 735,
+          "votes_percentage": 24.3
+        },
+        {
+          "position": 3,
+          "name": "Sundar Gobain",
+          "party": "Independent",
+          "votes": 252,
+          "votes_percentage": 8.3
+        }
+      ]
+    },
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 54637,
+        "total_votes_polled": 34562,
+        "turnout_percentage": 63.3,
+        "margin_votes": 6435,
+        "margin_percentage": 18.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jogen Gogoi",
+          "party": "Communist Party Of India",
+          "votes": 12910,
+          "votes_percentage": 38.5
+        },
+        {
+          "position": 2,
+          "name": "Tankeswar Dehingia",
+          "party": "Indian National Congress (I)",
+          "votes": 6475,
+          "votes_percentage": 19.3
+        },
+        {
+          "position": 3,
+          "name": "Ananta Borgohain",
+          "party": "Indian National Congress",
+          "votes": 4772,
+          "votes_percentage": 14.2
+        },
+        {
+          "position": 4,
+          "name": "Hiren",
+          "party": "Janta Party",
+          "votes": 4039,
+          "votes_percentage": 12.0
+        },
+        {
+          "position": 5,
+          "name": "Susen Deori",
+          "party": "Revolutionary Communist Party Of India",
+          "votes": 2465,
+          "votes_percentage": 7.4
+        },
+        {
+          "position": 6,
+          "name": "Holodhar Mukia",
+          "party": "Independent",
+          "votes": 2262,
+          "votes_percentage": 6.7
+        },
+        {
+          "position": 7,
+          "name": "Budhindra Kumar Raj Khanikor",
+          "party": "Independent",
+          "votes": 622,
+          "votes_percentage": 1.9
+        }
+      ]
+    }
+  }
+}

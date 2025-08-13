@@ -1,0 +1,73 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Devarakonda",
+  "district": "Nalgonda",
+  "ac_type": "ST",
+  "results": {
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 202733,
+        "total_votes_polled": 147283,
+        "turnout_percentage": 72.7,
+        "total_valid_votes": 147251,
+        "total_valid_votes_percentage": 72.6,
+        "margin_votes": 7468,
+        "margin_percentage": 5.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Balu Naik Nenavath",
+          "party": "Indian National Congress",
+          "votes": 64887,
+          "votes_percentage": 44.1
+        },
+        {
+          "position": 2,
+          "name": "Ravindra Kumar Ramavath",
+          "party": "Communist Party Of India",
+          "votes": 57419,
+          "votes_percentage": 39.0
+        },
+        {
+          "position": 3,
+          "name": "Vadtya Ramesh",
+          "party": "Praja Rajyam Party",
+          "votes": 16428,
+          "votes_percentage": 11.2
+        },
+        {
+          "position": 4,
+          "name": "Mangya Pathlavath",
+          "party": "Bharatiya Janta Party",
+          "votes": 3478,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 5,
+          "name": "Ramavath Bhojya Naik",
+          "party": "Independent",
+          "votes": 2584,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 6,
+          "name": "Ramavath Lalu Naik",
+          "party": "Bahujan Samaj Party",
+          "votes": 1346,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 7,
+          "name": "Jarupula Lokya Naik",
+          "party": "Independent",
+          "votes": 1109,
+          "votes_percentage": 0.8
+        }
+      ]
+    }
+  }
+}

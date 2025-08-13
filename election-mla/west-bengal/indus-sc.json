@@ -1,0 +1,57 @@
+{
+  "state": "West Bengal",
+  "constituency": "INDUS (SC)",
+  "district": "Bankura",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 218108,
+        "total_votes_polled": 193535,
+        "turnout_percentage": 90.4,
+        "margin_votes": 18837,
+        "margin_percentage": 9.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gurupada Mete",
+          "party": "All India Trinamool Congress",
+          "votes": 94940,
+          "votes_percentage": 49.1
+        },
+        {
+          "position": 2,
+          "name": "Dilip Kumar Malik",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 76103,
+          "votes_percentage": 39.3
+        },
+        {
+          "position": 3,
+          "name": "Nirmal Kumar Dhara",
+          "party": "Bharatiya Janta Party",
+          "votes": 16246,
+          "votes_percentage": 8.4
+        },
+        {
+          "position": 4,
+          "name": "Basudeb Diger",
+          "party": "Independent",
+          "votes": 3837,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 5,
+          "name": "Bhairab Lohar",
+          "party": "Bahujan Samaj Party",
+          "votes": 2409,
+          "votes_percentage": 1.2
+        }
+      ]
+    }
+  }
+}

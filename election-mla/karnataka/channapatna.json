@@ -1,0 +1,834 @@
+{
+  "state": "Karnataka",
+  "constituency": "Channapatna",
+  "district": "Bangalore Rural",
+  "ac_type": "GEN",
+  "results": {
+    "2023": {
+      "poll_date": "10 May 2023",
+      "counting_date": "10 May 2023",
+      "total_contestants": 15,
+      "aggregate": {
+        "total_electors": 230371,
+        "total_votes_polled": 196686,
+        "turnout_percentage": 85.9,
+        "margin_votes": 15915,
+        "margin_percentage": 8.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "H.D. Kumaraswamy",
+          "party": "Janata Dal (Secular)",
+          "votes": 96592,
+          "votes_percentage": 48.8
+        },
+        {
+          "position": 2,
+          "name": "C.P. Yogeshwara",
+          "party": "Bharatiya Janta Party",
+          "votes": 80677,
+          "votes_percentage": 40.8
+        },
+        {
+          "position": 3,
+          "name": "Gangadhar.S",
+          "party": "Indian National Congress",
+          "votes": 15374,
+          "votes_percentage": 7.8
+        },
+        {
+          "position": 4,
+          "name": "G.Chandrashekaraiah",
+          "party": "Bahujan Samaj Party",
+          "votes": 942,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "C.P.Sharath Chandra",
+          "party": "Aam Aadmi Party",
+          "votes": 824,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Prajaakeeya Abhishek.S",
+          "party": "Uttama Prajaakeeya Party",
+          "votes": 678,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "Krishna.A",
+          "party": "Independent",
+          "votes": 499,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Andanaiah",
+          "party": "Independent",
+          "votes": 237,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Kumara Swamy A. C",
+          "party": "Independent",
+          "votes": 232,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Shivaramashetty. D",
+          "party": "Independent",
+          "votes": 204,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Pradeep. T. V",
+          "party": "Independent",
+          "votes": 128,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Shyamala",
+          "party": "Karnataka Rashtra Samithi",
+          "votes": 114,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Syed Javeed",
+          "party": "Indian Movement Party",
+          "votes": 78,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 14,
+          "name": "C.M.Shabaz Khan",
+          "party": "Young Star Empowerment Party",
+          "votes": 60,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 15,
+          "name": "Girish.L",
+          "party": "Samajwadi Party",
+          "votes": 47,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "2018": {
+      "poll_date": "12 May 2018",
+      "counting_date": "11 June 2018",
+      "total_contestants": 15,
+      "aggregate": {
+        "total_electors": 216415,
+        "total_votes_polled": 187910,
+        "turnout_percentage": 87.3,
+        "margin_votes": 21530,
+        "margin_percentage": 11.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "H D Kumara Swamy",
+          "party": "Janata Dal (Secular)",
+          "votes": 87995,
+          "votes_percentage": 46.8
+        },
+        {
+          "position": 2,
+          "name": "C P Yogeeshwara",
+          "party": "Bharatiya Janta Party",
+          "votes": 66465,
+          "votes_percentage": 35.4
+        },
+        {
+          "position": 3,
+          "name": "H M Revanna",
+          "party": "Indian National Congress",
+          "votes": 30208,
+          "votes_percentage": 16.1
+        },
+        {
+          "position": 4,
+          "name": "Ratnamma",
+          "party": "Independent",
+          "votes": 927,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "Yogisha M",
+          "party": "Independent",
+          "votes": 488,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 6,
+          "name": "Ashwath P",
+          "party": "Ambedkar Samaj Party",
+          "votes": 473,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "T M Manchegowda",
+          "party": "Independent",
+          "votes": 417,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "J T Prakash",
+          "party": "Indian New Congress Party",
+          "votes": 381,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "B M Lokesh",
+          "party": "All India Mahila Empowerment Party",
+          "votes": 121,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Navyashree R",
+          "party": "Independent",
+          "votes": 109,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Jai Kissan S R",
+          "party": "Independent",
+          "votes": 80,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 12,
+          "name": "K N Siddaraju",
+          "party": "Dr. Ambedkar People's Party",
+          "votes": 79,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 13,
+          "name": "Shilpa K P",
+          "party": "Samanya Janatha Party (Loktantrik)",
+          "votes": 71,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 14,
+          "name": "A Krishna",
+          "party": "Independent",
+          "votes": 50,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 15,
+          "name": "K V Manu",
+          "party": "Rashtriya Manav Vikas Party",
+          "votes": 46,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "05 May 2013",
+      "counting_date": "08 May 2013",
+      "total_contestants": 15,
+      "aggregate": {
+        "total_electors": 198752,
+        "total_votes_polled": 168511,
+        "turnout_percentage": 84.8,
+        "margin_votes": 6464,
+        "margin_percentage": 3.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "C P Yogeshwara",
+          "party": "Samajwadi Party",
+          "votes": 80099,
+          "votes_percentage": 47.5
+        },
+        {
+          "position": 2,
+          "name": "Anitha Kumaraswamy",
+          "party": "Janata Dal (Secular)",
+          "votes": 73635,
+          "votes_percentage": 43.7
+        },
+        {
+          "position": 3,
+          "name": "Sadath Alli Khan",
+          "party": "Indian National Congress",
+          "votes": 8134,
+          "votes_percentage": 4.8
+        },
+        {
+          "position": 4,
+          "name": "Ravikumar Gowda",
+          "party": "Bharatiya Janta Party",
+          "votes": 1609,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Syed Zulfikar Mehdi",
+          "party": "Independent",
+          "votes": 989,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "M C V Murthy",
+          "party": "Janata Dal (United)",
+          "votes": 866,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "V.S.Sujeevan Kumar",
+          "party": "Bahujan Samaj Party",
+          "votes": 726,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Shivarudraiah",
+          "party": "Bharatiya Dr. B.R.Ambedkar Janta Party",
+          "votes": 624,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Suvarna",
+          "party": "Independent",
+          "votes": 379,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "B Nagaraj",
+          "party": "Karnataka Jantha Paksha",
+          "votes": 373,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "M.Yogesh",
+          "party": "Independent",
+          "votes": 290,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Muzamil Pasha",
+          "party": "Ambedkar National Congress",
+          "votes": 284,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 13,
+          "name": "Jai Kisan S. R",
+          "party": "Independent",
+          "votes": 186,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "J.T.Prakash",
+          "party": "Independent",
+          "votes": 165,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Ashraf",
+          "party": "Hindustan Janata Party",
+          "votes": 152,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2008": {
+      "poll_date": "16 May 2008",
+      "counting_date": "25 May 2008",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 183793,
+        "total_votes_polled": 143560,
+        "turnout_percentage": 78.1,
+        "margin_votes": 4930,
+        "margin_percentage": 3.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "C.P.Yogeshwara",
+          "party": "Indian National Congress",
+          "votes": 69356,
+          "votes_percentage": 48.3
+        },
+        {
+          "position": 2,
+          "name": "M C Ashwath",
+          "party": "Janata Dal (Secular)",
+          "votes": 64426,
+          "votes_percentage": 44.9
+        },
+        {
+          "position": 3,
+          "name": "N.Ramesh",
+          "party": "Bharatiya Janta Party",
+          "votes": 3434,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 4,
+          "name": "M.S.Mukarram",
+          "party": "Bahujan Samaj Party",
+          "votes": 2905,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 5,
+          "name": "Syed Zulfikar Mehadi",
+          "party": "Independent",
+          "votes": 1835,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 6,
+          "name": "J.T.Prakash",
+          "party": "Independent",
+          "votes": 463,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "T.M.Manchegowda",
+          "party": "Independent",
+          "votes": 421,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Beeraiah",
+          "party": "Janata Dal (United)",
+          "votes": 256,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "M.Siddaramaiah",
+          "party": "All India Forward Bloc",
+          "votes": 241,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Syed Mohammed Ansar",
+          "party": "Samajwadi Party",
+          "votes": 223,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2004": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 168502,
+        "total_votes_polled": 120103,
+        "turnout_percentage": 71.3,
+        "margin_votes": 16169,
+        "margin_percentage": 13.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Yogeswara C P",
+          "party": "Indian National Congress",
+          "votes": 64162,
+          "votes_percentage": 53.3
+        },
+        {
+          "position": 2,
+          "name": "Aswath M C",
+          "party": "Janata Dal (Secular)",
+          "votes": 47993,
+          "votes_percentage": 39.8
+        },
+        {
+          "position": 3,
+          "name": "Vijaykumar B",
+          "party": "Bharatiya Janta Party",
+          "votes": 5698,
+          "votes_percentage": 4.7
+        },
+        {
+          "position": 4,
+          "name": "Appaji Gowda H R",
+          "party": "Independent",
+          "votes": 1691,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 5,
+          "name": "Puttaswamy L",
+          "party": "Urs Samyuktha Paksha",
+          "votes": 933,
+          "votes_percentage": 0.8
+        }
+      ]
+    },
+    "1999": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 159659,
+        "total_votes_polled": 116429,
+        "turnout_percentage": 72.9,
+        "margin_votes": 18828,
+        "margin_percentage": 16.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Cp Yogeshwar",
+          "party": "Independent",
+          "votes": 50716,
+          "votes_percentage": 46.0
+        },
+        {
+          "position": 2,
+          "name": "Sadath Ali Khan",
+          "party": "Indian National Congress",
+          "votes": 31888,
+          "votes_percentage": 28.9
+        },
+        {
+          "position": 3,
+          "name": "M Vardegowda",
+          "party": "Janata Dal (Secular)",
+          "votes": 16269,
+          "votes_percentage": 14.8
+        },
+        {
+          "position": 4,
+          "name": "Tp Putta Siddegowda",
+          "party": "Bharatiya Janta Party",
+          "votes": 11350,
+          "votes_percentage": 10.3
+        }
+      ]
+    },
+    "1994": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 143735,
+        "total_votes_polled": 117175,
+        "turnout_percentage": 81.5,
+        "margin_votes": 28233,
+        "margin_percentage": 24.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "M.Varade Gowda",
+          "party": "Janata Dal",
+          "votes": 67661,
+          "votes_percentage": 58.5
+        },
+        {
+          "position": 2,
+          "name": "Sadath Ali Khan",
+          "party": "Indian National Congress",
+          "votes": 39428,
+          "votes_percentage": 34.1
+        },
+        {
+          "position": 3,
+          "name": "D.T. Ramu",
+          "party": "Karnataka Congress Party",
+          "votes": 3319,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 4,
+          "name": "H.M. Venkatappa",
+          "party": "Bharatiya Janta Party",
+          "votes": 3157,
+          "votes_percentage": 2.7
+        },
+        {
+          "position": 5,
+          "name": "B.V.Venkatesh",
+          "party": "Jharkhand Party",
+          "votes": 768,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "M. Ramu",
+          "party": "Kranti Sabha",
+          "votes": 577,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "G. Channabasappa",
+          "party": "Independent",
+          "votes": 307,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "S.V. Narayanachary",
+          "party": "Independent",
+          "votes": 155,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "R.M. Siddiah",
+          "party": "Independent",
+          "votes": 143,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "K. Ramdas",
+          "party": "Independent",
+          "votes": 69,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1989": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 131553,
+        "total_votes_polled": 104455,
+        "turnout_percentage": 79.4,
+        "margin_votes": 8098,
+        "margin_percentage": 7.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sadat Ali Khan",
+          "party": "Indian National Congress",
+          "votes": 51010,
+          "votes_percentage": 50.5
+        },
+        {
+          "position": 2,
+          "name": "M. Varada Gowda (Raju)",
+          "party": "Janata Party (JP)",
+          "votes": 42912,
+          "votes_percentage": 42.5
+        },
+        {
+          "position": 3,
+          "name": "Su. Tha. Rame Gowda",
+          "party": "Karnataka Rajya Ryota Sangha",
+          "votes": 2366,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 4,
+          "name": "R. J. Krishna",
+          "party": "Janata Dal",
+          "votes": 2008,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 5,
+          "name": "Puttamadu",
+          "party": "Bharatiya Janta Party",
+          "votes": 1846,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 6,
+          "name": "Channe Gowda",
+          "party": "Independent",
+          "votes": 500,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Prema",
+          "party": "Independent",
+          "votes": 425,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "1985": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 112183,
+        "total_votes_polled": 86911,
+        "turnout_percentage": 77.5,
+        "margin_votes": 9799,
+        "margin_percentage": 11.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "M. Varade Gowda (Raju)",
+          "party": "Janta Party",
+          "votes": 47503,
+          "votes_percentage": 55.3
+        },
+        {
+          "position": 2,
+          "name": "D. T. Ramu",
+          "party": "Indian National Congress",
+          "votes": 37704,
+          "votes_percentage": 43.9
+        },
+        {
+          "position": 3,
+          "name": "Siddaramu",
+          "party": "Bharatiya Janta Party",
+          "votes": 684,
+          "votes_percentage": 0.8
+        }
+      ]
+    },
+    "1983": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 96068,
+        "total_votes_polled": 71801,
+        "turnout_percentage": 74.7,
+        "margin_votes": 5816,
+        "margin_percentage": 8.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "M. Varade Gowda (Raju)",
+          "party": "Janta Party",
+          "votes": 36910,
+          "votes_percentage": 52.2
+        },
+        {
+          "position": 2,
+          "name": "T. V. Krishnappa",
+          "party": "Indian National Congress",
+          "votes": 31094,
+          "votes_percentage": 44.0
+        },
+        {
+          "position": 3,
+          "name": "J. Bhoja Raj",
+          "party": "Indian Congress (SOCIALIST)",
+          "votes": 1201,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 4,
+          "name": "B. C. Channegowda",
+          "party": "Independent",
+          "votes": 503,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 4,
+          "name": "Abdul Jaleel",
+          "party": "Independent",
+          "votes": 503,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Javaraiah",
+          "party": "Independent",
+          "votes": 460,
+          "votes_percentage": 0.7
+        }
+      ]
+    },
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 89067,
+        "total_votes_polled": 71522,
+        "turnout_percentage": 80.3,
+        "margin_votes": 13411,
+        "margin_percentage": 18.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "D.T.Ramu",
+          "party": "Indian National Congress (I)",
+          "votes": 32601,
+          "votes_percentage": 46.3
+        },
+        {
+          "position": 2,
+          "name": "B.J. Linge Gowda",
+          "party": "Independent",
+          "votes": 19190,
+          "votes_percentage": 27.3
+        },
+        {
+          "position": 3,
+          "name": "T.V. Ramanna",
+          "party": "Janta Party",
+          "votes": 16263,
+          "votes_percentage": 23.1
+        },
+        {
+          "position": 4,
+          "name": "R.Lingaiah",
+          "party": "Indian National Congress",
+          "votes": 1578,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 5,
+          "name": "B.K. Pattaramiya",
+          "party": "Independent",
+          "votes": 552,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "K.M. Aziz",
+          "party": "Independent",
+          "votes": 224,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

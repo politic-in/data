@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 100683,
+        "male": 110397,
+        "percentage_of_total_population": 11.64,
+        "percentage_of_total_population_calculated": 11.64,
+        "percentage_of_total_population_stated": 11.64,
+        "sex_ratio": 912,
+        "total": 211080
+    },
+    "literacy": {
+        "female_literacy_rate": 83.54,
+        "female_literate": 652304,
+        "male_literacy_rate": 92.34,
+        "male_literate": 758977,
+        "rate_percentage": 88.05,
+        "total_literate": 1411281
+    },
+    "population": {
+        "female": 881572,
+        "male": 932334,
+        "sex_ratio": 946,
+        "total": 1813906
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 18.08,
+            "population": 328033
+        },
+        "Christian": {
+            "percentage": 0.25,
+            "population": 4483
+        },
+        "Hindu": {
+            "percentage": 61.07,
+            "population": 1107809
+        },
+        "Jain": {
+            "percentage": 0.56,
+            "population": 10205
+        },
+        "Muslims": {
+            "percentage": 19.7,
+            "population": 357253
+        },
+        "Not Stated": {
+            "percentage": 0.23,
+            "population": 4230
+        },
+        "Others": {
+            "percentage": 0.02,
+            "population": 389
+        },
+        "Sikh": {
+            "percentage": 0.08,
+            "population": 1504
+        }
+    },
+    "rural": {
+        "child_population_female": 61840,
+        "child_population_male": 67347,
+        "child_population_percentage": 11.81,
+        "child_population_percentage_calculated": 11.81,
+        "child_population_percentage_stated": 11.81,
+        "child_population_total": 129187,
+        "child_sex_ratio": 918,
+        "female": 530232,
+        "literacy_rate_female": 80.32,
+        "literacy_rate_male": 91.25,
+        "literacy_rate_percentage": 85.95,
+        "literate_female": 376211,
+        "literate_male": 453144,
+        "literate_total": 829355,
+        "male": 563933,
+        "percentage_population": 60.32,
+        "population": 1094165,
+        "sex_ratio": 940
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/339-akola.html",
+    "urban": {
+        "child_population_female": 38868,
+        "child_population_male": 43025,
+        "child_population_percentage": 11.38,
+        "child_population_percentage_calculated": 11.38,
+        "child_population_percentage_stated": 11.38,
+        "child_population_total": 81893,
+        "child_sex_ratio": 903,
+        "female": 351340,
+        "literacy_rate_female": 88.36,
+        "literacy_rate_male": 93.99,
+        "literacy_rate_percentage": 91.23,
+        "literate_female": 276093,
+        "literate_male": 305833,
+        "literate_total": 581926,
+        "male": 368401,
+        "percentage_population": 39.68,
+        "population": 719741,
+        "sex_ratio": 954
+    }
+}

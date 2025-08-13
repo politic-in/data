@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 38416,
+        "male": 41666,
+        "percentage_of_total_population": 12.86,
+        "percentage_of_total_population_calculated": 12.86,
+        "percentage_of_total_population_stated": 12.86,
+        "sex_ratio": 922,
+        "total": 80082
+    },
+    "literacy": {
+        "female_literacy_rate": 69.93,
+        "female_literate": 204893,
+        "male_literacy_rate": 92.86,
+        "male_literate": 231604,
+        "rate_percentage": 80.47,
+        "total_literate": 436497
+    },
+    "population": {
+        "female": 331425,
+        "male": 291081,
+        "sex_ratio": 1139,
+        "total": 622506
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.03,
+            "population": 201
+        },
+        "Christian": {
+            "percentage": 0.3,
+            "population": 1895
+        },
+        "Hindu": {
+            "percentage": 98.19,
+            "population": 611250
+        },
+        "Jain": {
+            "percentage": 0.0,
+            "population": 31
+        },
+        "Muslims": {
+            "percentage": 1.25,
+            "population": 7752
+        },
+        "Not Stated": {
+            "percentage": 0.18,
+            "population": 1115
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 6
+        },
+        "Sikh": {
+            "percentage": 0.04,
+            "population": 256
+        }
+    },
+    "rural": {
+        "child_population_female": 35770,
+        "child_population_male": 38605,
+        "child_population_percentage": 13.28,
+        "child_population_percentage_calculated": 13.28,
+        "child_population_percentage_stated": 13.28,
+        "child_population_total": 74375,
+        "child_sex_ratio": 927,
+        "female": 302833,
+        "literacy_rate_female": 67.88,
+        "literacy_rate_male": 92.26,
+        "literacy_rate_percentage": 78.85,
+        "literate_female": 181270,
+        "literate_male": 201819,
+        "literate_total": 383089,
+        "male": 257359,
+        "percentage_population": 89.99,
+        "population": 560192,
+        "sex_ratio": 1177
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/582-almora.html",
+    "urban": {
+        "child_population_female": 2640,
+        "child_population_male": 3067,
+        "child_population_percentage": 9.16,
+        "child_population_percentage_calculated": 9.16,
+        "child_population_percentage_stated": 9.16,
+        "child_population_total": 5707,
+        "child_sex_ratio": 861,
+        "female": 28592,
+        "literacy_rate_female": 91.03,
+        "literacy_rate_male": 97.16,
+        "literacy_rate_percentage": 94.35,
+        "literate_female": 23623,
+        "literate_male": 29785,
+        "literate_total": 53408,
+        "male": 33722,
+        "percentage_population": 10.01,
+        "population": 62314,
+        "sex_ratio": 848
+    }
+}

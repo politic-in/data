@@ -1,0 +1,36 @@
+{
+  "state": "Nagaland",
+  "constituency": "SEYOCHUNGSITIMI",
+  "district": "Kiphire",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 21678,
+        "total_votes_polled": 18498,
+        "turnout_percentage": 85.6,
+        "margin_votes": 1162,
+        "margin_percentage": 6.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "V. Kashiho Sangtam",
+          "party": "Bharatiya Janta Party",
+          "votes": 9830,
+          "votes_percentage": 53.1
+        },
+        {
+          "position": 2,
+          "name": "C Kipili Sangtam",
+          "party": "Naga Peoples Front",
+          "votes": 8668,
+          "votes_percentage": 46.9
+        }
+      ]
+    }
+  }
+}

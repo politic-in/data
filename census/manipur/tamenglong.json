@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 9236,
+        "male": 10071,
+        "percentage_of_total_population": 13.73,
+        "percentage_of_total_population_calculated": 13.73,
+        "percentage_of_total_population_stated": 13.73,
+        "sex_ratio": 917,
+        "total": 19307
+    },
+    "literacy": {
+        "female_literacy_rate": 63.69,
+        "female_literate": 37603,
+        "male_literacy_rate": 76.09,
+        "male_literate": 47403,
+        "rate_percentage": 70.05,
+        "total_literate": 85006
+    },
+    "population": {
+        "female": 68280,
+        "male": 72371,
+        "sex_ratio": 943,
+        "total": 140651
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.3,
+            "population": 425
+        },
+        "Christian": {
+            "percentage": 95.81,
+            "population": 134760
+        },
+        "Hindu": {
+            "percentage": 2.13,
+            "population": 2995
+        },
+        "Jain": {
+            "percentage": 0.04,
+            "population": 57
+        },
+        "Muslims": {
+            "percentage": 0.42,
+            "population": 589
+        },
+        "Not Stated": {
+            "percentage": 0.44,
+            "population": 622
+        },
+        "Others": {
+            "percentage": 0.81,
+            "population": 1144
+        },
+        "Sikh": {
+            "percentage": 0.04,
+            "population": 59
+        }
+    },
+    "rural": {
+        "child_population_female": 7923,
+        "child_population_male": 8701,
+        "child_population_percentage": 13.71,
+        "child_population_percentage_calculated": 13.71,
+        "child_population_percentage_stated": 13.71,
+        "child_population_total": 16624,
+        "child_sex_ratio": 911,
+        "female": 58754,
+        "literacy_rate_female": 60.54,
+        "literacy_rate_male": 73.8,
+        "literacy_rate_percentage": 67.36,
+        "literate_female": 30773,
+        "literate_male": 39729,
+        "literate_total": 70502,
+        "male": 62534,
+        "percentage_population": 86.23,
+        "population": 121288,
+        "sex_ratio": 940
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/371-tamenglong.html",
+    "urban": {
+        "child_population_female": 1312,
+        "child_population_male": 1371,
+        "child_population_percentage": 13.86,
+        "child_population_percentage_calculated": 13.86,
+        "child_population_percentage_stated": 13.86,
+        "child_population_total": 2683,
+        "child_sex_ratio": 957,
+        "female": 9526,
+        "literacy_rate_female": 83.15,
+        "literacy_rate_male": 90.64,
+        "literacy_rate_percentage": 86.95,
+        "literate_female": 6830,
+        "literate_male": 7674,
+        "literate_total": 14504,
+        "male": 9837,
+        "percentage_population": 13.77,
+        "population": 19363,
+        "sex_ratio": 968
+    }
+}

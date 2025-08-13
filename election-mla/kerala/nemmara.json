@@ -1,0 +1,57 @@
+{
+  "state": "Kerala",
+  "constituency": "Nemmara",
+  "district": "Palakkad",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "06 April 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 184892,
+        "total_votes_polled": 150465,
+        "turnout_percentage": 82.0,
+        "margin_votes": 28704,
+        "margin_percentage": 19.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "K. Babu",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 80145,
+          "votes_percentage": 53.3
+        },
+        {
+          "position": 2,
+          "name": "C.N.Vijayakrishnan",
+          "party": "Communist Marxist Party Kerala State Committee",
+          "votes": 51441,
+          "votes_percentage": 34.2
+        },
+        {
+          "position": 3,
+          "name": "Anurag .A.N",
+          "party": "Bharath Dharma Jana Sena",
+          "votes": 16666,
+          "votes_percentage": 11.1
+        },
+        {
+          "position": 4,
+          "name": "Prakash.C",
+          "party": "Bahujan Samaj Party",
+          "votes": 1350,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Babu S/o Kunchu",
+          "party": "Independent",
+          "votes": 863,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

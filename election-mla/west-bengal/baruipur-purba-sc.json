@@ -1,0 +1,71 @@
+{
+  "state": "West Bengal",
+  "constituency": "BARUIPUR PURBA (SC)",
+  "district": "South  Twenty Four Parganas",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 220681,
+        "total_votes_polled": 189940,
+        "turnout_percentage": 87.0,
+        "margin_votes": 20362,
+        "margin_percentage": 10.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nirmal Chandra Mondal",
+          "party": "All India Trinamool Congress",
+          "votes": 92313,
+          "votes_percentage": 48.6
+        },
+        {
+          "position": 2,
+          "name": "Sujoy Mistry",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 71951,
+          "votes_percentage": 37.9
+        },
+        {
+          "position": 3,
+          "name": "Amulya Kumar Naskar",
+          "party": "Bharatiya Janta Party",
+          "votes": 12738,
+          "votes_percentage": 6.7
+        },
+        {
+          "position": 4,
+          "name": "Ajay Saha",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 9230,
+          "votes_percentage": 4.9
+        },
+        {
+          "position": 5,
+          "name": "Bimal Krishna Mondal",
+          "party": "Bahujan Samaj Party",
+          "votes": 1653,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Chinmoy Naskar",
+          "party": "Independent",
+          "votes": 1364,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Alok Sardar",
+          "party": "Independent",
+          "votes": 691,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "state": "Madhya Pradesh [2000 Onwards]",
+  "constituency": "Kurvaai",
+  "district": "Vidisha",
+  "ac_type": "SC",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 201942,
+        "total_votes_polled": 152854,
+        "turnout_percentage": 76.3,
+        "margin_votes": 16695,
+        "margin_percentage": 10.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Hari Singh Sapre",
+          "party": "Bharatiya Janta Party",
+          "votes": 80264,
+          "votes_percentage": 52.5
+        },
+        {
+          "position": 2,
+          "name": "Subhash Bohat Advocate",
+          "party": "Indian National Congress",
+          "votes": 63569,
+          "votes_percentage": 41.6
+        },
+        {
+          "position": 3,
+          "name": "Ad. Emrat Lal Ahirwar",
+          "party": "Bahujan Samaj Party",
+          "votes": 5212,
+          "votes_percentage": 3.4
+        },
+        {
+          "position": 4,
+          "name": "Khilan Singh Jatav",
+          "party": "Sapaks Party",
+          "votes": 1309,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Ramcharan Ahirwar",
+          "party": "Aam Aadmi Party",
+          "votes": 1044,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Umakar",
+          "party": "Independent",
+          "votes": 666,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Babu Lal Panthi",
+          "party": "Vishva Shakti Party",
+          "votes": 395,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Mansingh Ahirwar",
+          "party": "Bahujan Sangharshh Dal",
+          "votes": 395,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

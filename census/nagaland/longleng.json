@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 4277,
+        "male": 4833,
+        "percentage_of_total_population": 18.05,
+        "percentage_of_total_population_calculated": 18.05,
+        "percentage_of_total_population_stated": 18.05,
+        "sex_ratio": 885,
+        "total": 9110
+    },
+    "literacy": {
+        "female_literacy_rate": 69.63,
+        "female_literate": 13720,
+        "male_literacy_rate": 74.48,
+        "male_literate": 16139,
+        "rate_percentage": 72.17,
+        "total_literate": 29859
+    },
+    "population": {
+        "female": 23982,
+        "male": 26502,
+        "sex_ratio": 905,
+        "total": 50484
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.15,
+            "population": 77
+        },
+        "Christian": {
+            "percentage": 96.76,
+            "population": 48849
+        },
+        "Hindu": {
+            "percentage": 1.73,
+            "population": 873
+        },
+        "Jain": {
+            "percentage": 0.0,
+            "population": 0
+        },
+        "Muslims": {
+            "percentage": 1.26,
+            "population": 635
+        },
+        "Not Stated": {
+            "percentage": 0.09,
+            "population": 45
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 0
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 5
+        }
+    },
+    "rural": {
+        "child_population_female": 3666,
+        "child_population_male": 4218,
+        "child_population_percentage": 18.39,
+        "child_population_percentage_calculated": 18.39,
+        "child_population_percentage_stated": 18.39,
+        "child_population_total": 7884,
+        "child_sex_ratio": 869,
+        "female": 20360,
+        "literacy_rate_female": 65.9,
+        "literacy_rate_male": 71.15,
+        "literacy_rate_percentage": 68.65,
+        "literate_female": 11002,
+        "literate_male": 13016,
+        "literate_total": 24018,
+        "male": 22511,
+        "percentage_population": 84.92,
+        "population": 42871,
+        "sex_ratio": 904
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/615-longleng.html",
+    "urban": {
+        "child_population_female": 612,
+        "child_population_male": 614,
+        "child_population_percentage": 16.1,
+        "child_population_percentage_calculated": 16.1,
+        "child_population_percentage_stated": 16.1,
+        "child_population_total": 1226,
+        "child_sex_ratio": 997,
+        "female": 3622,
+        "literacy_rate_female": 90.3,
+        "literacy_rate_male": 92.48,
+        "literacy_rate_percentage": 91.45,
+        "literate_female": 2718,
+        "literate_male": 3123,
+        "literate_total": 5841,
+        "male": 3991,
+        "percentage_population": 15.08,
+        "population": 7613,
+        "sex_ratio": 908
+    }
+}

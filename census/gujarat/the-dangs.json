@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 19998,
+        "male": 20745,
+        "percentage_of_total_population": 17.85,
+        "percentage_of_total_population_calculated": 17.85,
+        "percentage_of_total_population_stated": 17.85,
+        "sex_ratio": 964,
+        "total": 40743
+    },
+    "literacy": {
+        "female_literacy_rate": 67.38,
+        "female_literate": 63654,
+        "male_literacy_rate": 83.06,
+        "male_literate": 77314,
+        "rate_percentage": 75.16,
+        "total_literate": 140968
+    },
+    "population": {
+        "female": 114470,
+        "male": 113821,
+        "sex_ratio": 1006,
+        "total": 228291
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 32
+        },
+        "Christian": {
+            "percentage": 8.77,
+            "population": 20029
+        },
+        "Hindu": {
+            "percentage": 89.16,
+            "population": 203545
+        },
+        "Jain": {
+            "percentage": 0.02,
+            "population": 39
+        },
+        "Muslims": {
+            "percentage": 1.57,
+            "population": 3593
+        },
+        "Not Stated": {
+            "percentage": 0.19,
+            "population": 424
+        },
+        "Others": {
+            "percentage": 0.25,
+            "population": 560
+        },
+        "Sikh": {
+            "percentage": 0.03,
+            "population": 69
+        }
+    },
+    "rural": {
+        "child_population_female": 18672,
+        "child_population_male": 19316,
+        "child_population_percentage": 18.66,
+        "child_population_percentage_calculated": 18.66,
+        "child_population_percentage_stated": 18.66,
+        "child_population_total": 37988,
+        "child_sex_ratio": 967,
+        "female": 101894,
+        "literacy_rate_female": 65.12,
+        "literacy_rate_male": 81.8,
+        "literacy_rate_percentage": 73.42,
+        "literate_female": 54197,
+        "literate_male": 67400,
+        "literate_total": 121597,
+        "male": 101710,
+        "percentage_population": 89.19,
+        "population": 203604,
+        "sex_ratio": 1002
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/203-the-dangs.html",
+    "urban": {
+        "child_population_female": 1328,
+        "child_population_male": 1427,
+        "child_population_percentage": 11.16,
+        "child_population_percentage_calculated": 11.16,
+        "child_population_percentage_stated": 11.16,
+        "child_population_total": 2755,
+        "child_sex_ratio": 931,
+        "female": 12576,
+        "literacy_rate_female": 84.08,
+        "literacy_rate_male": 92.79,
+        "literacy_rate_percentage": 88.32,
+        "literate_female": 9457,
+        "literate_male": 9914,
+        "literate_total": 19371,
+        "male": 12111,
+        "percentage_population": 10.81,
+        "population": 24687,
+        "sex_ratio": 1038
+    }
+}

@@ -1,0 +1,64 @@
+{
+  "state": "Meghalaya",
+  "constituency": "RAMBRAIJYRNGAM",
+  "district": "West Khasi Hills",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 32263,
+        "total_votes_polled": 27476,
+        "turnout_percentage": 86.1,
+        "margin_votes": 3803,
+        "margin_percentage": 13.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kimfa Sidney Marbaniang",
+          "party": "Indian National Congress",
+          "votes": 12135,
+          "votes_percentage": 44.2
+        },
+        {
+          "position": 2,
+          "name": "K Phlastingwell Pangniang",
+          "party": "Hill State People's Democratic Party",
+          "votes": 8332,
+          "votes_percentage": 30.3
+        },
+        {
+          "position": 3,
+          "name": "Alfred Kharbani",
+          "party": "National People's Party",
+          "votes": 3455,
+          "votes_percentage": 12.6
+        },
+        {
+          "position": 4,
+          "name": "Synranlang Nongshlong",
+          "party": "Peoples Democratic Front",
+          "votes": 2564,
+          "votes_percentage": 9.3
+        },
+        {
+          "position": 5,
+          "name": "Sillash M Sangma",
+          "party": "Independent",
+          "votes": 600,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 6,
+          "name": "Sumis N Marak",
+          "party": "Bharatiya Janta Party",
+          "votes": 390,
+          "votes_percentage": 1.4
+        }
+      ]
+    }
+  }
+}

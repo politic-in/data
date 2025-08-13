@@ -1,0 +1,57 @@
+{
+  "state": "Madhya Pradesh [2000 Onwards]",
+  "constituency": "Manavar",
+  "district": "Dhar",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 211815,
+        "total_votes_polled": 171428,
+        "turnout_percentage": 82.0,
+        "margin_votes": 39501,
+        "margin_percentage": 23.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr. Hiralal Alawa",
+          "party": "Indian National Congress",
+          "votes": 101500,
+          "votes_percentage": 59.2
+        },
+        {
+          "position": 2,
+          "name": "Ranjna Baghel",
+          "party": "Bharatiya Janta Party",
+          "votes": 61999,
+          "votes_percentage": 36.2
+        },
+        {
+          "position": 3,
+          "name": "Jagadish Muwel",
+          "party": "Shiv Sena",
+          "votes": 4619,
+          "votes_percentage": 2.7
+        },
+        {
+          "position": 4,
+          "name": "Amichand Muwel",
+          "party": "Bahujan Samaj Party",
+          "votes": 1916,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Ramkunwar Rawat",
+          "party": "Aam Aadmi Party",
+          "votes": 1394,
+          "votes_percentage": 0.8
+        }
+      ]
+    }
+  }
+}

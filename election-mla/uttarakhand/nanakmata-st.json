@@ -1,0 +1,63 @@
+{
+  "state": "Uttarakhand",
+  "constituency": "NANAKMATA (ST)",
+  "district": "Udham Singh Nagar",
+  "ac_type": "ST",
+  "results": {
+    "2022": {
+      "poll_date": "14 February 2022",
+      "counting_date": "10 March 2022",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_votes_polled": 91113,
+        "turnout_percentage": 0.0,
+        "margin_votes": 13020,
+        "margin_percentage": 14.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gopal Singh Rana",
+          "party": "Indian National Congress",
+          "votes": 48746,
+          "votes_percentage": 53.5
+        },
+        {
+          "position": 2,
+          "name": "Prem Singh Rana",
+          "party": "Bharatiya Janta Party",
+          "votes": 35726,
+          "votes_percentage": 39.2
+        },
+        {
+          "position": 3,
+          "name": "Anand Singh Rana",
+          "party": "Aam Aadmi Party",
+          "votes": 3085,
+          "votes_percentage": 3.4
+        },
+        {
+          "position": 4,
+          "name": "Mukesh Singh",
+          "party": "Independent",
+          "votes": 1660,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 5,
+          "name": "Vijay Singh Rana",
+          "party": "Bahujan Samaj Party",
+          "votes": 1504,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 6,
+          "name": "Jyoti Rana",
+          "party": "Samajwadi Party",
+          "votes": 392,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

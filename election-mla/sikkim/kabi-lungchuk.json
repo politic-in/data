@@ -1,0 +1,117 @@
+{
+  "state": "Sikkim",
+  "constituency": "Kabi lungchuk",
+  "district": "North",
+  "ac_type": "BL",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 13430,
+        "total_votes_polled": 10263,
+        "turnout_percentage": 77.1,
+        "margin_votes": 1437,
+        "margin_percentage": 14.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Karma Loday Bhutia",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 5705,
+          "votes_percentage": 55.6
+        },
+        {
+          "position": 2,
+          "name": "Ugen Nedup Bhutia",
+          "party": "Sikkim Democratic Front",
+          "votes": 4268,
+          "votes_percentage": 41.6
+        },
+        {
+          "position": 3,
+          "name": "Phurden Tshering Lepcha",
+          "party": "Independent",
+          "votes": 152,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 4,
+          "name": "Gyurmik Yauseel Bhutia",
+          "party": "Indian National Congress",
+          "votes": 138,
+          "votes_percentage": 1.3
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "12 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 11047,
+        "total_votes_polled": 9383,
+        "turnout_percentage": 84.9,
+        "total_valid_votes": 9231,
+        "total_valid_votes_percentage": 83.6,
+        "margin_votes": 126,
+        "margin_percentage": 1.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ugen Nedup Bhutia",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 4615,
+          "votes_percentage": 50.0
+        },
+        {
+          "position": 2,
+          "name": "Thenlay Tshering Bhutia",
+          "party": "Sikkim Democratic Front",
+          "votes": 4489,
+          "votes_percentage": 48.6
+        },
+        {
+          "position": 3,
+          "name": "Karma Tashi Bhutia",
+          "party": "Indian National Congress",
+          "votes": 127,
+          "votes_percentage": 1.4
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "30 April 2009",
+      "counting_date": "05 June 2009",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 8765,
+        "total_votes_polled": 7482,
+        "turnout_percentage": 85.4,
+        "total_valid_votes": 7123,
+        "total_valid_votes_percentage": 81.3,
+        "margin_votes": 2164,
+        "margin_percentage": 28.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Thenlay Tshering Bhutia",
+          "party": "Sikkim Democratic Front",
+          "votes": 4823,
+          "votes_percentage": 64.5
+        },
+        {
+          "position": 2,
+          "name": "Ugen Nedup Bhutia",
+          "party": "Indian National Congress",
+          "votes": 2659,
+          "votes_percentage": 35.5
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "state": "West Bengal",
+  "constituency": "RANIBUNDH (ST)",
+  "district": "Bankura",
+  "ac_type": "ST",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 230549,
+        "total_votes_polled": 189460,
+        "turnout_percentage": 84.2,
+        "margin_votes": 23313,
+        "margin_percentage": 12.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jyotsna Mandi",
+          "party": "All India Trinamool Congress",
+          "votes": 92181,
+          "votes_percentage": 48.7
+        },
+        {
+          "position": 2,
+          "name": "Deblina Hembram",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 68868,
+          "votes_percentage": 36.4
+        },
+        {
+          "position": 3,
+          "name": "Kshudiram Tudu",
+          "party": "Bharatiya Janta Party",
+          "votes": 18720,
+          "votes_percentage": 9.9
+        },
+        {
+          "position": 4,
+          "name": "Goutam Kumar Mudi",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 2838,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Sudhir Kumar Murmu",
+          "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+          "votes": 2582,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 6,
+          "name": "Jagannath Tudu",
+          "party": "Jharkhand Anushilan Party",
+          "votes": 2513,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 7,
+          "name": "Biswanath Tudu",
+          "party": "Jharkhand Disom Party",
+          "votes": 1758,
+          "votes_percentage": 0.9
+        }
+      ]
+    }
+  }
+}

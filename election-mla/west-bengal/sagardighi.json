@@ -1,0 +1,533 @@
+{
+  "state": "West Bengal",
+  "constituency": "Sagardighi",
+  "district": "Murshidabad",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 224178,
+        "total_votes_polled": 185111,
+        "turnout_percentage": 83.3,
+        "margin_votes": 50206,
+        "margin_percentage": 27.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Subrata Saha",
+          "party": "All India Trinamool Congress",
+          "votes": 95189,
+          "votes_percentage": 51.4
+        },
+        {
+          "position": 2,
+          "name": "Khatun Mafuja",
+          "party": "Bharatiya Janta Party",
+          "votes": 44983,
+          "votes_percentage": 24.3
+        },
+        {
+          "position": 3,
+          "name": "Sk M Hasanuzzaman (BAPPA)",
+          "party": "Indian National Congress",
+          "votes": 36344,
+          "votes_percentage": 19.6
+        },
+        {
+          "position": 4,
+          "name": "Nure Mahaboob Alam",
+          "party": "All India Majlis-E-Ittehadul Muslimeen",
+          "votes": 3450,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 5,
+          "name": "Supal Murmu",
+          "party": "Bahujan Mukti Party",
+          "votes": 1656,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Abdut Tawab",
+          "party": "Social Democratic Party Of India",
+          "votes": 1280,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Dhananjay Banerjee",
+          "party": "Bahujan Samaj Party",
+          "votes": 981,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Mirza Lutful Hoque",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 698,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Santa Bhattacherjee",
+          "party": "Independent",
+          "votes": 530,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 205166,
+        "total_votes_polled": 168896,
+        "turnout_percentage": 83.3,
+        "margin_votes": 5214,
+        "margin_percentage": 3.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Subrata Saha",
+          "party": "All India Trinamool Congress",
+          "votes": 44817,
+          "votes_percentage": 26.5
+        },
+        {
+          "position": 2,
+          "name": "Aminul Islam",
+          "party": "Indian National Congress",
+          "votes": 39603,
+          "votes_percentage": 23.5
+        },
+        {
+          "position": 3,
+          "name": "Rajab Ali Mallick",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 39385,
+          "votes_percentage": 23.3
+        },
+        {
+          "position": 4,
+          "name": "Samsul Hoda",
+          "party": "Independent",
+          "votes": 31920,
+          "votes_percentage": 18.9
+        },
+        {
+          "position": 5,
+          "name": "Debsharan Ghosh",
+          "party": "Bharatiya Janta Party",
+          "votes": 7358,
+          "votes_percentage": 4.4
+        },
+        {
+          "position": 6,
+          "name": "Badrul Sk",
+          "party": "Social Democratic Party Of India",
+          "votes": 2725,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 7,
+          "name": "Kanika Chakroborty (DAS)",
+          "party": "Independent",
+          "votes": 1672,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 8,
+          "name": "Mirza Lutful Hoque",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1416,
+          "votes_percentage": 0.8
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 168136,
+        "total_votes_polled": 143876,
+        "turnout_percentage": 85.6,
+        "margin_votes": 4574,
+        "margin_percentage": 3.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Subrata Saha",
+          "party": "All India Trinamool Congress",
+          "votes": 54708,
+          "votes_percentage": 38.0
+        },
+        {
+          "position": 2,
+          "name": "Ismail Sekh",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 50134,
+          "votes_percentage": 34.9
+        },
+        {
+          "position": 3,
+          "name": "Aminul Islam",
+          "party": "Independent",
+          "votes": 22402,
+          "votes_percentage": 15.6
+        },
+        {
+          "position": 4,
+          "name": "Badrul Sekh",
+          "party": "Social Democratic Party Of India",
+          "votes": 6198,
+          "votes_percentage": 4.3
+        },
+        {
+          "position": 5,
+          "name": "Shekharendu Das",
+          "party": "Bharatiya Janta Party",
+          "votes": 4220,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 6,
+          "name": "Daud Mondal",
+          "party": "Independent",
+          "votes": 2934,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 7,
+          "name": "Naru Gopal Saha",
+          "party": "Independent",
+          "votes": 2037,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 8,
+          "name": "Bandopadhyay Dhananjoy",
+          "party": "Bahujan Samaj Party",
+          "votes": 1243,
+          "votes_percentage": 0.9
+        }
+      ]
+    },
+    "2006": {
+      "poll_date": "17 April 2006",
+      "counting_date": "05 November 2006",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 153953,
+        "total_votes_polled": 129550,
+        "turnout_percentage": 84.2,
+        "margin_votes": 6063,
+        "margin_percentage": 4.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Parikshit Let",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 62983,
+          "votes_percentage": 48.6
+        },
+        {
+          "position": 2,
+          "name": "Rajesh Kumar Bhakat",
+          "party": "Indian National Congress",
+          "votes": 56920,
+          "votes_percentage": 43.9
+        },
+        {
+          "position": 3,
+          "name": "Gour Pada Biswas Mallik",
+          "party": "Bahujan Samaj Party",
+          "votes": 3313,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 4,
+          "name": "Lakshmi Kanta Sarkar",
+          "party": "All India Trinamool Congress",
+          "votes": 2964,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 5,
+          "name": "Ashoke Kumar Das",
+          "party": "Independent",
+          "votes": 2198,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 6,
+          "name": "Ajit Kumar Halder",
+          "party": "Samajwadi Party",
+          "votes": 1172,
+          "votes_percentage": 0.9
+        }
+      ]
+    },
+    "2001": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 145460,
+        "total_votes_polled": 111523,
+        "turnout_percentage": 76.7,
+        "margin_votes": 2630,
+        "margin_percentage": 2.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Das Paresh Nath",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 53883,
+          "votes_percentage": 48.4
+        },
+        {
+          "position": 2,
+          "name": "Rajesh Kumar Bhakat",
+          "party": "All India Trinamool Congress",
+          "votes": 51253,
+          "votes_percentage": 46.0
+        },
+        {
+          "position": 3,
+          "name": "Tapas Bhakat",
+          "party": "Independent",
+          "votes": 3982,
+          "votes_percentage": 3.6
+        },
+        {
+          "position": 4,
+          "name": "Debesh Das",
+          "party": "Party For Democratic Socialism",
+          "votes": 2205,
+          "votes_percentage": 2.0
+        }
+      ]
+    },
+    "1996": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 137004,
+        "total_votes_polled": 117230,
+        "turnout_percentage": 85.6,
+        "margin_votes": 6697,
+        "margin_percentage": 5.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Das Paresh Nath",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 58259,
+          "votes_percentage": 51.1
+        },
+        {
+          "position": 2,
+          "name": "Nrisingha Kumar Mondal",
+          "party": "Indian National Congress",
+          "votes": 51562,
+          "votes_percentage": 45.2
+        },
+        {
+          "position": 3,
+          "name": "Subrata Mahara",
+          "party": "Bharatiya Janta Party",
+          "votes": 4030,
+          "votes_percentage": 3.5
+        },
+        {
+          "position": 4,
+          "name": "Ganesh Halder",
+          "party": "All India Indira Congress (TIWARI)",
+          "votes": 257,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "1991": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 127294,
+        "total_votes_polled": 99501,
+        "turnout_percentage": 78.2,
+        "margin_votes": 11046,
+        "margin_percentage": 11.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Das Paresh Nath",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 47492,
+          "votes_percentage": 48.8
+        },
+        {
+          "position": 2,
+          "name": "Narsinha Kumar Mandal",
+          "party": "Indian National Congress",
+          "votes": 36446,
+          "votes_percentage": 37.5
+        },
+        {
+          "position": 3,
+          "name": "Sushil Kumar Das",
+          "party": "Bharatiya Janta Party",
+          "votes": 12387,
+          "votes_percentage": 12.7
+        },
+        {
+          "position": 4,
+          "name": "Shital Mandal",
+          "party": "Independent",
+          "votes": 506,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "Ganesh Halder",
+          "party": "Independent",
+          "votes": 484,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "1987": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 115839,
+        "total_votes_polled": 87269,
+        "turnout_percentage": 75.3,
+        "margin_votes": 8952,
+        "margin_percentage": 10.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Paresh Nath Das",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 47074,
+          "votes_percentage": 54.9
+        },
+        {
+          "position": 2,
+          "name": "Nrisinha Kumar Mondal",
+          "party": "Indian National Congress",
+          "votes": 38122,
+          "votes_percentage": 44.4
+        },
+        {
+          "position": 3,
+          "name": "Mal Meghnad",
+          "party": "Independent",
+          "votes": 602,
+          "votes_percentage": 0.7
+        }
+      ]
+    },
+    "1982": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 90782,
+        "total_votes_polled": 70299,
+        "turnout_percentage": 77.4,
+        "margin_votes": 449,
+        "margin_percentage": 0.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Biswas Hazari",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 34484,
+          "votes_percentage": 50.3
+        },
+        {
+          "position": 2,
+          "name": "Nrisinha Kumar Mondal",
+          "party": "Indian National Congress",
+          "votes": 34035,
+          "votes_percentage": 49.7
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 72678,
+        "total_votes_polled": 32708,
+        "turnout_percentage": 45.0,
+        "margin_votes": 917,
+        "margin_percentage": 2.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Hazari Biswas",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 11394,
+          "votes_percentage": 35.6
+        },
+        {
+          "position": 2,
+          "name": "Atul Chandra Sarkar",
+          "party": "Indian National Congress",
+          "votes": 10477,
+          "votes_percentage": 32.7
+        },
+        {
+          "position": 3,
+          "name": "Joy Chand Das",
+          "party": "Independent",
+          "votes": 5435,
+          "votes_percentage": 17.0
+        },
+        {
+          "position": 4,
+          "name": "Ramendra Biswas",
+          "party": "Janta Party",
+          "votes": 3716,
+          "votes_percentage": 11.6
+        },
+        {
+          "position": 5,
+          "name": "Aswini Kumar Mahaldar",
+          "party": "Independent",
+          "votes": 895,
+          "votes_percentage": 2.8
+        },
+        {
+          "position": 6,
+          "name": "Dwijapada Sarkar",
+          "party": "Independent",
+          "votes": 126,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

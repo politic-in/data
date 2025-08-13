@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 52876,
+        "male": 54965,
+        "percentage_of_total_population": 9.96,
+        "percentage_of_total_population_calculated": 9.96,
+        "percentage_of_total_population_stated": 9.96,
+        "sex_ratio": 962,
+        "total": 107841
+    },
+    "literacy": {
+        "female_literacy_rate": 61.5,
+        "female_literate": 296297,
+        "male_literacy_rate": 76.76,
+        "male_literate": 378461,
+        "rate_percentage": 69.22,
+        "total_literate": 674758
+    },
+    "population": {
+        "female": 534628,
+        "male": 548008,
+        "sex_ratio": 976,
+        "total": 1082636
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 104
+        },
+        "Christian": {
+            "percentage": 0.59,
+            "population": 6390
+        },
+        "Hindu": {
+            "percentage": 88.6,
+            "population": 959260
+        },
+        "Jain": {
+            "percentage": 0.08,
+            "population": 859
+        },
+        "Muslims": {
+            "percentage": 10.56,
+            "population": 114311
+        },
+        "Not Stated": {
+            "percentage": 0.12,
+            "population": 1272
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 57
+        },
+        "Sikh": {
+            "percentage": 0.04,
+            "population": 383
+        }
+    },
+    "rural": {
+        "child_population_female": 37904,
+        "child_population_male": 39425,
+        "child_population_percentage": 9.49,
+        "child_population_percentage_calculated": 9.49,
+        "child_population_percentage_stated": 9.49,
+        "child_population_total": 77329,
+        "child_sex_ratio": 961,
+        "female": 402439,
+        "literacy_rate_female": 56.36,
+        "literacy_rate_male": 73.96,
+        "literacy_rate_percentage": 65.26,
+        "literate_female": 205441,
+        "literate_male": 275870,
+        "literate_total": 481311,
+        "male": 412438,
+        "percentage_population": 75.27,
+        "population": 814877,
+        "sex_ratio": 976
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/265-ramanagara.html",
+    "urban": {
+        "child_population_female": 14974,
+        "child_population_male": 15538,
+        "child_population_percentage": 11.4,
+        "child_population_percentage_calculated": 11.4,
+        "child_population_percentage_stated": 11.4,
+        "child_population_total": 30512,
+        "child_sex_ratio": 964,
+        "female": 132189,
+        "literacy_rate_female": 77.51,
+        "literacy_rate_male": 85.47,
+        "literacy_rate_percentage": 81.54,
+        "literate_female": 90856,
+        "literate_male": 102591,
+        "literate_total": 193447,
+        "male": 135570,
+        "percentage_population": 24.73,
+        "population": 267759,
+        "sex_ratio": 975
+    }
+}

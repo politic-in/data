@@ -1,0 +1,55 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "MEERUT DISTRICT (NORTH EAST)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 394599,
+        "total_votes_polled": 209089,
+        "turnout_percentage": 53.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shah Nawaz Khan",
+          "party": "Indian National Congress",
+          "votes": 125288,
+          "votes_percentage": 59.9
+        },
+        {
+          "position": 2,
+          "name": "Suraj Bal Swami",
+          "party": "Akhil Bharatiya Ram Rajya Parishad",
+          "votes": 36136,
+          "votes_percentage": 17.3
+        },
+        {
+          "position": 3,
+          "name": "Raj Singh Rana",
+          "party": "Socialist Party",
+          "votes": 33081,
+          "votes_percentage": 15.8
+        },
+        {
+          "position": 4,
+          "name": "Lakshmi Shankar",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 7926,
+          "votes_percentage": 3.8
+        },
+        {
+          "position": 5,
+          "name": "Babu Lal Vaish",
+          "party": "Independent",
+          "votes": 6658,
+          "votes_percentage": 3.2
+        }
+      ]
+    }
+  }
+}

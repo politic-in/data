@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 153082,
+        "male": 179043,
+        "percentage_of_total_population": 12.84,
+        "percentage_of_total_population_calculated": 12.84,
+        "percentage_of_total_population_stated": 12.84,
+        "sex_ratio": 855,
+        "total": 332125
+    },
+    "literacy": {
+        "female_literacy_rate": 75.84,
+        "female_literate": 830982,
+        "male_literacy_rate": 90.54,
+        "male_literate": 1048892,
+        "rate_percentage": 83.4,
+        "total_literate": 1879874
+    },
+    "population": {
+        "female": 1248698,
+        "male": 1337560,
+        "sex_ratio": 934,
+        "total": 2586258
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 14.08,
+            "population": 364229
+        },
+        "Christian": {
+            "percentage": 0.14,
+            "population": 3531
+        },
+        "Hindu": {
+            "percentage": 71.35,
+            "population": 1845424
+        },
+        "Jain": {
+            "percentage": 0.47,
+            "population": 12242
+        },
+        "Muslims": {
+            "percentage": 13.7,
+            "population": 354236
+        },
+        "Not Stated": {
+            "percentage": 0.17,
+            "population": 4406
+        },
+        "Others": {
+            "percentage": 0.02,
+            "population": 522
+        },
+        "Sikh": {
+            "percentage": 0.06,
+            "population": 1668
+        }
+    },
+    "rural": {
+        "child_population_female": 121919,
+        "child_population_male": 143051,
+        "child_population_percentage": 13.01,
+        "child_population_percentage_calculated": 13.01,
+        "child_population_percentage_stated": 13.01,
+        "child_population_total": 264970,
+        "child_sex_ratio": 852,
+        "female": 982156,
+        "literacy_rate_female": 73.49,
+        "literacy_rate_male": 89.74,
+        "literacy_rate_percentage": 81.85,
+        "literate_female": 632187,
+        "literate_male": 818571,
+        "literate_total": 1450758,
+        "male": 1055242,
+        "percentage_population": 78.78,
+        "population": 2037398,
+        "sex_ratio": 931
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/338-buldana.html",
+    "urban": {
+        "child_population_female": 31134,
+        "child_population_male": 36021,
+        "child_population_percentage": 12.24,
+        "child_population_percentage_calculated": 12.24,
+        "child_population_percentage_stated": 12.24,
+        "child_population_total": 67155,
+        "child_sex_ratio": 864,
+        "female": 266542,
+        "literacy_rate_female": 84.45,
+        "literacy_rate_male": 93.51,
+        "literacy_rate_percentage": 89.08,
+        "literate_female": 198795,
+        "literate_male": 230321,
+        "literate_total": 429116,
+        "male": 282318,
+        "percentage_population": 21.22,
+        "population": 548860,
+        "sex_ratio": 944
+    }
+}

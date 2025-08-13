@@ -1,0 +1,41 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "GARHWAL DISTT (WEST) CUM TEHRI GARHWAL DISTT CUM BIJNOR DISTT (NORTH)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 373418,
+        "total_votes_polled": 135092,
+        "turnout_percentage": 36.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Maharani Sahiba Kamlendumati Shah",
+          "party": "Independent",
+          "votes": 68811,
+          "votes_percentage": 50.9
+        },
+        {
+          "position": 2,
+          "name": "Krishna Singh",
+          "party": "Indian National Congress",
+          "votes": 54829,
+          "votes_percentage": 40.6
+        },
+        {
+          "position": 3,
+          "name": "Shyam Chand Negi",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 11452,
+          "votes_percentage": 8.5
+        }
+      ]
+    }
+  }
+}

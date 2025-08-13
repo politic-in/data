@@ -1,0 +1,43 @@
+{
+  "state": "Nagaland",
+  "constituency": "Wokha Town",
+  "district": "Wokha",
+  "ac_type": "ST",
+  "results": {
+    "2013": {
+      "poll_date": "23 February 2013",
+      "counting_date": "28 February 2013",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 33962,
+        "total_votes_polled": 32122,
+        "turnout_percentage": 94.6,
+        "margin_votes": 1482,
+        "margin_percentage": 4.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr. T.M. Lotha",
+          "party": "Nationalist Congress Party",
+          "votes": 16401,
+          "votes_percentage": 51.1
+        },
+        {
+          "position": 2,
+          "name": "Dr. Chumben Murry",
+          "party": "Naga Peoples Front",
+          "votes": 14919,
+          "votes_percentage": 46.4
+        },
+        {
+          "position": 3,
+          "name": "E.T. Ezung",
+          "party": "Indian National Congress",
+          "votes": 802,
+          "votes_percentage": 2.5
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 320527,
+        "male": 335983,
+        "percentage_of_total_population": 20.11,
+        "percentage_of_total_population_calculated": 20.11,
+        "percentage_of_total_population_stated": 20.11,
+        "sex_ratio": 954,
+        "total": 656510
+    },
+    "literacy": {
+        "female_literacy_rate": 42.34,
+        "female_literate": 527065,
+        "male_literacy_rate": 59.06,
+        "male_literate": 805261,
+        "rate_percentage": 51.08,
+        "total_literate": 1332326
+    },
+    "population": {
+        "female": 1565249,
+        "male": 1699370,
+        "sex_ratio": 921,
+        "total": 3264619
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 353
+        },
+        "Christian": {
+            "percentage": 0.24,
+            "population": 7989
+        },
+        "Hindu": {
+            "percentage": 60.94,
+            "population": 1989420
+        },
+        "Jain": {
+            "percentage": 0.04,
+            "population": 1450
+        },
+        "Muslims": {
+            "percentage": 38.46,
+            "population": 1255641
+        },
+        "Not Stated": {
+            "percentage": 0.26,
+            "population": 8502
+        },
+        "Others": {
+            "percentage": 0.02,
+            "population": 650
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 614
+        }
+    },
+    "rural": {
+        "child_population_female": 294494,
+        "child_population_male": 308655,
+        "child_population_percentage": 20.64,
+        "child_population_percentage_calculated": 20.64,
+        "child_population_percentage_stated": 20.64,
+        "child_population_total": 603149,
+        "child_sex_ratio": 954,
+        "female": 1402092,
+        "literacy_rate_female": 39.28,
+        "literacy_rate_male": 56.7,
+        "literacy_rate_percentage": 48.38,
+        "literate_female": 435112,
+        "literate_male": 686513,
+        "literate_total": 1121625,
+        "male": 1519522,
+        "percentage_population": 89.49,
+        "population": 2921614,
+        "sex_ratio": 923
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/63-purnia.html",
+    "urban": {
+        "child_population_female": 26061,
+        "child_population_male": 27300,
+        "child_population_percentage": 15.56,
+        "child_population_percentage_calculated": 15.56,
+        "child_population_percentage_stated": 15.56,
+        "child_population_total": 53361,
+        "child_sex_ratio": 955,
+        "female": 163157,
+        "literacy_rate_female": 67.07,
+        "literacy_rate_male": 77.84,
+        "literacy_rate_percentage": 72.74,
+        "literate_female": 91953,
+        "literate_male": 118748,
+        "literate_total": 210701,
+        "male": 179848,
+        "percentage_population": 10.51,
+        "population": 343005,
+        "sex_ratio": 907
+    }
+}

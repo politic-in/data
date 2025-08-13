@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 141052,
+        "male": 146777,
+        "percentage_of_total_population": 16.99,
+        "percentage_of_total_population_calculated": 16.99,
+        "percentage_of_total_population_stated": 16.99,
+        "sex_ratio": 961,
+        "total": 287829
+    },
+    "literacy": {
+        "female_literacy_rate": 58.06,
+        "female_literate": 398020,
+        "male_literacy_rate": 69.29,
+        "male_literate": 499038,
+        "rate_percentage": 63.81,
+        "total_literate": 897058
+    },
+    "population": {
+        "female": 826618,
+        "male": 867004,
+        "sex_ratio": 953,
+        "total": 1693622
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.0,
+            "population": 49
+        },
+        "Christian": {
+            "percentage": 0.06,
+            "population": 1020
+        },
+        "Hindu": {
+            "percentage": 29.11,
+            "population": 492966
+        },
+        "Jain": {
+            "percentage": 0.02,
+            "population": 399
+        },
+        "Muslims": {
+            "percentage": 70.74,
+            "population": 1198036
+        },
+        "Not Stated": {
+            "percentage": 0.06,
+            "population": 1026
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 14
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 112
+        }
+    },
+    "rural": {
+        "child_population_female": 133916,
+        "child_population_male": 139380,
+        "child_population_percentage": 17.67,
+        "child_population_percentage_calculated": 17.67,
+        "child_population_percentage_stated": 17.67,
+        "child_population_total": 273296,
+        "child_sex_ratio": 961,
+        "female": 754480,
+        "literacy_rate_female": 55.56,
+        "literacy_rate_male": 67.09,
+        "literacy_rate_percentage": 61.47,
+        "literate_female": 344760,
+        "literate_male": 437702,
+        "literate_total": 782462,
+        "male": 791789,
+        "percentage_population": 91.3,
+        "population": 1546269,
+        "sex_ratio": 953
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/142-barpeta.html",
+    "urban": {
+        "child_population_female": 7136,
+        "child_population_male": 7397,
+        "child_population_percentage": 9.86,
+        "child_population_percentage_calculated": 9.86,
+        "child_population_percentage_stated": 9.86,
+        "child_population_total": 14533,
+        "child_sex_ratio": 965,
+        "female": 72138,
+        "literacy_rate_female": 81.94,
+        "literacy_rate_male": 90.44,
+        "literacy_rate_percentage": 86.28,
+        "literate_female": 53260,
+        "literate_male": 61336,
+        "literate_total": 114596,
+        "male": 75215,
+        "percentage_population": 8.7,
+        "population": 147353,
+        "sex_ratio": 959
+    }
+}

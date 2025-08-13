@@ -1,0 +1,62 @@
+{
+  "state": "Punjab",
+  "constituency": "FEROZEPORE LUDHIANA",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 764171,
+        "total_votes_polled": 811732,
+        "turnout_percentage": 53.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Lal Singh",
+          "party": "Shiromani Akali Dal",
+          "votes": 157908,
+          "votes_percentage": 19.5
+        },
+        {
+          "position": 1,
+          "name": "Bahadur Singh",
+          "party": "Shiromani Akali Dal",
+          "votes": 145365,
+          "votes_percentage": 17.9
+        },
+        {
+          "position": 2,
+          "name": "Mangal Singh",
+          "party": "Indian National Congress",
+          "votes": 157233,
+          "votes_percentage": 19.4
+        },
+        {
+          "position": 4,
+          "name": "Nihal Kaur",
+          "party": "Indian National Congress",
+          "votes": 126637,
+          "votes_percentage": 15.6
+        },
+        {
+          "position": 5,
+          "name": "Dalip Singh",
+          "party": "All India Scheduled Caste Federation",
+          "votes": 116057,
+          "votes_percentage": 14.3
+        },
+        {
+          "position": 6,
+          "name": "Sant Singh",
+          "party": "Independent",
+          "votes": 108532,
+          "votes_percentage": 13.4
+        }
+      ]
+    }
+  }
+}

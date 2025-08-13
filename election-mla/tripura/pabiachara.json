@@ -1,0 +1,57 @@
+{
+  "state": "Tripura",
+  "constituency": "PABIACHARA",
+  "district": "North Tripura",
+  "ac_type": "SC",
+  "results": {
+    "2013": {
+      "poll_date": "14 February 2013",
+      "counting_date": "28 February 2013",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 39998,
+        "total_votes_polled": 37152,
+        "turnout_percentage": 92.9,
+        "margin_votes": 1250,
+        "margin_percentage": 3.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Samiran Malakar",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 18504,
+          "votes_percentage": 49.8
+        },
+        {
+          "position": 2,
+          "name": "Satyaban Das",
+          "party": "Indian National Congress",
+          "votes": 17254,
+          "votes_percentage": 46.4
+        },
+        {
+          "position": 3,
+          "name": "Bhagaban Das",
+          "party": "Bharatiya Janta Party",
+          "votes": 543,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 4,
+          "name": "Bilas Bindu Malakar",
+          "party": "Independent",
+          "votes": 446,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 5,
+          "name": "Pranesh Das",
+          "party": "Amra Bangalee",
+          "votes": 405,
+          "votes_percentage": 1.1
+        }
+      ]
+    }
+  }
+}

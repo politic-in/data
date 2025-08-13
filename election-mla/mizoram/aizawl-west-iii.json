@@ -1,0 +1,134 @@
+{
+  "state": "Mizoram",
+  "constituency": "Aizawl West-III",
+  "district": "Aizawl",
+  "ac_type": "ST",
+  "results": {
+    "2023": {
+      "poll_date": "07 November 2023",
+      "counting_date": "04 December 2023",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 47354,
+        "total_votes_polled": 18562,
+        "turnout_percentage": 39.3,
+        "margin_votes": 4582,
+        "margin_percentage": 24.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "V. L. Zaithanzama",
+          "party": "Zoram People’s Movement",
+          "votes": 9202,
+          "votes_percentage": 49.5
+        },
+        {
+          "position": 2,
+          "name": "K. Lalsawmvela",
+          "party": "Mizo National Front",
+          "votes": 4620,
+          "votes_percentage": 24.8
+        },
+        {
+          "position": 3,
+          "name": "Lalsawta",
+          "party": "Indian National Congress",
+          "votes": 4369,
+          "votes_percentage": 23.5
+        },
+        {
+          "position": 4,
+          "name": "Joseph Biakthianghlima",
+          "party": "Aam Aadmi Party",
+          "votes": 220,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 5,
+          "name": "Lalhrilzeli Hlawndo",
+          "party": "Independent",
+          "votes": 151,
+          "votes_percentage": 0.8
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "04 December 2013",
+      "counting_date": "09 December 2013",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 19043,
+        "total_votes_polled": 15086,
+        "turnout_percentage": 79.7,
+        "margin_votes": 978,
+        "margin_percentage": 6.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Vanlalzawma",
+          "party": "Mizo National Front",
+          "votes": 5765,
+          "votes_percentage": 38.2
+        },
+        {
+          "position": 2,
+          "name": "R. Selthuama",
+          "party": "Indian National Congress",
+          "votes": 4787,
+          "votes_percentage": 31.7
+        },
+        {
+          "position": 3,
+          "name": "Dr. C. T. Tluanga",
+          "party": "Zoram Nationalist Party",
+          "votes": 4534,
+          "votes_percentage": 30.1
+        }
+      ]
+    },
+    "2008": {
+      "poll_date": "12 February 2008",
+      "counting_date": "12 August 2008",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 16418,
+        "total_votes_polled": 12821,
+        "turnout_percentage": 78.1,
+        "margin_votes": 1113,
+        "margin_percentage": 8.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "R.Selthuama",
+          "party": "Indian National Congress",
+          "votes": 5233,
+          "votes_percentage": 40.8
+        },
+        {
+          "position": 2,
+          "name": "Col. Lalchungnunga Sailo",
+          "party": "Manipur Peoples Council",
+          "votes": 4120,
+          "votes_percentage": 32.1
+        },
+        {
+          "position": 3,
+          "name": "K.Vanlalauva",
+          "party": "Mizo National Front",
+          "votes": 3380,
+          "votes_percentage": 26.4
+        },
+        {
+          "position": 4,
+          "name": "C.Lalnunmawia",
+          "party": "Lok Jan Shakti Party",
+          "votes": 88,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

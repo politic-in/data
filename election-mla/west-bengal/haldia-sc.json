@@ -1,0 +1,64 @@
+{
+  "state": "West Bengal",
+  "constituency": "HALDIA (SC)",
+  "district": "Purba Medinipur",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 222734,
+        "total_votes_polled": 199598,
+        "turnout_percentage": 90.7,
+        "margin_votes": 21493,
+        "margin_percentage": 10.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tapasi Mondal",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 101330,
+          "votes_percentage": 50.8
+        },
+        {
+          "position": 2,
+          "name": "Madhurima Mandal",
+          "party": "All India Trinamool Congress",
+          "votes": 79837,
+          "votes_percentage": 40.0
+        },
+        {
+          "position": 3,
+          "name": "Pradip Kumar Bijali",
+          "party": "Bharatiya Janta Party",
+          "votes": 13471,
+          "votes_percentage": 6.8
+        },
+        {
+          "position": 4,
+          "name": "Abhimanyu Mondal",
+          "party": "Bharat Nirman Party",
+          "votes": 2996,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Utpal Dalui",
+          "party": "Party For Democratic Socialism",
+          "votes": 1005,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Narayan Pramanik",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 959,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 52682,
+        "male": 67369,
+        "percentage_of_total_population": 12.53,
+        "percentage_of_total_population_calculated": 12.53,
+        "percentage_of_total_population_stated": 12.53,
+        "sex_ratio": 782,
+        "total": 120051
+    },
+    "literacy": {
+        "female_literacy_rate": 70.73,
+        "female_literate": 276611,
+        "male_literacy_rate": 89.31,
+        "male_literate": 399480,
+        "rate_percentage": 80.65,
+        "total_literate": 676091
+    },
+    "population": {
+        "female": 443738,
+        "male": 514667,
+        "sex_ratio": 862,
+        "total": 958405
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 105
+        },
+        "Christian": {
+            "percentage": 0.08,
+            "population": 734
+        },
+        "Hindu": {
+            "percentage": 98.67,
+            "population": 945693
+        },
+        "Jain": {
+            "percentage": 0.07,
+            "population": 645
+        },
+        "Muslims": {
+            "percentage": 0.86,
+            "population": 8247
+        },
+        "Not Stated": {
+            "percentage": 0.2,
+            "population": 1917
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 22
+        },
+        "Sikh": {
+            "percentage": 0.11,
+            "population": 1042
+        }
+    },
+    "rural": {
+        "child_population_female": 39239,
+        "child_population_male": 50465,
+        "child_population_percentage": 12.54,
+        "child_population_percentage_calculated": 12.54,
+        "child_population_percentage_stated": 12.54,
+        "child_population_total": 89704,
+        "child_sex_ratio": 778,
+        "female": 330847,
+        "literacy_rate_female": 68.46,
+        "literacy_rate_male": 88.94,
+        "literacy_rate_percentage": 79.39,
+        "literate_female": 199622,
+        "literate_male": 296833,
+        "literate_total": 496455,
+        "male": 384219,
+        "percentage_population": 74.61,
+        "population": 715066,
+        "sex_ratio": 861
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/222-jhajjar.html",
+    "urban": {
+        "child_population_female": 13432,
+        "child_population_male": 16915,
+        "child_population_percentage": 12.47,
+        "child_population_percentage_calculated": 12.47,
+        "child_population_percentage_stated": 12.47,
+        "child_population_total": 30347,
+        "child_sex_ratio": 794,
+        "female": 112891,
+        "literacy_rate_female": 77.41,
+        "literacy_rate_male": 90.41,
+        "literacy_rate_percentage": 84.34,
+        "literate_female": 76989,
+        "literate_male": 102647,
+        "literate_total": 179636,
+        "male": 130448,
+        "percentage_population": 25.39,
+        "population": 243339,
+        "sex_ratio": 865
+    }
+}

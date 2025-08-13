@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 113775,
+        "male": 134328,
+        "percentage_of_total_population": 12.23,
+        "percentage_of_total_population_calculated": 12.23,
+        "percentage_of_total_population_stated": 12.23,
+        "sex_ratio": 847,
+        "total": 248103
+    },
+    "literacy": {
+        "female_literacy_rate": 61.69,
+        "female_literate": 520441,
+        "male_literacy_rate": 75.44,
+        "male_literate": 707070,
+        "rate_percentage": 68.92,
+        "total_literate": 1227511
+    },
+    "population": {
+        "female": 957437,
+        "male": 1071637,
+        "sex_ratio": 893,
+        "total": 2029074
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 454
+        },
+        "Christian": {
+            "percentage": 0.95,
+            "population": 19358
+        },
+        "Hindu": {
+            "percentage": 44.67,
+            "population": 906408
+        },
+        "Jain": {
+            "percentage": 0.06,
+            "population": 1143
+        },
+        "Muslims": {
+            "percentage": 0.34,
+            "population": 6844
+        },
+        "Not Stated": {
+            "percentage": 0.19,
+            "population": 3774
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 278
+        },
+        "Sikh": {
+            "percentage": 53.76,
+            "population": 1090815
+        }
+    },
+    "rural": {
+        "child_population_female": 85194,
+        "child_population_male": 100505,
+        "child_population_percentage": 12.58,
+        "child_population_percentage_calculated": 12.58,
+        "child_population_percentage_stated": 12.58,
+        "child_population_total": 185699,
+        "child_sex_ratio": 848,
+        "female": 700310,
+        "literacy_rate_female": 57.12,
+        "literacy_rate_male": 72.44,
+        "literacy_rate_percentage": 65.14,
+        "literate_female": 351358,
+        "literate_male": 489462,
+        "literate_total": 840820,
+        "male": 776208,
+        "percentage_population": 72.77,
+        "population": 1476518,
+        "sex_ratio": 902
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/596-firozpur.html",
+    "urban": {
+        "child_population_female": 28590,
+        "child_population_male": 33814,
+        "child_population_percentage": 11.29,
+        "child_population_percentage_calculated": 11.29,
+        "child_population_percentage_stated": 11.29,
+        "child_population_total": 62404,
+        "child_sex_ratio": 846,
+        "female": 257127,
+        "literacy_rate_female": 73.98,
+        "literacy_rate_male": 83.18,
+        "literacy_rate_percentage": 78.89,
+        "literate_female": 169083,
+        "literate_male": 217608,
+        "literate_total": 386691,
+        "male": 295429,
+        "percentage_population": 27.23,
+        "population": 552556,
+        "sex_ratio": 870
+    }
+}

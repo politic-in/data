@@ -1,0 +1,41 @@
+{
+  "state": "Orissa",
+  "constituency": "KHURDA",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 395605,
+        "total_votes_polled": 138531,
+        "turnout_percentage": 35.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Lingraj Misra",
+          "party": "Indian National Congress",
+          "votes": 66765,
+          "votes_percentage": 48.2
+        },
+        {
+          "position": 2,
+          "name": "Mohan Das",
+          "party": "Communist Party Of India",
+          "votes": 41048,
+          "votes_percentage": 29.6
+        },
+        {
+          "position": 3,
+          "name": "Murari Tripathy",
+          "party": "Independent",
+          "votes": 30718,
+          "votes_percentage": 22.2
+        }
+      ]
+    }
+  }
+}

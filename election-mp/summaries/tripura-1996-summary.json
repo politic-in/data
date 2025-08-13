@@ -1,0 +1,45 @@
+{
+  "state": "Tripura",
+  "year": "1996",
+  "summary_stats": {
+    "total_electors_state": 1647908,
+    "total_votes_polled_state": 1303348,
+    "turnout_percentage_state": 79.1,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Tripura East",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Tripura",
+      "winning_candidate": "Baju Ban Riyan",
+      "winning_party": "Communist Party Of India (MARXIST)",
+      "total_electors_ac": 788260,
+      "total_votes_ac": 612132,
+      "poll_percentage_ac": 0.0,
+      "margin": 154369,
+      "margin_percentage": 25.2,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1996/tripura/tripura-east/5415/25/11"
+    },
+    {
+      "ac_name": "Tripura West",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Tripura",
+      "winning_candidate": "Badal Choudhury",
+      "winning_party": "Communist Party Of India (MARXIST)",
+      "total_electors_ac": 859648,
+      "total_votes_ac": 691216,
+      "poll_percentage_ac": 0.0,
+      "margin": 80811,
+      "margin_percentage": 11.7,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1996/tripura/tripura-west/5414/25/11"
+    }
+  ]
+}

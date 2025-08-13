@@ -1,0 +1,43 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "WARRANGAL",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 408061,
+        "total_votes_polled": 252243,
+        "turnout_percentage": 61.8,
+        "margin_votes": 736,
+        "margin_percentage": 0.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bakar Ali Mirza",
+          "party": "Indian National Congress",
+          "votes": 113308,
+          "votes_percentage": 44.9
+        },
+        {
+          "position": 2,
+          "name": "S. Ramanatham",
+          "party": "Communist Party Of India",
+          "votes": 112572,
+          "votes_percentage": 44.6
+        },
+        {
+          "position": 3,
+          "name": "L.S. Raju",
+          "party": "Jan Sangh",
+          "votes": 17566,
+          "votes_percentage": 7.0
+        }
+      ]
+    }
+  }
+}

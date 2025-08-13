@@ -1,0 +1,71 @@
+{
+  "state": "Maharashtra",
+  "constituency": "Buadhana",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 118564,
+        "total_votes_polled": 77907,
+        "turnout_percentage": 65.7,
+        "margin_votes": 4844,
+        "margin_percentage": 6.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Aher Sakharam Vithoba",
+          "party": "Indian National Congress (I)",
+          "votes": 33143,
+          "votes_percentage": 43.5
+        },
+        {
+          "position": 2,
+          "name": "Patil Shivajirao Bhiku",
+          "party": "Indian National Congress (U)",
+          "votes": 28299,
+          "votes_percentage": 37.1
+        },
+        {
+          "position": 3,
+          "name": "Bahekar Keshevrao Jaywantrao",
+          "party": "Bharatiya Janta Party",
+          "votes": 12561,
+          "votes_percentage": 16.5
+        },
+        {
+          "position": 4,
+          "name": "Palwe Atmaram Dewaji",
+          "party": "Independent",
+          "votes": 1234,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 5,
+          "name": "Arjun Totaram Gawai",
+          "party": "Independent",
+          "votes": 743,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Sonone Dawlat Totaram",
+          "party": "Independent",
+          "votes": 124,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Sk. Mehebub Sk. Musa",
+          "party": "Independent",
+          "votes": 109,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

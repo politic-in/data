@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 47113,
+        "male": 48671,
+        "percentage_of_total_population": 14.54,
+        "percentage_of_total_population_calculated": 14.54,
+        "percentage_of_total_population_stated": 14.54,
+        "sex_ratio": 968,
+        "total": 95784
+    },
+    "literacy": {
+        "female_literacy_rate": 60.6,
+        "female_literate": 167900,
+        "male_literacy_rate": 80.37,
+        "male_literate": 229923,
+        "rate_percentage": 70.64,
+        "total_literate": 397823
+    },
+    "population": {
+        "female": 324180,
+        "male": 334737,
+        "sex_ratio": 968,
+        "total": 658917
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 84
+        },
+        "Christian": {
+            "percentage": 1.43,
+            "population": 9398
+        },
+        "Hindu": {
+            "percentage": 91.7,
+            "population": 604259
+        },
+        "Jain": {
+            "percentage": 0.18,
+            "population": 1155
+        },
+        "Muslims": {
+            "percentage": 3.93,
+            "population": 25878
+        },
+        "Not Stated": {
+            "percentage": 0.19,
+            "population": 1278
+        },
+        "Others": {
+            "percentage": 2.35,
+            "population": 15474
+        },
+        "Sikh": {
+            "percentage": 0.21,
+            "population": 1391
+        }
+    },
+    "rural": {
+        "child_population_female": 36215,
+        "child_population_male": 36699,
+        "child_population_percentage": 16.07,
+        "child_population_percentage_calculated": 16.07,
+        "child_population_percentage_stated": 16.07,
+        "child_population_total": 72914,
+        "child_sex_ratio": 987,
+        "female": 225280,
+        "literacy_rate_female": 54.64,
+        "literacy_rate_male": 76.11,
+        "literacy_rate_percentage": 65.45,
+        "literate_female": 103305,
+        "literate_male": 145851,
+        "literate_total": 249156,
+        "male": 228338,
+        "percentage_population": 68.84,
+        "population": 453618,
+        "sex_ratio": 987
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/485-korea.html",
+    "urban": {
+        "child_population_female": 10903,
+        "child_population_male": 11967,
+        "child_population_percentage": 11.14,
+        "child_population_percentage_calculated": 11.14,
+        "child_population_percentage_stated": 11.14,
+        "child_population_total": 22870,
+        "child_sex_ratio": 911,
+        "female": 98900,
+        "literacy_rate_female": 73.41,
+        "literacy_rate_male": 89.03,
+        "literacy_rate_percentage": 81.49,
+        "literate_female": 64595,
+        "literate_male": 84072,
+        "literate_total": 148667,
+        "male": 106399,
+        "percentage_population": 31.16,
+        "population": 205299,
+        "sex_ratio": 930
+    }
+}

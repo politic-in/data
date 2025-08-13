@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 108487,
+        "male": 120675,
+        "percentage_of_total_population": 13.9,
+        "percentage_of_total_population_calculated": 13.9,
+        "percentage_of_total_population_stated": 13.9,
+        "sex_ratio": 899,
+        "total": 229162
+    },
+    "literacy": {
+        "female_literacy_rate": 64.45,
+        "female_literate": 439314,
+        "male_literacy_rate": 81.09,
+        "male_literate": 598525,
+        "rate_percentage": 73.1,
+        "total_literate": 1037839
+    },
+    "population": {
+        "female": 790119,
+        "male": 858783,
+        "sex_ratio": 920,
+        "total": 1648902
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.03,
+            "population": 505
+        },
+        "Christian": {
+            "percentage": 0.37,
+            "population": 6064
+        },
+        "Hindu": {
+            "percentage": 66.98,
+            "population": 1104452
+        },
+        "Jain": {
+            "percentage": 0.04,
+            "population": 738
+        },
+        "Muslims": {
+            "percentage": 22.58,
+            "population": 372267
+        },
+        "Not Stated": {
+            "percentage": 0.12,
+            "population": 1949
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 159
+        },
+        "Sikh": {
+            "percentage": 9.87,
+            "population": 162768
+        }
+    },
+    "rural": {
+        "child_population_female": 71061,
+        "child_population_male": 78825,
+        "child_population_percentage": 14.11,
+        "child_population_percentage_calculated": 14.11,
+        "child_population_percentage_stated": 14.11,
+        "child_population_total": 149886,
+        "child_sex_ratio": 902,
+        "female": 511672,
+        "literacy_rate_female": 62.02,
+        "literacy_rate_male": 80.45,
+        "literacy_rate_percentage": 71.55,
+        "literate_female": 273280,
+        "literate_male": 379437,
+        "literate_total": 652717,
+        "male": 550470,
+        "percentage_population": 64.42,
+        "population": 1062142,
+        "sex_ratio": 930
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/585-udham-singh-nagar.html",
+    "urban": {
+        "child_population_female": 37414,
+        "child_population_male": 41862,
+        "child_population_percentage": 13.51,
+        "child_population_percentage_calculated": 13.51,
+        "child_population_percentage_stated": 13.51,
+        "child_population_total": 79276,
+        "child_sex_ratio": 894,
+        "female": 278447,
+        "literacy_rate_female": 68.88,
+        "literacy_rate_male": 82.22,
+        "literacy_rate_percentage": 75.89,
+        "literate_female": 166034,
+        "literate_male": 219088,
+        "literate_total": 385122,
+        "male": 308313,
+        "percentage_population": 35.58,
+        "population": 586760,
+        "sex_ratio": 903
+    }
+}

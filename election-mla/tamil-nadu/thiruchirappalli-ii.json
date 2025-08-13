@@ -1,0 +1,57 @@
+{
+  "state": "Tamil Nadu",
+  "constituency": "Thiruchirappalli-II",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 124230,
+        "total_votes_polled": 70413,
+        "turnout_percentage": 56.7,
+        "margin_votes": 7882,
+        "margin_percentage": 11.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "K. Soundararajan",
+          "party": "All India Anna Dravida Munnetra Kazhagam",
+          "votes": 25405,
+          "votes_percentage": 36.4
+        },
+        {
+          "position": 2,
+          "name": "M.S. Venkatachalam",
+          "party": "Dravida Munetra Kazhagam",
+          "votes": 17523,
+          "votes_percentage": 25.1
+        },
+        {
+          "position": 3,
+          "name": "N. Krishnan",
+          "party": "Janta Party",
+          "votes": 16841,
+          "votes_percentage": 24.1
+        },
+        {
+          "position": 4,
+          "name": "M. Ganam",
+          "party": "Communist Party Of India",
+          "votes": 9681,
+          "votes_percentage": 13.9
+        },
+        {
+          "position": 5,
+          "name": "S. Rathinam",
+          "party": "Independent",
+          "votes": 400,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

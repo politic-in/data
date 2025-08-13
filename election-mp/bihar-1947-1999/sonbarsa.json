@@ -1,0 +1,57 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "SONBARSA",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 402111,
+        "total_votes_polled": 197517,
+        "turnout_percentage": 49.1,
+        "margin_votes": 58223,
+        "margin_percentage": 29.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tulmohan Ram",
+          "party": "Indian National Congress",
+          "votes": 92622,
+          "votes_percentage": 46.9
+        },
+        {
+          "position": 2,
+          "name": "Rishideo Keshva",
+          "party": "Communist Party Of India",
+          "votes": 34399,
+          "votes_percentage": 17.4
+        },
+        {
+          "position": 3,
+          "name": "Mushar Kirai",
+          "party": "Socialist",
+          "votes": 29032,
+          "votes_percentage": 14.7
+        },
+        {
+          "position": 4,
+          "name": "Bateshwar Sada",
+          "party": "Swatantra",
+          "votes": 21466,
+          "votes_percentage": 10.9
+        },
+        {
+          "position": 5,
+          "name": "Bhikhan Rajak",
+          "party": "Praja Socialist Party",
+          "votes": 8832,
+          "votes_percentage": 4.5
+        }
+      ]
+    }
+  }
+}

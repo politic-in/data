@@ -1,0 +1,121 @@
+{
+  "district": "Nagapattinam",
+  "state": "Tamil Nadu",
+  "data_source_primary": "https://www.census2011.co.in/census/district/40-nagapattinam.html",
+  "data_source_secondary_sc_st": "https://www.censusindia.co.in/district/nagapattinam-district-tamil-nadu-618",
+  "demographics": {
+    "total_population": {
+      "total": 1616450,
+      "male": 798127,
+      "female": 818323,
+      "sex_ratio": 1025
+    },
+    "child_population_0_6": {
+      "total": 165245,
+      "male": 84335,
+      "female": 80910,
+      "sex_ratio": 959,
+      "percentage_of_total_population": 10.22
+    },
+    "literacy": {
+      "total_literate": 1213008,
+      "overall_literacy_rate_percentage": 83.59,
+      "male_literate": 640916,
+      "female_literate": 572092,
+      "male_literacy_rate_percentage": 89.79,
+      "female_literacy_rate_percentage": 77.58
+    },
+    "urban_rural_distribution": {
+      "urban": {
+        "population_percentage": 22.56,
+        "population_total": 364624,
+        "male": 178758,
+        "female": 185866,
+        "sex_ratio": 1040,
+        "child_population_0_6": {
+          "total": 37507,
+          "male": 19112,
+          "female": 18395,
+          "sex_ratio": 962,
+          "percentage_of_urban_population": 10.29
+        },
+        "literacy": {
+          "rate_percentage": 89.03,
+          "total_literate": 291222,
+          "male_literate": 149646,
+          "female_literate": 141576,
+          "male_literacy_rate_percentage": 93.74,
+          "female_literacy_rate_percentage": 84.54
+        }
+      },
+      "rural": {
+        "population_percentage": 77.44,
+        "population_total": 1251826,
+        "male": 619369,
+        "female": 632457,
+        "sex_ratio": 1021,
+        "child_population_0_6": {
+          "total": 127738,
+          "male": 65223,
+          "female": 62515,
+          "sex_ratio": 958,
+          "percentage_of_rural_population": 10.2
+        },
+        "literacy": {
+          "rate_percentage": 82.0,
+          "total_literate": 921786,
+          "male_literate": 491270,
+          "female_literate": 430516,
+          "male_literacy_rate_percentage": 88.65,
+          "female_literacy_rate_percentage": 75.54
+        }
+      }
+    },
+    "religion_distribution": {
+      "hindu": {
+        "percentage": 88.78,
+        "population": 1435072
+      },
+      "muslim": {
+        "percentage": 7.96,
+        "population": 128617
+      },
+      "christian": {
+        "percentage": 2.94,
+        "population": 47579
+      },
+      "sikh": {
+        "percentage": 0.01,
+        "population": 184
+      },
+      "buddhist": {
+        "percentage": 0.03,
+        "population": 450
+      },
+      "jain": {
+        "percentage": 0.06,
+        "population": 963
+      },
+      "others": {
+        "percentage": 0.01,
+        "population": 110
+      },
+      "not_stated": {
+        "percentage": 0.21,
+        "population": 3475
+      }
+    },
+    "scheduled_caste_population": {
+      "total": 509767,
+      "percentage_of_total_population": 31.5,
+      "male": 252332,
+      "female": 257435
+    },
+    "scheduled_tribe_population": {
+      "total": 3756,
+      "percentage_of_total_population": 0.2,
+      "male": 1847,
+      "female": 1909
+    }
+  }
+}

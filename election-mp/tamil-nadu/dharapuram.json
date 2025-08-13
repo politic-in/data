@@ -1,0 +1,36 @@
+{
+  "state": "Tamil Nadu",
+  "constituency": "DHARAPURAM",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 606592,
+        "total_votes_polled": 416568,
+        "turnout_percentage": 68.7,
+        "margin_votes": 116186,
+        "margin_percentage": 27.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "C. T. Dhandapani",
+          "party": "Dravida Munetra Kazhagam",
+          "votes": 260113,
+          "votes_percentage": 62.4
+        },
+        {
+          "position": 2,
+          "name": "K. Paramalai",
+          "party": "Indian National Congress (ORGANISATION)",
+          "votes": 143927,
+          "votes_percentage": 34.6
+        }
+      ]
+    }
+  }
+}

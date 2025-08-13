@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 22138,
+        "male": 24169,
+        "percentage_of_total_population": 14.03,
+        "percentage_of_total_population_calculated": 14.03,
+        "percentage_of_total_population_stated": 14.03,
+        "sex_ratio": 916,
+        "total": 46307
+    },
+    "literacy": {
+        "female_literacy_rate": 62.35,
+        "female_literate": 86889,
+        "male_literacy_rate": 88.79,
+        "male_literate": 128237,
+        "rate_percentage": 75.81,
+        "total_literate": 215126
+    },
+    "population": {
+        "female": 161489,
+        "male": 168597,
+        "sex_ratio": 958,
+        "total": 330086
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.17,
+            "population": 563
+        },
+        "Christian": {
+            "percentage": 0.11,
+            "population": 353
+        },
+        "Hindu": {
+            "percentage": 98.42,
+            "population": 324859
+        },
+        "Jain": {
+            "percentage": 0.02,
+            "population": 74
+        },
+        "Muslims": {
+            "percentage": 1.08,
+            "population": 3554
+        },
+        "Not Stated": {
+            "percentage": 0.12,
+            "population": 411
+        },
+        "Others": {
+            "percentage": 0.03,
+            "population": 105
+        },
+        "Sikh": {
+            "percentage": 0.05,
+            "population": 167
+        }
+    },
+    "rural": {
+        "child_population_female": 20972,
+        "child_population_male": 22691,
+        "child_population_percentage": 14.28,
+        "child_population_percentage_calculated": 14.28,
+        "child_population_percentage_stated": 14.28,
+        "child_population_total": 43663,
+        "child_sex_ratio": 924,
+        "female": 150406,
+        "literacy_rate_female": 60.89,
+        "literacy_rate_male": 88.25,
+        "literacy_rate_percentage": 74.74,
+        "literate_female": 78814,
+        "literate_male": 117095,
+        "literate_total": 195909,
+        "male": 155375,
+        "percentage_population": 92.64,
+        "population": 305781,
+        "sex_ratio": 968
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/574-uttarkashi.html",
+    "urban": {
+        "child_population_female": 1170,
+        "child_population_male": 1474,
+        "child_population_percentage": 10.88,
+        "child_population_percentage_calculated": 10.88,
+        "child_population_percentage_stated": 10.88,
+        "child_population_total": 2644,
+        "child_sex_ratio": 794,
+        "female": 11083,
+        "literacy_rate_female": 81.46,
+        "literacy_rate_male": 94.84,
+        "literacy_rate_percentage": 88.72,
+        "literate_female": 8075,
+        "literate_male": 11142,
+        "literate_total": 19217,
+        "male": 13222,
+        "percentage_population": 7.36,
+        "population": 24305,
+        "sex_ratio": 838
+    }
+}

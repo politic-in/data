@@ -1,0 +1,99 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Lunkarnsar",
+  "district": "Bikaner",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 217294,
+        "total_votes_polled": 170820,
+        "turnout_percentage": 79.6,
+        "margin_votes": 10853,
+        "margin_percentage": 6.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sumit Godara",
+          "party": "Bharatiya Janta Party",
+          "votes": 72822,
+          "votes_percentage": 42.6
+        },
+        {
+          "position": 2,
+          "name": "Virendra Beniwal",
+          "party": "Indian National Congress",
+          "votes": 61969,
+          "votes_percentage": 36.3
+        },
+        {
+          "position": 3,
+          "name": "Prabhudayal",
+          "party": "Independent",
+          "votes": 23892,
+          "votes_percentage": 14.0
+        },
+        {
+          "position": 4,
+          "name": "Pawan Kumar Ojha",
+          "party": "Bahujan Samaj Party",
+          "votes": 2720,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 5,
+          "name": "Lalchand Bhadu",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 2600,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 6,
+          "name": "Vijaypal Beniwal",
+          "party": "Rashtriya Loktantrik Party",
+          "votes": 2321,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 7,
+          "name": "Ghanshyam Meghwal",
+          "party": "Dalit Kranti Dal",
+          "votes": 1403,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 8,
+          "name": "Bindu Panwar",
+          "party": "Independent",
+          "votes": 1028,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 9,
+          "name": "Bharataram",
+          "party": "Independent",
+          "votes": 824,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 10,
+          "name": "Harbaksh Kour",
+          "party": "National Unionist Zamindara Party",
+          "votes": 815,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 11,
+          "name": "Bhanwar Lal",
+          "party": "Aam Aadmi Party",
+          "votes": 426,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

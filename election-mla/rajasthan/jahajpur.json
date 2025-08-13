@@ -1,0 +1,64 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Jahajpur",
+  "district": "Bhilwara",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 225929,
+        "total_votes_polled": 180895,
+        "turnout_percentage": 81.4,
+        "margin_votes": 13253,
+        "margin_percentage": 7.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gopi Chand Meena",
+          "party": "Bharatiya Janta Party",
+          "votes": 94970,
+          "votes_percentage": 52.5
+        },
+        {
+          "position": 2,
+          "name": "Dheeraj Gurjar",
+          "party": "Indian National Congress",
+          "votes": 81717,
+          "votes_percentage": 45.2
+        },
+        {
+          "position": 4,
+          "name": "Ratan Singh",
+          "party": "Independent",
+          "votes": 1551,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 3,
+          "name": "Nand Lal Khatik",
+          "party": "Bahujan Samaj Party",
+          "votes": 1551,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Kajod Mal",
+          "party": "Independent",
+          "votes": 623,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 6,
+          "name": "Ram Karan Meena",
+          "party": "National Future Party",
+          "votes": 483,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

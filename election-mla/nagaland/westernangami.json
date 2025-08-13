@@ -1,0 +1,43 @@
+{
+  "state": "Nagaland",
+  "constituency": "WESTERNANGAMI",
+  "district": "Kohima",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 16887,
+        "total_votes_polled": 13838,
+        "turnout_percentage": 82.5,
+        "margin_votes": 694,
+        "margin_percentage": 5.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Keneizhakho Nakhro",
+          "party": "Naga Peoples Front",
+          "votes": 6516,
+          "votes_percentage": 47.1
+        },
+        {
+          "position": 2,
+          "name": "Er.Kevisekho Kruse",
+          "party": "Nationalist Democratic Progressive Party",
+          "votes": 5822,
+          "votes_percentage": 42.1
+        },
+        {
+          "position": 3,
+          "name": "Asu Keyho",
+          "party": "National People's Party",
+          "votes": 1500,
+          "votes_percentage": 10.8
+        }
+      ]
+    }
+  }
+}

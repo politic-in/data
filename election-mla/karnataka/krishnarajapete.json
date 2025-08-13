@@ -1,0 +1,78 @@
+{
+  "state": "Karnataka",
+  "constituency": "Krishnarajapete",
+  "district": "Mandya",
+  "ac_type": "GEN",
+  "results": {
+    "2023": {
+      "poll_date": "10 May 2023",
+      "counting_date": "10 May 2023",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 219972,
+        "total_votes_polled": 188832,
+        "turnout_percentage": 86.2,
+        "margin_votes": 22344,
+        "margin_percentage": 11.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "H.T.Manju",
+          "party": "Janata Dal (Secular)",
+          "votes": 80646,
+          "votes_percentage": 42.6
+        },
+        {
+          "position": 2,
+          "name": "B.L.Devaraja",
+          "party": "Indian National Congress",
+          "votes": 58302,
+          "votes_percentage": 30.8
+        },
+        {
+          "position": 3,
+          "name": "Narayangowda",
+          "party": "Bharatiya Janta Party",
+          "votes": 38151,
+          "votes_percentage": 20.1
+        },
+        {
+          "position": 4,
+          "name": "Chandan Gowda.K",
+          "party": "Independent",
+          "votes": 8497,
+          "votes_percentage": 4.5
+        },
+        {
+          "position": 5,
+          "name": "Basthi Pradeepa",
+          "party": "Bahujan Samaj Party",
+          "votes": 1612,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Shivanna",
+          "party": "Aam Aadmi Party",
+          "votes": 787,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Vijayaramu H.J(SARANGI)",
+          "party": "Uttama Prajaakeeya Party",
+          "votes": 429,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "Kishora A.C",
+          "party": "Karnataka Rashtra Samithi",
+          "votes": 408,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

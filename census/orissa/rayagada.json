@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 72938,
+        "male": 75584,
+        "percentage_of_total_population": 15.34,
+        "percentage_of_total_population_calculated": 15.34,
+        "percentage_of_total_population_stated": 15.34,
+        "sex_ratio": 965,
+        "total": 148522
+    },
+    "literacy": {
+        "female_literacy_rate": 39.19,
+        "female_literate": 165776,
+        "male_literacy_rate": 61.04,
+        "male_literate": 241959,
+        "rate_percentage": 49.76,
+        "total_literate": 407735
+    },
+    "population": {
+        "female": 495951,
+        "male": 471960,
+        "sex_ratio": 1051,
+        "total": 967911
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.03,
+            "population": 249
+        },
+        "Christian": {
+            "percentage": 8.77,
+            "population": 84916
+        },
+        "Hindu": {
+            "percentage": 90.34,
+            "population": 874445
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 123
+        },
+        "Muslims": {
+            "percentage": 0.48,
+            "population": 4607
+        },
+        "Not Stated": {
+            "percentage": 0.34,
+            "population": 3308
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 44
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 219
+        }
+    },
+    "rural": {
+        "child_population_female": 64985,
+        "child_population_male": 67245,
+        "child_population_percentage": 16.11,
+        "child_population_percentage_calculated": 16.11,
+        "child_population_percentage_stated": 16.11,
+        "child_population_total": 132230,
+        "child_sex_ratio": 966,
+        "female": 423171,
+        "literacy_rate_female": 33.54,
+        "literacy_rate_male": 56.16,
+        "literacy_rate_percentage": 44.4,
+        "literate_female": 120128,
+        "literate_male": 185630,
+        "literate_total": 305758,
+        "male": 397774,
+        "percentage_population": 84.82,
+        "population": 820945,
+        "sex_ratio": 1064
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/420-rayagada.html",
+    "urban": {
+        "child_population_female": 7939,
+        "child_population_male": 8353,
+        "child_population_percentage": 11.09,
+        "child_population_percentage_calculated": 11.09,
+        "child_population_percentage_stated": 11.09,
+        "child_population_total": 16292,
+        "child_sex_ratio": 950,
+        "female": 72780,
+        "literacy_rate_female": 70.4,
+        "literacy_rate_male": 85.56,
+        "literacy_rate_percentage": 78.04,
+        "literate_female": 45648,
+        "literate_male": 56329,
+        "literate_total": 101977,
+        "male": 74186,
+        "percentage_population": 15.18,
+        "population": 146966,
+        "sex_ratio": 981
+    }
+}

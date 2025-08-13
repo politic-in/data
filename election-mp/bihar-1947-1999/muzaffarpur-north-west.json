@@ -1,0 +1,48 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "MUZAFFARPUR NORTH WEST",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 293890,
+        "total_votes_polled": 134435,
+        "turnout_percentage": 45.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chandeswar Narain Prasad Sinha",
+          "party": "Indian National Congress",
+          "votes": 51720,
+          "votes_percentage": 38.5
+        },
+        {
+          "position": 2,
+          "name": "Baijnath Pd. Verma",
+          "party": "Socialist Party",
+          "votes": 49238,
+          "votes_percentage": 36.6
+        },
+        {
+          "position": 3,
+          "name": "Thakur Jugal Kishore Singh",
+          "party": "Independent",
+          "votes": 27575,
+          "votes_percentage": 20.5
+        },
+        {
+          "position": 4,
+          "name": "Thakur Nag Narain Singh",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 5902,
+          "votes_percentage": 4.4
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "state": "Nagaland",
+  "constituency": "KOHIMATOWN",
+  "district": "Kohima",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 31489,
+        "total_votes_polled": 22838,
+        "turnout_percentage": 73.0,
+        "margin_votes": 2372,
+        "margin_percentage": 10.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr.Neikiesalie Nicky Kire",
+          "party": "Nationalist Democratic Progressive Party",
+          "votes": 12605,
+          "votes_percentage": 55.2
+        },
+        {
+          "position": 2,
+          "name": "Dr.Tseilhoutuo Rhutso",
+          "party": "Naga Peoples Front",
+          "votes": 10233,
+          "votes_percentage": 44.8
+        }
+      ]
+    }
+  }
+}

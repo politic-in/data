@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 449287,
+        "male": 494265,
+        "percentage_of_total_population": 16.16,
+        "percentage_of_total_population_calculated": 16.16,
+        "percentage_of_total_population_stated": 16.16,
+        "sex_ratio": 909,
+        "total": 943552
+    },
+    "literacy": {
+        "female_literacy_rate": 61.96,
+        "female_literate": 1431632,
+        "male_literacy_rate": 78.48,
+        "male_literate": 2028047,
+        "rate_percentage": 70.68,
+        "total_literate": 3459679
+    },
+    "population": {
+        "female": 2759953,
+        "male": 3078512,
+        "sex_ratio": 897,
+        "total": 5838465
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 1062
+        },
+        "Christian": {
+            "percentage": 0.21,
+            "population": 12551
+        },
+        "Hindu": {
+            "percentage": 91.74,
+            "population": 5356075
+        },
+        "Jain": {
+            "percentage": 0.04,
+            "population": 2151
+        },
+        "Muslims": {
+            "percentage": 7.54,
+            "population": 439952
+        },
+        "Not Stated": {
+            "percentage": 0.37,
+            "population": 21668
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 203
+        },
+        "Sikh": {
+            "percentage": 0.08,
+            "population": 4803
+        }
+    },
+    "rural": {
+        "child_population_female": 294737,
+        "child_population_male": 319223,
+        "child_population_percentage": 18.47,
+        "child_population_percentage_calculated": 18.47,
+        "child_population_percentage_stated": 18.47,
+        "child_population_total": 613960,
+        "child_sex_ratio": 923,
+        "female": 1577850,
+        "literacy_rate_female": 51.04,
+        "literacy_rate_male": 72.57,
+        "literacy_rate_percentage": 62.38,
+        "literate_female": 654899,
+        "literate_male": 1035473,
+        "literate_total": 1690372,
+        "male": 1746025,
+        "percentage_population": 56.93,
+        "population": 3323875,
+        "sex_ratio": 904
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/82-patna.html",
+    "urban": {
+        "child_population_female": 154587,
+        "child_population_male": 175005,
+        "child_population_percentage": 13.11,
+        "child_population_percentage_calculated": 13.11,
+        "child_population_percentage_stated": 13.11,
+        "child_population_total": 329592,
+        "child_sex_ratio": 883,
+        "female": 1182103,
+        "literacy_rate_female": 75.59,
+        "literacy_rate_male": 85.75,
+        "literacy_rate_percentage": 80.98,
+        "literate_female": 776733,
+        "literate_male": 992574,
+        "literate_total": 1769307,
+        "male": 1332487,
+        "percentage_population": 43.07,
+        "population": 2514590,
+        "sex_ratio": 887
+    }
+}

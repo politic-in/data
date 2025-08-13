@@ -1,0 +1,48 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "ETAH DISCTICT NORTH EAST CUM BUDAUN DISTT (EAST)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 352544,
+        "total_votes_polled": 153239,
+        "turnout_percentage": 43.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Raghubir Sahai",
+          "party": "Indian National Congress",
+          "votes": 63147,
+          "votes_percentage": 41.2
+        },
+        {
+          "position": 2,
+          "name": "Hakim Sing",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 40769,
+          "votes_percentage": 26.6
+        },
+        {
+          "position": 3,
+          "name": "Nihal Uddin",
+          "party": "Socialist Party",
+          "votes": 26082,
+          "votes_percentage": 17.0
+        },
+        {
+          "position": 4,
+          "name": "Pyare Lal",
+          "party": "Independent",
+          "votes": 23241,
+          "votes_percentage": 15.2
+        }
+      ]
+    }
+  }
+}

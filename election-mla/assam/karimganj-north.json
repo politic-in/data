@@ -1,0 +1,925 @@
+{
+  "state": "Assam",
+  "constituency": "Karimganj North",
+  "district": "Karimganj",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 15,
+      "aggregate": {
+        "total_electors": 189630,
+        "total_votes_polled": 145565,
+        "turnout_percentage": 77.4,
+        "margin_votes": 8324,
+        "margin_percentage": 5.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kamalakhya Dey Purkayastha",
+          "party": "Indian National Congress",
+          "votes": 60998,
+          "votes_percentage": 41.9
+        },
+        {
+          "position": 2,
+          "name": "Dr Manash Das",
+          "party": "Bharatiya Janta Party",
+          "votes": 52674,
+          "votes_percentage": 36.2
+        },
+        {
+          "position": 3,
+          "name": "Sahabul Islam Choudhury",
+          "party": "Independent",
+          "votes": 28044,
+          "votes_percentage": 19.3
+        },
+        {
+          "position": 4,
+          "name": "Nazrul Islam Choudhury",
+          "party": "All India Forward Bloc",
+          "votes": 858,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 5,
+          "name": "Debajyoti Deb Roy (SUJAN)",
+          "party": "Independent",
+          "votes": 578,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Jakir Hussain",
+          "party": "Independent",
+          "votes": 475,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "Lutfur Rahman",
+          "party": "Independent",
+          "votes": 467,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Nazim Uddin Khan",
+          "party": "Independent",
+          "votes": 434,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Ahad Uddin",
+          "party": "Rashtriya Ulama Council",
+          "votes": 314,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Sujit Kumar Paul",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 165,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Ruhul Quddus",
+          "party": "Independent",
+          "votes": 128,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Md Jubair Ahmed Choudhury",
+          "party": "Independent",
+          "votes": 121,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Abdul Jabbar Choudhury",
+          "party": "Independent",
+          "votes": 115,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Mohammad Abdul Batin",
+          "party": "Independent",
+          "votes": 102,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Gopal Chandra Paul",
+          "party": "Samajwadi Party",
+          "votes": 92,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 15,
+      "aggregate": {
+        "total_electors": 171472,
+        "total_votes_polled": 130107,
+        "turnout_percentage": 76.3,
+        "margin_votes": 468,
+        "margin_percentage": 0.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kamalakhya Dey Purkayastha",
+          "party": "Indian National Congress",
+          "votes": 45289,
+          "votes_percentage": 34.8
+        },
+        {
+          "position": 2,
+          "name": "Mission Ranjan Das",
+          "party": "Bharatiya Janta Party",
+          "votes": 44821,
+          "votes_percentage": 34.5
+        },
+        {
+          "position": 3,
+          "name": "Sahabul Islam Choudhury",
+          "party": "All India United Democratic Front",
+          "votes": 34207,
+          "votes_percentage": 26.3
+        },
+        {
+          "position": 4,
+          "name": "Nazrul Islam Choudhury",
+          "party": "Independent",
+          "votes": 1704,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 5,
+          "name": "Abdul Ahad Choudhury",
+          "party": "Independent",
+          "votes": 1052,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Moin Uddin",
+          "party": "Independent",
+          "votes": 708,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Arunangshu Bhattacharjee",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 468,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Muhammad Muhsin Alam",
+          "party": "Independent",
+          "votes": 420,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Sibir Ahmed",
+          "party": "Independent",
+          "votes": 265,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Bikash Kanti Roy",
+          "party": "Bharatiya Gana Parishad",
+          "votes": 253,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Deepan Nath",
+          "party": "Independent",
+          "votes": 241,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Kaysar Ahmed Choudhury",
+          "party": "Independent",
+          "votes": 237,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 13,
+          "name": "Amjad Hussain",
+          "party": "Independent",
+          "votes": 161,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Taj Uddin Choudhury",
+          "party": "Independent",
+          "votes": 144,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Arun Kumar Das",
+          "party": "Independent",
+          "votes": 137,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "04 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 13,
+      "aggregate": {
+        "total_electors": 157832,
+        "total_votes_polled": 108415,
+        "turnout_percentage": 68.7,
+        "margin_votes": 17770,
+        "margin_percentage": 16.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kamalakhya Dey Purkayastha",
+          "party": "Indian National Congress",
+          "votes": 45027,
+          "votes_percentage": 41.5
+        },
+        {
+          "position": 2,
+          "name": "Mission Ranjan Das",
+          "party": "Bharatiya Janta Party",
+          "votes": 27257,
+          "votes_percentage": 25.1
+        },
+        {
+          "position": 3,
+          "name": "Abdul Muqtadir Choudhury",
+          "party": "All India United Democratic Front",
+          "votes": 23497,
+          "votes_percentage": 21.7
+        },
+        {
+          "position": 4,
+          "name": "Nazrul Islam Choudhury",
+          "party": "Asom Gana Parisad",
+          "votes": 7784,
+          "votes_percentage": 7.2
+        },
+        {
+          "position": 5,
+          "name": "Satyajit Paul Purkayastha (SAJAL)",
+          "party": "Communist Party Of India",
+          "votes": 2388,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 6,
+          "name": "Sahab Uddin Choudhury",
+          "party": "Independent",
+          "votes": 530,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Piklu Das",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 433,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Akshay Suklabaidya",
+          "party": "Independent",
+          "votes": 334,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Sath Kari Saha",
+          "party": "Independent",
+          "votes": 318,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Bikash Kanti Roy",
+          "party": "Independent",
+          "votes": 252,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Sad Uddin",
+          "party": "Independent",
+          "votes": 217,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Baharul Islam Choudhury",
+          "party": "Independent",
+          "votes": 194,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 13,
+          "name": "Nitai Deb",
+          "party": "Independent",
+          "votes": 184,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2006": {
+      "poll_date": "04 March 2006",
+      "counting_date": "05 November 2006",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 153483,
+        "total_votes_polled": 99248,
+        "turnout_percentage": 64.7,
+        "margin_votes": 4681,
+        "margin_percentage": 4.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mission Ranjan Das",
+          "party": "Bharatiya Janta Party",
+          "votes": 32666,
+          "votes_percentage": 33.0
+        },
+        {
+          "position": 2,
+          "name": "Ketaki Prasad Dutta",
+          "party": "Indian National Congress",
+          "votes": 27985,
+          "votes_percentage": 28.2
+        },
+        {
+          "position": 3,
+          "name": "Hafiz Rashid Ahmed Choudhury",
+          "party": "Assam United Democratic Front",
+          "votes": 22786,
+          "votes_percentage": 23.0
+        },
+        {
+          "position": 4,
+          "name": "Nazrul Islam Choudhury",
+          "party": "Asom Gana Parisad",
+          "votes": 9647,
+          "votes_percentage": 9.7
+        },
+        {
+          "position": 5,
+          "name": "Chandan Chakraborty",
+          "party": "Communist Party Of India",
+          "votes": 2255,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 6,
+          "name": "Mustaque Ahmed",
+          "party": "Independent",
+          "votes": 1721,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 7,
+          "name": "Pranab Das",
+          "party": "Independent",
+          "votes": 797,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 8,
+          "name": "Arunangshu Bhattacharjee",
+          "party": "Independent",
+          "votes": 742,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 9,
+          "name": "Chandan Paul",
+          "party": "Independent",
+          "votes": 513,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "2001": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 139739,
+        "total_votes_polled": 99075,
+        "turnout_percentage": 70.9,
+        "margin_votes": 17321,
+        "margin_percentage": 17.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mission Ranjan Das",
+          "party": "Bharatiya Janta Party",
+          "votes": 45429,
+          "votes_percentage": 46.4
+        },
+        {
+          "position": 2,
+          "name": "Hafiz Rashid Ahmed Choudhury",
+          "party": "United Minorities Front, Assam",
+          "votes": 28108,
+          "votes_percentage": 28.7
+        },
+        {
+          "position": 3,
+          "name": "Parimal Ranjan Roy",
+          "party": "Indian National Congress",
+          "votes": 12414,
+          "votes_percentage": 12.7
+        },
+        {
+          "position": 4,
+          "name": "Nazrul Islam Choudhury",
+          "party": "Independent",
+          "votes": 9074,
+          "votes_percentage": 9.3
+        },
+        {
+          "position": 5,
+          "name": "Chandan Chakraborty",
+          "party": "Communist Party Of India",
+          "votes": 1749,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 6,
+          "name": "Arunangshu Bhattacharjee",
+          "party": "Independent",
+          "votes": 356,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Sultan Ahmed Choudhury",
+          "party": "Independent",
+          "votes": 258,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Sahanara Begum (Choudhury)",
+          "party": "Independent",
+          "votes": 250,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Benu Bhushan Nath",
+          "party": "All India Trinamool Congress",
+          "votes": 246,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "1996": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 17,
+      "aggregate": {
+        "total_electors": 129800,
+        "total_votes_polled": 96133,
+        "turnout_percentage": 74.1,
+        "margin_votes": 1305,
+        "margin_percentage": 1.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sirajul Haque Choudhury",
+          "party": "Asom Gana Parisad",
+          "votes": 36866,
+          "votes_percentage": 39.6
+        },
+        {
+          "position": 2,
+          "name": "Mission Ranjan Das",
+          "party": "Bharatiya Janta Party",
+          "votes": 35561,
+          "votes_percentage": 38.2
+        },
+        {
+          "position": 3,
+          "name": "Ketaki Prosad Dutta",
+          "party": "Independent",
+          "votes": 12768,
+          "votes_percentage": 13.7
+        },
+        {
+          "position": 4,
+          "name": "Uttam Mazumdar",
+          "party": "Indian National Congress",
+          "votes": 4848,
+          "votes_percentage": 5.2
+        },
+        {
+          "position": 5,
+          "name": "Harun Rashid Choudhury",
+          "party": "All India Indira Congress (TIWARI)",
+          "votes": 499,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Arunangshu Bhattacharya",
+          "party": "Independent",
+          "votes": 444,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Suruj Ali",
+          "party": "Independent",
+          "votes": 290,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Akhil Ranjan Dey",
+          "party": "Independent",
+          "votes": 280,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Satya Ranjan Acharjee",
+          "party": "Janata Dal",
+          "votes": 261,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Jatindra Chandra Das",
+          "party": "Independent",
+          "votes": 246,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 11,
+          "name": "Surojit Dey",
+          "party": "Independent",
+          "votes": 221,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Subodh Ranjan Paul",
+          "party": "Independent",
+          "votes": 170,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 13,
+          "name": "Gopal Chandra Paul",
+          "party": "Independent",
+          "votes": 167,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 14,
+          "name": "Abdus Sattar",
+          "party": "Independent",
+          "votes": 156,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 15,
+          "name": "Dulal Chandra Paul",
+          "party": "Independent",
+          "votes": 102,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "Abul Kalam Bahar",
+          "party": "Independent",
+          "votes": 93,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 17,
+          "name": "Majnul Haque Choudhury",
+          "party": "Independent",
+          "votes": 49,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1991": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 13,
+      "aggregate": {
+        "total_electors": 116035,
+        "total_votes_polled": 84590,
+        "turnout_percentage": 72.9,
+        "margin_votes": 13209,
+        "margin_percentage": 15.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mission Ranjan Das",
+          "party": "Bharatiya Janta Party",
+          "votes": 34288,
+          "votes_percentage": 42.7
+        },
+        {
+          "position": 2,
+          "name": "Sirajul Haque Choudhury",
+          "party": "Asom Gana Parisad",
+          "votes": 21079,
+          "votes_percentage": 26.3
+        },
+        {
+          "position": 3,
+          "name": "Ketaki Prasad Dutta",
+          "party": "Indian National Congress",
+          "votes": 10356,
+          "votes_percentage": 12.9
+        },
+        {
+          "position": 4,
+          "name": "Nishit Ranjan Das",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 6193,
+          "votes_percentage": 7.7
+        },
+        {
+          "position": 5,
+          "name": "Satyabrata Roy",
+          "party": "Janata Dal",
+          "votes": 4232,
+          "votes_percentage": 5.3
+        },
+        {
+          "position": 6,
+          "name": "Kamal Uddin Ahmed",
+          "party": "United Minorities Front Assam",
+          "votes": 1175,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 7,
+          "name": "Harun Rashid Choudhury",
+          "party": "Independent",
+          "votes": 883,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 8,
+          "name": "Abdul Basit Choudhury",
+          "party": "Jharkhand Party",
+          "votes": 744,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 9,
+          "name": "Tushar Das",
+          "party": "Independent",
+          "votes": 383,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 10,
+          "name": "Nitya Bhusan Das",
+          "party": "Natun Asom Gana Parishad",
+          "votes": 329,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 11,
+          "name": "Abdur Rakib Choudhury",
+          "party": "Independent",
+          "votes": 293,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 12,
+          "name": "Subodh Chandra Paul",
+          "party": "United Reservation Movement Council Of Assam",
+          "votes": 270,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 13,
+          "name": "Ajit Das Gupta",
+          "party": "Independent",
+          "votes": 44,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1985": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 100306,
+        "total_votes_polled": 72998,
+        "turnout_percentage": 72.8,
+        "margin_votes": 1457,
+        "margin_percentage": 2.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sirajul Hoque Choudhury",
+          "party": "Independent",
+          "votes": 23511,
+          "votes_percentage": 34.7
+        },
+        {
+          "position": 2,
+          "name": "Nishith Das",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 22054,
+          "votes_percentage": 32.6
+        },
+        {
+          "position": 3,
+          "name": "Ketaki Prasad Dutta",
+          "party": "Indian National Congress",
+          "votes": 10376,
+          "votes_percentage": 15.3
+        },
+        {
+          "position": 4,
+          "name": "Nripati Ranjan Choudhury",
+          "party": "Indian Congress (SOCIALIST)",
+          "votes": 8394,
+          "votes_percentage": 12.4
+        },
+        {
+          "position": 5,
+          "name": "Satyabrata Roy",
+          "party": "Independent",
+          "votes": 2173,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 6,
+          "name": "Nikhil Ranjan Das Choudhury",
+          "party": "Independent",
+          "votes": 678,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 7,
+          "name": "Himangshu Shekhar Das",
+          "party": "Janta Party",
+          "votes": 379,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "Siddeque Ahmed Choudhury",
+          "party": "Independent",
+          "votes": 155,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "1983": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 100190,
+        "total_votes_polled": 52430,
+        "turnout_percentage": 52.3,
+        "margin_votes": 10094,
+        "margin_percentage": 19.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ketaki Prasad Dutta",
+          "party": "Indian National Congress",
+          "votes": 25795,
+          "votes_percentage": 50.1
+        },
+        {
+          "position": 2,
+          "name": "Nishith Ranjan Das",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 15701,
+          "votes_percentage": 30.5
+        },
+        {
+          "position": 3,
+          "name": "Sirajul Haque Choudhury",
+          "party": "Independent",
+          "votes": 8767,
+          "votes_percentage": 17.0
+        },
+        {
+          "position": 4,
+          "name": "Debdas Roy",
+          "party": "Independent",
+          "votes": 645,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 5,
+          "name": "Shafiqul Choudhury",
+          "party": "Independent",
+          "votes": 628,
+          "votes_percentage": 1.2
+        }
+      ]
+    },
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 88311,
+        "total_votes_polled": 54214,
+        "turnout_percentage": 61.4,
+        "margin_votes": 6554,
+        "margin_percentage": 12.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nishith Ranjan Das",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 19870,
+          "votes_percentage": 37.3
+        },
+        {
+          "position": 2,
+          "name": "Abdul Basit Choudhury",
+          "party": "Indian National Congress",
+          "votes": 13316,
+          "votes_percentage": 25.0
+        },
+        {
+          "position": 3,
+          "name": "Rajendra Mohan Das",
+          "party": "Janta Party",
+          "votes": 12503,
+          "votes_percentage": 23.5
+        },
+        {
+          "position": 4,
+          "name": "Abdul Rouf Choudhury",
+          "party": "Indian National Congress (I)",
+          "votes": 4261,
+          "votes_percentage": 8.0
+        },
+        {
+          "position": 5,
+          "name": "Nurul Haque Choudhury",
+          "party": "Independent",
+          "votes": 2083,
+          "votes_percentage": 3.9
+        },
+        {
+          "position": 6,
+          "name": "Dilip Kumar Deb",
+          "party": "Independent",
+          "votes": 1049,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 7,
+          "name": "Abdul Bosit Choudhury",
+          "party": "Independent",
+          "votes": 151,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

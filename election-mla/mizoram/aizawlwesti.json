@@ -1,0 +1,64 @@
+{
+  "state": "Mizoram",
+  "constituency": "AIZAWLWESTI",
+  "district": "Aizawl",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 23191,
+        "total_votes_polled": 20318,
+        "turnout_percentage": 87.9,
+        "margin_votes": 1060,
+        "margin_percentage": 5.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Lalduhoma",
+          "party": "Independent",
+          "votes": 7889,
+          "votes_percentage": 38.8
+        },
+        {
+          "position": 2,
+          "name": "K. Sangthuama",
+          "party": "Mizo National Front",
+          "votes": 6829,
+          "votes_percentage": 33.6
+        },
+        {
+          "position": 3,
+          "name": "P.C. Laltlansanga",
+          "party": "Indian National Congress",
+          "votes": 5039,
+          "votes_percentage": 24.8
+        },
+        {
+          "position": 4,
+          "name": "Lalrodinga Colney",
+          "party": "Bharatiya Janta Party",
+          "votes": 287,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 5,
+          "name": "Zaichhawna Hlawndo",
+          "party": "Independent",
+          "votes": 228,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Lalhruaia",
+          "party": "Nationalist Congress Party",
+          "votes": 46,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

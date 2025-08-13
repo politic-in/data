@@ -1,0 +1,113 @@
+{
+  "state": "Assam",
+  "constituency": "Barkhetri",
+  "district": "Nalbari",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 184516,
+        "total_votes_polled": 172578,
+        "turnout_percentage": 94.0,
+        "margin_votes": 4054,
+        "margin_percentage": 2.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Diganta Barman",
+          "party": "Indian National Congress",
+          "votes": 85826,
+          "votes_percentage": 49.7
+        },
+        {
+          "position": 2,
+          "name": "Narayan Deka",
+          "party": "Bharatiya Janta Party",
+          "votes": 81772,
+          "votes_percentage": 47.4
+        },
+        {
+          "position": 3,
+          "name": "Pulakesh Baruah",
+          "party": "Assam Jatiya Parishad",
+          "votes": 2582,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 4,
+          "name": "Champak Kalita",
+          "party": "All India United Democratic Front",
+          "votes": 1106,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 5,
+          "name": "Santanu Kalita",
+          "party": "Janata Dal (United)",
+          "votes": 805,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Bhupen Talukdar",
+          "party": "Independent",
+          "votes": 487,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "04 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 153244,
+        "total_votes_polled": 118481,
+        "turnout_percentage": 77.3,
+        "margin_votes": 6346,
+        "margin_percentage": 5.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bhumidhar Barman",
+          "party": "Indian National Congress",
+          "votes": 53958,
+          "votes_percentage": 45.5
+        },
+        {
+          "position": 2,
+          "name": "Pulakesh Barua",
+          "party": "Asom Gana Parisad",
+          "votes": 47612,
+          "votes_percentage": 40.2
+        },
+        {
+          "position": 3,
+          "name": "Mumtaz  Uddin Ahmed",
+          "party": "All India United Democratic Front",
+          "votes": 13236,
+          "votes_percentage": 11.2
+        },
+        {
+          "position": 4,
+          "name": "Diban Deka",
+          "party": "Bharatiya Janta Party",
+          "votes": 2328,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 5,
+          "name": "Manoj Kumar Deka",
+          "party": "All India Trinamool Congress",
+          "votes": 1347,
+          "votes_percentage": 1.1
+        }
+      ]
+    }
+  }
+}

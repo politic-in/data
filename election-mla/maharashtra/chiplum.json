@@ -1,0 +1,50 @@
+{
+  "state": "Maharashtra",
+  "constituency": "Chiplum",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 89111,
+        "total_votes_polled": 52156,
+        "turnout_percentage": 58.5,
+        "margin_votes": 6905,
+        "margin_percentage": 13.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rajaram  Shinde",
+          "party": "Janata Party (JP)",
+          "votes": 22245,
+          "votes_percentage": 43.7
+        },
+        {
+          "position": 2,
+          "name": "Shinde Raghunath Gopalrao",
+          "party": "Indian National Congress (I)",
+          "votes": 15340,
+          "votes_percentage": 30.1
+        },
+        {
+          "position": 3,
+          "name": "Govindrao Nikam",
+          "party": "Independent",
+          "votes": 13110,
+          "votes_percentage": 25.8
+        },
+        {
+          "position": 4,
+          "name": "Gajanan Hanamantrao Mahadik",
+          "party": "Independent",
+          "votes": 208,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

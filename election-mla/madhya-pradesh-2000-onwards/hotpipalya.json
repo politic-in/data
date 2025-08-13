@@ -1,0 +1,78 @@
+{
+  "state": "Madhya Pradesh [2000 Onwards]",
+  "constituency": "Hotpipalya",
+  "district": "Dewas",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 182250,
+        "total_votes_polled": 157962,
+        "turnout_percentage": 87.7,
+        "margin_votes": 13519,
+        "margin_percentage": 8.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Manoj Narayan Singh Choudhary",
+          "party": "Indian National Congress",
+          "votes": 83337,
+          "votes_percentage": 52.8
+        },
+        {
+          "position": 2,
+          "name": "Deepak Kailash Joshi",
+          "party": "Bharatiya Janta Party",
+          "votes": 69818,
+          "votes_percentage": 44.2
+        },
+        {
+          "position": 3,
+          "name": "Santosh- Khangode",
+          "party": "Bahujan Samaj Party",
+          "votes": 2347,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 4,
+          "name": "Hamid Ali",
+          "party": "Independent",
+          "votes": 772,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "Ishvar Choudhary",
+          "party": "Independent",
+          "votes": 484,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 6,
+          "name": "Radheshyam Ganguli",
+          "party": "Bahujan Sangharshh Dal",
+          "votes": 440,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "C.A. Mahendra Singh",
+          "party": "Aam Aadmi Party",
+          "votes": 404,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Bablu Khan",
+          "party": "Independent",
+          "votes": 360,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

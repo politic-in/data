@@ -1,0 +1,43 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Palakol",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1989": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 121830,
+        "total_votes_polled": 90548,
+        "turnout_percentage": 74.3,
+        "margin_votes": 1394,
+        "margin_percentage": 1.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chegondi Venkata Hara Rama Jogaiah",
+          "party": "Indian National Congress",
+          "votes": 43973,
+          "votes_percentage": 49.7
+        },
+        {
+          "position": 2,
+          "name": "Ilu Venkata Satyanarayana",
+          "party": "Telugu Desam",
+          "votes": 42579,
+          "votes_percentage": 48.1
+        },
+        {
+          "position": 3,
+          "name": "Guru Prasada Rao Chintapalli",
+          "party": "Independent",
+          "votes": 1921,
+          "votes_percentage": 2.2
+        }
+      ]
+    }
+  }
+}

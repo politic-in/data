@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 81975,
+        "male": 91389,
+        "percentage_of_total_population": 16.73,
+        "percentage_of_total_population_calculated": 16.73,
+        "percentage_of_total_population_stated": 16.73,
+        "sex_ratio": 897,
+        "total": 173364
+    },
+    "literacy": {
+        "female_literacy_rate": 39.73,
+        "female_literate": 166906,
+        "male_literacy_rate": 69.98,
+        "male_literate": 309900,
+        "rate_percentage": 55.25,
+        "total_literate": 476806
+    },
+    "population": {
+        "female": 502115,
+        "male": 534231,
+        "sex_ratio": 940,
+        "total": 1036346
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 114
+        },
+        "Christian": {
+            "percentage": 0.12,
+            "population": 1284
+        },
+        "Hindu": {
+            "percentage": 96.16,
+            "population": 996562
+        },
+        "Jain": {
+            "percentage": 0.66,
+            "population": 6829
+        },
+        "Muslims": {
+            "percentage": 2.94,
+            "population": 30479
+        },
+        "Not Stated": {
+            "percentage": 0.04,
+            "population": 450
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 56
+        },
+        "Sikh": {
+            "percentage": 0.06,
+            "population": 572
+        }
+    },
+    "rural": {
+        "child_population_female": 69973,
+        "child_population_male": 77442,
+        "child_population_percentage": 17.81,
+        "child_population_percentage_calculated": 17.81,
+        "child_population_percentage_stated": 17.81,
+        "child_population_total": 147415,
+        "child_sex_ratio": 904,
+        "female": 403440,
+        "literacy_rate_female": 32.66,
+        "literacy_rate_male": 64.62,
+        "literacy_rate_percentage": 48.95,
+        "literate_female": 108896,
+        "literate_male": 224113,
+        "literate_total": 333009,
+        "male": 424252,
+        "percentage_population": 79.87,
+        "population": 827692,
+        "sex_ratio": 951
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/442-sirohi.html",
+    "urban": {
+        "child_population_female": 12021,
+        "child_population_male": 13928,
+        "child_population_percentage": 12.44,
+        "child_population_percentage_calculated": 12.44,
+        "child_population_percentage_stated": 12.44,
+        "child_population_total": 25949,
+        "child_sex_ratio": 863,
+        "female": 98675,
+        "literacy_rate_female": 66.94,
+        "literacy_rate_male": 89.31,
+        "literacy_rate_percentage": 78.7,
+        "literate_female": 58010,
+        "literate_male": 85787,
+        "literate_total": 143797,
+        "male": 109979,
+        "percentage_population": 20.13,
+        "population": 208654,
+        "sex_ratio": 897
+    }
+}

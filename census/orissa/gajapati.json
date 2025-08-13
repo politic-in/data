@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 42762,
+        "male": 44222,
+        "percentage_of_total_population": 15.05,
+        "percentage_of_total_population_calculated": 15.05,
+        "percentage_of_total_population_stated": 15.05,
+        "sex_ratio": 967,
+        "total": 86984
+    },
+    "literacy": {
+        "female_literacy_rate": 43.18,
+        "female_literate": 108874,
+        "male_literacy_rate": 64.38,
+        "male_literate": 153663,
+        "rate_percentage": 53.49,
+        "total_literate": 262537
+    },
+    "population": {
+        "female": 294935,
+        "male": 282882,
+        "sex_ratio": 1043,
+        "total": 577817
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.38,
+            "population": 2180
+        },
+        "Christian": {
+            "percentage": 37.98,
+            "population": 219482
+        },
+        "Hindu": {
+            "percentage": 61.12,
+            "population": 353160
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 66
+        },
+        "Muslims": {
+            "percentage": 0.27,
+            "population": 1556
+        },
+        "Not Stated": {
+            "percentage": 0.23,
+            "population": 1316
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 4
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 53
+        }
+    },
+    "rural": {
+        "child_population_female": 39297,
+        "child_population_male": 40387,
+        "child_population_percentage": 15.71,
+        "child_population_percentage_calculated": 15.71,
+        "child_population_percentage_stated": 15.71,
+        "child_population_total": 79684,
+        "child_sex_ratio": 973,
+        "female": 259496,
+        "literacy_rate_female": 39.16,
+        "literacy_rate_male": 61.24,
+        "literacy_rate_percentage": 49.87,
+        "literate_female": 86226,
+        "literate_male": 126934,
+        "literate_total": 213160,
+        "male": 247655,
+        "percentage_population": 87.77,
+        "population": 507151,
+        "sex_ratio": 1048
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/413-gajapati.html",
+    "urban": {
+        "child_population_female": 3475,
+        "child_population_male": 3825,
+        "child_population_percentage": 10.33,
+        "child_population_percentage_calculated": 10.33,
+        "child_population_percentage_stated": 10.33,
+        "child_population_total": 7300,
+        "child_sex_ratio": 908,
+        "female": 35439,
+        "literacy_rate_female": 70.85,
+        "literacy_rate_male": 85.12,
+        "literacy_rate_percentage": 77.92,
+        "literate_female": 22648,
+        "literate_male": 26729,
+        "literate_total": 49377,
+        "male": 35227,
+        "percentage_population": 12.23,
+        "population": 70666,
+        "sex_ratio": 1006
+    }
+}

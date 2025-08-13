@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 133486,
+        "male": 152207,
+        "percentage_of_total_population": 15.11,
+        "percentage_of_total_population_calculated": 15.11,
+        "percentage_of_total_population_stated": 15.11,
+        "sex_ratio": 877,
+        "total": 285693
+    },
+    "literacy": {
+        "female_literacy_rate": 64.79,
+        "female_literate": 486943,
+        "male_literacy_rate": 81.04,
+        "male_literate": 691411,
+        "rate_percentage": 73.43,
+        "total_literate": 1178354
+    },
+    "population": {
+        "female": 885127,
+        "male": 1005295,
+        "sex_ratio": 880,
+        "total": 1890422
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.04,
+            "population": 709
+        },
+        "Christian": {
+            "percentage": 0.26,
+            "population": 4878
+        },
+        "Hindu": {
+            "percentage": 64.27,
+            "population": 1214935
+        },
+        "Jain": {
+            "percentage": 0.13,
+            "population": 2501
+        },
+        "Muslims": {
+            "percentage": 34.28,
+            "population": 648119
+        },
+        "Not Stated": {
+            "percentage": 0.1,
+            "population": 1870
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 46
+        },
+        "Sikh": {
+            "percentage": 0.92,
+            "population": 17364
+        }
+    },
+    "rural": {
+        "child_population_female": 92765,
+        "child_population_male": 105031,
+        "child_population_percentage": 16.52,
+        "child_population_percentage_calculated": 16.52,
+        "child_population_percentage_stated": 16.52,
+        "child_population_total": 197796,
+        "child_sex_ratio": 883,
+        "female": 563544,
+        "literacy_rate_female": 58.11,
+        "literacy_rate_male": 77.36,
+        "literacy_rate_percentage": 68.29,
+        "literate_female": 273563,
+        "literate_male": 409053,
+        "literate_total": 682616,
+        "male": 633784,
+        "percentage_population": 63.34,
+        "population": 1197328,
+        "sex_ratio": 889
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/586-haridwar.html",
+    "urban": {
+        "child_population_female": 40755,
+        "child_population_male": 47142,
+        "child_population_percentage": 12.68,
+        "child_population_percentage_calculated": 12.68,
+        "child_population_percentage_stated": 12.68,
+        "child_population_total": 87897,
+        "child_sex_ratio": 865,
+        "female": 321583,
+        "literacy_rate_female": 75.98,
+        "literacy_rate_male": 87.05,
+        "literacy_rate_percentage": 81.91,
+        "literate_female": 213380,
+        "literate_male": 282358,
+        "literate_total": 495738,
+        "male": 371511,
+        "percentage_population": 36.66,
+        "population": 693094,
+        "sex_ratio": 866
+    }
+}

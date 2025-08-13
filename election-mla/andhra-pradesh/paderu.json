@@ -1,0 +1,472 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Paderu",
+  "district": "Visakhapatnam",
+  "ac_type": "ST",
+  "results": {
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 195431,
+        "total_votes_polled": 110297,
+        "turnout_percentage": 56.4,
+        "total_valid_votes": 110040,
+        "total_valid_votes_percentage": 56.3,
+        "margin_votes": 587,
+        "margin_percentage": 0.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pasupuleti Balaraju",
+          "party": "Indian National Congress",
+          "votes": 35653,
+          "votes_percentage": 32.4
+        },
+        {
+          "position": 2,
+          "name": "Goddeti Demudu",
+          "party": "Communist Party Of India",
+          "votes": 35066,
+          "votes_percentage": 31.9
+        },
+        {
+          "position": 3,
+          "name": "Tamarbha Krishnaveni",
+          "party": "Praja Rajyam Party",
+          "votes": 16894,
+          "votes_percentage": 15.4
+        },
+        {
+          "position": 4,
+          "name": "Sageni Venkataramana",
+          "party": "Independent",
+          "votes": 5978,
+          "votes_percentage": 5.4
+        },
+        {
+          "position": 5,
+          "name": "Balayya Padal Bonangi",
+          "party": "Bharatiya Janta Party",
+          "votes": 3849,
+          "votes_percentage": 3.5
+        },
+        {
+          "position": 6,
+          "name": "Lake Rajarao",
+          "party": "Bahujan Samaj Party",
+          "votes": 3787,
+          "votes_percentage": 3.4
+        },
+        {
+          "position": 7,
+          "name": "Madela Balanna Dora",
+          "party": "Lok Satta Party",
+          "votes": 2670,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 8,
+          "name": "Duddu Laxmoji",
+          "party": "Rashtriya Janata Dal",
+          "votes": 2655,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 9,
+          "name": "Apparao Kinjedi",
+          "party": "Independent",
+          "votes": 1760,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 10,
+          "name": "Kannababu Kokkula",
+          "party": "Independent",
+          "votes": 1728,
+          "votes_percentage": 1.6
+        }
+      ]
+    },
+    "2004": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 178798,
+        "total_votes_polled": 107803,
+        "turnout_percentage": 60.3,
+        "margin_votes": 7555,
+        "margin_percentage": 7.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Lake Rajarao",
+          "party": "Bahujan Samaj Party",
+          "votes": 33890,
+          "votes_percentage": 31.4
+        },
+        {
+          "position": 2,
+          "name": "Ravi Sankar Samida",
+          "party": "Independent",
+          "votes": 26335,
+          "votes_percentage": 24.4
+        },
+        {
+          "position": 3,
+          "name": "Matsyarasa Manikumari",
+          "party": "Telugu Desam",
+          "votes": 23523,
+          "votes_percentage": 21.8
+        },
+        {
+          "position": 4,
+          "name": "Balaraju Matsyarasa",
+          "party": "Indian National Congress",
+          "votes": 20052,
+          "votes_percentage": 18.6
+        },
+        {
+          "position": 5,
+          "name": "Vanugu Sankara Rao",
+          "party": "Independent",
+          "votes": 4013,
+          "votes_percentage": 3.7
+        }
+      ]
+    },
+    "1999": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 159257,
+        "total_votes_polled": 97996,
+        "turnout_percentage": 61.5,
+        "margin_votes": 4426,
+        "margin_percentage": 4.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Manikumari Matyarasa",
+          "party": "Telugu Desam",
+          "votes": 26160,
+          "votes_percentage": 28.3
+        },
+        {
+          "position": 2,
+          "name": "Lake Rajarao",
+          "party": "Bahujan Samaj Party",
+          "votes": 21734,
+          "votes_percentage": 23.5
+        },
+        {
+          "position": 3,
+          "name": "Manglanna Seedari",
+          "party": "Ntr Telugu Desam Party (LAKSHMI PARVATHI)",
+          "votes": 18201,
+          "votes_percentage": 19.7
+        },
+        {
+          "position": 4,
+          "name": "Jarsingi Balam Naidu",
+          "party": "Indian National Congress",
+          "votes": 14147,
+          "votes_percentage": 15.3
+        },
+        {
+          "position": 5,
+          "name": "Setti Lakshmanudu",
+          "party": "Anna Telugu Desam Party",
+          "votes": 12373,
+          "votes_percentage": 13.4
+        }
+      ]
+    },
+    "1994": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 146340,
+        "total_votes_polled": 80003,
+        "turnout_percentage": 54.7,
+        "margin_votes": 12238,
+        "margin_percentage": 15.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kottagulli Chitti Naidu",
+          "party": "Telugu Desam",
+          "votes": 27923,
+          "votes_percentage": 36.5
+        },
+        {
+          "position": 2,
+          "name": "Balaraju Matsyarasa",
+          "party": "Indian National Congress",
+          "votes": 15685,
+          "votes_percentage": 20.5
+        },
+        {
+          "position": 3,
+          "name": "Nandoli Gasanna",
+          "party": "Bharatiya Janta Party",
+          "votes": 15534,
+          "votes_percentage": 20.3
+        },
+        {
+          "position": 4,
+          "name": "Lake Raja Rao",
+          "party": "Bahujan Samaj Party",
+          "votes": 10638,
+          "votes_percentage": 13.9
+        },
+        {
+          "position": 5,
+          "name": "Madela Balanna",
+          "party": "Samata Party",
+          "votes": 6783,
+          "votes_percentage": 8.9
+        }
+      ]
+    },
+    "1989": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 131711,
+        "total_votes_polled": 51408,
+        "turnout_percentage": 39.0,
+        "margin_votes": 14464,
+        "margin_percentage": 28.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Matsyarasa Balaraju",
+          "party": "Indian National Congress",
+          "votes": 27501,
+          "votes_percentage": 57.0
+        },
+        {
+          "position": 2,
+          "name": "Venkataraju Matsyarasa",
+          "party": "Telugu Desam",
+          "votes": 13037,
+          "votes_percentage": 27.0
+        },
+        {
+          "position": 3,
+          "name": "Nandoli Gasanna",
+          "party": "Independent",
+          "votes": 7740,
+          "votes_percentage": 16.0
+        }
+      ]
+    },
+    "1985": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 105285,
+        "total_votes_polled": 35376,
+        "turnout_percentage": 33.6,
+        "margin_votes": 113,
+        "margin_percentage": 0.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kotta Gulli Chitti Naidu",
+          "party": "Telugu Desam",
+          "votes": 11342,
+          "votes_percentage": 33.6
+        },
+        {
+          "position": 2,
+          "name": "Matcharasa Bala Raju",
+          "party": "Indian National Congress",
+          "votes": 11229,
+          "votes_percentage": 33.3
+        },
+        {
+          "position": 3,
+          "name": "Sallangi Narayana",
+          "party": "Independent",
+          "votes": 6710,
+          "votes_percentage": 19.9
+        },
+        {
+          "position": 4,
+          "name": "Kurusabo Jiayya",
+          "party": "Independent",
+          "votes": 4141,
+          "votes_percentage": 12.3
+        },
+        {
+          "position": 5,
+          "name": "Killo Narayana Padal",
+          "party": "Independent",
+          "votes": 346,
+          "votes_percentage": 1.0
+        }
+      ]
+    },
+    "1983": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 12,
+      "aggregate": {
+        "total_electors": 92974,
+        "total_votes_polled": 29819,
+        "turnout_percentage": 32.1,
+        "margin_votes": 2568,
+        "margin_percentage": 8.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tammarba Chitti Naidu",
+          "party": "Indian National Congress",
+          "votes": 8810,
+          "votes_percentage": 31.0
+        },
+        {
+          "position": 2,
+          "name": "Setti Lakshmanudu",
+          "party": "Independent",
+          "votes": 6242,
+          "votes_percentage": 22.0
+        },
+        {
+          "position": 3,
+          "name": "Kottagulli Chitti Naidu",
+          "party": "Independent",
+          "votes": 3267,
+          "votes_percentage": 11.5
+        },
+        {
+          "position": 4,
+          "name": "Chittapuli Mandu Padalu",
+          "party": "Independent",
+          "votes": 2772,
+          "votes_percentage": 9.8
+        },
+        {
+          "position": 5,
+          "name": "Danasani Kondanna Dora",
+          "party": "Independent",
+          "votes": 2265,
+          "votes_percentage": 8.0
+        },
+        {
+          "position": 6,
+          "name": "Kurusa Bojjayya",
+          "party": "Bharatiya Janta Party",
+          "votes": 1866,
+          "votes_percentage": 6.6
+        },
+        {
+          "position": 7,
+          "name": "Pangi Malam Naidu",
+          "party": "Independent",
+          "votes": 991,
+          "votes_percentage": 3.5
+        },
+        {
+          "position": 8,
+          "name": "Giddi Appala Naidu",
+          "party": "Independent",
+          "votes": 673,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 9,
+          "name": "Gujjalla Kondububu",
+          "party": "Janta Party",
+          "votes": 533,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 10,
+          "name": "N. Bheema Naik",
+          "party": "Independent",
+          "votes": 453,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 11,
+          "name": "Gulella Peddabbi",
+          "party": "Independent",
+          "votes": 338,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 12,
+          "name": "Bakuru Konda Babu",
+          "party": "Independent",
+          "votes": 194,
+          "votes_percentage": 0.7
+        }
+      ]
+    },
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 88148,
+        "total_votes_polled": 26227,
+        "turnout_percentage": 29.8,
+        "margin_votes": 2507,
+        "margin_percentage": 9.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Giddi Appalanaidu",
+          "party": "Janta Party",
+          "votes": 12653,
+          "votes_percentage": 50.7
+        },
+        {
+          "position": 2,
+          "name": "Thamarba Chittinaidu",
+          "party": "Indian National Congress",
+          "votes": 10146,
+          "votes_percentage": 40.6
+        },
+        {
+          "position": 3,
+          "name": "Sontena David Lakshmaji",
+          "party": "Independent",
+          "votes": 1090,
+          "votes_percentage": 4.4
+        },
+        {
+          "position": 4,
+          "name": "Kanta Mutyalu",
+          "party": "Independent",
+          "votes": 557,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 5,
+          "name": "Adapa Gangunaidu",
+          "party": "Independent",
+          "votes": 519,
+          "votes_percentage": 2.1
+        }
+      ]
+    }
+  }
+}

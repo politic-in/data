@@ -1,0 +1,113 @@
+{
+  "district": "Karur",
+  "state": "Tamil Nadu",
+  "data_source": {
+    "primary": "https://www.census2011.co.in/census/district/35-karur.html",
+    "sc_st": "https://www.censusindia.co.in/district/karur-district-tamil-nadu-613"
+  },
+  "population": {
+    "total": 1064493,
+    "male": 528184,
+    "female": 536309,
+    "sex_ratio": 1015
+  },
+  "child_population": {
+    "total_0_6_years": 102731,
+    "male_0_6_years": 52969,
+    "female_0_6_years": 49762,
+    "sex_ratio_0_6_years": 939,
+    "percentage_of_total_population_0_6_years": 9.65
+  },
+  "literacy": {
+    "rate_percentage": 75.6,
+    "total_literate": 727044,
+    "male_literate": 401726,
+    "female_literate": 325318,
+    "male_literacy_rate_percentage": 84.54,
+    "female_literacy_rate_percentage": 66.86
+  },
+  "urban_population": {
+    "percentage_of_total_population": 40.82,
+    "population": 434517,
+    "male": 215556,
+    "female": 218961,
+    "sex_ratio": 1016,
+    "child_population_0_6_years": 41467,
+    "child_male_0_6_years": 21527,
+    "child_female_0_6_years": 19940,
+    "child_sex_ratio_0_6_years": 926,
+    "child_percentage_of_urban_population_0_6_years": 9.54,
+    "literacy_rate_percentage": 84.7,
+    "literate": 332910,
+    "male_literate": 177295,
+    "female_literate": 155615,
+    "male_literacy_rate_percentage": 91.38,
+    "female_literacy_rate_percentage": 78.19
+  },
+  "rural_population": {
+    "percentage_of_total_population": 59.18,
+    "population": 629976,
+    "male": 312628,
+    "female": 317348,
+    "sex_ratio": 1015,
+    "child_population_0_6_years": 61264,
+    "child_male_0_6_years": 31442,
+    "child_female_0_6_years": 29822,
+    "child_sex_ratio_0_6_years": 948,
+    "child_percentage_of_rural_population_0_6_years": 9.72,
+    "literacy_rate_percentage": 69.3,
+    "literate": 394134,
+    "male_literate": 224431,
+    "female_literate": 169703,
+    "male_literacy_rate_percentage": 79.82,
+    "female_literacy_rate_percentage": 59.02
+  },
+  "religion_distribution": {
+    "hindu": {
+      "percentage": 93.35,
+      "population": 993666
+    },
+    "muslim": {
+      "percentage": 5.01,
+      "population": 53292
+    },
+    "christian": {
+      "percentage": 1.55,
+      "population": 16483
+    },
+    "sikh": {
+      "percentage": 0.01,
+      "population": 115
+    },
+    "buddhist": {
+      "percentage": 0.0,
+      "population": 29
+    },
+    "jain": {
+      "percentage": 0.0,
+      "population": 7
+    },
+    "others": {
+      "percentage": 0.01,
+      "population": 79
+    },
+    "not_stated": {
+      "percentage": 0.08,
+      "population": 822
+    }
+  },
+  "sc_st_population": {
+    "scheduled_caste": {
+      "total": 221385,
+      "percentage_of_total_population": 20.8,
+      "male": 108809,
+      "female": 112576
+    },
+    "scheduled_tribe": {
+      "total": 575,
+      "percentage_of_total_population": 0.1,
+      "male": 297,
+      "female": 278
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "GONDA DISTRICT (EAST) CUM BASTI DISTRICT (WEST)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 337344,
+        "total_votes_polled": 117305,
+        "turnout_percentage": 34.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kesho Deo Malviya",
+          "party": "Indian National Congress",
+          "votes": 68516,
+          "votes_percentage": 58.4
+        },
+        {
+          "position": 2,
+          "name": "Bishwa Nath Prasad Ag",
+          "party": "Akhil Bharatiya Hindu Mahasabha",
+          "votes": 29251,
+          "votes_percentage": 24.9
+        },
+        {
+          "position": 3,
+          "name": "Katreshwar Prasad",
+          "party": "Socialist Party",
+          "votes": 7774,
+          "votes_percentage": 6.6
+        },
+        {
+          "position": 4,
+          "name": "Ram Charittar",
+          "party": "Independent",
+          "votes": 7526,
+          "votes_percentage": 6.4
+        },
+        {
+          "position": 5,
+          "name": "Harban Singh",
+          "party": "Revolutionary Socialist Party",
+          "votes": 4238,
+          "votes_percentage": 3.6
+        }
+      ]
+    }
+  }
+}

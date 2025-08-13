@@ -1,0 +1,50 @@
+{
+  "state": "Madhya Pradesh [2000 Onwards]",
+  "constituency": "Khairlanjee",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2003": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 97041,
+        "total_votes_polled": 78896,
+        "turnout_percentage": 81.3,
+        "margin_votes": 4451,
+        "margin_percentage": 5.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bodh Singh Bhagat",
+          "party": "Bharatiya Janta Party",
+          "votes": 30344,
+          "votes_percentage": 38.5
+        },
+        {
+          "position": 2,
+          "name": "Ajab Lal",
+          "party": "Bahujan Samaj Party",
+          "votes": 25893,
+          "votes_percentage": 32.8
+        },
+        {
+          "position": 3,
+          "name": "Doman Singh Nagpure Alies ( Baba Patel )",
+          "party": "Republican Party Of India",
+          "votes": 19706,
+          "votes_percentage": 25.0
+        },
+        {
+          "position": 4,
+          "name": "Satyavan Wasnik",
+          "party": "Samajwadi Party",
+          "votes": 2953,
+          "votes_percentage": 3.7
+        }
+      ]
+    }
+  }
+}

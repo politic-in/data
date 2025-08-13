@@ -1,0 +1,601 @@
+{
+  "state": "Kerala",
+  "constituency": "Kozhikode",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2024": {
+      "poll_date": "19 April 2024",
+      "counting_date": "01 June 2024",
+      "total_contestants": 13,
+      "aggregate": {
+        "total_electors": 1429631,
+        "total_votes_polled": 1090050,
+        "turnout_percentage": 76.3,
+        "margin_votes": 146176,
+        "margin_percentage": 13.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "M. K. Raghavan",
+          "party": "Indian National Congress",
+          "votes": 520421,
+          "votes_percentage": 47.7
+        },
+        {
+          "position": 2,
+          "name": "Elamaram Kareem",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 374245,
+          "votes_percentage": 34.3
+        },
+        {
+          "position": 3,
+          "name": "M. T. Ramesh",
+          "party": "Bharatiya Janta Party",
+          "votes": 180666,
+          "votes_percentage": 16.6
+        },
+        {
+          "position": 4,
+          "name": "Aramukhan",
+          "party": "Bahujan Samaj Party",
+          "votes": 1715,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 5,
+          "name": "Aravindakshan Nair M. K.",
+          "party": "Bharatheeya Jawan Kisan Party",
+          "votes": 1305,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 6,
+          "name": "Raghavan S/o Narayanan Nair",
+          "party": "Independent",
+          "votes": 1096,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 7,
+          "name": "T. Raghavan S/o Vellankutty",
+          "party": "Independent",
+          "votes": 1018,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "N. Raghavan S/o Damu",
+          "party": "Independent",
+          "votes": 782,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Subha",
+          "party": "Independent",
+          "votes": 712,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Dr. M. Jyothiraj",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 653,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Abdul Kareem S/o Mahammood",
+          "party": "Independent",
+          "votes": 541,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 12,
+          "name": "Abdul Kareem K. S/o Assain",
+          "party": "Independent",
+          "votes": 293,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 13,
+          "name": "Abdul Kareem S/o Ayammath Kutty",
+          "party": "Independent",
+          "votes": 287,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "2019": {
+      "poll_date": "23 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 14,
+      "aggregate": {
+        "total_electors": 1245068,
+        "total_votes_polled": 1076193,
+        "turnout_percentage": 86.7,
+        "margin_votes": 85225,
+        "margin_percentage": 7.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "M.K.Raghavan",
+          "party": "Indian National Congress",
+          "votes": 493444,
+          "votes_percentage": 45.9
+        },
+        {
+          "position": 2,
+          "name": "A.Pradeep Kumar",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 408219,
+          "votes_percentage": 37.9
+        },
+        {
+          "position": 3,
+          "name": "Adv.Prakash Babu",
+          "party": "Bharatiya Janta Party",
+          "votes": 161216,
+          "votes_percentage": 15.0
+        },
+        {
+          "position": 4,
+          "name": "Raghu.K",
+          "party": "Bahujan Samaj Party",
+          "votes": 2299,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 5,
+          "name": "Raghavan.P Vadakke Edoli",
+          "party": "Independent",
+          "votes": 1160,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 6,
+          "name": "Raghavan.T Thayyullayil",
+          "party": "Independent",
+          "votes": 1077,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 7,
+          "name": "A.Sekhar",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1031,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "Raghavan Nair Manikkothu Kunnummal",
+          "party": "Independent",
+          "votes": 962,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Pradeep Kumar.E.T Peedikathodi Veedu",
+          "party": "Independent",
+          "votes": 760,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Prakash Babu Chaithram",
+          "party": "Independent",
+          "votes": 571,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Nusrath Jahan",
+          "party": "Independent",
+          "votes": 558,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Pradeepan.N",
+          "party": "Independent",
+          "votes": 551,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Raghavn.N Allachiparambu",
+          "party": "Independent",
+          "votes": 462,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 14,
+          "name": "Pradeep.V.K",
+          "party": "Independent",
+          "votes": 410,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "10 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 13,
+      "aggregate": {
+        "total_electors": 1182484,
+        "total_votes_polled": 943009,
+        "turnout_percentage": 79.8,
+        "margin_votes": 16883,
+        "margin_percentage": 1.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "M .K Raghavan",
+          "party": "Indian National Congress",
+          "votes": 397615,
+          "votes_percentage": 42.2
+        },
+        {
+          "position": 2,
+          "name": "A.Vijayaraghavan",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 380732,
+          "votes_percentage": 40.4
+        },
+        {
+          "position": 3,
+          "name": "C K.Padmanabhan",
+          "party": "Bharatiya Janta Party",
+          "votes": 115760,
+          "votes_percentage": 12.3
+        },
+        {
+          "position": 4,
+          "name": "K P Ratheesh",
+          "party": "Aam Aadmi Party",
+          "votes": 13934,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Musthafa Kommeri",
+          "party": "Social Democratic Party Of India",
+          "votes": 10596,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Adv.N.P.Prathap Kumar",
+          "party": "Independent",
+          "votes": 6993,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "M.Vijayaraghavan",
+          "party": "Independent",
+          "votes": 2665,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "M Raghavan",
+          "party": "Independent",
+          "votes": 2331,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Vijayaraghavan.K.",
+          "party": "Independent",
+          "votes": 1991,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Velayudhan K.P.",
+          "party": "Bahujan Samaj Party",
+          "votes": 1909,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "V M Raghavan",
+          "party": "Independent",
+          "votes": 964,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Thrissur Nazeer",
+          "party": "Independent",
+          "votes": 665,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Muhammed Riyas",
+          "party": "Independent",
+          "votes": 473,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 16,
+      "aggregate": {
+        "total_electors": 1053817,
+        "total_votes_polled": 799996,
+        "turnout_percentage": 75.9,
+        "margin_votes": 838,
+        "margin_percentage": 0.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "M.K. Raghavan",
+          "party": "Indian National Congress",
+          "votes": 342309,
+          "votes_percentage": 42.8
+        },
+        {
+          "position": 2,
+          "name": "Adv. P.A. Mohamed Riyas",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 341471,
+          "votes_percentage": 42.7
+        },
+        {
+          "position": 3,
+          "name": "V. Muraleedharan",
+          "party": "Bharatiya Janta Party",
+          "votes": 89718,
+          "votes_percentage": 11.2
+        },
+        {
+          "position": 4,
+          "name": "Adv. P. Kumarankutty",
+          "party": "Independent",
+          "votes": 5871,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "A.K. Abdul Nasar",
+          "party": "Bahujan Samaj Party",
+          "votes": 4044,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Dr. D.Surendranath",
+          "party": "Independent",
+          "votes": 2257,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "K. Raghavan",
+          "party": "Independent",
+          "votes": 1740,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "Riyas",
+          "party": "Independent",
+          "votes": 1728,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Vinod K.",
+          "party": "Independent",
+          "votes": 1629,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Adv. Sabi Joseph",
+          "party": "Independent",
+          "votes": 1163,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "P.A. Mohammed Riyas",
+          "party": "Independent",
+          "votes": 1109,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "M. Raghavan",
+          "party": "Independent",
+          "votes": 1033,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "K. Muhammed Riyas",
+          "party": "Independent",
+          "votes": 1026,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "P. Ramachandran Nair",
+          "party": "Independent",
+          "votes": 1005,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "P. Muhammed Riyas",
+          "party": "Independent",
+          "votes": 980,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "Mudoor Muhammed Haji",
+          "party": "Independent",
+          "votes": 495,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 595499,
+        "total_votes_polled": 367454,
+        "turnout_percentage": 61.7,
+        "margin_votes": 72076,
+        "margin_percentage": 19.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ibrahim Sulaiman Sait",
+          "party": "Muslim Leage",
+          "votes": 195206,
+          "votes_percentage": 53.1
+        },
+        {
+          "position": 2,
+          "name": "Palat Kunni Koya",
+          "party": "Independent",
+          "votes": 123130,
+          "votes_percentage": 33.5
+        },
+        {
+          "position": 3,
+          "name": "M. P. Veerendra Kumar",
+          "party": "Samyukta Socialist Party",
+          "votes": 44758,
+          "votes_percentage": 12.2
+        }
+      ]
+    },
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 495721,
+        "total_votes_polled": 387366,
+        "turnout_percentage": 78.1,
+        "margin_votes": 81873,
+        "margin_percentage": 21.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "E. S. Sait",
+          "party": "Muslim Leage",
+          "votes": 215136,
+          "votes_percentage": 55.5
+        },
+        {
+          "position": 2,
+          "name": "N. K. S. Nair",
+          "party": "Indian National Congress",
+          "votes": 133263,
+          "votes_percentage": 34.4
+        },
+        {
+          "position": 3,
+          "name": "I. G. Menoki",
+          "party": "Bhartiya Jan Sangh",
+          "votes": 25155,
+          "votes_percentage": 6.5
+        }
+      ]
+    },
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 434064,
+        "total_votes_polled": 312672,
+        "turnout_percentage": 72.0,
+        "margin_votes": 763,
+        "margin_percentage": 0.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "C. H. Muhammed Koya",
+          "party": "Muslim League",
+          "votes": 104277,
+          "votes_percentage": 33.4
+        },
+        {
+          "position": 2,
+          "name": "H. Manjunatha Rao",
+          "party": "Communist Party Of India",
+          "votes": 103514,
+          "votes_percentage": 33.1
+        },
+        {
+          "position": 3,
+          "name": "K. P. Kuttykrishnan Nair",
+          "party": "Indian National Congress",
+          "votes": 89332,
+          "votes_percentage": 28.6
+        },
+        {
+          "position": 4,
+          "name": "T. N. Bharathan",
+          "party": "Jan Sangh",
+          "votes": 9834,
+          "votes_percentage": 3.1
+        }
+      ]
+    },
+    "1957": {
+      "poll_date": "25 February 1957",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 452798,
+        "total_votes_polled": 268664,
+        "turnout_percentage": 59.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kuttikrishnan Nair",
+          "party": "Indian National Congress",
+          "votes": 103492,
+          "votes_percentage": 38.5
+        },
+        {
+          "position": 2,
+          "name": "Seethi Sahib Kottapurath",
+          "party": "Independent",
+          "votes": 89550,
+          "votes_percentage": 33.3
+        },
+        {
+          "position": 3,
+          "name": "Krishnan Kallat",
+          "party": "Communist Party Of India",
+          "votes": 75622,
+          "votes_percentage": 28.1
+        }
+      ]
+    }
+  }
+}

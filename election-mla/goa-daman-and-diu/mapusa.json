@@ -1,0 +1,57 @@
+{
+  "state": "Goa, Daman And Diu",
+  "constituency": "Mapusa",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 19210,
+        "total_votes_polled": 14056,
+        "turnout_percentage": 73.2,
+        "margin_votes": 1081,
+        "margin_percentage": 7.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nevagi Shamsunder Jairam",
+          "party": "Indian National Congress (U)",
+          "votes": 6640,
+          "votes_percentage": 49.2
+        },
+        {
+          "position": 2,
+          "name": "Sirsat Surendra Vasant",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 5559,
+          "votes_percentage": 41.2
+        },
+        {
+          "position": 3,
+          "name": "Tople Raghunath Anant",
+          "party": "Janta Party",
+          "votes": 857,
+          "votes_percentage": 6.4
+        },
+        {
+          "position": 4,
+          "name": "Prabhu Bhaskar Rajaram",
+          "party": "Independent",
+          "votes": 227,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 5,
+          "name": "Nasnodkar Narayan Anant",
+          "party": "Janta Party (SECULAR)",
+          "votes": 212,
+          "votes_percentage": 1.6
+        }
+      ]
+    }
+  }
+}

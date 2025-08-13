@@ -1,0 +1,43 @@
+{
+  "state": "Tamil Nadu",
+  "constituency": "MAYURAM",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 503830,
+        "total_votes_polled": 399879,
+        "turnout_percentage": 79.4,
+        "margin_votes": 66373,
+        "margin_percentage": 16.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "K. Subravelu",
+          "party": "Dravida Munetra Kazhagam",
+          "votes": 207304,
+          "votes_percentage": 51.8
+        },
+        {
+          "position": 2,
+          "name": "K. Rajangam",
+          "party": "Indian National Congress (ORGANISATION)",
+          "votes": 140931,
+          "votes_percentage": 35.2
+        },
+        {
+          "position": 3,
+          "name": "P. S. Dhanushkodi",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 36829,
+          "votes_percentage": 9.2
+        }
+      ]
+    }
+  }
+}

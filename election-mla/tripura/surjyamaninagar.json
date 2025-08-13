@@ -1,0 +1,64 @@
+{
+  "state": "Tripura",
+  "constituency": "Surjyamaninagar",
+  "district": "West Tripura",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 49015,
+        "total_votes_polled": 46238,
+        "turnout_percentage": 95.0,
+        "margin_votes": 4567,
+        "margin_percentage": 9.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ram Prasad Paul",
+          "party": "Bharatiya Janta Party",
+          "votes": 24874,
+          "votes_percentage": 53.8
+        },
+        {
+          "position": 2,
+          "name": "Rajkumar Choudhury",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 20307,
+          "votes_percentage": 43.9
+        },
+        {
+          "position": 3,
+          "name": "Prasanta Bhattacharjee",
+          "party": "Indian National Congress",
+          "votes": 436,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Jagadish Das",
+          "party": "Amra Bangalee",
+          "votes": 282,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Krishna Kanta Debnath",
+          "party": "All India Trinamool Congress",
+          "votes": 199,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Raju Das",
+          "party": "Republican Party Of India",
+          "votes": 140,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,617 @@
+{
+  "state": "Jharkhand",
+  "constituency": "Dumka",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "2024": {
+      "poll_date": "19 April 2024",
+      "counting_date": "01 June 2024",
+      "total_contestants": 19,
+      "aggregate": {
+        "total_electors": 1591061,
+        "total_votes_polled": 1184132,
+        "turnout_percentage": 74.4,
+        "margin_votes": 22527,
+        "margin_percentage": 1.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nalin Soren",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 547370,
+          "votes_percentage": 46.2
+        },
+        {
+          "position": 2,
+          "name": "Sita Murmu",
+          "party": "Bharatiya Janta Party",
+          "votes": 524843,
+          "votes_percentage": 44.3
+        },
+        {
+          "position": 3,
+          "name": "Mahashon Murmu",
+          "party": "Independent",
+          "votes": 21372,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 4,
+          "name": "Babylata Tudu",
+          "party": "Independent",
+          "votes": 19360,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 5,
+          "name": "Rajesh Kisku",
+          "party": "Communist Party Of India",
+          "votes": 11506,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Dr. Srilal Kisku",
+          "party": "Independent",
+          "votes": 9416,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 7,
+          "name": "Paresh Marandi",
+          "party": "Bahujan Samaj Party",
+          "votes": 7733,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 8,
+          "name": "Anil Tudu",
+          "party": "Lokhit Adhikar Party",
+          "votes": 6818,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 9,
+          "name": "Sushanti Hembrom",
+          "party": "Independent",
+          "votes": 5152,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 10,
+          "name": "Manoj Hembrom",
+          "party": "Independent",
+          "votes": 4816,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 11,
+          "name": "Biren Mohli",
+          "party": "Independent",
+          "votes": 4418,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 12,
+          "name": "Raju Emanuel Murmu",
+          "party": "Ambedkarite Party Of India",
+          "votes": 3060,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 13,
+          "name": "Kamishnar Murmu",
+          "party": "Independent",
+          "votes": 2516,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 14,
+          "name": "Baghrai Soren",
+          "party": "Independent",
+          "votes": 2256,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 15,
+          "name": "Sanjay Tudu",
+          "party": "Independent",
+          "votes": 2174,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 16,
+          "name": "Munni Hansda",
+          "party": "Samata Party",
+          "votes": 1758,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 17,
+          "name": "Nirmal Soren",
+          "party": "Independent",
+          "votes": 1713,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 18,
+          "name": "Alesh Hansda",
+          "party": "Indian National Socialistic Action Forces",
+          "votes": 1674,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 19,
+          "name": "Jonathan Mardi",
+          "party": "Peoples Party Of India (Democratic)",
+          "votes": 1651,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 15,
+      "aggregate": {
+        "total_electors": 1349843,
+        "total_votes_polled": 1025968,
+        "turnout_percentage": 77.1,
+        "margin_votes": 47590,
+        "margin_percentage": 4.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sunil Soren",
+          "party": "Bharatiya Janta Party",
+          "votes": 484923,
+          "votes_percentage": 47.3
+        },
+        {
+          "position": 2,
+          "name": "Shibu Soren",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 437333,
+          "votes_percentage": 42.6
+        },
+        {
+          "position": 3,
+          "name": "Dr. Shrilal Kisku",
+          "party": "Independent",
+          "votes": 16562,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 4,
+          "name": "Senapati Murmu",
+          "party": "Communist Party Of India",
+          "votes": 16157,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 5,
+          "name": "Arjun Pujhar",
+          "party": "All India Trinamool Congress",
+          "votes": 13104,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 6,
+          "name": "Samuel Tudu",
+          "party": "Independent",
+          "votes": 12609,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 7,
+          "name": "Rajesh Besra",
+          "party": "Independent",
+          "votes": 5882,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "Thakuroon Soren",
+          "party": "Independent",
+          "votes": 5571,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 9,
+          "name": "Raska Soren",
+          "party": "Independent",
+          "votes": 5135,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 10,
+          "name": "Stephan Besra",
+          "party": "Bahujan Samaj Party",
+          "votes": 3273,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 11,
+          "name": "Ramesh Tudu",
+          "party": "Independent",
+          "votes": 2579,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 12,
+          "name": "Probina Murmu",
+          "party": "Independent",
+          "votes": 2230,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 13,
+          "name": "Mohril Murmu",
+          "party": "Independent",
+          "votes": 2213,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 14,
+          "name": "Baghrai Soren",
+          "party": "Independent",
+          "votes": 2075,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 15,
+          "name": "Satish Soren",
+          "party": "Jharkhand People's Party",
+          "votes": 1926,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "24 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 14,
+      "aggregate": {
+        "total_electors": 1247155,
+        "total_votes_polled": 903060,
+        "turnout_percentage": 72.4,
+        "margin_votes": 39030,
+        "margin_percentage": 4.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shibu Soren",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 335815,
+          "votes_percentage": 37.2
+        },
+        {
+          "position": 2,
+          "name": "Sunil Soren",
+          "party": "Bharatiya Janta Party",
+          "votes": 296785,
+          "votes_percentage": 32.9
+        },
+        {
+          "position": 3,
+          "name": "Babu Lal Marandi",
+          "party": "Jharkhand Vikas Morcha (Prajatantrik)",
+          "votes": 158122,
+          "votes_percentage": 17.5
+        },
+        {
+          "position": 4,
+          "name": "Chhaya Kole",
+          "party": "Communist Party Of India",
+          "votes": 26442,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 5,
+          "name": "Shrilal Kisku",
+          "party": "Independent",
+          "votes": 10347,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Pulis Hemram",
+          "party": "Independent",
+          "votes": 10283,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 7,
+          "name": "Baghrai Soren",
+          "party": "Independent",
+          "votes": 9436,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 8,
+          "name": "Sokol Hansda",
+          "party": "Bahujan Samaj Party",
+          "votes": 9059,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 9,
+          "name": "Babulal Soren",
+          "party": "All India Trinamool Congress",
+          "votes": 6284,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 10,
+          "name": "Bitiya Manjhi",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 5813,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 11,
+          "name": "Joshil Murmu",
+          "party": "Independent",
+          "votes": 4567,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 12,
+          "name": "Stephan Besra",
+          "party": "Jharkhand Disom Party",
+          "votes": 4310,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 13,
+          "name": "Sahadeo Soren",
+          "party": "Aam Aadmi Party",
+          "votes": 3739,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 14,
+          "name": "Umanath Kole",
+          "party": "Independent",
+          "votes": 3733,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 19,
+      "aggregate": {
+        "total_electors": 1128361,
+        "total_votes_polled": 622736,
+        "turnout_percentage": 55.2,
+        "margin_votes": 18812,
+        "margin_percentage": 3.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shibu Soren",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 208518,
+          "votes_percentage": 33.5
+        },
+        {
+          "position": 2,
+          "name": "Sunil Soren",
+          "party": "Bharatiya Janta Party",
+          "votes": 189706,
+          "votes_percentage": 30.5
+        },
+        {
+          "position": 3,
+          "name": "Ramesh Hembrom",
+          "party": "Jharkhand Vikas Morcha (Prajatantrik)",
+          "votes": 64528,
+          "votes_percentage": 10.4
+        },
+        {
+          "position": 4,
+          "name": "Pashupati Kol",
+          "party": "Communist Party Of India",
+          "votes": 24620,
+          "votes_percentage": 4.0
+        },
+        {
+          "position": 5,
+          "name": "Nandlal Soren",
+          "party": "Independent",
+          "votes": 19437,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 6,
+          "name": "Ramesh Tudu",
+          "party": "Rashtriya Janata Dal",
+          "votes": 17326,
+          "votes_percentage": 2.8
+        },
+        {
+          "position": 7,
+          "name": "Bivisan Pujhar",
+          "party": "Independent",
+          "votes": 16892,
+          "votes_percentage": 2.7
+        },
+        {
+          "position": 8,
+          "name": "Churka Tudu",
+          "party": "Bahujan Samaj Party",
+          "votes": 12670,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 9,
+          "name": "Pulice Hemram",
+          "party": "Independent",
+          "votes": 9262,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 10,
+          "name": "Arjun Pujhar",
+          "party": "Samajwadi Party",
+          "votes": 9112,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 11,
+          "name": "Phatik Chandra Hembram",
+          "party": "Ajsu Party",
+          "votes": 7987,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 12,
+          "name": "Bitiya Manjhi",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 7790,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 13,
+          "name": "Kaleshwar Soren",
+          "party": "Independent",
+          "votes": 7343,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 14,
+          "name": "Charles Murmu",
+          "party": "Independent",
+          "votes": 7244,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 15,
+          "name": "Hopna Baski",
+          "party": "Independent",
+          "votes": 5216,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 16,
+          "name": "Nirmala Murmu",
+          "party": "Revolutionary Socialist Party",
+          "votes": 5097,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 17,
+          "name": "Ramjivan Dehri",
+          "party": "Samata Party",
+          "votes": 4170,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 18,
+          "name": "Cyril Hansda",
+          "party": "Independent",
+          "votes": 2795,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 19,
+          "name": "Sona Murmu",
+          "party": "Independent",
+          "votes": 2299,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "2004": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 1083200,
+        "total_votes_polled": 625043,
+        "turnout_percentage": 57.7,
+        "margin_votes": 115015,
+        "margin_percentage": 18.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shibu Soren",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 339542,
+          "votes_percentage": 54.3
+        },
+        {
+          "position": 2,
+          "name": "Sone Lal Hembrom",
+          "party": "Bharatiya Janta Party",
+          "votes": 224527,
+          "votes_percentage": 35.9
+        },
+        {
+          "position": 3,
+          "name": "Baijnath Manjhi",
+          "party": "Bahujan Samaj Party",
+          "votes": 13478,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 4,
+          "name": "Jonathan Tudu",
+          "party": "All Jharkhand Students Union",
+          "votes": 12325,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 5,
+          "name": "Sona Murmu",
+          "party": "Independent",
+          "votes": 9132,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 6,
+          "name": "Surun Soren",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 8039,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 7,
+          "name": "Kali Charan Dehri",
+          "party": "Independent",
+          "votes": 6285,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 8,
+          "name": "Kaleshwar Soren",
+          "party": "Independent",
+          "votes": 4358,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 9,
+          "name": "Maikel Murmu",
+          "party": "Samajwadi Party",
+          "votes": 3929,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 10,
+          "name": "Samuel Soren",
+          "party": "Lok Jan Shakti Party",
+          "votes": 3503,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

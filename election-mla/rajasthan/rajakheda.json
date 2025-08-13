@@ -1,0 +1,78 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Rajakheda",
+  "district": "Dhaulpur",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 189138,
+        "total_votes_polled": 141942,
+        "turnout_percentage": 75.9,
+        "margin_votes": 14991,
+        "margin_percentage": 10.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rohit Bohra",
+          "party": "Indian National Congress",
+          "votes": 76278,
+          "votes_percentage": 53.7
+        },
+        {
+          "position": 2,
+          "name": "Ashok Sharma",
+          "party": "Bharatiya Janta Party",
+          "votes": 61287,
+          "votes_percentage": 43.2
+        },
+        {
+          "position": 3,
+          "name": "Priyanka Devi",
+          "party": "Bahujan Samaj Party",
+          "votes": 1511,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 4,
+          "name": "Narayansingh",
+          "party": "Independent",
+          "votes": 852,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 5,
+          "name": "Raghuvansh",
+          "party": "Bharatiya Yuva Shakti",
+          "votes": 801,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Devi Singh",
+          "party": "Independent",
+          "votes": 663,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Ravindra Singh",
+          "party": "Independent",
+          "votes": 346,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "Kaushal Parashar",
+          "party": "Independent",
+          "votes": 204,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "state": "Maharashtra",
+  "constituency": "Yawal",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 106471,
+        "total_votes_polled": 64997,
+        "turnout_percentage": 61.1,
+        "margin_votes": 6817,
+        "margin_percentage": 10.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mahajan Jivaram Tukaram",
+          "party": "Indian National Congress (U)",
+          "votes": 30503,
+          "votes_percentage": 48.5
+        },
+        {
+          "position": 2,
+          "name": "Choudhari Ramesh Vitthal",
+          "party": "Indian National Congress (I)",
+          "votes": 23686,
+          "votes_percentage": 37.6
+        },
+        {
+          "position": 3,
+          "name": "Tadvi Mirabai Dagekha",
+          "party": "Independent",
+          "votes": 6167,
+          "votes_percentage": 9.8
+        },
+        {
+          "position": 4,
+          "name": "Tadvi Hamid Vajir",
+          "party": "Janata Party (SECULAR) RAJ NARAIN",
+          "votes": 1059,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 5,
+          "name": "Patil Kashiram Motiram",
+          "party": "Independent",
+          "votes": 589,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Deshmukh Gangadhar Nathu",
+          "party": "Independent",
+          "votes": 560,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 7,
+          "name": "Santosh Shankar Patil",
+          "party": "Independent",
+          "votes": 230,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Sonavane Prabhakar Janglu",
+          "party": "Independent",
+          "votes": 168,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

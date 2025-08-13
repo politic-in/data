@@ -1,0 +1,127 @@
+{
+  "state": "West Bengal",
+  "constituency": "KASHIPUR-BELGACHIA",
+  "district": "Kolkata",
+  "ac_type": "GEN",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 219389,
+        "total_votes_polled": 140745,
+        "turnout_percentage": 65.4,
+        "margin_votes": 25810,
+        "margin_percentage": 18.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mala Saha",
+          "party": "All India Trinamool Congress",
+          "votes": 72264,
+          "votes_percentage": 51.3
+        },
+        {
+          "position": 2,
+          "name": "Kaninika Bose (GHOSH)",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 46454,
+          "votes_percentage": 33.0
+        },
+        {
+          "position": 3,
+          "name": "Aditya Tandon",
+          "party": "Bharatiya Janta Party",
+          "votes": 19293,
+          "votes_percentage": 13.7
+        },
+        {
+          "position": 4,
+          "name": "Md Azimullah",
+          "party": "Bahujan Samaj Party",
+          "votes": 989,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Jyotsna Ray Pain",
+          "party": "Independent",
+          "votes": 683,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Tapas Ghosh",
+          "party": "Independent",
+          "votes": 553,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Ashoke Kumar Naskar",
+          "party": "Independent",
+          "votes": 509,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 210566,
+        "total_votes_polled": 141721,
+        "turnout_percentage": 67.3,
+        "margin_votes": 40284,
+        "margin_percentage": 28.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mala Saha",
+          "party": "All India Trinamool Congress",
+          "votes": 87408,
+          "votes_percentage": 61.7
+        },
+        {
+          "position": 2,
+          "name": "Kaninika Ghosh (BOSE)",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 47124,
+          "votes_percentage": 33.3
+        },
+        {
+          "position": 3,
+          "name": "Aditya Tandon",
+          "party": "Bharatiya Janta Party",
+          "votes": 4420,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 4,
+          "name": "Rakesh Kumar Kori",
+          "party": "Bahujan Samaj Party",
+          "votes": 1241,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Sourav Mitra",
+          "party": "Independent",
+          "votes": 951,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Ashoke Kumar Naskar",
+          "party": "Independent",
+          "votes": 577,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

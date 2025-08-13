@@ -1,0 +1,967 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "Arrah",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1995": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 40,
+      "aggregate": {
+        "total_electors": 185269,
+        "total_votes_polled": 111605,
+        "turnout_percentage": 60.2,
+        "margin_votes": 4637,
+        "margin_percentage": 4.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Abdul Malik",
+          "party": "Janata Dal",
+          "votes": 32486,
+          "votes_percentage": 29.8
+        },
+        {
+          "position": 2,
+          "name": "Sudama Prasad",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 27849,
+          "votes_percentage": 25.5
+        },
+        {
+          "position": 3,
+          "name": "Triguna Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 21234,
+          "votes_percentage": 19.5
+        },
+        {
+          "position": 4,
+          "name": "Surendra Singh",
+          "party": "Bhartiya Pragatisheel Party",
+          "votes": 6106,
+          "votes_percentage": 5.6
+        },
+        {
+          "position": 5,
+          "name": "Rajendra Prasad Singh",
+          "party": "Samajwadi Janata Party (RASHTRIYA)",
+          "votes": 5755,
+          "votes_percentage": 5.3
+        },
+        {
+          "position": 6,
+          "name": "Letafat Hussain",
+          "party": "Indian National Congress",
+          "votes": 4160,
+          "votes_percentage": 3.8
+        },
+        {
+          "position": 7,
+          "name": "Bidya Nand Sahay",
+          "party": "Samajwadi Party",
+          "votes": 1773,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 8,
+          "name": "Haridwar Singh",
+          "party": "Bahujan Samaj Party",
+          "votes": 1673,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 9,
+          "name": "Radha Charan Sah",
+          "party": "Independent",
+          "votes": 1606,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 10,
+          "name": "Nathu Ram",
+          "party": "Independent",
+          "votes": 1131,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 11,
+          "name": "Anup Raj Yadaw",
+          "party": "Independent",
+          "votes": 1068,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 12,
+          "name": "Shambhu Saran Singh",
+          "party": "Independent",
+          "votes": 785,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 13,
+          "name": "Harmendra Singh",
+          "party": "Independent",
+          "votes": 391,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 14,
+          "name": "Bijay Ku. Chaubey",
+          "party": "Independent",
+          "votes": 287,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 15,
+          "name": "Bijay Kumar Singh",
+          "party": "Independent",
+          "votes": 249,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 16,
+          "name": "Raja Nand Singh",
+          "party": "Independent",
+          "votes": 228,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 17,
+          "name": "Nisha Rani",
+          "party": "Independent",
+          "votes": 202,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 18,
+          "name": "Vinay Kumar Chaudhary",
+          "party": "Kosal Party",
+          "votes": 201,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 19,
+          "name": "Lal Babu Shrivastava",
+          "party": "Independent",
+          "votes": 180,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 20,
+          "name": "Ashok Kumar Singh",
+          "party": "Independent",
+          "votes": 165,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 21,
+          "name": "Surendra Singh",
+          "party": "Independent",
+          "votes": 147,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 22,
+          "name": "Ram Anugrah Singh",
+          "party": "Independent",
+          "votes": 130,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 23,
+          "name": "Phuleshwar Singh",
+          "party": "Independent",
+          "votes": 119,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 24,
+          "name": "Md. Shabir Ahmad",
+          "party": "Independent",
+          "votes": 111,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 25,
+          "name": "Bhanu Rai",
+          "party": "Independent",
+          "votes": 103,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 26,
+          "name": "Abdul Ahad",
+          "party": "Independent",
+          "votes": 83,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 26,
+          "name": "Shahav Tanvir",
+          "party": "Independent",
+          "votes": 83,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 28,
+          "name": "Ram Deo Ram",
+          "party": "Shoshit Samaj Dal (AKHIL BAHARATIYA)",
+          "votes": 81,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 29,
+          "name": "Nand Kumar Rai",
+          "party": "Independent",
+          "votes": 79,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 29,
+          "name": "Prabhat Kumar Singh",
+          "party": "Independent",
+          "votes": 79,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 31,
+          "name": "Maksud Alam",
+          "party": "Independent",
+          "votes": 75,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 32,
+          "name": "Jaya Azad",
+          "party": "Independent",
+          "votes": 73,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 33,
+          "name": "Yogendra Prasad",
+          "party": "Independent",
+          "votes": 70,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 34,
+          "name": "Ram Pravesh Singh",
+          "party": "Independent",
+          "votes": 68,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 35,
+          "name": "Dwarika Tiwari",
+          "party": "Akhil Bharat Hindu Maha Sabha",
+          "votes": 61,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 35,
+          "name": "Shatroghan Prasad",
+          "party": "Independent",
+          "votes": 61,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 37,
+          "name": "Mukesh Singh",
+          "party": "Independent",
+          "votes": 60,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 38,
+          "name": "Shyam Nandan Singh",
+          "party": "Independent",
+          "votes": 57,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 39,
+          "name": "Ashutosh Tiwari",
+          "party": "Independent",
+          "votes": 42,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 40,
+          "name": "Akhilesh Singh",
+          "party": "Independent",
+          "votes": 31,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "1990": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 37,
+      "aggregate": {
+        "total_electors": 200141,
+        "total_votes_polled": 103235,
+        "turnout_percentage": 51.6,
+        "margin_votes": 8779,
+        "margin_percentage": 8.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Vashisth Narain Singh",
+          "party": "Janata Dal",
+          "votes": 38085,
+          "votes_percentage": 37.3
+        },
+        {
+          "position": 2,
+          "name": "Sudama Prasad",
+          "party": "Indian Peoples Front",
+          "votes": 29306,
+          "votes_percentage": 28.7
+        },
+        {
+          "position": 3,
+          "name": "Rajender Prasad Singh (Baghi Pakar)",
+          "party": "Independent",
+          "votes": 12176,
+          "votes_percentage": 11.9
+        },
+        {
+          "position": 4,
+          "name": "Letafat Hussain",
+          "party": "Independent",
+          "votes": 7569,
+          "votes_percentage": 7.4
+        },
+        {
+          "position": 5,
+          "name": "Jaya Jain",
+          "party": "Bharatiya Janta Party",
+          "votes": 6494,
+          "votes_percentage": 6.4
+        },
+        {
+          "position": 6,
+          "name": "Kapil Dev Akela",
+          "party": "Indian Congress (SOCIALIST- SARAT CHANDRA SINHA)",
+          "votes": 2303,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 7,
+          "name": "Jarnandan Singh",
+          "party": "Independent",
+          "votes": 929,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 8,
+          "name": "Rajiv Lochan Nath",
+          "party": "Communist Party Of India",
+          "votes": 814,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 9,
+          "name": "Manuram Yadav",
+          "party": "Independent",
+          "votes": 729,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 10,
+          "name": "Bharat Mishar",
+          "party": "Independent",
+          "votes": 524,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 11,
+          "name": "Moti Lal Singh",
+          "party": "Independent",
+          "votes": 505,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 12,
+          "name": "Parbhat Kumar Singh",
+          "party": "Independent",
+          "votes": 342,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 13,
+          "name": "Vishnu Prasad",
+          "party": "Independent",
+          "votes": 311,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 14,
+          "name": "Ravinderrai",
+          "party": "Akhil Bharatiya Jana Sangh",
+          "votes": 280,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 15,
+          "name": "Kashi Prasad",
+          "party": "Independent",
+          "votes": 198,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 16,
+          "name": "S. M. Isa",
+          "party": "Indian National Congress",
+          "votes": 197,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 17,
+          "name": "Kanhaiya Ji Gupta",
+          "party": "Independent",
+          "votes": 191,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 18,
+          "name": "Devender Kumar",
+          "party": "Independent",
+          "votes": 162,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 19,
+          "name": "Dilip Singh",
+          "party": "Independent",
+          "votes": 131,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 20,
+          "name": "Shyama  Devi",
+          "party": "Independent",
+          "votes": 127,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 21,
+          "name": "Jagdish Nath Tripathi",
+          "party": "Independent",
+          "votes": 96,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 22,
+          "name": "Chandrika Prasad",
+          "party": "Independent",
+          "votes": 95,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 23,
+          "name": "Swami Harigiri Yadav",
+          "party": "Independent",
+          "votes": 76,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 24,
+          "name": "Valdev Upadhaya",
+          "party": "Independent",
+          "votes": 74,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 25,
+          "name": "Babu Ram Singh",
+          "party": "Independent",
+          "votes": 69,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 26,
+          "name": "Dinesh Singh",
+          "party": "Independent",
+          "votes": 48,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 27,
+          "name": "Devender Singh",
+          "party": "Independent",
+          "votes": 42,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 28,
+          "name": "Krishan Ku. Pandey",
+          "party": "Independent",
+          "votes": 38,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 28,
+          "name": "Parija Khatun",
+          "party": "Independent",
+          "votes": 38,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 30,
+          "name": "Vijay Kumar Sinha",
+          "party": "Independent",
+          "votes": 30,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 31,
+          "name": "Gosta Raja",
+          "party": "Independent",
+          "votes": 26,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 31,
+          "name": "Nand Kumar Rai",
+          "party": "Independent",
+          "votes": 26,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 31,
+          "name": "Babhai Nath Shubla",
+          "party": "Independent",
+          "votes": 26,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 34,
+          "name": "Chander Dev Singh",
+          "party": "Independent",
+          "votes": 24,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 35,
+          "name": "Krishan Kumar",
+          "party": "Independent",
+          "votes": 23,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 36,
+          "name": "Alakh Singh",
+          "party": "Independent",
+          "votes": 20,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 37,
+          "name": "Rajender Prasad Singh (Majhaua)",
+          "party": "Independent",
+          "votes": 18,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "1985": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 16,
+      "aggregate": {
+        "total_electors": 164271,
+        "total_votes_polled": 77434,
+        "turnout_percentage": 47.1,
+        "margin_votes": 10595,
+        "margin_percentage": 13.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "S. M. Isha",
+          "party": "Indian National Congress",
+          "votes": 26959,
+          "votes_percentage": 35.1
+        },
+        {
+          "position": 2,
+          "name": "Rajendra Pd. Singh",
+          "party": "Janta Party",
+          "votes": 16364,
+          "votes_percentage": 21.3
+        },
+        {
+          "position": 3,
+          "name": "Letafat Hussain",
+          "party": "Lok Dal",
+          "votes": 12740,
+          "votes_percentage": 16.6
+        },
+        {
+          "position": 4,
+          "name": "Yashawant Kumar Jain",
+          "party": "Independent",
+          "votes": 6628,
+          "votes_percentage": 8.6
+        },
+        {
+          "position": 5,
+          "name": "Ram Bachan Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 3467,
+          "votes_percentage": 4.5
+        },
+        {
+          "position": 6,
+          "name": "Sudarshan Singh",
+          "party": "Independent",
+          "votes": 2426,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 7,
+          "name": "Chuni Lal Roy",
+          "party": "Independent",
+          "votes": 2395,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 8,
+          "name": "Mithlesh Kumar Singh",
+          "party": "Independent",
+          "votes": 1884,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 9,
+          "name": "Ram Shankar Pandey",
+          "party": "Independent",
+          "votes": 1762,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 10,
+          "name": "Sita Ram Singh",
+          "party": "Independent",
+          "votes": 1088,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 11,
+          "name": "Om Prakash",
+          "party": "Independent",
+          "votes": 519,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 12,
+          "name": "Ram Dhani Bharti",
+          "party": "Independent",
+          "votes": 165,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 13,
+          "name": "Bhuneshwar Singh",
+          "party": "Independent",
+          "votes": 164,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 14,
+          "name": "Gopi Chand Shah",
+          "party": "Independent",
+          "votes": 71,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Anugrah Narain Singh",
+          "party": "Independent",
+          "votes": 70,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "Ram Pravesh Singh",
+          "party": "Independent",
+          "votes": 64,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 15,
+      "aggregate": {
+        "total_electors": 144909,
+        "total_votes_polled": 68308,
+        "turnout_percentage": 47.1,
+        "margin_votes": 23389,
+        "margin_percentage": 34.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "S.M. Isa",
+          "party": "Indian National Congress (I)",
+          "votes": 36781,
+          "votes_percentage": 54.3
+        },
+        {
+          "position": 2,
+          "name": "Sumitra Devi",
+          "party": "Janata Party (SECULAR) - CH. CHARAN SINGH",
+          "votes": 13392,
+          "votes_percentage": 19.8
+        },
+        {
+          "position": 3,
+          "name": "Virendra Prasad Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 5117,
+          "votes_percentage": 7.6
+        },
+        {
+          "position": 4,
+          "name": "Letafat Hussain",
+          "party": "Janata Party (SECULAR) RAJ NARAIN",
+          "votes": 4444,
+          "votes_percentage": 6.6
+        },
+        {
+          "position": 5,
+          "name": "Mahadewa Nand Giri",
+          "party": "Indian National Congress (U)",
+          "votes": 2541,
+          "votes_percentage": 3.8
+        },
+        {
+          "position": 6,
+          "name": "Surendra Prasad",
+          "party": "Janata Party (JP)",
+          "votes": 2246,
+          "votes_percentage": 3.3
+        },
+        {
+          "position": 7,
+          "name": "Chandeshwar Roy",
+          "party": "Independent",
+          "votes": 1197,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 8,
+          "name": "Kapildeo Akela",
+          "party": "Independent",
+          "votes": 468,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 9,
+          "name": "Vinay Kumar Choudhary",
+          "party": "Independent",
+          "votes": 404,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 10,
+          "name": "Devendra Nath Mishra",
+          "party": "Independent",
+          "votes": 272,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 11,
+          "name": "Gupteshwar Prasad",
+          "party": "Independent",
+          "votes": 235,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 12,
+          "name": "Ram Ekbal Prasad",
+          "party": "Independent",
+          "votes": 222,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 13,
+          "name": "Krishna Govind Singh",
+          "party": "Independent",
+          "votes": 200,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 14,
+          "name": "Ram Jee Yadav",
+          "party": "Independent",
+          "votes": 113,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 15,
+          "name": "Jai Prakash Das",
+          "party": "Independent",
+          "votes": 100,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 19,
+      "aggregate": {
+        "total_electors": 120132,
+        "total_votes_polled": 48924,
+        "turnout_percentage": 40.7,
+        "margin_votes": 807,
+        "margin_percentage": 1.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sumitra Devi",
+          "party": "Janta Party",
+          "votes": 16192,
+          "votes_percentage": 33.5
+        },
+        {
+          "position": 2,
+          "name": "Md. Isha",
+          "party": "Indian National Congress",
+          "votes": 15385,
+          "votes_percentage": 31.9
+        },
+        {
+          "position": 3,
+          "name": "Ramjee Prasad Singh",
+          "party": "Independent",
+          "votes": 5372,
+          "votes_percentage": 11.1
+        },
+        {
+          "position": 4,
+          "name": "Mohan Prasad Yadav",
+          "party": "Independent",
+          "votes": 2022,
+          "votes_percentage": 4.2
+        },
+        {
+          "position": 5,
+          "name": "Rameshwar Upadhyay",
+          "party": "Independent",
+          "votes": 1959,
+          "votes_percentage": 4.1
+        },
+        {
+          "position": 6,
+          "name": "Satyendra Narain Singh",
+          "party": "Independent",
+          "votes": 1863,
+          "votes_percentage": 3.9
+        },
+        {
+          "position": 7,
+          "name": "Jagdish Singh",
+          "party": "Independent",
+          "votes": 1688,
+          "votes_percentage": 3.5
+        },
+        {
+          "position": 8,
+          "name": "Tetar Ram",
+          "party": "Independent",
+          "votes": 1203,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 9,
+          "name": "Ramjee Singh",
+          "party": "Independent",
+          "votes": 621,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 10,
+          "name": "Ramahhar Nath Singh",
+          "party": "Independent",
+          "votes": 557,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 11,
+          "name": "Dwarika Nath Singh",
+          "party": "Independent",
+          "votes": 292,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 12,
+          "name": "Tej Narain Singh",
+          "party": "Shoshit Samaj Dal (AKHIL BAHARATIYA)",
+          "votes": 259,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 13,
+          "name": "Ram Kumar Dass",
+          "party": "Independent",
+          "votes": 223,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 14,
+          "name": "Chandrika Prasad",
+          "party": "Independent",
+          "votes": 166,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 15,
+          "name": "Brahmanand Yadav",
+          "party": "Independent",
+          "votes": 152,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 16,
+          "name": "Kalindani Raj",
+          "party": "Independent",
+          "votes": 110,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 17,
+          "name": "Ram Bachan Singh",
+          "party": "Independent",
+          "votes": 104,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 18,
+          "name": "Nand Jee Ram",
+          "party": "Independent",
+          "votes": 97,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 19,
+          "name": "Latafat Hussian",
+          "party": "Independent",
+          "votes": 40,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

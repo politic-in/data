@@ -1,0 +1,514 @@
+{
+  "state": "Manipur",
+  "constituency": "Tamei",
+  "district": "Tamenglong",
+  "ac_type": "ST",
+  "results": {
+    "2022": {
+      "poll_date": "28 February 2022",
+      "counting_date": "10 March 2022",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 42059,
+        "total_votes_polled": 38644,
+        "turnout_percentage": 91.9,
+        "margin_votes": 1698,
+        "margin_percentage": 4.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Awangbow Newmai",
+          "party": "Naga Peoples Front",
+          "votes": 19643,
+          "votes_percentage": 50.9
+        },
+        {
+          "position": 2,
+          "name": "Z. Kikhonbou Newmai",
+          "party": "National People's Party",
+          "votes": 17945,
+          "votes_percentage": 46.5
+        },
+        {
+          "position": 3,
+          "name": "Wilubou Newmai",
+          "party": "Bharatiya Janta Party",
+          "votes": 627,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 4,
+          "name": "Gn. Kumuiteung (Dr. Aku)",
+          "party": "Indian National Congress",
+          "votes": 397,
+          "votes_percentage": 1.0
+        }
+      ]
+    },
+    "2012": {
+      "poll_date": "28 January 2012",
+      "counting_date": "03 June 2012",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 31149,
+        "total_votes_polled": 22970,
+        "turnout_percentage": 73.7,
+        "total_valid_votes": 22909,
+        "total_valid_votes_percentage": 73.5,
+        "margin_votes": 1398,
+        "margin_percentage": 6.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Z.Kikhonbou Newmai",
+          "party": "Indian National Congress",
+          "votes": 10977,
+          "votes_percentage": 47.8
+        },
+        {
+          "position": 2,
+          "name": "Awangbow Newmai",
+          "party": "Manipur State Congress Party",
+          "votes": 9579,
+          "votes_percentage": 41.7
+        },
+        {
+          "position": 3,
+          "name": "Athuan Abonmei",
+          "party": "Naga Peoples Front",
+          "votes": 1530,
+          "votes_percentage": 6.7
+        },
+        {
+          "position": 4,
+          "name": "D.P. Panmei",
+          "party": "All India Trinamool Congress",
+          "votes": 884,
+          "votes_percentage": 3.9
+        }
+      ]
+    },
+    "2007": {
+      "poll_date": "23 February 2007",
+      "counting_date": "27 February 2007",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 29134,
+        "total_votes_polled": 25265,
+        "turnout_percentage": 86.7,
+        "margin_votes": 396,
+        "margin_percentage": 1.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Awangbow Newmei",
+          "party": "Independent",
+          "votes": 7042,
+          "votes_percentage": 27.9
+        },
+        {
+          "position": 2,
+          "name": "Z. Mangaibou",
+          "party": "Indian National Congress",
+          "votes": 6646,
+          "votes_percentage": 26.3
+        },
+        {
+          "position": 3,
+          "name": "Haimasuang",
+          "party": "Independent",
+          "votes": 4266,
+          "votes_percentage": 16.9
+        },
+        {
+          "position": 4,
+          "name": "Lungsu Panmei",
+          "party": "Independent",
+          "votes": 3636,
+          "votes_percentage": 14.4
+        },
+        {
+          "position": 5,
+          "name": "Athuan Abonmai",
+          "party": "Independent",
+          "votes": 3438,
+          "votes_percentage": 13.6
+        },
+        {
+          "position": 6,
+          "name": "Helkhomang Singson",
+          "party": "Samata Party",
+          "votes": 237,
+          "votes_percentage": 0.9
+        }
+      ]
+    },
+    "2002": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 24962,
+        "total_votes_polled": 23906,
+        "turnout_percentage": 95.8,
+        "margin_votes": 1151,
+        "margin_percentage": 4.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Z. Mangaibou",
+          "party": "Indian National Congress",
+          "votes": 9893,
+          "votes_percentage": 41.6
+        },
+        {
+          "position": 2,
+          "name": "Athuan Abonmai",
+          "party": "Bharatiya Janta Party",
+          "votes": 8742,
+          "votes_percentage": 36.7
+        },
+        {
+          "position": 3,
+          "name": "Lungsu Panmei",
+          "party": "Samata Party",
+          "votes": 5169,
+          "votes_percentage": 21.7
+        }
+      ]
+    },
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 24079,
+        "total_votes_polled": 22406,
+        "turnout_percentage": 93.1,
+        "margin_votes": 5580,
+        "margin_percentage": 24.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mangaibou",
+          "party": "Manipur State Congress Party",
+          "votes": 9506,
+          "votes_percentage": 42.8
+        },
+        {
+          "position": 2,
+          "name": "Athuan Abonmai",
+          "party": "Federal Party Of Manipur",
+          "votes": 3926,
+          "votes_percentage": 17.7
+        },
+        {
+          "position": 3,
+          "name": "D. P. Panmei",
+          "party": "Nationalist Congress Party",
+          "votes": 3665,
+          "votes_percentage": 16.5
+        },
+        {
+          "position": 4,
+          "name": "I. D. Sangpiliu",
+          "party": "Indian National Congress",
+          "votes": 2894,
+          "votes_percentage": 13.0
+        },
+        {
+          "position": 5,
+          "name": "A. G. Pangim",
+          "party": "Independent",
+          "votes": 1681,
+          "votes_percentage": 7.6
+        },
+        {
+          "position": 6,
+          "name": "Helkhomang",
+          "party": "Samata Party",
+          "votes": 489,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 7,
+          "name": "Nehkhomang (Mangcha) Haokip",
+          "party": "Independent",
+          "votes": 23,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "Daniel",
+          "party": "Independent",
+          "votes": 9,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 9,
+          "name": "Kamboi",
+          "party": "Rashtriya Janata Dal",
+          "votes": 6,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 10,
+          "name": "S. Lamjang Sitlhou",
+          "party": "Independent",
+          "votes": 3,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "1995": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 21970,
+        "total_votes_polled": 20252,
+        "turnout_percentage": 92.2,
+        "margin_votes": 642,
+        "margin_percentage": 3.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "D.P. Panmei",
+          "party": "Independent",
+          "votes": 5047,
+          "votes_percentage": 25.2
+        },
+        {
+          "position": 2,
+          "name": "Mangaibou",
+          "party": "Mahabharat Peples Party",
+          "votes": 4405,
+          "votes_percentage": 22.0
+        },
+        {
+          "position": 3,
+          "name": "Pauheu",
+          "party": "Indian National Congress",
+          "votes": 4036,
+          "votes_percentage": 20.2
+        },
+        {
+          "position": 4,
+          "name": "Kaiphuibou",
+          "party": "Indian Congress (SOCIALIST)",
+          "votes": 3458,
+          "votes_percentage": 17.3
+        },
+        {
+          "position": 5,
+          "name": "A.G. Pangim",
+          "party": "Samata Party",
+          "votes": 1792,
+          "votes_percentage": 9.0
+        },
+        {
+          "position": 6,
+          "name": "Dijuanang",
+          "party": "Janata Dal",
+          "votes": 1273,
+          "votes_percentage": 6.4
+        }
+      ]
+    },
+    "1990": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 22985,
+        "total_votes_polled": 21863,
+        "turnout_percentage": 95.1,
+        "margin_votes": 2918,
+        "margin_percentage": 13.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "I. D. Dijuanang",
+          "party": "Indian National Congress",
+          "votes": 7725,
+          "votes_percentage": 35.7
+        },
+        {
+          "position": 2,
+          "name": "N. Pauheu",
+          "party": "Independent",
+          "votes": 4807,
+          "votes_percentage": 22.2
+        },
+        {
+          "position": 3,
+          "name": "Mangatbou",
+          "party": "Mahabharat Peples Party",
+          "votes": 4406,
+          "votes_percentage": 20.4
+        },
+        {
+          "position": 4,
+          "name": "Seipu",
+          "party": "Indian Congress (SOCIALIST- SARAT CHANDRA SINHA)",
+          "votes": 4369,
+          "votes_percentage": 20.2
+        },
+        {
+          "position": 5,
+          "name": "Changanangbou",
+          "party": "Janata Dal",
+          "votes": 314,
+          "votes_percentage": 1.5
+        }
+      ]
+    },
+    "1984": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 18681,
+        "total_votes_polled": 15157,
+        "turnout_percentage": 81.1,
+        "margin_votes": 2196,
+        "margin_percentage": 14.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "I. D. Dijuanang",
+          "party": "Independent",
+          "votes": 5455,
+          "votes_percentage": 37.0
+        },
+        {
+          "position": 2,
+          "name": "N. Pouhe",
+          "party": "Indian National Congress",
+          "votes": 3259,
+          "votes_percentage": 22.1
+        },
+        {
+          "position": 3,
+          "name": "Chungthang",
+          "party": "Kuki National Assembly",
+          "votes": 2503,
+          "votes_percentage": 17.0
+        },
+        {
+          "position": 4,
+          "name": "A. G. Pangim Dingakthui",
+          "party": "Independent",
+          "votes": 1974,
+          "votes_percentage": 13.4
+        },
+        {
+          "position": 5,
+          "name": "Phiangrongdi Panmei",
+          "party": "Independent",
+          "votes": 946,
+          "votes_percentage": 6.4
+        },
+        {
+          "position": 6,
+          "name": "N. K. Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 560,
+          "votes_percentage": 3.8
+        },
+        {
+          "position": 7,
+          "name": "Deisungbes",
+          "party": "Independent",
+          "votes": 32,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 15413,
+        "total_votes_polled": 12022,
+        "turnout_percentage": 78.0,
+        "margin_votes": 2157,
+        "margin_percentage": 17.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "I. D. Dijuanang",
+          "party": "Indian National Congress (I)",
+          "votes": 5211,
+          "votes_percentage": 44.7
+        },
+        {
+          "position": 2,
+          "name": "Ilunang",
+          "party": "Independent",
+          "votes": 3054,
+          "votes_percentage": 26.2
+        },
+        {
+          "position": 3,
+          "name": "N. Paubau",
+          "party": "Janta Party",
+          "votes": 2847,
+          "votes_percentage": 24.4
+        },
+        {
+          "position": 4,
+          "name": "G. L. Gaising",
+          "party": "Communist Party Of India",
+          "votes": 555,
+          "votes_percentage": 4.8
+        }
+      ]
+    },
+    "2017": {
+      "poll_date": "04 February 2017",
+      "counting_date": "11 March 2017",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 36427,
+        "total_votes_polled": 32255,
+        "turnout_percentage": 88.7,
+        "margin_votes": 747,
+        "margin_percentage": 2.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Awangbow Newmai",
+          "party": "Naga Peoples Front",
+          "votes": 15933,
+          "votes_percentage": 49.3
+        },
+        {
+          "position": 2,
+          "name": "Z. Kikhonbou Newmai",
+          "party": "Bharatiya Janta Party",
+          "votes": 15186,
+          "votes_percentage": 47.0
+        },
+        {
+          "position": 3,
+          "name": "G.N. Kumuiteung (DR. AKU)",
+          "party": "Indian National Congress",
+          "votes": 1136,
+          "votes_percentage": 3.5
+        }
+      ]
+    }
+  }
+}

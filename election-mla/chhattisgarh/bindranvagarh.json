@@ -1,0 +1,120 @@
+{
+  "state": "Chhattisgarh",
+  "constituency": "Bindranvagarh",
+  "district": "Raipur",
+  "ac_type": "ST",
+  "results": {
+    "2023": {
+      "poll_date": "07 November 2023",
+      "counting_date": "03 December 2023",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 453180,
+        "total_votes_polled": 191414,
+        "turnout_percentage": 43.1,
+        "margin_votes": 816,
+        "margin_percentage": 0.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Janak Dhruw",
+          "party": "Indian National Congress",
+          "votes": 92639,
+          "votes_percentage": 47.5
+        },
+        {
+          "position": 2,
+          "name": "Gowardhan Singh Manjhi",
+          "party": "Bharatiya Janta Party",
+          "votes": 91823,
+          "votes_percentage": 47.1
+        },
+        {
+          "position": 3,
+          "name": "Jeevan Lal Dhruw",
+          "party": "Bhartiya Shakti Chetna Party",
+          "votes": 2619,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 4,
+          "name": "Uttam Markam",
+          "party": "Independent",
+          "votes": 1688,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Tikam Nagwanshi",
+          "party": "Gondvana Gantantra Party",
+          "votes": 1593,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Yuvraj Netam",
+          "party": "Communist Party Of India (Marxist-Leninist) Red Star",
+          "votes": 1052,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "2018": {
+      "poll_date": "20 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 210629,
+        "total_votes_polled": 175043,
+        "turnout_percentage": 85.7,
+        "margin_votes": 10430,
+        "margin_percentage": 6.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Damarudhar Pujari",
+          "party": "Bharatiya Janta Party",
+          "votes": 79619,
+          "votes_percentage": 45.5
+        },
+        {
+          "position": 2,
+          "name": "Sanjay Netam",
+          "party": "Indian National Congress",
+          "votes": 69189,
+          "votes_percentage": 39.5
+        },
+        {
+          "position": 3,
+          "name": "Onkar Shah",
+          "party": "Gondvana Gantantra Party",
+          "votes": 19022,
+          "votes_percentage": 10.9
+        },
+        {
+          "position": 4,
+          "name": "Devendra Thakur",
+          "party": "Bahujan Samaj Party",
+          "votes": 2752,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 5,
+          "name": "Siyaram Nagesh",
+          "party": "Aam Aadmi Party",
+          "votes": 2378,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 6,
+          "name": "Bhojlal Netam",
+          "party": "Communist Party Of India (Marxist-Leninist) Red Star",
+          "votes": 2083,
+          "votes_percentage": 1.2
+        }
+      ]
+    }
+  }
+}

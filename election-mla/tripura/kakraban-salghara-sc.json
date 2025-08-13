@@ -1,0 +1,36 @@
+{
+  "state": "Tripura",
+  "constituency": "Kakraban-Salghara (SC)",
+  "district": "South Tripura",
+  "ac_type": "SC",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 50221,
+        "total_votes_polled": 45903,
+        "turnout_percentage": 92.9,
+        "margin_votes": 3767,
+        "margin_percentage": 8.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ratan Kumar Bhowmik",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 24835,
+          "votes_percentage": 54.1
+        },
+        {
+          "position": 2,
+          "name": "Jitendra Majumder",
+          "party": "Bharatiya Janta Party",
+          "votes": 21068,
+          "votes_percentage": 45.9
+        }
+      ]
+    }
+  }
+}

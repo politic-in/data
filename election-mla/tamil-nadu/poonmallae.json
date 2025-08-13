@@ -1,0 +1,57 @@
+{
+  "state": "Tamil Nadu",
+  "constituency": "Poonmallae",
+  "district": "Thiruvallur",
+  "ac_type": "SC",
+  "results": {
+    "2011": {
+      "poll_date": "13 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 229436,
+        "total_votes_polled": 181531,
+        "turnout_percentage": 79.1,
+        "margin_votes": 41419,
+        "margin_percentage": 22.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Manimaran R",
+          "party": "All India Anna Dravida Munnetra Kazhagam",
+          "votes": 99097,
+          "votes_percentage": 54.6
+        },
+        {
+          "position": 2,
+          "name": "Kanchi Gv Mathiazhagan",
+          "party": "Indian National Congress",
+          "votes": 57678,
+          "votes_percentage": 31.8
+        },
+        {
+          "position": 3,
+          "name": "Jaganmoorthy.M",
+          "party": "Puratchi Bharatham",
+          "votes": 21118,
+          "votes_percentage": 11.6
+        },
+        {
+          "position": 4,
+          "name": "Murali.K",
+          "party": "Independent",
+          "votes": 2022,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Theinmathi.P",
+          "party": "Indiya Jananayaka Katchi",
+          "votes": 1616,
+          "votes_percentage": 0.9
+        }
+      ]
+    }
+  }
+}

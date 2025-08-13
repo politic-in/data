@@ -1,0 +1,80 @@
+{
+  "state": "Telangana",
+  "constituency": "Sathupalli",
+  "district": "Khammam",
+  "ac_type": "SC",
+  "results": {
+    "2014": {
+      "poll_date": "30 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 221715,
+        "total_votes_polled": 190265,
+        "turnout_percentage": 85.8,
+        "total_valid_votes": 189360,
+        "total_valid_votes_percentage": 85.4,
+        "margin_votes": 2485,
+        "margin_percentage": 1.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sandra Venkata Veeraiah",
+          "party": "Telugu Desam",
+          "votes": 75490,
+          "votes_percentage": 39.9
+        },
+        {
+          "position": 2,
+          "name": "Matta Dayanand Vijay Kumar",
+          "party": "Yuvajana Sramika Rythu Congress Party",
+          "votes": 73005,
+          "votes_percentage": 38.6
+        },
+        {
+          "position": 3,
+          "name": "Chandra Sekhar Sambhani",
+          "party": "Indian National Congress",
+          "votes": 30105,
+          "votes_percentage": 15.9
+        },
+        {
+          "position": 4,
+          "name": "Pidamarthy  Ravi",
+          "party": "Telangana Rashtra Samithi",
+          "votes": 6666,
+          "votes_percentage": 3.5
+        },
+        {
+          "position": 5,
+          "name": "Amarlapudi Ramu",
+          "party": "Independent",
+          "votes": 1361,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Kotaiah Rentapally",
+          "party": "Pyramid Party Of India",
+          "votes": 1070,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Akkirala Venkateswarlu @ Manishapal",
+          "party": "Independent",
+          "votes": 979,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Damalla Satyanarayana",
+          "party": "Bahujan Samaj Party",
+          "votes": 684,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

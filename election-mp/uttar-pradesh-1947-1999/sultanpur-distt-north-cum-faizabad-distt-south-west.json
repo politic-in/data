@@ -1,0 +1,48 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "SULTANPUR DISTT (NORTH) CUM FAIZABAD DISTT (SOUTH WEST)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 377670,
+        "total_votes_polled": 112311,
+        "turnout_percentage": 29.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "M. A. Kazmi",
+          "party": "Indian National Congress",
+          "votes": 46091,
+          "votes_percentage": 41.0
+        },
+        {
+          "position": 2,
+          "name": "Surendra Partap Sahi",
+          "party": "Akhil Bharatiya Ram Rajya Parishad",
+          "votes": 27324,
+          "votes_percentage": 24.3
+        },
+        {
+          "position": 3,
+          "name": "Sripat Misra",
+          "party": "Socialist Party",
+          "votes": 25641,
+          "votes_percentage": 22.8
+        },
+        {
+          "position": 4,
+          "name": "Sadiq Ali",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 13255,
+          "votes_percentage": 11.8
+        }
+      ]
+    }
+  }
+}

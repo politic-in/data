@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 52158,
+        "male": 54904,
+        "percentage_of_total_population": 10.8,
+        "percentage_of_total_population_calculated": 10.8,
+        "percentage_of_total_population_stated": 10.8,
+        "sex_ratio": 950,
+        "total": 107062
+    },
+    "literacy": {
+        "female_literacy_rate": 70.63,
+        "female_literate": 303438,
+        "male_literacy_rate": 84.82,
+        "male_literate": 385311,
+        "rate_percentage": 77.93,
+        "total_literate": 688749
+    },
+    "population": {
+        "female": 481751,
+        "male": 509172,
+        "sex_ratio": 946,
+        "total": 990923
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.03,
+            "population": 272
+        },
+        "Christian": {
+            "percentage": 0.54,
+            "population": 5368
+        },
+        "Hindu": {
+            "percentage": 89.86,
+            "population": 890429
+        },
+        "Jain": {
+            "percentage": 0.11,
+            "population": 1045
+        },
+        "Muslims": {
+            "percentage": 9.31,
+            "population": 92252
+        },
+        "Not Stated": {
+            "percentage": 0.11,
+            "population": 1083
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 85
+        },
+        "Sikh": {
+            "percentage": 0.04,
+            "population": 389
+        }
+    },
+    "rural": {
+        "child_population_female": 37658,
+        "child_population_male": 39747,
+        "child_population_percentage": 10.72,
+        "child_population_percentage_calculated": 10.72,
+        "child_population_percentage_stated": 10.72,
+        "child_population_total": 77405,
+        "child_sex_ratio": 947,
+        "female": 350810,
+        "literacy_rate_female": 66.8,
+        "literacy_rate_male": 83.06,
+        "literacy_rate_percentage": 75.16,
+        "literate_female": 209175,
+        "literate_male": 275457,
+        "literate_total": 484632,
+        "male": 371369,
+        "percentage_population": 72.88,
+        "population": 722179,
+        "sex_ratio": 945
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/243-bangalore-rural.html",
+    "urban": {
+        "child_population_female": 14496,
+        "child_population_male": 15161,
+        "child_population_percentage": 11.04,
+        "child_population_percentage_calculated": 11.04,
+        "child_population_percentage_stated": 11.04,
+        "child_population_total": 29657,
+        "child_sex_ratio": 956,
+        "female": 130941,
+        "literacy_rate_female": 80.95,
+        "literacy_rate_male": 89.57,
+        "literacy_rate_percentage": 85.37,
+        "literate_female": 94263,
+        "literate_male": 109854,
+        "literate_total": 204117,
+        "male": 137803,
+        "percentage_population": 27.12,
+        "population": 268744,
+        "sex_ratio": 950
+    }
+}

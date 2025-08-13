@@ -1,0 +1,45 @@
+{
+  "state": "Arunachal Pradesh",
+  "year": "2009",
+  "summary_stats": {
+    "total_electors_state": 734541,
+    "total_votes_polled_state": 500596,
+    "turnout_percentage_state": 68.2,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Arunachal East",
+      "ac_no": 2,
+      "ac_type": "GEN",
+      "district": "Arunachal Pradesh",
+      "winning_candidate": "Ninong Ering",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 301173,
+      "total_votes_ac": 214930,
+      "poll_percentage_ac": 0.0,
+      "margin": 68449,
+      "margin_percentage": 31.8,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2009/arunachal-pradesh/arunachal-east/7228/41/15"
+    },
+    {
+      "ac_name": "Arunachal West",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Arunachal Pradesh",
+      "winning_candidate": "Takam Sanjoy",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 433368,
+      "total_votes_ac": 285666,
+      "poll_percentage_ac": 0.0,
+      "margin": 1314,
+      "margin_percentage": 0.5,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2009/arunachal-pradesh/arunachal-west/7227/41/15"
+    }
+  ]
+}

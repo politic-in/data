@@ -1,0 +1,48 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "GORAKHPUR DISTRICT (NORTH)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 369306,
+        "total_votes_polled": 120382,
+        "turnout_percentage": 32.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Hari Shanker Prasad",
+          "party": "Indian National Congress",
+          "votes": 67341,
+          "votes_percentage": 55.9
+        },
+        {
+          "position": 2,
+          "name": "Shibban Lal Saksena",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 32531,
+          "votes_percentage": 27.0
+        },
+        {
+          "position": 3,
+          "name": "Krishna Murari Misra",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 12671,
+          "votes_percentage": 10.5
+        },
+        {
+          "position": 4,
+          "name": "Iqbal Husain",
+          "party": "Socialist Party",
+          "votes": 7839,
+          "votes_percentage": 6.5
+        }
+      ]
+    }
+  }
+}

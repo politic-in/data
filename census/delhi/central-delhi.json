@@ -1,0 +1,100 @@
+{
+    "child_population": {
+        "female": 29805,
+        "male": 32934,
+        "percentage_of_total_population": 10.77,
+        "percentage_of_total_population_calculated": 10.77,
+        "percentage_of_total_population_stated": 10.77,
+        "sex_ratio": 905,
+        "total": 62739
+    },
+    "literacy": {
+        "female_literacy_rate": 82.49,
+        "female_literate": 201842,
+        "male_literacy_rate": 87.5,
+        "male_literate": 240518,
+        "rate_percentage": 85.14,
+        "total_literate": 442360
+    },
+    "population": {
+        "female": 274499,
+        "male": 307821,
+        "sex_ratio": 892,
+        "total": 582320
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.06,
+            "population": 362
+        },
+        "Christian": {
+            "percentage": 0.61,
+            "population": 3527
+        },
+        "Hindu": {
+            "percentage": 62.53,
+            "population": 364148
+        },
+        "Jain": {
+            "percentage": 1.01,
+            "population": 5886
+        },
+        "Muslims": {
+            "percentage": 33.36,
+            "population": 194278
+        },
+        "Not Stated": {
+            "percentage": 0.17,
+            "population": 974
+        },
+        "Others": {
+            "percentage": 0.02,
+            "population": 107
+        },
+        "Sikh": {
+            "percentage": 2.24,
+            "population": 13038
+        }
+    },
+    "rural": {
+        "child_population_female": 0,
+        "child_population_male": 0,
+        "child_population_percentage": 0.0,
+        "child_population_percentage_stated": 0.0,
+        "child_population_total": 0,
+        "child_sex_ratio": 0,
+        "female": 0,
+        "literacy_rate_female": 0.0,
+        "literacy_rate_male": 0.0,
+        "literacy_rate_percentage": 0.0,
+        "literate_female": 0,
+        "literate_male": 0,
+        "literate_total": 0,
+        "male": 0,
+        "percentage_population": 0.0,
+        "population": 0,
+        "sex_ratio": 0
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/173-central-delhi.html",
+    "urban": {
+        "child_population_female": 29811,
+        "child_population_male": 32928,
+        "child_population_percentage": 10.77,
+        "child_population_percentage_calculated": 10.77,
+        "child_population_percentage_stated": 10.77,
+        "child_population_total": 62739,
+        "child_sex_ratio": 905,
+        "female": 274499,
+        "literacy_rate_female": 82.49,
+        "literacy_rate_male": 87.5,
+        "literacy_rate_percentage": 85.14,
+        "literate_female": 201842,
+        "literate_male": 240518,
+        "literate_total": 442360,
+        "male": 307821,
+        "percentage_population": 100.0,
+        "population": 582320,
+        "sex_ratio": 892
+    }
+}

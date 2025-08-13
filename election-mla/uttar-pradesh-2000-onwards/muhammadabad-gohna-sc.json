@@ -1,0 +1,71 @@
+{
+  "state": "Uttar Pradesh [2000 Onwards]",
+  "constituency": "Muhammadabad- Gohna (SC)",
+  "district": "Mau",
+  "ac_type": "SC",
+  "results": {
+    "2017": {
+      "poll_date": "04 March 2017",
+      "counting_date": "11 March 2017",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 357200,
+        "total_votes_polled": 209840,
+        "turnout_percentage": 59.3,
+        "margin_votes": 538,
+        "margin_percentage": 0.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shriram Sonkar",
+          "party": "Bharatiya Janta Party",
+          "votes": 73493,
+          "votes_percentage": 34.7
+        },
+        {
+          "position": 2,
+          "name": "Rajendra Kumar",
+          "party": "Bahujan Samaj Party",
+          "votes": 72955,
+          "votes_percentage": 34.5
+        },
+        {
+          "position": 3,
+          "name": "Baijnath",
+          "party": "Samajwadi Party",
+          "votes": 59871,
+          "votes_percentage": 28.3
+        },
+        {
+          "position": 4,
+          "name": "Prabhu Ram",
+          "party": "Pichhravarg Mahapanchayat Party",
+          "votes": 1179,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 5,
+          "name": "Suryabhan Bhaskar",
+          "party": "Jan Adhikar Party",
+          "votes": 936,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Faujdar Prasad",
+          "party": "Bahujan Mukti Party",
+          "votes": 768,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Meena Devi",
+          "party": "Poorvanchal People's Party",
+          "votes": 638,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

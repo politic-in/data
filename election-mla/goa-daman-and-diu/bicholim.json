@@ -1,0 +1,36 @@
+{
+  "state": "Goa, Daman And Diu",
+  "constituency": "Bicholim",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 17813,
+        "total_votes_polled": 14750,
+        "turnout_percentage": 82.8,
+        "margin_votes": 2373,
+        "margin_percentage": 16.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Prabhu Zantye Harish Narayan",
+          "party": "Independent",
+          "votes": 8354,
+          "votes_percentage": 58.3
+        },
+        {
+          "position": 2,
+          "name": "Kakodkar Shashikala Gurudutta",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 5981,
+          "votes_percentage": 41.7
+        }
+      ]
+    }
+  }
+}

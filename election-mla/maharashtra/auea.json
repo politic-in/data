@@ -1,0 +1,43 @@
+{
+  "state": "Maharashtra",
+  "constituency": "Auea",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 96880,
+        "total_votes_polled": 61234,
+        "turnout_percentage": 63.2,
+        "margin_votes": 114,
+        "margin_percentage": 0.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Utge Shivshankarappan Vishwanathappa",
+          "party": "Indian National Congress (U)",
+          "votes": 28258,
+          "votes_percentage": 47.0
+        },
+        {
+          "position": 2,
+          "name": "Patel Mujeebuddin Ismail Saheb",
+          "party": "Indian National Congress (I)",
+          "votes": 28144,
+          "votes_percentage": 46.8
+        },
+        {
+          "position": 3,
+          "name": "Deshpande Vasantrao Hanmantrao",
+          "party": "Bharatiya Janta Party",
+          "votes": 3733,
+          "votes_percentage": 6.2
+        }
+      ]
+    }
+  }
+}

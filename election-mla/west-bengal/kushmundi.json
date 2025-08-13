@@ -1,0 +1,57 @@
+{
+  "state": "West Bengal",
+  "constituency": "Kushmundi",
+  "district": "Dakshin Dinajpur",
+  "ac_type": "SC",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 209600,
+        "total_votes_polled": 182477,
+        "turnout_percentage": 87.8,
+        "margin_votes": 12584,
+        "margin_percentage": 6.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rekha Roy",
+          "party": "All India Trinamool Congress",
+          "votes": 89968,
+          "votes_percentage": 49.3
+        },
+        {
+          "position": 2,
+          "name": "Ranjit Kumar Roy",
+          "party": "Bharatiya Janta Party",
+          "votes": 77384,
+          "votes_percentage": 42.4
+        },
+        {
+          "position": 3,
+          "name": "Narmada Chandra Roy",
+          "party": "Revolutionary Socialist Party",
+          "votes": 12571,
+          "votes_percentage": 6.9
+        },
+        {
+          "position": 4,
+          "name": "Biswanath Sarkar",
+          "party": "Bahujan Samaj Party",
+          "votes": 1436,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 5,
+          "name": "Bhimnal Sarkar",
+          "party": "Independent",
+          "votes": 1118,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

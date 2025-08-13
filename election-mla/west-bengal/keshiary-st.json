@@ -1,0 +1,64 @@
+{
+  "state": "West Bengal",
+  "constituency": "KESHIARY (ST)",
+  "district": "Paschim Medinipur",
+  "ac_type": "ST",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 217188,
+        "total_votes_polled": 191219,
+        "turnout_percentage": 89.4,
+        "margin_votes": 40749,
+        "margin_percentage": 21.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Paresh Murmu",
+          "party": "All India Trinamool Congress",
+          "votes": 104890,
+          "votes_percentage": 54.9
+        },
+        {
+          "position": 2,
+          "name": "Biram Mandi",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 64141,
+          "votes_percentage": 33.5
+        },
+        {
+          "position": 3,
+          "name": "Binod Bihari Murmu",
+          "party": "Bharatiya Janta Party",
+          "votes": 18056,
+          "votes_percentage": 9.4
+        },
+        {
+          "position": 4,
+          "name": "Shyamsundar Singh",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1917,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Balai Chandra Nayek",
+          "party": "Independent",
+          "votes": 1426,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Gopen Sing",
+          "party": "Independent",
+          "votes": 789,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

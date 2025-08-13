@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 106803,
+        "male": 113139,
+        "percentage_of_total_population": 11.91,
+        "percentage_of_total_population_calculated": 11.91,
+        "percentage_of_total_population_stated": 11.91,
+        "sex_ratio": 944,
+        "total": 219942
+    },
+    "literacy": {
+        "female_literacy_rate": 73.46,
+        "female_literate": 589888,
+        "male_literacy_rate": 86.37,
+        "male_literate": 711776,
+        "rate_percentage": 80.0,
+        "total_literate": 1301664
+    },
+    "population": {
+        "female": 909817,
+        "male": 937206,
+        "sex_ratio": 971,
+        "total": 1847023
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.04,
+            "population": 715
+        },
+        "Christian": {
+            "percentage": 1.56,
+            "population": 28747
+        },
+        "Hindu": {
+            "percentage": 75.26,
+            "population": 1390020
+        },
+        "Jain": {
+            "percentage": 1.57,
+            "population": 29037
+        },
+        "Muslims": {
+            "percentage": 20.94,
+            "population": 386834
+        },
+        "Not Stated": {
+            "percentage": 0.4,
+            "population": 7436
+        },
+        "Others": {
+            "percentage": 0.15,
+            "population": 2748
+        },
+        "Sikh": {
+            "percentage": 0.08,
+            "population": 1486
+        }
+    },
+    "rural": {
+        "child_population_female": 48829,
+        "child_population_male": 52331,
+        "child_population_percentage": 12.68,
+        "child_population_percentage_calculated": 12.68,
+        "child_population_percentage_stated": 12.68,
+        "child_population_total": 101160,
+        "child_sex_ratio": 933,
+        "female": 388068,
+        "literacy_rate_female": 62.72,
+        "literacy_rate_male": 80.98,
+        "literacy_rate_percentage": 72.09,
+        "literate_female": 212783,
+        "literate_male": 289171,
+        "literate_total": 501954,
+        "male": 409416,
+        "percentage_population": 43.18,
+        "population": 797484,
+        "sex_ratio": 948
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/254-dharwad.html",
+    "urban": {
+        "child_population_female": 57986,
+        "child_population_male": 60796,
+        "child_population_percentage": 11.32,
+        "child_population_percentage_calculated": 11.32,
+        "child_population_percentage_stated": 11.32,
+        "child_population_total": 118782,
+        "child_sex_ratio": 954,
+        "female": 521749,
+        "literacy_rate_female": 81.31,
+        "literacy_rate_male": 90.49,
+        "literacy_rate_percentage": 85.92,
+        "literate_female": 377105,
+        "literate_male": 422605,
+        "literate_total": 799710,
+        "male": 527790,
+        "percentage_population": 56.82,
+        "population": 1049539,
+        "sex_ratio": 989
+    }
+}

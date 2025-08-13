@@ -1,0 +1,106 @@
+{
+  "state": "West Bengal",
+  "constituency": "Keshiary",
+  "district": "Paschim Medinipur",
+  "ac_type": "ST",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 231170,
+        "total_votes_polled": 210111,
+        "turnout_percentage": 92.0,
+        "margin_votes": 15330,
+        "margin_percentage": 7.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Paresh Murmu",
+          "party": "All India Trinamool Congress",
+          "votes": 106366,
+          "votes_percentage": 50.6
+        },
+        {
+          "position": 2,
+          "name": "Sonali Murmu Soren",
+          "party": "Bharatiya Janta Party",
+          "votes": 91036,
+          "votes_percentage": 43.3
+        },
+        {
+          "position": 3,
+          "name": "Dr. Pulin Bihari Baske",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 9270,
+          "votes_percentage": 4.4
+        },
+        {
+          "position": 4,
+          "name": "Mithun Mandi",
+          "party": "Bahujan Samaj Party",
+          "votes": 1904,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Jhareswar Routh",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1535,
+          "votes_percentage": 0.7
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 182643,
+        "total_votes_polled": 167437,
+        "turnout_percentage": 91.7,
+        "margin_votes": 1037,
+        "margin_percentage": 0.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Biram Mandi",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 76976,
+          "votes_percentage": 46.0
+        },
+        {
+          "position": 2,
+          "name": "Shyam Charan Mandi",
+          "party": "All India Trinamool Congress",
+          "votes": 75939,
+          "votes_percentage": 45.4
+        },
+        {
+          "position": 3,
+          "name": "Dilip Routh",
+          "party": "Bharatiya Janta Party",
+          "votes": 6651,
+          "votes_percentage": 4.0
+        },
+        {
+          "position": 4,
+          "name": "Jaba Hansda",
+          "party": "Independent",
+          "votes": 5418,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 5,
+          "name": "Gopal Murmu",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 2453,
+          "votes_percentage": 1.5
+        }
+      ]
+    }
+  }
+}

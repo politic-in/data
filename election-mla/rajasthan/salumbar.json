@@ -1,0 +1,92 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Salumbar",
+  "district": "Udaipur",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 258352,
+        "total_votes_polled": 178658,
+        "turnout_percentage": 71.3,
+        "margin_votes": 21918,
+        "margin_percentage": 12.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Amrit Lal Meena",
+          "party": "Bharatiya Janta Party",
+          "votes": 87472,
+          "votes_percentage": 49.0
+        },
+        {
+          "position": 2,
+          "name": "Raguvir Singh",
+          "party": "Indian National Congress",
+          "votes": 65554,
+          "votes_percentage": 36.7
+        },
+        {
+          "position": 3,
+          "name": "Reshma Meena",
+          "party": "Independent",
+          "votes": 14329,
+          "votes_percentage": 8.0
+        },
+        {
+          "position": 4,
+          "name": "Govind Kalasuya",
+          "party": "Communist Party Of India",
+          "votes": 3562,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 5,
+          "name": "Laluram Bhil",
+          "party": "All India Hindustan Congress Party",
+          "votes": 2891,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 6,
+          "name": "Soma Lal Meena",
+          "party": "Bahujan Samaj Party",
+          "votes": 2495,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 7,
+          "name": "Lal Chand Meena",
+          "party": "Bharatiya Yuva Shakti",
+          "votes": 628,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Ganga Devi",
+          "party": "Janta Sena Rajasthan",
+          "votes": 606,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Laxman Lal",
+          "party": "Shiv Sena",
+          "votes": 586,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Devi Lal Meena",
+          "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+          "votes": 535,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

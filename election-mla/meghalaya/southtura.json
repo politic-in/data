@@ -1,0 +1,85 @@
+{
+  "state": "Meghalaya",
+  "constituency": "SOUTHTURA",
+  "district": "West Garo Hills",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 30197,
+        "total_votes_polled": 22626,
+        "turnout_percentage": 75.5,
+        "margin_votes": 1603,
+        "margin_percentage": 7.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Agatha K. Sangma",
+          "party": "National People's Party",
+          "votes": 6499,
+          "votes_percentage": 28.7
+        },
+        {
+          "position": 2,
+          "name": "Billykid A. Sangma",
+          "party": "Bharatiya Janta Party",
+          "votes": 4896,
+          "votes_percentage": 21.6
+        },
+        {
+          "position": 3,
+          "name": "Grithalson N. Arengh",
+          "party": "Indian National Congress",
+          "votes": 3597,
+          "votes_percentage": 15.9
+        },
+        {
+          "position": 4,
+          "name": "John Leslee K. Sangma",
+          "party": "Nationalist Congress Party",
+          "votes": 3314,
+          "votes_percentage": 14.6
+        },
+        {
+          "position": 5,
+          "name": "Jingjang M. Marak",
+          "party": "Independent",
+          "votes": 2028,
+          "votes_percentage": 9.0
+        },
+        {
+          "position": 6,
+          "name": "Bernard N. Marak",
+          "party": "All India Trinamool Congress",
+          "votes": 1560,
+          "votes_percentage": 6.9
+        },
+        {
+          "position": 7,
+          "name": "Brinbal Sangma",
+          "party": "Independent",
+          "votes": 307,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 8,
+          "name": "Aanamika Jessirella G. Momin",
+          "party": "Independent",
+          "votes": 260,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 10,
+          "name": "Pallab D. Arengh",
+          "party": "Independent",
+          "votes": 165,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

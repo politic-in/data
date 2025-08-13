@@ -1,0 +1,127 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Amer",
+  "district": "Jaipur",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 15,
+      "aggregate": {
+        "total_electors": 240083,
+        "total_votes_polled": 197806,
+        "turnout_percentage": 83.1,
+        "margin_votes": 13276,
+        "margin_percentage": 6.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Satish Poonia",
+          "party": "Bharatiya Janta Party",
+          "votes": 93132,
+          "votes_percentage": 47.1
+        },
+        {
+          "position": 2,
+          "name": "Prashant Sharma",
+          "party": "Indian National Congress",
+          "votes": 79856,
+          "votes_percentage": 40.4
+        },
+        {
+          "position": 3,
+          "name": "Navin Pilaniya",
+          "party": "Bahujan Samaj Party",
+          "votes": 15994,
+          "votes_percentage": 8.1
+        },
+        {
+          "position": 4,
+          "name": "Ramji Lal Yadav",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 1547,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 5,
+          "name": "Lal Chand Sharma",
+          "party": "Independent",
+          "votes": 1537,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Pooran Chand Verma",
+          "party": "Ambedkarite Party Of India",
+          "votes": 1470,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Natwar Singh",
+          "party": "Independent",
+          "votes": 1401,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 8,
+          "name": "Mohan Lal Sharma",
+          "party": "Independent",
+          "votes": 687,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Gauru Singh Deval",
+          "party": "Independent",
+          "votes": 579,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Vinod Meena",
+          "party": "Shiv Sena",
+          "votes": 383,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Afzal Khan",
+          "party": "Independent",
+          "votes": 361,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Hem Chand Saini",
+          "party": "Aam Aadmi Party",
+          "votes": 271,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Karishan Kumar Choudhary",
+          "party": "Independent",
+          "votes": 231,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Ramesh Kumar Sharma",
+          "party": "Bharatiya Yuva Shakti",
+          "votes": 196,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Ramesh Chand Meena",
+          "party": "Panch Party",
+          "votes": 161,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

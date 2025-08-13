@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 114326,
+        "male": 139253,
+        "percentage_of_total_population": 11.03,
+        "percentage_of_total_population_calculated": 11.03,
+        "percentage_of_total_population_stated": 11.03,
+        "sex_ratio": 821,
+        "total": 253579
+    },
+    "literacy": {
+        "female_literacy_rate": 74.85,
+        "female_literate": 727059,
+        "male_literacy_rate": 84.56,
+        "male_literate": 907660,
+        "rate_percentage": 79.95,
+        "total_literate": 1634719
+    },
+    "population": {
+        "female": 1085706,
+        "male": 1212617,
+        "sex_ratio": 895,
+        "total": 2298323
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 405
+        },
+        "Christian": {
+            "percentage": 7.68,
+            "population": 176587
+        },
+        "Hindu": {
+            "percentage": 46.74,
+            "population": 1074332
+        },
+        "Jain": {
+            "percentage": 0.03,
+            "population": 580
+        },
+        "Muslims": {
+            "percentage": 1.2,
+            "population": 27667
+        },
+        "Not Stated": {
+            "percentage": 0.66,
+            "population": 15066
+        },
+        "Others": {
+            "percentage": 0.04,
+            "population": 812
+        },
+        "Sikh": {
+            "percentage": 43.64,
+            "population": 1002874
+        }
+    },
+    "rural": {
+        "child_population_female": 84851,
+        "child_population_male": 103316,
+        "child_population_percentage": 11.48,
+        "child_population_percentage_calculated": 11.48,
+        "child_population_percentage_stated": 11.48,
+        "child_population_total": 188167,
+        "child_sex_ratio": 821,
+        "female": 783220,
+        "literacy_rate_female": 71.55,
+        "literacy_rate_male": 81.98,
+        "literacy_rate_percentage": 76.96,
+        "literate_female": 499685,
+        "literate_male": 616852,
+        "literate_total": 1116537,
+        "male": 855784,
+        "percentage_population": 71.31,
+        "population": 1639004,
+        "sex_ratio": 915
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/588-gurdaspur.html",
+    "urban": {
+        "child_population_female": 29467,
+        "child_population_male": 35945,
+        "child_population_percentage": 9.92,
+        "child_population_percentage_calculated": 9.92,
+        "child_population_percentage_stated": 9.92,
+        "child_population_total": 65412,
+        "child_sex_ratio": 820,
+        "female": 302486,
+        "literacy_rate_female": 83.28,
+        "literacy_rate_male": 90.63,
+        "literacy_rate_percentage": 87.25,
+        "literate_female": 227374,
+        "literate_male": 290808,
+        "literate_total": 518182,
+        "male": 356833,
+        "percentage_population": 28.69,
+        "population": 659319,
+        "sex_ratio": 848
+    }
+}

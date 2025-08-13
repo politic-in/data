@@ -1,0 +1,92 @@
+{
+  "state": "Karnataka",
+  "constituency": "Davanagere",
+  "district": "Davanagere",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "12 May 2018",
+      "counting_date": "11 June 2018",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 201158,
+        "total_votes_polled": 135185,
+        "turnout_percentage": 67.6,
+        "margin_votes": 15884,
+        "margin_percentage": 11.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shamanur Shivashankarappa",
+          "party": "Indian National Congress",
+          "votes": 71369,
+          "votes_percentage": 52.8
+        },
+        {
+          "position": 2,
+          "name": "Yashavantha Rao Jadhav",
+          "party": "Bharatiya Janta Party",
+          "votes": 55485,
+          "votes_percentage": 41.0
+        },
+        {
+          "position": 3,
+          "name": "J. Amanulla Khan",
+          "party": "Janata Dal (Secular)",
+          "votes": 6020,
+          "votes_percentage": 4.5
+        },
+        {
+          "position": 4,
+          "name": "Nowshin Taj",
+          "party": "All India Mahila Empowerment Party",
+          "votes": 869,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 5,
+          "name": "Ahamed Kabeer Ali",
+          "party": "Independent",
+          "votes": 514,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Sadiq K",
+          "party": "Independent",
+          "votes": 261,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Muddapurada Rehman Sab",
+          "party": "Lok Awaz Dal",
+          "votes": 202,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "H. Shaik Habeebulla",
+          "party": "Karnataka Pragnyavantha Janatha Party",
+          "votes": 192,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Raghavendra K L",
+          "party": "Aam Aadmi Party",
+          "votes": 157,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Rizwan Sab H B",
+          "party": "Janahitha Paksha",
+          "votes": 116,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

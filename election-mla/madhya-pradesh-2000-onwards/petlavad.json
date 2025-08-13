@@ -1,0 +1,71 @@
+{
+  "state": "Madhya Pradesh [2000 Onwards]",
+  "constituency": "Petlavad",
+  "district": "Jhabua",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 237867,
+        "total_votes_polled": 194056,
+        "turnout_percentage": 83.8,
+        "margin_votes": 5000,
+        "margin_percentage": 2.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Maida Valsingh",
+          "party": "Indian National Congress",
+          "votes": 93425,
+          "votes_percentage": 48.1
+        },
+        {
+          "position": 2,
+          "name": "Nirmala  Dilipsingh Bhuriya",
+          "party": "Bharatiya Janta Party",
+          "votes": 88425,
+          "votes_percentage": 45.6
+        },
+        {
+          "position": 3,
+          "name": "Sachin Babulal Gamad",
+          "party": "Independent",
+          "votes": 6579,
+          "votes_percentage": 3.4
+        },
+        {
+          "position": 4,
+          "name": "Ramchandra Solanki",
+          "party": "Bahujan Samaj Party",
+          "votes": 2675,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 5,
+          "name": "Kehar Singh Maida",
+          "party": "Independent",
+          "votes": 1437,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Rallu Singh Meda",
+          "party": "Aam Aadmi Party",
+          "votes": 763,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Rameshwar Singar",
+          "party": "Bharatiya Bahujan Party",
+          "votes": 752,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

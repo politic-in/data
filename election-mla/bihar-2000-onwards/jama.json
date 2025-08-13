@@ -1,0 +1,50 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "Jama",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 148175,
+        "total_votes_polled": 85506,
+        "turnout_percentage": 57.7,
+        "margin_votes": 15986,
+        "margin_percentage": 18.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Durga Soren",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 41165,
+          "votes_percentage": 49.0
+        },
+        {
+          "position": 2,
+          "name": "Rabindra Marandi",
+          "party": "Bharatiya Janta Party",
+          "votes": 25179,
+          "votes_percentage": 29.9
+        },
+        {
+          "position": 3,
+          "name": "Mohril Murmu",
+          "party": "Indian National Congress",
+          "votes": 17379,
+          "votes_percentage": 20.7
+        },
+        {
+          "position": 4,
+          "name": "Shiv Kumar Baski",
+          "party": "Independent",
+          "votes": 369,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

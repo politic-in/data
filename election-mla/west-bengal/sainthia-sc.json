@@ -1,0 +1,57 @@
+{
+  "state": "West Bengal",
+  "constituency": "SAINTHIA (SC)",
+  "district": "Birbhum",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 227208,
+        "total_votes_polled": 195564,
+        "turnout_percentage": 87.2,
+        "margin_votes": 38611,
+        "margin_percentage": 19.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nilabati Saha",
+          "party": "All India Trinamool Congress",
+          "votes": 103376,
+          "votes_percentage": 52.9
+        },
+        {
+          "position": 2,
+          "name": "Dhiren Bagdi",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 64765,
+          "votes_percentage": 33.1
+        },
+        {
+          "position": 3,
+          "name": "Piya Saha",
+          "party": "Bharatiya Janta Party",
+          "votes": 24029,
+          "votes_percentage": 12.3
+        },
+        {
+          "position": 4,
+          "name": "Paban Kumar Bagdi",
+          "party": "Independent",
+          "votes": 1860,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Naba Kumar Das",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1534,
+          "votes_percentage": 0.8
+        }
+      ]
+    }
+  }
+}

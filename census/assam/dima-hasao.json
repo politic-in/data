@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 15935,
+        "male": 16479,
+        "percentage_of_total_population": 15.14,
+        "percentage_of_total_population_calculated": 15.14,
+        "percentage_of_total_population_stated": 15.14,
+        "sex_ratio": 967,
+        "total": 32414
+    },
+    "literacy": {
+        "female_literacy_rate": 71.33,
+        "female_literate": 62314,
+        "male_literacy_rate": 83.29,
+        "male_literate": 78559,
+        "rate_percentage": 77.54,
+        "total_literate": 140873
+    },
+    "population": {
+        "female": 103300,
+        "male": 110802,
+        "sex_ratio": 932,
+        "total": 214102
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.32,
+            "population": 680
+        },
+        "Christian": {
+            "percentage": 29.57,
+            "population": 63310
+        },
+        "Hindu": {
+            "percentage": 67.07,
+            "population": 143593
+        },
+        "Jain": {
+            "percentage": 0.03,
+            "population": 70
+        },
+        "Muslims": {
+            "percentage": 2.04,
+            "population": 4358
+        },
+        "Not Stated": {
+            "percentage": 0.33,
+            "population": 714
+        },
+        "Others": {
+            "percentage": 0.55,
+            "population": 1170
+        },
+        "Sikh": {
+            "percentage": 0.1,
+            "population": 207
+        }
+    },
+    "rural": {
+        "child_population_female": 12318,
+        "child_population_male": 12749,
+        "child_population_percentage": 16.53,
+        "child_population_percentage_calculated": 16.53,
+        "child_population_percentage_stated": 16.53,
+        "child_population_total": 25067,
+        "child_sex_ratio": 966,
+        "female": 73796,
+        "literacy_rate_female": 64.01,
+        "literacy_rate_male": 77.85,
+        "literacy_rate_percentage": 71.13,
+        "literate_female": 39351,
+        "literate_male": 50658,
+        "literate_total": 90009,
+        "male": 77817,
+        "percentage_population": 70.81,
+        "population": 151613,
+        "sex_ratio": 948
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/150-dima-hasao.html",
+    "urban": {
+        "child_population_female": 3616,
+        "child_population_male": 3731,
+        "child_population_percentage": 11.76,
+        "child_population_percentage_calculated": 11.76,
+        "child_population_percentage_stated": 11.76,
+        "child_population_total": 7347,
+        "child_sex_ratio": 969,
+        "female": 29504,
+        "literacy_rate_female": 88.7,
+        "literacy_rate_male": 95.37,
+        "literacy_rate_percentage": 92.24,
+        "literate_female": 22963,
+        "literate_male": 27901,
+        "literate_total": 50864,
+        "male": 32985,
+        "percentage_population": 29.19,
+        "population": 62489,
+        "sex_ratio": 894
+    }
+}

@@ -1,0 +1,63 @@
+{
+  "state": "Uttarakhand",
+  "constituency": "GANGOLIHAT(SC)",
+  "district": "Pithoragarh",
+  "ac_type": "SC",
+  "results": {
+    "2022": {
+      "poll_date": "14 February 2022",
+      "counting_date": "10 March 2022",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_votes_polled": 56915,
+        "turnout_percentage": 0.0,
+        "margin_votes": 10053,
+        "margin_percentage": 17.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Fakeer Ram",
+          "party": "Bharatiya Janta Party",
+          "votes": 32296,
+          "votes_percentage": 56.7
+        },
+        {
+          "position": 2,
+          "name": "Khajan Chandra Guddu",
+          "party": "Indian National Congress",
+          "votes": 22243,
+          "votes_percentage": 39.1
+        },
+        {
+          "position": 3,
+          "name": "Hari Prasad",
+          "party": "Uttarakhand Kranti Dal",
+          "votes": 1004,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 4,
+          "name": "Babita Chandra",
+          "party": "Aam Aadmi Party",
+          "votes": 554,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Rekha",
+          "party": "Bahujan Samaj Party",
+          "votes": 535,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Bal Ram",
+          "party": "Samajwadi Party",
+          "votes": 283,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

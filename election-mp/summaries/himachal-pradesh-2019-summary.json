@@ -1,0 +1,73 @@
+{
+  "state": "Himachal Pradesh",
+  "year": "2019",
+  "summary_stats": {
+    "total_electors_state": 4810071,
+    "total_votes_polled_state": 3850733,
+    "turnout_percentage_state": 80.1,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Hamirpur",
+      "ac_no": 3,
+      "ac_type": "GEN",
+      "district": "Himachal Pradesh",
+      "winning_candidate": "Anurag Singh Thakur",
+      "winning_party": "Bharatiya Janta Party",
+      "total_electors_ac": 1247699,
+      "total_votes_ac": 988765,
+      "poll_percentage_ac": 0.0,
+      "margin": 399572,
+      "margin_percentage": 40.4,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2019/himachal-pradesh/hamirpur/10120/22/17"
+    },
+    {
+      "ac_name": "Kangra",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Himachal Pradesh",
+      "winning_candidate": "Kishan Kapoor",
+      "winning_party": "Bharatiya Janta Party",
+      "total_electors_ac": 1258601,
+      "total_votes_ac": 1006989,
+      "poll_percentage_ac": 0.0,
+      "margin": 477623,
+      "margin_percentage": 47.4,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2019/himachal-pradesh/kangra/10118/22/17"
+    },
+    {
+      "ac_name": "Mandi",
+      "ac_no": 2,
+      "ac_type": "GEN",
+      "district": "Himachal Pradesh",
+      "winning_candidate": "Ram Swaroop Sharma",
+      "winning_party": "Bharatiya Janta Party",
+      "total_electors_ac": 1150408,
+      "total_votes_ac": 941371,
+      "poll_percentage_ac": 0.0,
+      "margin": 405459,
+      "margin_percentage": 43.1,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2019/himachal-pradesh/mandi/10119/22/17"
+    },
+    {
+      "ac_name": "Shimla",
+      "ac_no": 4,
+      "ac_type": "SC",
+      "district": "Himachal Pradesh",
+      "winning_candidate": "Suresh Kumar Kashyap",
+      "winning_party": "Bharatiya Janta Party",
+      "total_electors_ac": 1153363,
+      "total_votes_ac": 913608,
+      "poll_percentage_ac": 0.0,
+      "margin": 327515,
+      "margin_percentage": 35.8,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2019/himachal-pradesh/shimla/10121/22/17"
+    }
+  ]
+}

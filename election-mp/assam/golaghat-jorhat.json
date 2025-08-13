@@ -1,0 +1,41 @@
+{
+  "state": "Assam",
+  "constituency": "GOLAGHAT JORHAT",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 363384,
+        "total_votes_polled": 172180,
+        "turnout_percentage": 47.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Debeswar Sarma",
+          "party": "Indian National Congress",
+          "votes": 93002,
+          "votes_percentage": 54.0
+        },
+        {
+          "position": 2,
+          "name": "Bhabesh Chandra Barua",
+          "party": "Socialist Party",
+          "votes": 42327,
+          "votes_percentage": 24.6
+        },
+        {
+          "position": 3,
+          "name": "Nalini Nath Phukan",
+          "party": "All Peoples Party",
+          "votes": 36851,
+          "votes_percentage": 21.4
+        }
+      ]
+    }
+  }
+}

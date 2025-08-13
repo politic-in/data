@@ -1,0 +1,78 @@
+{
+  "state": "Goa, Daman And Diu",
+  "constituency": "Dabolim",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 18663,
+        "total_votes_polled": 12236,
+        "turnout_percentage": 65.6,
+        "margin_votes": 3270,
+        "margin_percentage": 26.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Douradao Narculano Luis",
+          "party": "Indian National Congress (U)",
+          "votes": 5780,
+          "votes_percentage": 48.7
+        },
+        {
+          "position": 2,
+          "name": "Bandekar Shankar Vishnu",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 2510,
+          "votes_percentage": 21.2
+        },
+        {
+          "position": 3,
+          "name": "Salgaonkar Shankar Kashiram",
+          "party": "Independent",
+          "votes": 2474,
+          "votes_percentage": 20.9
+        },
+        {
+          "position": 4,
+          "name": "Parulekar Prakash Dattaram",
+          "party": "Janta Party",
+          "votes": 464,
+          "votes_percentage": 3.9
+        },
+        {
+          "position": 5,
+          "name": "Fernandes Nalson Lourence P",
+          "party": "Janta Party (SECULAR)",
+          "votes": 338,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 6,
+          "name": "Mandrekar Sitaram Saulo",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 140,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 7,
+          "name": "Henriques Gandhi Eustacio",
+          "party": "Independent",
+          "votes": 132,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 8,
+          "name": "Lotilkar Vithal Benkatesh",
+          "party": "Independent",
+          "votes": 25,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

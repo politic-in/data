@@ -1,0 +1,57 @@
+{
+  "state": "West Bengal",
+  "constituency": "DHUPGURI (SC)",
+  "district": "Jalpaiguri",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 236718,
+        "total_votes_polled": 205472,
+        "turnout_percentage": 88.2,
+        "margin_votes": 19264,
+        "margin_percentage": 9.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mitali Roy",
+          "party": "All India Trinamool Congress",
+          "votes": 90781,
+          "votes_percentage": 44.2
+        },
+        {
+          "position": 2,
+          "name": "Mamata Roy",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 71517,
+          "votes_percentage": 34.8
+        },
+        {
+          "position": 3,
+          "name": "Agun Roy",
+          "party": "Bharatiya Janta Party",
+          "votes": 36167,
+          "votes_percentage": 17.6
+        },
+        {
+          "position": 5,
+          "name": "Niranjan Roy",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 2361,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 6,
+          "name": "Beddyuti Roy",
+          "party": "Bahujan Samaj Party",
+          "votes": 2002,
+          "votes_percentage": 1.0
+        }
+      ]
+    }
+  }
+}

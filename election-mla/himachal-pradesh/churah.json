@@ -1,0 +1,120 @@
+{
+  "state": "Himachal Pradesh",
+  "constituency": "CHURAH",
+  "district": "Chamba",
+  "ac_type": "SC",
+  "results": {
+    "2022": {
+      "poll_date": "12 November 2022",
+      "counting_date": "08 December 2022",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 74701,
+        "total_votes_polled": 61933,
+        "turnout_percentage": 83.4,
+        "margin_votes": 2642,
+        "margin_percentage": 4.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Hans Raj",
+          "party": "Bharatiya Janta Party",
+          "votes": 32095,
+          "votes_percentage": 51.5
+        },
+        {
+          "position": 2,
+          "name": "Yashwant Singh",
+          "party": "Indian National Congress",
+          "votes": 29453,
+          "votes_percentage": 47.3
+        },
+        {
+          "position": 3,
+          "name": "Nand Kumar Jaryal",
+          "party": "Aam Aadmi Party",
+          "votes": 385,
+          "votes_percentage": 0.6
+        }
+      ]
+    },
+    "2017": {
+      "poll_date": "09 November 2017",
+      "counting_date": "18 December 2017",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 66324,
+        "total_votes_polled": 52509,
+        "turnout_percentage": 79.9,
+        "margin_votes": 4944,
+        "margin_percentage": 9.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Hans Raj",
+          "party": "Bharatiya Janta Party",
+          "votes": 28293,
+          "votes_percentage": 53.9
+        },
+        {
+          "position": 2,
+          "name": "Surender Bhardwaj",
+          "party": "Indian National Congress",
+          "votes": 23349,
+          "votes_percentage": 44.5
+        },
+        {
+          "position": 3,
+          "name": "Nand Kumar",
+          "party": "Samajwadi Party",
+          "votes": 442,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 4,
+          "name": "Des Raj",
+          "party": "Independent",
+          "votes": 425,
+          "votes_percentage": 0.8
+        }
+      ]
+    },
+    "2012": {
+      "poll_date": "",
+      "counting_date": "20 December 2012",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 61120,
+        "total_votes_polled": 48544,
+        "turnout_percentage": 79.4,
+        "margin_votes": 2211,
+        "margin_percentage": 4.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Hans Raj",
+          "party": "Bharatiya Janta Party",
+          "votes": 24978,
+          "votes_percentage": 51.5
+        },
+        {
+          "position": 2,
+          "name": "Surinder Bhardwaj",
+          "party": "Indian National Congress",
+          "votes": 22767,
+          "votes_percentage": 46.9
+        },
+        {
+          "position": 3,
+          "name": "Kishan Chand",
+          "party": "Bahujan Samaj Party",
+          "votes": 799,
+          "votes_percentage": 1.7
+        }
+      ]
+    }
+  }
+}

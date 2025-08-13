@@ -1,0 +1,85 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "Lohardaga",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 148651,
+        "total_votes_polled": 49061,
+        "turnout_percentage": 33.0,
+        "margin_votes": 848,
+        "margin_percentage": 1.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sadhanu Bhagat",
+          "party": "Bharatiya Janta Party",
+          "votes": 16979,
+          "votes_percentage": 35.2
+        },
+        {
+          "position": 2,
+          "name": "Indra Nath Bhagat",
+          "party": "Indian National Congress",
+          "votes": 16131,
+          "votes_percentage": 33.5
+        },
+        {
+          "position": 3,
+          "name": "Pawan Ekka",
+          "party": "Rashtriya Janata Dal",
+          "votes": 10863,
+          "votes_percentage": 22.5
+        },
+        {
+          "position": 4,
+          "name": "Pinju Bhagat",
+          "party": "Independent",
+          "votes": 1168,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 5,
+          "name": "Basudeo Oraon",
+          "party": "Independent",
+          "votes": 971,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 6,
+          "name": "Jagdip Oraon",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 873,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 7,
+          "name": "Shivdeo Bhagat",
+          "party": "Bahujan Samaj Party",
+          "votes": 595,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 8,
+          "name": "Abhay Kujur",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 363,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 9,
+          "name": "Kamla Devi",
+          "party": "National Democratic Peoples Front",
+          "votes": 286,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "state": "Uttarakhand",
+  "constituency": "PAURI(SC)",
+  "district": "Garhwal",
+  "ac_type": "SC",
+  "results": {
+    "2022": {
+      "poll_date": "14 February 2022",
+      "counting_date": "10 March 2022",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_votes_polled": 48499,
+        "turnout_percentage": 0.0,
+        "margin_votes": 5738,
+        "margin_percentage": 11.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rajkumar Pori",
+          "party": "Bharatiya Janta Party",
+          "votes": 25865,
+          "votes_percentage": 53.3
+        },
+        {
+          "position": 2,
+          "name": "Naval Kishor",
+          "party": "Indian National Congress",
+          "votes": 20127,
+          "votes_percentage": 41.5
+        },
+        {
+          "position": 3,
+          "name": "Manohar Lal",
+          "party": "Aam Aadmi Party",
+          "votes": 736,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 4,
+          "name": "Rajendra Prasad",
+          "party": "Samajwadi Party",
+          "votes": 458,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Ramesh Chandra",
+          "party": "Bahujan Samaj Party",
+          "votes": 423,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Poonam Singh",
+          "party": "Uttarakhand Kranti Dal",
+          "votes": 358,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Onkar Singh",
+          "party": "Uttarakhand Janekta Party",
+          "votes": 343,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 8,
+          "name": "Hari Kumar",
+          "party": "Akhand Bharat Vikas Party",
+          "votes": 189,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

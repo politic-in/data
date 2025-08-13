@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 92750,
+        "male": 97529,
+        "percentage_of_total_population": 16.2,
+        "percentage_of_total_population_calculated": 16.2,
+        "percentage_of_total_population_stated": 16.2,
+        "sex_ratio": 951,
+        "total": 190279
+    },
+    "literacy": {
+        "female_literacy_rate": 41.38,
+        "female_literate": 203252,
+        "male_literacy_rate": 62.25,
+        "male_literate": 306751,
+        "rate_percentage": 51.83,
+        "total_literate": 510003
+    },
+    "population": {
+        "female": 583942,
+        "male": 590329,
+        "sex_ratio": 989,
+        "total": 1174271
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.68,
+            "population": 7970
+        },
+        "Christian": {
+            "percentage": 0.74,
+            "population": 8677
+        },
+        "Hindu": {
+            "percentage": 84.99,
+            "population": 997974
+        },
+        "Jain": {
+            "percentage": 0.13,
+            "population": 1519
+        },
+        "Muslims": {
+            "percentage": 13.23,
+            "population": 155340
+        },
+        "Not Stated": {
+            "percentage": 0.12,
+            "population": 1464
+        },
+        "Others": {
+            "percentage": 0.08,
+            "population": 996
+        },
+        "Sikh": {
+            "percentage": 0.03,
+            "population": 331
+        }
+    },
+    "rural": {
+        "child_population_female": 77205,
+        "child_population_male": 80922,
+        "child_population_percentage": 16.58,
+        "child_population_percentage_calculated": 16.58,
+        "child_population_percentage_stated": 16.58,
+        "child_population_total": 158127,
+        "child_sex_ratio": 954,
+        "female": 474516,
+        "literacy_rate_female": 36.05,
+        "literacy_rate_male": 58.02,
+        "literacy_rate_percentage": 47.05,
+        "literate_female": 143246,
+        "literate_male": 230998,
+        "literate_total": 374244,
+        "male": 479078,
+        "percentage_population": 81.21,
+        "population": 953594,
+        "sex_ratio": 990
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/270-yadgir.html",
+    "urban": {
+        "child_population_female": 15552,
+        "child_population_male": 16600,
+        "child_population_percentage": 14.57,
+        "child_population_percentage_calculated": 14.57,
+        "child_population_percentage_stated": 14.57,
+        "child_population_total": 32152,
+        "child_sex_ratio": 937,
+        "female": 109426,
+        "literacy_rate_female": 63.92,
+        "literacy_rate_male": 80.03,
+        "literacy_rate_percentage": 72.01,
+        "literate_female": 60006,
+        "literate_male": 75753,
+        "literate_total": 135759,
+        "male": 111251,
+        "percentage_population": 18.79,
+        "population": 220677,
+        "sex_ratio": 984
+    }
+}

@@ -1,0 +1,78 @@
+{
+  "state": "Maharashtra",
+  "constituency": "Walwa",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 122618,
+        "total_votes_polled": 86492,
+        "turnout_percentage": 70.5,
+        "margin_votes": 7923,
+        "margin_percentage": 9.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Patil Vishwasrao Atmaram",
+          "party": "Janata Party (JP)",
+          "votes": 40779,
+          "votes_percentage": 47.9
+        },
+        {
+          "position": 2,
+          "name": "Patil Gulabrao Raghunath",
+          "party": "Indian National Congress (I)",
+          "votes": 32856,
+          "votes_percentage": 38.6
+        },
+        {
+          "position": 3,
+          "name": "Patil Manikrao Mohanrao",
+          "party": "Indian National Congress (U)",
+          "votes": 5646,
+          "votes_percentage": 6.6
+        },
+        {
+          "position": 4,
+          "name": "Patil Chandrakant Bhimrao",
+          "party": "Independent",
+          "votes": 3535,
+          "votes_percentage": 4.2
+        },
+        {
+          "position": 5,
+          "name": "Patil Ashok Ramchandra",
+          "party": "Bharatiya Janta Party",
+          "votes": 1123,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 6,
+          "name": "Kamble Krishnarao Bhau",
+          "party": "Independent",
+          "votes": 544,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Patil Mahadevrao Hindurao",
+          "party": "Independent",
+          "votes": 406,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Sabnis Balkrishna Vinayak",
+          "party": "Independent",
+          "votes": 214,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

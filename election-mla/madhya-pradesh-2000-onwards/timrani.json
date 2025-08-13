@@ -1,0 +1,78 @@
+{
+  "state": "Madhya Pradesh [2000 Onwards]",
+  "constituency": "Timrani",
+  "district": "Harda",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 169055,
+        "total_votes_polled": 137732,
+        "turnout_percentage": 83.9,
+        "margin_votes": 2213,
+        "margin_percentage": 1.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sanjay Shah \"makrai\"",
+          "party": "Bharatiya Janta Party",
+          "votes": 64033,
+          "votes_percentage": 46.5
+        },
+        {
+          "position": 2,
+          "name": "Abhijeet Shah (MAKDAI)",
+          "party": "Indian National Congress",
+          "votes": 61820,
+          "votes_percentage": 44.9
+        },
+        {
+          "position": 3,
+          "name": "Nandkishor Bete Amakhal",
+          "party": "Gondvana Gantantra Party",
+          "votes": 5722,
+          "votes_percentage": 4.2
+        },
+        {
+          "position": 4,
+          "name": "Bhagirath Evane",
+          "party": "Bahujan Samaj Party",
+          "votes": 1799,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 5,
+          "name": "Nanakram",
+          "party": "Independent",
+          "votes": 1590,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 6,
+          "name": "Mangeelal-Kajle",
+          "party": "Independent",
+          "votes": 1240,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 7,
+          "name": "Dr. Ramesh Chandar Bhilala",
+          "party": "Aam Aadmi Party",
+          "votes": 808,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "Rahul Bhilala",
+          "party": "Shiv Sena",
+          "votes": 720,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "state": "Assam",
+  "constituency": "Morigaon",
+  "district": "Marigaon",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 184785,
+        "total_votes_polled": 155011,
+        "turnout_percentage": 84.7,
+        "margin_votes": 36532,
+        "margin_percentage": 23.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rama Kanta Dewri",
+          "party": "Bharatiya Janta Party",
+          "votes": 81657,
+          "votes_percentage": 52.7
+        },
+        {
+          "position": 2,
+          "name": "Bani Kanta Das",
+          "party": "Assam Jatiya Parishad",
+          "votes": 45125,
+          "votes_percentage": 29.1
+        },
+        {
+          "position": 3,
+          "name": "Munin Mahanta",
+          "party": "Communist Party Of India",
+          "votes": 27290,
+          "votes_percentage": 17.6
+        },
+        {
+          "position": 4,
+          "name": "Ratul Bora",
+          "party": "Independent",
+          "votes": 939,
+          "votes_percentage": 0.6
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "04 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 150856,
+        "total_votes_polled": 112884,
+        "turnout_percentage": 74.8,
+        "margin_votes": 27159,
+        "margin_percentage": 24.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jonjonali Baruah",
+          "party": "Indian National Congress",
+          "votes": 54264,
+          "votes_percentage": 48.1
+        },
+        {
+          "position": 2,
+          "name": "Bireswar Medhi",
+          "party": "Asom Gana Parisad",
+          "votes": 27105,
+          "votes_percentage": 24.0
+        },
+        {
+          "position": 3,
+          "name": "Munin Mahanta",
+          "party": "Communist Party Of India",
+          "votes": 18663,
+          "votes_percentage": 16.5
+        },
+        {
+          "position": 4,
+          "name": "Prahlad Chandra Bhuyan",
+          "party": "Bharatiya Janta Party",
+          "votes": 7300,
+          "votes_percentage": 6.5
+        },
+        {
+          "position": 5,
+          "name": "Anupam Boruah",
+          "party": "All India United Democratic Front",
+          "votes": 2377,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 6,
+          "name": "Mileswar Patar",
+          "party": "Independent",
+          "votes": 2201,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 7,
+          "name": "Abuddin Ahmed",
+          "party": "All India Trinamool Congress",
+          "votes": 974,
+          "votes_percentage": 0.9
+        }
+      ]
+    }
+  }
+}

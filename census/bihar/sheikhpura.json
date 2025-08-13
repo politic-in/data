@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 58942,
+        "male": 62705,
+        "percentage_of_total_population": 19.12,
+        "percentage_of_total_population_calculated": 19.12,
+        "percentage_of_total_population_stated": 19.12,
+        "sex_ratio": 940,
+        "total": 121647
+    },
+    "literacy": {
+        "female_literacy_rate": 53.4,
+        "female_literate": 132245,
+        "male_literacy_rate": 73.56,
+        "male_literate": 196431,
+        "rate_percentage": 63.86,
+        "total_literate": 328676
+    },
+    "population": {
+        "female": 306599,
+        "male": 329743,
+        "sex_ratio": 930,
+        "total": 636342
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 41
+        },
+        "Christian": {
+            "percentage": 0.05,
+            "population": 313
+        },
+        "Hindu": {
+            "percentage": 93.68,
+            "population": 596102
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 43
+        },
+        "Muslims": {
+            "percentage": 5.92,
+            "population": 37653
+        },
+        "Not Stated": {
+            "percentage": 0.33,
+            "population": 2084
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 31
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 75
+        }
+    },
+    "rural": {
+        "child_population_female": 50075,
+        "child_population_male": 52975,
+        "child_population_percentage": 19.54,
+        "child_population_percentage_calculated": 19.54,
+        "child_population_percentage_stated": 19.54,
+        "child_population_total": 103050,
+        "child_sex_ratio": 945,
+        "female": 254980,
+        "literacy_rate_female": 51.42,
+        "literacy_rate_male": 72.53,
+        "literacy_rate_percentage": 62.34,
+        "literate_female": 105371,
+        "literate_male": 159124,
+        "literate_total": 264495,
+        "male": 272360,
+        "percentage_population": 82.87,
+        "population": 527340,
+        "sex_ratio": 936
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/80-sheikhpura.html",
+    "urban": {
+        "child_population_female": 8862,
+        "child_population_male": 9735,
+        "child_population_percentage": 17.06,
+        "child_population_percentage_calculated": 17.06,
+        "child_population_percentage_stated": 17.06,
+        "child_population_total": 18597,
+        "child_sex_ratio": 910,
+        "female": 51619,
+        "literacy_rate_female": 62.85,
+        "literacy_rate_male": 78.3,
+        "literacy_rate_percentage": 70.99,
+        "literate_female": 26874,
+        "literate_male": 37307,
+        "literate_total": 64181,
+        "male": 57383,
+        "percentage_population": 17.13,
+        "population": 109002,
+        "sex_ratio": 900
+    }
+}

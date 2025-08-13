@@ -1,0 +1,48 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "DARBHANGA CENTRAL",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 394744,
+        "total_votes_polled": 136243,
+        "turnout_percentage": 34.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shri Narayan Das",
+          "party": "Indian National Congress",
+          "votes": 79435,
+          "votes_percentage": 58.3
+        },
+        {
+          "position": 2,
+          "name": "Ramnandan Mishra",
+          "party": "Socialist Party",
+          "votes": 30806,
+          "votes_percentage": 22.6
+        },
+        {
+          "position": 3,
+          "name": "Nageshwar Mishra",
+          "party": "Independent",
+          "votes": 14244,
+          "votes_percentage": 10.5
+        },
+        {
+          "position": 4,
+          "name": "Bhogudra Jha",
+          "party": "Communist Party Of India",
+          "votes": 11758,
+          "votes_percentage": 8.6
+        }
+      ]
+    }
+  }
+}

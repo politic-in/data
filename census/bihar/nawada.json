@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 191209,
+        "male": 202338,
+        "percentage_of_total_population": 17.73,
+        "percentage_of_total_population_calculated": 17.73,
+        "percentage_of_total_population_stated": 17.73,
+        "sex_ratio": 945,
+        "total": 393547
+    },
+    "literacy": {
+        "female_literacy_rate": 48.86,
+        "female_literate": 431538,
+        "male_literacy_rate": 69.98,
+        "male_literate": 659474,
+        "rate_percentage": 59.76,
+        "total_literate": 1091012
+    },
+    "population": {
+        "female": 1074478,
+        "male": 1144668,
+        "sex_ratio": 939,
+        "total": 2219146
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 176
+        },
+        "Christian": {
+            "percentage": 0.06,
+            "population": 1299
+        },
+        "Hindu": {
+            "percentage": 88.53,
+            "population": 1964620
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 279
+        },
+        "Muslims": {
+            "percentage": 11.01,
+            "population": 244394
+        },
+        "Not Stated": {
+            "percentage": 0.36,
+            "population": 8048
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 80
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 250
+        }
+    },
+    "rural": {
+        "child_population_female": 175305,
+        "child_population_male": 185097,
+        "child_population_percentage": 17.99,
+        "child_population_percentage_calculated": 17.99,
+        "child_population_percentage_stated": 17.99,
+        "child_population_total": 360402,
+        "child_sex_ratio": 947,
+        "female": 971911,
+        "literacy_rate_female": 46.7,
+        "literacy_rate_male": 68.76,
+        "literacy_rate_percentage": 58.06,
+        "literate_female": 372012,
+        "literate_male": 582080,
+        "literate_total": 954092,
+        "male": 1031656,
+        "percentage_population": 90.29,
+        "population": 2003567,
+        "sex_ratio": 942
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/89-nawada.html",
+    "urban": {
+        "child_population_female": 15932,
+        "child_population_male": 17213,
+        "child_population_percentage": 15.37,
+        "child_population_percentage_calculated": 15.37,
+        "child_population_percentage_stated": 15.37,
+        "child_population_total": 33145,
+        "child_sex_ratio": 926,
+        "female": 102567,
+        "literacy_rate_female": 68.71,
+        "literacy_rate_male": 80.79,
+        "literacy_rate_percentage": 75.05,
+        "literate_female": 59526,
+        "literate_male": 77394,
+        "literate_total": 136920,
+        "male": 113012,
+        "percentage_population": 9.71,
+        "population": 215579,
+        "sex_ratio": 908
+    }
+}

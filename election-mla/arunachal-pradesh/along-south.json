@@ -1,0 +1,127 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Along South",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1984": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 11390,
+        "total_votes_polled": 8895,
+        "turnout_percentage": 78.1,
+        "margin_votes": 1253,
+        "margin_percentage": 14.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Doi Ado",
+          "party": "Peoples Party Of Arunachal",
+          "votes": 4523,
+          "votes_percentage": 52.5
+        },
+        {
+          "position": 2,
+          "name": "Boken Ete",
+          "party": "Independent",
+          "votes": 3270,
+          "votes_percentage": 38.0
+        },
+        {
+          "position": 3,
+          "name": "Kardu Taipodia",
+          "party": "Indian National Congress",
+          "votes": 821,
+          "votes_percentage": 9.5
+        }
+      ]
+    },
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 9488,
+        "total_votes_polled": 7192,
+        "turnout_percentage": 75.8,
+        "margin_votes": 1525,
+        "margin_percentage": 21.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tumpakete",
+          "party": "Peoples Party Of Arunachal",
+          "votes": 3602,
+          "votes_percentage": 51.6
+        },
+        {
+          "position": 2,
+          "name": "Boken Ette",
+          "party": "Indian National Congress (I)",
+          "votes": 2077,
+          "votes_percentage": 29.7
+        },
+        {
+          "position": 3,
+          "name": "Togum Lollen",
+          "party": "Indian National Congress (U)",
+          "votes": 1305,
+          "votes_percentage": 18.7
+        }
+      ]
+    },
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 8738,
+        "total_votes_polled": 7237,
+        "turnout_percentage": 82.8,
+        "margin_votes": 468,
+        "margin_percentage": 6.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Boken Ette",
+          "party": "Independent",
+          "votes": 1972,
+          "votes_percentage": 27.9
+        },
+        {
+          "position": 2,
+          "name": "Tumpak Ete",
+          "party": "Janta Party",
+          "votes": 1504,
+          "votes_percentage": 21.3
+        },
+        {
+          "position": 3,
+          "name": "Taken Riba",
+          "party": "Independent",
+          "votes": 1308,
+          "votes_percentage": 18.5
+        },
+        {
+          "position": 4,
+          "name": "Togum Lollen",
+          "party": "Independent",
+          "votes": 1244,
+          "votes_percentage": 17.6
+        },
+        {
+          "position": 5,
+          "name": "Dagmo Jini",
+          "party": "Peoples Party Of Arunachal",
+          "votes": 1045,
+          "votes_percentage": 14.8
+        }
+      ]
+    }
+  }
+}

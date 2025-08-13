@@ -1,0 +1,71 @@
+{
+  "state": "West Bengal",
+  "constituency": "RAIPUR (ST)",
+  "district": "Bankura",
+  "ac_type": "ST",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 204350,
+        "total_votes_polled": 174107,
+        "turnout_percentage": 86.8,
+        "margin_votes": 26722,
+        "margin_percentage": 15.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Birendra Nath Tudu",
+          "party": "All India Trinamool Congress",
+          "votes": 89841,
+          "votes_percentage": 51.6
+        },
+        {
+          "position": 2,
+          "name": "Dilip Kumar Hansda",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 63119,
+          "votes_percentage": 36.3
+        },
+        {
+          "position": 3,
+          "name": "Shudhanshu Hansda",
+          "party": "Bharatiya Janta Party",
+          "votes": 14332,
+          "votes_percentage": 8.2
+        },
+        {
+          "position": 4,
+          "name": "Chunaram Saren",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 2769,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 5,
+          "name": "Dulal Saren",
+          "party": "Independent",
+          "votes": 1740,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Kandan Mandi",
+          "party": "Communist Party Of India (Marxist-Leninist) Red Star",
+          "votes": 1552,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 7,
+          "name": "Kalipada Hembram",
+          "party": "Bahujan Mukti Party",
+          "votes": 754,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

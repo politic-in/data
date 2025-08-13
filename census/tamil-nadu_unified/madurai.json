@@ -1,0 +1,87 @@
+{
+    "district": "Madurai",
+    "state": "Tamil Nadu",
+    "source_census2011": "https://www.census2011.co.in/census/district/45-madurai.html",
+    "source_secondary": "https://www.censusindia.co.in/district/madurai-district-tamil-nadu-623",
+    "child_population": {
+        "total": 313978,
+        "male": 162517,
+        "female": 151461,
+        "sex_ratio": 932,
+        "percentage_of_total_population": 10.33,
+        "percentage_of_total_population_calculated": 10.33,
+        "percentage_of_total_population_stated": 10.33
+    },
+    "religion": {
+        "Hindu": {
+            "population": 2760502,
+            "percentage": 90.86
+        },
+        "Muslims": {
+            "population": 168881,
+            "percentage": 5.56
+        },
+        "Christian": {
+            "population": 97711,
+            "percentage": 3.22
+        },
+        "Sikh": {
+            "population": 520,
+            "percentage": 0.02
+        },
+        "Buddhist": {
+            "population": 199,
+            "percentage": 0.01
+        },
+        "Jain": {
+            "population": 1532,
+            "percentage": 0.05
+        },
+        "Others": {
+            "population": 305,
+            "percentage": 0.01
+        },
+        "Not Stated": {
+            "population": 8602,
+            "percentage": 0.28
+        }
+    },
+    "rural": {
+        "population": 1191451,
+        "male": 0,
+        "female": 0,
+        "sex_ratio": 982,
+        "percentage_population": 0,
+        "literacy_rate_percentage": 74.14,
+        "literacy_rate_male": 0,
+        "literacy_rate_female": 0,
+        "literate_total": 788090,
+        "literate_male": 446459,
+        "literate_female": 341631
+    },
+    "urban": {
+        "population": 1846801,
+        "male": 0,
+        "female": 0,
+        "sex_ratio": 996,
+        "percentage_population": 0,
+        "literacy_rate_percentage": 89.41,
+        "literacy_rate_male": 0,
+        "literacy_rate_female": 0,
+        "literate_total": 1485340,
+        "literate_male": 777351,
+        "literate_female": 707989
+    },
+    "scheduled_caste": {
+        "total": 408976,
+        "percentage_of_total_population": 13.5,
+        "male": 205098,
+        "female": 203878
+    },
+    "scheduled_tribe": {
+        "total": 11096,
+        "percentage_of_total_population": 0.4,
+        "male": 5622,
+        "female": 5474
+    }
+}

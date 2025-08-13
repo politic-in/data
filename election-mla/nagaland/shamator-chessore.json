@@ -1,0 +1,50 @@
+{
+  "state": "Nagaland",
+  "constituency": "Shamator Chessore",
+  "district": "Tuensang",
+  "ac_type": "ST",
+  "results": {
+    "2013": {
+      "poll_date": "23 February 2013",
+      "counting_date": "28 February 2013",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 17582,
+        "total_votes_polled": 15274,
+        "turnout_percentage": 86.9,
+        "margin_votes": 2914,
+        "margin_percentage": 19.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "R. Tohanba",
+          "party": "Naga Peoples Front",
+          "votes": 6602,
+          "votes_percentage": 43.2
+        },
+        {
+          "position": 2,
+          "name": "K.Yimso Yimchunger",
+          "party": "Janata Dal (United)",
+          "votes": 3688,
+          "votes_percentage": 24.2
+        },
+        {
+          "position": 3,
+          "name": "Dokiu Kecham",
+          "party": "Indian National Congress",
+          "votes": 2638,
+          "votes_percentage": 17.3
+        },
+        {
+          "position": 4,
+          "name": "H.Mukam",
+          "party": "Independent",
+          "votes": 2346,
+          "votes_percentage": 15.4
+        }
+      ]
+    }
+  }
+}

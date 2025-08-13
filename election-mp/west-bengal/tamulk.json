@@ -1,0 +1,41 @@
+{
+  "state": "West Bengal",
+  "constituency": "TAMULK",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1957": {
+      "poll_date": "25 February 1957",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 447374,
+        "total_votes_polled": 312236,
+        "turnout_percentage": 69.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Satish Chandra Samanta",
+          "party": "Indian National Congress",
+          "votes": 158464,
+          "votes_percentage": 50.8
+        },
+        {
+          "position": 2,
+          "name": "Gobinda Chandra Bhowmik",
+          "party": "Forward Bloc (MARXIST)",
+          "votes": 136190,
+          "votes_percentage": 43.6
+        },
+        {
+          "position": 3,
+          "name": "Suryya Kumar Chakravarty",
+          "party": "Akhil Bharatiya Hindu Mahasabha",
+          "votes": 17582,
+          "votes_percentage": 5.6
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "state": "Madhya Pradesh [1947   1999]",
+  "constituency": "AMRAVATI WEST",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 384307,
+        "total_votes_polled": 207654,
+        "turnout_percentage": 54.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Krushnarao Gulabrao Deshmukh",
+          "party": "Indian National Congress",
+          "votes": 120266,
+          "votes_percentage": 57.9
+        },
+        {
+          "position": 2,
+          "name": "Madhaorao Dhanaji Sagane",
+          "party": "Socialist Party",
+          "votes": 37664,
+          "votes_percentage": 18.1
+        },
+        {
+          "position": 3,
+          "name": "Popatlal Bhaichand Shah",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 16620,
+          "votes_percentage": 8.0
+        },
+        {
+          "position": 4,
+          "name": "Sudarshan Gulabchand Singhai",
+          "party": "Independent",
+          "votes": 12609,
+          "votes_percentage": 6.1
+        },
+        {
+          "position": 5,
+          "name": "Parwatibhai Shivaji Patwardhan",
+          "party": "Forward Bloc (Ruikar Group)",
+          "votes": 11431,
+          "votes_percentage": 5.5
+        },
+        {
+          "position": 6,
+          "name": "Balkrishna Ganesh Khaparde",
+          "party": "Akhil Bharatiya Ram Rajya Parishad",
+          "votes": 9064,
+          "votes_percentage": 4.4
+        }
+      ]
+    }
+  }
+}

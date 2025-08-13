@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 38596,
+        "male": 46167,
+        "percentage_of_total_population": 11.01,
+        "percentage_of_total_population_calculated": 11.01,
+        "percentage_of_total_population_stated": 11.01,
+        "sex_ratio": 836,
+        "total": 84763
+    },
+    "literacy": {
+        "female_literacy_rate": 55.68,
+        "female_literate": 179523,
+        "male_literacy_rate": 67.31,
+        "male_literate": 244037,
+        "rate_percentage": 61.83,
+        "total_literate": 423560
+    },
+    "population": {
+        "female": 361019,
+        "male": 408732,
+        "sex_ratio": 883,
+        "total": 769751
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 123
+        },
+        "Christian": {
+            "percentage": 0.12,
+            "population": 917
+        },
+        "Hindu": {
+            "percentage": 20.34,
+            "population": 156539
+        },
+        "Jain": {
+            "percentage": 0.2,
+            "population": 1577
+        },
+        "Muslims": {
+            "percentage": 1.35,
+            "population": 10375
+        },
+        "Not Stated": {
+            "percentage": 0.17,
+            "population": 1284
+        },
+        "Others": {
+            "percentage": 0.06,
+            "population": 493
+        },
+        "Sikh": {
+            "percentage": 77.75,
+            "population": 598443
+        }
+    },
+    "rural": {
+        "child_population_female": 30494,
+        "child_population_male": 36305,
+        "child_population_percentage": 11.02,
+        "child_population_percentage_calculated": 11.02,
+        "child_population_percentage_stated": 11.02,
+        "child_population_total": 66799,
+        "child_sex_ratio": 840,
+        "female": 283963,
+        "literacy_rate_female": 51.74,
+        "literacy_rate_male": 63.7,
+        "literacy_rate_percentage": 58.08,
+        "literate_female": 131141,
+        "literate_male": 182103,
+        "literate_total": 313244,
+        "male": 322184,
+        "percentage_population": 78.75,
+        "population": 606147,
+        "sex_ratio": 881
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/600-mansa.html",
+    "urban": {
+        "child_population_female": 8092,
+        "child_population_male": 9872,
+        "child_population_percentage": 10.98,
+        "child_population_percentage_calculated": 10.98,
+        "child_population_percentage_stated": 10.98,
+        "child_population_total": 17964,
+        "child_sex_ratio": 820,
+        "female": 77056,
+        "literacy_rate_female": 70.16,
+        "literacy_rate_male": 80.77,
+        "literacy_rate_percentage": 75.75,
+        "literate_female": 48382,
+        "literate_male": 61934,
+        "literate_total": 110316,
+        "male": 86548,
+        "percentage_population": 21.25,
+        "population": 163604,
+        "sex_ratio": 890
+    }
+}

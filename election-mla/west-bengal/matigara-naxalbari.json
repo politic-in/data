@@ -1,0 +1,113 @@
+{
+  "state": "West Bengal",
+  "constituency": "Matigara-Naxalbari",
+  "district": "Darjiling",
+  "ac_type": "SC",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 267440,
+        "total_votes_polled": 236679,
+        "turnout_percentage": 90.0,
+        "margin_votes": 70848,
+        "margin_percentage": 29.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Anandamay Barman",
+          "party": "Bharatiya Janta Party",
+          "votes": 139785,
+          "votes_percentage": 59.1
+        },
+        {
+          "position": 2,
+          "name": "Rajen Sundas",
+          "party": "All India Trinamool Congress",
+          "votes": 68937,
+          "votes_percentage": 29.1
+        },
+        {
+          "position": 3,
+          "name": "Sankar Malakar",
+          "party": "Indian National Congress",
+          "votes": 23060,
+          "votes_percentage": 9.7
+        },
+        {
+          "position": 4,
+          "name": "Rakesh Mondal",
+          "party": "Independent",
+          "votes": 2046,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Sudip Mandal",
+          "party": "Bahujan Samaj Party",
+          "votes": 1577,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Harish Chandra Barman",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1274,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 194061,
+        "total_votes_polled": 164483,
+        "turnout_percentage": 84.8,
+        "margin_votes": 6833,
+        "margin_percentage": 4.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sankar Malakar",
+          "party": "Indian National Congress",
+          "votes": 74334,
+          "votes_percentage": 45.2
+        },
+        {
+          "position": 2,
+          "name": "Jharen Roy",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 67501,
+          "votes_percentage": 41.0
+        },
+        {
+          "position": 3,
+          "name": "Sri Atul Chandra Roy",
+          "party": "Kamtapur Progressive Party",
+          "votes": 11906,
+          "votes_percentage": 7.2
+        },
+        {
+          "position": 4,
+          "name": "Asim Sarkar",
+          "party": "Bharatiya Janta Party",
+          "votes": 7351,
+          "votes_percentage": 4.5
+        },
+        {
+          "position": 5,
+          "name": "Dipu Haldar",
+          "party": "Independent",
+          "votes": 3391,
+          "votes_percentage": 2.1
+        }
+      ]
+    }
+  }
+}

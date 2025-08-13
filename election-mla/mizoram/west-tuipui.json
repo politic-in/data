@@ -1,0 +1,134 @@
+{
+  "state": "Mizoram",
+  "constituency": "West Tuipui",
+  "district": "Lunglei",
+  "ac_type": "ST",
+  "results": {
+    "2023": {
+      "poll_date": "07 November 2023",
+      "counting_date": "04 December 2023",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 33586,
+        "total_votes_polled": 14662,
+        "turnout_percentage": 43.9,
+        "margin_votes": 711,
+        "margin_percentage": 4.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Prova Chakma",
+          "party": "Mizo National Front",
+          "votes": 7167,
+          "votes_percentage": 48.6
+        },
+        {
+          "position": 2,
+          "name": "Nihar Kanti Chakma",
+          "party": "Indian National Congress",
+          "votes": 6456,
+          "votes_percentage": 43.8
+        },
+        {
+          "position": 3,
+          "name": "Kawlhnuna",
+          "party": "Zoram People’s Movement",
+          "votes": 789,
+          "votes_percentage": 5.4
+        },
+        {
+          "position": 4,
+          "name": "T. Lalengthanga",
+          "party": "Bharatiya Janta Party",
+          "votes": 250,
+          "votes_percentage": 1.7
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "04 December 2013",
+      "counting_date": "09 December 2013",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 12470,
+        "total_votes_polled": 10775,
+        "turnout_percentage": 86.9,
+        "margin_votes": 3334,
+        "margin_percentage": 30.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nihar Kanti Chakma",
+          "party": "Indian National Congress",
+          "votes": 6914,
+          "votes_percentage": 64.2
+        },
+        {
+          "position": 2,
+          "name": "Priti Ranjan Chakma",
+          "party": "Mizo National Front",
+          "votes": 3580,
+          "votes_percentage": 33.2
+        },
+        {
+          "position": 3,
+          "name": "Lalrinpuia",
+          "party": "Zoram Nationalist Party",
+          "votes": 180,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 4,
+          "name": "Zoremsiama",
+          "party": "Bharatiya Janta Party",
+          "votes": 101,
+          "votes_percentage": 0.9
+        }
+      ]
+    },
+    "2008": {
+      "poll_date": "12 February 2008",
+      "counting_date": "12 August 2008",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 10418,
+        "total_votes_polled": 8906,
+        "turnout_percentage": 85.5,
+        "margin_votes": 1540,
+        "margin_percentage": 17.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nihar Kanti Chakma",
+          "party": "Indian National Congress",
+          "votes": 5052,
+          "votes_percentage": 56.7
+        },
+        {
+          "position": 2,
+          "name": "Alak Bikash Chakma",
+          "party": "Mizo National Front",
+          "votes": 3512,
+          "votes_percentage": 39.4
+        },
+        {
+          "position": 3,
+          "name": "Surath Kumar Chakma",
+          "party": "Bharatiya Janta Party",
+          "votes": 192,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 4,
+          "name": "Rupen Chakma",
+          "party": "Lok Jan Shakti Party",
+          "votes": 150,
+          "votes_percentage": 1.7
+        }
+      ]
+    }
+  }
+}

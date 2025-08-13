@@ -1,0 +1,57 @@
+{
+  "state": "West Bengal",
+  "constituency": "Metiaburuz",
+  "district": "South  Twenty Four Parganas",
+  "ac_type": "GEN",
+  "results": {
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 182250,
+        "total_votes_polled": 132353,
+        "turnout_percentage": 72.6,
+        "margin_votes": 6594,
+        "margin_percentage": 5.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mamtaj Begam",
+          "party": "All India Trinamool Congress",
+          "votes": 55003,
+          "votes_percentage": 41.6
+        },
+        {
+          "position": 2,
+          "name": "Badruddoza Molla",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 48409,
+          "votes_percentage": 36.6
+        },
+        {
+          "position": 3,
+          "name": "Hajee Abdul Khaleque Molla",
+          "party": "Independent",
+          "votes": 24143,
+          "votes_percentage": 18.2
+        },
+        {
+          "position": 4,
+          "name": "Md.Sajjad",
+          "party": "Bharatiya Janta Party",
+          "votes": 3140,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 5,
+          "name": "Nisar Ahmed",
+          "party": "Muslim League Kerala State Committee",
+          "votes": 1658,
+          "votes_percentage": 1.3
+        }
+      ]
+    }
+  }
+}

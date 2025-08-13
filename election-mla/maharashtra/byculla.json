@@ -1,0 +1,404 @@
+{
+  "state": "Maharashtra",
+  "constituency": "BYCULLA",
+  "district": "Mumbai",
+  "ac_type": "GEN",
+  "results": {
+    "2024": {
+      "poll_date": "20 November 2024",
+      "counting_date": "23 November 2024",
+      "total_contestants": 14,
+      "aggregate": {
+        "total_electors": 258856,
+        "total_votes_polled": 136366,
+        "turnout_percentage": 53.3,
+        "margin_votes": 31361,
+        "margin_percentage": 23.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Manoj Pandurang Jamsutkar",
+          "party": "Shiv Sena (Uddhav Balasaheb Thackrey)",
+          "votes": 80133,
+          "votes_percentage": 58.1
+        },
+        {
+          "position": 2,
+          "name": "Yamini Yashwant Jadhav",
+          "party": "Shiv Sena",
+          "votes": 48772,
+          "votes_percentage": 35.4
+        },
+        {
+          "position": 3,
+          "name": "Faiyaz Ahmed",
+          "party": "All India Majlis-E-Ittehadul Muslimeen",
+          "votes": 5531,
+          "votes_percentage": 4.0
+        },
+        {
+          "position": 5,
+          "name": "Waris Ali Shaikh",
+          "party": "Bahujan Samaj Party",
+          "votes": 398,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 6,
+          "name": "Mohd. Naeem Shaikh",
+          "party": "Aim Political Party",
+          "votes": 258,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Sayeed Ahmed Khan",
+          "party": "Samajwadi Party",
+          "votes": 187,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "Sajid Qureshi",
+          "party": "Independent",
+          "votes": 172,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Abbas F. Chhatriwala",
+          "party": "Independent",
+          "votes": 163,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Vinod Mahadev Chavan",
+          "party": "Delhi Janta Party",
+          "votes": 161,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Farhan Habib Chaudhary",
+          "party": "Peace Party",
+          "votes": 148,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Shahe Alam Khan",
+          "party": "Rashtriya Ulama Council",
+          "votes": 135,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Girish Dilip Warhadi",
+          "party": "Independent",
+          "votes": 132,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Rehan Vasiulla Khan",
+          "party": "Independent",
+          "votes": 93,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Waheed Ahmed Abdul Jalil Qureshi",
+          "party": "Independent",
+          "votes": 83,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2019": {
+      "poll_date": "21 October 2019",
+      "counting_date": "24 October 2019",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 243491,
+        "total_votes_polled": 121932,
+        "turnout_percentage": 51.2,
+        "margin_votes": 20023,
+        "margin_percentage": 16.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Yamini Yashwant Jadhav",
+          "party": "Shiv Sena",
+          "votes": 51180,
+          "votes_percentage": 42.0
+        },
+        {
+          "position": 2,
+          "name": "Waris Yusuf Pathan",
+          "party": "All India Majlis-E-Ittehadul Muslimeen",
+          "votes": 31157,
+          "votes_percentage": 25.6
+        },
+        {
+          "position": 3,
+          "name": "Anna Madhu Chavan",
+          "party": "Indian National Congress",
+          "votes": 24139,
+          "votes_percentage": 19.8
+        },
+        {
+          "position": 4,
+          "name": "Geeta Ajay Gawli",
+          "party": "Akhil Bharatiya Sena",
+          "votes": 10493,
+          "votes_percentage": 8.6
+        },
+        {
+          "position": 5,
+          "name": "Ajaz Khan",
+          "party": "Independent",
+          "votes": 2174,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 6,
+          "name": "Francis Sabastian D’souza",
+          "party": "Independent",
+          "votes": 929,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 7,
+          "name": "Jaiswar Kripashankar Rammurat",
+          "party": "Bahujan Samaj Party",
+          "votes": 591,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Sameer Salauddin Thakur",
+          "party": "Independent",
+          "votes": 406,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Rasheed Khan",
+          "party": "Bahujan Maha Party",
+          "votes": 378,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Abdul Hamid Shaikh",
+          "party": "Indian Union Muslim League",
+          "votes": 364,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 11,
+          "name": "Mohd. Naeem Shaikh",
+          "party": "Aim Political Party",
+          "votes": 121,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "15 October 2014",
+      "counting_date": "19 October 2014",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 227140,
+        "total_votes_polled": 124544,
+        "turnout_percentage": 55.5,
+        "total_valid_votes": 122924,
+        "total_valid_votes_percentage": 54.1,
+        "margin_votes": 1357,
+        "margin_percentage": 1.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Advocate  Waris Yusuf Pathan",
+          "party": "All India Majlis-E-Ittehadul Muslimoon",
+          "votes": 25314,
+          "votes_percentage": 20.3
+        },
+        {
+          "position": 2,
+          "name": "Madhu (DADA) CHAVAN",
+          "party": "Bharatiya Janta Party",
+          "votes": 23957,
+          "votes_percentage": 19.2
+        },
+        {
+          "position": 3,
+          "name": "Anna Alias Madhu Chavan",
+          "party": "Indian National Congress",
+          "votes": 22021,
+          "votes_percentage": 17.7
+        },
+        {
+          "position": 4,
+          "name": "Geeta Ajay Gawli",
+          "party": "Akhil Bharatiya Sena",
+          "votes": 20895,
+          "votes_percentage": 16.8
+        },
+        {
+          "position": 5,
+          "name": "Sanjay Naik",
+          "party": "Maharashtra Navnirman Sena",
+          "votes": 19762,
+          "votes_percentage": 15.9
+        },
+        {
+          "position": 6,
+          "name": "Lokhande Rohidas Madhukar",
+          "party": "Independent",
+          "votes": 7865,
+          "votes_percentage": 6.3
+        },
+        {
+          "position": 7,
+          "name": "Pravin Shivram Pawar",
+          "party": "Bahujan Samaj Party",
+          "votes": 1341,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 8,
+          "name": "Rehan Khan",
+          "party": "Indian Union Muslim League",
+          "votes": 662,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 9,
+          "name": "Shahe Alam Khan",
+          "party": "Independent",
+          "votes": 450,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 10,
+          "name": "Aejaaz Alimiya Mukadam",
+          "party": "Awami Vikas Party",
+          "votes": 372,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 11,
+          "name": "Ujwal Shashikant Rane",
+          "party": "Independent",
+          "votes": 285,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "13 October 2009",
+      "counting_date": "22 October 2009",
+      "total_contestants": 12,
+      "aggregate": {
+        "total_electors": 271507,
+        "total_votes_polled": 116270,
+        "turnout_percentage": 42.8,
+        "total_valid_votes": 116238,
+        "total_valid_votes_percentage": 42.8,
+        "margin_votes": 9104,
+        "margin_percentage": 7.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chavan Madhukarbalkrishna Alias Anna",
+          "party": "Indian National Congress",
+          "votes": 36302,
+          "votes_percentage": 31.2
+        },
+        {
+          "position": 2,
+          "name": "Sanjay Gopal Naik",
+          "party": "Maharashtra Navnirman Sena",
+          "votes": 27198,
+          "votes_percentage": 23.4
+        },
+        {
+          "position": 3,
+          "name": "Arun Gulab Gawali Aliasdady",
+          "party": "Akhil Bharatiya Sena",
+          "votes": 25703,
+          "votes_percentage": 22.1
+        },
+        {
+          "position": 4,
+          "name": "Yeshwant   Jadhav",
+          "party": "Shiv Sena",
+          "votes": 20692,
+          "votes_percentage": 17.8
+        },
+        {
+          "position": 5,
+          "name": "Sarfaraz Aarju",
+          "party": "Samajwadi Party",
+          "votes": 3708,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 6,
+          "name": "Tambe Bhagwan Ramdas",
+          "party": "Bahujan Samaj Party",
+          "votes": 832,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Choudhary Abdul Malik",
+          "party": "Peace Party",
+          "votes": 529,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Savio  Pereira",
+          "party": "Independent",
+          "votes": 529,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 9,
+          "name": "Sarvesh Prabhakarmalankar",
+          "party": "Independent",
+          "votes": 257,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Firdosh Minocherhomavazir",
+          "party": "Independent",
+          "votes": 210,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Ansari Gulam Husain",
+          "party": "Independent",
+          "votes": 180,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Sabir Sattar Chouhan",
+          "party": "Independent",
+          "votes": 130,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

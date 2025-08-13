@@ -1,0 +1,106 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Naavaan",
+  "district": "Nagaur",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 12,
+      "aggregate": {
+        "total_electors": 236659,
+        "total_votes_polled": 173703,
+        "turnout_percentage": 74.3,
+        "margin_votes": 2256,
+        "margin_percentage": 1.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mahendra Choudhary",
+          "party": "Indian National Congress",
+          "votes": 72168,
+          "votes_percentage": 41.6
+        },
+        {
+          "position": 2,
+          "name": "Vijay Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 69912,
+          "votes_percentage": 40.3
+        },
+        {
+          "position": 3,
+          "name": "Shimbhudayal",
+          "party": "Independent",
+          "votes": 12218,
+          "votes_percentage": 7.0
+        },
+        {
+          "position": 4,
+          "name": "Kanaram",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 6717,
+          "votes_percentage": 3.9
+        },
+        {
+          "position": 5,
+          "name": "Govind Ram",
+          "party": "Independent",
+          "votes": 5424,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 6,
+          "name": "Pramod Kumar",
+          "party": "Bahujan Samaj Party",
+          "votes": 3029,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 7,
+          "name": "Hem Raj",
+          "party": "Aam Aadmi Party",
+          "votes": 1233,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 8,
+          "name": "Gopal",
+          "party": "Independent",
+          "votes": 896,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 9,
+          "name": "Anita",
+          "party": "Bharatiya Yuva Shakti",
+          "votes": 728,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 10,
+          "name": "Kailash Chandra Verma",
+          "party": "Independent",
+          "votes": 645,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 11,
+          "name": "Purnmal",
+          "party": "Bahujan Sangharshh Dal",
+          "votes": 530,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 12,
+          "name": "Bhanwar Lal Babel",
+          "party": "Bharat Vahini Party",
+          "votes": 203,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

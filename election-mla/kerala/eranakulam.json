@@ -1,0 +1,134 @@
+{
+  "state": "Kerala",
+  "constituency": "ERANAKULAM",
+  "district": "Ernakulam",
+  "ac_type": "GEN",
+  "results": {
+    "2016": {
+      "poll_date": "16 May 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 153884,
+        "total_votes_polled": 109568,
+        "turnout_percentage": 71.8,
+        "margin_votes": 21949,
+        "margin_percentage": 20.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Hibi Eden",
+          "party": "Indian National Congress",
+          "votes": 57819,
+          "votes_percentage": 52.8
+        },
+        {
+          "position": 2,
+          "name": "M Anil Kumar",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 35870,
+          "votes_percentage": 32.7
+        },
+        {
+          "position": 3,
+          "name": "N K Mohandas",
+          "party": "Bharatiya Janta Party",
+          "votes": 14878,
+          "votes_percentage": 13.6
+        },
+        {
+          "position": 4,
+          "name": "Iqbal Thamarassery",
+          "party": "Bahujan Samaj Party",
+          "votes": 397,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 5,
+          "name": "Rubesh Jimmy Madathipramban",
+          "party": "Samajwadi Party",
+          "votes": 258,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 6,
+          "name": "Jossey Mathew",
+          "party": "Independent",
+          "votes": 117,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 7,
+          "name": "Anilkumar Ananthapuram",
+          "party": "Independent",
+          "votes": 115,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "Anilkumar Puliyoth",
+          "party": "Independent",
+          "votes": 114,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "13 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 135675,
+        "total_votes_polled": 97297,
+        "turnout_percentage": 71.7,
+        "margin_votes": 32437,
+        "margin_percentage": 33.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Hibi Eden",
+          "party": "Indian National Congress",
+          "votes": 59919,
+          "votes_percentage": 61.6
+        },
+        {
+          "position": 2,
+          "name": "Dr. Sebastian Paul",
+          "party": "Independent",
+          "votes": 27482,
+          "votes_percentage": 28.3
+        },
+        {
+          "position": 3,
+          "name": "C.G. Rajagopal",
+          "party": "Bharatiya Janta Party",
+          "votes": 6362,
+          "votes_percentage": 6.5
+        },
+        {
+          "position": 4,
+          "name": "Sebastian Njalamkunnel",
+          "party": "Independent",
+          "votes": 2347,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 5,
+          "name": "Iqbal Thamarassery",
+          "party": "Bahujan Samaj Party",
+          "votes": 742,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "T.R. Vasudevan",
+          "party": "Shiv Sena",
+          "votes": 445,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

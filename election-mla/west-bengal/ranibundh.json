@@ -1,0 +1,71 @@
+{
+  "state": "West Bengal",
+  "constituency": "Ranibundh",
+  "district": "Bankura",
+  "ac_type": "ST",
+  "results": {
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 200986,
+        "total_votes_polled": 170373,
+        "turnout_percentage": 84.8,
+        "margin_votes": 6859,
+        "margin_percentage": 4.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Debalina Hembram",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 75388,
+          "votes_percentage": 44.3
+        },
+        {
+          "position": 2,
+          "name": "Falguni Hembram",
+          "party": "All India Trinamool Congress",
+          "votes": 68529,
+          "votes_percentage": 40.2
+        },
+        {
+          "position": 3,
+          "name": "Aditya Kisku",
+          "party": "Jharkhand Anushilan Party",
+          "votes": 10950,
+          "votes_percentage": 6.4
+        },
+        {
+          "position": 4,
+          "name": "Lakshmi Kanta Sardar",
+          "party": "Bharatiya Janta Party",
+          "votes": 6447,
+          "votes_percentage": 3.8
+        },
+        {
+          "position": 5,
+          "name": "Biswanath Tudu",
+          "party": "Independent",
+          "votes": 5407,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 6,
+          "name": "Sudhir Kumar Murmu",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 2580,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 7,
+          "name": "Krishnapada Mandi",
+          "party": "Jharkhand Vikas Morcha (Prajatantrik)",
+          "votes": 1072,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

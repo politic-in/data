@@ -1,0 +1,62 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "GAYA EAST",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 572471,
+        "total_votes_polled": 415816,
+        "turnout_percentage": 36.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Brajeshwar Prasad",
+          "party": "Indian National Congress",
+          "votes": 124524,
+          "votes_percentage": 29.9
+        },
+        {
+          "position": 1,
+          "name": "Ramdhari Das",
+          "party": "Indian National Congress",
+          "votes": 103069,
+          "votes_percentage": 24.8
+        },
+        {
+          "position": 3,
+          "name": "Raksha Ram",
+          "party": "Socialist Party",
+          "votes": 55359,
+          "votes_percentage": 13.3
+        },
+        {
+          "position": 4,
+          "name": "Gopal Krishna Mahajan",
+          "party": "Socialist Party",
+          "votes": 51189,
+          "votes_percentage": 12.3
+        },
+        {
+          "position": 5,
+          "name": "Shyama Birthuar",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 44324,
+          "votes_percentage": 10.7
+        },
+        {
+          "position": 6,
+          "name": "Shiva Prasad Sinha",
+          "party": "All India United Kisan Sabha",
+          "votes": 37351,
+          "votes_percentage": 9.0
+        }
+      ]
+    }
+  }
+}

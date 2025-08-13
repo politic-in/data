@@ -1,0 +1,87 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Denduluru",
+  "district": "West Godavari",
+  "ac_type": "GEN",
+  "results": {
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 178893,
+        "total_votes_polled": 154075,
+        "turnout_percentage": 86.1,
+        "total_valid_votes": 153922,
+        "total_valid_votes_percentage": 86.0,
+        "margin_votes": 14231,
+        "margin_percentage": 9.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Prabhakar Chintamaneni",
+          "party": "Telugu Desam",
+          "votes": 69673,
+          "votes_percentage": 45.3
+        },
+        {
+          "position": 2,
+          "name": "Kotaru Ramachandra Rao",
+          "party": "Indian National Congress",
+          "votes": 55442,
+          "votes_percentage": 36.0
+        },
+        {
+          "position": 3,
+          "name": "Ashok Goud Chalamolu",
+          "party": "Praja Rajyam Party",
+          "votes": 24289,
+          "votes_percentage": 15.8
+        },
+        {
+          "position": 4,
+          "name": "Venkata Rama Rao Uppala",
+          "party": "Pyramid Party Of India",
+          "votes": 1140,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Madda Bhushanam",
+          "party": "Independent",
+          "votes": 1043,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Gudipudi Ambrosu",
+          "party": "Bahujan Samaj Party",
+          "votes": 780,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Ashok Kumar Chowdary Mullapudi",
+          "party": "Bahujan Samaj Party",
+          "votes": 738,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Nomula Ramudu",
+          "party": "Independent",
+          "votes": 516,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Parasa Hari Venkata Krishna Rao",
+          "party": "Independent",
+          "votes": 301,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

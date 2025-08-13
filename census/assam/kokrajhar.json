@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 66850,
+        "male": 70074,
+        "percentage_of_total_population": 15.43,
+        "percentage_of_total_population_calculated": 15.43,
+        "percentage_of_total_population_stated": 15.43,
+        "sex_ratio": 954,
+        "total": 136924
+    },
+    "literacy": {
+        "female_literacy_rate": 58.27,
+        "female_literate": 214085,
+        "male_literacy_rate": 71.89,
+        "male_literate": 275220,
+        "rate_percentage": 65.22,
+        "total_literate": 489305
+    },
+    "population": {
+        "female": 434237,
+        "male": 452905,
+        "sex_ratio": 959,
+        "total": 887142
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.19,
+            "population": 1718
+        },
+        "Christian": {
+            "percentage": 11.4,
+            "population": 101091
+        },
+        "Hindu": {
+            "percentage": 59.64,
+            "population": 529068
+        },
+        "Jain": {
+            "percentage": 0.04,
+            "population": 396
+        },
+        "Muslims": {
+            "percentage": 28.44,
+            "population": 252271
+        },
+        "Not Stated": {
+            "percentage": 0.27,
+            "population": 2382
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 123
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 93
+        }
+    },
+    "rural": {
+        "child_population_female": 64151,
+        "child_population_male": 67246,
+        "child_population_percentage": 15.79,
+        "child_population_percentage_calculated": 15.79,
+        "child_population_percentage_stated": 15.79,
+        "child_population_total": 131397,
+        "child_sex_ratio": 954,
+        "female": 407755,
+        "literacy_rate_female": 56.53,
+        "literacy_rate_male": 70.45,
+        "literacy_rate_percentage": 63.63,
+        "literate_female": 194232,
+        "literate_male": 251658,
+        "literate_total": 445890,
+        "male": 424446,
+        "percentage_population": 93.81,
+        "population": 832201,
+        "sex_ratio": 961
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/159-kokrajhar.html",
+    "urban": {
+        "child_population_female": 2688,
+        "child_population_male": 2839,
+        "child_population_percentage": 10.06,
+        "child_population_percentage_calculated": 10.06,
+        "child_population_percentage_stated": 10.06,
+        "child_population_total": 5527,
+        "child_sex_ratio": 947,
+        "female": 26482,
+        "literacy_rate_female": 83.44,
+        "literacy_rate_male": 91.97,
+        "literacy_rate_percentage": 87.86,
+        "literate_female": 19853,
+        "literate_male": 23562,
+        "literate_total": 43415,
+        "male": 28459,
+        "percentage_population": 6.19,
+        "population": 54941,
+        "sex_ratio": 931
+    }
+}

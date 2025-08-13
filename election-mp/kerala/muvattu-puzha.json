@@ -1,0 +1,50 @@
+{
+  "state": "Kerala",
+  "constituency": "MUVATTU PUZHA",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 423640,
+        "total_votes_polled": 327971,
+        "turnout_percentage": 77.4,
+        "margin_votes": 42154,
+        "margin_percentage": 12.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "P. P. Esthose",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 140403,
+          "votes_percentage": 42.8
+        },
+        {
+          "position": 2,
+          "name": "K. M. Chandy",
+          "party": "Indian National Congress",
+          "votes": 98249,
+          "votes_percentage": 30.0
+        },
+        {
+          "position": 3,
+          "name": "A. Thoyil",
+          "party": "Kerala Congress",
+          "votes": 70010,
+          "votes_percentage": 21.3
+        },
+        {
+          "position": 4,
+          "name": "N. A. Nair",
+          "party": "Independent",
+          "votes": 8940,
+          "votes_percentage": 2.7
+        }
+      ]
+    }
+  }
+}

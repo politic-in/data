@@ -1,0 +1,78 @@
+{
+  "state": "West Bengal",
+  "constituency": "RANAGHAT DAKSHIN (SC)",
+  "district": "Nadia",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 256178,
+        "total_votes_polled": 215575,
+        "turnout_percentage": 85.6,
+        "margin_votes": 17253,
+        "margin_percentage": 8.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rama Biswas",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 104159,
+          "votes_percentage": 48.3
+        },
+        {
+          "position": 2,
+          "name": "Abir Ranjan Biswas",
+          "party": "All India Trinamool Congress",
+          "votes": 86906,
+          "votes_percentage": 40.3
+        },
+        {
+          "position": 3,
+          "name": "Susmit Ranjan Haldar",
+          "party": "Bharatiya Janta Party",
+          "votes": 18114,
+          "votes_percentage": 8.4
+        },
+        {
+          "position": 4,
+          "name": "Prasanta Biswas",
+          "party": "Bahujan Samaj Party",
+          "votes": 2407,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Tushar Biswas",
+          "party": "Independent",
+          "votes": 1490,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Manmatha Biswas",
+          "party": "New Democratic Party Of India",
+          "votes": 1050,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Bibhuti Mondal",
+          "party": "Independent",
+          "votes": 790,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Tapan Halder",
+          "party": "Independent",
+          "votes": 659,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

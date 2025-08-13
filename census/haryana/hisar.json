@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 98923,
+        "male": 116244,
+        "percentage_of_total_population": 12.34,
+        "percentage_of_total_population_calculated": 12.34,
+        "percentage_of_total_population_stated": 12.34,
+        "sex_ratio": 851,
+        "total": 215167
+    },
+    "literacy": {
+        "female_literacy_rate": 62.25,
+        "female_literate": 444111,
+        "male_literacy_rate": 82.2,
+        "male_literate": 670200,
+        "rate_percentage": 72.89,
+        "total_literate": 1114311
+    },
+    "population": {
+        "female": 812369,
+        "male": 931562,
+        "sex_ratio": 872,
+        "total": 1743931
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 334
+        },
+        "Christian": {
+            "percentage": 0.11,
+            "population": 1945
+        },
+        "Hindu": {
+            "percentage": 97.54,
+            "population": 1701061
+        },
+        "Jain": {
+            "percentage": 0.21,
+            "population": 3620
+        },
+        "Muslims": {
+            "percentage": 1.24,
+            "population": 21650
+        },
+        "Not Stated": {
+            "percentage": 0.17,
+            "population": 3018
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 33
+        },
+        "Sikh": {
+            "percentage": 0.7,
+            "population": 12270
+        }
+    },
+    "rural": {
+        "child_population_female": 69428,
+        "child_population_male": 81222,
+        "child_population_percentage": 12.65,
+        "child_population_percentage_calculated": 12.65,
+        "child_population_percentage_stated": 12.65,
+        "child_population_total": 150650,
+        "child_sex_ratio": 855,
+        "female": 556304,
+        "literacy_rate_female": 56.64,
+        "literacy_rate_male": 79.4,
+        "literacy_rate_percentage": 68.74,
+        "literate_female": 275770,
+        "literate_male": 439026,
+        "literate_total": 714796,
+        "male": 634139,
+        "percentage_population": 68.26,
+        "population": 1190443,
+        "sex_ratio": 877
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/219-hisar.html",
+    "urban": {
+        "child_population_female": 29510,
+        "child_population_male": 35007,
+        "child_population_percentage": 11.66,
+        "child_population_percentage_calculated": 11.66,
+        "child_population_percentage_stated": 11.66,
+        "child_population_total": 64517,
+        "child_sex_ratio": 843,
+        "female": 256065,
+        "literacy_rate_female": 74.3,
+        "literacy_rate_male": 88.09,
+        "literacy_rate_percentage": 81.71,
+        "literate_female": 168341,
+        "literate_male": 231174,
+        "literate_total": 399515,
+        "male": 297423,
+        "percentage_population": 31.74,
+        "population": 553488,
+        "sex_ratio": 861
+    }
+}

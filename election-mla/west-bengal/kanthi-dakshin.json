@@ -1,0 +1,120 @@
+{
+  "state": "West Bengal",
+  "constituency": "KANTHI DAKSHIN",
+  "district": "Purba Medinipur",
+  "ac_type": "GEN",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 203387,
+        "total_votes_polled": 171492,
+        "turnout_percentage": 85.5,
+        "margin_votes": 33890,
+        "margin_percentage": 19.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Adhikari Dibyendu",
+          "party": "All India Trinamool Congress",
+          "votes": 93359,
+          "votes_percentage": 54.4
+        },
+        {
+          "position": 2,
+          "name": "Uttam Pradhan",
+          "party": "Communist Party Of India",
+          "votes": 59469,
+          "votes_percentage": 34.7
+        },
+        {
+          "position": 3,
+          "name": "Kamales  Mishra",
+          "party": "Bharatiya Janta Party",
+          "votes": 15223,
+          "votes_percentage": 8.9
+        },
+        {
+          "position": 4,
+          "name": "Sridhar Dash",
+          "party": "Welfare Party Of India",
+          "votes": 1038,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 5,
+          "name": "Manas Pradhan",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1010,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Jahangir Mahammad  Sk.",
+          "party": "Bharat Nirman Party",
+          "votes": 754,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Dr. Arun Kumar Giri",
+          "party": "Akhil Bharat Hindu Mahasabha",
+          "votes": 639,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 175105,
+        "total_votes_polled": 152187,
+        "turnout_percentage": 86.9,
+        "margin_votes": 28637,
+        "margin_percentage": 18.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Adhikari Dibyendu",
+          "party": "All India Trinamool Congress",
+          "votes": 86933,
+          "votes_percentage": 57.1
+        },
+        {
+          "position": 2,
+          "name": "Uttam Pradhan",
+          "party": "Communist Party Of India",
+          "votes": 58296,
+          "votes_percentage": 38.3
+        },
+        {
+          "position": 3,
+          "name": "Kamalesh Mishra",
+          "party": "Bharatiya Janta Party",
+          "votes": 5004,
+          "votes_percentage": 3.3
+        },
+        {
+          "position": 4,
+          "name": "Sek Mahammad Jilani",
+          "party": "Independent",
+          "votes": 1233,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 5,
+          "name": "Biswanath Nayak",
+          "party": "Independent",
+          "votes": 721,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

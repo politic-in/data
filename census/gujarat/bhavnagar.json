@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 179741,
+        "male": 201729,
+        "percentage_of_total_population": 13.24,
+        "percentage_of_total_population_calculated": 13.24,
+        "percentage_of_total_population_stated": 13.24,
+        "sex_ratio": 891,
+        "total": 381470
+    },
+    "literacy": {
+        "female_literacy_rate": 66.08,
+        "female_literate": 799884,
+        "male_literacy_rate": 84.39,
+        "male_literate": 1087371,
+        "rate_percentage": 75.52,
+        "total_literate": 1887255
+    },
+    "population": {
+        "female": 1390164,
+        "male": 1490201,
+        "sex_ratio": 933,
+        "total": 2880365
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 445
+        },
+        "Christian": {
+            "percentage": 0.12,
+            "population": 3457
+        },
+        "Hindu": {
+            "percentage": 91.4,
+            "population": 2632574
+        },
+        "Jain": {
+            "percentage": 0.94,
+            "population": 26974
+        },
+        "Muslims": {
+            "percentage": 7.39,
+            "population": 212863
+        },
+        "Not Stated": {
+            "percentage": 0.09,
+            "population": 2515
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 127
+        },
+        "Sikh": {
+            "percentage": 0.05,
+            "population": 1410
+        }
+    },
+    "rural": {
+        "child_population_female": 114696,
+        "child_population_male": 126532,
+        "child_population_percentage": 14.21,
+        "child_population_percentage_calculated": 14.21,
+        "child_population_percentage_stated": 14.21,
+        "child_population_total": 241228,
+        "child_sex_ratio": 906,
+        "female": 829131,
+        "literacy_rate_female": 59.47,
+        "literacy_rate_male": 81.51,
+        "literacy_rate_percentage": 70.7,
+        "literate_female": 424910,
+        "literate_male": 605026,
+        "literate_total": 1029936,
+        "male": 868833,
+        "percentage_population": 58.95,
+        "population": 1697964,
+        "sex_ratio": 954
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/195-bhavnagar.html",
+    "urban": {
+        "child_population_female": 65054,
+        "child_population_male": 75188,
+        "child_population_percentage": 11.86,
+        "child_population_percentage_calculated": 11.86,
+        "child_population_percentage_stated": 11.86,
+        "child_population_total": 140242,
+        "child_sex_ratio": 865,
+        "female": 561033,
+        "literacy_rate_female": 75.6,
+        "literacy_rate_male": 88.31,
+        "literacy_rate_percentage": 82.26,
+        "literate_female": 374974,
+        "literate_male": 482345,
+        "literate_total": 857319,
+        "male": 621368,
+        "percentage_population": 41.05,
+        "population": 1182401,
+        "sex_ratio": 903
+    }
+}

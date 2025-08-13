@@ -1,0 +1,136 @@
+name: Validate JSON Files
+
+on:
+  pull_request:
+    paths:
+      - 'booth/**/*.json'
+      - 'census/**/*.json'
+      - 'election-mla/**/*.json'
+      - 'election-mp/**/*.json'
+      - 'schemas/*.schema.json'
+      - 'scripts/validate.js'
+      - 'package.json'
+
+jobs:
+  validate:
+    name: Validate JSON Schema
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+      
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v41
+        with:
+          files: |
+            booth/**/*.json
+            census/**/*.json
+            election-mla/**/*.json
+            election-mp/**/*.json
+      
+      - name: Determine data types to validate
+        id: determine-types
+        run: |
+          TYPES=""
+          if echo "${{ steps.changed-files.outputs.all_changed_files }}" | grep -q "booth/"; then
+            TYPES="${TYPES}booth,"
+          fi
+          if echo "${{ steps.changed-files.outputs.all_changed_files }}" | grep -q "census/"; then
+            TYPES="${TYPES}census,"
+          fi
+          if echo "${{ steps.changed-files.outputs.all_changed_files }}" | grep -q "election-mla/"; then
+            TYPES="${TYPES}election-mla,"
+          fi
+          if echo "${{ steps.changed-files.outputs.all_changed_files }}" | grep -q "election-mp/"; then
+            TYPES="${TYPES}election-mp,"
+          fi
+          
+          # Remove trailing comma
+          TYPES=${TYPES%,}
+          
+          # If no specific types found, validate all
+          if [ -z "$TYPES" ]; then
+            TYPES="booth,census,election-mla,election-mp"
+          fi
+          
+          echo "types=$TYPES" >> $GITHUB_OUTPUT
+          echo "Validating data types: $TYPES"
+      
+      - name: Validate JSON files
+        env:
+          VALIDATE_TYPES: ${{ steps.determine-types.outputs.types }}
+        run: npm run validate
+      
+      - name: Comment PR on validation failure
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issue_number = context.payload.pull_request.number;
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+            
+            await github.rest.issues.createComment({
+              owner,
+              repo,
+              issue_number,
+              body: `## ❌ JSON Validation Failed
+              
+              The JSON files in this PR do not match the required schema. Please check the workflow logs for details.
+              
+              ### How to fix:
+              1. Review the validation errors in the [workflow logs](https://github.com/${owner}/${repo}/actions/runs/${context.runId})
+              2. Update your JSON files to match the schema requirements
+              3. You can run validation locally with: \`npm run validate\`
+              
+              ### Schema files:
+              - [booth.schema.json](schemas/booth.schema.json)
+              - [census.schema.json](schemas/census.schema.json)
+              - [election-mla.schema.json](schemas/election-mla.schema.json)
+              - [election-mp.schema.json](schemas/election-mp.schema.json)`
+            });
+      
+      - name: Comment PR on validation success
+        if: success()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issue_number = context.payload.pull_request.number;
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+            
+            // Check if we already commented success
+            const comments = await github.rest.issues.listComments({
+              owner,
+              repo,
+              issue_number
+            });
+            
+            const hasSuccessComment = comments.data.some(comment => 
+              comment.body.includes('✅ JSON Validation Passed') && 
+              comment.user.type === 'Bot'
+            );
+            
+            if (!hasSuccessComment) {
+              await github.rest.issues.createComment({
+                owner,
+                repo,
+                issue_number,
+                body: `## ✅ JSON Validation Passed
+                
+                All JSON files in this PR conform to the required schemas.`
+              });
+            }

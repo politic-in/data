@@ -1,0 +1,64 @@
+{
+  "state": "West Bengal",
+  "constituency": "SITAI (SC)",
+  "district": "Koch Bihar",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 260239,
+        "total_votes_polled": 215750,
+        "turnout_percentage": 83.9,
+        "margin_votes": 25251,
+        "margin_percentage": 11.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jagadish Chandra Barma Basunia",
+          "party": "All India Trinamool Congress",
+          "votes": 103410,
+          "votes_percentage": 47.9
+        },
+        {
+          "position": 2,
+          "name": "Keshab Chandra Ray",
+          "party": "Indian National Congress",
+          "votes": 78159,
+          "votes_percentage": 36.2
+        },
+        {
+          "position": 3,
+          "name": "Bhaben Chandra Ray",
+          "party": "Bharatiya Janta Party",
+          "votes": 27809,
+          "votes_percentage": 12.9
+        },
+        {
+          "position": 4,
+          "name": "Tapas Barman",
+          "party": "Amra Bangalee",
+          "votes": 2364,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Mani Mahanta",
+          "party": "Bahujan Samaj Party",
+          "votes": 2359,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Anil Chandra Barman Roy",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1649,
+          "votes_percentage": 0.8
+        }
+      ]
+    }
+  }
+}

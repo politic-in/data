@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 130090,
+        "male": 135652,
+        "percentage_of_total_population": 9.92,
+        "percentage_of_total_population_calculated": 9.92,
+        "percentage_of_total_population_stated": 9.92,
+        "sex_ratio": 959,
+        "total": 265742
+    },
+    "literacy": {
+        "female_literacy_rate": 67.38,
+        "female_literate": 807367,
+        "male_literacy_rate": 82.81,
+        "male_literate": 1006024,
+        "rate_percentage": 75.14,
+        "total_literate": 1813391
+    },
+    "population": {
+        "female": 1328386,
+        "male": 1350594,
+        "sex_ratio": 984,
+        "total": 2678980
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 187
+        },
+        "Christian": {
+            "percentage": 0.34,
+            "population": 9130
+        },
+        "Hindu": {
+            "percentage": 90.1,
+            "population": 2413812
+        },
+        "Jain": {
+            "percentage": 0.19,
+            "population": 5067
+        },
+        "Muslims": {
+            "percentage": 9.18,
+            "population": 245923
+        },
+        "Not Stated": {
+            "percentage": 0.16,
+            "population": 4223
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 161
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 477
+        }
+    },
+    "rural": {
+        "child_population_female": 99696,
+        "child_population_male": 103989,
+        "child_population_percentage": 9.79,
+        "child_population_percentage_calculated": 9.79,
+        "child_population_percentage_stated": 9.79,
+        "child_population_total": 203685,
+        "child_sex_ratio": 959,
+        "female": 1031192,
+        "literacy_rate_female": 62.71,
+        "literacy_rate_male": 80.48,
+        "literacy_rate_percentage": 71.66,
+        "literate_female": 584116,
+        "literate_male": 760322,
+        "literate_total": 1344438,
+        "male": 1048710,
+        "percentage_population": 77.64,
+        "population": 2079902,
+        "sex_ratio": 983
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/267-tumkur.html",
+    "urban": {
+        "child_population_female": 30375,
+        "child_population_male": 31682,
+        "child_population_percentage": 10.36,
+        "child_population_percentage_calculated": 10.36,
+        "child_population_percentage_stated": 10.36,
+        "child_population_total": 62057,
+        "child_sex_ratio": 959,
+        "female": 297194,
+        "literacy_rate_female": 83.67,
+        "literacy_rate_male": 90.93,
+        "literacy_rate_percentage": 87.32,
+        "literate_female": 223251,
+        "literate_male": 245702,
+        "literate_total": 468953,
+        "male": 301884,
+        "percentage_population": 22.36,
+        "population": 599078,
+        "sex_ratio": 984
+    }
+}

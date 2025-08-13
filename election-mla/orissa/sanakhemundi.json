@@ -1,0 +1,171 @@
+{
+  "state": "Orissa",
+  "constituency": "Sanakhemundi",
+  "district": "Ganjam",
+  "ac_type": "GEN",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 216288,
+        "total_votes_polled": 145080,
+        "turnout_percentage": 68.4,
+        "margin_votes": 23727,
+        "margin_percentage": 16.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ramesh Chandra Jena",
+          "party": "Indian National Congress",
+          "votes": 75021,
+          "votes_percentage": 51.7
+        },
+        {
+          "position": 2,
+          "name": "Nandini Devi",
+          "party": "Biju Janata Dal",
+          "votes": 51294,
+          "votes_percentage": 35.4
+        },
+        {
+          "position": 3,
+          "name": "Bijaya Kumar Swain",
+          "party": "Bharatiya Janta Party",
+          "votes": 15335,
+          "votes_percentage": 10.6
+        },
+        {
+          "position": 4,
+          "name": "Pratap Chandra Pradhan",
+          "party": "Independent",
+          "votes": 2052,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 5,
+          "name": "Gariba Naik",
+          "party": "Bahujan Samaj Party",
+          "votes": 1378,
+          "votes_percentage": 1.0
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "10 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 197708,
+        "total_votes_polled": 131164,
+        "turnout_percentage": 66.3,
+        "total_valid_votes": 128889,
+        "total_valid_votes_percentage": 65.2,
+        "margin_votes": 8222,
+        "margin_percentage": 6.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nandini Devi",
+          "party": "Biju Janata Dal",
+          "votes": 61773,
+          "votes_percentage": 47.9
+        },
+        {
+          "position": 2,
+          "name": "Ramesh Chandra Jena",
+          "party": "Indian National Congress",
+          "votes": 53551,
+          "votes_percentage": 41.6
+        },
+        {
+          "position": 3,
+          "name": "Birkishore Dev",
+          "party": "Bharatiya Janta Party",
+          "votes": 6053,
+          "votes_percentage": 4.7
+        },
+        {
+          "position": 4,
+          "name": "Antarjyami Swain",
+          "party": "Communist Party Of India",
+          "votes": 4933,
+          "votes_percentage": 3.8
+        },
+        {
+          "position": 5,
+          "name": "Sirish Charan Mishra",
+          "party": "Bahujan Samaj Party",
+          "votes": 1347,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Kadmi Ramesh Kumar Dora",
+          "party": "Aam Aadmi Party",
+          "votes": 1232,
+          "votes_percentage": 1.0
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 179442,
+        "total_votes_polled": 100273,
+        "turnout_percentage": 55.9,
+        "margin_votes": 23593,
+        "margin_percentage": 23.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ramesh Chandra Jena",
+          "party": "Indian National Congress",
+          "votes": 50487,
+          "votes_percentage": 50.3
+        },
+        {
+          "position": 2,
+          "name": "Kishore Chandra Singh Deo",
+          "party": "Bharatiya Janta Party",
+          "votes": 26894,
+          "votes_percentage": 26.8
+        },
+        {
+          "position": 3,
+          "name": "N.Narayan Reddy",
+          "party": "Communist Party Of India",
+          "votes": 15023,
+          "votes_percentage": 14.9
+        },
+        {
+          "position": 4,
+          "name": "Bhala Chandra Sadhangi",
+          "party": "Independent",
+          "votes": 4519,
+          "votes_percentage": 4.5
+        },
+        {
+          "position": 5,
+          "name": "Chhabilal Swain",
+          "party": "Revolutionary Socialist Party",
+          "votes": 1961,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 6,
+          "name": "Dillip Kumar Patro",
+          "party": "Samajwadi Party",
+          "votes": 1389,
+          "votes_percentage": 1.4
+        }
+      ]
+    }
+  }
+}

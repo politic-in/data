@@ -1,0 +1,152 @@
+{
+  "state": "Sikkim",
+  "constituency": "Poklok-kamrang",
+  "district": "South",
+  "ac_type": "GEN",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 15599,
+        "total_votes_polled": 12975,
+        "turnout_percentage": 83.9,
+        "margin_votes": 2899,
+        "margin_percentage": 22.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pawan Chamling",
+          "party": "Sikkim Democratic Front",
+          "votes": 7731,
+          "votes_percentage": 59.6
+        },
+        {
+          "position": 2,
+          "name": "Kharka Bahadur Rai",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 4832,
+          "votes_percentage": 37.2
+        },
+        {
+          "position": 3,
+          "name": "Yadhu Kumar Rai",
+          "party": "Sikkim Republican Party",
+          "votes": 197,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 4,
+          "name": "Ishwar Prasad Rai",
+          "party": "Indian National Congress",
+          "votes": 125,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Birkha Bahadur Rai",
+          "party": "Hamro Sikkim Party",
+          "votes": 90,
+          "votes_percentage": 0.7
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "12 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 13460,
+        "total_votes_polled": 11614,
+        "turnout_percentage": 86.3,
+        "total_valid_votes": 11436,
+        "total_valid_votes_percentage": 85.0,
+        "margin_votes": 4671,
+        "margin_percentage": 40.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kedar Nath Rai",
+          "party": "Sikkim Democratic Front",
+          "votes": 7996,
+          "votes_percentage": 69.9
+        },
+        {
+          "position": 2,
+          "name": "Bhoj Raj Rai",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 3325,
+          "votes_percentage": 29.1
+        },
+        {
+          "position": 3,
+          "name": "Ishwar Prasad Rai",
+          "party": "Indian National Congress",
+          "votes": 115,
+          "votes_percentage": 1.0
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "30 April 2009",
+      "counting_date": "05 June 2009",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 10595,
+        "total_votes_polled": 9146,
+        "turnout_percentage": 86.3,
+        "total_valid_votes": 9017,
+        "total_valid_votes_percentage": 85.1,
+        "margin_votes": 5956,
+        "margin_percentage": 65.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pawan Chamling",
+          "party": "Sikkim Democratic Front",
+          "votes": 7379,
+          "votes_percentage": 80.7
+        },
+        {
+          "position": 2,
+          "name": "Purna Kumari Rai",
+          "party": "Indian National Congress",
+          "votes": 1423,
+          "votes_percentage": 15.6
+        },
+        {
+          "position": 3,
+          "name": "Padam Pd Sharma",
+          "party": "Bharatiya Janta Party",
+          "votes": 167,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 4,
+          "name": "Bhim Shila Rai",
+          "party": "Independent",
+          "votes": 100,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Dhanman Rai",
+          "party": "Sikkim Gorkha Prajatantric Party",
+          "votes": 39,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Jai Prakash Rai",
+          "party": "Sikkim Jan-Ekta Party",
+          "votes": 38,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

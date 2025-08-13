@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 28922,
+        "male": 34349,
+        "percentage_of_total_population": 10.54,
+        "percentage_of_total_population_calculated": 10.54,
+        "percentage_of_total_population_stated": 10.54,
+        "sex_ratio": 842,
+        "total": 63271
+    },
+    "literacy": {
+        "female_literacy_rate": 74.8,
+        "female_literate": 187337,
+        "male_literacy_rate": 83.33,
+        "male_literate": 238696,
+        "rate_percentage": 79.35,
+        "total_literate": 426033
+    },
+    "population": {
+        "female": 279368,
+        "male": 320795,
+        "sex_ratio": 871,
+        "total": 600163
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 48
+        },
+        "Christian": {
+            "percentage": 0.28,
+            "population": 1698
+        },
+        "Hindu": {
+            "percentage": 25.47,
+            "population": 152851
+        },
+        "Jain": {
+            "percentage": 0.03,
+            "population": 178
+        },
+        "Muslims": {
+            "percentage": 2.8,
+            "population": 16808
+        },
+        "Not Stated": {
+            "percentage": 0.13,
+            "population": 808
+        },
+        "Others": {
+            "percentage": 0.04,
+            "population": 251
+        },
+        "Sikh": {
+            "percentage": 71.23,
+            "population": 427521
+        }
+    },
+    "rural": {
+        "child_population_female": 19475,
+        "child_population_male": 23310,
+        "child_population_percentage": 10.32,
+        "child_population_percentage_calculated": 10.32,
+        "child_population_percentage_stated": 10.32,
+        "child_population_total": 42785,
+        "child_sex_ratio": 835,
+        "female": 194631,
+        "literacy_rate_female": 72.75,
+        "literacy_rate_male": 81.79,
+        "literacy_rate_percentage": 77.53,
+        "literate_female": 127418,
+        "literate_male": 160922,
+        "literate_total": 288340,
+        "male": 220050,
+        "percentage_population": 69.09,
+        "population": 414681,
+        "sex_ratio": 884
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/593-fatehgarh-sahib.html",
+    "urban": {
+        "child_population_female": 9456,
+        "child_population_male": 11030,
+        "child_population_percentage": 11.04,
+        "child_population_percentage_calculated": 11.04,
+        "child_population_percentage_stated": 11.04,
+        "child_population_total": 20486,
+        "child_sex_ratio": 857,
+        "female": 84737,
+        "literacy_rate_female": 79.59,
+        "literacy_rate_male": 86.69,
+        "literacy_rate_percentage": 83.45,
+        "literate_female": 59919,
+        "literate_male": 77774,
+        "literate_total": 137693,
+        "male": 100745,
+        "percentage_population": 30.91,
+        "population": 185482,
+        "sex_ratio": 841
+    }
+}

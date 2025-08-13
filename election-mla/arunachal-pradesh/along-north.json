@@ -1,0 +1,113 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Along North",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1984": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 10903,
+        "total_votes_polled": 9027,
+        "turnout_percentage": 82.8,
+        "margin_votes": 48,
+        "margin_percentage": 0.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Lijum Ronya",
+          "party": "Bharatiya Janta Party",
+          "votes": 2811,
+          "votes_percentage": 32.2
+        },
+        {
+          "position": 2,
+          "name": "Talong Taggu",
+          "party": "Indian National Congress",
+          "votes": 2763,
+          "votes_percentage": 31.7
+        },
+        {
+          "position": 3,
+          "name": "Tamyo Taga",
+          "party": "Independent",
+          "votes": 2460,
+          "votes_percentage": 28.2
+        },
+        {
+          "position": 4,
+          "name": "Doyom Likar",
+          "party": "Independent",
+          "votes": 694,
+          "votes_percentage": 8.0
+        }
+      ]
+    },
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 8905,
+        "total_votes_polled": 6630,
+        "turnout_percentage": 74.5,
+        "margin_votes": 154,
+        "margin_percentage": 2.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Talong Taggu",
+          "party": "Indian National Congress (I)",
+          "votes": 3311,
+          "votes_percentage": 51.2
+        },
+        {
+          "position": 2,
+          "name": "Lijum Ronya",
+          "party": "Peoples Party Of Arunachal",
+          "votes": 3157,
+          "votes_percentage": 48.8
+        }
+      ]
+    },
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 8306,
+        "total_votes_polled": 6808,
+        "turnout_percentage": 82.0,
+        "margin_votes": 1526,
+        "margin_percentage": 22.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Lium Ronya",
+          "party": "Peoples Party Of Arunachal",
+          "votes": 3394,
+          "votes_percentage": 51.1
+        },
+        {
+          "position": 2,
+          "name": "Talong Taggu",
+          "party": "Independent",
+          "votes": 1868,
+          "votes_percentage": 28.1
+        },
+        {
+          "position": 3,
+          "name": "Nyodek Yonggam",
+          "party": "Janta Party",
+          "votes": 1376,
+          "votes_percentage": 20.7
+        }
+      ]
+    }
+  }
+}

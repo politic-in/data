@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 148359,
+        "male": 163571,
+        "percentage_of_total_population": 11.37,
+        "percentage_of_total_population_calculated": 11.37,
+        "percentage_of_total_population_stated": 11.37,
+        "sex_ratio": 907,
+        "total": 311930
+    },
+    "literacy": {
+        "female_literacy_rate": 66.86,
+        "female_literate": 795837,
+        "male_literacy_rate": 84.38,
+        "male_literate": 1046981,
+        "rate_percentage": 75.8,
+        "total_literate": 1842818
+    },
+    "population": {
+        "female": 1338726,
+        "male": 1404356,
+        "sex_ratio": 953,
+        "total": 2743082
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.05,
+            "population": 1291
+        },
+        "Christian": {
+            "percentage": 0.09,
+            "population": 2586
+        },
+        "Hindu": {
+            "percentage": 87.39,
+            "population": 2397056
+        },
+        "Jain": {
+            "percentage": 0.14,
+            "population": 3841
+        },
+        "Muslims": {
+            "percentage": 12.21,
+            "population": 334858
+        },
+        "Not Stated": {
+            "percentage": 0.08,
+            "population": 2263
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 77
+        },
+        "Sikh": {
+            "percentage": 0.04,
+            "population": 1110
+        }
+    },
+    "rural": {
+        "child_population_female": 102146,
+        "child_population_male": 111826,
+        "child_population_percentage": 11.65,
+        "child_population_percentage_calculated": 11.65,
+        "child_population_percentage_stated": 11.65,
+        "child_population_total": 213972,
+        "child_sex_ratio": 913,
+        "female": 896399,
+        "literacy_rate_female": 62.57,
+        "literacy_rate_male": 82.23,
+        "literacy_rate_percentage": 72.61,
+        "literate_female": 496951,
+        "literate_male": 681209,
+        "literate_total": 1178160,
+        "male": 940271,
+        "percentage_population": 66.96,
+        "population": 1836670,
+        "sex_ratio": 953
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/193-junagadh.html",
+    "urban": {
+        "child_population_female": 46249,
+        "child_population_male": 51709,
+        "child_population_percentage": 10.81,
+        "child_population_percentage_calculated": 10.81,
+        "child_population_percentage_stated": 10.81,
+        "child_population_total": 97958,
+        "child_sex_ratio": 894,
+        "female": 442327,
+        "literacy_rate_female": 75.46,
+        "literacy_rate_male": 88.7,
+        "literacy_rate_percentage": 82.21,
+        "literate_female": 298886,
+        "literate_male": 365772,
+        "literate_total": 664658,
+        "male": 464085,
+        "percentage_population": 33.04,
+        "population": 906412,
+        "sex_ratio": 953
+    }
+}

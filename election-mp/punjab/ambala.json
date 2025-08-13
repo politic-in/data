@@ -1,0 +1,104 @@
+{
+  "state": "Punjab",
+  "constituency": "AMBALA",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 439952,
+        "total_votes_polled": 271449,
+        "turnout_percentage": 61.7,
+        "margin_votes": 35834,
+        "margin_percentage": 13.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chuni Lal",
+          "party": "Indian National Congress",
+          "votes": 121943,
+          "votes_percentage": 44.9
+        },
+        {
+          "position": 2,
+          "name": "Jugal Kishore",
+          "party": "Jan Sangh",
+          "votes": 86109,
+          "votes_percentage": 31.7
+        },
+        {
+          "position": 3,
+          "name": "Telu Ram S/o Punnu Ram",
+          "party": "Republican Party",
+          "votes": 26852,
+          "votes_percentage": 9.9
+        },
+        {
+          "position": 4,
+          "name": "Atma Ram",
+          "party": "Independent",
+          "votes": 19058,
+          "votes_percentage": 7.0
+        },
+        {
+          "position": 5,
+          "name": "Telu Ram S/o Waru Ram",
+          "party": "Independent",
+          "votes": 7389,
+          "votes_percentage": 2.7
+        }
+      ]
+    },
+    "1957": {
+      "poll_date": "25 February 1957",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 788454,
+        "total_votes_polled": 920446,
+        "turnout_percentage": 58.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Subhdra Joshi",
+          "party": "Indian National Congress",
+          "votes": 317926,
+          "votes_percentage": 34.5
+        },
+        {
+          "position": 1,
+          "name": "Chuni Lal",
+          "party": "Indian National Congress",
+          "votes": 269991,
+          "votes_percentage": 29.3
+        },
+        {
+          "position": 3,
+          "name": "Tek Chand Chitkara",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 190889,
+          "votes_percentage": 20.7
+        },
+        {
+          "position": 4,
+          "name": "Telu Ram",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 141640,
+          "votes_percentage": 15.4
+        },
+        {
+          "position": 5,
+          "name": "Bansi Lal",
+          "party": "Praja Socialist Party",
+          "votes": 0,
+          "votes_percentage": 0.0
+        }
+      ]
+    }
+  }
+}

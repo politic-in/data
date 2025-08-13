@@ -1,0 +1,99 @@
+{
+  "state": "Meghalaya",
+  "constituency": "MAWPHLANG",
+  "district": "East Khasi Hills",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 29484,
+        "total_votes_polled": 25937,
+        "turnout_percentage": 88.7,
+        "margin_votes": 718,
+        "margin_percentage": 2.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Syntar Klas Sunn",
+          "party": "Independent",
+          "votes": 11162,
+          "votes_percentage": 43.0
+        },
+        {
+          "position": 2,
+          "name": "Kennedy Cornelius Khyriem",
+          "party": "Indian National Congress",
+          "votes": 10444,
+          "votes_percentage": 40.3
+        },
+        {
+          "position": 3,
+          "name": "Pynshai Manik Syiem",
+          "party": "Hill State People's Democratic Party",
+          "votes": 3940,
+          "votes_percentage": 15.2
+        },
+        {
+          "position": 4,
+          "name": "Dr. Donkupar Lyngdoh",
+          "party": "Peoples Democratic Front",
+          "votes": 391,
+          "votes_percentage": 1.5
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "23 February 2013",
+      "counting_date": "28 February 2013",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 24050,
+        "total_votes_polled": 21366,
+        "turnout_percentage": 88.8,
+        "margin_votes": 3344,
+        "margin_percentage": 15.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kennedy Cornelius Khyriem",
+          "party": "Indian National Congress",
+          "votes": 9212,
+          "votes_percentage": 43.1
+        },
+        {
+          "position": 2,
+          "name": "J. Antonius Lyngdoh",
+          "party": "United Democratic Party",
+          "votes": 5868,
+          "votes_percentage": 27.5
+        },
+        {
+          "position": 3,
+          "name": "Pynshai Manik Syiem",
+          "party": "Independent",
+          "votes": 4573,
+          "votes_percentage": 21.4
+        },
+        {
+          "position": 4,
+          "name": "Skor Jala",
+          "party": "Hill State People's Democratic Party",
+          "votes": 1513,
+          "votes_percentage": 7.1
+        },
+        {
+          "position": 5,
+          "name": "Hamsya Chen",
+          "party": "Independent",
+          "votes": 200,
+          "votes_percentage": 0.9
+        }
+      ]
+    }
+  }
+}

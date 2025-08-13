@@ -1,0 +1,57 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Bhadrahcalam",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "1989": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 149609,
+        "total_votes_polled": 100742,
+        "turnout_percentage": 67.3,
+        "margin_votes": 7776,
+        "margin_percentage": 7.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kunja Bojji",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 48217,
+          "votes_percentage": 50.8
+        },
+        {
+          "position": 2,
+          "name": "Dungurothu Suseela",
+          "party": "Indian National Congress",
+          "votes": 40441,
+          "votes_percentage": 42.6
+        },
+        {
+          "position": 3,
+          "name": "Koyyala Venkateswara Rao",
+          "party": "Independent",
+          "votes": 2383,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 4,
+          "name": "Kurusamu Achaiah",
+          "party": "Independent",
+          "votes": 1955,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 5,
+          "name": "Miurla Yerraiha Reddy",
+          "party": "Marxist Communist Partyof India (SRIVASTAVA)",
+          "votes": 1878,
+          "votes_percentage": 2.0
+        }
+      ]
+    }
+  }
+}

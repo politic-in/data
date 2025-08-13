@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 267182,
+        "male": 284236,
+        "percentage_of_total_population": 16.56,
+        "percentage_of_total_population_calculated": 16.56,
+        "percentage_of_total_population_stated": 16.56,
+        "sex_ratio": 940,
+        "total": 551418
+    },
+    "literacy": {
+        "female_literacy_rate": 58.66,
+        "female_literate": 814269,
+        "male_literacy_rate": 80.23,
+        "male_literate": 1115906,
+        "rate_percentage": 69.45,
+        "total_literate": 1930175
+    },
+    "population": {
+        "female": 1655374,
+        "male": 1675090,
+        "sex_ratio": 988,
+        "total": 3330464
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 407
+        },
+        "Christian": {
+            "percentage": 0.08,
+            "population": 2618
+        },
+        "Hindu": {
+            "percentage": 81.45,
+            "population": 2712635
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 359
+        },
+        "Muslims": {
+            "percentage": 18.26,
+            "population": 608282
+        },
+        "Not Stated": {
+            "percentage": 0.17,
+            "population": 5708
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 86
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 369
+        }
+    },
+    "rural": {
+        "child_population_female": 255144,
+        "child_population_male": 270816,
+        "child_population_percentage": 16.71,
+        "child_population_percentage_calculated": 16.71,
+        "child_population_percentage_stated": 16.71,
+        "child_population_total": 525960,
+        "child_sex_ratio": 942,
+        "female": 1567866,
+        "literacy_rate_female": 57.94,
+        "literacy_rate_male": 79.99,
+        "literacy_rate_percentage": 68.95,
+        "literate_female": 760550,
+        "literate_male": 1046916,
+        "literate_total": 1807466,
+        "male": 1579685,
+        "percentage_population": 94.51,
+        "population": 3147551,
+        "sex_ratio": 993
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/70-siwan.html",
+    "urban": {
+        "child_population_female": 12086,
+        "child_population_male": 13372,
+        "child_population_percentage": 13.92,
+        "child_population_percentage_calculated": 13.92,
+        "child_population_percentage_stated": 13.92,
+        "child_population_total": 25458,
+        "child_sex_ratio": 904,
+        "female": 87508,
+        "literacy_rate_female": 71.22,
+        "literacy_rate_male": 84.1,
+        "literacy_rate_percentage": 77.93,
+        "literate_female": 53719,
+        "literate_male": 68990,
+        "literate_total": 122709,
+        "male": 95405,
+        "percentage_population": 5.49,
+        "population": 182913,
+        "sex_ratio": 917
+    }
+}

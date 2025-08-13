@@ -1,0 +1,64 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "Litipara",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 138141,
+        "total_votes_polled": 77264,
+        "turnout_percentage": 55.9,
+        "margin_votes": 10510,
+        "margin_percentage": 13.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sushila Hansda",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 35391,
+          "votes_percentage": 46.7
+        },
+        {
+          "position": 2,
+          "name": "Stephan Soren",
+          "party": "Indian National Congress",
+          "votes": 24881,
+          "votes_percentage": 32.8
+        },
+        {
+          "position": 3,
+          "name": "Chhutar Kisku",
+          "party": "Bharatiya Janta Party",
+          "votes": 12361,
+          "votes_percentage": 16.3
+        },
+        {
+          "position": 4,
+          "name": "Jhano Rewati Tudu",
+          "party": "Rashtriya Janata Dal",
+          "votes": 1814,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 5,
+          "name": "Rishi Kishku",
+          "party": "Communist Party Of India",
+          "votes": 792,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Helena Murmu",
+          "party": "Nationalist Congress Party",
+          "votes": 575,
+          "votes_percentage": 0.8
+        }
+      ]
+    }
+  }
+}

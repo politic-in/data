@@ -1,0 +1,45 @@
+{
+  "state": "Tripura",
+  "year": "1999",
+  "summary_stats": {
+    "total_electors_state": 1796055,
+    "total_votes_polled_state": 1223784,
+    "turnout_percentage_state": 68.1,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Tripura East",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Tripura",
+      "winning_candidate": "Baju Ban Riyan",
+      "winning_party": "Communist Party Of India (MARXIST)",
+      "total_electors_ac": 854764,
+      "total_votes_ac": 564376,
+      "poll_percentage_ac": 0.0,
+      "margin": 150500,
+      "margin_percentage": 26.7,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1999/tripura/tripura-east/6501/25/13"
+    },
+    {
+      "ac_name": "Tripura West",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Tripura",
+      "winning_candidate": "Samar Chowdhury",
+      "winning_party": "Communist Party Of India (MARXIST)",
+      "total_electors_ac": 941291,
+      "total_votes_ac": 659408,
+      "poll_percentage_ac": 0.0,
+      "margin": 198399,
+      "margin_percentage": 30.1,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1999/tripura/tripura-west/6500/25/13"
+    }
+  ]
+}

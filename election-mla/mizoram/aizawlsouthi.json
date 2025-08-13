@@ -1,0 +1,64 @@
+{
+  "state": "Mizoram",
+  "constituency": "AIZAWLSOUTHI",
+  "district": "Aizawl",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 20737,
+        "total_votes_polled": 17132,
+        "turnout_percentage": 82.9,
+        "margin_votes": 1049,
+        "margin_percentage": 6.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "C. Lalsawivunga",
+          "party": "Independent",
+          "votes": 6808,
+          "votes_percentage": 39.7
+        },
+        {
+          "position": 2,
+          "name": "K. Liantlinga",
+          "party": "Mizo National Front",
+          "votes": 5759,
+          "votes_percentage": 33.6
+        },
+        {
+          "position": 3,
+          "name": "R. Vanlalvena",
+          "party": "Indian National Congress",
+          "votes": 4208,
+          "votes_percentage": 24.6
+        },
+        {
+          "position": 4,
+          "name": "Dr Zonuntluanga",
+          "party": "Bharatiya Janta Party",
+          "votes": 177,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Hk Liansawta",
+          "party": "Prism",
+          "votes": 111,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Lalthlamuani",
+          "party": "Independent",
+          "votes": 69,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

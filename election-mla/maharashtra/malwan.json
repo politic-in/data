@@ -1,0 +1,64 @@
+{
+  "state": "Maharashtra",
+  "constituency": "Malwan",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 95664,
+        "total_votes_polled": 36249,
+        "turnout_percentage": 37.9,
+        "margin_votes": 2882,
+        "margin_percentage": 8.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Keshavrao Rane",
+          "party": "Indian National Congress (I)",
+          "votes": 14591,
+          "votes_percentage": 40.9
+        },
+        {
+          "position": 2,
+          "name": "Baban Dsouza",
+          "party": "Janata Party (JP)",
+          "votes": 11709,
+          "votes_percentage": 32.8
+        },
+        {
+          "position": 3,
+          "name": "Shyam Kocharekar",
+          "party": "Independent",
+          "votes": 6987,
+          "votes_percentage": 19.6
+        },
+        {
+          "position": 4,
+          "name": "Mukund Hari Kadam",
+          "party": "Indian National Congress (U)",
+          "votes": 1169,
+          "votes_percentage": 3.3
+        },
+        {
+          "position": 5,
+          "name": "Kaam Narhari Sakharam",
+          "party": "Independent",
+          "votes": 682,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 6,
+          "name": "Bhai Chindarkar",
+          "party": "Independent",
+          "votes": 566,
+          "votes_percentage": 1.6
+        }
+      ]
+    }
+  }
+}

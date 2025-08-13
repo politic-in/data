@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 76973,
+        "male": 79435,
+        "percentage_of_total_population": 16.85,
+        "percentage_of_total_population_calculated": 16.85,
+        "percentage_of_total_population_stated": 16.85,
+        "sex_ratio": 969,
+        "total": 156408
+    },
+    "literacy": {
+        "female_literacy_rate": 58.04,
+        "female_literate": 218373,
+        "male_literacy_rate": 67.87,
+        "male_literate": 268666,
+        "rate_percentage": 63.08,
+        "total_literate": 487039
+    },
+    "population": {
+        "female": 453227,
+        "male": 475273,
+        "sex_ratio": 954,
+        "total": 928500
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 57
+        },
+        "Christian": {
+            "percentage": 0.18,
+            "population": 1688
+        },
+        "Hindu": {
+            "percentage": 35.25,
+            "population": 327322
+        },
+        "Jain": {
+            "percentage": 0.08,
+            "population": 724
+        },
+        "Muslims": {
+            "percentage": 64.34,
+            "population": 597392
+        },
+        "Not Stated": {
+            "percentage": 0.09,
+            "population": 867
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 19
+        },
+        "Sikh": {
+            "percentage": 0.05,
+            "population": 431
+        }
+    },
+    "rural": {
+        "child_population_female": 74321,
+        "child_population_male": 76595,
+        "child_population_percentage": 17.29,
+        "child_population_percentage_calculated": 17.29,
+        "child_population_percentage_stated": 17.29,
+        "child_population_total": 150916,
+        "child_sex_ratio": 970,
+        "female": 426546,
+        "literacy_rate_female": 56.43,
+        "literacy_rate_male": 66.32,
+        "literacy_rate_percentage": 61.5,
+        "literate_female": 198764,
+        "literate_male": 245311,
+        "literate_total": 444075,
+        "male": 446460,
+        "percentage_population": 94.02,
+        "population": 873006,
+        "sex_ratio": 955
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/146-darrang.html",
+    "urban": {
+        "child_population_female": 2650,
+        "child_population_male": 2842,
+        "child_population_percentage": 9.9,
+        "child_population_percentage_calculated": 9.9,
+        "child_population_percentage_stated": 9.9,
+        "child_population_total": 5492,
+        "child_sex_ratio": 932,
+        "female": 26681,
+        "literacy_rate_female": 81.6,
+        "literacy_rate_male": 89.93,
+        "literacy_rate_percentage": 85.92,
+        "literate_female": 19609,
+        "literate_male": 23355,
+        "literate_total": 42964,
+        "male": 28813,
+        "percentage_population": 5.98,
+        "population": 55494,
+        "sex_ratio": 926
+    }
+}

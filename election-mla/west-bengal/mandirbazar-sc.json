@@ -1,0 +1,78 @@
+{
+  "state": "West Bengal",
+  "constituency": "MANDIRBAZAR (SC)",
+  "district": "South  Twenty Four Parganas",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 205528,
+        "total_votes_polled": 177481,
+        "turnout_percentage": 87.1,
+        "margin_votes": 24939,
+        "margin_percentage": 14.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Halder Joydeb",
+          "party": "All India Trinamool Congress",
+          "votes": 94339,
+          "votes_percentage": 53.2
+        },
+        {
+          "position": 2,
+          "name": "Dr. Sarat Chandra Haldar",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 69400,
+          "votes_percentage": 39.1
+        },
+        {
+          "position": 3,
+          "name": "Chhandita Mazumder",
+          "party": "Bharatiya Janta Party",
+          "votes": 8653,
+          "votes_percentage": 4.9
+        },
+        {
+          "position": 4,
+          "name": "Sisir Kumar Mondal",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1848,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Bappa Das",
+          "party": "Party For Democratic Socialism",
+          "votes": 951,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Tapas Kumar Halder",
+          "party": "Bahujan Samaj Party",
+          "votes": 810,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Ganesh Halder",
+          "party": "Lok Jan Shakti Party",
+          "votes": 788,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Sudip Halder",
+          "party": "Independent",
+          "votes": 692,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

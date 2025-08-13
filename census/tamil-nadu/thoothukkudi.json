@@ -1,0 +1,124 @@
+{
+  "district": "Thoothukkudi",
+  "state": "Tamil Nadu",
+  "census_year": 2011,
+  "source_urls": [
+    "https://www.census2011.co.in/census/district/49-thoothukkudi.html",
+    "https://www.censusindia.co.in/district/thoothukkudi-district-tamil-nadu-627"
+  ],
+  "population": {
+    "total": 1750176,
+    "male": 865021,
+    "female": 885155,
+    "sex_ratio": 1023
+  },
+  "urban_rural_distribution": {
+    "urban": {
+      "percentage": 50.1,
+      "population": 876802,
+      "male": 434660,
+      "female": 442142,
+      "sex_ratio": 1017,
+      "child_population": {
+        "total": 92647,
+        "male": 47035,
+        "female": 45612,
+        "sex_ratio": 970,
+        "percentage_of_urban_population": 10.57
+      },
+      "literacy": {
+        "rate_percentage": 90.16,
+        "total_literate": 707011,
+        "male_literate": 363367,
+        "female_literate": 343644,
+        "male_literacy_rate": 93.74,
+        "female_literacy_rate": 86.66
+      }
+    },
+    "rural": {
+      "percentage": 49.9,
+      "population": 873374,
+      "male": 430361,
+      "female": 443013,
+      "sex_ratio": 1029,
+      "child_population": {
+        "total": 91116,
+        "male": 46570,
+        "female": 44546,
+        "sex_ratio": 957,
+        "percentage_of_rural_population": 10.43
+      },
+      "literacy": {
+        "rate_percentage": 82.16,
+        "total_literate": 642686,
+        "male_literate": 339739,
+        "female_literate": 302947,
+        "male_literacy_rate": 88.52,
+        "female_literacy_rate": 76.03
+      }
+    }
+  },
+  "child_population_0_6": {
+    "total": 183763,
+    "male": 93605,
+    "female": 90158,
+    "sex_ratio": 963,
+    "percentage_of_total_population": 10.5
+  },
+  "literacy": {
+    "rate_percentage": 86.16,
+    "total_literate": 1349697,
+    "male_literate": 703106,
+    "female_literate": 646591,
+    "male_literacy_rate": 91.14,
+    "female_literacy_rate": 81.33
+  },
+  "religion_distribution": {
+    "hindu": {
+      "percentage": 78.5,
+      "population": 1373920
+    },
+    "muslim": {
+      "percentage": 4.61,
+      "population": 80740
+    },
+    "christian": {
+      "percentage": 16.68,
+      "population": 291908
+    },
+    "sikh": {
+      "percentage": 0.01,
+      "population": 127
+    },
+    "buddhist": {
+      "percentage": 0.02,
+      "population": 286
+    },
+    "jain": {
+      "percentage": 0.0,
+      "population": 53
+    },
+    "others": {
+      "percentage": 0.01,
+      "population": 112
+    },
+    "not_stated": {
+      "percentage": 0.17,
+      "population": 3030
+    }
+  },
+  "social_groups": {
+    "scheduled_castes_sc": {
+      "population": 347895,
+      "percentage_of_total_population": 19.9,
+      "male": 172663,
+      "female": 175232
+    },
+    "scheduled_tribes_st": {
+      "population": 4911,
+      "percentage_of_total_population": 0.3,
+      "male": 2466,
+      "female": 2445
+    }
+  }
+}

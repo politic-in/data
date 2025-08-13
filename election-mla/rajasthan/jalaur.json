@@ -1,0 +1,50 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Jalaur",
+  "district": "Jalor",
+  "ac_type": "SC",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 257938,
+        "total_votes_polled": 158970,
+        "turnout_percentage": 63.2,
+        "margin_votes": 35234,
+        "margin_percentage": 22.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jogeshwar Garg",
+          "party": "Bharatiya Janta Party",
+          "votes": 95086,
+          "votes_percentage": 59.8
+        },
+        {
+          "position": 2,
+          "name": "Manju Meghwal",
+          "party": "Indian National Congress",
+          "votes": 59852,
+          "votes_percentage": 37.7
+        },
+        {
+          "position": 3,
+          "name": "Om Prakash Chouhan",
+          "party": "Bharat Vahini Party",
+          "votes": 2190,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 4,
+          "name": "Bheemaram",
+          "party": "Bahujan Mukti Party",
+          "votes": 1842,
+          "votes_percentage": 1.2
+        }
+      ]
+    }
+  }
+}

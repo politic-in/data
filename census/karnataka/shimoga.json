@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 89511,
+        "male": 93240,
+        "percentage_of_total_population": 10.43,
+        "percentage_of_total_population_calculated": 10.43,
+        "percentage_of_total_population_stated": 10.43,
+        "sex_ratio": 960,
+        "total": 182751
+    },
+    "literacy": {
+        "female_literacy_rate": 74.84,
+        "female_literate": 588078,
+        "male_literacy_rate": 86.07,
+        "male_literate": 674938,
+        "rate_percentage": 80.45,
+        "total_literate": 1263016
+    },
+    "population": {
+        "female": 875338,
+        "male": 877415,
+        "sex_ratio": 998,
+        "total": 1752753
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 120
+        },
+        "Christian": {
+            "percentage": 1.51,
+            "population": 26521
+        },
+        "Hindu": {
+            "percentage": 84.41,
+            "population": 1479424
+        },
+        "Jain": {
+            "percentage": 0.53,
+            "population": 9234
+        },
+        "Muslims": {
+            "percentage": 13.39,
+            "population": 234664
+        },
+        "Not Stated": {
+            "percentage": 0.12,
+            "population": 2023
+        },
+        "Others": {
+            "percentage": 0.02,
+            "population": 367
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 400
+        }
+    },
+    "rural": {
+        "child_population_female": 58554,
+        "child_population_male": 61149,
+        "child_population_percentage": 10.6,
+        "child_population_percentage_calculated": 10.6,
+        "child_population_percentage_stated": 10.6,
+        "child_population_total": 119703,
+        "child_sex_ratio": 958,
+        "female": 563205,
+        "literacy_rate_female": 69.6,
+        "literacy_rate_male": 83.14,
+        "literacy_rate_percentage": 76.37,
+        "literate_female": 351227,
+        "literate_male": 419590,
+        "literate_total": 770817,
+        "male": 565821,
+        "percentage_population": 64.41,
+        "population": 1129026,
+        "sex_ratio": 995
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/266-shimoga.html",
+    "urban": {
+        "child_population_female": 30976,
+        "child_population_male": 32072,
+        "child_population_percentage": 10.11,
+        "child_population_percentage_calculated": 10.11,
+        "child_population_percentage_stated": 10.11,
+        "child_population_total": 63048,
+        "child_sex_ratio": 966,
+        "female": 312133,
+        "literacy_rate_female": 84.24,
+        "literacy_rate_male": 91.35,
+        "literacy_rate_percentage": 87.79,
+        "literate_female": 236851,
+        "literate_male": 255348,
+        "literate_total": 492199,
+        "male": 311594,
+        "percentage_population": 35.59,
+        "population": 623727,
+        "sex_ratio": 1002
+    }
+}

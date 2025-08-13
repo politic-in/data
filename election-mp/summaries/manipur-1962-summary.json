@@ -1,0 +1,45 @@
+{
+  "state": "Manipur",
+  "year": "1962",
+  "summary_stats": {
+    "total_electors_state": 405210,
+    "total_votes_polled_state": 264770,
+    "turnout_percentage_state": 65.3,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Inner Manipur",
+      "ac_no": 491,
+      "ac_type": "GEN",
+      "district": "Manipur",
+      "winning_candidate": "Salam Tombi Singh",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 212925,
+      "total_votes_ac": 145368,
+      "poll_percentage_ac": 0.0,
+      "margin": 12316,
+      "margin_percentage": 8.5,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1962/manipur/inner-manipur/1295/24/3"
+    },
+    {
+      "ac_name": "Outer Manipur",
+      "ac_no": 492,
+      "ac_type": "ST",
+      "district": "Manipur",
+      "winning_candidate": "Rishang",
+      "winning_party": "Socialist",
+      "total_electors_ac": 192285,
+      "total_votes_ac": 119402,
+      "poll_percentage_ac": 0.0,
+      "margin": 42,
+      "margin_percentage": 0.0,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1962/manipur/outer-manipur/1296/24/3"
+    }
+  ]
+}

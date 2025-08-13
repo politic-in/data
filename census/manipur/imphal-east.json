@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 29089,
+        "male": 30847,
+        "percentage_of_total_population": 13.14,
+        "percentage_of_total_population_calculated": 13.14,
+        "percentage_of_total_population_stated": 13.14,
+        "sex_ratio": 943,
+        "total": 59936
+    },
+    "literacy": {
+        "female_literacy_rate": 75.32,
+        "female_literate": 151350,
+        "male_literacy_rate": 88.77,
+        "male_literate": 173314,
+        "rate_percentage": 81.95,
+        "total_literate": 324664
+    },
+    "population": {
+        "female": 230019,
+        "male": 226094,
+        "sex_ratio": 1017,
+        "total": 456113
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.14,
+            "population": 639
+        },
+        "Christian": {
+            "percentage": 6.0,
+            "population": 27361
+        },
+        "Hindu": {
+            "percentage": 60.27,
+            "population": 274906
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 62
+        },
+        "Muslims": {
+            "percentage": 17.58,
+            "population": 80199
+        },
+        "Not Stated": {
+            "percentage": 0.43,
+            "population": 1940
+        },
+        "Others": {
+            "percentage": 15.53,
+            "population": 70825
+        },
+        "Sikh": {
+            "percentage": 0.04,
+            "population": 181
+        }
+    },
+    "rural": {
+        "child_population_female": 18540,
+        "child_population_male": 19784,
+        "child_population_percentage": 14.04,
+        "child_population_percentage_calculated": 14.04,
+        "child_population_percentage_stated": 14.04,
+        "child_population_total": 38324,
+        "child_sex_ratio": 937,
+        "female": 136117,
+        "literacy_rate_female": 70.54,
+        "literacy_rate_male": 86.27,
+        "literacy_rate_percentage": 78.39,
+        "literate_female": 82944,
+        "literate_male": 100937,
+        "literate_total": 183881,
+        "male": 136789,
+        "percentage_population": 59.83,
+        "population": 272906,
+        "sex_ratio": 995
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/376-imphal-east.html",
+    "urban": {
+        "child_population_female": 10545,
+        "child_population_male": 11067,
+        "child_population_percentage": 11.8,
+        "child_population_percentage_calculated": 11.8,
+        "child_population_percentage_stated": 11.8,
+        "child_population_total": 21612,
+        "child_sex_ratio": 953,
+        "female": 93902,
+        "literacy_rate_female": 82.06,
+        "literacy_rate_male": 92.51,
+        "literacy_rate_percentage": 87.12,
+        "literate_female": 68406,
+        "literate_male": 72377,
+        "literate_total": 140783,
+        "male": 89305,
+        "percentage_population": 40.17,
+        "population": 183207,
+        "sex_ratio": 1051
+    }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "politic-data",
+  "version": "1.0.0",
+  "description": "Political data validation and processing",
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "validate:booth": "node scripts/validate.js booth",
+    "validate:census": "node scripts/validate.js census",
+    "validate:election-mla": "node scripts/validate.js election-mla",
+    "validate:election-mp": "node scripts/validate.js election-mp",
+    "build:db": "node scripts/create-databases.js",
+    "build:parquet": "node scripts/create-parquet.js",
+    "build:vectors": "node scripts/build-vectors-runpod.js",
+    "export:neo4j": "node scripts/export-to-neo4j.js",
+    "export:qdrant": "node scripts/export-to-qdrant.js",
+    "export:elasticsearch": "node scripts/export-to-elasticsearch.js",
+    "build": "npm run build:db && npm run build:parquet",
+    "build:delta": "node scripts/create-unified-delta.js",
+    "test": "npm run validate"
+  },
+  "devDependencies": {
+    "ajv": "^8.12.0",
+    "ajv-formats": "^2.1.1",
+    "axios": "^1.11.0",
+    "better-sqlite3": "^11.5.0",
+    "dotenv": "^17.2.1",
+    "glob": "^10.3.10",
+    "parquetjs": "^0.11.2",
+    "uuid": "^9.0.1"
+  },
+  "license": "MIT"
+}

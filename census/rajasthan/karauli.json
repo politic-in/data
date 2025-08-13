@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 111035,
+        "male": 130322,
+        "percentage_of_total_population": 16.55,
+        "percentage_of_total_population_calculated": 16.55,
+        "percentage_of_total_population_stated": 16.55,
+        "sex_ratio": 852,
+        "total": 241357
+    },
+    "literacy": {
+        "female_literacy_rate": 48.61,
+        "female_literate": 273945,
+        "male_literacy_rate": 81.41,
+        "male_literate": 531904,
+        "rate_percentage": 66.22,
+        "total_literate": 805849
+    },
+    "population": {
+        "female": 674609,
+        "male": 783639,
+        "sex_ratio": 861,
+        "total": 1458248
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.0,
+            "population": 70
+        },
+        "Christian": {
+            "percentage": 0.04,
+            "population": 602
+        },
+        "Hindu": {
+            "percentage": 94.02,
+            "population": 1370977
+        },
+        "Jain": {
+            "percentage": 0.23,
+            "population": 3424
+        },
+        "Muslims": {
+            "percentage": 5.59,
+            "population": 81553
+        },
+        "Not Stated": {
+            "percentage": 0.06,
+            "population": 912
+        },
+        "Others": {
+            "percentage": 0.03,
+            "population": 413
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 297
+        }
+    },
+    "rural": {
+        "child_population_female": 95569,
+        "child_population_male": 112407,
+        "child_population_percentage": 16.77,
+        "child_population_percentage_calculated": 16.77,
+        "child_population_percentage_stated": 16.77,
+        "child_population_total": 207976,
+        "child_sex_ratio": 850,
+        "female": 571958,
+        "literacy_rate_female": 46.52,
+        "literacy_rate_male": 80.93,
+        "literacy_rate_percentage": 65.05,
+        "literate_female": 221611,
+        "literate_male": 449812,
+        "literate_total": 671423,
+        "male": 668185,
+        "percentage_population": 85.04,
+        "population": 1240143,
+        "sex_ratio": 856
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/432-karauli.html",
+    "urban": {
+        "child_population_female": 15494,
+        "child_population_male": 17887,
+        "child_population_percentage": 15.31,
+        "child_population_percentage_calculated": 15.31,
+        "child_population_percentage_stated": 15.31,
+        "child_population_total": 33381,
+        "child_sex_ratio": 866,
+        "female": 102651,
+        "literacy_rate_female": 60.05,
+        "literacy_rate_male": 84.14,
+        "literacy_rate_percentage": 72.77,
+        "literate_female": 52334,
+        "literate_male": 82092,
+        "literate_total": 134426,
+        "male": 115454,
+        "percentage_population": 14.96,
+        "population": 218105,
+        "sex_ratio": 889
+    }
+}

@@ -1,0 +1,63 @@
+{
+  "state": "Uttarakhand",
+  "constituency": "BAZPUR (SC)",
+  "district": "Udham Singh Nagar",
+  "ac_type": "SC",
+  "results": {
+    "2022": {
+      "poll_date": "14 February 2022",
+      "counting_date": "10 March 2022",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_votes_polled": 108802,
+        "turnout_percentage": 0.0,
+        "margin_votes": 1611,
+        "margin_percentage": 1.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Yashpal Arya",
+          "party": "Indian National Congress",
+          "votes": 40252,
+          "votes_percentage": 37.0
+        },
+        {
+          "position": 2,
+          "name": "Rajesh Kumar",
+          "party": "Bharatiya Janta Party",
+          "votes": 38641,
+          "votes_percentage": 35.5
+        },
+        {
+          "position": 3,
+          "name": "Sunita Tamta",
+          "party": "Aam Aadmi Party",
+          "votes": 20100,
+          "votes_percentage": 18.5
+        },
+        {
+          "position": 4,
+          "name": "Vijay Pal Singh",
+          "party": "Bahujan Samaj Party",
+          "votes": 8848,
+          "votes_percentage": 8.1
+        },
+        {
+          "position": 5,
+          "name": "Manju Arya",
+          "party": "Independent",
+          "votes": 581,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Dhanraj Bharti",
+          "party": "Samajwadi Party",
+          "votes": 380,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

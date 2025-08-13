@@ -1,0 +1,92 @@
+{
+  "state": "Uttarakhand",
+  "constituency": "CHAKRATA(ST)",
+  "district": "Dehradun",
+  "ac_type": "ST",
+  "results": {
+    "2022": {
+      "poll_date": "14 February 2022",
+      "counting_date": "10 March 2022",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 91603,
+        "total_votes_polled": 71394,
+        "turnout_percentage": 79.4,
+        "margin_votes": 9436,
+        "margin_percentage": 13.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pritam Singh",
+          "party": "Indian National Congress",
+          "votes": 36853,
+          "votes_percentage": 51.6
+        },
+        {
+          "position": 2,
+          "name": "Ram Sharan Nautiyal",
+          "party": "Bharatiya Janta Party",
+          "votes": 27417,
+          "votes_percentage": 38.4
+        },
+        {
+          "position": 3,
+          "name": "Kamlesh Bhatt",
+          "party": "Independent",
+          "votes": 3624,
+          "votes_percentage": 5.1
+        },
+        {
+          "position": 4,
+          "name": "Gajendra Dutt",
+          "party": "Independent",
+          "votes": 963,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 5,
+          "name": "Daulat Kunvar",
+          "party": "Independent",
+          "votes": 946,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 6,
+          "name": "Darshan Dobhal",
+          "party": "Aam Aadmi Party",
+          "votes": 485,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Bheem Dutt",
+          "party": "Bahujan Samaj Party",
+          "votes": 388,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Kuldeep Singh Chauhan",
+          "party": "Independent",
+          "votes": 364,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 9,
+          "name": "Manbir Singh Chauhan",
+          "party": "Independent",
+          "votes": 219,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Ramanand Singh",
+          "party": "Uttarakhand Kranti Dal",
+          "votes": 135,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

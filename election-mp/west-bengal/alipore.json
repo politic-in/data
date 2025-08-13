@@ -1,0 +1,99 @@
+{
+  "state": "West Bengal",
+  "constituency": "ALIPORE",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 642566,
+        "total_votes_polled": 368717,
+        "turnout_percentage": 57.4,
+        "margin_votes": 26958,
+        "margin_percentage": 7.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Indrajit Gupta",
+          "party": "Communist Party Of India",
+          "votes": 173795,
+          "votes_percentage": 47.1
+        },
+        {
+          "position": 2,
+          "name": "Kamal Sarkar",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 146837,
+          "votes_percentage": 39.8
+        },
+        {
+          "position": 3,
+          "name": "Amiya Nath Bose",
+          "party": "Independent",
+          "votes": 34081,
+          "votes_percentage": 9.2
+        }
+      ]
+    },
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 565727,
+        "total_votes_polled": 385961,
+        "turnout_percentage": 68.2,
+        "margin_votes": 587,
+        "margin_percentage": 0.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "I. Gupta",
+          "party": "Communist Party Of India",
+          "votes": 121694,
+          "votes_percentage": 31.5
+        },
+        {
+          "position": 2,
+          "name": "P. Sarkar",
+          "party": "Indian National Congress",
+          "votes": 121107,
+          "votes_percentage": 31.4
+        },
+        {
+          "position": 3,
+          "name": "M. Roy",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 113512,
+          "votes_percentage": 29.4
+        },
+        {
+          "position": 4,
+          "name": "I. Husain",
+          "party": "Independent",
+          "votes": 12308,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 5,
+          "name": "A. Mondal",
+          "party": "Independent",
+          "votes": 5446,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 6,
+          "name": "A. P. Swaroop",
+          "party": "Independent",
+          "votes": 1403,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

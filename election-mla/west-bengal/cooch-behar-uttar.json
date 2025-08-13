@@ -1,0 +1,64 @@
+{
+  "state": "West Bengal",
+  "constituency": "Cooch behar Uttar",
+  "district": "Koch Bihar",
+  "ac_type": "SC",
+  "results": {
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 218743,
+        "total_votes_polled": 188032,
+        "turnout_percentage": 86.0,
+        "margin_votes": 2197,
+        "margin_percentage": 1.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nagendra Nath Roy",
+          "party": "All India Forward Bloc",
+          "votes": 84825,
+          "votes_percentage": 45.1
+        },
+        {
+          "position": 2,
+          "name": "Prasenjit Barman",
+          "party": "All India Trinamool Congress",
+          "votes": 82628,
+          "votes_percentage": 43.9
+        },
+        {
+          "position": 3,
+          "name": "Malati Rava(RAY)",
+          "party": "Bharatiya Janta Party",
+          "votes": 12608,
+          "votes_percentage": 6.7
+        },
+        {
+          "position": 4,
+          "name": "Nirmal Kumar Roy",
+          "party": "Independent",
+          "votes": 4745,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 5,
+          "name": "Ratan Barman",
+          "party": "Republican Party Of India",
+          "votes": 1883,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Kulen Das",
+          "party": "Independent",
+          "votes": 1343,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

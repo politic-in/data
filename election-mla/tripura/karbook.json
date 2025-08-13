@@ -1,0 +1,71 @@
+{
+  "state": "Tripura",
+  "constituency": "KARBOOK",
+  "district": "South Tripura",
+  "ac_type": "ST",
+  "results": {
+    "2013": {
+      "poll_date": "14 February 2013",
+      "counting_date": "28 February 2013",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 31007,
+        "total_votes_polled": 29073,
+        "turnout_percentage": 93.8,
+        "margin_votes": 3435,
+        "margin_percentage": 11.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Priyamani Debbarma",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 15526,
+          "votes_percentage": 53.4
+        },
+        {
+          "position": 2,
+          "name": "Dharjaroy Tripura",
+          "party": "Indigenous Nationalist Party Of Twipra",
+          "votes": 12091,
+          "votes_percentage": 41.6
+        },
+        {
+          "position": 3,
+          "name": "Mitu Chakma",
+          "party": "Nationalist Congress Party",
+          "votes": 351,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 4,
+          "name": "Charendra Reang",
+          "party": "Independent",
+          "votes": 348,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 5,
+          "name": "Subal Debbarma",
+          "party": "Bharatiya Janta Party",
+          "votes": 290,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Satiram Reang",
+          "party": "Indigenous People's Front Of Tripura",
+          "votes": 288,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 7,
+          "name": "Falguni Tripura",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 179,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

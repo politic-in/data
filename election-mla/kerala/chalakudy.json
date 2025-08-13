@@ -1,0 +1,85 @@
+{
+  "state": "Kerala",
+  "constituency": "Chalakudy",
+  "district": "Thrissur",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "06 April 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 185970,
+        "total_votes_polled": 142154,
+        "turnout_percentage": 77.0,
+        "margin_votes": 1057,
+        "margin_percentage": 0.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Saneeshkumar Joseph",
+          "party": "Indian National Congress",
+          "votes": 61888,
+          "votes_percentage": 43.5
+        },
+        {
+          "position": 2,
+          "name": "Dennies K Antony",
+          "party": "Kerala Congress(M)",
+          "votes": 60831,
+          "votes_percentage": 42.8
+        },
+        {
+          "position": 3,
+          "name": "Unnikrishnan K.A",
+          "party": "Bharath Dharma Jana Sena",
+          "votes": 17301,
+          "votes_percentage": 12.2
+        },
+        {
+          "position": 4,
+          "name": "T N Rajan",
+          "party": "Independent",
+          "votes": 713,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "M S Asokan",
+          "party": "Bahujan Samaj Party",
+          "votes": 617,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Dharmajan P K",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 253,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Rosilin",
+          "party": "Independent",
+          "votes": 248,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "Joshy Vattoly",
+          "party": "Independent",
+          "votes": 160,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Cheriya",
+          "party": "Independent",
+          "votes": 143,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

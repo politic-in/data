@@ -1,0 +1,57 @@
+{
+  "state": "Kerala",
+  "constituency": "Vypeen",
+  "district": "Ernakulam",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "06 April 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 165552,
+        "total_votes_polled": 130071,
+        "turnout_percentage": 78.9,
+        "margin_votes": 8201,
+        "margin_percentage": 6.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "K.N. Unnikrishnan",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 53858,
+          "votes_percentage": 41.4
+        },
+        {
+          "position": 2,
+          "name": "Deepak Joy",
+          "party": "Indian National Congress",
+          "votes": 45657,
+          "votes_percentage": 35.1
+        },
+        {
+          "position": 3,
+          "name": "Dr.Job Chakalakal",
+          "party": "Twenty 20 Party",
+          "votes": 16707,
+          "votes_percentage": 12.8
+        },
+        {
+          "position": 4,
+          "name": "Adv.K.S. Shaiju",
+          "party": "Bharatiya Janta Party",
+          "votes": 13540,
+          "votes_percentage": 10.4
+        },
+        {
+          "position": 5,
+          "name": "Dr.M.K. Mukundan",
+          "party": "Independent",
+          "votes": 309,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

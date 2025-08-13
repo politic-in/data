@@ -1,0 +1,815 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Kamalapuram",
+  "district": "Ysr",
+  "ac_type": "GEN",
+  "results": {
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 16,
+      "aggregate": {
+        "total_electors": 159975,
+        "total_votes_polled": 135086,
+        "turnout_percentage": 84.4,
+        "total_valid_votes": 135080,
+        "total_valid_votes_percentage": 84.4,
+        "margin_votes": 4163,
+        "margin_percentage": 3.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gandluru Veera Siva Reddy",
+          "party": "Indian National Congress",
+          "votes": 65386,
+          "votes_percentage": 48.4
+        },
+        {
+          "position": 2,
+          "name": "Putta Narasimha Reddy",
+          "party": "Telugu Desam",
+          "votes": 61223,
+          "votes_percentage": 45.3
+        },
+        {
+          "position": 3,
+          "name": "O. Subba Reddy",
+          "party": "Praja Rajyam Party",
+          "votes": 3366,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 4,
+          "name": "Rajoli Veera Narayana Reddy",
+          "party": "Bahujan Samaj Party",
+          "votes": 1419,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Munnelli Mallikarjuna Reddy",
+          "party": "Independent",
+          "votes": 714,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Levaku Rama Mohan Reddy",
+          "party": "Bharatiya Janta Party",
+          "votes": 648,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Kandula Chinna Bali Reddy",
+          "party": "Independent",
+          "votes": 417,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Kuncham Venkata Subba Reddy",
+          "party": "Rayalaseema Rashtra Samithi",
+          "votes": 350,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Altaf Hussain",
+          "party": "Lok Satta Party",
+          "votes": 315,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "S. Sudhakara Reddy",
+          "party": "Rashtriya Krantikari Samajwadi Party",
+          "votes": 283,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Palagiri Jagan Mohan Reddy",
+          "party": "Pyramid Party Of India",
+          "votes": 277,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Veera Ramesh Reddy Gandluri",
+          "party": "Rashtriya Janata Dal",
+          "votes": 204,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 13,
+          "name": "Shaik Khadar Basha",
+          "party": "Trilinga Praja Pragati Party",
+          "votes": 146,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Sanivarapu Shivashankara Reddy",
+          "party": "Samata Party",
+          "votes": 122,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "P. V. Rami Reddy",
+          "party": "Janata Dal (United)",
+          "votes": 106,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "Mudireddy Subba Reddy",
+          "party": "Rajyadhikara Party",
+          "votes": 104,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2004": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 13,
+      "aggregate": {
+        "total_electors": 142487,
+        "total_votes_polled": 105670,
+        "turnout_percentage": 74.2,
+        "margin_votes": 11288,
+        "margin_percentage": 10.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gandluru Veera Siva Reddy",
+          "party": "Telugu Desam",
+          "votes": 57542,
+          "votes_percentage": 54.3
+        },
+        {
+          "position": 2,
+          "name": "Putha Narasimha Reddy",
+          "party": "Indian National Congress",
+          "votes": 46254,
+          "votes_percentage": 43.6
+        },
+        {
+          "position": 3,
+          "name": "Pula Srinivasa Reddy",
+          "party": "B. C. United Front",
+          "votes": 695,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 4,
+          "name": "M.V. Subba Reddy",
+          "party": "Independent",
+          "votes": 397,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 5,
+          "name": "Shike Murthuja Hussain",
+          "party": "Independent",
+          "votes": 298,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 6,
+          "name": "Tarun Kumar Reddy Bhoomi Reddy",
+          "party": "Independent",
+          "votes": 197,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Mallu Venugopal Reddy",
+          "party": "Ambedkar National Congress",
+          "votes": 150,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "S. Bala Narayana Reddy",
+          "party": "Independent",
+          "votes": 124,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "J. Raghunatha Reddy",
+          "party": "Ntr Telugu Desam Party (LAKSHMI PARVATHI)",
+          "votes": 117,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Chavali Veeranjaneyulu",
+          "party": "Independent",
+          "votes": 80,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Gurijala Gopal Reddy",
+          "party": "Independent",
+          "votes": 78,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "K. Lakshmi Narayana Reddy",
+          "party": "Republican Party Of India",
+          "votes": 67,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Salapala Devananda Reddy",
+          "party": "Praja Party",
+          "votes": 65,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1999": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 16,
+      "aggregate": {
+        "total_electors": 134774,
+        "total_votes_polled": 99841,
+        "turnout_percentage": 74.1,
+        "margin_votes": 10531,
+        "margin_percentage": 10.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Venkata Mysura Reddy Mule",
+          "party": "Indian National Congress",
+          "votes": 52429,
+          "votes_percentage": 53.9
+        },
+        {
+          "position": 2,
+          "name": "Gandluru Veera Siva Reddy",
+          "party": "Telugu Desam",
+          "votes": 41898,
+          "votes_percentage": 43.1
+        },
+        {
+          "position": 3,
+          "name": "Obulesu",
+          "party": "Communist Party Of India",
+          "votes": 1428,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 4,
+          "name": "Gopal Reddy Gurijala",
+          "party": "Janata Dal (Secular)",
+          "votes": 255,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 5,
+          "name": "Gandluru Narayana Reddy",
+          "party": "Independent",
+          "votes": 228,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 6,
+          "name": "Devireddy Nagi Reddy",
+          "party": "Independent",
+          "votes": 190,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Narreddy Bhaskar Reddy",
+          "party": "Independent",
+          "votes": 184,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "Chavali  Veeranjaneyulu",
+          "party": "Ntr Telugu Desam Party (LAKSHMI PARVATHI)",
+          "votes": 147,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Balasudhakar Arigelachennagari",
+          "party": "Independent",
+          "votes": 141,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Sanivarapu Siva Sankar Reddy",
+          "party": "Ajeya Bharat Party",
+          "votes": 87,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Chinna Anki Reddy Suda",
+          "party": "Independent",
+          "votes": 65,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Lingareddy Nagamuni Reddy",
+          "party": "Independent",
+          "votes": 63,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Byreddy Rama Krishna Reddy",
+          "party": "Independent",
+          "votes": 50,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Badulla Sab  Badamsagari",
+          "party": "Majlis Bachao Tahreek",
+          "votes": 47,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Sirigireddy Sivarami Reddy",
+          "party": "Rashtriya Janata Dal",
+          "votes": 42,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 16,
+          "name": "Gandi Subbarayudu",
+          "party": "Independent",
+          "votes": 20,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "1994": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 34,
+      "aggregate": {
+        "total_electors": 148485,
+        "total_votes_polled": 104222,
+        "turnout_percentage": 70.2,
+        "margin_votes": 6163,
+        "margin_percentage": 5.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Veera Siva Reddy Gandluru",
+          "party": "Telugu Desam",
+          "votes": 52577,
+          "votes_percentage": 51.3
+        },
+        {
+          "position": 2,
+          "name": "Venkata Mysura Reddy Mule",
+          "party": "Indian National Congress",
+          "votes": 46414,
+          "votes_percentage": 45.3
+        },
+        {
+          "position": 3,
+          "name": "Narreddy Muni Kumar Reddy",
+          "party": "Bharatiya Janta Party",
+          "votes": 726,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 4,
+          "name": "Machupalli Venkata Subba Reddy",
+          "party": "Independent",
+          "votes": 361,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 5,
+          "name": "Narreddy Siva Rami Reddy",
+          "party": "Independent",
+          "votes": 265,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 6,
+          "name": "Gopal Chittiboina",
+          "party": "Independent",
+          "votes": 210,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Ramakrishna Reddy Bireddy",
+          "party": "Independent",
+          "votes": 206,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "K. Obula Reddy",
+          "party": "Independent",
+          "votes": 201,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Yalakala Balanarayana Reddy",
+          "party": "Independent",
+          "votes": 125,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Raja Reddy Challa",
+          "party": "Independent",
+          "votes": 125,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "P. Ramachandra Reddy",
+          "party": "Independent",
+          "votes": 115,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Chandra Sekhar Reddy Putha",
+          "party": "Jharkhand Party",
+          "votes": 112,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Podadurthy Nawab Jan",
+          "party": "Independent",
+          "votes": 99,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Veera Krishna Reddy Gandluru",
+          "party": "Independent",
+          "votes": 95,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Malireddy Sadasiva Reddy",
+          "party": "Independent",
+          "votes": 94,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "Sayammagari Veera Bhadraiah",
+          "party": "Independent",
+          "votes": 84,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 17,
+          "name": "Venkata Tulasi Reddy Dondapati",
+          "party": "Independent",
+          "votes": 78,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 18,
+          "name": "Putta Venkata Reddy",
+          "party": "Independent",
+          "votes": 74,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 19,
+          "name": "Ashok Reddy Guggulla",
+          "party": "Independent",
+          "votes": 66,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 20,
+          "name": "Gopal Reddy Gurijala",
+          "party": "Independent",
+          "votes": 65,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 21,
+          "name": "Polinki Venkata Ramana",
+          "party": "Independent",
+          "votes": 64,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 22,
+          "name": "Boyapalli Sanjeeva Reddy",
+          "party": "Independent",
+          "votes": 43,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 22,
+          "name": "Mahammad Khasim Rajampet",
+          "party": "Independent",
+          "votes": 43,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 24,
+          "name": "R.C. Sidda Reddy",
+          "party": "Independent",
+          "votes": 40,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 25,
+          "name": "Ramachandra Reddy Gajjala",
+          "party": "Independent",
+          "votes": 37,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 26,
+          "name": "N.N. Sangi Reddy",
+          "party": "Independent",
+          "votes": 31,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 27,
+          "name": "Dodagalla Pushpa Raju",
+          "party": "Independent",
+          "votes": 26,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 28,
+          "name": "Balammagari Subba Reddy",
+          "party": "Independent",
+          "votes": 25,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 29,
+          "name": "Yenuga Brahmananda Reddy",
+          "party": "Independent",
+          "votes": 21,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 30,
+          "name": "Bhaskar Reddy Narreddy",
+          "party": "Independent",
+          "votes": 19,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 31,
+          "name": "Thimma Reddy Indireddy",
+          "party": "Independent",
+          "votes": 18,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 31,
+          "name": "Thummaluru Sivarami Reddy",
+          "party": "Independent",
+          "votes": 18,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 33,
+          "name": "Devadanam Bellam",
+          "party": "Independent",
+          "votes": 15,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 34,
+          "name": "Veeranjaneya Reddy Marejalla",
+          "party": "Independent",
+          "votes": 14,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "1989": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 147429,
+        "total_votes_polled": 113666,
+        "turnout_percentage": 77.1,
+        "margin_votes": 38727,
+        "margin_percentage": 34.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mysura Reddy M.V.",
+          "party": "Indian National Congress",
+          "votes": 74921,
+          "votes_percentage": 67.2
+        },
+        {
+          "position": 2,
+          "name": "Vaddamani Venkata Reddy",
+          "party": "Telugu Desam",
+          "votes": 36194,
+          "votes_percentage": 32.5
+        },
+        {
+          "position": 3,
+          "name": "Putha Narayana Reddy",
+          "party": "Independent",
+          "votes": 206,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 4,
+          "name": "Velpucherla Sambasiva Reddy",
+          "party": "Independent",
+          "votes": 119,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1985": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 118203,
+        "total_votes_polled": 86333,
+        "turnout_percentage": 73.0,
+        "margin_votes": 31240,
+        "margin_percentage": 36.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mysoora Reddy M. V.",
+          "party": "Indian National Congress",
+          "votes": 57495,
+          "votes_percentage": 67.8
+        },
+        {
+          "position": 2,
+          "name": "Seetharamaiah Ranuva",
+          "party": "Telugu Desam",
+          "votes": 26255,
+          "votes_percentage": 31.0
+        },
+        {
+          "position": 3,
+          "name": "Bonala Lakshumaiah",
+          "party": "Independent",
+          "votes": 451,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 4,
+          "name": "Yaparala Subrahmanyam",
+          "party": "Independent",
+          "votes": 337,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 5,
+          "name": "Ayyavaru Reddy Adem",
+          "party": "Independent",
+          "votes": 212,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "1983": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 105508,
+        "total_votes_polled": 79257,
+        "turnout_percentage": 75.1,
+        "margin_votes": 6095,
+        "margin_percentage": 7.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Vaddamani Venkata Reddy",
+          "party": "Independent",
+          "votes": 41218,
+          "votes_percentage": 52.8
+        },
+        {
+          "position": 2,
+          "name": "Venkata Mysora Reddy Mule",
+          "party": "Indian National Congress",
+          "votes": 35123,
+          "votes_percentage": 45.0
+        },
+        {
+          "position": 3,
+          "name": "Yerragudi Narayanareddi",
+          "party": "Independent",
+          "votes": 954,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 4,
+          "name": "Illuru Chinna Venkata Reddy",
+          "party": "Indian Congress (SOCIALIST)",
+          "votes": 829,
+          "votes_percentage": 1.1
+        }
+      ]
+    },
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 97124,
+        "total_votes_polled": 74929,
+        "turnout_percentage": 77.2,
+        "margin_votes": 1720,
+        "margin_percentage": 2.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Perla Siva Reddy",
+          "party": "Independent",
+          "votes": 25821,
+          "votes_percentage": 35.2
+        },
+        {
+          "position": 2,
+          "name": "Vutukuru Rami Reddy",
+          "party": "Janta Party",
+          "votes": 24101,
+          "votes_percentage": 32.9
+        },
+        {
+          "position": 3,
+          "name": "Ranuva Seetharamaiah",
+          "party": "Indian National Congress (I)",
+          "votes": 16902,
+          "votes_percentage": 23.1
+        },
+        {
+          "position": 4,
+          "name": "Nerreddi Sivarami Reddy",
+          "party": "Communist Party Of India",
+          "votes": 4933,
+          "votes_percentage": 6.7
+        },
+        {
+          "position": 5,
+          "name": "Adam Ramasubba Reddy",
+          "party": "Independent",
+          "votes": 796,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Ramiahagari Venkatrami Reddy",
+          "party": "Independent",
+          "votes": 527,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Dyvam Gopal Reddy",
+          "party": "Independent",
+          "votes": 186,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "state": "Punjab",
+  "constituency": "AMBALA SIMLA",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 365025,
+        "total_votes_polled": 200028,
+        "turnout_percentage": 54.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tek Chand",
+          "party": "Indian National Congress",
+          "votes": 98249,
+          "votes_percentage": 49.1
+        },
+        {
+          "position": 2,
+          "name": "Sohan Lal",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 53866,
+          "votes_percentage": 26.9
+        },
+        {
+          "position": 3,
+          "name": "Krishan",
+          "party": "Socialist Party",
+          "votes": 19340,
+          "votes_percentage": 9.7
+        },
+        {
+          "position": 4,
+          "name": "Dalip Singh",
+          "party": "Independent",
+          "votes": 13466,
+          "votes_percentage": 6.7
+        },
+        {
+          "position": 5,
+          "name": "Gurbaksh Singh",
+          "party": "Independent",
+          "votes": 7259,
+          "votes_percentage": 3.6
+        },
+        {
+          "position": 6,
+          "name": "Bachan Singh",
+          "party": "Independent",
+          "votes": 4983,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 7,
+          "name": "R. L. Kohli",
+          "party": "Independent",
+          "votes": 2865,
+          "votes_percentage": 1.4
+        }
+      ]
+    }
+  }
+}

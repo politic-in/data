@@ -1,0 +1,48 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "GORAKHPUR DISTRICT (CENTRAL)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 388724,
+        "total_votes_polled": 144643,
+        "turnout_percentage": 37.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dasrath Pd. Divedi",
+          "party": "Indian National Congress",
+          "votes": 108898,
+          "votes_percentage": 75.3
+        },
+        {
+          "position": 2,
+          "name": "Kedar Nath Lahri",
+          "party": "Independent",
+          "votes": 14507,
+          "votes_percentage": 10.0
+        },
+        {
+          "position": 3,
+          "name": "Satya Charan",
+          "party": "Independent",
+          "votes": 13898,
+          "votes_percentage": 9.6
+        },
+        {
+          "position": 4,
+          "name": "Sucheta Kripalani",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 7340,
+          "votes_percentage": 5.1
+        }
+      ]
+    }
+  }
+}

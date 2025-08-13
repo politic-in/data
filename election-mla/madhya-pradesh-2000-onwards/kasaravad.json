@@ -1,0 +1,78 @@
+{
+  "state": "Madhya Pradesh [2000 Onwards]",
+  "constituency": "Kasaravad",
+  "district": "West Nimar",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 205520,
+        "total_votes_polled": 172610,
+        "turnout_percentage": 85.4,
+        "margin_votes": 5539,
+        "margin_percentage": 3.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sachin Subhashchandra Yadav",
+          "party": "Indian National Congress",
+          "votes": 86070,
+          "votes_percentage": 49.9
+        },
+        {
+          "position": 2,
+          "name": "Atmaram - Patel",
+          "party": "Bharatiya Janta Party",
+          "votes": 80531,
+          "votes_percentage": 46.7
+        },
+        {
+          "position": 3,
+          "name": "Ajay Jagdish Patidar  ( PATEL )",
+          "party": "Independent",
+          "votes": 1666,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 4,
+          "name": "Gajanand Sawner",
+          "party": "Bahujan Samaj Party",
+          "votes": 1659,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Ibrahim Ismile",
+          "party": "Janata Congress",
+          "votes": 1070,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Shailesh Choubey",
+          "party": "Aam Aadmi Party",
+          "votes": 601,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Rajsingh",
+          "party": "Independent",
+          "votes": 574,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Jeetendra Jagdish Sharma",
+          "party": "Sapaks Party",
+          "votes": 439,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

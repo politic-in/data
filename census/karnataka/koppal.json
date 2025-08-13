@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 98664,
+        "male": 102990,
+        "percentage_of_total_population": 14.51,
+        "percentage_of_total_population_calculated": 14.51,
+        "percentage_of_total_population_stated": 14.51,
+        "sex_ratio": 958,
+        "total": 201654
+    },
+    "literacy": {
+        "female_literacy_rate": 57.55,
+        "female_literate": 340300,
+        "male_literacy_rate": 78.54,
+        "male_literate": 468785,
+        "rate_percentage": 68.09,
+        "total_literate": 809085
+    },
+    "population": {
+        "female": 689994,
+        "male": 699926,
+        "sex_ratio": 986,
+        "total": 1389920
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 85
+        },
+        "Christian": {
+            "percentage": 0.29,
+            "population": 4081
+        },
+        "Hindu": {
+            "percentage": 87.63,
+            "population": 1218024
+        },
+        "Jain": {
+            "percentage": 0.21,
+            "population": 2898
+        },
+        "Muslims": {
+            "percentage": 11.64,
+            "population": 161770
+        },
+        "Not Stated": {
+            "percentage": 0.17,
+            "population": 2305
+        },
+        "Others": {
+            "percentage": 0.03,
+            "population": 461
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 296
+        }
+    },
+    "rural": {
+        "child_population_female": 83296,
+        "child_population_male": 87254,
+        "child_population_percentage": 14.75,
+        "child_population_percentage_calculated": 14.75,
+        "child_population_percentage_stated": 14.75,
+        "child_population_total": 170550,
+        "child_sex_ratio": 955,
+        "female": 573258,
+        "literacy_rate_female": 54.85,
+        "literacy_rate_male": 77.12,
+        "literacy_rate_percentage": 66.05,
+        "literate_female": 268731,
+        "literate_male": 382270,
+        "literate_total": 651001,
+        "male": 582958,
+        "percentage_population": 83.19,
+        "population": 1156216,
+        "sex_ratio": 983
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/261-koppal.html",
+    "urban": {
+        "child_population_female": 15342,
+        "child_population_male": 15762,
+        "child_population_percentage": 13.31,
+        "child_population_percentage_calculated": 13.31,
+        "child_population_percentage_stated": 13.31,
+        "child_population_total": 31104,
+        "child_sex_ratio": 973,
+        "female": 116736,
+        "literacy_rate_female": 70.59,
+        "literacy_rate_male": 85.48,
+        "literacy_rate_percentage": 78.03,
+        "literate_female": 71569,
+        "literate_male": 86515,
+        "literate_total": 158084,
+        "male": 116968,
+        "percentage_population": 16.81,
+        "population": 233704,
+        "sex_ratio": 998
+    }
+}

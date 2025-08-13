@@ -1,0 +1,99 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "MADHIPURA",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 597248,
+        "total_votes_polled": 320914,
+        "turnout_percentage": 53.7,
+        "margin_votes": 27909,
+        "margin_percentage": 8.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rajendra Prasad Yadav",
+          "party": "Indian National Congress",
+          "votes": 146232,
+          "votes_percentage": 45.6
+        },
+        {
+          "position": 2,
+          "name": "Bindeshwari Pd. Mandal",
+          "party": "Shoshit Dal Bihar",
+          "votes": 118323,
+          "votes_percentage": 36.9
+        },
+        {
+          "position": 3,
+          "name": "Ramesh Nandan Parsad",
+          "party": "Bhartiya Jan Sangh",
+          "votes": 44792,
+          "votes_percentage": 14.0
+        },
+        {
+          "position": 4,
+          "name": "Shashi Shekhar Yadav",
+          "party": "Proutist Bloc Of India",
+          "votes": 4617,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 5,
+          "name": "Anup Lal Paswan",
+          "party": "Independent",
+          "votes": 1271,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Mahid Hussain Sekh",
+          "party": "Independent",
+          "votes": 1227,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 535701,
+        "total_votes_polled": 293767,
+        "turnout_percentage": 54.8,
+        "margin_votes": 37426,
+        "margin_percentage": 12.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "B. P. Mandal",
+          "party": "Samyukta Socialist Party",
+          "votes": 145911,
+          "votes_percentage": 49.7
+        },
+        {
+          "position": 2,
+          "name": "K. K. Mandal",
+          "party": "Indian National Congress",
+          "votes": 108485,
+          "votes_percentage": 36.9
+        },
+        {
+          "position": 3,
+          "name": "H. P. Singh",
+          "party": "Praja Socialist Party",
+          "votes": 27708,
+          "votes_percentage": 9.4
+        }
+      ]
+    }
+  }
+}

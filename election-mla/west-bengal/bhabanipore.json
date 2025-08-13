@@ -1,0 +1,99 @@
+{
+  "state": "West Bengal",
+  "constituency": "BHABANIPORE",
+  "district": "Kolkata",
+  "ac_type": "GEN",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 202655,
+        "total_votes_polled": 134994,
+        "turnout_percentage": 67.8,
+        "margin_votes": 25301,
+        "margin_percentage": 18.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mamata Banerjee",
+          "party": "All India Trinamool Congress",
+          "votes": 65520,
+          "votes_percentage": 48.5
+        },
+        {
+          "position": 2,
+          "name": "Deepa Dasmunshi",
+          "party": "Indian National Congress",
+          "votes": 40219,
+          "votes_percentage": 29.8
+        },
+        {
+          "position": 3,
+          "name": "Chandra Kumar Bose",
+          "party": "Bharatiya Janta Party",
+          "votes": 26299,
+          "votes_percentage": 19.5
+        },
+        {
+          "position": 4,
+          "name": "Nirmal Kanti Samaddar",
+          "party": "Bahujan Samaj Party",
+          "votes": 669,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "Pinky Tiwari",
+          "party": "Independent",
+          "votes": 604,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Shobha Singh",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 495,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Saugata Gupta",
+          "party": "Independent",
+          "votes": 409,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Narayan Das",
+          "party": "Independent",
+          "votes": 262,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Indraneel Mitra",
+          "party": "Independent",
+          "votes": 184,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Kiran Kaur",
+          "party": "Independent",
+          "votes": 175,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Malay Guha Roy",
+          "party": "Independent",
+          "votes": 158,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

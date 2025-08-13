@@ -1,0 +1,78 @@
+{
+  "state": "Assam",
+  "constituency": "Sonitpur",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2024": {
+      "poll_date": "19 April 2024",
+      "counting_date": "01 June 2024",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 1633800,
+        "total_votes_polled": 1288468,
+        "turnout_percentage": 78.9,
+        "margin_votes": 361408,
+        "margin_percentage": 28.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ranjit Dutta",
+          "party": "Bharatiya Janta Party",
+          "votes": 775788,
+          "votes_percentage": 60.2
+        },
+        {
+          "position": 2,
+          "name": "Premlal Ganju",
+          "party": "Indian National Congress",
+          "votes": 414380,
+          "votes_percentage": 32.2
+        },
+        {
+          "position": 3,
+          "name": "Rishiraj Kaundinya",
+          "party": "Aam Aadmi Party",
+          "votes": 33048,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 4,
+          "name": "Raju Deuri",
+          "party": "Bodoland Peoples Front",
+          "votes": 19892,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Pradip Bhandari",
+          "party": "Independent",
+          "votes": 8205,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Kameswar Swargiary",
+          "party": "Voters Party International",
+          "votes": 7382,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Rinku Roy",
+          "party": "Gana Suraksha Party",
+          "votes": 6823,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Alam Ali",
+          "party": "Bahujan Maha Party",
+          "votes": 4202,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

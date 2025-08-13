@@ -1,0 +1,57 @@
+{
+  "state": "Mizoram",
+  "constituency": "LAWNGTLAIEAST",
+  "district": "Lawngtlai",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 22762,
+        "total_votes_polled": 17827,
+        "turnout_percentage": 78.6,
+        "margin_votes": 944,
+        "margin_percentage": 5.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "H. Biakzaua",
+          "party": "Mizo National Front",
+          "votes": 8656,
+          "votes_percentage": 48.6
+        },
+        {
+          "position": 2,
+          "name": "H. Zothangliana",
+          "party": "Indian National Congress",
+          "votes": 7712,
+          "votes_percentage": 43.3
+        },
+        {
+          "position": 3,
+          "name": "Vanupa Zathang",
+          "party": "Bharatiya Janta Party",
+          "votes": 1086,
+          "votes_percentage": 6.1
+        },
+        {
+          "position": 4,
+          "name": "Mc. Lalramchhana",
+          "party": "Independent",
+          "votes": 209,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 5,
+          "name": "C. Biakchhunga",
+          "party": "Independent",
+          "votes": 164,
+          "votes_percentage": 0.9
+        }
+      ]
+    }
+  }
+}

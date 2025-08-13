@@ -1,0 +1,50 @@
+{
+  "state": "Maharashtra",
+  "constituency": "Songaumeshwar",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 104352,
+        "total_votes_polled": 45560,
+        "turnout_percentage": 43.7,
+        "margin_votes": 16829,
+        "margin_percentage": 36.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jagannathrao Jadhav",
+          "party": "Janata Party (JP)",
+          "votes": 27252,
+          "votes_percentage": 61.6
+        },
+        {
+          "position": 2,
+          "name": "Laxmibai Bhuvad",
+          "party": "Indian National Congress (I)",
+          "votes": 10423,
+          "votes_percentage": 23.6
+        },
+        {
+          "position": 3,
+          "name": "Chalke Ashok Raghunath",
+          "party": "Bharatiya Janta Party",
+          "votes": 4989,
+          "votes_percentage": 11.3
+        },
+        {
+          "position": 4,
+          "name": "Jayant Ambardekar",
+          "party": "Independent",
+          "votes": 1567,
+          "votes_percentage": 3.5
+        }
+      ]
+    }
+  }
+}

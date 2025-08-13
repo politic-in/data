@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 60515,
+        "male": 61751,
+        "percentage_of_total_population": 14.36,
+        "percentage_of_total_population_calculated": 14.36,
+        "percentage_of_total_population_stated": 14.36,
+        "sex_ratio": 980,
+        "total": 122266
+    },
+    "literacy": {
+        "female_literacy_rate": 58.61,
+        "female_literate": 214759,
+        "male_literacy_rate": 77.32,
+        "male_literate": 280656,
+        "rate_percentage": 67.92,
+        "total_literate": 495415
+    },
+    "population": {
+        "female": 426922,
+        "male": 424747,
+        "sex_ratio": 1005,
+        "total": 851669
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.05,
+            "population": 467
+        },
+        "Christian": {
+            "percentage": 22.26,
+            "population": 189588
+        },
+        "Hindu": {
+            "percentage": 73.91,
+            "population": 629509
+        },
+        "Jain": {
+            "percentage": 0.08,
+            "population": 694
+        },
+        "Muslims": {
+            "percentage": 1.8,
+            "population": 15336
+        },
+        "Not Stated": {
+            "percentage": 0.09,
+            "population": 766
+        },
+        "Others": {
+            "percentage": 1.74,
+            "population": 14835
+        },
+        "Sikh": {
+            "percentage": 0.06,
+            "population": 474
+        }
+    },
+    "rural": {
+        "child_population_female": 55791,
+        "child_population_male": 56808,
+        "child_population_percentage": 14.52,
+        "child_population_percentage_calculated": 14.52,
+        "child_population_percentage_stated": 14.52,
+        "child_population_total": 112599,
+        "child_sex_ratio": 982,
+        "female": 389370,
+        "literacy_rate_female": 56.72,
+        "literacy_rate_male": 76.06,
+        "literacy_rate_percentage": 66.33,
+        "literate_female": 189201,
+        "literate_male": 250617,
+        "literate_total": 439818,
+        "male": 386307,
+        "percentage_population": 91.08,
+        "population": 775677,
+        "sex_ratio": 1008
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/487-jashpur.html",
+    "urban": {
+        "child_population_female": 4731,
+        "child_population_male": 4936,
+        "child_population_percentage": 12.72,
+        "child_population_percentage_calculated": 12.72,
+        "child_population_percentage_stated": 12.72,
+        "child_population_total": 9667,
+        "child_sex_ratio": 958,
+        "female": 37552,
+        "literacy_rate_female": 77.87,
+        "literacy_rate_male": 89.66,
+        "literacy_rate_percentage": 83.83,
+        "literate_female": 25558,
+        "literate_male": 30039,
+        "literate_total": 55597,
+        "male": 38440,
+        "percentage_population": 8.92,
+        "population": 75992,
+        "sex_ratio": 977
+    }
+}

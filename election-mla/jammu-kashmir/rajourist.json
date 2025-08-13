@@ -1,0 +1,78 @@
+{
+  "state": "Jammu & Kashmir",
+  "constituency": "RAJOURI(ST)",
+  "district": "Rajouri",
+  "ac_type": "GEN",
+  "results": {
+    "2024": {
+      "poll_date": "08 October 2024",
+      "counting_date": "08 October 2024",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 89099,
+        "total_votes_polled": 63682,
+        "turnout_percentage": 72.1,
+        "margin_votes": 1404,
+        "margin_percentage": 2.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Iftkar Ahmed",
+          "party": "Indian National Congress",
+          "votes": 28923,
+          "votes_percentage": 45.0
+        },
+        {
+          "position": 2,
+          "name": "Vibod Kumar",
+          "party": "Bharatiya Janta Party",
+          "votes": 27519,
+          "votes_percentage": 42.9
+        },
+        {
+          "position": 3,
+          "name": "Mian Mohd Mehfooz",
+          "party": "Independent",
+          "votes": 4052,
+          "votes_percentage": 6.3
+        },
+        {
+          "position": 4,
+          "name": "Manzoor Hussain Shah",
+          "party": "Jammu And Kashmir Apni Party",
+          "votes": 1766,
+          "votes_percentage": 2.8
+        },
+        {
+          "position": 5,
+          "name": "Tasadiq Hussain",
+          "party": "Jammu & Kashmir Peoples Democratic Party",
+          "votes": 727,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 7,
+          "name": "Rafaqat Ajaz",
+          "party": "Aazad Samaj Party (Kanshi Ram)",
+          "votes": 353,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "Hemkant Sharma",
+          "party": "Independent",
+          "votes": 180,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Mohd Arif",
+          "party": "Independent",
+          "votes": 162,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

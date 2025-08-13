@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 256783,
+        "male": 265271,
+        "percentage_of_total_population": 10.13,
+        "percentage_of_total_population_calculated": 10.13,
+        "percentage_of_total_population_stated": 10.13,
+        "sex_ratio": 968,
+        "total": 522054
+    },
+    "literacy": {
+        "female_literacy_rate": 67.52,
+        "female_literate": 1571644,
+        "male_literacy_rate": 74.51,
+        "male_literate": 1716933,
+        "rate_percentage": 70.99,
+        "total_literate": 3288577
+    },
+    "population": {
+        "female": 2584608,
+        "male": 2569688,
+        "sex_ratio": 1006,
+        "total": 5154296
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 413
+        },
+        "Christian": {
+            "percentage": 1.51,
+            "population": 77825
+        },
+        "Hindu": {
+            "percentage": 96.68,
+            "population": 4983330
+        },
+        "Jain": {
+            "percentage": 0.08,
+            "population": 4149
+        },
+        "Muslims": {
+            "percentage": 1.51,
+            "population": 77777
+        },
+        "Not Stated": {
+            "percentage": 0.19,
+            "population": 9661
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 403
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 738
+        }
+    },
+    "rural": {
+        "child_population_female": 194348,
+        "child_population_male": 200730,
+        "child_population_percentage": 10.29,
+        "child_population_percentage_calculated": 10.29,
+        "child_population_percentage_stated": 10.29,
+        "child_population_total": 395078,
+        "child_sex_ratio": 968,
+        "female": 1918031,
+        "literacy_rate_female": 64.17,
+        "literacy_rate_male": 71.08,
+        "literacy_rate_percentage": 67.62,
+        "literate_female": 1106067,
+        "literate_male": 1223694,
+        "literate_total": 2329761,
+        "male": 1922293,
+        "percentage_population": 74.51,
+        "population": 3840324,
+        "sex_ratio": 998
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/131-east-godavari.html",
+    "urban": {
+        "child_population_female": 62462,
+        "child_population_male": 64514,
+        "child_population_percentage": 9.66,
+        "child_population_percentage_calculated": 9.66,
+        "child_population_percentage_stated": 9.66,
+        "child_population_total": 126976,
+        "child_sex_ratio": 968,
+        "female": 666577,
+        "literacy_rate_female": 77.07,
+        "literacy_rate_male": 84.62,
+        "literacy_rate_percentage": 80.78,
+        "literate_female": 465577,
+        "literate_male": 493239,
+        "literate_total": 958816,
+        "male": 647395,
+        "percentage_population": 25.49,
+        "population": 1313972,
+        "sex_ratio": 1030
+    }
+}

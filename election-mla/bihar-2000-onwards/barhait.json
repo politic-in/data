@@ -1,0 +1,85 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "Barhait",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 143627,
+        "total_votes_polled": 99783,
+        "turnout_percentage": 69.5,
+        "margin_votes": 38126,
+        "margin_percentage": 38.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Hemlal Murmu",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 66599,
+          "votes_percentage": 67.6
+        },
+        {
+          "position": 2,
+          "name": "Lourens Hansda",
+          "party": "Indian National Congress",
+          "votes": 28473,
+          "votes_percentage": 28.9
+        },
+        {
+          "position": 3,
+          "name": "Masih Soren",
+          "party": "Bharatiya Janta Party",
+          "votes": 1807,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 4,
+          "name": "Gyan Deo Tudu",
+          "party": "Rashtriya Janata Dal",
+          "votes": 524,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "Joseph Soren",
+          "party": "Independent",
+          "votes": 425,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Budhray Murmu",
+          "party": "Samajwadi Party",
+          "votes": 396,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Mosai Kisku",
+          "party": "Independent",
+          "votes": 175,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "Laurance Soren",
+          "party": "Independent",
+          "votes": 105,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Habil Marandi",
+          "party": "Independent",
+          "votes": 68,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

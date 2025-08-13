@@ -1,0 +1,78 @@
+{
+  "state": "Madhya Pradesh [2000 Onwards]",
+  "constituency": "Jaavad",
+  "district": "Neemuch",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 162267,
+        "total_votes_polled": 137948,
+        "turnout_percentage": 86.2,
+        "margin_votes": 4271,
+        "margin_percentage": 3.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Om Prakash Sakhlecha",
+          "party": "Bharatiya Janta Party",
+          "votes": 52316,
+          "votes_percentage": 37.9
+        },
+        {
+          "position": 2,
+          "name": "Rajkumar Rameshchandra  Ahir",
+          "party": "Indian National Congress",
+          "votes": 48045,
+          "votes_percentage": 34.8
+        },
+        {
+          "position": 3,
+          "name": "Samandar Patel",
+          "party": "Independent",
+          "votes": 33712,
+          "votes_percentage": 24.4
+        },
+        {
+          "position": 4,
+          "name": "Pappu",
+          "party": "Shiv Sena",
+          "votes": 1131,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 5,
+          "name": "Balchand Verma (MER)",
+          "party": "Bahujan Samaj Party",
+          "votes": 1039,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Hement Soni",
+          "party": "Independent",
+          "votes": 821,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Gopal Singh",
+          "party": "Independent",
+          "votes": 544,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Satyanarayan Ojha (DADA)",
+          "party": "Aam Aadmi Party",
+          "votes": 340,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

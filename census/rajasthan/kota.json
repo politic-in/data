@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 120745,
+        "male": 134311,
+        "percentage_of_total_population": 13.07,
+        "percentage_of_total_population_calculated": 13.07,
+        "percentage_of_total_population_stated": 13.07,
+        "sex_ratio": 899,
+        "total": 255056
+    },
+    "literacy": {
+        "female_literacy_rate": 65.87,
+        "female_literate": 532949,
+        "male_literacy_rate": 86.31,
+        "male_literate": 765396,
+        "rate_percentage": 76.56,
+        "total_literate": 1298345
+    },
+    "population": {
+        "female": 929853,
+        "male": 1021161,
+        "sex_ratio": 911,
+        "total": 1951014
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 280
+        },
+        "Christian": {
+            "percentage": 0.29,
+            "population": 5665
+        },
+        "Hindu": {
+            "percentage": 85.15,
+            "population": 1661307
+        },
+        "Jain": {
+            "percentage": 1.32,
+            "population": 25742
+        },
+        "Muslims": {
+            "percentage": 12.51,
+            "population": 243993
+        },
+        "Not Stated": {
+            "percentage": 0.14,
+            "population": 2683
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 286
+        },
+        "Sikh": {
+            "percentage": 0.57,
+            "population": 11058
+        }
+    },
+    "rural": {
+        "child_population_female": 51874,
+        "child_population_male": 56977,
+        "child_population_percentage": 14.06,
+        "child_population_percentage_calculated": 14.06,
+        "child_population_percentage_stated": 14.06,
+        "child_population_total": 108851,
+        "child_sex_ratio": 910,
+        "female": 373079,
+        "literacy_rate_female": 53.95,
+        "literacy_rate_male": 82.21,
+        "literacy_rate_percentage": 68.57,
+        "literate_female": 173302,
+        "literate_male": 283078,
+        "literate_total": 456380,
+        "male": 401331,
+        "percentage_population": 39.69,
+        "population": 774410,
+        "sex_ratio": 930
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/452-kota.html",
+    "urban": {
+        "child_population_female": 68841,
+        "child_population_male": 77364,
+        "child_population_percentage": 12.43,
+        "child_population_percentage_calculated": 12.43,
+        "child_population_percentage_stated": 12.43,
+        "child_population_total": 146205,
+        "child_sex_ratio": 890,
+        "female": 556774,
+        "literacy_rate_female": 73.71,
+        "literacy_rate_male": 88.91,
+        "literacy_rate_percentage": 81.71,
+        "literate_female": 359647,
+        "literate_male": 482318,
+        "literate_total": 841965,
+        "male": 619830,
+        "percentage_population": 60.31,
+        "population": 1176604,
+        "sex_ratio": 898
+    }
+}

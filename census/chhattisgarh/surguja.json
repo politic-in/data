@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 186538,
+        "male": 193907,
+        "percentage_of_total_population": 16.12,
+        "percentage_of_total_population_calculated": 16.12,
+        "percentage_of_total_population_stated": 16.12,
+        "sex_ratio": 962,
+        "total": 380445
+    },
+    "literacy": {
+        "female_literacy_rate": 50.32,
+        "female_literate": 493255,
+        "male_literacy_rate": 69.53,
+        "male_literate": 694686,
+        "rate_percentage": 60.01,
+        "total_literate": 1187941
+    },
+    "population": {
+        "female": 1166757,
+        "male": 1193129,
+        "sex_ratio": 978,
+        "total": 2359886
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.05,
+            "population": 1287
+        },
+        "Christian": {
+            "percentage": 4.13,
+            "population": 97432
+        },
+        "Hindu": {
+            "percentage": 90.1,
+            "population": 2126195
+        },
+        "Jain": {
+            "percentage": 0.03,
+            "population": 623
+        },
+        "Muslims": {
+            "percentage": 3.45,
+            "population": 81442
+        },
+        "Not Stated": {
+            "percentage": 0.1,
+            "population": 2309
+        },
+        "Others": {
+            "percentage": 2.05,
+            "population": 48295
+        },
+        "Sikh": {
+            "percentage": 0.1,
+            "population": 2303
+        }
+    },
+    "rural": {
+        "child_population_female": 172056,
+        "child_population_male": 177966,
+        "child_population_percentage": 16.53,
+        "child_population_percentage_calculated": 16.53,
+        "child_population_percentage_stated": 16.53,
+        "child_population_total": 350022,
+        "child_sex_ratio": 967,
+        "female": 1049057,
+        "literacy_rate_female": 46.99,
+        "literacy_rate_male": 67.0,
+        "literacy_rate_percentage": 57.07,
+        "literate_female": 412111,
+        "literate_male": 596287,
+        "literate_total": 1008398,
+        "male": 1067908,
+        "percentage_population": 89.71,
+        "population": 2116965,
+        "sex_ratio": 982
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/486-surguja.html",
+    "urban": {
+        "child_population_female": 14437,
+        "child_population_male": 15986,
+        "child_population_percentage": 12.52,
+        "child_population_percentage_calculated": 12.52,
+        "child_population_percentage_stated": 12.52,
+        "child_population_total": 30423,
+        "child_sex_ratio": 903,
+        "female": 117700,
+        "literacy_rate_female": 78.58,
+        "literacy_rate_male": 90.08,
+        "literacy_rate_percentage": 84.49,
+        "literate_female": 81144,
+        "literate_male": 98399,
+        "literate_total": 179543,
+        "male": 125221,
+        "percentage_population": 10.29,
+        "population": 242921,
+        "sex_ratio": 940
+    }
+}

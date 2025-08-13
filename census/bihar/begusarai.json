@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 261460,
+        "male": 284505,
+        "percentage_of_total_population": 18.38,
+        "percentage_of_total_population_calculated": 18.38,
+        "percentage_of_total_population_stated": 18.38,
+        "sex_ratio": 919,
+        "total": 545965
+    },
+    "literacy": {
+        "female_literacy_rate": 55.21,
+        "female_literate": 630166,
+        "male_literacy_rate": 71.58,
+        "male_literate": 918507,
+        "rate_percentage": 63.87,
+        "total_literate": 1548673
+    },
+    "population": {
+        "female": 1402881,
+        "male": 1567660,
+        "sex_ratio": 895,
+        "total": 2970541
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 229
+        },
+        "Christian": {
+            "percentage": 0.07,
+            "population": 2209
+        },
+        "Hindu": {
+            "percentage": 85.99,
+            "population": 2554330
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 276
+        },
+        "Muslims": {
+            "percentage": 13.71,
+            "population": 407348
+        },
+        "Not Stated": {
+            "percentage": 0.19,
+            "population": 5690
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 57
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 402
+        }
+    },
+    "rural": {
+        "child_population_female": 215446,
+        "child_population_male": 234183,
+        "child_population_percentage": 18.73,
+        "child_population_percentage_calculated": 18.73,
+        "child_population_percentage_stated": 18.73,
+        "child_population_total": 449629,
+        "child_sex_ratio": 920,
+        "female": 1134410,
+        "literacy_rate_female": 52.68,
+        "literacy_rate_male": 69.94,
+        "literacy_rate_percentage": 61.81,
+        "literate_female": 484112,
+        "literate_male": 721880,
+        "literate_total": 1205992,
+        "male": 1266308,
+        "percentage_population": 80.82,
+        "population": 2400718,
+        "sex_ratio": 896
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/74-begusarai.html",
+    "urban": {
+        "child_population_female": 46002,
+        "child_population_male": 50334,
+        "child_population_percentage": 16.91,
+        "child_population_percentage_calculated": 16.91,
+        "child_population_percentage_stated": 16.91,
+        "child_population_total": 96336,
+        "child_sex_ratio": 914,
+        "female": 268471,
+        "literacy_rate_female": 65.65,
+        "literacy_rate_male": 78.33,
+        "literacy_rate_percentage": 72.37,
+        "literate_female": 146054,
+        "literate_male": 196627,
+        "literate_total": 342681,
+        "male": 301352,
+        "percentage_population": 19.18,
+        "population": 569823,
+        "sex_ratio": 891
+    }
+}

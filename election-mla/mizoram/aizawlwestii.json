@@ -1,0 +1,64 @@
+{
+  "state": "Mizoram",
+  "constituency": "AIZAWLWESTII",
+  "district": "Aizawl",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 19723,
+        "total_votes_polled": 16836,
+        "turnout_percentage": 85.5,
+        "margin_votes": 2720,
+        "margin_percentage": 16.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Lalruatkima",
+          "party": "Mizo National Front",
+          "votes": 7626,
+          "votes_percentage": 45.3
+        },
+        {
+          "position": 2,
+          "name": "Dr. Lalmalsawma Nghaka",
+          "party": "Indian National Congress",
+          "votes": 4906,
+          "votes_percentage": 29.1
+        },
+        {
+          "position": 3,
+          "name": "Lalhmangaiha Sailo",
+          "party": "Independent",
+          "votes": 4070,
+          "votes_percentage": 24.2
+        },
+        {
+          "position": 4,
+          "name": "C Lalchawimawia",
+          "party": "Bharatiya Janta Party",
+          "votes": 106,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 5,
+          "name": "Dr Lalmuana",
+          "party": "Independent",
+          "votes": 80,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "C Laltanpuia",
+          "party": "Prism",
+          "votes": 48,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

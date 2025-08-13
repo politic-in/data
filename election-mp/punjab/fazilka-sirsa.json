@@ -1,0 +1,62 @@
+{
+  "state": "Punjab",
+  "constituency": "FAZILKA SIRSA",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 360933,
+        "total_votes_polled": 214413,
+        "turnout_percentage": 59.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Atma Singh",
+          "party": "Indian National Congress",
+          "votes": 75412,
+          "votes_percentage": 35.2
+        },
+        {
+          "position": 2,
+          "name": "Gur Raj Singh",
+          "party": "Shiromani Akali Dal",
+          "votes": 55245,
+          "votes_percentage": 25.8
+        },
+        {
+          "position": 3,
+          "name": "Balwant Singh",
+          "party": "Independent",
+          "votes": 47592,
+          "votes_percentage": 22.2
+        },
+        {
+          "position": 4,
+          "name": "Hari Chand",
+          "party": "Independent",
+          "votes": 13313,
+          "votes_percentage": 6.2
+        },
+        {
+          "position": 5,
+          "name": "Chuni Lal",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 12672,
+          "votes_percentage": 5.9
+        },
+        {
+          "position": 6,
+          "name": "Prithi Singh",
+          "party": "Independent",
+          "votes": 10179,
+          "votes_percentage": 4.7
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "state": "Tripura",
+  "constituency": "Asharambari (ST)",
+  "district": "West Tripura",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 36369,
+        "total_votes_polled": 32897,
+        "turnout_percentage": 91.8,
+        "margin_votes": 6987,
+        "margin_percentage": 21.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mevar Kr Jamatia",
+          "party": "Indigenous People's Front Of Tripura",
+          "votes": 19188,
+          "votes_percentage": 58.3
+        },
+        {
+          "position": 2,
+          "name": "Aghore Deb Barma",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 12201,
+          "votes_percentage": 37.1
+        },
+        {
+          "position": 3,
+          "name": "Dilip Kumar Munda",
+          "party": "Tipraland State Party",
+          "votes": 501,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Surendra Deb Barma",
+          "party": "Indian National Congress",
+          "votes": 435,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 6,
+          "name": "Rajesh Kr. Debbarma",
+          "party": "Independent",
+          "votes": 290,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 7,
+          "name": "Suchitra Debbarma",
+          "party": "Amra Bangalee",
+          "votes": 282,
+          "votes_percentage": 0.9
+        }
+      ]
+    }
+  }
+}

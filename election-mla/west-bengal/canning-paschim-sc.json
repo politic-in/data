@@ -1,0 +1,64 @@
+{
+  "state": "West Bengal",
+  "constituency": "CANNING PASCHIM (SC)",
+  "district": "South  Twenty Four Parganas",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 221307,
+        "total_votes_polled": 188056,
+        "turnout_percentage": 86.1,
+        "margin_votes": 18726,
+        "margin_percentage": 10.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shyamal Mondal",
+          "party": "All India Trinamool Congress",
+          "votes": 93498,
+          "votes_percentage": 49.7
+        },
+        {
+          "position": 2,
+          "name": "Arnab Roy",
+          "party": "Indian National Congress",
+          "votes": 74772,
+          "votes_percentage": 39.8
+        },
+        {
+          "position": 3,
+          "name": "Manojit Mondal",
+          "party": "Bharatiya Janta Party",
+          "votes": 12664,
+          "votes_percentage": 6.7
+        },
+        {
+          "position": 4,
+          "name": "Ramprasad Mistry",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 3980,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 5,
+          "name": "Swadesh Sanfui",
+          "party": "Bahujan Samaj Party",
+          "votes": 1827,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Debasis Sani",
+          "party": "Independent",
+          "votes": 1315,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

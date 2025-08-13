@@ -1,0 +1,43 @@
+{
+  "state": "Meghalaya",
+  "constituency": "Sutnga Saipung",
+  "district": "Jaintia Hills",
+  "ac_type": "ST",
+  "results": {
+    "2013": {
+      "poll_date": "23 February 2013",
+      "counting_date": "28 February 2013",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 31521,
+        "total_votes_polled": 29036,
+        "turnout_percentage": 92.1,
+        "margin_votes": 1462,
+        "margin_percentage": 5.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Hopeful Bamon",
+          "party": "Independent",
+          "votes": 14205,
+          "votes_percentage": 48.9
+        },
+        {
+          "position": 2,
+          "name": "Shitlang Pale",
+          "party": "Indian National Congress",
+          "votes": 12743,
+          "votes_percentage": 43.9
+        },
+        {
+          "position": 3,
+          "name": "Dr. Mongol Singh Tyngkra",
+          "party": "United Democratic Party",
+          "votes": 2088,
+          "votes_percentage": 7.2
+        }
+      ]
+    }
+  }
+}

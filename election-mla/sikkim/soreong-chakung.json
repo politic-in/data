@@ -1,0 +1,131 @@
+{
+  "state": "Sikkim",
+  "constituency": "Soreong-chakung",
+  "district": "West",
+  "ac_type": "GEN",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 15607,
+        "total_votes_polled": 12952,
+        "turnout_percentage": 84.2,
+        "margin_votes": 208,
+        "margin_percentage": 1.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Aditya Golay (TAMANG)",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 6580,
+          "votes_percentage": 50.8
+        },
+        {
+          "position": 2,
+          "name": "Sancha Raj Subba",
+          "party": "Sikkim Democratic Front",
+          "votes": 6372,
+          "votes_percentage": 49.2
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "12 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 13901,
+        "total_votes_polled": 11906,
+        "turnout_percentage": 85.7,
+        "total_valid_votes": 11672,
+        "total_valid_votes_percentage": 84.0,
+        "margin_votes": 1929,
+        "margin_percentage": 16.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ram Bahadur Limboo (SUBBA)",
+          "party": "Sikkim Democratic Front",
+          "votes": 6596,
+          "votes_percentage": 56.5
+        },
+        {
+          "position": 2,
+          "name": "Bharati Sharma",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 4667,
+          "votes_percentage": 40.0
+        },
+        {
+          "position": 3,
+          "name": "Pushker Limbu",
+          "party": "Indian National Congress",
+          "votes": 212,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 4,
+          "name": "Sher Bahadur Karki",
+          "party": "Bharatiya Janta Party",
+          "votes": 197,
+          "votes_percentage": 1.7
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "30 April 2009",
+      "counting_date": "05 June 2009",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 11546,
+        "total_votes_polled": 9770,
+        "turnout_percentage": 84.6,
+        "total_valid_votes": 9568,
+        "total_valid_votes_percentage": 82.9,
+        "margin_votes": 4119,
+        "margin_percentage": 42.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ran Bahadur Subba",
+          "party": "Sikkim Democratic Front",
+          "votes": 6497,
+          "votes_percentage": 66.5
+        },
+        {
+          "position": 2,
+          "name": "Nar Bahadur Bhandari",
+          "party": "Indian National Congress",
+          "votes": 2378,
+          "votes_percentage": 24.3
+        },
+        {
+          "position": 3,
+          "name": "Akar Dhoj Limbu",
+          "party": "Sikkim Himali Rajya Parishad",
+          "votes": 503,
+          "votes_percentage": 5.2
+        },
+        {
+          "position": 4,
+          "name": "Iman Singh Limbu",
+          "party": "Nationalist Congress Party",
+          "votes": 217,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 5,
+          "name": "Metra Lall Pandey",
+          "party": "Sikkim Gorkha Prajatantric Party",
+          "votes": 175,
+          "votes_percentage": 1.8
+        }
+      ]
+    }
+  }
+}

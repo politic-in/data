@@ -1,0 +1,48 @@
+{
+  "state": "Madhya Pradesh [1947   1999]",
+  "constituency": "JABALPUR NORTH",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 399430,
+        "total_votes_polled": 176914,
+        "turnout_percentage": 44.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sushil Kumar",
+          "party": "Indian National Congress",
+          "votes": 78923,
+          "votes_percentage": 44.6
+        },
+        {
+          "position": 2,
+          "name": "Ramdass",
+          "party": "Independent",
+          "votes": 47661,
+          "votes_percentage": 26.9
+        },
+        {
+          "position": 3,
+          "name": "Vimal Chand Banerjee",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 27433,
+          "votes_percentage": 15.5
+        },
+        {
+          "position": 4,
+          "name": "Ganesh Prasad",
+          "party": "Socialist Party",
+          "votes": 22897,
+          "votes_percentage": 12.9
+        }
+      ]
+    }
+  }
+}

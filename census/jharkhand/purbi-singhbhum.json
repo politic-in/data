@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 142374,
+        "male": 154252,
+        "percentage_of_total_population": 12.93,
+        "percentage_of_total_population_calculated": 12.93,
+        "percentage_of_total_population_stated": 12.93,
+        "sex_ratio": 923,
+        "total": 296626
+    },
+    "literacy": {
+        "female_literacy_rate": 66.81,
+        "female_literate": 651173,
+        "male_literacy_rate": 83.75,
+        "male_literate": 856526,
+        "rate_percentage": 75.49,
+        "total_literate": 1507699
+    },
+    "population": {
+        "female": 1117017,
+        "male": 1176902,
+        "sex_ratio": 949,
+        "total": 2293919
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.04,
+            "population": 892
+        },
+        "Christian": {
+            "percentage": 1.32,
+            "population": 30172
+        },
+        "Hindu": {
+            "percentage": 67.58,
+            "population": 1550178
+        },
+        "Jain": {
+            "percentage": 0.07,
+            "population": 1670
+        },
+        "Muslims": {
+            "percentage": 8.89,
+            "population": 203999
+        },
+        "Not Stated": {
+            "percentage": 0.14,
+            "population": 3097
+        },
+        "Others": {
+            "percentage": 20.29,
+            "population": 465367
+        },
+        "Sikh": {
+            "percentage": 1.68,
+            "population": 38544
+        }
+    },
+    "rural": {
+        "child_population_female": 71938,
+        "child_population_male": 75554,
+        "child_population_percentage": 14.47,
+        "child_population_percentage_calculated": 14.47,
+        "child_population_percentage_stated": 14.47,
+        "child_population_total": 147492,
+        "child_sex_ratio": 952,
+        "female": 504830,
+        "literacy_rate_female": 50.85,
+        "literacy_rate_male": 74.7,
+        "literacy_rate_percentage": 62.86,
+        "literate_female": 220105,
+        "literate_male": 327892,
+        "literate_total": 547997,
+        "male": 514498,
+        "percentage_population": 44.44,
+        "population": 1019328,
+        "sex_ratio": 981
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/111-purbi-singhbhum.html",
+    "urban": {
+        "child_population_female": 70459,
+        "child_population_male": 78675,
+        "child_population_percentage": 11.7,
+        "child_population_percentage_calculated": 11.7,
+        "child_population_percentage_stated": 11.7,
+        "child_population_total": 149134,
+        "child_sex_ratio": 896,
+        "female": 612187,
+        "literacy_rate_female": 79.57,
+        "literacy_rate_male": 90.56,
+        "literacy_rate_percentage": 85.27,
+        "literate_female": 431068,
+        "literate_male": 528634,
+        "literate_total": 959702,
+        "male": 662404,
+        "percentage_population": 55.56,
+        "population": 1274591,
+        "sex_ratio": 924
+    }
+}

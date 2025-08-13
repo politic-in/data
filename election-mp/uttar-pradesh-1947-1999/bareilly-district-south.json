@@ -1,0 +1,55 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "BAREILLY DISTRICT (SOUTH)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 379600,
+        "total_votes_polled": 138758,
+        "turnout_percentage": 36.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Satish Chandra",
+          "party": "Indian National Congress",
+          "votes": 66740,
+          "votes_percentage": 48.1
+        },
+        {
+          "position": 2,
+          "name": "Seth Damodar Saroop",
+          "party": "Socialist Party",
+          "votes": 30067,
+          "votes_percentage": 21.7
+        },
+        {
+          "position": 3,
+          "name": "Roshan Lal",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 23762,
+          "votes_percentage": 17.1
+        },
+        {
+          "position": 4,
+          "name": "Thakur Narain Singh",
+          "party": "Independent",
+          "votes": 15602,
+          "votes_percentage": 11.2
+        },
+        {
+          "position": 5,
+          "name": "Rama Shankar Sharma",
+          "party": "Independent",
+          "votes": 2587,
+          "votes_percentage": 1.9
+        }
+      ]
+    }
+  }
+}

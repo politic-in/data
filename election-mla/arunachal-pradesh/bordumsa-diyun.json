@@ -1,0 +1,43 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Bordumsa- Diyun",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1990": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 7668,
+        "total_votes_polled": 5934,
+        "turnout_percentage": 77.4,
+        "margin_votes": 861,
+        "margin_percentage": 14.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "C.C. Singpho",
+          "party": "Indian National Congress",
+          "votes": 2500,
+          "votes_percentage": 43.7
+        },
+        {
+          "position": 2,
+          "name": "Innem Gam Singpho",
+          "party": "Janata Dal",
+          "votes": 1639,
+          "votes_percentage": 28.6
+        },
+        {
+          "position": 3,
+          "name": "Sinai Wangno",
+          "party": "Independent",
+          "votes": 1584,
+          "votes_percentage": 27.7
+        }
+      ]
+    }
+  }
+}

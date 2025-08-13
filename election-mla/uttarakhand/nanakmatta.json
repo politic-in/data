@@ -1,0 +1,71 @@
+{
+  "state": "Uttarakhand",
+  "constituency": "Nanakmatta",
+  "district": "Udham Singh Nagar",
+  "ac_type": "GEN",
+  "results": {
+    "2017": {
+      "poll_date": "15 February 2017",
+      "counting_date": "11 March 2017",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 108514,
+        "total_votes_polled": 82031,
+        "turnout_percentage": 76.3,
+        "margin_votes": 9531,
+        "margin_percentage": 11.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr. Prem Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 42785,
+          "votes_percentage": 51.7
+        },
+        {
+          "position": 2,
+          "name": "Gopal Singh Rana",
+          "party": "Indian National Congress",
+          "votes": 33254,
+          "votes_percentage": 40.1
+        },
+        {
+          "position": 3,
+          "name": "Shish Ram Rana",
+          "party": "Bahujan Samaj Party",
+          "votes": 3174,
+          "votes_percentage": 3.8
+        },
+        {
+          "position": 4,
+          "name": "Suneeta Rana",
+          "party": "Independent",
+          "votes": 1305,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 5,
+          "name": "Rita Wati",
+          "party": "Independent",
+          "votes": 899,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Mahesh Chandra",
+          "party": "Independent",
+          "votes": 386,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Ansuiya",
+          "party": "Samajwadi Party",
+          "votes": 228,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

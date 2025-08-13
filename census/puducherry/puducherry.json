@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 49159,
+        "male": 50679,
+        "percentage_of_total_population": 10.51,
+        "percentage_of_total_population_calculated": 10.51,
+        "percentage_of_total_population_stated": 10.51,
+        "sex_ratio": 970,
+        "total": 99838
+    },
+    "literacy": {
+        "female_literacy_rate": 79.86,
+        "female_literate": 345703,
+        "male_literacy_rate": 91.23,
+        "male_literate": 380946,
+        "rate_percentage": 85.44,
+        "total_literate": 726649
+    },
+    "population": {
+        "female": 482031,
+        "male": 468258,
+        "sex_ratio": 1029,
+        "total": 950289
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.04,
+            "population": 366
+        },
+        "Christian": {
+            "percentage": 6.14,
+            "population": 58328
+        },
+        "Hindu": {
+            "percentage": 90.0,
+            "population": 855294
+        },
+        "Jain": {
+            "percentage": 0.14,
+            "population": 1328
+        },
+        "Muslims": {
+            "percentage": 3.44,
+            "population": 32674
+        },
+        "Not Stated": {
+            "percentage": 0.2,
+            "population": 1907
+        },
+        "Others": {
+            "percentage": 0.02,
+            "population": 147
+        },
+        "Sikh": {
+            "percentage": 0.03,
+            "population": 245
+        }
+    },
+    "rural": {
+        "child_population_female": 16107,
+        "child_population_male": 16896,
+        "child_population_percentage": 11.26,
+        "child_population_percentage_calculated": 11.26,
+        "child_population_percentage_stated": 11.26,
+        "child_population_total": 33003,
+        "child_sex_ratio": 953,
+        "female": 148311,
+        "literacy_rate_female": 70.73,
+        "literacy_rate_male": 86.24,
+        "literacy_rate_percentage": 78.35,
+        "literate_female": 93507,
+        "literate_male": 110274,
+        "literate_total": 203781,
+        "male": 144769,
+        "percentage_population": 30.84,
+        "population": 293080,
+        "sex_ratio": 1024
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/482-puducherry.html",
+    "urban": {
+        "child_population_female": 33043,
+        "child_population_male": 33792,
+        "child_population_percentage": 10.17,
+        "child_population_percentage_calculated": 10.17,
+        "child_population_percentage_stated": 10.17,
+        "child_population_total": 66835,
+        "child_sex_ratio": 978,
+        "female": 333720,
+        "literacy_rate_female": 83.88,
+        "literacy_rate_male": 93.43,
+        "literacy_rate_percentage": 88.57,
+        "literate_female": 252196,
+        "literate_male": 270672,
+        "literate_total": 522868,
+        "male": 323489,
+        "percentage_population": 69.16,
+        "population": 657209,
+        "sex_ratio": 1032
+    }
+}

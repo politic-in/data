@@ -1,0 +1,383 @@
+{
+  "state": "Haryana",
+  "constituency": "Panipat City",
+  "district": "Panipat",
+  "ac_type": "GEN",
+  "results": {
+    "2024": {
+      "poll_date": "08 October 2024",
+      "counting_date": "08 October 2024",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 234148,
+        "total_votes_polled": 146161,
+        "turnout_percentage": 62.7,
+        "margin_votes": 35672,
+        "margin_percentage": 24.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Parmod Kumar Vij",
+          "party": "Bharatiya Janta Party",
+          "votes": 81750,
+          "votes_percentage": 55.7
+        },
+        {
+          "position": 2,
+          "name": "Varinder Kumar Shah",
+          "party": "Indian National Congress",
+          "votes": 46078,
+          "votes_percentage": 31.4
+        },
+        {
+          "position": 3,
+          "name": "Rohita Rewri",
+          "party": "Independent",
+          "votes": 15546,
+          "votes_percentage": 10.6
+        },
+        {
+          "position": 4,
+          "name": "Ritu Arora",
+          "party": "Aam Aadmi Party",
+          "votes": 705,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Saroj Bala Gur",
+          "party": "Bahujan Samaj Party",
+          "votes": 696,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Dilbag Singh Krantikari",
+          "party": "Independent",
+          "votes": 438,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Ca Jagdish Dhamija",
+          "party": "Independent",
+          "votes": 398,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Sawami Agnivesh",
+          "party": "Independent",
+          "votes": 169,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Himanshu Sharma",
+          "party": "Independent",
+          "votes": 164,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Ramesh Kumar Chaudhary",
+          "party": "Independent",
+          "votes": 133,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Bhateri Devi",
+          "party": "Rashtriya Mazdoor Ekta Party",
+          "votes": 84,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2019": {
+      "poll_date": "21 October 2019",
+      "counting_date": "24 October 2019",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 213748,
+        "total_votes_polled": 120590,
+        "turnout_percentage": 57.2,
+        "margin_votes": 39545,
+        "margin_percentage": 32.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Parmod Kumar Vij",
+          "party": "Bharatiya Janta Party",
+          "votes": 76863,
+          "votes_percentage": 63.7
+        },
+        {
+          "position": 2,
+          "name": "Sanjay Aggarwal",
+          "party": "Indian National Congress",
+          "votes": 37318,
+          "votes_percentage": 31.0
+        },
+        {
+          "position": 3,
+          "name": "Jaidev Naultha",
+          "party": "Jannayak Janta Party",
+          "votes": 2246,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 4,
+          "name": "Ramesh Singla",
+          "party": "Bahujan Samaj Party",
+          "votes": 1787,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Vijay Kumar Kalra",
+          "party": "Loktanter Suraksha Party",
+          "votes": 783,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Rajender Jindi Bhai",
+          "party": "Independent",
+          "votes": 424,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Suresh Saini",
+          "party": "Indian National Lok Dal",
+          "votes": 415,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Dilbag Singh",
+          "party": "Independent",
+          "votes": 303,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Mohit Arora",
+          "party": "Sarva Hit Party",
+          "votes": 161,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Neelam Pranami",
+          "party": "Independent",
+          "votes": 153,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Swami Agnivesh",
+          "party": "Independent",
+          "votes": 137,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "15 October 2014",
+      "counting_date": "19 October 2014",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 203335,
+        "total_votes_polled": 139507,
+        "turnout_percentage": 68.9,
+        "total_valid_votes": 138863,
+        "total_valid_votes_percentage": 68.3,
+        "margin_votes": 53721,
+        "margin_percentage": 38.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rohita Rewri",
+          "party": "Bharatiya Janta Party",
+          "votes": 92757,
+          "votes_percentage": 66.5
+        },
+        {
+          "position": 2,
+          "name": "Virender Kumar Shah",
+          "party": "Indian National Congress",
+          "votes": 39036,
+          "votes_percentage": 28.0
+        },
+        {
+          "position": 3,
+          "name": "Neelam Narang",
+          "party": "Indian National Lok Dal",
+          "votes": 2630,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 4,
+          "name": "Dharam Pal Gupta",
+          "party": "Independent",
+          "votes": 1321,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Ramesh Chand",
+          "party": "Bahujan Samaj Party",
+          "votes": 1213,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Firoj Alam",
+          "party": "Republican Party Of India (A)",
+          "votes": 551,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Mahmood Hasan",
+          "party": "Independent",
+          "votes": 515,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Pankaj Thakral",
+          "party": "Haryana Lokhit Party",
+          "votes": 394,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Ramesh Singla",
+          "party": "Independent",
+          "votes": 202,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Ravinder Kumar",
+          "party": "Rashtriya Arya Raj Sabha",
+          "votes": 144,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Mashtak",
+          "party": "Samajwadi Party",
+          "votes": 100,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "13 October 2009",
+      "counting_date": "22 October 2009",
+      "total_contestants": 12,
+      "aggregate": {
+        "total_electors": 144053,
+        "total_votes_polled": 94455,
+        "turnout_percentage": 65.6,
+        "total_valid_votes": 94455,
+        "total_valid_votes_percentage": 65.6,
+        "margin_votes": 12159,
+        "margin_percentage": 12.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Balbir Pal Shah",
+          "party": "Indian National Congress",
+          "votes": 36294,
+          "votes_percentage": 38.4
+        },
+        {
+          "position": 2,
+          "name": "Sanjay Bhatia",
+          "party": "Bharatiya Janta Party",
+          "votes": 24135,
+          "votes_percentage": 25.6
+        },
+        {
+          "position": 3,
+          "name": "Suresh Mittal",
+          "party": "Indian National Lok Dal",
+          "votes": 21949,
+          "votes_percentage": 23.2
+        },
+        {
+          "position": 4,
+          "name": "Vinod Wadhera",
+          "party": "Haryana Janhit Congress (BL)",
+          "votes": 5953,
+          "votes_percentage": 6.3
+        },
+        {
+          "position": 5,
+          "name": "Kapil",
+          "party": "Bahujan Samaj Party",
+          "votes": 3259,
+          "votes_percentage": 3.5
+        },
+        {
+          "position": 6,
+          "name": "Ranjeet Bhola",
+          "party": "Nationalist Congress Party",
+          "votes": 659,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Susheel Sharma",
+          "party": "Independent",
+          "votes": 476,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Dharam Pal Bhatt Master",
+          "party": "Rashtriya Garib Dal",
+          "votes": 466,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 9,
+          "name": "Gautam Raj Singla",
+          "party": "Independent",
+          "votes": 409,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 10,
+          "name": "Ramesh Singla",
+          "party": "Independent",
+          "votes": 369,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 11,
+          "name": "Naresh Kashyap",
+          "party": "Loknayak Party",
+          "votes": 317,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 12,
+          "name": "Prem Chand Mittal",
+          "party": "Independent",
+          "votes": 169,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

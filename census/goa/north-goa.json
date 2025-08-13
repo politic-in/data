@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 37630,
+        "male": 40075,
+        "percentage_of_total_population": 9.5,
+        "percentage_of_total_population_calculated": 9.5,
+        "percentage_of_total_population_stated": 9.5,
+        "sex_ratio": 939,
+        "total": 77705
+    },
+    "literacy": {
+        "female_literacy_rate": 85.6,
+        "female_literate": 311322,
+        "male_literacy_rate": 93.4,
+        "male_literate": 351738,
+        "rate_percentage": 89.57,
+        "total_literate": 663060
+    },
+    "population": {
+        "female": 401331,
+        "male": 416677,
+        "sex_ratio": 963,
+        "total": 818008
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.07,
+            "population": 553
+        },
+        "Christian": {
+            "percentage": 16.4,
+            "population": 134169
+        },
+        "Hindu": {
+            "percentage": 76.06,
+            "population": 622213
+        },
+        "Jain": {
+            "percentage": 0.07,
+            "population": 546
+        },
+        "Muslims": {
+            "percentage": 7.08,
+            "population": 57941
+        },
+        "Not Stated": {
+            "percentage": 0.22,
+            "population": 1802
+        },
+        "Others": {
+            "percentage": 0.02,
+            "population": 166
+        },
+        "Sikh": {
+            "percentage": 0.08,
+            "population": 618
+        }
+    },
+    "rural": {
+        "child_population_female": 14855,
+        "child_population_male": 15880,
+        "child_population_percentage": 9.46,
+        "child_population_percentage_calculated": 9.46,
+        "child_population_percentage_stated": 9.46,
+        "child_population_total": 30735,
+        "child_sex_ratio": 935,
+        "female": 161019,
+        "literacy_rate_female": 82.81,
+        "literacy_rate_male": 92.95,
+        "literacy_rate_percentage": 87.91,
+        "literate_female": 121042,
+        "literate_male": 137585,
+        "literate_total": 258627,
+        "male": 163908,
+        "percentage_population": 39.72,
+        "population": 324927,
+        "sex_ratio": 982
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/180-north-goa.html",
+    "urban": {
+        "child_population_female": 22769,
+        "child_population_male": 24201,
+        "child_population_percentage": 9.53,
+        "child_population_percentage_calculated": 9.53,
+        "child_population_percentage_stated": 9.53,
+        "child_population_total": 46970,
+        "child_sex_ratio": 941,
+        "female": 240312,
+        "literacy_rate_female": 87.47,
+        "literacy_rate_male": 93.69,
+        "literacy_rate_percentage": 90.66,
+        "literate_female": 190280,
+        "literate_male": 214153,
+        "literate_total": 404433,
+        "male": 252769,
+        "percentage_population": 60.28,
+        "population": 493081,
+        "sex_ratio": 951
+    }
+}

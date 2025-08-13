@@ -1,0 +1,45 @@
+{
+  "state": "Manipur",
+  "year": "1999",
+  "summary_stats": {
+    "total_electors_state": 1372339,
+    "total_votes_polled_state": 901242,
+    "turnout_percentage_state": 65.7,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Inner Manipur",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Manipur",
+      "winning_candidate": "Th. Chaoba",
+      "winning_party": "Manipur State Congress Party",
+      "total_electors_ac": 657928,
+      "total_votes_ac": 446627,
+      "poll_percentage_ac": 0.0,
+      "margin": 8195,
+      "margin_percentage": 1.8,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1999/manipur/inner-manipur/6395/24/13"
+    },
+    {
+      "ac_name": "Outer Manipur",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Manipur",
+      "winning_candidate": "Holkhomang",
+      "winning_party": "Nationalist Congress Party",
+      "total_electors_ac": 714411,
+      "total_votes_ac": 454615,
+      "poll_percentage_ac": 0.0,
+      "margin": 28809,
+      "margin_percentage": 6.3,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1999/manipur/outer-manipur/6396/24/13"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "CHAMPARAN NORTH",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 341318,
+        "total_votes_polled": 104179,
+        "turnout_percentage": 30.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bipin Bihari Verma",
+          "party": "Indian National Congress",
+          "votes": 52424,
+          "votes_percentage": 50.3
+        },
+        {
+          "position": 2,
+          "name": "Shattru Mardan Sah",
+          "party": "Independent",
+          "votes": 30672,
+          "votes_percentage": 29.4
+        },
+        {
+          "position": 3,
+          "name": "Sheikh Azizul Haque",
+          "party": "Socialist Party",
+          "votes": 21083,
+          "votes_percentage": 20.2
+        }
+      ]
+    }
+  }
+}

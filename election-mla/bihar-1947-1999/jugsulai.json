@@ -1,0 +1,71 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "Jugsulai",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 100828,
+        "total_votes_polled": 27587,
+        "turnout_percentage": 27.4,
+        "margin_votes": 12058,
+        "margin_percentage": 43.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kartik Kumar",
+          "party": "Janta Party",
+          "votes": 17927,
+          "votes_percentage": 66.0
+        },
+        {
+          "position": 2,
+          "name": "Ratul Muchi",
+          "party": "Indian National Congress",
+          "votes": 5869,
+          "votes_percentage": 21.6
+        },
+        {
+          "position": 3,
+          "name": "Pradhan Malua",
+          "party": "All India Jharkhand Party",
+          "votes": 1743,
+          "votes_percentage": 6.4
+        },
+        {
+          "position": 4,
+          "name": "Bipin Bihari",
+          "party": "Jharkhand Party",
+          "votes": 1170,
+          "votes_percentage": 4.3
+        },
+        {
+          "position": 5,
+          "name": "Deoraj",
+          "party": "Independent",
+          "votes": 315,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 6,
+          "name": "Lal Babu Lal",
+          "party": "Independent",
+          "votes": 77,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "Rameshwar Prasad Ram",
+          "party": "Independent",
+          "votes": 73,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

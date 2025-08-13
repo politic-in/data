@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 4528,
+        "male": 4771,
+        "percentage_of_total_population": 14.32,
+        "percentage_of_total_population_calculated": 14.32,
+        "percentage_of_total_population_stated": 14.32,
+        "sex_ratio": 949,
+        "total": 9299
+    },
+    "literacy": {
+        "female_literacy_rate": 97.53,
+        "female_literate": 26878,
+        "male_literacy_rate": 98.28,
+        "male_literate": 27598,
+        "rate_percentage": 97.91,
+        "total_literate": 54476
+    },
+    "population": {
+        "female": 32086,
+        "male": 32851,
+        "sex_ratio": 977,
+        "total": 64937
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.09,
+            "population": 60
+        },
+        "Christian": {
+            "percentage": 97.7,
+            "population": 63444
+        },
+        "Hindu": {
+            "percentage": 1.53,
+            "population": 991
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 9
+        },
+        "Muslims": {
+            "percentage": 0.52,
+            "population": 335
+        },
+        "Not Stated": {
+            "percentage": 0.09,
+            "population": 57
+        },
+        "Others": {
+            "percentage": 0.05,
+            "population": 35
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 6
+        }
+    },
+    "rural": {
+        "child_population_female": 2500,
+        "child_population_male": 2654,
+        "child_population_percentage": 15.66,
+        "child_population_percentage_calculated": 15.66,
+        "child_population_percentage_stated": 15.66,
+        "child_population_total": 5154,
+        "child_sex_ratio": 942,
+        "female": 16275,
+        "literacy_rate_female": 96.89,
+        "literacy_rate_male": 98.27,
+        "literacy_rate_percentage": 97.59,
+        "literate_female": 13347,
+        "literate_male": 13747,
+        "literate_total": 27094,
+        "male": 16643,
+        "percentage_population": 50.69,
+        "population": 32918,
+        "sex_ratio": 978
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/390-serchhip.html",
+    "urban": {
+        "child_population_female": 2028,
+        "child_population_male": 2117,
+        "child_population_percentage": 12.95,
+        "child_population_percentage_calculated": 12.95,
+        "child_population_percentage_stated": 12.95,
+        "child_population_total": 4145,
+        "child_sex_ratio": 958,
+        "female": 15811,
+        "literacy_rate_female": 98.17,
+        "literacy_rate_male": 98.3,
+        "literacy_rate_percentage": 98.23,
+        "literate_female": 13531,
+        "literate_male": 13851,
+        "literate_total": 27382,
+        "male": 16208,
+        "percentage_population": 49.31,
+        "population": 32019,
+        "sex_ratio": 976
+    }
+}

@@ -1,0 +1,57 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Osiyaan",
+  "district": "Jodhpur",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 226775,
+        "total_votes_polled": 182780,
+        "turnout_percentage": 81.4,
+        "margin_votes": 27590,
+        "margin_percentage": 15.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Divya Maderna",
+          "party": "Indian National Congress",
+          "votes": 83629,
+          "votes_percentage": 45.8
+        },
+        {
+          "position": 2,
+          "name": "Bhera Ram Choudhary",
+          "party": "Bharatiya Janta Party",
+          "votes": 56039,
+          "votes_percentage": 30.7
+        },
+        {
+          "position": 3,
+          "name": "Mahendrasingh Bhati",
+          "party": "Independent",
+          "votes": 37746,
+          "votes_percentage": 20.7
+        },
+        {
+          "position": 4,
+          "name": "Jyotika",
+          "party": "Bahujan Samaj Party",
+          "votes": 3054,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 5,
+          "name": "Vishek Vishnoi",
+          "party": "Independent",
+          "votes": 2312,
+          "votes_percentage": 1.3
+        }
+      ]
+    }
+  }
+}

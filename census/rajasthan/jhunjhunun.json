@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 131437,
+        "male": 157033,
+        "percentage_of_total_population": 13.5,
+        "percentage_of_total_population_calculated": 13.5,
+        "percentage_of_total_population_stated": 13.5,
+        "sex_ratio": 837,
+        "total": 288470
+    },
+    "literacy": {
+        "female_literacy_rate": 60.95,
+        "female_literate": 554526,
+        "male_literacy_rate": 86.9,
+        "male_literate": 815834,
+        "rate_percentage": 74.13,
+        "total_literate": 1370360
+    },
+    "population": {
+        "female": 1041149,
+        "male": 1095896,
+        "sex_ratio": 950,
+        "total": 2137045
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.0,
+            "population": 56
+        },
+        "Christian": {
+            "percentage": 0.05,
+            "population": 1004
+        },
+        "Hindu": {
+            "percentage": 89.17,
+            "population": 1905682
+        },
+        "Jain": {
+            "percentage": 0.03,
+            "population": 548
+        },
+        "Muslims": {
+            "percentage": 10.68,
+            "population": 228178
+        },
+        "Not Stated": {
+            "percentage": 0.06,
+            "population": 1217
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 85
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 275
+        }
+    },
+    "rural": {
+        "child_population_female": 101036,
+        "child_population_male": 121483,
+        "child_population_percentage": 13.5,
+        "child_population_percentage_calculated": 13.5,
+        "child_population_percentage_stated": 13.5,
+        "child_population_total": 222519,
+        "child_sex_ratio": 832,
+        "female": 805248,
+        "literacy_rate_female": 59.77,
+        "literacy_rate_male": 86.75,
+        "literacy_rate_percentage": 73.42,
+        "literate_female": 420877,
+        "literate_male": 625672,
+        "literate_total": 1046549,
+        "male": 842718,
+        "percentage_population": 77.11,
+        "population": 1647966,
+        "sex_ratio": 956
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/428-jhunjhunun.html",
+    "urban": {
+        "child_population_female": 30372,
+        "child_population_male": 35579,
+        "child_population_percentage": 13.48,
+        "child_population_percentage_calculated": 13.48,
+        "child_population_percentage_stated": 13.48,
+        "child_population_total": 65951,
+        "child_sex_ratio": 854,
+        "female": 235901,
+        "literacy_rate_female": 65.03,
+        "literacy_rate_male": 87.39,
+        "literacy_rate_percentage": 76.53,
+        "literate_female": 133649,
+        "literate_male": 190162,
+        "literate_total": 323811,
+        "male": 253178,
+        "percentage_population": 22.89,
+        "population": 489079,
+        "sex_ratio": 932
+    }
+}

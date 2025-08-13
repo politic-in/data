@@ -1,0 +1,45 @@
+{
+  "state": "Tripura",
+  "year": "2009",
+  "summary_stats": {
+    "total_electors_state": 2082265,
+    "total_votes_polled_state": 1765754,
+    "turnout_percentage_state": 84.8,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Tripura East",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Tripura",
+      "winning_candidate": "Baju Ban Riyan",
+      "winning_party": "Communist Party Of India (MARXIST)",
+      "total_electors_ac": 988466,
+      "total_votes_ac": 824246,
+      "poll_percentage_ac": 0.0,
+      "margin": 295581,
+      "margin_percentage": 35.9,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2009/tripura/tripura-east/7558/25/15"
+    },
+    {
+      "ac_name": "Tripura West",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Tripura",
+      "winning_candidate": "Khagen Das",
+      "winning_party": "Communist Party Of India (MARXIST)",
+      "total_electors_ac": 1093799,
+      "total_votes_ac": 941508,
+      "poll_percentage_ac": 0.0,
+      "margin": 248549,
+      "margin_percentage": 26.4,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2009/tripura/tripura-west/7557/25/15"
+    }
+  ]
+}

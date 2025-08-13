@@ -1,0 +1,78 @@
+{
+  "state": "Maharashtra",
+  "constituency": "HATKANANGALE",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 518707,
+        "total_votes_polled": 382895,
+        "turnout_percentage": 73.8,
+        "margin_votes": 84991,
+        "margin_percentage": 22.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dattatraya Baburao Kadam",
+          "party": "Indian National Congress",
+          "votes": 227363,
+          "votes_percentage": 59.4
+        },
+        {
+          "position": 2,
+          "name": "Tryambak Seetaram Karkhanis",
+          "party": "Peasants & Workers Party",
+          "votes": 142372,
+          "votes_percentage": 37.2
+        },
+        {
+          "position": 3,
+          "name": "Anapa Halapa Chigare",
+          "party": "Independent",
+          "votes": 3406,
+          "votes_percentage": 0.9
+        }
+      ]
+    },
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 470375,
+        "total_votes_polled": 360450,
+        "turnout_percentage": 76.6,
+        "margin_votes": 44277,
+        "margin_percentage": 12.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "M. V. R. C. Bhosale",
+          "party": "Peasants & Workers Party",
+          "votes": 189415,
+          "votes_percentage": 52.5
+        },
+        {
+          "position": 2,
+          "name": "S. P. T. Thorat",
+          "party": "Indian National Congress",
+          "votes": 145138,
+          "votes_percentage": 40.3
+        },
+        {
+          "position": 3,
+          "name": "K. L .More",
+          "party": "Independent",
+          "votes": 10886,
+          "votes_percentage": 3.0
+        }
+      ]
+    }
+  }
+}

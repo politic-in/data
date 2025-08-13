@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 40047,
+        "male": 45978,
+        "percentage_of_total_population": 10.55,
+        "percentage_of_total_population_calculated": 10.55,
+        "percentage_of_total_population_stated": 10.55,
+        "sex_ratio": 871,
+        "total": 86025
+    },
+    "literacy": {
+        "female_literacy_rate": 74.63,
+        "female_literate": 260313,
+        "male_literacy_rate": 83.15,
+        "male_literate": 316254,
+        "rate_percentage": 79.07,
+        "total_literate": 576567
+    },
+    "population": {
+        "female": 388857,
+        "male": 426311,
+        "sex_ratio": 912,
+        "total": 815168
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.82,
+            "population": 6662
+        },
+        "Christian": {
+            "percentage": 0.67,
+            "population": 5445
+        },
+        "Hindu": {
+            "percentage": 41.23,
+            "population": 336124
+        },
+        "Jain": {
+            "percentage": 0.07,
+            "population": 553
+        },
+        "Muslims": {
+            "percentage": 1.25,
+            "population": 10190
+        },
+        "Not Stated": {
+            "percentage": 0.27,
+            "population": 2168
+        },
+        "Others": {
+            "percentage": 0.04,
+            "population": 334
+        },
+        "Sikh": {
+            "percentage": 55.66,
+            "population": 453692
+        }
+    },
+    "rural": {
+        "child_population_female": 26501,
+        "child_population_male": 30852,
+        "child_population_percentage": 10.77,
+        "child_population_percentage_calculated": 10.77,
+        "child_population_percentage_stated": 10.77,
+        "child_population_total": 57353,
+        "child_sex_ratio": 859,
+        "female": 256774,
+        "literacy_rate_female": 71.16,
+        "literacy_rate_male": 80.35,
+        "literacy_rate_percentage": 75.9,
+        "literate_female": 163857,
+        "literate_male": 196919,
+        "literate_total": 360776,
+        "male": 275932,
+        "percentage_population": 65.35,
+        "population": 532706,
+        "sex_ratio": 931
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/589-kapurthala.html",
+    "urban": {
+        "child_population_female": 13551,
+        "child_population_male": 15121,
+        "child_population_percentage": 10.15,
+        "child_population_percentage_calculated": 10.15,
+        "child_population_percentage_stated": 10.15,
+        "child_population_total": 28672,
+        "child_sex_ratio": 896,
+        "female": 132083,
+        "literacy_rate_female": 81.38,
+        "literacy_rate_male": 88.23,
+        "literacy_rate_percentage": 85.03,
+        "literate_female": 96456,
+        "literate_male": 119335,
+        "literate_total": 215791,
+        "male": 150379,
+        "percentage_population": 34.65,
+        "population": 282462,
+        "sex_ratio": 878
+    }
+}

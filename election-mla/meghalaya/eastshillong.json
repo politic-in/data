@@ -1,0 +1,50 @@
+{
+  "state": "Meghalaya",
+  "constituency": "EASTSHILLONG",
+  "district": "East Khasi Hills",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 24170,
+        "total_votes_polled": 16892,
+        "turnout_percentage": 71.1,
+        "margin_votes": 6074,
+        "margin_percentage": 36.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mazel Ampareen Lyngdoh",
+          "party": "Indian National Congress",
+          "votes": 10368,
+          "votes_percentage": 61.4
+        },
+        {
+          "position": 2,
+          "name": "Neil Antonio War",
+          "party": "Bharatiya Janta Party",
+          "votes": 4294,
+          "votes_percentage": 25.4
+        },
+        {
+          "position": 3,
+          "name": "B. M. Lanong",
+          "party": "United Democratic Party",
+          "votes": 2009,
+          "votes_percentage": 11.9
+        },
+        {
+          "position": 5,
+          "name": "Romeo Phira Rani",
+          "party": "Independent",
+          "votes": 221,
+          "votes_percentage": 1.3
+        }
+      ]
+    }
+  }
+}

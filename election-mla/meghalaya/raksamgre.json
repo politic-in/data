@@ -1,0 +1,113 @@
+{
+  "state": "Meghalaya",
+  "constituency": "RAKSAMGRE",
+  "district": "West Garo Hills",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 26604,
+        "total_votes_polled": 23621,
+        "turnout_percentage": 90.2,
+        "margin_votes": 624,
+        "margin_percentage": 2.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Benedic R. Marak",
+          "party": "National People's Party",
+          "votes": 9104,
+          "votes_percentage": 38.5
+        },
+        {
+          "position": 2,
+          "name": "Limison D. Sangma",
+          "party": "Indian National Congress",
+          "votes": 8480,
+          "votes_percentage": 35.9
+        },
+        {
+          "position": 3,
+          "name": "Edmund K. Sangma",
+          "party": "Independent",
+          "votes": 2909,
+          "votes_percentage": 12.3
+        },
+        {
+          "position": 4,
+          "name": "Janatan Rabha",
+          "party": "Bharatiya Janta Party",
+          "votes": 2679,
+          "votes_percentage": 11.3
+        },
+        {
+          "position": 5,
+          "name": "Pillarson G. Momin",
+          "party": "United Democratic Party",
+          "votes": 449,
+          "votes_percentage": 1.9
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "23 February 2013",
+      "counting_date": "28 February 2013",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 21558,
+        "total_votes_polled": 19471,
+        "turnout_percentage": 90.3,
+        "margin_votes": 1060,
+        "margin_percentage": 5.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Limison D. Sangma",
+          "party": "Indian National Congress",
+          "votes": 5761,
+          "votes_percentage": 29.6
+        },
+        {
+          "position": 2,
+          "name": "Edmund K Sangma",
+          "party": "Independent",
+          "votes": 4701,
+          "votes_percentage": 24.1
+        },
+        {
+          "position": 3,
+          "name": "Ringnon R. Marak",
+          "party": "National People's Party",
+          "votes": 3771,
+          "votes_percentage": 19.4
+        },
+        {
+          "position": 4,
+          "name": "Augustine D. Marak",
+          "party": "Samajwadi Party",
+          "votes": 2153,
+          "votes_percentage": 11.1
+        },
+        {
+          "position": 5,
+          "name": "Janatan Rabha",
+          "party": "Nationalist Congress Party",
+          "votes": 1743,
+          "votes_percentage": 9.0
+        },
+        {
+          "position": 6,
+          "name": "Pillarson G. Momin",
+          "party": "Bharatiya Janta Party",
+          "votes": 1342,
+          "votes_percentage": 6.9
+        }
+      ]
+    }
+  }
+}

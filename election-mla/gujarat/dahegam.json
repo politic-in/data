@@ -1,0 +1,127 @@
+{
+  "state": "Gujarat",
+  "constituency": "Dahegam",
+  "district": "Gandhinagar",
+  "ac_type": "GEN",
+  "results": {
+    "2022": {
+      "poll_date": "01 December 2022",
+      "counting_date": "08 December 2022",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 220785,
+        "total_votes_polled": 149845,
+        "turnout_percentage": 69.1,
+        "margin_votes": 16173,
+        "margin_percentage": 10.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chauhan Balrajsinh Kalyansinh",
+          "party": "Bharatiya Janta Party",
+          "votes": 75133,
+          "votes_percentage": 49.3
+        },
+        {
+          "position": 2,
+          "name": "Chauhan Vakhatsinh Amarasinh",
+          "party": "Indian National Congress",
+          "votes": 58960,
+          "votes_percentage": 38.7
+        },
+        {
+          "position": 3,
+          "name": "Suhag Panchal",
+          "party": "Aam Aadmi Party",
+          "votes": 12394,
+          "votes_percentage": 8.1
+        },
+        {
+          "position": 4,
+          "name": "Amrutbhai Purshottambhai Patel",
+          "party": "Independent",
+          "votes": 1092,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Rupalba Mohabatsinh Chauhan",
+          "party": "Garvi Gujarat Party",
+          "votes": 985,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Ashokbhai Natubhai Rathod",
+          "party": "Right To Recall Party",
+          "votes": 891,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Jayendra K. Rathod",
+          "party": "Vyavastha Parivartan Party",
+          "votes": 390,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2017": {
+      "poll_date": "09 December 2017",
+      "counting_date": "18 December 2017",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 198392,
+        "total_votes_polled": 142378,
+        "turnout_percentage": 73.7,
+        "margin_votes": 10860,
+        "margin_percentage": 7.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chauhan Balrajsinh Kalyansinh",
+          "party": "Bharatiya Janta Party",
+          "votes": 74445,
+          "votes_percentage": 52.3
+        },
+        {
+          "position": 2,
+          "name": "Rathod Kaminiba Bhupendrasinh",
+          "party": "Indian National Congress",
+          "votes": 63585,
+          "votes_percentage": 44.7
+        },
+        {
+          "position": 3,
+          "name": "Malek Amjadhussain Mansurmiya",
+          "party": "Independent",
+          "votes": 1631,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 4,
+          "name": "Sonara Ramanlal Khanabhai",
+          "party": "Bahujan Samaj Party",
+          "votes": 1143,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 5,
+          "name": "Thakor Jenaji Rumalji",
+          "party": "Insaniyat Party",
+          "votes": 949,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Amin Vinubhai Bahadurbhai",
+          "party": "All India Hindustan Congress Party",
+          "votes": 625,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

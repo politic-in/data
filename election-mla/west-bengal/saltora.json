@@ -1,0 +1,92 @@
+{
+  "state": "West Bengal",
+  "constituency": "Saltora",
+  "district": "Bankura",
+  "ac_type": "SC",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 224495,
+        "total_votes_polled": 199050,
+        "turnout_percentage": 90.2,
+        "margin_votes": 4145,
+        "margin_percentage": 2.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bauri Chandana",
+          "party": "Bharatiya Janta Party",
+          "votes": 91648,
+          "votes_percentage": 46.0
+        },
+        {
+          "position": 2,
+          "name": "Sontosh Kumar Mondal",
+          "party": "All India Trinamool Congress",
+          "votes": 87503,
+          "votes_percentage": 44.0
+        },
+        {
+          "position": 3,
+          "name": "Nandadulal Bauri",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 14084,
+          "votes_percentage": 7.1
+        },
+        {
+          "position": 4,
+          "name": "Aditya Kumar Bauri",
+          "party": "Bahujan Mukti Party",
+          "votes": 3554,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 5,
+          "name": "Dipen Bauri",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 2261,
+          "votes_percentage": 1.1
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 188606,
+        "total_votes_polled": 163238,
+        "turnout_percentage": 86.6,
+        "margin_votes": 12697,
+        "margin_percentage": 7.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Swapan Bouri",
+          "party": "All India Trinamool Congress",
+          "votes": 82597,
+          "votes_percentage": 50.6
+        },
+        {
+          "position": 2,
+          "name": "Sasthi Charan Bauri",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 69900,
+          "votes_percentage": 42.8
+        },
+        {
+          "position": 3,
+          "name": "Mangal Chandra Mondal",
+          "party": "Bharatiya Janta Party",
+          "votes": 10741,
+          "votes_percentage": 6.6
+        }
+      ]
+    }
+  }
+}

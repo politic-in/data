@@ -1,0 +1,145 @@
+{
+  "state": "Sikkim",
+  "constituency": "Rangang-yangang",
+  "district": "South",
+  "ac_type": "GEN",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 13984,
+        "total_votes_polled": 11425,
+        "turnout_percentage": 82.2,
+        "margin_votes": 1525,
+        "margin_percentage": 13.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Raj Kumari Thapa",
+          "party": "Sikkim Democratic Front",
+          "votes": 6146,
+          "votes_percentage": 53.8
+        },
+        {
+          "position": 2,
+          "name": "Raj Kumar Basnet",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 4621,
+          "votes_percentage": 40.5
+        },
+        {
+          "position": 3,
+          "name": "Rup Narayan Chamling",
+          "party": "Sikkim Rajya Manch Party",
+          "votes": 443,
+          "votes_percentage": 3.9
+        },
+        {
+          "position": 4,
+          "name": "Tanka Nath Adhikari",
+          "party": "Indian National Congress",
+          "votes": 105,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Kamala Rai",
+          "party": "Hamro Sikkim Party",
+          "votes": 69,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Mohan Gurung",
+          "party": "Sikkim Republican Party",
+          "votes": 41,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "12 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 11747,
+        "total_votes_polled": 9936,
+        "turnout_percentage": 84.6,
+        "total_valid_votes": 9750,
+        "total_valid_votes_percentage": 83.0,
+        "margin_votes": 3142,
+        "margin_percentage": 31.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pawan Chamling",
+          "party": "Sikkim Democratic Front",
+          "votes": 6343,
+          "votes_percentage": 65.1
+        },
+        {
+          "position": 2,
+          "name": "Bikash Basnet",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 3201,
+          "votes_percentage": 32.8
+        },
+        {
+          "position": 3,
+          "name": "Om Prakash Bista",
+          "party": "Indian National Congress",
+          "votes": 206,
+          "votes_percentage": 2.1
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "30 April 2009",
+      "counting_date": "05 June 2009",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 9533,
+        "total_votes_polled": 8145,
+        "turnout_percentage": 85.4,
+        "total_valid_votes": 7988,
+        "total_valid_votes_percentage": 83.8,
+        "margin_votes": 3197,
+        "margin_percentage": 39.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chandra Bdr Karki",
+          "party": "Sikkim Democratic Front",
+          "votes": 5558,
+          "votes_percentage": 68.2
+        },
+        {
+          "position": 2,
+          "name": "Avinash Yakha",
+          "party": "Indian National Congress",
+          "votes": 2361,
+          "votes_percentage": 29.0
+        },
+        {
+          "position": 3,
+          "name": "Tika Ram Chettri",
+          "party": "Independent",
+          "votes": 125,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 4,
+          "name": "Keshav Prasad Bhattarai",
+          "party": "Sikkim Gorkha Prajatantric Party",
+          "votes": 101,
+          "votes_percentage": 1.2
+        }
+      ]
+    }
+  }
+}

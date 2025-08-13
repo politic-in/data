@@ -1,0 +1,78 @@
+{
+  "state": "Uttar Pradesh [2000 Onwards]",
+  "constituency": "BHAGWANT NAGAR",
+  "district": "Unnao",
+  "ac_type": "GEN",
+  "results": {
+    "2022": {
+      "poll_date": "10 February 2022",
+      "counting_date": "10 March 2022",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 419009,
+        "total_votes_polled": 245567,
+        "turnout_percentage": 59.2,
+        "margin_votes": 43010,
+        "margin_percentage": 17.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ashutosh Shukla",
+          "party": "Bharatiya Janta Party",
+          "votes": 127118,
+          "votes_percentage": 51.8
+        },
+        {
+          "position": 2,
+          "name": "Ankit Parihar",
+          "party": "Samajwadi Party",
+          "votes": 84108,
+          "votes_percentage": 34.3
+        },
+        {
+          "position": 3,
+          "name": "Brij Kishor",
+          "party": "Bahujan Samaj Party",
+          "votes": 28441,
+          "votes_percentage": 11.6
+        },
+        {
+          "position": 4,
+          "name": "Jang Bahadur Singh",
+          "party": "Indian National Congress",
+          "votes": 2580,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Ajay Singh",
+          "party": "Independent",
+          "votes": 1028,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Navin Kumar",
+          "party": "Aam Aadmi Party",
+          "votes": 863,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Surendra Kumar",
+          "party": "Aazad Samaj Party (Kanshi Ram)",
+          "votes": 720,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Naseem Khan",
+          "party": "Rashtriya Samaj Paksha",
+          "votes": 709,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

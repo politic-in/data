@@ -1,0 +1,78 @@
+{
+  "state": "West Bengal",
+  "constituency": "Cooch behar Dakshin",
+  "district": "Koch Bihar",
+  "ac_type": "GEN",
+  "results": {
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 182901,
+        "total_votes_polled": 153115,
+        "turnout_percentage": 83.7,
+        "margin_votes": 2863,
+        "margin_percentage": 1.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Akshay Thakur",
+          "party": "All India Forward Bloc",
+          "votes": 72028,
+          "votes_percentage": 47.0
+        },
+        {
+          "position": 2,
+          "name": "Abdul Jalil Ahmed",
+          "party": "All India Trinamool Congress",
+          "votes": 69165,
+          "votes_percentage": 45.2
+        },
+        {
+          "position": 3,
+          "name": "Gayetri Kar",
+          "party": "Bharatiya Janta Party",
+          "votes": 6419,
+          "votes_percentage": 4.2
+        },
+        {
+          "position": 4,
+          "name": "Sanat Sen",
+          "party": "Independent",
+          "votes": 2207,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 5,
+          "name": "Shyamal Chandra Barman",
+          "party": "Independent",
+          "votes": 1277,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Prahlad Chandra Datta",
+          "party": "Independent",
+          "votes": 745,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Krishna Kanta Barman",
+          "party": "Independent",
+          "votes": 685,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Chanchal Sarkar",
+          "party": "People's Democratic Conference Of India",
+          "votes": 589,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

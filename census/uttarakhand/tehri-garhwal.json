@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 40030,
+        "male": 44627,
+        "percentage_of_total_population": 13.68,
+        "percentage_of_total_population_calculated": 13.68,
+        "percentage_of_total_population_stated": 13.68,
+        "sex_ratio": 897,
+        "total": 84657
+    },
+    "literacy": {
+        "female_literacy_rate": 64.28,
+        "female_literate": 180588,
+        "male_literacy_rate": 89.76,
+        "male_literate": 227406,
+        "rate_percentage": 76.36,
+        "total_literate": 407994
+    },
+    "population": {
+        "female": 320945,
+        "male": 297986,
+        "sex_ratio": 1077,
+        "total": 618931
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 32
+        },
+        "Christian": {
+            "percentage": 0.11,
+            "population": 656
+        },
+        "Hindu": {
+            "percentage": 98.53,
+            "population": 609835
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 91
+        },
+        "Muslims": {
+            "percentage": 1.19,
+            "population": 7374
+        },
+        "Not Stated": {
+            "percentage": 0.09,
+            "population": 544
+        },
+        "Others": {
+            "percentage": 0.02,
+            "population": 109
+        },
+        "Sikh": {
+            "percentage": 0.05,
+            "population": 290
+        }
+    },
+    "rural": {
+        "child_population_female": 36385,
+        "child_population_male": 40333,
+        "child_population_percentage": 13.98,
+        "child_population_percentage_calculated": 13.98,
+        "child_population_percentage_stated": 13.98,
+        "child_population_total": 76718,
+        "child_sex_ratio": 902,
+        "female": 289411,
+        "literacy_rate_female": 62.21,
+        "literacy_rate_male": 89.18,
+        "literacy_rate_percentage": 74.73,
+        "literate_female": 157420,
+        "literate_male": 195356,
+        "literate_total": 352776,
+        "male": 259381,
+        "percentage_population": 88.67,
+        "population": 548792,
+        "sex_ratio": 1116
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/577-tehri-garhwal.html",
+    "urban": {
+        "child_population_female": 3638,
+        "child_population_male": 4301,
+        "child_population_percentage": 11.32,
+        "child_population_percentage_calculated": 11.32,
+        "child_population_percentage_stated": 11.32,
+        "child_population_total": 7939,
+        "child_sex_ratio": 846,
+        "female": 31534,
+        "literacy_rate_female": 83.05,
+        "literacy_rate_male": 93.43,
+        "literacy_rate_percentage": 88.77,
+        "literate_female": 23168,
+        "literate_male": 32050,
+        "literate_total": 55218,
+        "male": 38605,
+        "percentage_population": 11.33,
+        "population": 70139,
+        "sex_ratio": 817
+    }
+}

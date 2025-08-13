@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 3459,
+        "male": 3796,
+        "percentage_of_total_population": 11.25,
+        "percentage_of_total_population_calculated": 11.25,
+        "percentage_of_total_population_stated": 11.25,
+        "sex_ratio": 911,
+        "total": 7255
+    },
+    "literacy": {
+        "female_literacy_rate": 87.95,
+        "female_literate": 24530,
+        "male_literacy_rate": 95.56,
+        "male_literate": 28023,
+        "rate_percentage": 91.85,
+        "total_literate": 52553
+    },
+    "population": {
+        "female": 31350,
+        "male": 33123,
+        "sex_ratio": 946,
+        "total": 64473
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 10
+        },
+        "Christian": {
+            "percentage": 0.49,
+            "population": 317
+        },
+        "Hindu": {
+            "percentage": 2.77,
+            "population": 1788
+        },
+        "Jain": {
+            "percentage": 0.02,
+            "population": 11
+        },
+        "Muslims": {
+            "percentage": 96.58,
+            "population": 62268
+        },
+        "Not Stated": {
+            "percentage": 0.1,
+            "population": 64
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 7
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 8
+        }
+    },
+    "rural": {
+        "child_population_female": 865,
+        "child_population_male": 950,
+        "child_population_percentage": 12.84,
+        "child_population_percentage_calculated": 12.84,
+        "child_population_percentage_stated": 12.84,
+        "child_population_total": 1815,
+        "child_sex_ratio": 911,
+        "female": 6898,
+        "literacy_rate_female": 88.5,
+        "literacy_rate_male": 94.53,
+        "literacy_rate_percentage": 91.58,
+        "literate_female": 5339,
+        "literate_male": 5949,
+        "literate_total": 11288,
+        "male": 7243,
+        "percentage_population": 21.93,
+        "population": 14141,
+        "sex_ratio": 952
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/587-lakshadweep.html",
+    "urban": {
+        "child_population_female": 2593,
+        "child_population_male": 2847,
+        "child_population_percentage": 10.81,
+        "child_population_percentage_calculated": 10.81,
+        "child_population_percentage_stated": 10.81,
+        "child_population_total": 5440,
+        "child_sex_ratio": 911,
+        "female": 24452,
+        "literacy_rate_female": 87.79,
+        "literacy_rate_male": 95.84,
+        "literacy_rate_percentage": 91.92,
+        "literate_female": 19191,
+        "literate_male": 22074,
+        "literate_total": 41265,
+        "male": 25880,
+        "percentage_population": 78.07,
+        "population": 50332,
+        "sex_ratio": 945
+    }
+}

@@ -1,0 +1,129 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Rayadurg",
+  "district": "Anantapur",
+  "ac_type": "GEN",
+  "results": {
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 198167,
+        "total_votes_polled": 155855,
+        "turnout_percentage": 78.7,
+        "total_valid_votes": 155854,
+        "total_valid_votes_percentage": 78.6,
+        "margin_votes": 14091,
+        "margin_percentage": 9.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kapu Ramachandra Reddy",
+          "party": "Indian National Congress",
+          "votes": 76259,
+          "votes_percentage": 48.9
+        },
+        {
+          "position": 2,
+          "name": "Mettu Govinda Reddy",
+          "party": "Telugu Desam",
+          "votes": 62168,
+          "votes_percentage": 39.9
+        },
+        {
+          "position": 3,
+          "name": "Bosula Manohar",
+          "party": "Praja Rajyam Party",
+          "votes": 9670,
+          "votes_percentage": 6.2
+        },
+        {
+          "position": 4,
+          "name": "Palyegar Thippe Swamy",
+          "party": "Bharatiya Janta Party",
+          "votes": 2860,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 5,
+          "name": "Govinda Reddy",
+          "party": "Independent",
+          "votes": 2164,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 6,
+          "name": "Andra Prasad",
+          "party": "Lok Satta Party",
+          "votes": 1072,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "P. Mohan",
+          "party": "Bharatheeya Sadharma Samsthapana Party",
+          "votes": 885,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "C. Nagaraju",
+          "party": "Pyramid Party Of India",
+          "votes": 776,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "1989": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 139382,
+        "total_votes_polled": 95386,
+        "turnout_percentage": 68.4,
+        "margin_votes": 6550,
+        "margin_percentage": 6.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "P. Venugopal Reddy",
+          "party": "Indian National Congress",
+          "votes": 47550,
+          "votes_percentage": 52.6
+        },
+        {
+          "position": 2,
+          "name": "Kata Govindappa",
+          "party": "Telugu Desam",
+          "votes": 41000,
+          "votes_percentage": 45.4
+        },
+        {
+          "position": 3,
+          "name": "Khasim Sab",
+          "party": "Independent",
+          "votes": 858,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 4,
+          "name": "Megya Naik",
+          "party": "Independent",
+          "votes": 555,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 5,
+          "name": "Motappa",
+          "party": "Independent",
+          "votes": 409,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

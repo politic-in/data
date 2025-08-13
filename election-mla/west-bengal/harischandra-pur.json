@@ -1,0 +1,78 @@
+{
+  "state": "West Bengal",
+  "constituency": "HARISCHANDRA-PUR",
+  "district": "Maldah",
+  "ac_type": "GEN",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 212540,
+        "total_votes_polled": 170302,
+        "turnout_percentage": 81.0,
+        "margin_votes": 17857,
+        "margin_percentage": 10.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Alam Mostaque",
+          "party": "Indian National Congress",
+          "votes": 60047,
+          "votes_percentage": 35.3
+        },
+        {
+          "position": 2,
+          "name": "Tajmul Hossain",
+          "party": "All India Trinamool Congress",
+          "votes": 42190,
+          "votes_percentage": 24.8
+        },
+        {
+          "position": 3,
+          "name": "Alam Md. Rafiqul",
+          "party": "All India Forward Bloc",
+          "votes": 35075,
+          "votes_percentage": 20.6
+        },
+        {
+          "position": 4,
+          "name": "Sanvarlal Kedia",
+          "party": "Bharatiya Janta Party",
+          "votes": 25889,
+          "votes_percentage": 15.2
+        },
+        {
+          "position": 5,
+          "name": "Efrajul Hoque",
+          "party": "Bahujan Samaj Party",
+          "votes": 3460,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 6,
+          "name": "Dr. Md. Afsar Ali",
+          "party": "Social Democratic Party Of India",
+          "votes": 1869,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 7,
+          "name": "Jogen Hasda",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 1042,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "Musaraf Hossain",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 730,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

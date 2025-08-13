@@ -1,0 +1,647 @@
+{
+  "state": "Orissa",
+  "constituency": "Boudh",
+  "district": "Baudh",
+  "ac_type": "GEN",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 159759,
+        "total_votes_polled": 122590,
+        "turnout_percentage": 77.3,
+        "margin_votes": 10448,
+        "margin_percentage": 8.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pradip Kumar Amat",
+          "party": "Biju Janata Dal",
+          "votes": 61536,
+          "votes_percentage": 50.2
+        },
+        {
+          "position": 2,
+          "name": "Susanta Kumar Pradhan",
+          "party": "Bharatiya Janta Party",
+          "votes": 51088,
+          "votes_percentage": 41.7
+        },
+        {
+          "position": 3,
+          "name": "Abakash Sahoo",
+          "party": "Communist Party Of India",
+          "votes": 7119,
+          "votes_percentage": 5.8
+        },
+        {
+          "position": 4,
+          "name": "Kedarnath Sahoo",
+          "party": "Proutist Bloc India",
+          "votes": 1039,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Laxman Behera",
+          "party": "Independent",
+          "votes": 910,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Kruttibas Palia",
+          "party": "Nationalist Congress Party",
+          "votes": 898,
+          "votes_percentage": 0.7
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "10 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 139518,
+        "total_votes_polled": 112349,
+        "turnout_percentage": 80.5,
+        "total_valid_votes": 111403,
+        "total_valid_votes_percentage": 79.8,
+        "margin_votes": 11148,
+        "margin_percentage": 9.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pradip Kumar Amat",
+          "party": "Biju Janata Dal",
+          "votes": 54618,
+          "votes_percentage": 49.0
+        },
+        {
+          "position": 2,
+          "name": "Susanta Kumar Pradhan",
+          "party": "Indian National Congress",
+          "votes": 43470,
+          "votes_percentage": 39.0
+        },
+        {
+          "position": 3,
+          "name": "Surya Narayan Mahapatra",
+          "party": "Bharatiya Janta Party",
+          "votes": 8597,
+          "votes_percentage": 7.7
+        },
+        {
+          "position": 4,
+          "name": "Abakash Sahoo",
+          "party": "Communist Party Of India",
+          "votes": 1265,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Samaresh Mishra",
+          "party": "Aam Aadmi Party",
+          "votes": 571,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Sasta Kumar Purohit",
+          "party": "Indian Citizens' Party",
+          "votes": 564,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Sana Pradhan",
+          "party": "Paschimanchal Vikas Party",
+          "votes": 498,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Bijaya Kumar Behera",
+          "party": "Independent",
+          "votes": 492,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Banamali Bhabasagara",
+          "party": "Independent",
+          "votes": 475,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 10,
+          "name": "Lakshman Behera",
+          "party": "Independent",
+          "votes": 432,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 11,
+          "name": "Gangadhara Hansa",
+          "party": "Bahujan Samaj Party",
+          "votes": 421,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 13,
+      "aggregate": {
+        "total_electors": 133579,
+        "total_votes_polled": 97708,
+        "turnout_percentage": 73.1,
+        "margin_votes": 28207,
+        "margin_percentage": 28.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pradip Kumar Amat",
+          "party": "Biju Janata Dal",
+          "votes": 49439,
+          "votes_percentage": 50.6
+        },
+        {
+          "position": 2,
+          "name": "Susanta Kumar Pradhan",
+          "party": "Independent",
+          "votes": 21232,
+          "votes_percentage": 21.7
+        },
+        {
+          "position": 3,
+          "name": "Narendra Kumar Panigrahi",
+          "party": "Indian National Congress",
+          "votes": 15895,
+          "votes_percentage": 16.2
+        },
+        {
+          "position": 4,
+          "name": "Santanu Kumar Pradhan",
+          "party": "Bharatiya Janta Party",
+          "votes": 4666,
+          "votes_percentage": 4.8
+        },
+        {
+          "position": 5,
+          "name": "Budhadev Pradhan",
+          "party": "Independent",
+          "votes": 1028,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Gangadhar Hansa",
+          "party": "Bahujan Samaj Party",
+          "votes": 1005,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 7,
+          "name": "Puspita Pattanayak",
+          "party": "Samruddha Odisha",
+          "votes": 958,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 8,
+          "name": "Gitanjali Bagha",
+          "party": "Samajwadi Party",
+          "votes": 770,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 9,
+          "name": "Rameswar Nayak",
+          "party": "Independent",
+          "votes": 767,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 10,
+          "name": "Baroj Kumar Behera",
+          "party": "Independent",
+          "votes": 659,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 11,
+          "name": "Rasmi Prasad Behera",
+          "party": "Independent",
+          "votes": 444,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 12,
+          "name": "Kishore Chandra Bhoi",
+          "party": "Independent",
+          "votes": 439,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 13,
+          "name": "Sanjay Behera",
+          "party": "Independent",
+          "votes": 406,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "2004": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 165693,
+        "total_votes_polled": 107253,
+        "turnout_percentage": 64.7,
+        "margin_votes": 11036,
+        "margin_percentage": 10.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pradip Kumar Amat",
+          "party": "Biju Janata Dal",
+          "votes": 41475,
+          "votes_percentage": 38.7
+        },
+        {
+          "position": 2,
+          "name": "Sujit Kumar Padhi",
+          "party": "Indian National Congress",
+          "votes": 30439,
+          "votes_percentage": 28.4
+        },
+        {
+          "position": 3,
+          "name": "Harinarayan Pradhan",
+          "party": "Independent",
+          "votes": 17135,
+          "votes_percentage": 16.0
+        },
+        {
+          "position": 4,
+          "name": "Sachidananda Dalal",
+          "party": "Independent",
+          "votes": 7581,
+          "votes_percentage": 7.1
+        },
+        {
+          "position": 5,
+          "name": "Naba Kumar Mishra",
+          "party": "Independent",
+          "votes": 6696,
+          "votes_percentage": 6.3
+        },
+        {
+          "position": 6,
+          "name": "Gangadhar Hansa",
+          "party": "Bahujan Samaj Party",
+          "votes": 3748,
+          "votes_percentage": 3.5
+        }
+      ]
+    },
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 151090,
+        "total_votes_polled": 93215,
+        "turnout_percentage": 61.7,
+        "margin_votes": 875,
+        "margin_percentage": 0.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pradip Kumar Amat",
+          "party": "Independent",
+          "votes": 31247,
+          "votes_percentage": 33.9
+        },
+        {
+          "position": 2,
+          "name": "Sujit Kumar Padhi",
+          "party": "Indian National Congress",
+          "votes": 30372,
+          "votes_percentage": 33.0
+        },
+        {
+          "position": 3,
+          "name": "Satchidananda Dalal",
+          "party": "Biju Janata Dal",
+          "votes": 29338,
+          "votes_percentage": 31.8
+        },
+        {
+          "position": 4,
+          "name": "Gangadhar Hansa",
+          "party": "Bahujan Samaj Party",
+          "votes": 804,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Biranchi Narayan Bagh",
+          "party": "Independent",
+          "votes": 378,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "1995": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 143475,
+        "total_votes_polled": 113695,
+        "turnout_percentage": 79.2,
+        "margin_votes": 2491,
+        "margin_percentage": 2.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Satchidananda Dalal",
+          "party": "Janata Dal",
+          "votes": 44423,
+          "votes_percentage": 40.4
+        },
+        {
+          "position": 2,
+          "name": "Naba Kumar Mishra",
+          "party": "Indian National Congress",
+          "votes": 41932,
+          "votes_percentage": 38.1
+        },
+        {
+          "position": 3,
+          "name": "Bhaskar Chandra Meher",
+          "party": "Bharatiya Janta Party",
+          "votes": 14026,
+          "votes_percentage": 12.8
+        },
+        {
+          "position": 4,
+          "name": "Soumitri Nayak",
+          "party": "Samajwadi Janata Party (RASHTRIYA)",
+          "votes": 2978,
+          "votes_percentage": 2.7
+        },
+        {
+          "position": 5,
+          "name": "Himansu Sekhar Padhy",
+          "party": "Independent",
+          "votes": 2864,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 6,
+          "name": "Kedarnath Sahu",
+          "party": "Proutist Sarva Samaj Samiti",
+          "votes": 2218,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 7,
+          "name": "Anadi Badi",
+          "party": "Independent",
+          "votes": 560,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Bishikeshan Pradhan",
+          "party": "Independent",
+          "votes": 435,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Laxman Behera",
+          "party": "Independent",
+          "votes": 354,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Manjulata Mahapatra",
+          "party": "Independent",
+          "votes": 169,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "1990": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 131123,
+        "total_votes_polled": 80033,
+        "turnout_percentage": 61.0,
+        "margin_votes": 15672,
+        "margin_percentage": 19.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Satchida Nanda Dalal",
+          "party": "Janata Dal",
+          "votes": 39815,
+          "votes_percentage": 51.0
+        },
+        {
+          "position": 2,
+          "name": "Sujit Kumar Dadhi",
+          "party": "Indian National Congress",
+          "votes": 24143,
+          "votes_percentage": 30.9
+        },
+        {
+          "position": 3,
+          "name": "Bhaskar Chandra Meher",
+          "party": "Independent",
+          "votes": 9115,
+          "votes_percentage": 11.7
+        },
+        {
+          "position": 4,
+          "name": "Nabin Prasad Dev",
+          "party": "Bharatiya Janta Party",
+          "votes": 2250,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 5,
+          "name": "Narendra Mohanty",
+          "party": "Janata Party (JP)",
+          "votes": 1855,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 6,
+          "name": "Madhusudan Rana",
+          "party": "Independent",
+          "votes": 873,
+          "votes_percentage": 1.1
+        }
+      ]
+    },
+    "1985": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 109075,
+        "total_votes_polled": 63598,
+        "turnout_percentage": 58.3,
+        "margin_votes": 8212,
+        "margin_percentage": 12.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sujit Kumar Padhi",
+          "party": "Indian National Congress",
+          "votes": 26267,
+          "votes_percentage": 42.3
+        },
+        {
+          "position": 2,
+          "name": "Girish Kumari Pradhan",
+          "party": "Janta Party",
+          "votes": 18055,
+          "votes_percentage": 29.1
+        },
+        {
+          "position": 3,
+          "name": "Girish Chandra Panda",
+          "party": "Independent",
+          "votes": 11605,
+          "votes_percentage": 18.7
+        },
+        {
+          "position": 4,
+          "name": "Dinabandhu Hota",
+          "party": "Bharatiya Janta Party",
+          "votes": 2513,
+          "votes_percentage": 4.1
+        },
+        {
+          "position": 5,
+          "name": "Anadi Badi",
+          "party": "Independent",
+          "votes": 1362,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 6,
+          "name": "Pradosh Kumar Mishra",
+          "party": "Independent",
+          "votes": 954,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 7,
+          "name": "Narayan Sahu",
+          "party": "Independent",
+          "votes": 654,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 8,
+          "name": "Banamali Panigrahi",
+          "party": "Independent",
+          "votes": 447,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 9,
+          "name": "Prahallad Rai Agrawala",
+          "party": "Independent",
+          "votes": 224,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 102155,
+        "total_votes_polled": 60371,
+        "turnout_percentage": 59.1,
+        "margin_votes": 11796,
+        "margin_percentage": 19.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Himanshu Sekhar Pandhi",
+          "party": "Indian National Congress (I)",
+          "votes": 33959,
+          "votes_percentage": 58.4
+        },
+        {
+          "position": 2,
+          "name": "Natabar Pradhan",
+          "party": "Janata Party (SECULAR) - CH. CHARAN SINGH",
+          "votes": 22163,
+          "votes_percentage": 38.1
+        },
+        {
+          "position": 3,
+          "name": "Narayan Prasad Sahu",
+          "party": "Independent",
+          "votes": 2079,
+          "votes_percentage": 3.6
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 93397,
+        "total_votes_polled": 55283,
+        "turnout_percentage": 59.2,
+        "margin_votes": 11602,
+        "margin_percentage": 21.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Natabar Pradhan",
+          "party": "Janta Party",
+          "votes": 32530,
+          "votes_percentage": 60.9
+        },
+        {
+          "position": 2,
+          "name": "Himansu Sekhar Padhi",
+          "party": "Indian National Congress",
+          "votes": 20928,
+          "votes_percentage": 39.2
+        }
+      ]
+    }
+  }
+}

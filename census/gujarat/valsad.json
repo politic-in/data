@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 103523,
+        "male": 111916,
+        "percentage_of_total_population": 12.63,
+        "percentage_of_total_population_calculated": 12.63,
+        "percentage_of_total_population_stated": 12.63,
+        "sex_ratio": 925,
+        "total": 215439
+    },
+    "literacy": {
+        "female_literacy_rate": 72.06,
+        "female_literate": 515129,
+        "male_literacy_rate": 84.55,
+        "male_literate": 655528,
+        "rate_percentage": 78.55,
+        "total_literate": 1170657
+    },
+    "population": {
+        "female": 818456,
+        "male": 887222,
+        "sex_ratio": 922,
+        "total": 1705678
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.05,
+            "population": 913
+        },
+        "Christian": {
+            "percentage": 1.15,
+            "population": 19661
+        },
+        "Hindu": {
+            "percentage": 92.11,
+            "population": 1571147
+        },
+        "Jain": {
+            "percentage": 0.81,
+            "population": 13809
+        },
+        "Muslims": {
+            "percentage": 5.51,
+            "population": 94034
+        },
+        "Not Stated": {
+            "percentage": 0.18,
+            "population": 3108
+        },
+        "Others": {
+            "percentage": 0.08,
+            "population": 1417
+        },
+        "Sikh": {
+            "percentage": 0.09,
+            "population": 1589
+        }
+    },
+    "rural": {
+        "child_population_female": 69114,
+        "child_population_male": 72995,
+        "child_population_percentage": 13.28,
+        "child_population_percentage_calculated": 13.28,
+        "child_population_percentage_stated": 13.28,
+        "child_population_total": 142109,
+        "child_sex_ratio": 947,
+        "female": 527533,
+        "literacy_rate_female": 65.2,
+        "literacy_rate_male": 79.27,
+        "literacy_rate_percentage": 72.32,
+        "literate_female": 298896,
+        "literate_male": 372309,
+        "literate_total": 671205,
+        "male": 542644,
+        "percentage_population": 62.74,
+        "population": 1070177,
+        "sex_ratio": 972
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/205-valsad.html",
+    "urban": {
+        "child_population_female": 34436,
+        "child_population_male": 38894,
+        "child_population_percentage": 11.54,
+        "child_population_percentage_calculated": 11.54,
+        "child_population_percentage_stated": 11.54,
+        "child_population_total": 73330,
+        "child_sex_ratio": 885,
+        "female": 290923,
+        "literacy_rate_female": 84.31,
+        "literacy_rate_male": 92.65,
+        "literacy_rate_percentage": 88.84,
+        "literate_female": 216233,
+        "literate_male": 283219,
+        "literate_total": 499452,
+        "male": 344578,
+        "percentage_population": 37.26,
+        "population": 635501,
+        "sex_ratio": 844
+    }
+}

@@ -1,0 +1,512 @@
+{
+  "state": "Assam",
+  "constituency": "Doom Dooma",
+  "district": "Tinsukia",
+  "ac_type": "GEN",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 123696,
+        "total_votes_polled": 100075,
+        "turnout_percentage": 83.6,
+        "margin_votes": 782,
+        "margin_percentage": 0.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Durga Bhumij",
+          "party": "Indian National Congress",
+          "votes": 46938,
+          "votes_percentage": 46.9
+        },
+        {
+          "position": 2,
+          "name": "Dilip Moran",
+          "party": "Bharatiya Janta Party",
+          "votes": 46156,
+          "votes_percentage": 46.1
+        },
+        {
+          "position": 3,
+          "name": "Hrishikesh Baruah",
+          "party": "Independent",
+          "votes": 1481,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 4,
+          "name": "Monoj Kumar Sawashi",
+          "party": "Jan Congress Party",
+          "votes": 1443,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 5,
+          "name": "Rajesh Karmakar",
+          "party": "Independent",
+          "votes": 1441,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 6,
+          "name": "Sarfaraz Alam",
+          "party": "Independent",
+          "votes": 846,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 7,
+          "name": "Isab Hussain",
+          "party": "Independent",
+          "votes": 642,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "Ranjit Singh Gorh",
+          "party": "Independent",
+          "votes": 571,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 9,
+          "name": "Bhaba Kanta Chutia",
+          "party": "Independent",
+          "votes": 557,
+          "votes_percentage": 0.6
+        }
+      ]
+    },
+    "2006": {
+      "poll_date": "04 March 2006",
+      "counting_date": "05 November 2006",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 124267,
+        "total_votes_polled": 88828,
+        "turnout_percentage": 71.5,
+        "margin_votes": 1996,
+        "margin_percentage": 2.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Durga Bhumij",
+          "party": "Indian National Congress",
+          "votes": 24255,
+          "votes_percentage": 27.3
+        },
+        {
+          "position": 2,
+          "name": "Dilip Moran",
+          "party": "Bharatiya Janta Party",
+          "votes": 22259,
+          "votes_percentage": 25.1
+        },
+        {
+          "position": 3,
+          "name": "Dileswar Tanti",
+          "party": "Nationalist Congress Party",
+          "votes": 17299,
+          "votes_percentage": 19.5
+        },
+        {
+          "position": 4,
+          "name": "Naren Hazarika",
+          "party": "Asom Gana Parisad",
+          "votes": 12709,
+          "votes_percentage": 14.3
+        },
+        {
+          "position": 5,
+          "name": "Ranjoy Tanti",
+          "party": "Independent",
+          "votes": 5119,
+          "votes_percentage": 5.8
+        },
+        {
+          "position": 6,
+          "name": "Juga Arandhara",
+          "party": "Independent",
+          "votes": 3466,
+          "votes_percentage": 3.9
+        },
+        {
+          "position": 7,
+          "name": "Deva Barman",
+          "party": "Independent",
+          "votes": 1611,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 8,
+          "name": "Bulbul Gowala",
+          "party": "Assam United Democratic Front",
+          "votes": 1110,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 9,
+          "name": "Ratna Bordoloi",
+          "party": "Asom Gana Parishad Pragtisheel",
+          "votes": 995,
+          "votes_percentage": 1.1
+        }
+      ]
+    },
+    "2001": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 104812,
+        "total_votes_polled": 70671,
+        "turnout_percentage": 67.4,
+        "margin_votes": 37878,
+        "margin_percentage": 53.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dileswar Tanti",
+          "party": "Indian National Congress",
+          "votes": 52846,
+          "votes_percentage": 77.9
+        },
+        {
+          "position": 2,
+          "name": "Pratap Tanty",
+          "party": "Asom Gana Parisad",
+          "votes": 14968,
+          "votes_percentage": 22.1
+        }
+      ]
+    },
+    "1996": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 95564,
+        "total_votes_polled": 65829,
+        "turnout_percentage": 68.9,
+        "margin_votes": 29960,
+        "margin_percentage": 45.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dileswar Tanti",
+          "party": "Indian National Congress",
+          "votes": 40505,
+          "votes_percentage": 67.2
+        },
+        {
+          "position": 2,
+          "name": "Haradhan Kumar",
+          "party": "Asom Gana Parisad",
+          "votes": 10545,
+          "votes_percentage": 17.5
+        },
+        {
+          "position": 3,
+          "name": "Golok Deka",
+          "party": "Bharatiya Janta Party",
+          "votes": 3918,
+          "votes_percentage": 6.5
+        },
+        {
+          "position": 4,
+          "name": "Bipin Ch. Baruah",
+          "party": "All India Indira Congress (TIWARI)",
+          "votes": 3375,
+          "votes_percentage": 5.6
+        },
+        {
+          "position": 5,
+          "name": "Ranjit Tanti",
+          "party": "Janata Dal",
+          "votes": 1010,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 6,
+          "name": "Sagawan",
+          "party": "Independent",
+          "votes": 587,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 7,
+          "name": "Ramkrishna Sonar",
+          "party": "Independent",
+          "votes": 365,
+          "votes_percentage": 0.6
+        }
+      ]
+    },
+    "1991": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 90335,
+        "total_votes_polled": 59105,
+        "turnout_percentage": 65.4,
+        "margin_votes": 29687,
+        "margin_percentage": 50.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dileswar Tanti",
+          "party": "Indian National Congress",
+          "votes": 36679,
+          "votes_percentage": 69.0
+        },
+        {
+          "position": 2,
+          "name": "Monoj Manki",
+          "party": "Asom Gana Parisad",
+          "votes": 6992,
+          "votes_percentage": 13.1
+        },
+        {
+          "position": 3,
+          "name": "Padma Moran",
+          "party": "Jharkhand Party",
+          "votes": 2802,
+          "votes_percentage": 5.3
+        },
+        {
+          "position": 4,
+          "name": "Jitan Pathak",
+          "party": "Natun Asom Gana Parishad",
+          "votes": 2342,
+          "votes_percentage": 4.4
+        },
+        {
+          "position": 5,
+          "name": "Churamoni Tanti",
+          "party": "Bharatiya Janta Party",
+          "votes": 2194,
+          "votes_percentage": 4.1
+        },
+        {
+          "position": 6,
+          "name": "Sandip Kr. Sarmah",
+          "party": "Janata Dal",
+          "votes": 680,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 7,
+          "name": "Simson Hansa",
+          "party": "Independent",
+          "votes": 531,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 8,
+          "name": "Ram Krishna Sonar",
+          "party": "Independent",
+          "votes": 358,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 9,
+          "name": "Cheniram Moran",
+          "party": "Independent",
+          "votes": 303,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 10,
+          "name": "Naba Barman",
+          "party": "Independent",
+          "votes": 213,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 11,
+          "name": "Thakur Rudra Kr. Singh",
+          "party": "Independent",
+          "votes": 99,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "1985": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 76288,
+        "total_votes_polled": 48271,
+        "turnout_percentage": 63.3,
+        "margin_votes": 11797,
+        "margin_percentage": 24.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dileswar Tanti",
+          "party": "Indian National Congress",
+          "votes": 22755,
+          "votes_percentage": 51.2
+        },
+        {
+          "position": 2,
+          "name": "Bijoy Kumar Tirky",
+          "party": "Independent",
+          "votes": 10958,
+          "votes_percentage": 24.7
+        },
+        {
+          "position": 3,
+          "name": "Lalan Kumar Singh",
+          "party": "Independent",
+          "votes": 6488,
+          "votes_percentage": 14.6
+        },
+        {
+          "position": 4,
+          "name": "Lakhu Tanti",
+          "party": "Bharatiya Janta Party",
+          "votes": 1566,
+          "votes_percentage": 3.5
+        },
+        {
+          "position": 5,
+          "name": "Bipin Ch. Baruah",
+          "party": "Independent",
+          "votes": 1339,
+          "votes_percentage": 3.0
+        },
+        {
+          "position": 6,
+          "name": "Cheniram Moran",
+          "party": "Independent",
+          "votes": 550,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 7,
+          "name": "Tarulata Bora",
+          "party": "Independent",
+          "votes": 483,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 8,
+          "name": "Gautam Tanti",
+          "party": "Indian Congress (SOCIALIST)",
+          "votes": 271,
+          "votes_percentage": 0.6
+        }
+      ]
+    },
+    "1983": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 61639,
+        "total_votes_polled": 12580,
+        "turnout_percentage": 20.4,
+        "margin_votes": 6753,
+        "margin_percentage": 53.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dileswar Tanti",
+          "party": "Indian National Congress",
+          "votes": 8531,
+          "votes_percentage": 72.2
+        },
+        {
+          "position": 2,
+          "name": "Bipin Ch. Hazarika",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 1778,
+          "votes_percentage": 15.0
+        },
+        {
+          "position": 3,
+          "name": "Malia Tanti",
+          "party": "Independent",
+          "votes": 947,
+          "votes_percentage": 8.0
+        },
+        {
+          "position": 4,
+          "name": "Padma Moran",
+          "party": "Independent",
+          "votes": 562,
+          "votes_percentage": 4.8
+        }
+      ]
+    },
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 56828,
+        "total_votes_polled": 35753,
+        "turnout_percentage": 62.9,
+        "margin_votes": 4209,
+        "margin_percentage": 11.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dileswar Tanti",
+          "party": "Indian National Congress",
+          "votes": 13023,
+          "votes_percentage": 39.2
+        },
+        {
+          "position": 2,
+          "name": "Purna Chandra Mahato",
+          "party": "Janta Party",
+          "votes": 8814,
+          "votes_percentage": 26.5
+        },
+        {
+          "position": 3,
+          "name": "Lallan Kumar Singh",
+          "party": "Independent",
+          "votes": 5078,
+          "votes_percentage": 15.3
+        },
+        {
+          "position": 4,
+          "name": "Nagendra Narayan Deka",
+          "party": "Indian National Congress (I)",
+          "votes": 4501,
+          "votes_percentage": 13.6
+        },
+        {
+          "position": 5,
+          "name": "Dhiren Moran",
+          "party": "Independent",
+          "votes": 1068,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 6,
+          "name": "Jatin Saikia",
+          "party": "Independent",
+          "votes": 742,
+          "votes_percentage": 2.2
+        }
+      ]
+    }
+  }
+}

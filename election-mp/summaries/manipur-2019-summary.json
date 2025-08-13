@@ -1,0 +1,45 @@
+{
+  "state": "Manipur",
+  "year": "2019",
+  "summary_stats": {
+    "total_electors_state": 1774325,
+    "total_votes_polled_state": 1617330,
+    "turnout_percentage_state": 91.2,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Inner Manipur",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Manipur",
+      "winning_candidate": "Dr Rajkumar Ranjan Singh",
+      "winning_party": "Bharatiya Janta Party",
+      "total_electors_ac": 855359,
+      "total_votes_ac": 759301,
+      "poll_percentage_ac": 0.0,
+      "margin": 17755,
+      "margin_percentage": 2.3,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2019/manipur/inner-manipur/10128/24/17"
+    },
+    {
+      "ac_name": "Outer Manipur",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Manipur",
+      "winning_candidate": "Lorho S. Pfoze",
+      "winning_party": "Naga Peoples Front",
+      "total_electors_ac": 918966,
+      "total_votes_ac": 858029,
+      "poll_percentage_ac": 0.0,
+      "margin": 73782,
+      "margin_percentage": 8.6,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2019/manipur/outer-manipur/10129/24/17"
+    }
+  ]
+}

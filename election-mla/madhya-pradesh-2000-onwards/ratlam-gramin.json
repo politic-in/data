@@ -1,0 +1,64 @@
+{
+  "state": "Madhya Pradesh [2000 Onwards]",
+  "constituency": "Ratlam gramin",
+  "district": "Ratlam",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 185981,
+        "total_votes_polled": 159573,
+        "turnout_percentage": 87.1,
+        "margin_votes": 5605,
+        "margin_percentage": 3.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dilip Kumar Makwana",
+          "party": "Bharatiya Janta Party",
+          "votes": 79806,
+          "votes_percentage": 50.0
+        },
+        {
+          "position": 2,
+          "name": "Thawarlal Bhuriya",
+          "party": "Indian National Congress",
+          "votes": 74201,
+          "votes_percentage": 46.5
+        },
+        {
+          "position": 3,
+          "name": "Kaluram Makwana",
+          "party": "Bahujan Samaj Party",
+          "votes": 2149,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 4,
+          "name": "Kailash Damer",
+          "party": "Shiv Sena",
+          "votes": 1341,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 5,
+          "name": "Pappu Lal Charpota",
+          "party": "All India Hindustan Congress Party",
+          "votes": 1101,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Kailashchandra Ninama",
+          "party": "Bhartiya Jan Jagrook Party",
+          "votes": 975,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

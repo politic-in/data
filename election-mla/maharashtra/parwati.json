@@ -1,0 +1,64 @@
+{
+  "state": "Maharashtra",
+  "constituency": "Parwati",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 145707,
+        "total_votes_polled": 70629,
+        "turnout_percentage": 48.5,
+        "margin_votes": 13353,
+        "margin_percentage": 18.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chavan Vasant Chhotelal",
+          "party": "Indian National Congress (I)",
+          "votes": 36233,
+          "votes_percentage": 52.0
+        },
+        {
+          "position": 2,
+          "name": "Gangurde Vishwas Krishnarao",
+          "party": "Bharatiya Janta Party",
+          "votes": 22880,
+          "votes_percentage": 32.8
+        },
+        {
+          "position": 3,
+          "name": "Matre Shankarrao Gopal",
+          "party": "Indian National Congress (U)",
+          "votes": 8509,
+          "votes_percentage": 12.2
+        },
+        {
+          "position": 4,
+          "name": "Bhosale B. D.",
+          "party": "Republican Party Of India",
+          "votes": 1072,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Dhasal Namdeo Laxman",
+          "party": "Independent",
+          "votes": 600,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Netke Rambhau",
+          "party": "Janata Party (SECULAR) RAJ NARAIN",
+          "votes": 382,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

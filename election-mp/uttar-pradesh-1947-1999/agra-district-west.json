@@ -1,0 +1,48 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "AGRA DISTRICT (WEST)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 374135,
+        "total_votes_polled": 177414,
+        "turnout_percentage": 47.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Achal Singh Seth",
+          "party": "Indian National Congress",
+          "votes": 102181,
+          "votes_percentage": 57.6
+        },
+        {
+          "position": 2,
+          "name": "Krishan Dutt Paliwal",
+          "party": "Independent",
+          "votes": 45882,
+          "votes_percentage": 25.9
+        },
+        {
+          "position": 3,
+          "name": "S. C. Sarkar",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 18101,
+          "votes_percentage": 10.2
+        },
+        {
+          "position": 4,
+          "name": "Keshav Chand Gupta",
+          "party": "Independent",
+          "votes": 11250,
+          "votes_percentage": 6.3
+        }
+      ]
+    }
+  }
+}

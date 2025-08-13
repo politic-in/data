@@ -1,0 +1,99 @@
+{
+  "state": "West Bengal",
+  "constituency": "Dhanekhali",
+  "district": "Hugli",
+  "ac_type": "SC",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 262855,
+        "total_votes_polled": 231656,
+        "turnout_percentage": 89.0,
+        "margin_votes": 30159,
+        "margin_percentage": 13.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Asima Patra",
+          "party": "All India Trinamool Congress",
+          "votes": 124776,
+          "votes_percentage": 53.9
+        },
+        {
+          "position": 2,
+          "name": "Tusar Kumar Majumdar",
+          "party": "Bharatiya Janta Party",
+          "votes": 94617,
+          "votes_percentage": 40.8
+        },
+        {
+          "position": 3,
+          "name": "Anirban Saha",
+          "party": "Indian National Congress",
+          "votes": 9033,
+          "votes_percentage": 3.9
+        },
+        {
+          "position": 4,
+          "name": "Sajal Kumar De",
+          "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+          "votes": 3230,
+          "votes_percentage": 1.4
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 222562,
+        "total_votes_polled": 196433,
+        "turnout_percentage": 88.3,
+        "margin_votes": 16277,
+        "margin_percentage": 8.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Asima Patra",
+          "party": "All India Trinamool Congress",
+          "votes": 100529,
+          "votes_percentage": 51.2
+        },
+        {
+          "position": 2,
+          "name": "Shrabani Sarkar",
+          "party": "All India Forward Bloc",
+          "votes": 84252,
+          "votes_percentage": 42.9
+        },
+        {
+          "position": 3,
+          "name": "Kripasindhu Roy",
+          "party": "Bharatiya Janta Party",
+          "votes": 4334,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 4,
+          "name": "Tarun Bauldas",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 4276,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 5,
+          "name": "Amit Mandal",
+          "party": "Jharkhand Disom Party",
+          "votes": 3042,
+          "votes_percentage": 1.6
+        }
+      ]
+    }
+  }
+}

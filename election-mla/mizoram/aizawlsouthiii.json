@@ -1,0 +1,57 @@
+{
+  "state": "Mizoram",
+  "constituency": "AIZAWLSOUTHIII",
+  "district": "Aizawl",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 19131,
+        "total_votes_polled": 17335,
+        "turnout_percentage": 90.9,
+        "margin_votes": 2088,
+        "margin_percentage": 12.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "F. Lalnunmawia",
+          "party": "Mizo National Front",
+          "votes": 7558,
+          "votes_percentage": 43.6
+        },
+        {
+          "position": 2,
+          "name": "K.S Thanga",
+          "party": "Indian National Congress",
+          "votes": 5470,
+          "votes_percentage": 31.6
+        },
+        {
+          "position": 3,
+          "name": "Rd Lalrammawia",
+          "party": "Independent",
+          "votes": 3175,
+          "votes_percentage": 18.3
+        },
+        {
+          "position": 4,
+          "name": "F. Lalremsangi",
+          "party": "Bharatiya Janta Party",
+          "votes": 1046,
+          "votes_percentage": 6.0
+        },
+        {
+          "position": 5,
+          "name": "Tlangngaihthanga",
+          "party": "Independent",
+          "votes": 86,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

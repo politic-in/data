@@ -1,0 +1,64 @@
+{
+  "state": "Madhya Pradesh [1947   1999]",
+  "constituency": "SHAHJAPUR",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 503266,
+        "total_votes_polled": 289381,
+        "turnout_percentage": 57.5,
+        "margin_votes": 39904,
+        "margin_percentage": 13.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "P. Baboorao",
+          "party": "Bhartiya Jan Sangh",
+          "votes": 133652,
+          "votes_percentage": 46.2
+        },
+        {
+          "position": 2,
+          "name": "L. Joshi",
+          "party": "Indian National Congress",
+          "votes": 93748,
+          "votes_percentage": 32.4
+        },
+        {
+          "position": 3,
+          "name": "Y. Khan",
+          "party": "Independent",
+          "votes": 16204,
+          "votes_percentage": 5.6
+        },
+        {
+          "position": 4,
+          "name": "Mangilal",
+          "party": "Independent",
+          "votes": 15136,
+          "votes_percentage": 5.2
+        },
+        {
+          "position": 5,
+          "name": "Jagannath",
+          "party": "Independent",
+          "votes": 7749,
+          "votes_percentage": 2.7
+        },
+        {
+          "position": 6,
+          "name": "Onkarbaksh",
+          "party": "Independent",
+          "votes": 5727,
+          "votes_percentage": 2.0
+        }
+      ]
+    }
+  }
+}

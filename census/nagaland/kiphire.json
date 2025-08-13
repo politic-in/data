@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 7159,
+        "male": 7552,
+        "percentage_of_total_population": 19.88,
+        "percentage_of_total_population_calculated": 19.88,
+        "percentage_of_total_population_stated": 19.88,
+        "sex_ratio": 948,
+        "total": 14711
+    },
+    "literacy": {
+        "female_literacy_rate": 63.96,
+        "female_literate": 18557,
+        "male_literacy_rate": 74.88,
+        "male_literate": 22675,
+        "rate_percentage": 69.54,
+        "total_literate": 41232
+    },
+    "population": {
+        "female": 36174,
+        "male": 37830,
+        "sex_ratio": 956,
+        "total": 74004
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.28,
+            "population": 210
+        },
+        "Christian": {
+            "percentage": 97.03,
+            "population": 71803
+        },
+        "Hindu": {
+            "percentage": 1.41,
+            "population": 1040
+        },
+        "Jain": {
+            "percentage": 0.0,
+            "population": 1
+        },
+        "Muslims": {
+            "percentage": 0.76,
+            "population": 564
+        },
+        "Not Stated": {
+            "percentage": 0.5,
+            "population": 372
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 1
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 13
+        }
+    },
+    "rural": {
+        "child_population_female": 5723,
+        "child_population_male": 6064,
+        "child_population_percentage": 20.49,
+        "child_population_percentage_calculated": 20.49,
+        "child_population_percentage_stated": 20.49,
+        "child_population_total": 11787,
+        "child_sex_ratio": 944,
+        "female": 28274,
+        "literacy_rate_female": 58.23,
+        "literacy_rate_male": 70.13,
+        "literacy_rate_percentage": 64.26,
+        "literate_female": 13132,
+        "literate_male": 16255,
+        "literate_total": 29387,
+        "male": 29243,
+        "percentage_population": 77.72,
+        "population": 57517,
+        "sex_ratio": 967
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/616-kiphire.html",
+    "urban": {
+        "child_population_female": 1438,
+        "child_population_male": 1486,
+        "child_population_percentage": 17.74,
+        "child_population_percentage_calculated": 17.74,
+        "child_population_percentage_stated": 17.74,
+        "child_population_total": 2924,
+        "child_sex_ratio": 968,
+        "female": 7900,
+        "literacy_rate_female": 83.95,
+        "literacy_rate_male": 90.41,
+        "literacy_rate_percentage": 87.33,
+        "literate_female": 5425,
+        "literate_male": 6420,
+        "literate_total": 11845,
+        "male": 8587,
+        "percentage_population": 22.28,
+        "population": 16487,
+        "sex_ratio": 920
+    }
+}

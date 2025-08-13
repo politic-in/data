@@ -1,0 +1,43 @@
+{
+  "state": "Kerala",
+  "constituency": "Shertalai",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 76539,
+        "total_votes_polled": 65197,
+        "turnout_percentage": 85.2,
+        "margin_votes": 11760,
+        "margin_percentage": 18.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "M. K. Raghavan",
+          "party": "Indian National Congress",
+          "votes": 37767,
+          "votes_percentage": 58.7
+        },
+        {
+          "position": 2,
+          "name": "N. P. Thandar",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 26007,
+          "votes_percentage": 40.4
+        },
+        {
+          "position": 3,
+          "name": "Rajagopala Kartha",
+          "party": "Independent",
+          "votes": 572,
+          "votes_percentage": 0.9
+        }
+      ]
+    }
+  }
+}

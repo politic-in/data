@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 253344,
+        "male": 273886,
+        "percentage_of_total_population": 13.01,
+        "percentage_of_total_population_calculated": 13.01,
+        "percentage_of_total_population_stated": 13.01,
+        "sex_ratio": 925,
+        "total": 527230
+    },
+    "literacy": {
+        "female_literacy_rate": 44.72,
+        "female_literate": 782260,
+        "male_literacy_rate": 65.21,
+        "male_literate": 1158386,
+        "rate_percentage": 55.04,
+        "total_literate": 1940646
+    },
+    "population": {
+        "female": 2002642,
+        "male": 2050386,
+        "sex_ratio": 977,
+        "total": 4053028
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 290
+        },
+        "Christian": {
+            "percentage": 0.53,
+            "population": 21345
+        },
+        "Hindu": {
+            "percentage": 90.63,
+            "population": 3673456
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 388
+        },
+        "Muslims": {
+            "percentage": 8.24,
+            "population": 334172
+        },
+        "Not Stated": {
+            "percentage": 0.55,
+            "population": 22452
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 267
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 658
+        }
+    },
+    "rural": {
+        "child_population_female": 219290,
+        "child_population_male": 237506,
+        "child_population_percentage": 13.26,
+        "child_population_percentage_calculated": 13.26,
+        "child_population_percentage_stated": 13.26,
+        "child_population_total": 456796,
+        "child_sex_ratio": 923,
+        "female": 1702898,
+        "literacy_rate_female": 40.15,
+        "literacy_rate_male": 61.54,
+        "literacy_rate_percentage": 50.92,
+        "literate_female": 595613,
+        "literate_male": 926165,
+        "literate_total": 1521778,
+        "male": 1742438,
+        "percentage_population": 85.01,
+        "population": 3445336,
+        "sex_ratio": 977
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/124-mahbubnagar.html",
+    "urban": {
+        "child_population_female": 34026,
+        "child_population_male": 36408,
+        "child_population_percentage": 11.59,
+        "child_population_percentage_calculated": 11.59,
+        "child_population_percentage_stated": 11.59,
+        "child_population_total": 70434,
+        "child_sex_ratio": 935,
+        "female": 299744,
+        "literacy_rate_female": 70.24,
+        "literacy_rate_male": 85.52,
+        "literacy_rate_percentage": 77.96,
+        "literate_female": 186647,
+        "literate_male": 232221,
+        "literate_total": 418868,
+        "male": 307948,
+        "percentage_population": 14.99,
+        "population": 607692,
+        "sex_ratio": 973
+    }
+}

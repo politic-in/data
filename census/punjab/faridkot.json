@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 31866,
+        "male": 37445,
+        "percentage_of_total_population": 11.22,
+        "percentage_of_total_population_calculated": 11.22,
+        "percentage_of_total_population_stated": 11.22,
+        "sex_ratio": 851,
+        "total": 69311
+    },
+    "literacy": {
+        "female_literacy_rate": 63.91,
+        "female_literate": 165518,
+        "male_literacy_rate": 74.6,
+        "male_literate": 215767,
+        "rate_percentage": 69.55,
+        "total_literate": 381285
+    },
+    "population": {
+        "female": 290837,
+        "male": 326671,
+        "sex_ratio": 890,
+        "total": 617508
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.03,
+            "population": 155
+        },
+        "Christian": {
+            "percentage": 0.2,
+            "population": 1227
+        },
+        "Hindu": {
+            "percentage": 22.89,
+            "population": 141363
+        },
+        "Jain": {
+            "percentage": 0.18,
+            "population": 1109
+        },
+        "Muslims": {
+            "percentage": 0.51,
+            "population": 3125
+        },
+        "Not Stated": {
+            "percentage": 0.1,
+            "population": 637
+        },
+        "Others": {
+            "percentage": 0.02,
+            "population": 103
+        },
+        "Sikh": {
+            "percentage": 76.08,
+            "population": 469789
+        }
+    },
+    "rural": {
+        "child_population_female": 20604,
+        "child_population_male": 24118,
+        "child_population_percentage": 11.17,
+        "child_population_percentage_calculated": 11.17,
+        "child_population_percentage_stated": 11.17,
+        "child_population_total": 44722,
+        "child_sex_ratio": 854,
+        "female": 189675,
+        "literacy_rate_female": 58.85,
+        "literacy_rate_male": 69.8,
+        "literacy_rate_percentage": 64.6,
+        "literate_female": 99499,
+        "literate_male": 130300,
+        "literate_total": 229799,
+        "male": 210782,
+        "percentage_population": 64.85,
+        "population": 400457,
+        "sex_ratio": 900
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/598-faridkot.html",
+    "urban": {
+        "child_population_female": 11253,
+        "child_population_male": 13336,
+        "child_population_percentage": 11.33,
+        "child_population_percentage_calculated": 11.33,
+        "child_population_percentage_stated": 11.33,
+        "child_population_total": 24589,
+        "child_sex_ratio": 844,
+        "female": 101162,
+        "literacy_rate_female": 73.43,
+        "literacy_rate_male": 83.34,
+        "literacy_rate_percentage": 78.71,
+        "literate_female": 66019,
+        "literate_male": 85467,
+        "literate_total": 151486,
+        "male": 115889,
+        "percentage_population": 35.15,
+        "population": 217051,
+        "sex_ratio": 873
+    }
+}

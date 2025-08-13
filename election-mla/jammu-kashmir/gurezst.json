@@ -1,0 +1,57 @@
+{
+  "state": "Jammu & Kashmir",
+  "constituency": "GUREZ(ST)",
+  "district": "Bandipore",
+  "ac_type": "GEN",
+  "results": {
+    "2024": {
+      "poll_date": "08 October 2024",
+      "counting_date": "08 October 2024",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 22131,
+        "total_votes_polled": 17812,
+        "turnout_percentage": 81.2,
+        "margin_votes": 1132,
+        "margin_percentage": 6.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nazir Ahmad Khan",
+          "party": "Jammu & Kashmir National Conference",
+          "votes": 8378,
+          "votes_percentage": 46.6
+        },
+        {
+          "position": 2,
+          "name": "Faqeer Mohammad Khan",
+          "party": "Bharatiya Janta Party",
+          "votes": 7246,
+          "votes_percentage": 40.3
+        },
+        {
+          "position": 3,
+          "name": "Nisar Ahmad Lone",
+          "party": "Democratic Progressive Azad Party",
+          "votes": 1966,
+          "votes_percentage": 11.0
+        },
+        {
+          "position": 5,
+          "name": "Ghulam Rasool",
+          "party": "Independent",
+          "votes": 113,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Mohammad Hamza Lone",
+          "party": "Jammu & Kashmir People Conference",
+          "votes": 109,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

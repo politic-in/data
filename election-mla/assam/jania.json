@@ -1,0 +1,883 @@
+{
+  "state": "Assam",
+  "constituency": "Jania",
+  "district": "Barpeta",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 12,
+      "aggregate": {
+        "total_electors": 188203,
+        "total_votes_polled": 183725,
+        "turnout_percentage": 98.1,
+        "margin_votes": 144775,
+        "margin_percentage": 78.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rafiqul Islam",
+          "party": "All India United Democratic Front",
+          "votes": 156183,
+          "votes_percentage": 85.0
+        },
+        {
+          "position": 2,
+          "name": "Shahidul Islam",
+          "party": "Bharatiya Janta Party",
+          "votes": 11408,
+          "votes_percentage": 6.2
+        },
+        {
+          "position": 3,
+          "name": "Ashraful Islam",
+          "party": "Independent",
+          "votes": 8334,
+          "votes_percentage": 4.5
+        },
+        {
+          "position": 4,
+          "name": "Faruk Khan",
+          "party": "Independent",
+          "votes": 1838,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Raizuddin",
+          "party": "Independent",
+          "votes": 1744,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Abdul Jalil Talukdar",
+          "party": "All India Trinamool Congress",
+          "votes": 1212,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Shukur Ali",
+          "party": "Assam Jatiya Parishad",
+          "votes": 784,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Arshad Ahmed",
+          "party": "Independent",
+          "votes": 688,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Inumani Begum",
+          "party": "Independent",
+          "votes": 573,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Zinnat Ali",
+          "party": "The National Road Map Party Of India",
+          "votes": 488,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 11,
+          "name": "Mazidul Islam",
+          "party": "National Republican Congress",
+          "votes": 308,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Sheikh Jamsedur Rahman",
+          "party": "Janata Dal (United)",
+          "votes": 165,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 173410,
+        "total_votes_polled": 153442,
+        "turnout_percentage": 88.9,
+        "margin_votes": 29736,
+        "margin_percentage": 19.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Abdul Khaleque",
+          "party": "Indian National Congress",
+          "votes": 86930,
+          "votes_percentage": 56.7
+        },
+        {
+          "position": 2,
+          "name": "Rafiqul Islam",
+          "party": "All India United Democratic Front",
+          "votes": 57194,
+          "votes_percentage": 37.3
+        },
+        {
+          "position": 3,
+          "name": "Benazir Arfan",
+          "party": "Bharatiya Janta Party",
+          "votes": 6067,
+          "votes_percentage": 4.0
+        },
+        {
+          "position": 4,
+          "name": "Mainul Hoque",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 1976,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 5,
+          "name": "Amir Hussain",
+          "party": "Rashtriya Secular Congress",
+          "votes": 769,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Md. Sultan Mahmud",
+          "party": "Rashtriya Jankranti Party",
+          "votes": 506,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "04 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 136939,
+        "total_votes_polled": 114831,
+        "turnout_percentage": 83.9,
+        "margin_votes": 17514,
+        "margin_percentage": 15.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rafiqul Islam",
+          "party": "All India United Democratic Front",
+          "votes": 59978,
+          "votes_percentage": 52.2
+        },
+        {
+          "position": 2,
+          "name": "Abdul Khaleque",
+          "party": "Indian National Congress",
+          "votes": 42464,
+          "votes_percentage": 37.0
+        },
+        {
+          "position": 3,
+          "name": "Abdul Karim Bhuyan",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 6450,
+          "votes_percentage": 5.6
+        },
+        {
+          "position": 4,
+          "name": "Aynal Hoque",
+          "party": "J & K National Panthers Party",
+          "votes": 2101,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 5,
+          "name": "Upendra Ch. Arjya",
+          "party": "Bharatiya Janta Party",
+          "votes": 1290,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Nazrul Islam",
+          "party": "Asom Gana Parisad",
+          "votes": 860,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 7,
+          "name": "Shahidul Islam",
+          "party": "All India Minorities Front",
+          "votes": 745,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 8,
+          "name": "Abdul Jalil Talukdar",
+          "party": "Samajwadi Party",
+          "votes": 561,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 9,
+          "name": "Mahmud Ali Mazar Bhuiya",
+          "party": "All India Trinamool Congress",
+          "votes": 382,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2006": {
+      "poll_date": "04 March 2006",
+      "counting_date": "05 November 2006",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 121008,
+        "total_votes_polled": 97946,
+        "turnout_percentage": 80.9,
+        "margin_votes": 90,
+        "margin_percentage": 0.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Abdul Khaleque",
+          "party": "Indian National Congress",
+          "votes": 26706,
+          "votes_percentage": 27.3
+        },
+        {
+          "position": 2,
+          "name": "Mozibor Rahman Khan",
+          "party": "Assam United Democratic Front",
+          "votes": 26616,
+          "votes_percentage": 27.2
+        },
+        {
+          "position": 3,
+          "name": "Abdul Karim Bhuyan",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 20265,
+          "votes_percentage": 20.7
+        },
+        {
+          "position": 4,
+          "name": "A. Jalil Talukdar",
+          "party": "Samajwadi Party",
+          "votes": 17400,
+          "votes_percentage": 17.8
+        },
+        {
+          "position": 5,
+          "name": "Abdur Rouf",
+          "party": "Nationalist Congress Party",
+          "votes": 3077,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 6,
+          "name": "Shahidul Islam",
+          "party": "Lok Jan Shakti Party",
+          "votes": 1457,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 7,
+          "name": "Momtaz Ali Khan",
+          "party": "Bharatiya Janta Party",
+          "votes": 1298,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 8,
+          "name": "Khandakar Jafar Ali",
+          "party": "Asom Gana Parishad Pragtisheel",
+          "votes": 487,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 9,
+          "name": "Aminul Islam",
+          "party": "National Loktantrik Party",
+          "votes": 354,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 10,
+          "name": "Asir Uddin",
+          "party": "Muslim League Kerala State Committee",
+          "votes": 284,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2001": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 105845,
+        "total_votes_polled": 81818,
+        "turnout_percentage": 77.3,
+        "margin_votes": 3406,
+        "margin_percentage": 4.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Asahaque Ali",
+          "party": "Indian National Congress",
+          "votes": 27401,
+          "votes_percentage": 33.7
+        },
+        {
+          "position": 2,
+          "name": "A. Jalil Talukdar",
+          "party": "Independent",
+          "votes": 23995,
+          "votes_percentage": 29.5
+        },
+        {
+          "position": 3,
+          "name": "Mozibor Rahman Khan",
+          "party": "United Minorities Front, Assam",
+          "votes": 12544,
+          "votes_percentage": 15.4
+        },
+        {
+          "position": 4,
+          "name": "Abdul Karim Bhuyan",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 9311,
+          "votes_percentage": 11.5
+        },
+        {
+          "position": 5,
+          "name": "Abdur Rouf",
+          "party": "Independent",
+          "votes": 3856,
+          "votes_percentage": 4.8
+        },
+        {
+          "position": 6,
+          "name": "Newajul Hoque",
+          "party": "Asom Gana Parisad",
+          "votes": 2650,
+          "votes_percentage": 3.3
+        },
+        {
+          "position": 7,
+          "name": "Md. Ali Asgar",
+          "party": "Lok Jan Shakti Party",
+          "votes": 764,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 8,
+          "name": "A. Sobhan",
+          "party": "Nationalist Congress Party",
+          "votes": 504,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 9,
+          "name": "Md. Abu Chand Mahammad",
+          "party": "Samajwadi Janata Party (RASHTRIYA)",
+          "votes": 206,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "1996": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 24,
+      "aggregate": {
+        "total_electors": 80543,
+        "total_votes_polled": 70973,
+        "turnout_percentage": 88.1,
+        "margin_votes": 846,
+        "margin_percentage": 1.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Abdur Rouf",
+          "party": "United Minorities Front, Assam",
+          "votes": 14505,
+          "votes_percentage": 21.3
+        },
+        {
+          "position": 2,
+          "name": "A. Jalil Talukdar",
+          "party": "Independent",
+          "votes": 13659,
+          "votes_percentage": 20.1
+        },
+        {
+          "position": 3,
+          "name": "A. Karim Bhuyan",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 9243,
+          "votes_percentage": 13.6
+        },
+        {
+          "position": 4,
+          "name": "Badal Khan",
+          "party": "Independent",
+          "votes": 7888,
+          "votes_percentage": 11.6
+        },
+        {
+          "position": 5,
+          "name": "Mozammel Hussain",
+          "party": "Indian National Congress",
+          "votes": 4799,
+          "votes_percentage": 7.0
+        },
+        {
+          "position": 6,
+          "name": "Ataur Rahman Tarafdar",
+          "party": "Independent",
+          "votes": 3200,
+          "votes_percentage": 4.7
+        },
+        {
+          "position": 7,
+          "name": "A. Sattar Ahmed",
+          "party": "Independent",
+          "votes": 2568,
+          "votes_percentage": 3.8
+        },
+        {
+          "position": 8,
+          "name": "Asahaque Ali",
+          "party": "Independent",
+          "votes": 2427,
+          "votes_percentage": 3.6
+        },
+        {
+          "position": 9,
+          "name": "Hasmat Ali Ahmed",
+          "party": "All India Indira Congress (TIWARI)",
+          "votes": 1984,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 10,
+          "name": "Girdhari Das",
+          "party": "Independent",
+          "votes": 1411,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 11,
+          "name": "Jashimuddin Ahmed",
+          "party": "Independent",
+          "votes": 1074,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 12,
+          "name": "Mukhleswar Rahman Choudhury",
+          "party": "Independent",
+          "votes": 914,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 13,
+          "name": "M. Ibrahim Ali",
+          "party": "Indian Congress (SOCIALIST)",
+          "votes": 832,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 14,
+          "name": "Subhashis Raha Rai",
+          "party": "Bharatiya Janta Party",
+          "votes": 720,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 15,
+          "name": "Amir Hussain",
+          "party": "Independent",
+          "votes": 630,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 16,
+          "name": "Soleman Mandal",
+          "party": "Janata Dal",
+          "votes": 489,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 17,
+          "name": "Siddique Ali",
+          "party": "Samajwadi Party",
+          "votes": 450,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 18,
+          "name": "Nur Mahammad",
+          "party": "Independent",
+          "votes": 448,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 19,
+          "name": "Tamizuddin Ali Ahmed",
+          "party": "Independent",
+          "votes": 255,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 20,
+          "name": "Jaher Ali",
+          "party": "Independent",
+          "votes": 246,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 21,
+          "name": "Akela Begum",
+          "party": "Independent",
+          "votes": 176,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 22,
+          "name": "Sonauddin",
+          "party": "Independent",
+          "votes": 92,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 23,
+          "name": "Hossain Ali",
+          "party": "Independent",
+          "votes": 65,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 24,
+          "name": "Amzad Hussain",
+          "party": "Independent",
+          "votes": 54,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1991": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 12,
+      "aggregate": {
+        "total_electors": 87501,
+        "total_votes_polled": 75801,
+        "turnout_percentage": 86.6,
+        "margin_votes": 2497,
+        "margin_percentage": 3.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Asahaque Ali",
+          "party": "Independent",
+          "votes": 15492,
+          "votes_percentage": 21.7
+        },
+        {
+          "position": 2,
+          "name": "Jalil Talukdar",
+          "party": "Independent",
+          "votes": 12995,
+          "votes_percentage": 18.2
+        },
+        {
+          "position": 3,
+          "name": "Khan Abdul Gafur",
+          "party": "Indian National Congress",
+          "votes": 9045,
+          "votes_percentage": 12.7
+        },
+        {
+          "position": 4,
+          "name": "Ataur Rahman",
+          "party": "Independent",
+          "votes": 8210,
+          "votes_percentage": 11.5
+        },
+        {
+          "position": 5,
+          "name": "Eusuf Ali",
+          "party": "Independent",
+          "votes": 7602,
+          "votes_percentage": 10.7
+        },
+        {
+          "position": 6,
+          "name": "Idrish Ali",
+          "party": "Independent",
+          "votes": 5487,
+          "votes_percentage": 7.7
+        },
+        {
+          "position": 7,
+          "name": "Nurul Amin",
+          "party": "Asom Gana Parisad",
+          "votes": 3924,
+          "votes_percentage": 5.5
+        },
+        {
+          "position": 8,
+          "name": "Abu Bakkar Siddique",
+          "party": "United Reservation Movement Council Of Assam",
+          "votes": 3166,
+          "votes_percentage": 4.4
+        },
+        {
+          "position": 9,
+          "name": "Abdus Sobhan",
+          "party": "Independent",
+          "votes": 2934,
+          "votes_percentage": 4.1
+        },
+        {
+          "position": 10,
+          "name": "Nazmul Haque",
+          "party": "Independent",
+          "votes": 1252,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 11,
+          "name": "Sorhab Ali Ahmed",
+          "party": "Independent",
+          "votes": 752,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 12,
+          "name": "Abdus Sattar",
+          "party": "Independent",
+          "votes": 433,
+          "votes_percentage": 0.6
+        }
+      ]
+    },
+    "1985": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 12,
+      "aggregate": {
+        "total_electors": 72057,
+        "total_votes_polled": 64980,
+        "turnout_percentage": 90.2,
+        "margin_votes": 42255,
+        "margin_percentage": 65.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "A.F.Golam Osmani",
+          "party": "Independent",
+          "votes": 47693,
+          "votes_percentage": 75.5
+        },
+        {
+          "position": 2,
+          "name": "Kaji Anowar Hussain",
+          "party": "Independent",
+          "votes": 5438,
+          "votes_percentage": 8.6
+        },
+        {
+          "position": 3,
+          "name": "Asiruddin Ahmed",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 5159,
+          "votes_percentage": 8.2
+        },
+        {
+          "position": 4,
+          "name": "Abdus Samad Choudhury",
+          "party": "Independent",
+          "votes": 1983,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 5,
+          "name": "Mahmmad Idris Ali",
+          "party": "Indian National Congress",
+          "votes": 1323,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 6,
+          "name": "Khandakar Jafar Ali",
+          "party": "Independent",
+          "votes": 434,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Manowar Hussain",
+          "party": "Janta Party",
+          "votes": 317,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Abdul Latip",
+          "party": "Indian Congress (SOCIALIST)",
+          "votes": 298,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 9,
+          "name": "Abdur Rashid Mia",
+          "party": "Independent",
+          "votes": 258,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 10,
+          "name": "Prahlad Ch. Kalita",
+          "party": "Independent",
+          "votes": 123,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Mahammad Badal Khan",
+          "party": "Bharatiya Janta Party",
+          "votes": 82,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Hasmat Ali",
+          "party": "Independent",
+          "votes": 81,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1983": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 57088,
+        "total_votes_polled": 39560,
+        "turnout_percentage": 69.3,
+        "margin_votes": 6057,
+        "margin_percentage": 15.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Abdus Sobhan",
+          "party": "Independent",
+          "votes": 12689,
+          "votes_percentage": 33.8
+        },
+        {
+          "position": 2,
+          "name": "Faizulla",
+          "party": "Indian National Congress",
+          "votes": 6632,
+          "votes_percentage": 17.7
+        },
+        {
+          "position": 3,
+          "name": "Abdul Jalil Talukdar",
+          "party": "Independent",
+          "votes": 4051,
+          "votes_percentage": 10.8
+        },
+        {
+          "position": 4,
+          "name": "Badal Khan",
+          "party": "Independent",
+          "votes": 3937,
+          "votes_percentage": 10.5
+        },
+        {
+          "position": 5,
+          "name": "A. Latif",
+          "party": "Independent",
+          "votes": 3694,
+          "votes_percentage": 9.9
+        },
+        {
+          "position": 6,
+          "name": "Hasmat Ali",
+          "party": "Independent",
+          "votes": 3115,
+          "votes_percentage": 8.3
+        },
+        {
+          "position": 7,
+          "name": "Idris Ali",
+          "party": "Indian Congress (SOCIALIST)",
+          "votes": 2331,
+          "votes_percentage": 6.2
+        },
+        {
+          "position": 8,
+          "name": "Abul Hussain",
+          "party": "Independent",
+          "votes": 1053,
+          "votes_percentage": 2.8
+        }
+      ]
+    },
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 59540,
+        "total_votes_polled": 43688,
+        "turnout_percentage": 73.4,
+        "margin_votes": 7087,
+        "margin_percentage": 16.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Abdus Sobhan",
+          "party": "Indian National Congress (I)",
+          "votes": 20551,
+          "votes_percentage": 47.9
+        },
+        {
+          "position": 2,
+          "name": "Ataur Rahman",
+          "party": "Indian National Congress",
+          "votes": 13464,
+          "votes_percentage": 31.4
+        },
+        {
+          "position": 3,
+          "name": "Abdul Samad Choudhury",
+          "party": "Janta Party",
+          "votes": 8909,
+          "votes_percentage": 20.8
+        }
+      ]
+    }
+  }
+}

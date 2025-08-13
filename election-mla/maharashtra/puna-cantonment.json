@@ -1,0 +1,50 @@
+{
+  "state": "Maharashtra",
+  "constituency": "Puna Cantonment",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 124345,
+        "total_votes_polled": 69235,
+        "turnout_percentage": 55.7,
+        "margin_votes": 2314,
+        "margin_percentage": 3.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tupe Vithal Baburao",
+          "party": "Janata Party (JP)",
+          "votes": 27860,
+          "votes_percentage": 40.9
+        },
+        {
+          "position": 2,
+          "name": "Ghule Shivajirao Krishnaji",
+          "party": "Indian National Congress (I)",
+          "votes": 25546,
+          "votes_percentage": 37.5
+        },
+        {
+          "position": 3,
+          "name": "Jaysingh Sasane",
+          "party": "Indian National Congress (U)",
+          "votes": 12631,
+          "votes_percentage": 18.5
+        },
+        {
+          "position": 4,
+          "name": "Tupe Anantrao Bajirao",
+          "party": "Bharatiya Janta Party",
+          "votes": 2101,
+          "votes_percentage": 3.1
+        }
+      ]
+    }
+  }
+}

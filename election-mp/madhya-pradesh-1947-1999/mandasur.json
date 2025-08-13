@@ -1,0 +1,55 @@
+{
+  "state": "Madhya Pradesh [1947   1999]",
+  "constituency": "MANDASUR",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1957": {
+      "poll_date": "25 February 1957",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 362466,
+        "total_votes_polled": 156234,
+        "turnout_percentage": 43.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Manaklal",
+          "party": "Indian National Congress",
+          "votes": 78014,
+          "votes_percentage": 49.9
+        },
+        {
+          "position": 2,
+          "name": "Umashankar",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 56786,
+          "votes_percentage": 36.3
+        },
+        {
+          "position": 3,
+          "name": "Shyamsingh",
+          "party": "Independent",
+          "votes": 13697,
+          "votes_percentage": 8.8
+        },
+        {
+          "position": 4,
+          "name": "Shivdarshanlal",
+          "party": "Akhil Bharatiya Hindu Mahasabha",
+          "votes": 7737,
+          "votes_percentage": 5.0
+        },
+        {
+          "position": 5,
+          "name": "Koksingh",
+          "party": "Independent",
+          "votes": 0,
+          "votes_percentage": 0.0
+        }
+      ]
+    }
+  }
+}

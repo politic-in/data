@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 60374,
+        "male": 62498,
+        "percentage_of_total_population": 12.93,
+        "percentage_of_total_population_calculated": 12.93,
+        "percentage_of_total_population_stated": 12.93,
+        "sex_ratio": 966,
+        "total": 122872
+    },
+    "literacy": {
+        "female_literacy_rate": 61.27,
+        "female_literate": 250223,
+        "male_literacy_rate": 77.03,
+        "male_literate": 322614,
+        "rate_percentage": 69.25,
+        "total_literate": 572837
+    },
+    "population": {
+        "female": 468745,
+        "male": 481330,
+        "sex_ratio": 974,
+        "total": 950075
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.13,
+            "population": 1189
+        },
+        "Christian": {
+            "percentage": 2.85,
+            "population": 27076
+        },
+        "Hindu": {
+            "percentage": 82.4,
+            "population": 782901
+        },
+        "Jain": {
+            "percentage": 0.03,
+            "population": 239
+        },
+        "Muslims": {
+            "percentage": 14.29,
+            "population": 135750
+        },
+        "Not Stated": {
+            "percentage": 0.25,
+            "population": 2411
+        },
+        "Others": {
+            "percentage": 0.04,
+            "population": 353
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 156
+        }
+    },
+    "rural": {
+        "child_population_female": 59624,
+        "child_population_male": 61708,
+        "child_population_percentage": 12.94,
+        "child_population_percentage_calculated": 12.94,
+        "child_population_percentage_stated": 12.94,
+        "child_population_total": 121332,
+        "child_sex_ratio": 966,
+        "female": 462806,
+        "literacy_rate_female": 61.18,
+        "literacy_rate_male": 76.98,
+        "literacy_rate_percentage": 69.18,
+        "literate_female": 246680,
+        "literate_male": 318180,
+        "literate_total": 564860,
+        "male": 475027,
+        "percentage_population": 98.71,
+        "population": 937833,
+        "sex_ratio": 974
+    },
+    "sc_st_error": "Failed to parse SC/ST data from auto-found URL: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3D%2522Baksa%2Bdistrict%2522%2B%2522Assam%2522%2BSC%2BST%2Bpopulation%2Bsite%253Acensusindia.gov.in%2BOR%2Bsite%253Acensusindia.co.in&ec=GAZAAQ",
+    "source_census2011": "https://www.census2011.co.in/census/district/141-baksa.html",
+    "urban": {
+        "child_population_female": 750,
+        "child_population_male": 790,
+        "child_population_percentage": 12.58,
+        "child_population_percentage_calculated": 12.58,
+        "child_population_percentage_stated": 12.58,
+        "child_population_total": 1540,
+        "child_sex_ratio": 949,
+        "female": 5939,
+        "literacy_rate_female": 68.28,
+        "literacy_rate_male": 80.43,
+        "literacy_rate_percentage": 74.54,
+        "literate_female": 3543,
+        "literate_male": 4434,
+        "literate_total": 7977,
+        "male": 6303,
+        "percentage_population": 1.29,
+        "population": 12242,
+        "sex_ratio": 942
+    }
+}

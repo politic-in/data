@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 71724,
+        "male": 80679,
+        "percentage_of_total_population": 11.96,
+        "percentage_of_total_population_calculated": 11.96,
+        "percentage_of_total_population_stated": 11.96,
+        "sex_ratio": 889,
+        "total": 152403
+    },
+    "literacy": {
+        "female_literacy_rate": 68.64,
+        "female_literate": 375031,
+        "male_literacy_rate": 85.98,
+        "male_literate": 494425,
+        "rate_percentage": 77.53,
+        "total_literate": 869456
+    },
+    "population": {
+        "female": 618103,
+        "male": 655718,
+        "sex_ratio": 943,
+        "total": 1273821
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 226
+        },
+        "Christian": {
+            "percentage": 0.27,
+            "population": 3383
+        },
+        "Hindu": {
+            "percentage": 98.81,
+            "population": 1258684
+        },
+        "Jain": {
+            "percentage": 0.0,
+            "population": 36
+        },
+        "Muslims": {
+            "percentage": 0.59,
+            "population": 7512
+        },
+        "Not Stated": {
+            "percentage": 0.17,
+            "population": 2197
+        },
+        "Others": {
+            "percentage": 0.08,
+            "population": 971
+        },
+        "Sikh": {
+            "percentage": 0.06,
+            "population": 812
+        }
+    },
+    "rural": {
+        "child_population_female": 61798,
+        "child_population_male": 68785,
+        "child_population_percentage": 12.24,
+        "child_population_percentage_calculated": 12.24,
+        "child_population_percentage_stated": 12.24,
+        "child_population_total": 130583,
+        "child_sex_ratio": 898,
+        "female": 520890,
+        "literacy_rate_female": 66.28,
+        "literacy_rate_male": 84.75,
+        "literacy_rate_percentage": 75.7,
+        "literate_female": 304297,
+        "literate_male": 404772,
+        "literate_total": 709069,
+        "male": 546385,
+        "percentage_population": 83.79,
+        "population": 1067275,
+        "sex_ratio": 953
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/408-anugul.html",
+    "urban": {
+        "child_population_female": 9939,
+        "child_population_male": 11881,
+        "child_population_percentage": 10.56,
+        "child_population_percentage_calculated": 10.56,
+        "child_population_percentage_stated": 10.56,
+        "child_population_total": 21820,
+        "child_sex_ratio": 837,
+        "female": 97213,
+        "literacy_rate_female": 81.05,
+        "literacy_rate_male": 92.0,
+        "literacy_rate_percentage": 86.82,
+        "literate_female": 70734,
+        "literate_male": 89653,
+        "literate_total": 160387,
+        "male": 109333,
+        "percentage_population": 16.21,
+        "population": 206546,
+        "sex_ratio": 889
+    }
+}

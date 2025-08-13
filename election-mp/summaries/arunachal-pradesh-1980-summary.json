@@ -1,0 +1,45 @@
+{
+  "state": "Arunachal Pradesh",
+  "year": "1980",
+  "summary_stats": {
+    "total_electors_state": 266650,
+    "total_votes_polled_state": 182909,
+    "turnout_percentage_state": 68.6,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Arunachal East",
+      "ac_no": 2,
+      "ac_type": "GEN",
+      "district": "Arunachal Pradesh",
+      "winning_candidate": "Sobeng Tayeng",
+      "winning_party": "Indian National Congress (I)",
+      "total_electors_ac": 115007,
+      "total_votes_ac": 78311,
+      "poll_percentage_ac": 0.0,
+      "margin": 2435,
+      "margin_percentage": 3.1,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1980/arunachal-pradesh/arunachal-east/2922/41/7"
+    },
+    {
+      "ac_name": "Arunachal West",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Arunachal Pradesh",
+      "winning_candidate": "Prem Khandu Thungon",
+      "winning_party": "Indian National Congress (I)",
+      "total_electors_ac": 151643,
+      "total_votes_ac": 104598,
+      "poll_percentage_ac": 0.0,
+      "margin": 4355,
+      "margin_percentage": 4.2,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1980/arunachal-pradesh/arunachal-west/2921/41/7"
+    }
+  ]
+}

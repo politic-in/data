@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 69621,
+        "male": 81524,
+        "percentage_of_total_population": 10.89,
+        "percentage_of_total_population_calculated": 10.89,
+        "percentage_of_total_population_stated": 10.89,
+        "sex_ratio": 854,
+        "total": 151145
+    },
+    "literacy": {
+        "female_literacy_rate": 61.94,
+        "female_literate": 356607,
+        "male_literacy_rate": 73.79,
+        "male_literate": 488261,
+        "rate_percentage": 68.28,
+        "total_literate": 844868
+    },
+    "population": {
+        "female": 645328,
+        "male": 743197,
+        "sex_ratio": 868,
+        "total": 1388525
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 246
+        },
+        "Christian": {
+            "percentage": 0.18,
+            "population": 2474
+        },
+        "Hindu": {
+            "percentage": 27.41,
+            "population": 380569
+        },
+        "Jain": {
+            "percentage": 0.09,
+            "population": 1266
+        },
+        "Muslims": {
+            "percentage": 1.17,
+            "population": 16299
+        },
+        "Not Stated": {
+            "percentage": 0.2,
+            "population": 2826
+        },
+        "Others": {
+            "percentage": 0.04,
+            "population": 559
+        },
+        "Sikh": {
+            "percentage": 70.89,
+            "population": 984286
+        }
+    },
+    "rural": {
+        "child_population_female": 43405,
+        "child_population_male": 50967,
+        "child_population_percentage": 10.61,
+        "child_population_percentage_calculated": 10.61,
+        "child_population_percentage_stated": 10.61,
+        "child_population_total": 94372,
+        "child_sex_ratio": 852,
+        "female": 414824,
+        "literacy_rate_female": 55.37,
+        "literacy_rate_male": 67.89,
+        "literacy_rate_percentage": 62.04,
+        "literate_female": 205660,
+        "literate_male": 287532,
+        "literate_total": 493192,
+        "male": 474484,
+        "percentage_population": 64.05,
+        "population": 889308,
+        "sex_ratio": 874
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/599-bathinda.html",
+    "urban": {
+        "child_population_female": 26207,
+        "child_population_male": 30566,
+        "child_population_percentage": 11.37,
+        "child_population_percentage_calculated": 11.37,
+        "child_population_percentage_stated": 11.37,
+        "child_population_total": 56773,
+        "child_sex_ratio": 857,
+        "female": 230504,
+        "literacy_rate_female": 73.89,
+        "literacy_rate_male": 84.29,
+        "literacy_rate_percentage": 79.48,
+        "literate_female": 150947,
+        "literate_male": 200729,
+        "literate_total": 351676,
+        "male": 268713,
+        "percentage_population": 35.95,
+        "population": 499217,
+        "sex_ratio": 858
+    }
+}

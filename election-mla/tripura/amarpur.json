@@ -1,0 +1,106 @@
+{
+  "state": "Tripura",
+  "constituency": "Amarpur",
+  "district": "South Tripura",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 40466,
+        "total_votes_polled": 37847,
+        "turnout_percentage": 94.4,
+        "margin_votes": 1016,
+        "margin_percentage": 2.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ranjit Das",
+          "party": "Bharatiya Janta Party",
+          "votes": 18970,
+          "votes_percentage": 50.1
+        },
+        {
+          "position": 2,
+          "name": "Parimal Debnath",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 17954,
+          "votes_percentage": 47.4
+        },
+        {
+          "position": 4,
+          "name": "Biplab Kumar Saha",
+          "party": "Indian National Congress",
+          "votes": 312,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 5,
+          "name": "Subir Sen Ghosh",
+          "party": "All India Trinamool Congress",
+          "votes": 255,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Pabitra Mohan Jamatia",
+          "party": "Tipraland State Party",
+          "votes": 212,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Bijoy Das",
+          "party": "Amra Bangalee",
+          "votes": 144,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "14 February 2013",
+      "counting_date": "28 February 2013",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 36580,
+        "total_votes_polled": 34859,
+        "turnout_percentage": 95.3,
+        "margin_votes": 4022,
+        "margin_percentage": 11.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Manoranjan Acharjee",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 19075,
+          "votes_percentage": 54.7
+        },
+        {
+          "position": 2,
+          "name": "Niranjan Barman",
+          "party": "Indian National Congress",
+          "votes": 15053,
+          "votes_percentage": 43.2
+        },
+        {
+          "position": 3,
+          "name": "Mahi Bhusan Chakraborty",
+          "party": "Bharatiya Janta Party",
+          "votes": 410,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 4,
+          "name": "Bijoy Das",
+          "party": "Amra Bangalee",
+          "votes": 321,
+          "votes_percentage": 0.9
+        }
+      ]
+    }
+  }
+}

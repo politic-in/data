@@ -1,0 +1,85 @@
+{
+  "state": "West Bengal",
+  "constituency": "Kashipur-Belgachhia",
+  "district": "Kolkata",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 217872,
+        "total_votes_polled": 133295,
+        "turnout_percentage": 61.9,
+        "margin_votes": 35390,
+        "margin_percentage": 26.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Atin Ghosh",
+          "party": "All India Trinamool Congress",
+          "votes": 76182,
+          "votes_percentage": 57.2
+        },
+        {
+          "position": 2,
+          "name": "Sibaji Sinha Roy",
+          "party": "Bharatiya Janta Party",
+          "votes": 40792,
+          "votes_percentage": 30.6
+        },
+        {
+          "position": 3,
+          "name": "Pratip Dasgupta",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 14757,
+          "votes_percentage": 11.1
+        },
+        {
+          "position": 4,
+          "name": "Shio Kumar Khatik",
+          "party": "Bahujan Samaj Party",
+          "votes": 539,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 5,
+          "name": "Kush Mahali",
+          "party": "Independent",
+          "votes": 234,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 6,
+          "name": "Rajesh Kumar Das",
+          "party": "Independent",
+          "votes": 234,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Shree Narayan Tandon",
+          "party": "Independent",
+          "votes": 207,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "Tapas Ghosh",
+          "party": "Independent",
+          "votes": 206,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Md Shakil",
+          "party": "Independent",
+          "votes": 144,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "state": "West Bengal",
+  "constituency": "Uluberia Uttar",
+  "district": "Haora",
+  "ac_type": "SC",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 215010,
+        "total_votes_polled": 184532,
+        "turnout_percentage": 86.4,
+        "margin_votes": 21003,
+        "margin_percentage": 11.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr. Nirmal Maji",
+          "party": "All India Trinamool Congress",
+          "votes": 91501,
+          "votes_percentage": 49.6
+        },
+        {
+          "position": 2,
+          "name": "Chiran Bera",
+          "party": "Bharatiya Janta Party",
+          "votes": 70498,
+          "votes_percentage": 38.2
+        },
+        {
+          "position": 3,
+          "name": "Ashok Dalui",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 19292,
+          "votes_percentage": 10.5
+        },
+        {
+          "position": 4,
+          "name": "Nirapada Pandit",
+          "party": "Independent",
+          "votes": 1181,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 5,
+          "name": "Avijit Das",
+          "party": "Independent",
+          "votes": 935,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Vibekananda Mondal",
+          "party": "Independent",
+          "votes": 758,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Ganesh Chandra Hazra",
+          "party": "Independent",
+          "votes": 367,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 170752,
+        "total_votes_polled": 145804,
+        "turnout_percentage": 85.4,
+        "margin_votes": 18448,
+        "margin_percentage": 12.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr. Nirmal Maji",
+          "party": "All India Trinamool Congress",
+          "votes": 76469,
+          "votes_percentage": 52.5
+        },
+        {
+          "position": 2,
+          "name": "Ghuku Bhim",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 58021,
+          "votes_percentage": 39.8
+        },
+        {
+          "position": 3,
+          "name": "Archana Ray",
+          "party": "Bharatiya Janta Party",
+          "votes": 6381,
+          "votes_percentage": 4.4
+        },
+        {
+          "position": 4,
+          "name": "Ghuku Subal",
+          "party": "Independent",
+          "votes": 1559,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Shyamapada Dhara",
+          "party": "Bahujan Samaj Party",
+          "votes": 1427,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Mohit Kar",
+          "party": "Indian Unity Centre",
+          "votes": 1180,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 7,
+          "name": "Ajit Kumar Maji",
+          "party": "Independent",
+          "votes": 767,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

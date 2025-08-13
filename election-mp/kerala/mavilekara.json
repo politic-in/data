@@ -1,0 +1,43 @@
+{
+  "state": "Kerala",
+  "constituency": "MAVILEKARA",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 422829,
+        "total_votes_polled": 307516,
+        "turnout_percentage": 72.7,
+        "margin_votes": 7288,
+        "margin_percentage": 2.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Achuthan",
+          "party": "Indian National Congress",
+          "votes": 149244,
+          "votes_percentage": 48.5
+        },
+        {
+          "position": 2,
+          "name": "Kodiyan",
+          "party": "Communist Party Of India",
+          "votes": 141956,
+          "votes_percentage": 46.2
+        },
+        {
+          "position": 3,
+          "name": "Krishnan Sastry",
+          "party": "Independent",
+          "votes": 9671,
+          "votes_percentage": 3.1
+        }
+      ]
+    }
+  }
+}

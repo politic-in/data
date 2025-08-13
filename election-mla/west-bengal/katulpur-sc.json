@@ -1,0 +1,50 @@
+{
+  "state": "West Bengal",
+  "constituency": "KATULPUR (SC)",
+  "district": "Bankura",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 221612,
+        "total_votes_polled": 198242,
+        "turnout_percentage": 91.0,
+        "margin_votes": 21248,
+        "margin_percentage": 10.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shyamal Santra",
+          "party": "All India Trinamool Congress",
+          "votes": 98901,
+          "votes_percentage": 49.9
+        },
+        {
+          "position": 2,
+          "name": "Akshay Santra",
+          "party": "Indian National Congress",
+          "votes": 77653,
+          "votes_percentage": 39.2
+        },
+        {
+          "position": 3,
+          "name": "Tarun Kumar Kotal",
+          "party": "Bharatiya Janta Party",
+          "votes": 19255,
+          "votes_percentage": 9.7
+        },
+        {
+          "position": 4,
+          "name": "Tapas Kshetrapal",
+          "party": "Bahujan Mukti Party",
+          "votes": 2433,
+          "votes_percentage": 1.2
+        }
+      ]
+    }
+  }
+}

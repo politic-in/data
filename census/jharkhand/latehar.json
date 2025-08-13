@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 67730,
+        "male": 69969,
+        "percentage_of_total_population": 18.94,
+        "percentage_of_total_population_calculated": 18.94,
+        "percentage_of_total_population_stated": 18.94,
+        "sex_ratio": 968,
+        "total": 137699
+    },
+    "literacy": {
+        "female_literacy_rate": 48.68,
+        "female_literate": 140976,
+        "male_literacy_rate": 69.97,
+        "male_literate": 209706,
+        "rate_percentage": 59.51,
+        "total_literate": 350682
+    },
+    "population": {
+        "female": 357312,
+        "male": 369666,
+        "sex_ratio": 967,
+        "total": 726978
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 128
+        },
+        "Christian": {
+            "percentage": 6.55,
+            "population": 47653
+        },
+        "Hindu": {
+            "percentage": 65.07,
+            "population": 473049
+        },
+        "Jain": {
+            "percentage": 0.0,
+            "population": 16
+        },
+        "Muslims": {
+            "percentage": 9.6,
+            "population": 69808
+        },
+        "Not Stated": {
+            "percentage": 0.37,
+            "population": 2679
+        },
+        "Others": {
+            "percentage": 18.37,
+            "population": 133525
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 120
+        }
+    },
+    "rural": {
+        "child_population_female": 63990,
+        "child_population_male": 65927,
+        "child_population_percentage": 19.24,
+        "child_population_percentage_calculated": 19.24,
+        "child_population_percentage_stated": 19.24,
+        "child_population_total": 129917,
+        "child_sex_ratio": 971,
+        "female": 332554,
+        "literacy_rate_female": 46.92,
+        "literacy_rate_male": 68.74,
+        "literacy_rate_percentage": 57.99,
+        "literate_female": 125997,
+        "literate_male": 190161,
+        "literate_total": 316158,
+        "male": 342566,
+        "percentage_population": 92.87,
+        "population": 675120,
+        "sex_ratio": 971
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/106-latehar.html",
+    "urban": {
+        "child_population_female": 3738,
+        "child_population_male": 4044,
+        "child_population_percentage": 15.01,
+        "child_population_percentage_calculated": 15.01,
+        "child_population_percentage_stated": 15.01,
+        "child_population_total": 7782,
+        "child_sex_ratio": 924,
+        "female": 24758,
+        "literacy_rate_female": 71.26,
+        "literacy_rate_male": 84.77,
+        "literacy_rate_percentage": 78.33,
+        "literate_female": 14979,
+        "literate_male": 19545,
+        "literate_total": 34524,
+        "male": 27100,
+        "percentage_population": 7.13,
+        "population": 51858,
+        "sex_ratio": 914
+    }
+}

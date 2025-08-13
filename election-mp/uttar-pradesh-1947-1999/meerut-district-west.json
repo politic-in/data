@@ -1,0 +1,41 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "MEERUT DISTRICT (WEST)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 357437,
+        "total_votes_polled": 205243,
+        "turnout_percentage": 57.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Khushi Ram Sharma",
+          "party": "Indian National Congress",
+          "votes": 124601,
+          "votes_percentage": 60.7
+        },
+        {
+          "position": 2,
+          "name": "Hukam Singh",
+          "party": "Independent",
+          "votes": 45551,
+          "votes_percentage": 22.2
+        },
+        {
+          "position": 3,
+          "name": "Rajendrapal Singh",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 35091,
+          "votes_percentage": 17.1
+        }
+      ]
+    }
+  }
+}

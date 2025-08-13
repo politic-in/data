@@ -1,0 +1,57 @@
+{
+  "state": "Tamil Nadu",
+  "constituency": "PERIAKULAM",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 589743,
+        "total_votes_polled": 418710,
+        "turnout_percentage": 71.0,
+        "margin_votes": 41925,
+        "margin_percentage": 10.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "S. M. Mohammed Sheriff",
+          "party": "Independent",
+          "votes": 175940,
+          "votes_percentage": 42.0
+        },
+        {
+          "position": 2,
+          "name": "Ajmalkhan",
+          "party": "Swatantra",
+          "votes": 134015,
+          "votes_percentage": 32.0
+        },
+        {
+          "position": 3,
+          "name": "H. Muthaih",
+          "party": "Independent",
+          "votes": 45066,
+          "votes_percentage": 10.8
+        },
+        {
+          "position": 4,
+          "name": "S. Alagarsamy Chetiar",
+          "party": "Independent",
+          "votes": 27371,
+          "votes_percentage": 6.5
+        },
+        {
+          "position": 5,
+          "name": "K. Survlivelu",
+          "party": "Independent",
+          "votes": 6108,
+          "votes_percentage": 1.5
+        }
+      ]
+    }
+  }
+}

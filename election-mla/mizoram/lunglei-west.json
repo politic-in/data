@@ -1,0 +1,134 @@
+{
+  "state": "Mizoram",
+  "constituency": "Lunglei West",
+  "district": "Lunglei",
+  "ac_type": "ST",
+  "results": {
+    "2023": {
+      "poll_date": "07 November 2023",
+      "counting_date": "04 December 2023",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 31372,
+        "total_votes_polled": 12989,
+        "turnout_percentage": 41.5,
+        "margin_votes": 1282,
+        "margin_percentage": 9.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "T. Lalhlimpuia",
+          "party": "Zoram People’s Movement",
+          "votes": 5029,
+          "votes_percentage": 38.6
+        },
+        {
+          "position": 2,
+          "name": "C. Lalrinsanga",
+          "party": "Mizo National Front",
+          "votes": 3747,
+          "votes_percentage": 28.8
+        },
+        {
+          "position": 3,
+          "name": "Pc Lalthanliana",
+          "party": "Indian National Congress",
+          "votes": 2696,
+          "votes_percentage": 20.7
+        },
+        {
+          "position": 4,
+          "name": "Lalnuntluanga Sailo",
+          "party": "Independent",
+          "votes": 959,
+          "votes_percentage": 7.4
+        },
+        {
+          "position": 5,
+          "name": "Pc.Mosia",
+          "party": "Independent",
+          "votes": 450,
+          "votes_percentage": 3.5
+        },
+        {
+          "position": 6,
+          "name": "R. Lalbiaktluangi",
+          "party": "Bharatiya Janta Party",
+          "votes": 108,
+          "votes_percentage": 0.8
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "04 December 2013",
+      "counting_date": "09 December 2013",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 13102,
+        "total_votes_polled": 11100,
+        "turnout_percentage": 85.3,
+        "margin_votes": 94,
+        "margin_percentage": 0.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chalrosanga Ralte",
+          "party": "Indian National Congress",
+          "votes": 5174,
+          "votes_percentage": 46.6
+        },
+        {
+          "position": 2,
+          "name": "Dr. R. Lalthangliana",
+          "party": "Mizo National Front",
+          "votes": 5080,
+          "votes_percentage": 45.8
+        },
+        {
+          "position": 3,
+          "name": "R. Lalramzauva",
+          "party": "Zoram Nationalist Party",
+          "votes": 846,
+          "votes_percentage": 7.6
+        }
+      ]
+    },
+    "2008": {
+      "poll_date": "12 February 2008",
+      "counting_date": "12 August 2008",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 12334,
+        "total_votes_polled": 10177,
+        "turnout_percentage": 82.5,
+        "margin_votes": 723,
+        "margin_percentage": 7.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr. R. Lalthangliana",
+          "party": "Mizo National Front",
+          "votes": 4156,
+          "votes_percentage": 40.8
+        },
+        {
+          "position": 2,
+          "name": "J. Lawmzuala",
+          "party": "Indian National Congress",
+          "votes": 3433,
+          "votes_percentage": 33.7
+        },
+        {
+          "position": 3,
+          "name": "C.Zokhuma",
+          "party": "Manipur Peoples Council",
+          "votes": 2588,
+          "votes_percentage": 25.4
+        }
+      ]
+    }
+  }
+}

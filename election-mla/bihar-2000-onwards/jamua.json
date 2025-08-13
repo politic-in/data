@@ -1,0 +1,71 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "Jamua",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 192983,
+        "total_votes_polled": 121554,
+        "turnout_percentage": 63.0,
+        "margin_votes": 32733,
+        "margin_percentage": 26.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Baldeo Hazra",
+          "party": "Rashtriya Janata Dal",
+          "votes": 60838,
+          "votes_percentage": 50.7
+        },
+        {
+          "position": 2,
+          "name": "Sukar Ravidas",
+          "party": "Bharatiya Janta Party",
+          "votes": 28105,
+          "votes_percentage": 23.4
+        },
+        {
+          "position": 3,
+          "name": "Sukar Pasi",
+          "party": "Indian National Congress",
+          "votes": 15443,
+          "votes_percentage": 12.9
+        },
+        {
+          "position": 4,
+          "name": "Satya Narayan Das",
+          "party": "Communist Party Of India",
+          "votes": 10363,
+          "votes_percentage": 8.6
+        },
+        {
+          "position": 5,
+          "name": "Chhotu Turi",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 4481,
+          "votes_percentage": 3.7
+        },
+        {
+          "position": 6,
+          "name": "Ram Kishun Hazra",
+          "party": "Nationalist Congress Party",
+          "votes": 455,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Chandeshwar Ravidas",
+          "party": "Bahujan Samaj Party",
+          "votes": 394,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

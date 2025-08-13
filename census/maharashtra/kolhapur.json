@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 189435,
+        "male": 219507,
+        "percentage_of_total_population": 10.55,
+        "percentage_of_total_population_calculated": 10.55,
+        "percentage_of_total_population_stated": 10.55,
+        "sex_ratio": 863,
+        "total": 408942
+    },
+    "literacy": {
+        "female_literacy_rate": 74.22,
+        "female_literate": 1266085,
+        "male_literacy_rate": 88.57,
+        "male_literate": 1559760,
+        "rate_percentage": 81.51,
+        "total_literate": 2825845
+    },
+    "population": {
+        "female": 1895343,
+        "male": 1980658,
+        "sex_ratio": 957,
+        "total": 3876001
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.77,
+            "population": 29766
+        },
+        "Christian": {
+            "percentage": 0.4,
+            "population": 15573
+        },
+        "Hindu": {
+            "percentage": 87.2,
+            "population": 3379906
+        },
+        "Jain": {
+            "percentage": 4.0,
+            "population": 154882
+        },
+        "Muslims": {
+            "percentage": 7.39,
+            "population": 286558
+        },
+        "Not Stated": {
+            "percentage": 0.17,
+            "population": 6472
+        },
+        "Others": {
+            "percentage": 0.03,
+            "population": 1274
+        },
+        "Sikh": {
+            "percentage": 0.04,
+            "population": 1570
+        }
+    },
+    "rural": {
+        "child_population_female": 129594,
+        "child_population_male": 150362,
+        "child_population_percentage": 10.58,
+        "child_population_percentage_calculated": 10.58,
+        "child_population_percentage_stated": 10.58,
+        "child_population_total": 279956,
+        "child_sex_ratio": 862,
+        "female": 1297177,
+        "literacy_rate_female": 69.73,
+        "literacy_rate_male": 86.75,
+        "literacy_rate_percentage": 78.35,
+        "literate_female": 814154,
+        "literate_male": 1039715,
+        "literate_total": 1853869,
+        "male": 1348815,
+        "percentage_population": 68.27,
+        "population": 2645992,
+        "sex_ratio": 962
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/368-kolhapur.html",
+    "urban": {
+        "child_population_female": 59827,
+        "child_population_male": 69159,
+        "child_population_percentage": 10.49,
+        "child_population_percentage_calculated": 10.49,
+        "child_population_percentage_stated": 10.49,
+        "child_population_total": 128986,
+        "child_sex_ratio": 865,
+        "female": 598166,
+        "literacy_rate_female": 83.95,
+        "literacy_rate_male": 92.42,
+        "literacy_rate_percentage": 88.28,
+        "literate_female": 451931,
+        "literate_male": 520045,
+        "literate_total": 971976,
+        "male": 631843,
+        "percentage_population": 31.73,
+        "population": 1230009,
+        "sex_ratio": 947
+    }
+}

@@ -1,0 +1,57 @@
+{
+  "state": "Kerala",
+  "constituency": "Vattiyooukavu",
+  "district": "Thiruvananthapuram",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "06 April 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 195974,
+        "total_votes_polled": 136782,
+        "turnout_percentage": 70.2,
+        "margin_votes": 21515,
+        "margin_percentage": 15.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Adv.V.K.Prasanth",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 61111,
+          "votes_percentage": 44.7
+        },
+        {
+          "position": 2,
+          "name": "Adv.V.V.Rajesh",
+          "party": "Bharatiya Janta Party",
+          "votes": 39596,
+          "votes_percentage": 29.0
+        },
+        {
+          "position": 3,
+          "name": "Adv.Veena.S.Nair",
+          "party": "Indian National Congress",
+          "votes": 35455,
+          "votes_percentage": 25.9
+        },
+        {
+          "position": 4,
+          "name": "N.Murali",
+          "party": "Bahujan Samaj Party",
+          "votes": 419,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 5,
+          "name": "A.Shyju",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 201,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

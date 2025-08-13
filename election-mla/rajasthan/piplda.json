@@ -1,0 +1,85 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Piplda",
+  "district": "Kota",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 192305,
+        "total_votes_polled": 142263,
+        "turnout_percentage": 75.1,
+        "margin_votes": 14905,
+        "margin_percentage": 10.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ramnarain Meena",
+          "party": "Indian National Congress",
+          "votes": 72690,
+          "votes_percentage": 51.1
+        },
+        {
+          "position": 2,
+          "name": "Mamta Sharma",
+          "party": "Bharatiya Janta Party",
+          "votes": 57785,
+          "votes_percentage": 40.6
+        },
+        {
+          "position": 3,
+          "name": "Rajendra",
+          "party": "Bahujan Samaj Party",
+          "votes": 5076,
+          "votes_percentage": 3.6
+        },
+        {
+          "position": 4,
+          "name": "Dulichand Borda",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 2778,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 5,
+          "name": "Gordhan",
+          "party": "Rashtriya Krantikari Samajwadi Party",
+          "votes": 1291,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Shambhudayal Suman",
+          "party": "Independent",
+          "votes": 888,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Sarita Devi",
+          "party": "Aam Aadmi Party",
+          "votes": 647,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Naresh Jangid",
+          "party": "Rashtriya Jankranti Party",
+          "votes": 567,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Mahaveer Sharma",
+          "party": "Bharat Vahini Party",
+          "votes": 541,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

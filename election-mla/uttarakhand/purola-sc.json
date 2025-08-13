@@ -1,0 +1,64 @@
+{
+  "state": "Uttarakhand",
+  "constituency": "PUROLA (SC)",
+  "district": "Uttarkashi",
+  "ac_type": "SC",
+  "results": {
+    "2022": {
+      "poll_date": "14 February 2022",
+      "counting_date": "10 March 2022",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 109464,
+        "total_votes_polled": 51302,
+        "turnout_percentage": 47.2,
+        "margin_votes": 6296,
+        "margin_percentage": 12.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Durgeshwar Lal",
+          "party": "Bharatiya Janta Party",
+          "votes": 27856,
+          "votes_percentage": 54.3
+        },
+        {
+          "position": 2,
+          "name": "Malchand",
+          "party": "Indian National Congress",
+          "votes": 21560,
+          "votes_percentage": 42.0
+        },
+        {
+          "position": 3,
+          "name": "Prakash",
+          "party": "Aam Aadmi Party",
+          "votes": 538,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 4,
+          "name": "Ram Prasad",
+          "party": "Rashtriya Lokneeti Party",
+          "votes": 495,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Chain Singh",
+          "party": "Samajwadi Party",
+          "votes": 464,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Ujali Devi",
+          "party": "Bahujan Samaj Party",
+          "votes": 389,
+          "votes_percentage": 0.8
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 9842,
+        "male": 10296,
+        "percentage_of_total_population": 12.11,
+        "percentage_of_total_population_calculated": 12.11,
+        "percentage_of_total_population_stated": 12.11,
+        "sex_ratio": 956,
+        "total": 20138
+    },
+    "literacy": {
+        "female_literacy_rate": 84.48,
+        "female_literate": 60823,
+        "male_literacy_rate": 90.81,
+        "male_literate": 67385,
+        "rate_percentage": 87.69,
+        "total_literate": 128208
+    },
+    "population": {
+        "female": 81838,
+        "male": 84505,
+        "sex_ratio": 968,
+        "total": 166343
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.19,
+            "population": 318
+        },
+        "Christian": {
+            "percentage": 95.13,
+            "population": 158236
+        },
+        "Hindu": {
+            "percentage": 3.37,
+            "population": 5605
+        },
+        "Jain": {
+            "percentage": 0.0,
+            "population": 8
+        },
+        "Muslims": {
+            "percentage": 1.23,
+            "population": 2043
+        },
+        "Not Stated": {
+            "percentage": 0.05,
+            "population": 79
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 20
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 34
+        }
+    },
+    "rural": {
+        "child_population_female": 7995,
+        "child_population_male": 8443,
+        "child_population_percentage": 12.52,
+        "child_population_percentage_calculated": 12.52,
+        "child_population_percentage_stated": 12.52,
+        "child_population_total": 16438,
+        "child_sex_ratio": 947,
+        "female": 64904,
+        "literacy_rate_female": 81.8,
+        "literacy_rate_male": 89.09,
+        "literacy_rate_percentage": 85.48,
+        "literate_female": 46554,
+        "literate_male": 51667,
+        "literate_total": 98221,
+        "male": 66435,
+        "percentage_population": 78.96,
+        "population": 131339,
+        "sex_ratio": 977
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/611-wokha.html",
+    "urban": {
+        "child_population_female": 1845,
+        "child_population_male": 1855,
+        "child_population_percentage": 10.57,
+        "child_population_percentage_calculated": 10.57,
+        "child_population_percentage_stated": 10.57,
+        "child_population_total": 3700,
+        "child_sex_ratio": 995,
+        "female": 16934,
+        "literacy_rate_female": 94.57,
+        "literacy_rate_male": 96.93,
+        "literacy_rate_percentage": 95.79,
+        "literate_female": 14269,
+        "literate_male": 15718,
+        "literate_total": 29987,
+        "male": 18070,
+        "percentage_population": 21.04,
+        "population": 35004,
+        "sex_ratio": 937
+    }
+}

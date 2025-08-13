@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 47391,
+        "male": 57028,
+        "percentage_of_total_population": 11.58,
+        "percentage_of_total_population_calculated": 11.58,
+        "percentage_of_total_population_stated": 11.58,
+        "sex_ratio": 831,
+        "total": 104419
+    },
+    "literacy": {
+        "female_literacy_rate": 59.24,
+        "female_literate": 224447,
+        "male_literacy_rate": 71.76,
+        "male_literate": 300401,
+        "rate_percentage": 65.81,
+        "total_literate": 524848
+    },
+    "population": {
+        "female": 426274,
+        "male": 475622,
+        "sex_ratio": 896,
+        "total": 901896
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.03,
+            "population": 240
+        },
+        "Christian": {
+            "percentage": 0.19,
+            "population": 1681
+        },
+        "Hindu": {
+            "percentage": 28.26,
+            "population": 254920
+        },
+        "Jain": {
+            "percentage": 0.08,
+            "population": 744
+        },
+        "Muslims": {
+            "percentage": 0.48,
+            "population": 4333
+        },
+        "Not Stated": {
+            "percentage": 0.1,
+            "population": 920
+        },
+        "Others": {
+            "percentage": 0.05,
+            "population": 433
+        },
+        "Sikh": {
+            "percentage": 70.81,
+            "population": 638625
+        }
+    },
+    "rural": {
+        "child_population_female": 33881,
+        "child_population_male": 40700,
+        "child_population_percentage": 11.48,
+        "child_population_percentage_calculated": 11.48,
+        "child_population_percentage_stated": 11.48,
+        "child_population_total": 74581,
+        "child_sex_ratio": 832,
+        "female": 307503,
+        "literacy_rate_female": 54.9,
+        "literacy_rate_male": 67.97,
+        "literacy_rate_percentage": 61.75,
+        "literate_female": 150228,
+        "literate_male": 204933,
+        "literate_total": 355161,
+        "male": 342202,
+        "percentage_population": 72.04,
+        "population": 649705,
+        "sex_ratio": 899
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/597-muktsar.html",
+    "urban": {
+        "child_population_female": 13518,
+        "child_population_male": 16320,
+        "child_population_percentage": 11.83,
+        "child_population_percentage_calculated": 11.83,
+        "child_population_percentage_stated": 11.83,
+        "child_population_total": 29838,
+        "child_sex_ratio": 828,
+        "female": 118771,
+        "literacy_rate_female": 70.51,
+        "literacy_rate_male": 81.53,
+        "literacy_rate_percentage": 76.31,
+        "literate_female": 74219,
+        "literate_male": 95468,
+        "literate_total": 169687,
+        "male": 133420,
+        "percentage_population": 27.96,
+        "population": 252191,
+        "sex_ratio": 890
+    }
+}

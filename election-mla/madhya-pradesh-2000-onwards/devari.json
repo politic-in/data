@@ -1,0 +1,78 @@
+{
+  "state": "Madhya Pradesh [2000 Onwards]",
+  "constituency": "Devari",
+  "district": "Sagar",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 197551,
+        "total_votes_polled": 145383,
+        "turnout_percentage": 74.7,
+        "margin_votes": 4304,
+        "margin_percentage": 3.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Harsh Yadav",
+          "party": "Indian National Congress",
+          "votes": 70099,
+          "votes_percentage": 48.2
+        },
+        {
+          "position": 2,
+          "name": "Teji Singh Rajpoot",
+          "party": "Bharatiya Janta Party",
+          "votes": 65795,
+          "votes_percentage": 45.3
+        },
+        {
+          "position": 3,
+          "name": "Ajay Bhanu Shah",
+          "party": "Gondvana Gantantra Party",
+          "votes": 4497,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 4,
+          "name": "Satynam Singh",
+          "party": "Bahujan Samaj Party",
+          "votes": 1596,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Dr. Devendra Tiwari",
+          "party": "Independent",
+          "votes": 1511,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Mukesh",
+          "party": "Independent",
+          "votes": 741,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Rajendra Kumar Jain",
+          "party": "Aam Aadmi Party",
+          "votes": 593,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Kudrat Kha",
+          "party": "Independent",
+          "votes": 551,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

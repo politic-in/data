@@ -1,0 +1,71 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Ranivada",
+  "district": "Jalor",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 231332,
+        "total_votes_polled": 182614,
+        "turnout_percentage": 80.3,
+        "margin_votes": 3405,
+        "margin_percentage": 1.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Narayan Singh Dewal",
+          "party": "Bharatiya Janta Party",
+          "votes": 88887,
+          "votes_percentage": 48.7
+        },
+        {
+          "position": 2,
+          "name": "Ratan",
+          "party": "Indian National Congress",
+          "votes": 85482,
+          "votes_percentage": 46.8
+        },
+        {
+          "position": 3,
+          "name": "Popat Lal Meghwal",
+          "party": "Bahujan Samaj Party",
+          "votes": 2675,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 4,
+          "name": "Babu Lal",
+          "party": "Aam Aadmi Party",
+          "votes": 2195,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 5,
+          "name": "Bharat Kumar Meghwal",
+          "party": "Independent",
+          "votes": 1876,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Lakharam",
+          "party": "Independent",
+          "votes": 869,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Amara Ram Dewasi",
+          "party": "Independent",
+          "votes": 630,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "state": "Nagaland",
+  "constituency": "NORTHERNANGAMI-I",
+  "district": "Kohima",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 17014,
+        "total_votes_polled": 13048,
+        "turnout_percentage": 77.1,
+        "margin_votes": 2516,
+        "margin_percentage": 19.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Khriehu Liezietsu",
+          "party": "Naga Peoples Front",
+          "votes": 7782,
+          "votes_percentage": 59.6
+        },
+        {
+          "position": 2,
+          "name": "Dr.Kekhrielhoulie Yhome",
+          "party": "Nationalist Democratic Progressive Party",
+          "votes": 5266,
+          "votes_percentage": 40.4
+        }
+      ]
+    }
+  }
+}

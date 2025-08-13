@@ -1,0 +1,85 @@
+{
+  "state": "Karnataka",
+  "constituency": "Homnabad",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2008": {
+      "poll_date": "16 May 2008",
+      "counting_date": "25 May 2008",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 194585,
+        "total_votes_polled": 115446,
+        "turnout_percentage": 59.3,
+        "margin_votes": 21736,
+        "margin_percentage": 18.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rajshekar Baswaraj Patil",
+          "party": "Indian National Congress",
+          "votes": 49603,
+          "votes_percentage": 43.0
+        },
+        {
+          "position": 2,
+          "name": "Subhash Kallur",
+          "party": "Bharatiya Janta Party",
+          "votes": 27867,
+          "votes_percentage": 24.1
+        },
+        {
+          "position": 3,
+          "name": "Meerajuddi N Npatel",
+          "party": "Janata Dal (Secular)",
+          "votes": 25883,
+          "votes_percentage": 22.4
+        },
+        {
+          "position": 4,
+          "name": "Jaganath Ramchander Jamadar",
+          "party": "Bahujan Samaj Party",
+          "votes": 6680,
+          "votes_percentage": 5.8
+        },
+        {
+          "position": 5,
+          "name": "Ravikalappa Hugar",
+          "party": "Independent",
+          "votes": 1935,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 6,
+          "name": "Baswaraj Pailwan",
+          "party": "Independent",
+          "votes": 1171,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 7,
+          "name": "Advocate Moulavi Zameeroddin",
+          "party": "National Development Party",
+          "votes": 894,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 8,
+          "name": "Narsappa Muttangi",
+          "party": "Independent",
+          "votes": 817,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 9,
+          "name": "Eknath Hanmantppa Walakhindi",
+          "party": "Independent",
+          "votes": 596,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

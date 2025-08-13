@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 79671,
+        "male": 83251,
+        "percentage_of_total_population": 11.0,
+        "percentage_of_total_population_calculated": 11.0,
+        "percentage_of_total_population_stated": 11.0,
+        "sex_ratio": 957,
+        "total": 162922
+    },
+    "literacy": {
+        "female_literacy_rate": 65.38,
+        "female_literate": 426566,
+        "male_literacy_rate": 83.68,
+        "male_literate": 557217,
+        "rate_percentage": 74.62,
+        "total_literate": 983783
+    },
+    "population": {
+        "female": 732094,
+        "male": 749161,
+        "sex_ratio": 977,
+        "total": 1481255
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 161
+        },
+        "Christian": {
+            "percentage": 0.79,
+            "population": 11744
+        },
+        "Hindu": {
+            "percentage": 98.5,
+            "population": 1459065
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 125
+        },
+        "Muslims": {
+            "percentage": 0.51,
+            "population": 7527
+        },
+        "Not Stated": {
+            "percentage": 0.13,
+            "population": 1937
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 44
+        },
+        "Sikh": {
+            "percentage": 0.04,
+            "population": 652
+        }
+    },
+    "rural": {
+        "child_population_female": 71624,
+        "child_population_male": 74709,
+        "child_population_percentage": 10.99,
+        "child_population_percentage_calculated": 10.99,
+        "child_population_percentage_stated": 10.99,
+        "child_population_total": 146333,
+        "child_sex_ratio": 959,
+        "female": 658542,
+        "literacy_rate_female": 63.75,
+        "literacy_rate_male": 82.79,
+        "literacy_rate_percentage": 73.36,
+        "literate_female": 374185,
+        "literate_male": 494987,
+        "literate_total": 869172,
+        "male": 672603,
+        "percentage_population": 89.87,
+        "population": 1331145,
+        "sex_ratio": 979
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/394-bargarh.html",
+    "urban": {
+        "child_population_female": 8031,
+        "child_population_male": 8558,
+        "child_population_percentage": 11.05,
+        "child_population_percentage_calculated": 11.05,
+        "child_population_percentage_stated": 11.05,
+        "child_population_total": 16589,
+        "child_sex_ratio": 938,
+        "female": 73552,
+        "literacy_rate_female": 79.95,
+        "literacy_rate_male": 91.51,
+        "literacy_rate_percentage": 85.84,
+        "literate_female": 52381,
+        "literate_male": 62230,
+        "literate_total": 114611,
+        "male": 76558,
+        "percentage_population": 10.13,
+        "population": 150110,
+        "sex_ratio": 961
+    }
+}

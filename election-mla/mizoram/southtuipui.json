@@ -1,0 +1,50 @@
+{
+  "state": "Mizoram",
+  "constituency": "SOUTHTUIPUI",
+  "district": "Lunglei",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 14385,
+        "total_votes_polled": 12293,
+        "turnout_percentage": 85.7,
+        "margin_votes": 1469,
+        "margin_percentage": 11.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr R Lalthangliana",
+          "party": "Mizo National Front",
+          "votes": 6126,
+          "votes_percentage": 49.8
+        },
+        {
+          "position": 2,
+          "name": "John Siamkunga",
+          "party": "Indian National Congress",
+          "votes": 4657,
+          "votes_percentage": 37.9
+        },
+        {
+          "position": 3,
+          "name": "Phairothanga",
+          "party": "Independent",
+          "votes": 1359,
+          "votes_percentage": 11.1
+        },
+        {
+          "position": 4,
+          "name": "Lalnunpuia",
+          "party": "Bharatiya Janta Party",
+          "votes": 151,
+          "votes_percentage": 1.2
+        }
+      ]
+    }
+  }
+}

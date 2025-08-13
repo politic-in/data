@@ -1,0 +1,73 @@
+{
+  "state": "Haryana",
+  "constituency": "Kharkhauda",
+  "district": "Sonipat",
+  "ac_type": "SC",
+  "results": {
+    "2009": {
+      "poll_date": "13 October 2009",
+      "counting_date": "22 October 2009",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 119988,
+        "total_votes_polled": 68184,
+        "turnout_percentage": 56.8,
+        "total_valid_votes": 68184,
+        "total_valid_votes_percentage": 56.8,
+        "margin_votes": 25284,
+        "margin_percentage": 37.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jaiveer",
+          "party": "Indian National Congress",
+          "votes": 43684,
+          "votes_percentage": 64.1
+        },
+        {
+          "position": 2,
+          "name": "Raju",
+          "party": "Indian National Lok Dal",
+          "votes": 18400,
+          "votes_percentage": 27.0
+        },
+        {
+          "position": 3,
+          "name": "Ram Niwas",
+          "party": "Bharatiya Janta Party",
+          "votes": 2224,
+          "votes_percentage": 3.3
+        },
+        {
+          "position": 4,
+          "name": "Rajvir",
+          "party": "Bahujan Samaj Party",
+          "votes": 2110,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 5,
+          "name": "Mahavir Singh Kalon",
+          "party": "Haryana Janhit Congress (BL)",
+          "votes": 923,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 6,
+          "name": "Phool Singh",
+          "party": "Independent",
+          "votes": 544,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 7,
+          "name": "Jagdish",
+          "party": "Nationalist Congress Party",
+          "votes": 299,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

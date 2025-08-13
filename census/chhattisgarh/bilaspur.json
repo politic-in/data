@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 199862,
+        "male": 207973,
+        "percentage_of_total_population": 15.31,
+        "percentage_of_total_population_calculated": 15.31,
+        "percentage_of_total_population_stated": 15.31,
+        "sex_ratio": 961,
+        "total": 407835
+    },
+    "literacy": {
+        "female_literacy_rate": 59.71,
+        "female_literate": 664086,
+        "male_literacy_rate": 81.54,
+        "male_literate": 932474,
+        "rate_percentage": 70.78,
+        "total_literate": 1596560
+    },
+    "population": {
+        "female": 1312055,
+        "male": 1351574,
+        "sex_ratio": 971,
+        "total": 2663629
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.11,
+            "population": 2979
+        },
+        "Christian": {
+            "percentage": 0.78,
+            "population": 20745
+        },
+        "Hindu": {
+            "percentage": 95.39,
+            "population": 2540763
+        },
+        "Jain": {
+            "percentage": 0.09,
+            "population": 2357
+        },
+        "Muslims": {
+            "percentage": 2.18,
+            "population": 57973
+        },
+        "Not Stated": {
+            "percentage": 0.12,
+            "population": 3317
+        },
+        "Others": {
+            "percentage": 1.09,
+            "population": 29122
+        },
+        "Sikh": {
+            "percentage": 0.24,
+            "population": 6373
+        }
+    },
+    "rural": {
+        "child_population_female": 158956,
+        "child_population_male": 163504,
+        "child_population_percentage": 16.25,
+        "child_population_percentage_calculated": 16.25,
+        "child_population_percentage_stated": 16.25,
+        "child_population_total": 322460,
+        "child_sex_ratio": 972,
+        "female": 981239,
+        "literacy_rate_female": 53.41,
+        "literacy_rate_male": 78.22,
+        "literacy_rate_percentage": 65.94,
+        "literate_female": 439222,
+        "literate_male": 656265,
+        "literate_total": 1095487,
+        "male": 1002520,
+        "percentage_population": 74.48,
+        "population": 1983759,
+        "sex_ratio": 979
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/491-bilaspur.html",
+    "urban": {
+        "child_population_female": 40884,
+        "child_population_male": 44491,
+        "child_population_percentage": 12.56,
+        "child_population_percentage_calculated": 12.56,
+        "child_population_percentage_stated": 12.56,
+        "child_population_total": 85375,
+        "child_sex_ratio": 919,
+        "female": 330816,
+        "literacy_rate_female": 77.56,
+        "literacy_rate_male": 90.69,
+        "literacy_rate_percentage": 84.29,
+        "literate_female": 224864,
+        "literate_male": 276209,
+        "literate_total": 501073,
+        "male": 349054,
+        "percentage_population": 25.52,
+        "population": 679870,
+        "sex_ratio": 948
+    }
+}

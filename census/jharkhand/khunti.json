@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 42355,
+        "male": 43937,
+        "percentage_of_total_population": 16.22,
+        "percentage_of_total_population_calculated": 16.22,
+        "percentage_of_total_population_stated": 16.22,
+        "sex_ratio": 964,
+        "total": 86292
+    },
+    "literacy": {
+        "female_literacy_rate": 53.69,
+        "female_literate": 119834,
+        "male_literacy_rate": 74.08,
+        "male_literate": 164741,
+        "rate_percentage": 63.86,
+        "total_literate": 284575
+    },
+    "population": {
+        "female": 265550,
+        "male": 266335,
+        "sex_ratio": 997,
+        "total": 531885
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.05,
+            "population": 245
+        },
+        "Christian": {
+            "percentage": 25.65,
+            "population": 136438
+        },
+        "Hindu": {
+            "percentage": 26.11,
+            "population": 138863
+        },
+        "Jain": {
+            "percentage": 0.03,
+            "population": 148
+        },
+        "Muslims": {
+            "percentage": 2.47,
+            "population": 13122
+        },
+        "Not Stated": {
+            "percentage": 0.32,
+            "population": 1708
+        },
+        "Others": {
+            "percentage": 45.37,
+            "population": 241292
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 69
+        }
+    },
+    "rural": {
+        "child_population_female": 39570,
+        "child_population_male": 40974,
+        "child_population_percentage": 16.54,
+        "child_population_percentage_calculated": 16.54,
+        "child_population_percentage_stated": 16.54,
+        "child_population_total": 80544,
+        "child_sex_ratio": 966,
+        "female": 243409,
+        "literacy_rate_female": 51.38,
+        "literacy_rate_male": 72.59,
+        "literacy_rate_percentage": 61.95,
+        "literate_female": 104733,
+        "literate_male": 147000,
+        "literate_total": 251733,
+        "male": 243494,
+        "percentage_population": 91.54,
+        "population": 486903,
+        "sex_ratio": 1000
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/104-khunti.html",
+    "urban": {
+        "child_population_female": 2775,
+        "child_population_male": 2973,
+        "child_population_percentage": 12.78,
+        "child_population_percentage_calculated": 12.78,
+        "child_population_percentage_stated": 12.78,
+        "child_population_total": 5748,
+        "child_sex_ratio": 933,
+        "female": 22141,
+        "literacy_rate_female": 77.98,
+        "literacy_rate_male": 89.29,
+        "literacy_rate_percentage": 83.71,
+        "literate_female": 15101,
+        "literate_male": 17741,
+        "literate_total": 32842,
+        "male": 22841,
+        "percentage_population": 8.46,
+        "population": 44982,
+        "sex_ratio": 969
+    }
+}

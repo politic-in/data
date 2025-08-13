@@ -1,0 +1,36 @@
+{
+  "state": "Assam",
+  "constituency": "AUTONOMOUS DISTS",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 371287,
+        "total_votes_polled": 190841,
+        "turnout_percentage": 51.4,
+        "margin_votes": 41673,
+        "margin_percentage": 21.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "G. G. Swell",
+          "party": "All Party Hill Leaders Conference",
+          "votes": 112492,
+          "votes_percentage": 58.9
+        },
+        {
+          "position": 2,
+          "name": "B. G. Momin",
+          "party": "Indian National Congress",
+          "votes": 70819,
+          "votes_percentage": 37.1
+        }
+      ]
+    }
+  }
+}

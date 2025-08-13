@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 29446,
+        "male": 33273,
+        "percentage_of_total_population": 10.24,
+        "percentage_of_total_population_calculated": 10.24,
+        "percentage_of_total_population_stated": 10.24,
+        "sex_ratio": 885,
+        "total": 62719
+    },
+    "literacy": {
+        "female_literacy_rate": 73.93,
+        "female_literate": 199304,
+        "male_literacy_rate": 85.41,
+        "male_literate": 239155,
+        "rate_percentage": 79.78,
+        "total_literate": 438459
+    },
+    "population": {
+        "female": 299019,
+        "male": 313291,
+        "sex_ratio": 954,
+        "total": 612310
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.96,
+            "population": 5885
+        },
+        "Christian": {
+            "percentage": 0.24,
+            "population": 1479
+        },
+        "Hindu": {
+            "percentage": 65.55,
+            "population": 401368
+        },
+        "Jain": {
+            "percentage": 0.11,
+            "population": 695
+        },
+        "Muslims": {
+            "percentage": 1.12,
+            "population": 6829
+        },
+        "Not Stated": {
+            "percentage": 0.47,
+            "population": 2903
+        },
+        "Others": {
+            "percentage": 0.04,
+            "population": 266
+        },
+        "Sikh": {
+            "percentage": 31.5,
+            "population": 192885
+        }
+    },
+    "rural": {
+        "child_population_female": 23156,
+        "child_population_male": 26208,
+        "child_population_percentage": 10.14,
+        "child_population_percentage_calculated": 10.14,
+        "child_population_percentage_stated": 10.14,
+        "child_population_total": 49364,
+        "child_sex_ratio": 884,
+        "female": 238776,
+        "literacy_rate_female": 72.81,
+        "literacy_rate_male": 84.99,
+        "literacy_rate_percentage": 78.99,
+        "literate_female": 156983,
+        "literate_male": 188612,
+        "literate_total": 345595,
+        "male": 248118,
+        "percentage_population": 79.52,
+        "population": 486894,
+        "sex_ratio": 962
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/592-shahid-bhagat-singh-nagar.html",
+    "urban": {
+        "child_population_female": 6285,
+        "child_population_male": 7070,
+        "child_population_percentage": 10.65,
+        "child_population_percentage_calculated": 10.65,
+        "child_population_percentage_stated": 10.65,
+        "child_population_total": 13355,
+        "child_sex_ratio": 889,
+        "female": 60243,
+        "literacy_rate_female": 78.43,
+        "literacy_rate_male": 86.99,
+        "literacy_rate_percentage": 82.87,
+        "literate_female": 42321,
+        "literate_male": 50543,
+        "literate_total": 92864,
+        "male": 65173,
+        "percentage_population": 20.48,
+        "population": 125416,
+        "sex_ratio": 924
+    }
+}

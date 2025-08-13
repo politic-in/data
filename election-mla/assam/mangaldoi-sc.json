@@ -1,0 +1,71 @@
+{
+  "state": "Assam",
+  "constituency": "Mangaldoi (SC)",
+  "district": "Darrang",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 200056,
+        "total_votes_polled": 176352,
+        "turnout_percentage": 88.8,
+        "margin_votes": 22045,
+        "margin_percentage": 12.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gurujyoti Das",
+          "party": "Bharatiya Janta Party",
+          "votes": 73423,
+          "votes_percentage": 41.6
+        },
+        {
+          "position": 2,
+          "name": "Basanta Das",
+          "party": "Indian National Congress",
+          "votes": 51378,
+          "votes_percentage": 29.1
+        },
+        {
+          "position": 3,
+          "name": "Hiren Kr Das",
+          "party": "All India United Democratic Front",
+          "votes": 48417,
+          "votes_percentage": 27.5
+        },
+        {
+          "position": 4,
+          "name": "Jitendra Sarkar",
+          "party": "Independent",
+          "votes": 953,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "Bhupen Ch. Das",
+          "party": "Lok Jan Shakti Party",
+          "votes": 874,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Arjun Ch. Das",
+          "party": "Independent",
+          "votes": 841,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Jagadish Chandra Sarkar",
+          "party": "Independent",
+          "votes": 466,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

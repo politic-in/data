@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 104311,
+        "male": 107649,
+        "percentage_of_total_population": 17.25,
+        "percentage_of_total_population_calculated": 17.25,
+        "percentage_of_total_population_stated": 17.25,
+        "sex_ratio": 969,
+        "total": 211960
+    },
+    "literacy": {
+        "female_literacy_rate": 72.09,
+        "female_literate": 359355,
+        "male_literacy_rate": 84.12,
+        "male_literate": 435942,
+        "rate_percentage": 78.22,
+        "total_literate": 795297
+    },
+    "population": {
+        "female": 602822,
+        "male": 625864,
+        "sex_ratio": 963,
+        "total": 1228686
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.04,
+            "population": 446
+        },
+        "Christian": {
+            "percentage": 0.98,
+            "population": 11990
+        },
+        "Hindu": {
+            "percentage": 42.48,
+            "population": 521962
+        },
+        "Jain": {
+            "percentage": 0.04,
+            "population": 524
+        },
+        "Muslims": {
+            "percentage": 56.36,
+            "population": 692489
+        },
+        "Not Stated": {
+            "percentage": 0.09,
+            "population": 1051
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 110
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 114
+        }
+    },
+    "rural": {
+        "child_population_female": 98622,
+        "child_population_male": 101712,
+        "child_population_percentage": 17.9,
+        "child_population_percentage_calculated": 17.9,
+        "child_population_percentage_stated": 17.9,
+        "child_population_total": 200334,
+        "child_sex_ratio": 970,
+        "female": 548476,
+        "literacy_rate_female": 70.11,
+        "literacy_rate_male": 82.95,
+        "literacy_rate_percentage": 76.66,
+        "literate_female": 315414,
+        "literate_male": 388846,
+        "literate_total": 704260,
+        "male": 570510,
+        "percentage_population": 91.07,
+        "population": 1118986,
+        "sex_ratio": 961
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/158-karimganj.html",
+    "urban": {
+        "child_population_female": 5700,
+        "child_population_male": 5926,
+        "child_population_percentage": 10.6,
+        "child_population_percentage_calculated": 10.6,
+        "child_population_percentage_stated": 10.6,
+        "child_population_total": 11626,
+        "child_sex_ratio": 962,
+        "female": 54346,
+        "literacy_rate_female": 90.33,
+        "literacy_rate_male": 95.28,
+        "literacy_rate_percentage": 92.82,
+        "literate_female": 43941,
+        "literate_male": 47096,
+        "literate_total": 91037,
+        "male": 55354,
+        "percentage_population": 8.93,
+        "population": 109700,
+        "sex_ratio": 982
+    }
+}

@@ -1,0 +1,99 @@
+{
+  "state": "Meghalaya",
+  "constituency": "KHLIEHRIAT",
+  "district": "Jaintia Hills",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 38142,
+        "total_votes_polled": 34369,
+        "turnout_percentage": 90.4,
+        "margin_votes": 8181,
+        "margin_percentage": 23.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kyrmen Shylla",
+          "party": "United Democratic Party",
+          "votes": 20285,
+          "votes_percentage": 59.0
+        },
+        {
+          "position": 2,
+          "name": "Justine Dkhar",
+          "party": "Bharatiya Janta Party",
+          "votes": 12104,
+          "votes_percentage": 35.2
+        },
+        {
+          "position": 3,
+          "name": "Violet Lyngdoh",
+          "party": "National People's Party",
+          "votes": 1707,
+          "votes_percentage": 5.0
+        },
+        {
+          "position": 4,
+          "name": "T S Diolinda Dkhar",
+          "party": "Indian National Congress",
+          "votes": 150,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 5,
+          "name": "First Bornson Nongtdu",
+          "party": "Independent",
+          "votes": 123,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "23 February 2013",
+      "counting_date": "28 February 2013",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 31473,
+        "total_votes_polled": 29717,
+        "turnout_percentage": 94.4,
+        "margin_votes": 1638,
+        "margin_percentage": 5.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Justine Dkhar",
+          "party": "Independent",
+          "votes": 10807,
+          "votes_percentage": 36.4
+        },
+        {
+          "position": 2,
+          "name": "Finelynes Bareh",
+          "party": "Independent",
+          "votes": 9169,
+          "votes_percentage": 30.9
+        },
+        {
+          "position": 3,
+          "name": "Amos Dkhar",
+          "party": "Indian National Congress",
+          "votes": 6815,
+          "votes_percentage": 22.9
+        },
+        {
+          "position": 4,
+          "name": "Obil Kyndait",
+          "party": "United Democratic Party",
+          "votes": 2926,
+          "votes_percentage": 9.9
+        }
+      ]
+    }
+  }
+}

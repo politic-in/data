@@ -1,0 +1,85 @@
+{
+  "state": "Himachal Pradesh",
+  "constituency": "SRI",
+  "district": "Bilaspur",
+  "ac_type": "GEN",
+  "results": {
+    "2022": {
+      "poll_date": "12 November 2022",
+      "counting_date": "08 December 2022",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 72233,
+        "total_votes_polled": 59202,
+        "turnout_percentage": 82.6,
+        "margin_votes": 860,
+        "margin_percentage": 1.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Vinay Kumar",
+          "party": "Indian National Congress",
+          "votes": 28642,
+          "votes_percentage": 48.0
+        },
+        {
+          "position": 2,
+          "name": "Narain Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 27782,
+          "votes_percentage": 46.6
+        },
+        {
+          "position": 3,
+          "name": "Jagmohan Singh",
+          "party": "Rashtriya Devbhumi Party",
+          "votes": 2092,
+          "votes_percentage": 3.5
+        },
+        {
+          "position": 4,
+          "name": "Ram Kishan",
+          "party": "Aam Aadmi Party",
+          "votes": 686,
+          "votes_percentage": 1.2
+        }
+      ]
+    },
+    "2017": {
+      "poll_date": "09 November 2017",
+      "counting_date": "18 December 2017",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 63080,
+        "total_votes_polled": 50965,
+        "turnout_percentage": 82.2,
+        "margin_votes": 5160,
+        "margin_percentage": 10.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Vinay Kumar",
+          "party": "Indian National Congress",
+          "votes": 22028,
+          "votes_percentage": 43.2
+        },
+        {
+          "position": 2,
+          "name": "Balbir Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 16868,
+          "votes_percentage": 33.1
+        },
+        {
+          "position": 3,
+          "name": "Hirdaya Ram",
+          "party": "Independent",
+          "votes": 12069,
+          "votes_percentage": 23.7
+        }
+      ]
+    }
+  }
+}

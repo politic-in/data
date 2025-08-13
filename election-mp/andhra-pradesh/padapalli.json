@@ -1,0 +1,36 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "PADAPALLI",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 412742,
+        "total_votes_polled": 225780,
+        "turnout_percentage": 54.7,
+        "margin_votes": 84021,
+        "margin_percentage": 37.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "M.R. Krishna",
+          "party": "Indian National Congress",
+          "votes": 149561,
+          "votes_percentage": 66.2
+        },
+        {
+          "position": 2,
+          "name": "Palanivelu",
+          "party": "Communist Party Of India",
+          "votes": 65540,
+          "votes_percentage": 29.0
+        }
+      ]
+    }
+  }
+}

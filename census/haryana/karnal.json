@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 88819,
+        "male": 107791,
+        "percentage_of_total_population": 13.06,
+        "percentage_of_total_population_calculated": 13.06,
+        "percentage_of_total_population_stated": 13.06,
+        "sex_ratio": 824,
+        "total": 196610
+    },
+    "literacy": {
+        "female_literacy_rate": 66.82,
+        "female_literate": 413497,
+        "male_literacy_rate": 81.82,
+        "male_literate": 564516,
+        "rate_percentage": 74.73,
+        "total_literate": 978013
+    },
+    "population": {
+        "female": 707612,
+        "male": 797712,
+        "sex_ratio": 887,
+        "total": 1505324
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.04,
+            "population": 532
+        },
+        "Christian": {
+            "percentage": 0.14,
+            "population": 2049
+        },
+        "Hindu": {
+            "percentage": 89.08,
+            "population": 1341002
+        },
+        "Jain": {
+            "percentage": 0.1,
+            "population": 1516
+        },
+        "Muslims": {
+            "percentage": 2.1,
+            "population": 31650
+        },
+        "Not Stated": {
+            "percentage": 0.15,
+            "population": 2319
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 49
+        },
+        "Sikh": {
+            "percentage": 8.38,
+            "population": 126207
+        }
+    },
+    "rural": {
+        "child_population_female": 64680,
+        "child_population_male": 78011,
+        "child_population_percentage": 13.58,
+        "child_population_percentage_calculated": 13.58,
+        "child_population_percentage_stated": 13.58,
+        "child_population_total": 142691,
+        "child_sex_ratio": 829,
+        "female": 493404,
+        "literacy_rate_female": 62.28,
+        "literacy_rate_male": 79.5,
+        "literacy_rate_percentage": 71.37,
+        "literate_female": 266997,
+        "literate_male": 380886,
+        "literate_total": 647883,
+        "male": 557110,
+        "percentage_population": 69.79,
+        "population": 1050514,
+        "sex_ratio": 886
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/213-karnal.html",
+    "urban": {
+        "child_population_female": 24133,
+        "child_population_male": 29786,
+        "child_population_percentage": 11.86,
+        "child_population_percentage_calculated": 11.86,
+        "child_population_percentage_stated": 11.86,
+        "child_population_total": 53919,
+        "child_sex_ratio": 810,
+        "female": 214208,
+        "literacy_rate_female": 77.07,
+        "literacy_rate_male": 87.1,
+        "literacy_rate_percentage": 82.35,
+        "literate_female": 146500,
+        "literate_male": 183630,
+        "literate_total": 330130,
+        "male": 240602,
+        "percentage_population": 30.21,
+        "population": 454810,
+        "sex_ratio": 890
+    }
+}

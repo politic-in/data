@@ -1,0 +1,50 @@
+{
+  "state": "Rajasthan",
+  "constituency": "CHITORGARH",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 505661,
+        "total_votes_polled": 265725,
+        "turnout_percentage": 52.6,
+        "margin_votes": 35101,
+        "margin_percentage": 13.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "O. L. Bohra",
+          "party": "Indian National Congress",
+          "votes": 117821,
+          "votes_percentage": 44.3
+        },
+        {
+          "position": 2,
+          "name": "B. N. Sharma",
+          "party": "Bhartiya Jan Sangh",
+          "votes": 82720,
+          "votes_percentage": 31.1
+        },
+        {
+          "position": 3,
+          "name": "G. Lal",
+          "party": "Independent",
+          "votes": 40789,
+          "votes_percentage": 15.4
+        },
+        {
+          "position": 4,
+          "name": "R. L. Dhakad",
+          "party": "Independent",
+          "votes": 14435,
+          "votes_percentage": 5.4
+        }
+      ]
+    }
+  }
+}

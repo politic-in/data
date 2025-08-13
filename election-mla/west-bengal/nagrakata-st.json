@@ -1,0 +1,64 @@
+{
+  "state": "West Bengal",
+  "constituency": "NAGRAKATA (ST)",
+  "district": "Jalpaiguri",
+  "ac_type": "ST",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 213068,
+        "total_votes_polled": 170346,
+        "turnout_percentage": 82.9,
+        "margin_votes": 3228,
+        "margin_percentage": 1.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sukra Munda",
+          "party": "All India Trinamool Congress",
+          "votes": 57306,
+          "votes_percentage": 33.6
+        },
+        {
+          "position": 2,
+          "name": "Joseph Munda",
+          "party": "Indian National Congress",
+          "votes": 54078,
+          "votes_percentage": 31.8
+        },
+        {
+          "position": 3,
+          "name": "John Barla",
+          "party": "Bharatiya Janta Party",
+          "votes": 47836,
+          "votes_percentage": 28.1
+        },
+        {
+          "position": 4,
+          "name": "Ganesh Lama",
+          "party": "Akhil Bharatiya Gorkha League",
+          "votes": 3855,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 5,
+          "name": "Indar Deo Oraon",
+          "party": "Independent",
+          "votes": 3829,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 6,
+          "name": "Pawan Kumar Kherwar",
+          "party": "Independent",
+          "votes": 3442,
+          "votes_percentage": 2.0
+        }
+      ]
+    }
+  }
+}

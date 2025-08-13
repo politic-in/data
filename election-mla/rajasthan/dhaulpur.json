@@ -1,0 +1,106 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Dhaulpur",
+  "district": "Dhaulpur",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 12,
+      "aggregate": {
+        "total_electors": 195980,
+        "total_votes_polled": 145757,
+        "turnout_percentage": 75.1,
+        "margin_votes": 19360,
+        "margin_percentage": 13.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shobharani Kushwah",
+          "party": "Bharatiya Janta Party",
+          "votes": 67349,
+          "votes_percentage": 46.2
+        },
+        {
+          "position": 2,
+          "name": "Dr. Shiv Charan Singh Kushawah",
+          "party": "Indian National Congress",
+          "votes": 47989,
+          "votes_percentage": 32.9
+        },
+        {
+          "position": 3,
+          "name": "Kishan Chand Sharma",
+          "party": "Bahujan Samaj Party",
+          "votes": 21253,
+          "votes_percentage": 14.6
+        },
+        {
+          "position": 4,
+          "name": "Chand Prakash Sharma Urf C.P. Sharma",
+          "party": "Independent",
+          "votes": 6244,
+          "votes_percentage": 4.3
+        },
+        {
+          "position": 5,
+          "name": "Ramkhiladi",
+          "party": "Independent",
+          "votes": 875,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Suresh",
+          "party": "Independent",
+          "votes": 577,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Amit Kumar Sisondiya",
+          "party": "Bharatiya Yuva Shakti",
+          "votes": 471,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Mukesh Chand Sharma",
+          "party": "Independent",
+          "votes": 363,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Dronacharya",
+          "party": "Independent",
+          "votes": 209,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Pramod Kumar",
+          "party": "Independent",
+          "votes": 202,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Gaffar Uddin",
+          "party": "Independent",
+          "votes": 121,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Anup Kumar Sharma",
+          "party": "Independent",
+          "votes": 104,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

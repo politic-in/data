@@ -1,0 +1,71 @@
+{
+  "state": "Madhya Pradesh [2000 Onwards]",
+  "constituency": "Khandawa",
+  "district": "East Nimar",
+  "ac_type": "SC",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 251386,
+        "total_votes_polled": 166977,
+        "turnout_percentage": 67.5,
+        "margin_votes": 19137,
+        "margin_percentage": 11.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Devendra Verma",
+          "party": "Bharatiya Janta Party",
+          "votes": 77123,
+          "votes_percentage": 46.2
+        },
+        {
+          "position": 2,
+          "name": "Kundan Malviya",
+          "party": "Indian National Congress",
+          "votes": 57986,
+          "votes_percentage": 34.7
+        },
+        {
+          "position": 3,
+          "name": "Kaushal Mehra",
+          "party": "Independent",
+          "votes": 26492,
+          "votes_percentage": 15.9
+        },
+        {
+          "position": 4,
+          "name": "Bhaiyya Rajkumar Kaithvas",
+          "party": "Independent",
+          "votes": 2207,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 5,
+          "name": "Sampat Pachore  Advocate",
+          "party": "Bahujan Samaj Party",
+          "votes": 1216,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Sanjay Medhekar",
+          "party": "Aam Aadmi Party",
+          "votes": 1203,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Pannalal Ginare",
+          "party": "Independent",
+          "votes": 750,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

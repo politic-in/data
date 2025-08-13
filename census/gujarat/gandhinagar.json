@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 76756,
+        "male": 90621,
+        "percentage_of_total_population": 12.03,
+        "percentage_of_total_population_calculated": 12.03,
+        "percentage_of_total_population_stated": 12.03,
+        "sex_ratio": 847,
+        "total": 167377
+    },
+    "literacy": {
+        "female_literacy_rate": 75.76,
+        "female_literate": 447808,
+        "male_literacy_rate": 92.01,
+        "male_literate": 582686,
+        "rate_percentage": 84.16,
+        "total_literate": 1030494
+    },
+    "population": {
+        "female": 667889,
+        "male": 723864,
+        "sex_ratio": 923,
+        "total": 1391753
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.04,
+            "population": 497
+        },
+        "Christian": {
+            "percentage": 0.23,
+            "population": 3237
+        },
+        "Hindu": {
+            "percentage": 94.81,
+            "population": 1319586
+        },
+        "Jain": {
+            "percentage": 0.46,
+            "population": 6405
+        },
+        "Muslims": {
+            "percentage": 4.12,
+            "population": 57273
+        },
+        "Not Stated": {
+            "percentage": 0.19,
+            "population": 2688
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 82
+        },
+        "Sikh": {
+            "percentage": 0.14,
+            "population": 1985
+        }
+    },
+    "rural": {
+        "child_population_female": 46082,
+        "child_population_male": 53681,
+        "child_population_percentage": 12.61,
+        "child_population_percentage_calculated": 12.61,
+        "child_population_percentage_stated": 12.61,
+        "child_population_total": 99763,
+        "child_sex_ratio": 858,
+        "female": 382690,
+        "literacy_rate_female": 71.5,
+        "literacy_rate_male": 91.13,
+        "literacy_rate_percentage": 81.57,
+        "literate_female": 240668,
+        "literate_male": 323305,
+        "literate_total": 563973,
+        "male": 408436,
+        "percentage_population": 56.84,
+        "population": 791126,
+        "sex_ratio": 937
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/187-gandhinagar.html",
+    "urban": {
+        "child_population_female": 30691,
+        "child_population_male": 36923,
+        "child_population_percentage": 11.26,
+        "child_population_percentage_calculated": 11.26,
+        "child_population_percentage_stated": 11.26,
+        "child_population_total": 67614,
+        "child_sex_ratio": 831,
+        "female": 285199,
+        "literacy_rate_female": 81.39,
+        "literacy_rate_male": 93.13,
+        "literacy_rate_percentage": 87.53,
+        "literate_female": 207140,
+        "literate_male": 259381,
+        "literate_total": 466521,
+        "male": 315428,
+        "percentage_population": 43.16,
+        "population": 600627,
+        "sex_ratio": 904
+    }
+}

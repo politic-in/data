@@ -1,0 +1,698 @@
+{
+  "state": "Maharashtra",
+  "constituency": "NAWAPUR",
+  "district": "Nandurbar",
+  "ac_type": "ST",
+  "results": {
+    "2024": {
+      "poll_date": "20 November 2024",
+      "counting_date": "23 November 2024",
+      "total_contestants": 12,
+      "aggregate": {
+        "total_electors": 295786,
+        "total_votes_polled": 238476,
+        "turnout_percentage": 81.5,
+        "margin_votes": 1121,
+        "margin_percentage": 0.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shirishkumar Surupsing Naik",
+          "party": "Indian National Congress",
+          "votes": 87166,
+          "votes_percentage": 36.1
+        },
+        {
+          "position": 2,
+          "name": "Sharad Krishnarao Gavit",
+          "party": "Independent",
+          "votes": 86045,
+          "votes_percentage": 35.7
+        },
+        {
+          "position": 3,
+          "name": "Bharat Manikrao Gavit",
+          "party": "Nationalist Congress Party",
+          "votes": 56176,
+          "votes_percentage": 23.3
+        },
+        {
+          "position": 4,
+          "name": "Ranjit Vantya Gavit",
+          "party": "Peasants And Workers Party Of India",
+          "votes": 2858,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 6,
+          "name": "Arvind Posalya Valvi",
+          "party": "Bharat Adivasi Party",
+          "votes": 1182,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Sandip Waman Gavit",
+          "party": "Independent",
+          "votes": 1100,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Sharadkumar Gavit",
+          "party": "Independent",
+          "votes": 1014,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Kaushalya Fattesing Gavit",
+          "party": "Independent",
+          "votes": 759,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Sanjay Dinkar Valvi",
+          "party": "Independent",
+          "votes": 706,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 11,
+          "name": "Yakub Anil Gavit",
+          "party": "Independent",
+          "votes": 615,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 12,
+          "name": "Anil Manji Valvi",
+          "party": "Independent",
+          "votes": 517,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 13,
+          "name": "Dinesh Kashinath Valvi",
+          "party": "Independent",
+          "votes": 338,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2019": {
+      "poll_date": "21 October 2019",
+      "counting_date": "24 October 2019",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 287031,
+        "total_votes_polled": 212713,
+        "turnout_percentage": 75.8,
+        "margin_votes": 11335,
+        "margin_percentage": 5.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Naik Shirishkumar Surupsing",
+          "party": "Indian National Congress",
+          "votes": 74652,
+          "votes_percentage": 35.1
+        },
+        {
+          "position": 2,
+          "name": "Sharad Krushnarao Gavit",
+          "party": "Independent",
+          "votes": 63317,
+          "votes_percentage": 29.8
+        },
+        {
+          "position": 3,
+          "name": "Gavit Bharat Manikrao",
+          "party": "Bharatiya Janta Party",
+          "votes": 58579,
+          "votes_percentage": 27.5
+        },
+        {
+          "position": 4,
+          "name": "Dr. Ulhas Jayant Vasave",
+          "party": "Bhartiya Tribal Party",
+          "votes": 6009,
+          "votes_percentage": 2.8
+        },
+        {
+          "position": 5,
+          "name": "Jagan Hurji Gavit",
+          "party": "Vanchit Bahujan Aaghadi",
+          "votes": 5462,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 6,
+          "name": "Dr. Rakesh Rajya Gavit",
+          "party": "Independent",
+          "votes": 1286,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Adv. Prakash Mohan Gangurde",
+          "party": "Independent",
+          "votes": 1154,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Arjunsing Diwansing Vasave",
+          "party": "Independent",
+          "votes": 1039,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 9,
+          "name": "Ramu Maharya Valvi",
+          "party": "Peoples Party Of India (Democratic)",
+          "votes": 738,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 10,
+          "name": "Dr. Sunil Kuthya Gavit",
+          "party": "Aam Aadmi Party",
+          "votes": 477,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "15 October 2014",
+      "counting_date": "19 October 2014",
+      "total_contestants": 12,
+      "aggregate": {
+        "total_electors": 266023,
+        "total_votes_polled": 197826,
+        "turnout_percentage": 75.9,
+        "total_valid_votes": 193738,
+        "total_valid_votes_percentage": 72.8,
+        "margin_votes": 21817,
+        "margin_percentage": 11.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Naik Surupsing Hirya",
+          "party": "Indian National Congress",
+          "votes": 93796,
+          "votes_percentage": 47.4
+        },
+        {
+          "position": 2,
+          "name": "Gavit Sharad Krushnarao",
+          "party": "Nationalist Congress Party",
+          "votes": 71979,
+          "votes_percentage": 36.4
+        },
+        {
+          "position": 3,
+          "name": "Valvi Kuvarsing Fulaji",
+          "party": "Bharatiya Janta Party",
+          "votes": 11236,
+          "votes_percentage": 5.7
+        },
+        {
+          "position": 4,
+          "name": "Gavit Jagan Huraji",
+          "party": "Peasants And Workers Party Of India",
+          "votes": 4096,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 5,
+          "name": "Jyotsna Dilip Gavit",
+          "party": "Shiv Sena",
+          "votes": 3977,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 6,
+          "name": "Motilal Chapdu Gangurde",
+          "party": "Independent",
+          "votes": 2009,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 7,
+          "name": "Vasave Amit Sheklal",
+          "party": "Bahujan Samaj Party",
+          "votes": 1746,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 8,
+          "name": "Adv. Sobaji Devalya Gavit",
+          "party": "Independent",
+          "votes": 1675,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 9,
+          "name": "Vasave Madhav Nathu",
+          "party": "Maharashtra Navnirman Sena",
+          "votes": 1115,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 10,
+          "name": "Urmila Madhukar Valvi",
+          "party": "Independent",
+          "votes": 871,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 11,
+          "name": "Arjunsing Diwansing Vasave",
+          "party": "Bharipa Bahujan Mahasangh",
+          "votes": 634,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 12,
+          "name": "Bakaram Dashrath Valvi",
+          "party": "Lok Bharati",
+          "votes": 604,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "13 October 2009",
+      "counting_date": "22 October 2009",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 231811,
+        "total_votes_polled": 176324,
+        "turnout_percentage": 76.1,
+        "total_valid_votes": 175997,
+        "total_valid_votes_percentage": 75.9,
+        "margin_votes": 1695,
+        "margin_percentage": 1.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gavit Sharadkrushnarao",
+          "party": "Samajwadi Party",
+          "votes": 75719,
+          "votes_percentage": 42.9
+        },
+        {
+          "position": 2,
+          "name": "Naik Surupsing Hirya",
+          "party": "Indian National Congress",
+          "votes": 74024,
+          "votes_percentage": 42.0
+        },
+        {
+          "position": 3,
+          "name": "Naik Dilip Shashikumar",
+          "party": "Independent",
+          "votes": 11853,
+          "votes_percentage": 6.7
+        },
+        {
+          "position": 4,
+          "name": "Anil Mohan Vasave",
+          "party": "Bharatiya Janta Party",
+          "votes": 6166,
+          "votes_percentage": 3.5
+        },
+        {
+          "position": 5,
+          "name": "Vasave Arjunsingdivansing",
+          "party": "Bharipa Bahujan Mahasangh",
+          "votes": 3670,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 6,
+          "name": "Gavit Sharad Fattesing",
+          "party": "Independent",
+          "votes": 1892,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 7,
+          "name": "Gavit Ishwar Nurji",
+          "party": "Bahujan Samaj Party",
+          "votes": 1610,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 8,
+          "name": "Gavit Sobaji Devlya",
+          "party": "Independent",
+          "votes": 1390,
+          "votes_percentage": 0.8
+        }
+      ]
+    },
+    "2004": {
+      "poll_date": "13 October 2004",
+      "counting_date": "16 October 2004",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 218313,
+        "total_votes_polled": 165454,
+        "turnout_percentage": 75.8,
+        "margin_votes": 98434,
+        "margin_percentage": 59.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Naik Surupsing Hirya",
+          "party": "Indian National Congress",
+          "votes": 121613,
+          "votes_percentage": 73.6
+        },
+        {
+          "position": 2,
+          "name": "Bagul Anil Sukram",
+          "party": "Bharatiya Janta Party",
+          "votes": 23179,
+          "votes_percentage": 14.0
+        },
+        {
+          "position": 3,
+          "name": "Gavit Ishwar Nuraji",
+          "party": "Bahujan Samaj Party",
+          "votes": 9034,
+          "votes_percentage": 5.5
+        },
+        {
+          "position": 4,
+          "name": "Gangurde Savita Ramakant",
+          "party": "Independent",
+          "votes": 5464,
+          "votes_percentage": 3.3
+        },
+        {
+          "position": 5,
+          "name": "Gavit Ramsing Genya",
+          "party": "Janata Dal (Secular)",
+          "votes": 2590,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 6,
+          "name": "Gawali Durgabai Hiru",
+          "party": "Independent",
+          "votes": 1992,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 7,
+          "name": "Gavit Sobaji Deolya",
+          "party": "Samajwadi Party",
+          "votes": 1467,
+          "votes_percentage": 0.9
+        }
+      ]
+    },
+    "1999": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 196105,
+        "total_votes_polled": 133948,
+        "turnout_percentage": 68.3,
+        "margin_votes": 24505,
+        "margin_percentage": 18.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Naik Surupsing Hirya",
+          "party": "Indian National Congress",
+          "votes": 66902,
+          "votes_percentage": 52.8
+        },
+        {
+          "position": 2,
+          "name": "Dilip Shashikumar Naik",
+          "party": "Nationalist Congress Party",
+          "votes": 42397,
+          "votes_percentage": 33.5
+        },
+        {
+          "position": 3,
+          "name": "Mavachi Ratanji Motya",
+          "party": "Bharatiya Janta Party",
+          "votes": 17387,
+          "votes_percentage": 13.7
+        }
+      ]
+    },
+    "1995": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 189414,
+        "total_votes_polled": 137605,
+        "turnout_percentage": 72.7,
+        "margin_votes": 21807,
+        "margin_percentage": 15.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Naik Surupsing Hirya",
+          "party": "Indian National Congress",
+          "votes": 69518,
+          "votes_percentage": 53.4
+        },
+        {
+          "position": 2,
+          "name": "Mavachi Ratanji Motya",
+          "party": "Bharatiya Janta Party",
+          "votes": 47711,
+          "votes_percentage": 36.6
+        },
+        {
+          "position": 3,
+          "name": "Pawar Babulal Kisan",
+          "party": "Independent",
+          "votes": 11395,
+          "votes_percentage": 8.8
+        },
+        {
+          "position": 4,
+          "name": "Vasave Mira Kishor",
+          "party": "Doordarshi Party",
+          "votes": 1669,
+          "votes_percentage": 1.3
+        }
+      ]
+    },
+    "1990": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 164348,
+        "total_votes_polled": 101233,
+        "turnout_percentage": 61.6,
+        "margin_votes": 49782,
+        "margin_percentage": 49.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Naik Surupsing Hirya",
+          "party": "Indian National Congress",
+          "votes": 66510,
+          "votes_percentage": 67.4
+        },
+        {
+          "position": 2,
+          "name": "Thakare Ambar Barik",
+          "party": "Bharatiya Janta Party",
+          "votes": 16728,
+          "votes_percentage": 17.0
+        },
+        {
+          "position": 3,
+          "name": "Gavit Sobaji Devalya",
+          "party": "Janata Dal",
+          "votes": 14311,
+          "votes_percentage": 14.5
+        },
+        {
+          "position": 4,
+          "name": "Vasave Kishor Utarya",
+          "party": "Doordarshi Party",
+          "votes": 447,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "Vasave Mangi Fojya",
+          "party": "Independent",
+          "votes": 359,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Pawar Babulal Kisan",
+          "party": "Independent",
+          "votes": 316,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "1985": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 131337,
+        "total_votes_polled": 85727,
+        "turnout_percentage": 65.3,
+        "margin_votes": 49015,
+        "margin_percentage": 57.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Naik Shurupsing Hirya",
+          "party": "Indian National Congress",
+          "votes": 62580,
+          "votes_percentage": 74.9
+        },
+        {
+          "position": 2,
+          "name": "Vasant Dodha Suryavanshi",
+          "party": "Janta Party",
+          "votes": 13565,
+          "votes_percentage": 16.2
+        },
+        {
+          "position": 3,
+          "name": "Gavit Nojubhai Fulsing",
+          "party": "Independent",
+          "votes": 4320,
+          "votes_percentage": 5.2
+        },
+        {
+          "position": 4,
+          "name": "Swarupsing Fulji Valavi",
+          "party": "Independent",
+          "votes": 1213,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Manji Fojya Vasave",
+          "party": "Independent",
+          "votes": 1110,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 6,
+          "name": "Ranu Ukhadya Kokani",
+          "party": "Independent",
+          "votes": 735,
+          "votes_percentage": 0.9
+        }
+      ]
+    },
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 115974,
+        "total_votes_polled": 56945,
+        "turnout_percentage": 49.1,
+        "margin_votes": 38604,
+        "margin_percentage": 67.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gavit Manikrao Hodlya",
+          "party": "Indian National Congress (I)",
+          "votes": 45357,
+          "votes_percentage": 83.1
+        },
+        {
+          "position": 2,
+          "name": "Kokani Brijlal Shrawan",
+          "party": "Bharatiya Janta Party",
+          "votes": 6753,
+          "votes_percentage": 12.4
+        },
+        {
+          "position": 3,
+          "name": "Vasave Vinayakrao Gajarya",
+          "party": "Janata Party (JP)",
+          "votes": 2453,
+          "votes_percentage": 4.5
+        }
+      ]
+    },
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 107229,
+        "total_votes_polled": 62885,
+        "turnout_percentage": 58.7,
+        "margin_votes": 5456,
+        "margin_percentage": 8.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Vasave Zina Samya",
+          "party": "Indian National Congress (I)",
+          "votes": 24572,
+          "votes_percentage": 42.0
+        },
+        {
+          "position": 2,
+          "name": "Valvi Surupsing Fulji",
+          "party": "Indian National Congress",
+          "votes": 19116,
+          "votes_percentage": 32.6
+        },
+        {
+          "position": 3,
+          "name": "Vasava Sattarsing Sona",
+          "party": "Janta Party",
+          "votes": 9669,
+          "votes_percentage": 16.5
+        },
+        {
+          "position": 4,
+          "name": "Chaure Dharma Gangaram",
+          "party": "Communist Party Of India",
+          "votes": 4281,
+          "votes_percentage": 7.3
+        },
+        {
+          "position": 5,
+          "name": "Gavit Rudha Rajya",
+          "party": "Independent",
+          "votes": 931,
+          "votes_percentage": 1.6
+        }
+      ]
+    }
+  }
+}

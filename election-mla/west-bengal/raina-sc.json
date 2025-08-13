@@ -1,0 +1,43 @@
+{
+  "state": "West Bengal",
+  "constituency": "RAINA (SC)",
+  "district": "Barddhaman",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 234758,
+        "total_votes_polled": 202787,
+        "turnout_percentage": 87.8,
+        "margin_votes": 448,
+        "margin_percentage": 0.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nepal Ghorui",
+          "party": "All India Trinamool Congress",
+          "votes": 94323,
+          "votes_percentage": 46.5
+        },
+        {
+          "position": 2,
+          "name": "Khan Basudeb",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 93875,
+          "votes_percentage": 46.3
+        },
+        {
+          "position": 3,
+          "name": "Kashinath Patra",
+          "party": "Bharatiya Janta Party",
+          "votes": 14589,
+          "votes_percentage": 7.2
+        }
+      ]
+    }
+  }
+}

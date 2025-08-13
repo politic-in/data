@@ -1,0 +1,43 @@
+{
+  "state": "Maharashtra",
+  "constituency": "Depoli",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 102582,
+        "total_votes_polled": 55057,
+        "turnout_percentage": 53.7,
+        "margin_votes": 1385,
+        "margin_percentage": 2.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sakpal Gangaram Daulat",
+          "party": "Janata Party (JP)",
+          "votes": 25130,
+          "votes_percentage": 47.3
+        },
+        {
+          "position": 2,
+          "name": "Belose Ramchandra",
+          "party": "Indian National Congress (I)",
+          "votes": 23745,
+          "votes_percentage": 44.7
+        },
+        {
+          "position": 3,
+          "name": "Mokal Chandramant Jagannath",
+          "party": "Independent",
+          "votes": 4251,
+          "votes_percentage": 8.0
+        }
+      ]
+    }
+  }
+}

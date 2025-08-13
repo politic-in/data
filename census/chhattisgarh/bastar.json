@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 108030,
+        "male": 108683,
+        "percentage_of_total_population": 15.33,
+        "percentage_of_total_population_calculated": 15.33,
+        "percentage_of_total_population_stated": 15.33,
+        "sex_ratio": 994,
+        "total": 216713
+    },
+    "literacy": {
+        "female_literacy_rate": 44.26,
+        "female_literate": 268528,
+        "male_literacy_rate": 64.82,
+        "male_literate": 382335,
+        "rate_percentage": 54.4,
+        "total_literate": 650863
+    },
+    "population": {
+        "female": 714712,
+        "male": 698487,
+        "sex_ratio": 1023,
+        "total": 1413199
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.07,
+            "population": 985
+        },
+        "Christian": {
+            "percentage": 1.98,
+            "population": 27951
+        },
+        "Hindu": {
+            "percentage": 90.43,
+            "population": 1277975
+        },
+        "Jain": {
+            "percentage": 0.25,
+            "population": 3466
+        },
+        "Muslims": {
+            "percentage": 0.88,
+            "population": 12413
+        },
+        "Not Stated": {
+            "percentage": 0.1,
+            "population": 1385
+        },
+        "Others": {
+            "percentage": 6.15,
+            "population": 86925
+        },
+        "Sikh": {
+            "percentage": 0.15,
+            "population": 2099
+        }
+    },
+    "rural": {
+        "child_population_female": 97242,
+        "child_population_male": 97079,
+        "child_population_percentage": 15.93,
+        "child_population_percentage_calculated": 15.93,
+        "child_population_percentage_stated": 15.93,
+        "child_population_total": 194321,
+        "child_sex_ratio": 1002,
+        "female": 619053,
+        "literacy_rate_female": 39.32,
+        "literacy_rate_male": 60.75,
+        "literacy_rate_percentage": 49.84,
+        "literate_female": 205159,
+        "literate_male": 305898,
+        "literate_total": 511057,
+        "male": 600652,
+        "percentage_population": 86.31,
+        "population": 1219705,
+        "sex_ratio": 1031
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/499-bastar.html",
+    "urban": {
+        "child_population_female": 10809,
+        "child_population_male": 11583,
+        "child_population_percentage": 11.57,
+        "child_population_percentage_calculated": 11.57,
+        "child_population_percentage_stated": 11.57,
+        "child_population_total": 22392,
+        "child_sex_ratio": 933,
+        "female": 95659,
+        "literacy_rate_female": 74.68,
+        "literacy_rate_male": 88.62,
+        "literacy_rate_percentage": 81.71,
+        "literate_female": 63369,
+        "literate_male": 76437,
+        "literate_total": 139806,
+        "male": 97835,
+        "percentage_population": 13.69,
+        "population": 193494,
+        "sex_ratio": 978
+    }
+}

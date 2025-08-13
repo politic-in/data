@@ -1,0 +1,48 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "NARSAPUR",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1957": {
+      "poll_date": "25 February 1957",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 457723,
+        "total_votes_polled": 260037,
+        "turnout_percentage": 56.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Uddaraju Ramam",
+          "party": "Communist Party Of India",
+          "votes": 134119,
+          "votes_percentage": 51.6
+        },
+        {
+          "position": 2,
+          "name": "Manganti Bapineedu",
+          "party": "Indian National Congress",
+          "votes": 98654,
+          "votes_percentage": 37.9
+        },
+        {
+          "position": 3,
+          "name": "Pasala Surya Chandra Rao",
+          "party": "Independent",
+          "votes": 23495,
+          "votes_percentage": 9.0
+        },
+        {
+          "position": 4,
+          "name": "Mamidi Pattabhi Rama Rao",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 3769,
+          "votes_percentage": 1.4
+        }
+      ]
+    }
+  }
+}

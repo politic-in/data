@@ -1,0 +1,64 @@
+{
+  "state": "West Bengal",
+  "constituency": "KUSHMUNDI (SC)",
+  "district": "Dakshin Dinajpur",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 190532,
+        "total_votes_polled": 159556,
+        "turnout_percentage": 85.8,
+        "margin_votes": 3529,
+        "margin_percentage": 2.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Narmada Chandra Roy",
+          "party": "Revolutionary Socialist Party",
+          "votes": 68965,
+          "votes_percentage": 43.2
+        },
+        {
+          "position": 2,
+          "name": "Rekha Roy",
+          "party": "All India Trinamool Congress",
+          "votes": 65436,
+          "votes_percentage": 41.0
+        },
+        {
+          "position": 3,
+          "name": "Ranjit Kumar Roy",
+          "party": "Bharatiya Janta Party",
+          "votes": 20183,
+          "votes_percentage": 12.7
+        },
+        {
+          "position": 4,
+          "name": "Jaydeb Mondal",
+          "party": "Bahujan Samaj Party",
+          "votes": 2009,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 5,
+          "name": "Anil Kumar Singha",
+          "party": "Independent",
+          "votes": 1495,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Jagannath Roy",
+          "party": "Independent",
+          "votes": 1468,
+          "votes_percentage": 0.9
+        }
+      ]
+    }
+  }
+}

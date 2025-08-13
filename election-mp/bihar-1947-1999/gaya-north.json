@@ -1,0 +1,41 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "GAYA NORTH",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 288509,
+        "total_votes_polled": 127767,
+        "turnout_percentage": 44.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bigeshwar Missir",
+          "party": "Socialist Party",
+          "votes": 55817,
+          "votes_percentage": 43.7
+        },
+        {
+          "position": 2,
+          "name": "Jagannath Prasad Sinha",
+          "party": "Indian National Congress",
+          "votes": 49047,
+          "votes_percentage": 38.4
+        },
+        {
+          "position": 3,
+          "name": "Chandradeo Sharma",
+          "party": "All India United Kisan Sabha",
+          "votes": 22903,
+          "votes_percentage": 17.9
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "state": "Uttarakhand",
+  "constituency": "RAJPURROAD(SC)",
+  "district": "Dehradun",
+  "ac_type": "SC",
+  "results": {
+    "2022": {
+      "poll_date": "14 February 2022",
+      "counting_date": "10 March 2022",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 101482,
+        "total_votes_polled": 68439,
+        "turnout_percentage": 68.1,
+        "margin_votes": 11163,
+        "margin_percentage": 16.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Khajan Dass",
+          "party": "Bharatiya Janta Party",
+          "votes": 37027,
+          "votes_percentage": 54.1
+        },
+        {
+          "position": 2,
+          "name": "Rajkumar",
+          "party": "Indian National Congress",
+          "votes": 25864,
+          "votes_percentage": 37.8
+        },
+        {
+          "position": 3,
+          "name": "Dimpal",
+          "party": "Aam Aadmi Party",
+          "votes": 4127,
+          "votes_percentage": 6.0
+        },
+        {
+          "position": 4,
+          "name": "Dhansingh",
+          "party": "Bahujan Samaj Party",
+          "votes": 404,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 5,
+          "name": "Amar Singh Swedia",
+          "party": "Independent",
+          "votes": 396,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Ramu Rajoria",
+          "party": "Aazad Samaj Party (Kanshi Ram)",
+          "votes": 213,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "Kamlesh Mathur",
+          "party": "Samajwadi Party",
+          "votes": 178,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Vijay Kumar",
+          "party": "Rashtriya Uttarakhand Party",
+          "votes": 122,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Billu",
+          "party": "Uttarakhand Kranti Dal",
+          "votes": 108,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

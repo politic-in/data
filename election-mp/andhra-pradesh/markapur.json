@@ -1,0 +1,76 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "MARKAPUR",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 474652,
+        "total_votes_polled": 310167,
+        "turnout_percentage": 65.4,
+        "margin_votes": 26827,
+        "margin_percentage": 8.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gujjula Yellamanda Reddy",
+          "party": "Communist Party Of India",
+          "votes": 146909,
+          "votes_percentage": 47.4
+        },
+        {
+          "position": 2,
+          "name": "Chegireddy Balireddy",
+          "party": "Indian National Congress",
+          "votes": 120082,
+          "votes_percentage": 38.7
+        },
+        {
+          "position": 3,
+          "name": "M. Edward",
+          "party": "Independent",
+          "votes": 32629,
+          "votes_percentage": 10.5
+        }
+      ]
+    },
+    "1957": {
+      "poll_date": "25 February 1957",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 438204,
+        "total_votes_polled": 170026,
+        "turnout_percentage": 38.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chegireddi Bali Reddy",
+          "party": "Indian National Congress",
+          "votes": 90883,
+          "votes_percentage": 53.5
+        },
+        {
+          "position": 2,
+          "name": "Gujjala Yellamanda Reddy",
+          "party": "Communist Party Of India",
+          "votes": 72078,
+          "votes_percentage": 42.4
+        },
+        {
+          "position": 3,
+          "name": "Sure Subba Rayadu",
+          "party": "Independent",
+          "votes": 7065,
+          "votes_percentage": 4.2
+        }
+      ]
+    }
+  }
+}

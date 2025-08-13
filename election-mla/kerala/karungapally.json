@@ -1,0 +1,78 @@
+{
+  "state": "Kerala",
+  "constituency": "Karungapally",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1987": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 106485,
+        "total_votes_polled": 90754,
+        "turnout_percentage": 85.2,
+        "margin_votes": 12695,
+        "margin_percentage": 14.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "P. S. Sreenivasan",
+          "party": "Communist Party Of India",
+          "votes": 48622,
+          "votes_percentage": 53.8
+        },
+        {
+          "position": 2,
+          "name": "K. C. Rajan",
+          "party": "Indian National Congress",
+          "votes": 35927,
+          "votes_percentage": 39.8
+        },
+        {
+          "position": 3,
+          "name": "K. L. Thankamony",
+          "party": "Bharatiya Janta Party",
+          "votes": 3900,
+          "votes_percentage": 4.3
+        },
+        {
+          "position": 4,
+          "name": "Abdul Samad",
+          "party": "Independent",
+          "votes": 802,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "P. K. Bhaskaran",
+          "party": "Independent",
+          "votes": 767,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Vimalan",
+          "party": "Independent",
+          "votes": 127,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 7,
+          "name": "Ismail Kunju",
+          "party": "Independent",
+          "votes": 114,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "M. S. Rudran",
+          "party": "Independent",
+          "votes": 87,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

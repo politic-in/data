@@ -1,0 +1,129 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "MOHIUDDIN NAGAR",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2005": {
+      "poll_date": "26 October 2005",
+      "counting_date": "21 November 2005",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 235181,
+        "total_votes_polled": 102364,
+        "turnout_percentage": 43.5,
+        "total_valid_votes": 102354,
+        "total_valid_votes_percentage": 43.5,
+        "margin_votes": 6071,
+        "margin_percentage": 5.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ajai Kumar Bulganin",
+          "party": "Rashtriya Janata Dal",
+          "votes": 45219,
+          "votes_percentage": 44.2
+        },
+        {
+          "position": 2,
+          "name": "Rana Gangeshwar Prasad Singh",
+          "party": "Lok Jan Shakti Party",
+          "votes": 39148,
+          "votes_percentage": 38.3
+        },
+        {
+          "position": 3,
+          "name": "Brajesh Kumar",
+          "party": "Janata Dal (United)",
+          "votes": 10564,
+          "votes_percentage": 10.3
+        },
+        {
+          "position": 4,
+          "name": "Bhushan Prasad Ray",
+          "party": "Jai Jawan Jai Kisan Mazdoor Congress",
+          "votes": 4575,
+          "votes_percentage": 4.5
+        },
+        {
+          "position": 5,
+          "name": "Ram Yatan Ray",
+          "party": "Bahujan Samaj Party",
+          "votes": 2848,
+          "votes_percentage": 2.8
+        }
+      ]
+    },
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 213984,
+        "total_votes_polled": 158273,
+        "turnout_percentage": 74.0,
+        "margin_votes": 4764,
+        "margin_percentage": 3.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ram Chandra Rai",
+          "party": "Rashtriya Janata Dal",
+          "votes": 53697,
+          "votes_percentage": 34.4
+        },
+        {
+          "position": 2,
+          "name": "Ajai Kumar Bulganin",
+          "party": "Janata Dal (United)",
+          "votes": 48933,
+          "votes_percentage": 31.4
+        },
+        {
+          "position": 3,
+          "name": "Rana Gangeshwar Pd. Singh",
+          "party": "Samata Party",
+          "votes": 46918,
+          "votes_percentage": 30.1
+        },
+        {
+          "position": 4,
+          "name": "Ram Kalewar Prasad  Singh",
+          "party": "Indian National Congress",
+          "votes": 2541,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 5,
+          "name": "Ananta Kumar Sinha",
+          "party": "Independent",
+          "votes": 1102,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Jaimangal Pd. Yadav",
+          "party": "Samajwadi Party",
+          "votes": 997,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Uma Devi",
+          "party": "Independent",
+          "votes": 944,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "Baidya Nath Singh Bhushan",
+          "party": "Ajeya Bharat Party",
+          "votes": 942,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

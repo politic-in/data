@@ -1,0 +1,48 @@
+{
+  "state": "Rajasthan",
+  "constituency": "BIKANER CHURU",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 397481,
+        "total_votes_polled": 187557,
+        "turnout_percentage": 47.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Maharaja Karni Singh",
+          "party": "Independent",
+          "votes": 117926,
+          "votes_percentage": 62.9
+        },
+        {
+          "position": 2,
+          "name": "Raja Kushal Singh",
+          "party": "Indian National Congress",
+          "votes": 54227,
+          "votes_percentage": 28.9
+        },
+        {
+          "position": 3,
+          "name": "Murli Dhar",
+          "party": "Socialist Party",
+          "votes": 9014,
+          "votes_percentage": 4.8
+        },
+        {
+          "position": 4,
+          "name": "Raghubar Dayal",
+          "party": "Kisan Janta Sanyukta Party",
+          "votes": 6390,
+          "votes_percentage": 3.4
+        }
+      ]
+    }
+  }
+}

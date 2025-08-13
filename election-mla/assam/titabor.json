@@ -1,0 +1,120 @@
+{
+  "state": "Assam",
+  "constituency": "Titabor",
+  "district": "Jorhat",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 144577,
+        "total_votes_polled": 120013,
+        "turnout_percentage": 84.1,
+        "margin_votes": 13379,
+        "margin_percentage": 11.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bhaskar Jyoti Baruah",
+          "party": "Indian National Congress",
+          "votes": 64303,
+          "votes_percentage": 53.6
+        },
+        {
+          "position": 2,
+          "name": "Hemanta Kalita",
+          "party": "Bharatiya Janta Party",
+          "votes": 50924,
+          "votes_percentage": 42.4
+        },
+        {
+          "position": 3,
+          "name": "Sailendra Kumar Hazarika",
+          "party": "Assam Jatiya Parishad",
+          "votes": 3885,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 4,
+          "name": "Dilip Gogoi",
+          "party": "Independent",
+          "votes": 901,
+          "votes_percentage": 0.8
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "04 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 123529,
+        "total_votes_polled": 88257,
+        "turnout_percentage": 71.5,
+        "margin_votes": 54199,
+        "margin_percentage": 61.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tarun Gogoi",
+          "party": "Indian National Congress",
+          "votes": 65418,
+          "votes_percentage": 74.1
+        },
+        {
+          "position": 2,
+          "name": "Montu Moni Dutta",
+          "party": "Asom Gana Parisad",
+          "votes": 11219,
+          "votes_percentage": 12.7
+        },
+        {
+          "position": 3,
+          "name": "Kaminish Deori",
+          "party": "Bharatiya Janta Party",
+          "votes": 4257,
+          "votes_percentage": 4.8
+        },
+        {
+          "position": 4,
+          "name": "Kula Das",
+          "party": "Communist Party Of India",
+          "votes": 3108,
+          "votes_percentage": 3.5
+        },
+        {
+          "position": 5,
+          "name": "Dilip Gogoi",
+          "party": "Independent",
+          "votes": 1775,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 6,
+          "name": "Biren Gogoi",
+          "party": "All India Trinamool Congress",
+          "votes": 927,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 7,
+          "name": "Subodh Dutta",
+          "party": "All India United Democratic Front",
+          "votes": 905,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 8,
+          "name": "Manashi Bordoloi",
+          "party": "Nationalist Congress Party",
+          "votes": 648,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

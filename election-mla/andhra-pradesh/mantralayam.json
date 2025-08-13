@@ -1,0 +1,80 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Mantralayam",
+  "district": "Kurnool",
+  "ac_type": "GEN",
+  "results": {
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 160039,
+        "total_votes_polled": 111968,
+        "turnout_percentage": 70.0,
+        "total_valid_votes": 111957,
+        "total_valid_votes_percentage": 70.0,
+        "margin_votes": 10697,
+        "margin_percentage": 9.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Y. Balanagi Reddy",
+          "party": "Telugu Desam",
+          "votes": 52431,
+          "votes_percentage": 46.8
+        },
+        {
+          "position": 2,
+          "name": "Dalavai Ramaiah",
+          "party": "Indian National Congress",
+          "votes": 41734,
+          "votes_percentage": 37.3
+        },
+        {
+          "position": 3,
+          "name": "N. Rama Reddy",
+          "party": "Praja Rajyam Party",
+          "votes": 10176,
+          "votes_percentage": 9.1
+        },
+        {
+          "position": 4,
+          "name": "K.Veera Raghavulu",
+          "party": "Independent",
+          "votes": 2623,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 5,
+          "name": "S.Lakshminarayana",
+          "party": "Bahujan Samaj Party",
+          "votes": 1887,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 6,
+          "name": "Ulligaddala Mallikarjuna",
+          "party": "Pyramid Party Of India",
+          "votes": 1328,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 7,
+          "name": "C. Anjaneyulu",
+          "party": "Lok Satta Party",
+          "votes": 966,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 8,
+          "name": "M. Sheeladaran",
+          "party": "Bharatiya Janta Party",
+          "votes": 812,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

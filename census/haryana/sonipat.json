@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 83556,
+        "male": 104706,
+        "percentage_of_total_population": 12.98,
+        "percentage_of_total_population_calculated": 12.98,
+        "percentage_of_total_population_stated": 12.98,
+        "sex_ratio": 798,
+        "total": 188262
+    },
+    "literacy": {
+        "female_literacy_rate": 69.8,
+        "female_literate": 408435,
+        "male_literacy_rate": 87.18,
+        "male_literate": 589881,
+        "rate_percentage": 79.12,
+        "total_literate": 998316
+    },
+    "population": {
+        "female": 668702,
+        "male": 781299,
+        "sex_ratio": 856,
+        "total": 1450001
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 336
+        },
+        "Christian": {
+            "percentage": 0.1,
+            "population": 1405
+        },
+        "Hindu": {
+            "percentage": 95.87,
+            "population": 1390149
+        },
+        "Jain": {
+            "percentage": 0.42,
+            "population": 6033
+        },
+        "Muslims": {
+            "percentage": 3.11,
+            "population": 45100
+        },
+        "Not Stated": {
+            "percentage": 0.17,
+            "population": 2465
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 29
+        },
+        "Sikh": {
+            "percentage": 0.31,
+            "population": 4484
+        }
+    },
+    "rural": {
+        "child_population_female": 58679,
+        "child_population_male": 73328,
+        "child_population_percentage": 13.25,
+        "child_population_percentage_calculated": 13.25,
+        "child_population_percentage_stated": 13.25,
+        "child_population_total": 132007,
+        "child_sex_ratio": 800,
+        "female": 457887,
+        "literacy_rate_female": 66.39,
+        "literacy_rate_male": 85.97,
+        "literacy_rate_percentage": 76.93,
+        "literate_female": 265029,
+        "literate_male": 400112,
+        "literate_total": 665141,
+        "male": 538750,
+        "percentage_population": 68.73,
+        "population": 996637,
+        "sex_ratio": 850
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/215-sonipat.html",
+    "urban": {
+        "child_population_female": 24890,
+        "child_population_male": 31365,
+        "child_population_percentage": 12.41,
+        "child_population_percentage_calculated": 12.41,
+        "child_population_percentage_stated": 12.41,
+        "child_population_total": 56255,
+        "child_sex_ratio": 794,
+        "female": 210815,
+        "literacy_rate_female": 77.13,
+        "literacy_rate_male": 89.86,
+        "literacy_rate_percentage": 83.9,
+        "literate_female": 143406,
+        "literate_male": 189769,
+        "literate_total": 333175,
+        "male": 242549,
+        "percentage_population": 31.27,
+        "population": 453364,
+        "sex_ratio": 869
+    }
+}

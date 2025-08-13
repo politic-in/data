@@ -1,0 +1,127 @@
+{
+  "state": "Maharashtra",
+  "constituency": "NASIK",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 504050,
+        "total_votes_polled": 289071,
+        "turnout_percentage": 57.4,
+        "margin_votes": 145741,
+        "margin_percentage": 50.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bhanudas Ramchandra Kavde",
+          "party": "Indian National Congress",
+          "votes": 208898,
+          "votes_percentage": 72.3
+        },
+        {
+          "position": 2,
+          "name": "Dhairyashilrao Yashwantrao Pawar",
+          "party": "Bharatiya Kranti Dal",
+          "votes": 63157,
+          "votes_percentage": 21.8
+        },
+        {
+          "position": 3,
+          "name": "Maneklal Amolakchand Bhatewara",
+          "party": "Independent",
+          "votes": 5357,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 4,
+          "name": "Yadav Narayan Jadhav",
+          "party": "Independent",
+          "votes": 2949,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Somnath Murlidhar Maniyar",
+          "party": "Independent",
+          "votes": 1375,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 436875,
+        "total_votes_polled": 287435,
+        "turnout_percentage": 65.8,
+        "margin_votes": 36307,
+        "margin_percentage": 12.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "B. R. Kavade",
+          "party": "Indian National Congress",
+          "votes": 155632,
+          "votes_percentage": 54.1
+        },
+        {
+          "position": 2,
+          "name": "B. K. Gaikwad",
+          "party": "Republican Party Of India",
+          "votes": 119325,
+          "votes_percentage": 41.5
+        }
+      ]
+    },
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 373284,
+        "total_votes_polled": 202263,
+        "turnout_percentage": 54.2,
+        "margin_votes": 59654,
+        "margin_percentage": 29.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Govind Hari Deshpande",
+          "party": "Indian National Congress",
+          "votes": 110242,
+          "votes_percentage": 54.5
+        },
+        {
+          "position": 2,
+          "name": "Bhaurao Krishnarao Gaikwad",
+          "party": "Republican Party",
+          "votes": 50588,
+          "votes_percentage": 25.0
+        },
+        {
+          "position": 3,
+          "name": "Namdeo Appaji Pagare",
+          "party": "Praja Socialist Party",
+          "votes": 18679,
+          "votes_percentage": 9.2
+        },
+        {
+          "position": 4,
+          "name": "Ramchandra Mukunda Bhoye",
+          "party": "Independent",
+          "votes": 11666,
+          "votes_percentage": 5.8
+        }
+      ]
+    }
+  }
+}

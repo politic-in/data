@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 305613,
+        "male": 327559,
+        "percentage_of_total_population": 11.95,
+        "percentage_of_total_population_calculated": 11.95,
+        "percentage_of_total_population_stated": 11.95,
+        "sex_ratio": 933,
+        "total": 633172
+    },
+    "literacy": {
+        "female_literacy_rate": 69.4,
+        "female_literate": 1589244,
+        "male_literacy_rate": 82.11,
+        "male_literate": 1948784,
+        "rate_percentage": 75.87,
+        "total_literate": 3538028
+    },
+    "population": {
+        "female": 2595733,
+        "male": 2701008,
+        "sex_ratio": 961,
+        "total": 5296741
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.04,
+            "population": 2041
+        },
+        "Christian": {
+            "percentage": 2.72,
+            "population": 144037
+        },
+        "Hindu": {
+            "percentage": 84.18,
+            "population": 4458858
+        },
+        "Jain": {
+            "percentage": 0.07,
+            "population": 3536
+        },
+        "Muslims": {
+            "percentage": 11.66,
+            "population": 617518
+        },
+        "Not Stated": {
+            "percentage": 1.15,
+            "population": 61060
+        },
+        "Others": {
+            "percentage": 0.03,
+            "population": 1629
+        },
+        "Sikh": {
+            "percentage": 0.15,
+            "population": 8062
+        }
+    },
+    "rural": {
+        "child_population_female": 93353,
+        "child_population_male": 99495,
+        "child_population_percentage": 12.22,
+        "child_population_percentage_calculated": 12.22,
+        "child_population_percentage_stated": 12.22,
+        "child_population_total": 192848,
+        "child_sex_ratio": 938,
+        "female": 776556,
+        "literacy_rate_female": 50.6,
+        "literacy_rate_male": 70.35,
+        "literacy_rate_percentage": 60.6,
+        "literate_female": 345694,
+        "literate_male": 493493,
+        "literate_total": 839187,
+        "male": 801013,
+        "percentage_population": 29.78,
+        "population": 1577569,
+        "sex_ratio": 969
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/123-rangareddy.html",
+    "urban": {
+        "child_population_female": 212256,
+        "child_population_male": 228068,
+        "child_population_percentage": 11.84,
+        "child_population_percentage_calculated": 11.84,
+        "child_population_percentage_stated": 11.84,
+        "child_population_total": 440324,
+        "child_sex_ratio": 931,
+        "female": 1819177,
+        "literacy_rate_female": 77.39,
+        "literacy_rate_male": 87.04,
+        "literacy_rate_percentage": 82.31,
+        "literate_female": 1243550,
+        "literate_male": 1455291,
+        "literate_total": 2698841,
+        "male": 1899995,
+        "percentage_population": 70.22,
+        "population": 3719172,
+        "sex_ratio": 957
+    }
+}

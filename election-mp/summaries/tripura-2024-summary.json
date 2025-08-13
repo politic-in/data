@@ -1,0 +1,45 @@
+{
+  "state": "Tripura",
+  "year": "2024",
+  "summary_stats": {
+    "total_electors_state": 2860287,
+    "total_votes_polled_state": 2344154,
+    "turnout_percentage_state": 82.0,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Tripura East",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Tripura",
+      "winning_candidate": "Kriti Devi Debbarman",
+      "winning_party": "Bharatiya Janta Party",
+      "total_electors_ac": 1396761,
+      "total_votes_ac": 1134345,
+      "poll_percentage_ac": 0.0,
+      "margin": 486819,
+      "margin_percentage": 42.9,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2024/tripura/tripura-east/10801/25/18"
+    },
+    {
+      "ac_name": "Tripura West",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Tripura",
+      "winning_candidate": "Biplab Kumar Deb",
+      "winning_party": "Bharatiya Janta Party",
+      "total_electors_ac": 1463526,
+      "total_votes_ac": 1209809,
+      "poll_percentage_ac": 0.0,
+      "margin": 611578,
+      "margin_percentage": 50.6,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2024/tripura/tripura-west/10800/25/18"
+    }
+  ]
+}

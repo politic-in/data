@@ -1,0 +1,99 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Karauli-Dholpu",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "2024": {
+      "poll_date": "19 April 2024",
+      "counting_date": "01 June 2024",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 1975352,
+        "total_votes_polled": 988122,
+        "turnout_percentage": 50.0,
+        "margin_votes": 98945,
+        "margin_percentage": 10.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bhajan Lal Jatav",
+          "party": "Indian National Congress",
+          "votes": 530011,
+          "votes_percentage": 53.6
+        },
+        {
+          "position": 2,
+          "name": "Indu Devi",
+          "party": "Bharatiya Janta Party",
+          "votes": 431066,
+          "votes_percentage": 43.6
+        },
+        {
+          "position": 3,
+          "name": "Vikram Singh",
+          "party": "Bahujan Samaj Party",
+          "votes": 14112,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 4,
+          "name": "Ramkhiladi Dhovi",
+          "party": "Independent",
+          "votes": 5473,
+          "votes_percentage": 0.6
+        }
+      ]
+    },
+    "2019": {
+      "poll_date": "12 May 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 1782015,
+        "total_votes_polled": 998044,
+        "turnout_percentage": 56.4,
+        "margin_votes": 97682,
+        "margin_percentage": 9.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Manoj Rajoria",
+          "party": "Bharatiya Janta Party",
+          "votes": 526443,
+          "votes_percentage": 52.7
+        },
+        {
+          "position": 2,
+          "name": "Sanjay Kumar",
+          "party": "Indian National Congress",
+          "votes": 428761,
+          "votes_percentage": 43.0
+        },
+        {
+          "position": 3,
+          "name": "Ramkumar",
+          "party": "Bahujan Samaj Party",
+          "votes": 25718,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 4,
+          "name": "Jeet Ram Bairwa",
+          "party": "Ambedkarite Party Of India",
+          "votes": 7020,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Vijay Babu",
+          "party": "Prabuddha Republican Party",
+          "votes": 2783,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

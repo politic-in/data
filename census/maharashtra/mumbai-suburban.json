@@ -1,0 +1,100 @@
+{
+    "child_population": {
+        "female": 444274,
+        "male": 486610,
+        "percentage_of_total_population": 9.95,
+        "percentage_of_total_population_calculated": 9.95,
+        "percentage_of_total_population_stated": 9.95,
+        "sex_ratio": 913,
+        "total": 930884
+    },
+    "literacy": {
+        "female_literacy_rate": 86.37,
+        "female_literate": 3352456,
+        "male_literacy_rate": 92.92,
+        "male_literate": 4223029,
+        "rate_percentage": 89.91,
+        "total_literate": 7575485
+    },
+    "population": {
+        "female": 4325639,
+        "male": 5031323,
+        "sex_ratio": 860,
+        "total": 9356962
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 5.02,
+            "population": 469568
+        },
+        "Christian": {
+            "percentage": 3.45,
+            "population": 322476
+        },
+        "Hindu": {
+            "percentage": 67.73,
+            "population": 6337132
+        },
+        "Jain": {
+            "percentage": 3.67,
+            "population": 343639
+        },
+        "Muslims": {
+            "percentage": 19.19,
+            "population": 1795788
+        },
+        "Not Stated": {
+            "percentage": 0.24,
+            "population": 22726
+        },
+        "Others": {
+            "percentage": 0.2,
+            "population": 18345
+        },
+        "Sikh": {
+            "percentage": 0.51,
+            "population": 47288
+        }
+    },
+    "rural": {
+        "child_population_female": 0,
+        "child_population_male": 0,
+        "child_population_percentage": 0.0,
+        "child_population_percentage_stated": 0.0,
+        "child_population_total": 0,
+        "child_sex_ratio": 0,
+        "female": 0,
+        "literacy_rate_female": 0.0,
+        "literacy_rate_male": 0.0,
+        "literacy_rate_percentage": 0.0,
+        "literate_female": 0,
+        "literate_male": 0,
+        "literate_total": 0,
+        "male": 0,
+        "percentage_population": 0.0,
+        "population": 0,
+        "sex_ratio": 0
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/356-mumbai-suburban.html",
+    "urban": {
+        "child_population_female": 444188,
+        "child_population_male": 486696,
+        "child_population_percentage": 9.95,
+        "child_population_percentage_calculated": 9.95,
+        "child_population_percentage_stated": 9.95,
+        "child_population_total": 930884,
+        "child_sex_ratio": 913,
+        "female": 4325639,
+        "literacy_rate_female": 86.37,
+        "literacy_rate_male": 92.92,
+        "literacy_rate_percentage": 89.91,
+        "literate_female": 3352456,
+        "literate_male": 4223029,
+        "literate_total": 7575485,
+        "male": 5031323,
+        "percentage_population": 100.0,
+        "population": 9356962,
+        "sex_ratio": 860
+    }
+}

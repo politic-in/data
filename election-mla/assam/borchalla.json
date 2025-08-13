@@ -1,0 +1,99 @@
+{
+  "state": "Assam",
+  "constituency": "Borchalla",
+  "district": "Sonitpur",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 162252,
+        "total_votes_polled": 135172,
+        "turnout_percentage": 84.5,
+        "margin_votes": 17782,
+        "margin_percentage": 13.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ganesh Kumar Limbu",
+          "party": "Bharatiya Janta Party",
+          "votes": 70569,
+          "votes_percentage": 52.2
+        },
+        {
+          "position": 2,
+          "name": "Ram Prasad Sharma",
+          "party": "Indian National Congress",
+          "votes": 52787,
+          "votes_percentage": 39.1
+        },
+        {
+          "position": 3,
+          "name": "Upen Raj Nath",
+          "party": "Assam Jatiya Parishad",
+          "votes": 10192,
+          "votes_percentage": 7.5
+        },
+        {
+          "position": 4,
+          "name": "Hemanta Kumar Adhikary",
+          "party": "Independent",
+          "votes": 1624,
+          "votes_percentage": 1.2
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "04 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 132121,
+        "total_votes_polled": 98098,
+        "turnout_percentage": 74.3,
+        "margin_votes": 17574,
+        "margin_percentage": 17.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tanka Bahadur Rai",
+          "party": "Indian National Congress",
+          "votes": 47270,
+          "votes_percentage": 48.2
+        },
+        {
+          "position": 2,
+          "name": "Ratul Kumar Nath",
+          "party": "Asom Gana Parisad",
+          "votes": 29696,
+          "votes_percentage": 30.3
+        },
+        {
+          "position": 3,
+          "name": "Karuna  Kanta Medhi",
+          "party": "All India United Democratic Front",
+          "votes": 11040,
+          "votes_percentage": 11.3
+        },
+        {
+          "position": 4,
+          "name": "Ganesh Kumar Limbu",
+          "party": "Bharatiya Janta Party",
+          "votes": 6790,
+          "votes_percentage": 6.9
+        },
+        {
+          "position": 5,
+          "name": "Abdul Sattar",
+          "party": "Samajwadi Party",
+          "votes": 3302,
+          "votes_percentage": 3.4
+        }
+      ]
+    }
+  }
+}

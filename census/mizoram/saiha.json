@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 4657,
+        "male": 4996,
+        "percentage_of_total_population": 17.06,
+        "percentage_of_total_population_calculated": 17.06,
+        "percentage_of_total_population_stated": 17.06,
+        "sex_ratio": 932,
+        "total": 9653
+    },
+    "literacy": {
+        "female_literacy_rate": 87.34,
+        "female_literate": 20372,
+        "male_literacy_rate": 92.64,
+        "male_literate": 21861,
+        "rate_percentage": 90.01,
+        "total_literate": 42233
+    },
+    "population": {
+        "female": 27980,
+        "male": 28594,
+        "sex_ratio": 979,
+        "total": 56574
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.18,
+            "population": 102
+        },
+        "Christian": {
+            "percentage": 97.18,
+            "population": 54977
+        },
+        "Hindu": {
+            "percentage": 1.65,
+            "population": 933
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 4
+        },
+        "Muslims": {
+            "percentage": 0.91,
+            "population": 514
+        },
+        "Not Stated": {
+            "percentage": 0.05,
+            "population": 31
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 2
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 11
+        }
+    },
+    "rural": {
+        "child_population_female": 2849,
+        "child_population_male": 3008,
+        "child_population_percentage": 18.61,
+        "child_population_percentage_calculated": 18.61,
+        "child_population_percentage_stated": 18.61,
+        "child_population_total": 5857,
+        "child_sex_ratio": 947,
+        "female": 15611,
+        "literacy_rate_female": 81.76,
+        "literacy_rate_male": 89.75,
+        "literacy_rate_percentage": 85.77,
+        "literate_female": 10434,
+        "literate_male": 11529,
+        "literate_total": 21963,
+        "male": 15853,
+        "percentage_population": 55.62,
+        "population": 31464,
+        "sex_ratio": 985
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/393-saiha.html",
+    "urban": {
+        "child_population_female": 1807,
+        "child_population_male": 1989,
+        "child_population_percentage": 15.12,
+        "child_population_percentage_calculated": 15.12,
+        "child_population_percentage_stated": 15.12,
+        "child_population_total": 3796,
+        "child_sex_ratio": 908,
+        "female": 12369,
+        "literacy_rate_female": 94.09,
+        "literacy_rate_male": 96.09,
+        "literacy_rate_percentage": 95.1,
+        "literate_female": 9938,
+        "literate_male": 10332,
+        "literate_total": 20270,
+        "male": 12741,
+        "percentage_population": 44.38,
+        "population": 25110,
+        "sex_ratio": 971
+    }
+}

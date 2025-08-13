@@ -1,0 +1,43 @@
+{
+  "state": "West Bengal",
+  "constituency": "KESHPUR (SC)",
+  "district": "Paschim Medinipur",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 232443,
+        "total_votes_polled": 201080,
+        "turnout_percentage": 88.0,
+        "margin_votes": 101151,
+        "margin_percentage": 50.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Seuli Saha",
+          "party": "All India Trinamool Congress",
+          "votes": 146579,
+          "votes_percentage": 72.9
+        },
+        {
+          "position": 2,
+          "name": "Rameswar Doloi",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 45428,
+          "votes_percentage": 22.6
+        },
+        {
+          "position": 3,
+          "name": "Dipak Patra",
+          "party": "Bharatiya Janta Party",
+          "votes": 9073,
+          "votes_percentage": 4.5
+        }
+      ]
+    }
+  }
+}

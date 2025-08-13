@@ -1,0 +1,41 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "ALMORA DISTRICT (NORTH EAST)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 373707,
+        "total_votes_polled": 100667,
+        "turnout_percentage": 26.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Devi Datt",
+          "party": "Indian National Congress",
+          "votes": 54964,
+          "votes_percentage": 54.6
+        },
+        {
+          "position": 2,
+          "name": "Purna Nand",
+          "party": "Socialist Party",
+          "votes": 24169,
+          "votes_percentage": 24.0
+        },
+        {
+          "position": 3,
+          "name": "Guru Das",
+          "party": "Independent",
+          "votes": 21534,
+          "votes_percentage": 21.4
+        }
+      ]
+    }
+  }
+}

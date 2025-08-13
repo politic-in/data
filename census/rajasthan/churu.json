@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 150719,
+        "male": 167094,
+        "percentage_of_total_population": 15.58,
+        "percentage_of_total_population_calculated": 15.58,
+        "percentage_of_total_population_stated": 15.58,
+        "sex_ratio": 902,
+        "total": 317813
+    },
+    "literacy": {
+        "female_literacy_rate": 54.04,
+        "female_literate": 452540,
+        "male_literacy_rate": 78.78,
+        "male_literate": 696729,
+        "rate_percentage": 66.75,
+        "total_literate": 1149269
+    },
+    "population": {
+        "female": 988101,
+        "male": 1051446,
+        "sex_ratio": 940,
+        "total": 2039547
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 188
+        },
+        "Christian": {
+            "percentage": 0.05,
+            "population": 958
+        },
+        "Hindu": {
+            "percentage": 87.17,
+            "population": 1777879
+        },
+        "Jain": {
+            "percentage": 0.35,
+            "population": 7104
+        },
+        "Muslims": {
+            "percentage": 12.24,
+            "population": 249736
+        },
+        "Not Stated": {
+            "percentage": 0.15,
+            "population": 3153
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 127
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 402
+        }
+    },
+    "rural": {
+        "child_population_female": 111184,
+        "child_population_male": 123099,
+        "child_population_percentage": 16.01,
+        "child_population_percentage_calculated": 16.01,
+        "child_population_percentage_stated": 16.01,
+        "child_population_total": 234283,
+        "child_sex_ratio": 903,
+        "female": 708284,
+        "literacy_rate_female": 51.12,
+        "literacy_rate_male": 76.95,
+        "literacy_rate_percentage": 64.4,
+        "literate_female": 305243,
+        "literate_male": 486256,
+        "literate_total": 791499,
+        "male": 755028,
+        "percentage_population": 71.75,
+        "population": 1463312,
+        "sex_ratio": 938
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/427-churu.html",
+    "urban": {
+        "child_population_female": 39545,
+        "child_population_male": 43985,
+        "child_population_percentage": 14.5,
+        "child_population_percentage_calculated": 14.5,
+        "child_population_percentage_stated": 14.5,
+        "child_population_total": 83530,
+        "child_sex_ratio": 899,
+        "female": 279817,
+        "literacy_rate_female": 61.3,
+        "literacy_rate_male": 83.38,
+        "literacy_rate_percentage": 72.61,
+        "literate_female": 147297,
+        "literate_male": 210473,
+        "literate_total": 357770,
+        "male": 296418,
+        "percentage_population": 28.25,
+        "population": 576235,
+        "sex_ratio": 944
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 78073,
+        "male": 90258,
+        "percentage_of_total_population": 10.61,
+        "percentage_of_total_population_calculated": 10.61,
+        "percentage_of_total_population_stated": 10.61,
+        "sex_ratio": 865,
+        "total": 168331
+    },
+    "literacy": {
+        "female_literacy_rate": 80.31,
+        "female_literate": 561772,
+        "male_literacy_rate": 88.75,
+        "male_literate": 637927,
+        "rate_percentage": 84.59,
+        "total_literate": 1199699
+    },
+    "population": {
+        "female": 777568,
+        "male": 809057,
+        "sex_ratio": 961,
+        "total": 1586625
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.22,
+            "population": 3476
+        },
+        "Christian": {
+            "percentage": 0.94,
+            "population": 14968
+        },
+        "Hindu": {
+            "percentage": 63.07,
+            "population": 1000743
+        },
+        "Jain": {
+            "percentage": 0.13,
+            "population": 2034
+        },
+        "Muslims": {
+            "percentage": 1.46,
+            "population": 23089
+        },
+        "Not Stated": {
+            "percentage": 0.23,
+            "population": 3576
+        },
+        "Others": {
+            "percentage": 0.03,
+            "population": 531
+        },
+        "Sikh": {
+            "percentage": 33.92,
+            "population": 538208
+        }
+    },
+    "rural": {
+        "child_population_female": 62176,
+        "child_population_male": 71880,
+        "child_population_percentage": 10.71,
+        "child_population_percentage_calculated": 10.71,
+        "child_population_percentage_stated": 10.71,
+        "child_population_total": 134056,
+        "child_sex_ratio": 865,
+        "female": 617186,
+        "literacy_rate_female": 79.13,
+        "literacy_rate_male": 88.28,
+        "literacy_rate_percentage": 83.74,
+        "literate_female": 439203,
+        "literate_male": 496632,
+        "literate_total": 935835,
+        "male": 634470,
+        "percentage_population": 78.89,
+        "population": 1251656,
+        "sex_ratio": 973
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/591-hoshiarpur.html",
+    "urban": {
+        "child_population_female": 15875,
+        "child_population_male": 18400,
+        "child_population_percentage": 10.23,
+        "child_population_percentage_calculated": 10.23,
+        "child_population_percentage_stated": 10.23,
+        "child_population_total": 34275,
+        "child_sex_ratio": 863,
+        "female": 160382,
+        "literacy_rate_female": 84.82,
+        "literacy_rate_male": 90.47,
+        "literacy_rate_percentage": 87.75,
+        "literate_female": 122569,
+        "literate_male": 141295,
+        "literate_total": 263864,
+        "male": 174587,
+        "percentage_population": 21.11,
+        "population": 334969,
+        "sex_ratio": 919
+    }
+}

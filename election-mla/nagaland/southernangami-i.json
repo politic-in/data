@@ -1,0 +1,50 @@
+{
+  "state": "Nagaland",
+  "constituency": "SOUTHERNANGAMI-I",
+  "district": "Kohima",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 13354,
+        "total_votes_polled": 11263,
+        "turnout_percentage": 85.1,
+        "margin_votes": 2082,
+        "margin_percentage": 18.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Vikho-O YhoshÃƒÂœ",
+          "party": "Nationalist Democratic Progressive Party",
+          "votes": 5821,
+          "votes_percentage": 51.7
+        },
+        {
+          "position": 2,
+          "name": "Medokul Sophie",
+          "party": "National People's Party",
+          "votes": 3739,
+          "votes_percentage": 33.2
+        },
+        {
+          "position": 3,
+          "name": "Khrielezo Bio",
+          "party": "Naga Peoples Front",
+          "votes": 1366,
+          "votes_percentage": 12.1
+        },
+        {
+          "position": 4,
+          "name": "Nagakul Tase",
+          "party": "Indian National Congress",
+          "votes": 337,
+          "votes_percentage": 3.0
+        }
+      ]
+    }
+  }
+}

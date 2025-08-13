@@ -1,0 +1,113 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "JEHANABAD",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 608878,
+        "total_votes_polled": 394254,
+        "turnout_percentage": 64.8,
+        "margin_votes": 22418,
+        "margin_percentage": 5.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chandra Shekhar Sinha",
+          "party": "Communist Party Of India",
+          "votes": 163733,
+          "votes_percentage": 41.5
+        },
+        {
+          "position": 2,
+          "name": "Vivekanand Sharma",
+          "party": "Bhartiya Jan Sangh",
+          "votes": 141315,
+          "votes_percentage": 35.8
+        },
+        {
+          "position": 3,
+          "name": "Upendra Nath Verma",
+          "party": "Samyukta Socialist Party",
+          "votes": 64943,
+          "votes_percentage": 16.5
+        },
+        {
+          "position": 4,
+          "name": "Laldeo Sinha",
+          "party": "Hindustani Shoshit Dal",
+          "votes": 11899,
+          "votes_percentage": 3.0
+        },
+        {
+          "position": 5,
+          "name": "Keshav Prasad Sharma",
+          "party": "Independent",
+          "votes": 3400,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Deodeni Ojha",
+          "party": "Bharatiya Kranti Dal",
+          "votes": 2783,
+          "votes_percentage": 0.7
+        }
+      ]
+    },
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 560459,
+        "total_votes_polled": 287539,
+        "turnout_percentage": 51.3,
+        "margin_votes": 51412,
+        "margin_percentage": 17.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "C. S. Singh",
+          "party": "Communist Party Of India",
+          "votes": 112287,
+          "votes_percentage": 39.1
+        },
+        {
+          "position": 2,
+          "name": "S. Devi",
+          "party": "Indian National Congress",
+          "votes": 60875,
+          "votes_percentage": 21.2
+        },
+        {
+          "position": 3,
+          "name": "K. P. Sharma",
+          "party": "Independent",
+          "votes": 59734,
+          "votes_percentage": 20.8
+        },
+        {
+          "position": 4,
+          "name": "T. P. Singh",
+          "party": "Praja Socialist Party",
+          "votes": 24053,
+          "votes_percentage": 8.4
+        },
+        {
+          "position": 5,
+          "name": "R. Prasad",
+          "party": "Bhartiya Jan Sangh",
+          "votes": 18181,
+          "votes_percentage": 6.3
+        }
+      ]
+    }
+  }
+}

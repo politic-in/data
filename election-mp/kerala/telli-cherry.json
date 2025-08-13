@@ -1,0 +1,36 @@
+{
+  "state": "Kerala",
+  "constituency": "TELLI CHERRY",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 475141,
+        "total_votes_polled": 368285,
+        "turnout_percentage": 77.5,
+        "margin_votes": 84312,
+        "margin_percentage": 22.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "P. Gopalan",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 221374,
+          "votes_percentage": 60.1
+        },
+        {
+          "position": 2,
+          "name": "T. M. Abdulla",
+          "party": "Indian National Congress",
+          "votes": 137062,
+          "votes_percentage": 37.2
+        }
+      ]
+    }
+  }
+}

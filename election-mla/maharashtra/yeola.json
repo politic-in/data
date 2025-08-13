@@ -1,0 +1,57 @@
+{
+  "state": "Maharashtra",
+  "constituency": "Yeola",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 111878,
+        "total_votes_polled": 66519,
+        "turnout_percentage": 59.5,
+        "margin_votes": 7804,
+        "margin_percentage": 11.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Patil Janardan Deoram",
+          "party": "Indian National Congress (U)",
+          "votes": 25851,
+          "votes_percentage": 39.8
+        },
+        {
+          "position": 2,
+          "name": "Kale Raybhan Gangadhar",
+          "party": "Independent",
+          "votes": 18047,
+          "votes_percentage": 27.8
+        },
+        {
+          "position": 3,
+          "name": "Pawar Maruti Narayan",
+          "party": "Indian National Congress (I)",
+          "votes": 16455,
+          "votes_percentage": 25.4
+        },
+        {
+          "position": 4,
+          "name": "Kadam Bhanudas Ramchandra",
+          "party": "Bharatiya Janta Party",
+          "votes": 4236,
+          "votes_percentage": 6.5
+        },
+        {
+          "position": 5,
+          "name": "Domade Maruti Narayan",
+          "party": "Independent",
+          "votes": 308,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

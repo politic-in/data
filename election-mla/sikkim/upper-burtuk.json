@@ -1,0 +1,159 @@
+{
+  "state": "Sikkim",
+  "constituency": "Upper burtuk",
+  "district": "East",
+  "ac_type": "GEN",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 15231,
+        "total_votes_polled": 11703,
+        "turnout_percentage": 77.5,
+        "margin_votes": 757,
+        "margin_percentage": 6.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dilli Ram Thapa",
+          "party": "Sikkim Democratic Front",
+          "votes": 6107,
+          "votes_percentage": 52.2
+        },
+        {
+          "position": 2,
+          "name": "Nagendra Bikram Gurung",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 5350,
+          "votes_percentage": 45.7
+        },
+        {
+          "position": 3,
+          "name": "Aita Tamang",
+          "party": "Indian National Congress",
+          "votes": 128,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 4,
+          "name": "Dal Bahadur Tamang",
+          "party": "Sikkim Republican Party",
+          "votes": 59,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "Philip Lamichaney",
+          "party": "Hamro Sikkim Party",
+          "votes": 59,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "12 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 12748,
+        "total_votes_polled": 10393,
+        "turnout_percentage": 81.5,
+        "total_valid_votes": 10254,
+        "total_valid_votes_percentage": 80.4,
+        "margin_votes": 573,
+        "margin_percentage": 5.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Prem Singh Tamang",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 5272,
+          "votes_percentage": 51.4
+        },
+        {
+          "position": 2,
+          "name": "D. R. Thapa",
+          "party": "Sikkim Democratic Front",
+          "votes": 4699,
+          "votes_percentage": 45.8
+        },
+        {
+          "position": 3,
+          "name": "Ugen Tamang",
+          "party": "Bharatiya Janta Party",
+          "votes": 159,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 4,
+          "name": "Santa Bir Gurung",
+          "party": "Indian National Congress",
+          "votes": 124,
+          "votes_percentage": 1.2
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "30 April 2009",
+      "counting_date": "05 June 2009",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 9110,
+        "total_votes_polled": 7514,
+        "turnout_percentage": 82.5,
+        "total_valid_votes": 7271,
+        "total_valid_votes_percentage": 79.8,
+        "margin_votes": 4563,
+        "margin_percentage": 60.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Prem Singh Tamang",
+          "party": "Sikkim Democratic Front",
+          "votes": 5908,
+          "votes_percentage": 78.6
+        },
+        {
+          "position": 2,
+          "name": "Arun Kumar Rai",
+          "party": "Indian National Congress",
+          "votes": 1345,
+          "votes_percentage": 17.9
+        },
+        {
+          "position": 3,
+          "name": "Sumitra Rai",
+          "party": "Sikkim Himali Rajya Parishad",
+          "votes": 86,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 4,
+          "name": "Binod Kumar Adhikari",
+          "party": "Bharatiya Janta Party",
+          "votes": 75,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Tikendra Sharma",
+          "party": "Independent",
+          "votes": 74,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Yuwa Raj Gurung",
+          "party": "Sikkim Gorkha Prajatantric Party",
+          "votes": 26,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

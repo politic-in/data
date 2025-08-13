@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 50159,
+        "male": 63734,
+        "percentage_of_total_population": 12.65,
+        "percentage_of_total_population_calculated": 12.65,
+        "percentage_of_total_population_stated": 12.65,
+        "sex_ratio": 787,
+        "total": 113893
+    },
+    "literacy": {
+        "female_literacy_rate": 69.57,
+        "female_literate": 261494,
+        "male_literacy_rate": 91.44,
+        "male_literate": 375453,
+        "rate_percentage": 80.99,
+        "total_literate": 636947
+    },
+    "population": {
+        "female": 425997,
+        "male": 474335,
+        "sex_ratio": 898,
+        "total": 900332
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 202
+        },
+        "Christian": {
+            "percentage": 0.08,
+            "population": 701
+        },
+        "Hindu": {
+            "percentage": 98.76,
+            "population": 889133
+        },
+        "Jain": {
+            "percentage": 0.17,
+            "population": 1525
+        },
+        "Muslims": {
+            "percentage": 0.63,
+            "population": 5713
+        },
+        "Not Stated": {
+            "percentage": 0.14,
+            "population": 1242
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 12
+        },
+        "Sikh": {
+            "percentage": 0.2,
+            "population": 1804
+        }
+    },
+    "rural": {
+        "child_population_female": 36898,
+        "child_population_male": 47154,
+        "child_population_percentage": 12.6,
+        "child_population_percentage_calculated": 12.6,
+        "child_population_percentage_stated": 12.6,
+        "child_population_total": 84052,
+        "child_sex_ratio": 782,
+        "female": 317192,
+        "literacy_rate_female": 67.03,
+        "literacy_rate_male": 91.41,
+        "literacy_rate_percentage": 79.69,
+        "literate_female": 187894,
+        "literate_male": 276558,
+        "literate_total": 464452,
+        "male": 349710,
+        "percentage_population": 74.07,
+        "population": 666902,
+        "sex_ratio": 907
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/224-rewari.html",
+    "urban": {
+        "child_population_female": 13252,
+        "child_population_male": 16589,
+        "child_population_percentage": 12.78,
+        "child_population_percentage_calculated": 12.78,
+        "child_population_percentage_stated": 12.78,
+        "child_population_total": 29841,
+        "child_sex_ratio": 799,
+        "female": 108805,
+        "literacy_rate_female": 77.03,
+        "literacy_rate_male": 91.54,
+        "literacy_rate_percentage": 84.73,
+        "literate_female": 73600,
+        "literate_male": 98895,
+        "literate_total": 172495,
+        "male": 124625,
+        "percentage_population": 25.93,
+        "population": 233430,
+        "sex_ratio": 873
+    }
+}

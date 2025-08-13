@@ -1,0 +1,41 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "KANPUR DISTRICT SOUTH CUM ETAWAH DISTRICT",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 376278,
+        "total_votes_polled": 160257,
+        "turnout_percentage": 42.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bal Krishna Sharma",
+          "party": "Indian National Congress",
+          "votes": 78355,
+          "votes_percentage": 48.9
+        },
+        {
+          "position": 2,
+          "name": "Chandra Shekher",
+          "party": "Socialist Party",
+          "votes": 51765,
+          "votes_percentage": 32.3
+        },
+        {
+          "position": 3,
+          "name": "Ram Narain Singh",
+          "party": "Independent",
+          "votes": 30137,
+          "votes_percentage": 18.8
+        }
+      ]
+    }
+  }
+}

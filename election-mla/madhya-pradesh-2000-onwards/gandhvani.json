@@ -1,0 +1,64 @@
+{
+  "state": "Madhya Pradesh [2000 Onwards]",
+  "constituency": "Gandhvani",
+  "district": "Dhar",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 218421,
+        "total_votes_polled": 163305,
+        "turnout_percentage": 77.1,
+        "margin_votes": 38831,
+        "margin_percentage": 23.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Umang Singhar",
+          "party": "Indian National Congress",
+          "votes": 96899,
+          "votes_percentage": 59.3
+        },
+        {
+          "position": 2,
+          "name": "Sardarsingh Mehda",
+          "party": "Bharatiya Janta Party",
+          "votes": 58068,
+          "votes_percentage": 35.6
+        },
+        {
+          "position": 3,
+          "name": "Aadiwasi Arvind Muzalda",
+          "party": "Gondvana Gantantra Party",
+          "votes": 3218,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 4,
+          "name": "Bhuwan Shih Gahlot",
+          "party": "Bahujan Samaj Party",
+          "votes": 2056,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 5,
+          "name": "Govind Rawat",
+          "party": "Aam Aadmi Party",
+          "votes": 1646,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Kavita Chauhan",
+          "party": "Independent",
+          "votes": 1418,
+          "votes_percentage": 0.9
+        }
+      ]
+    }
+  }
+}

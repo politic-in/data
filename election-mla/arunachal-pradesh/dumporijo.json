@@ -1,0 +1,180 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Dumporijo",
+  "district": "Upper Subansiri",
+  "ac_type": "ST",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 11709,
+        "total_votes_polled": 9801,
+        "turnout_percentage": 84.0,
+        "margin_votes": 978,
+        "margin_percentage": 10.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rode Bui",
+          "party": "Bharatiya Janta Party",
+          "votes": 4635,
+          "votes_percentage": 47.3
+        },
+        {
+          "position": 2,
+          "name": "Paknga Bage",
+          "party": "National People's Party",
+          "votes": 3657,
+          "votes_percentage": 37.3
+        },
+        {
+          "position": 3,
+          "name": "Gumjum Haider",
+          "party": "Janata Dal (United)",
+          "votes": 1509,
+          "votes_percentage": 15.4
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "09 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 11542,
+        "total_votes_polled": 9711,
+        "turnout_percentage": 84.1,
+        "total_valid_votes": 9643,
+        "total_valid_votes_percentage": 83.5,
+        "margin_votes": 1357,
+        "margin_percentage": 14.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Paknga Bage",
+          "party": "Independent",
+          "votes": 5500,
+          "votes_percentage": 57.0
+        },
+        {
+          "position": 2,
+          "name": "Takar Marde",
+          "party": "Indian National Congress",
+          "votes": 4143,
+          "votes_percentage": 43.0
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "13 October 2009",
+      "counting_date": "22 October 2009",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 12039,
+        "total_votes_polled": 9228,
+        "turnout_percentage": 76.7,
+        "total_valid_votes": 8935,
+        "total_valid_votes_percentage": 74.2,
+        "margin_votes": 5758,
+        "margin_percentage": 62.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shri Takar Marde",
+          "party": "Indian National Congress",
+          "votes": 7493,
+          "votes_percentage": 81.2
+        },
+        {
+          "position": 2,
+          "name": "Shri Lompak Paksok",
+          "party": "Bharatiya Janta Party",
+          "votes": 1735,
+          "votes_percentage": 18.8
+        }
+      ]
+    },
+    "2004": {
+      "poll_date": "10 July 2004",
+      "counting_date": "10 October 2004",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 11848,
+        "total_votes_polled": 8583,
+        "turnout_percentage": 0.7,
+        "margin_votes": 155,
+        "margin_percentage": 1.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Takar  Marde",
+          "party": "Indian National Congress",
+          "votes": 3379,
+          "votes_percentage": 39.4
+        },
+        {
+          "position": 2,
+          "name": "Takar  Doni",
+          "party": "Independent",
+          "votes": 3224,
+          "votes_percentage": 37.6
+        },
+        {
+          "position": 3,
+          "name": "Yabik  Gongo",
+          "party": "Arunachal Congress",
+          "votes": 1103,
+          "votes_percentage": 12.9
+        },
+        {
+          "position": 4,
+          "name": "Rode  Bui",
+          "party": "Bharatiya Janta Party",
+          "votes": 877,
+          "votes_percentage": 10.2
+        }
+      ]
+    },
+    "1990": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 8874,
+        "total_votes_polled": 7096,
+        "turnout_percentage": 80.0,
+        "margin_votes": 1131,
+        "margin_percentage": 15.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Larbin Nasi",
+          "party": "Independent",
+          "votes": 3247,
+          "votes_percentage": 46.2
+        },
+        {
+          "position": 2,
+          "name": "Tomo Riba",
+          "party": "Janata Dal",
+          "votes": 2116,
+          "votes_percentage": 30.1
+        },
+        {
+          "position": 3,
+          "name": "Tapu Rilo",
+          "party": "Indian National Congress",
+          "votes": 1659,
+          "votes_percentage": 23.6
+        }
+      ]
+    }
+  }
+}

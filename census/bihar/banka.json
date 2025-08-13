@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 182136,
+        "male": 193146,
+        "percentage_of_total_population": 18.44,
+        "percentage_of_total_population_calculated": 18.44,
+        "percentage_of_total_population_stated": 18.44,
+        "sex_ratio": 943,
+        "total": 375282
+    },
+    "literacy": {
+        "female_literacy_rate": 47.66,
+        "female_literate": 374360,
+        "male_literacy_rate": 67.62,
+        "male_literate": 590961,
+        "rate_percentage": 58.17,
+        "total_literate": 965321
+    },
+    "population": {
+        "female": 967623,
+        "male": 1067140,
+        "sex_ratio": 907,
+        "total": 2034763
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 113
+        },
+        "Christian": {
+            "percentage": 0.3,
+            "population": 6138
+        },
+        "Hindu": {
+            "percentage": 87.12,
+            "population": 1772655
+        },
+        "Jain": {
+            "percentage": 0.0,
+            "population": 94
+        },
+        "Muslims": {
+            "percentage": 12.33,
+            "population": 250925
+        },
+        "Not Stated": {
+            "percentage": 0.18,
+            "population": 3664
+        },
+        "Others": {
+            "percentage": 0.05,
+            "population": 1035
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 139
+        }
+    },
+    "rural": {
+        "child_population_female": 176641,
+        "child_population_male": 187100,
+        "child_population_percentage": 18.53,
+        "child_population_percentage_calculated": 18.53,
+        "child_population_percentage_stated": 18.53,
+        "child_population_total": 363741,
+        "child_sex_ratio": 944,
+        "female": 934353,
+        "literacy_rate_female": 46.98,
+        "literacy_rate_male": 67.21,
+        "literacy_rate_percentage": 57.63,
+        "literate_female": 355989,
+        "literate_male": 565932,
+        "literate_total": 921921,
+        "male": 1029097,
+        "percentage_population": 96.5,
+        "population": 1963450,
+        "sex_ratio": 908
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/77-banka.html",
+    "urban": {
+        "child_population_female": 5462,
+        "child_population_male": 6079,
+        "child_population_percentage": 16.18,
+        "child_population_percentage_calculated": 16.18,
+        "child_population_percentage_stated": 16.18,
+        "child_population_total": 11541,
+        "child_sex_ratio": 899,
+        "female": 33270,
+        "literacy_rate_female": 66.06,
+        "literacy_rate_male": 78.3,
+        "literacy_rate_percentage": 72.61,
+        "literate_female": 18371,
+        "literate_male": 25029,
+        "literate_total": 43400,
+        "male": 38043,
+        "percentage_population": 3.5,
+        "population": 71313,
+        "sex_ratio": 875
+    }
+}

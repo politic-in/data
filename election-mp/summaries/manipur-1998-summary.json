@@ -1,0 +1,45 @@
+{
+  "state": "Manipur",
+  "year": "1998",
+  "summary_stats": {
+    "total_electors_state": 1330209,
+    "total_votes_polled_state": 755960,
+    "turnout_percentage_state": 56.8,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Inner Manipur",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Manipur",
+      "winning_candidate": "Thounaojam Chaoba Singh",
+      "winning_party": "Manipur State Congress Party",
+      "total_electors_ac": 640500,
+      "total_votes_ac": 436131,
+      "poll_percentage_ac": 0.0,
+      "margin": 16187,
+      "margin_percentage": 3.7,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1998/manipur/inner-manipur/5852/24/12"
+    },
+    {
+      "ac_name": "Outer Manipur",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Manipur",
+      "winning_candidate": "Kim Gangte",
+      "winning_party": "Communist Party Of India",
+      "total_electors_ac": 689709,
+      "total_votes_ac": 319829,
+      "poll_percentage_ac": 0.0,
+      "margin": 2469,
+      "margin_percentage": 0.8,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1998/manipur/outer-manipur/5853/24/12"
+    }
+  ]
+}

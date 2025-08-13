@@ -1,0 +1,85 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Paali",
+  "district": "Pali",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 240907,
+        "total_votes_polled": 170322,
+        "turnout_percentage": 71.5,
+        "margin_votes": 19386,
+        "margin_percentage": 11.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gyanchand Parakh",
+          "party": "Bharatiya Janta Party",
+          "votes": 75480,
+          "votes_percentage": 44.3
+        },
+        {
+          "position": 2,
+          "name": "Bheemraj Bhati",
+          "party": "Independent",
+          "votes": 56094,
+          "votes_percentage": 32.9
+        },
+        {
+          "position": 3,
+          "name": "Mahaveer Singh Sukarlai",
+          "party": "Indian National Congress",
+          "votes": 33143,
+          "votes_percentage": 19.5
+        },
+        {
+          "position": 4,
+          "name": "Vishal",
+          "party": "Independent",
+          "votes": 1938,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Rameshwar Lal",
+          "party": "Bahujan Samaj Party",
+          "votes": 1141,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Jagdish",
+          "party": "Bhartiya Panchyat Party",
+          "votes": 964,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "N. K. Raja",
+          "party": "Aam Aadmi Party",
+          "votes": 630,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Subhash Garg",
+          "party": "Independent",
+          "votes": 549,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Mohammed Ali",
+          "party": "Dalit Kranti Dal",
+          "votes": 383,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

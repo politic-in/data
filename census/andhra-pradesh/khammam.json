@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 137937,
+        "male": 143985,
+        "percentage_of_total_population": 10.08,
+        "percentage_of_total_population_calculated": 10.08,
+        "percentage_of_total_population_stated": 10.08,
+        "sex_ratio": 958,
+        "total": 281922
+    },
+    "literacy": {
+        "female_literacy_rate": 57.44,
+        "female_literate": 728594,
+        "male_literacy_rate": 72.3,
+        "male_literate": 901640,
+        "rate_percentage": 64.81,
+        "total_literate": 1630234
+    },
+    "population": {
+        "female": 1406382,
+        "male": 1390988,
+        "sex_ratio": 1011,
+        "total": 2797370
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 217
+        },
+        "Christian": {
+            "percentage": 1.2,
+            "population": 33463
+        },
+        "Hindu": {
+            "percentage": 92.78,
+            "population": 2595321
+        },
+        "Jain": {
+            "percentage": 0.02,
+            "population": 459
+        },
+        "Muslims": {
+            "percentage": 5.68,
+            "population": 158887
+        },
+        "Not Stated": {
+            "percentage": 0.28,
+            "population": 7829
+        },
+        "Others": {
+            "percentage": 0.02,
+            "population": 539
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 655
+        }
+    },
+    "rural": {
+        "child_population_female": 106664,
+        "child_population_male": 110904,
+        "child_population_percentage": 10.16,
+        "child_population_percentage_calculated": 10.16,
+        "child_population_percentage_stated": 10.16,
+        "child_population_total": 217568,
+        "child_sex_ratio": 962,
+        "female": 1074678,
+        "literacy_rate_female": 51.86,
+        "literacy_rate_male": 67.74,
+        "literacy_rate_percentage": 59.75,
+        "literate_female": 502027,
+        "literate_male": 647506,
+        "literate_total": 1149533,
+        "male": 1066781,
+        "percentage_population": 76.55,
+        "population": 2141459,
+        "sex_ratio": 1007
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/127-khammam.html",
+    "urban": {
+        "child_population_female": 31302,
+        "child_population_male": 33052,
+        "child_population_percentage": 9.81,
+        "child_population_percentage_calculated": 9.81,
+        "child_population_percentage_stated": 9.81,
+        "child_population_total": 64354,
+        "child_sex_ratio": 947,
+        "female": 331704,
+        "literacy_rate_female": 75.42,
+        "literacy_rate_male": 87.28,
+        "literacy_rate_percentage": 81.26,
+        "literate_female": 226567,
+        "literate_male": 254134,
+        "literate_total": 480701,
+        "male": 324207,
+        "percentage_population": 23.45,
+        "population": 655911,
+        "sex_ratio": 1023
+    }
+}

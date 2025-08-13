@@ -1,0 +1,50 @@
+{
+  "state": "Goa, Daman And Diu",
+  "constituency": "Narcain",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 16272,
+        "total_votes_polled": 12133,
+        "turnout_percentage": 74.6,
+        "margin_votes": 3222,
+        "margin_percentage": 26.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gaunkar Babuso Saulo",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 6377,
+          "votes_percentage": 54.8
+        },
+        {
+          "position": 2,
+          "name": "Panjikar Sashi Govind",
+          "party": "Independent",
+          "votes": 3155,
+          "votes_percentage": 27.1
+        },
+        {
+          "position": 3,
+          "name": "Kankonkar Tukaram Ragoba",
+          "party": "Indian National Congress (U)",
+          "votes": 1450,
+          "votes_percentage": 12.5
+        },
+        {
+          "position": 4,
+          "name": "Shet Nishakant Krishna",
+          "party": "Janta Party",
+          "votes": 663,
+          "votes_percentage": 5.7
+        }
+      ]
+    }
+  }
+}

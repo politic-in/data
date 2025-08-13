@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 29261,
+        "male": 31295,
+        "percentage_of_total_population": 14.34,
+        "percentage_of_total_population_calculated": 14.34,
+        "percentage_of_total_population_stated": 14.34,
+        "sex_ratio": 935,
+        "total": 60556
+    },
+    "literacy": {
+        "female_literacy_rate": 64.09,
+        "female_literate": 116687,
+        "male_literacy_rate": 85.0,
+        "male_literate": 152617,
+        "rate_percentage": 74.47,
+        "total_literate": 269304
+    },
+    "population": {
+        "female": 211323,
+        "male": 210845,
+        "sex_ratio": 1002,
+        "total": 422168
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.03,
+            "population": 114
+        },
+        "Christian": {
+            "percentage": 1.02,
+            "population": 4322
+        },
+        "Hindu": {
+            "percentage": 63.28,
+            "population": 267146
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 24
+        },
+        "Muslims": {
+            "percentage": 25.42,
+            "population": 107323
+        },
+        "Not Stated": {
+            "percentage": 0.19,
+            "population": 786
+        },
+        "Others": {
+            "percentage": 10.03,
+            "population": 42347
+        },
+        "Sikh": {
+            "percentage": 0.03,
+            "population": 106
+        }
+    },
+    "rural": {
+        "child_population_female": 19316,
+        "child_population_male": 20665,
+        "child_population_percentage": 14.76,
+        "child_population_percentage_calculated": 14.76,
+        "child_population_percentage_stated": 14.76,
+        "child_population_total": 39981,
+        "child_sex_ratio": 935,
+        "female": 135365,
+        "literacy_rate_female": 60.02,
+        "literacy_rate_male": 82.5,
+        "literacy_rate_percentage": 71.2,
+        "literate_female": 69656,
+        "literate_male": 94714,
+        "literate_total": 164370,
+        "male": 135470,
+        "percentage_population": 64.15,
+        "population": 270835,
+        "sex_ratio": 999
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/374-thoubal.html",
+    "urban": {
+        "child_population_female": 9946,
+        "child_population_male": 10629,
+        "child_population_percentage": 13.6,
+        "child_population_percentage_calculated": 13.6,
+        "child_population_percentage_stated": 13.6,
+        "child_population_total": 20575,
+        "child_sex_ratio": 936,
+        "female": 75958,
+        "literacy_rate_female": 71.25,
+        "literacy_rate_male": 89.43,
+        "literacy_rate_percentage": 80.25,
+        "literate_female": 47031,
+        "literate_male": 57903,
+        "literate_total": 104934,
+        "male": 75375,
+        "percentage_population": 35.85,
+        "population": 151333,
+        "sex_ratio": 1008
+    }
+}

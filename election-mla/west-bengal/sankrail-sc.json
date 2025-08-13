@@ -1,0 +1,78 @@
+{
+  "state": "West Bengal",
+  "constituency": "SANKRAIL (SC)",
+  "district": "Haora",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 243251,
+        "total_votes_polled": 190679,
+        "turnout_percentage": 79.3,
+        "margin_votes": 14757,
+        "margin_percentage": 7.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sital Kumar Sardar",
+          "party": "All India Trinamool Congress",
+          "votes": 86212,
+          "votes_percentage": 45.2
+        },
+        {
+          "position": 2,
+          "name": "Samir Malick",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 71455,
+          "votes_percentage": 37.5
+        },
+        {
+          "position": 3,
+          "name": "Probhakar Pandit",
+          "party": "Bharatiya Janta Party",
+          "votes": 28006,
+          "votes_percentage": 14.7
+        },
+        {
+          "position": 4,
+          "name": "Tapan Kumar Bachar",
+          "party": "Independent",
+          "votes": 1193,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 5,
+          "name": "Samir Naskar",
+          "party": "Independent",
+          "votes": 1183,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Ashok Rajwar",
+          "party": "Indian Unity Centre",
+          "votes": 1158,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Biswanath Santra",
+          "party": "Independent",
+          "votes": 991,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Gopal Bag",
+          "party": "Independent",
+          "votes": 481,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

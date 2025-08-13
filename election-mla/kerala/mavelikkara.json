@@ -1,0 +1,64 @@
+{
+  "state": "Kerala",
+  "constituency": "Mavelikkara",
+  "district": "Alappuzha",
+  "ac_type": "SC",
+  "results": {
+    "2021": {
+      "poll_date": "06 April 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 196697,
+        "total_votes_polled": 150171,
+        "turnout_percentage": 76.6,
+        "margin_votes": 24717,
+        "margin_percentage": 16.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "M S Arun Kumar",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 71743,
+          "votes_percentage": 47.8
+        },
+        {
+          "position": 2,
+          "name": "K K Shaju",
+          "party": "Indian National Congress",
+          "votes": 47026,
+          "votes_percentage": 31.3
+        },
+        {
+          "position": 3,
+          "name": "K Sanju",
+          "party": "Bharatiya Janta Party",
+          "votes": 30955,
+          "votes_percentage": 20.6
+        },
+        {
+          "position": 4,
+          "name": "Suresh Nooranad",
+          "party": "Ambedkarite Party Of India",
+          "votes": 165,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 5,
+          "name": "K Sasikumar",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 151,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 6,
+          "name": "B Subhash",
+          "party": "Independent",
+          "votes": 131,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

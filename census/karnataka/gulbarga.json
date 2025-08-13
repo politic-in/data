@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 177327,
+        "male": 188045,
+        "percentage_of_total_population": 14.24,
+        "percentage_of_total_population_calculated": 14.24,
+        "percentage_of_total_population_stated": 14.24,
+        "sex_ratio": 943,
+        "total": 365372
+    },
+    "literacy": {
+        "female_literacy_rate": 55.09,
+        "female_literate": 599009,
+        "male_literacy_rate": 74.38,
+        "male_literate": 828359,
+        "rate_percentage": 64.85,
+        "total_literate": 1427368
+    },
+    "population": {
+        "female": 1264571,
+        "male": 1301755,
+        "sex_ratio": 971,
+        "total": 2566326
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.37,
+            "population": 9589
+        },
+        "Christian": {
+            "percentage": 0.33,
+            "population": 8344
+        },
+        "Hindu": {
+            "percentage": 78.36,
+            "population": 2011014
+        },
+        "Jain": {
+            "percentage": 0.19,
+            "population": 4865
+        },
+        "Muslims": {
+            "percentage": 19.99,
+            "population": 513125
+        },
+        "Not Stated": {
+            "percentage": 0.71,
+            "population": 18233
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 330
+        },
+        "Sikh": {
+            "percentage": 0.03,
+            "population": 826
+        }
+    },
+    "rural": {
+        "child_population_female": 123798,
+        "child_population_male": 131174,
+        "child_population_percentage": 14.73,
+        "child_population_percentage_calculated": 14.73,
+        "child_population_percentage_stated": 14.73,
+        "child_population_total": 254972,
+        "child_sex_ratio": 944,
+        "female": 853631,
+        "literacy_rate_female": 46.86,
+        "literacy_rate_male": 69.08,
+        "literacy_rate_percentage": 58.09,
+        "literate_female": 341978,
+        "literate_male": 515350,
+        "literate_total": 857328,
+        "male": 877144,
+        "percentage_population": 67.44,
+        "population": 1730775,
+        "sex_ratio": 973
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/256-gulbarga.html",
+    "urban": {
+        "child_population_female": 53498,
+        "child_population_male": 56902,
+        "child_population_percentage": 13.21,
+        "child_population_percentage_calculated": 13.21,
+        "child_population_percentage_stated": 13.21,
+        "child_population_total": 110400,
+        "child_sex_ratio": 940,
+        "female": 410940,
+        "literacy_rate_female": 71.91,
+        "literacy_rate_male": 85.12,
+        "literacy_rate_percentage": 78.61,
+        "literate_female": 257031,
+        "literate_male": 313009,
+        "literate_total": 570040,
+        "male": 424611,
+        "percentage_population": 32.56,
+        "population": 835551,
+        "sex_ratio": 968
+    }
+}

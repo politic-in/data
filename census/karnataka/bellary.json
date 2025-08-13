@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 168564,
+        "male": 175588,
+        "percentage_of_total_population": 14.03,
+        "percentage_of_total_population_calculated": 14.03,
+        "percentage_of_total_population_stated": 14.03,
+        "sex_ratio": 960,
+        "total": 344152
+    },
+    "literacy": {
+        "female_literacy_rate": 58.09,
+        "female_literate": 608181,
+        "male_literacy_rate": 76.64,
+        "male_literate": 813440,
+        "rate_percentage": 67.43,
+        "total_literate": 1421621
+    },
+    "population": {
+        "female": 1215641,
+        "male": 1236954,
+        "sex_ratio": 983,
+        "total": 2452595
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 284
+        },
+        "Christian": {
+            "percentage": 0.57,
+            "population": 14014
+        },
+        "Hindu": {
+            "percentage": 85.77,
+            "population": 2103633
+        },
+        "Jain": {
+            "percentage": 0.33,
+            "population": 8044
+        },
+        "Muslims": {
+            "percentage": 13.08,
+            "population": 320834
+        },
+        "Not Stated": {
+            "percentage": 0.19,
+            "population": 4703
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 54
+        },
+        "Sikh": {
+            "percentage": 0.04,
+            "population": 1029
+        }
+    },
+    "rural": {
+        "child_population_female": 109061,
+        "child_population_male": 113910,
+        "child_population_percentage": 14.55,
+        "child_population_percentage_calculated": 14.55,
+        "child_population_percentage_stated": 14.55,
+        "child_population_total": 222971,
+        "child_sex_ratio": 957,
+        "female": 758263,
+        "literacy_rate_female": 51.02,
+        "literacy_rate_male": 72.42,
+        "literacy_rate_percentage": 61.81,
+        "literate_female": 331212,
+        "literate_male": 478100,
+        "literate_total": 809312,
+        "male": 774093,
+        "percentage_population": 62.48,
+        "population": 1532356,
+        "sex_ratio": 980
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/245-bellary.html",
+    "urban": {
+        "child_population_female": 59548,
+        "child_population_male": 61633,
+        "child_population_percentage": 13.17,
+        "child_population_percentage_calculated": 13.17,
+        "child_population_percentage_stated": 13.17,
+        "child_population_total": 121181,
+        "child_sex_ratio": 966,
+        "female": 457378,
+        "literacy_rate_female": 69.62,
+        "literacy_rate_male": 83.58,
+        "literacy_rate_percentage": 76.63,
+        "literate_female": 276969,
+        "literate_male": 335340,
+        "literate_total": 612309,
+        "male": 462861,
+        "percentage_population": 37.52,
+        "population": 920239,
+        "sex_ratio": 988
+    }
+}

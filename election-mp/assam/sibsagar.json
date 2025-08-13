@@ -1,0 +1,90 @@
+{
+  "state": "Assam",
+  "constituency": "SIBSAGAR",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 458998,
+        "total_votes_polled": 218312,
+        "turnout_percentage": 47.6,
+        "margin_votes": 54464,
+        "margin_percentage": 24.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Prafulla Chandra Baruah",
+          "party": "Indian National Congress",
+          "votes": 101746,
+          "votes_percentage": 46.6
+        },
+        {
+          "position": 2,
+          "name": "Bhadrakrishna Goswami",
+          "party": "Communist Party Of India",
+          "votes": 47282,
+          "votes_percentage": 21.7
+        },
+        {
+          "position": 3,
+          "name": "Rajani Phukah",
+          "party": "Revolutionary Socialist Party",
+          "votes": 33488,
+          "votes_percentage": 15.3
+        },
+        {
+          "position": 4,
+          "name": "Taruddin Ahmed",
+          "party": "Praja Socialist Party",
+          "votes": 25801,
+          "votes_percentage": 11.8
+        }
+      ]
+    },
+    "1957": {
+      "poll_date": "25 February 1957",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 375283,
+        "total_votes_polled": 164601,
+        "turnout_percentage": 43.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Borua, Profulla Chandra",
+          "party": "Indian National Congress",
+          "votes": 92374,
+          "votes_percentage": 56.1
+        },
+        {
+          "position": 2,
+          "name": "Goswami Kedarnath",
+          "party": "Independent",
+          "votes": 32633,
+          "votes_percentage": 19.8
+        },
+        {
+          "position": 3,
+          "name": "Gagoi, Korunakanta",
+          "party": "Praja Socialist Party",
+          "votes": 29202,
+          "votes_percentage": 17.7
+        },
+        {
+          "position": 4,
+          "name": "Borpatro Mohendra",
+          "party": "Independent",
+          "votes": 10392,
+          "votes_percentage": 6.3
+        }
+      ]
+    }
+  }
+}

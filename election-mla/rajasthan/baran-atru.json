@@ -1,0 +1,169 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Baran Atru",
+  "district": "Baran",
+  "ac_type": "SC",
+  "results": {
+    "2023": {
+      "poll_date": "25 November 2023",
+      "counting_date": "03 December 2023",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 481952,
+        "total_votes_polled": 186490,
+        "turnout_percentage": 39.1,
+        "margin_votes": 19754,
+        "margin_percentage": 10.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Radheyshyam Bairwa",
+          "party": "Bharatiya Janta Party",
+          "votes": 101530,
+          "votes_percentage": 53.8
+        },
+        {
+          "position": 2,
+          "name": "Panachand Meghwal",
+          "party": "Indian National Congress",
+          "votes": 81776,
+          "votes_percentage": 43.4
+        },
+        {
+          "position": 3,
+          "name": "Suresh Kumar Manav",
+          "party": "Bahujan Samaj Party",
+          "votes": 978,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 4,
+          "name": "Roop Singh Jatav",
+          "party": "Aazad Samaj Party (Kanshi Ram)",
+          "votes": 972,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "Seema Verma",
+          "party": "Independent",
+          "votes": 765,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Vimal Kumar Meghwal",
+          "party": "Peoples Party Of India (Democratic)",
+          "votes": 469,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "01 December 2013",
+      "counting_date": "08 December 2013",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 194240,
+        "total_votes_polled": 143355,
+        "turnout_percentage": 75.3,
+        "margin_votes": 20600,
+        "margin_percentage": 14.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rampal",
+          "party": "Bharatiya Janta Party",
+          "votes": 77087,
+          "votes_percentage": 53.8
+        },
+        {
+          "position": 2,
+          "name": "Panachand Meghwal",
+          "party": "Indian National Congress",
+          "votes": 56487,
+          "votes_percentage": 39.4
+        },
+        {
+          "position": 3,
+          "name": "Laxman Kumar",
+          "party": "National People's Party",
+          "votes": 5525,
+          "votes_percentage": 3.9
+        },
+        {
+          "position": 4,
+          "name": "Rajendra Kumar Bairwa",
+          "party": "Bharatiya Yuva Shakti",
+          "votes": 2129,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Chatur Bhuj Megh",
+          "party": "Bahujan Samaj Party",
+          "votes": 2127,
+          "votes_percentage": 1.5
+        }
+      ]
+    },
+    "2008": {
+      "poll_date": "04 December 2008",
+      "counting_date": "08 December 2008",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 173928,
+        "total_votes_polled": 117411,
+        "turnout_percentage": 67.5,
+        "margin_votes": 16574,
+        "margin_percentage": 14.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Panachand",
+          "party": "Indian National Congress",
+          "votes": 64697,
+          "votes_percentage": 55.1
+        },
+        {
+          "position": 2,
+          "name": "Madan Dilawar",
+          "party": "Bharatiya Janta Party",
+          "votes": 48123,
+          "votes_percentage": 41.0
+        },
+        {
+          "position": 3,
+          "name": "Laxman Kumar",
+          "party": "Independent",
+          "votes": 2140,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 4,
+          "name": "Motilal",
+          "party": "Bahujan Samaj Party",
+          "votes": 1044,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Manoj Kumar Dilawar",
+          "party": "Independent",
+          "votes": 881,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Brijmohan Meghwal",
+          "party": "Independent",
+          "votes": 526,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

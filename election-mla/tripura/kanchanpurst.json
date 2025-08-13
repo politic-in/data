@@ -1,0 +1,64 @@
+{
+  "state": "Tripura",
+  "constituency": "Kanchanpur(ST)",
+  "district": "North Tripura",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 41970,
+        "total_votes_polled": 36679,
+        "turnout_percentage": 88.2,
+        "margin_votes": 4131,
+        "margin_percentage": 11.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Prem Kumar Reang",
+          "party": "Indigenous People's Front Of Tripura",
+          "votes": 19448,
+          "votes_percentage": 53.0
+        },
+        {
+          "position": 2,
+          "name": "Rajendra Reang",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 15317,
+          "votes_percentage": 41.8
+        },
+        {
+          "position": 3,
+          "name": "Sindrai Reang",
+          "party": "Indigenous Nationalist Party Of Twipra",
+          "votes": 856,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 4,
+          "name": "Karnadhan Chakma",
+          "party": "Amra Bangalee",
+          "votes": 400,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Ranjit Kumar Reang",
+          "party": "Indian National Congress",
+          "votes": 386,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 7,
+          "name": "Pronendra Reang",
+          "party": "Tipraland State Party",
+          "votes": 272,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

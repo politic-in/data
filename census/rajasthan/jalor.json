@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 149460,
+        "male": 166995,
+        "percentage_of_total_population": 17.3,
+        "percentage_of_total_population_calculated": 17.3,
+        "percentage_of_total_population_stated": 17.3,
+        "sex_ratio": 895,
+        "total": 316455
+    },
+    "literacy": {
+        "female_literacy_rate": 38.47,
+        "female_literate": 285659,
+        "male_literacy_rate": 70.67,
+        "male_literate": 543923,
+        "rate_percentage": 54.86,
+        "total_literate": 829582
+    },
+    "population": {
+        "female": 892096,
+        "male": 936634,
+        "sex_ratio": 952,
+        "total": 1828730
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 144
+        },
+        "Christian": {
+            "percentage": 0.04,
+            "population": 730
+        },
+        "Hindu": {
+            "percentage": 94.76,
+            "population": 1732852
+        },
+        "Jain": {
+            "percentage": 0.8,
+            "population": 14640
+        },
+        "Muslims": {
+            "percentage": 4.32,
+            "population": 78990
+        },
+        "Not Stated": {
+            "percentage": 0.06,
+            "population": 1061
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 82
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 231
+        }
+    },
+    "rural": {
+        "child_population_female": 138864,
+        "child_population_male": 155142,
+        "child_population_percentage": 17.53,
+        "child_population_percentage_calculated": 17.53,
+        "child_population_percentage_stated": 17.53,
+        "child_population_total": 294006,
+        "child_sex_ratio": 895,
+        "female": 819356,
+        "literacy_rate_female": 36.78,
+        "literacy_rate_male": 69.38,
+        "literacy_rate_percentage": 53.34,
+        "literate_female": 250268,
+        "literate_male": 487407,
+        "literate_total": 737675,
+        "male": 857619,
+        "percentage_population": 91.7,
+        "population": 1676975,
+        "sex_ratio": 955
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/441-jalor.html",
+    "urban": {
+        "child_population_female": 10592,
+        "child_population_male": 11857,
+        "child_population_percentage": 14.79,
+        "child_population_percentage_calculated": 14.79,
+        "child_population_percentage_stated": 14.79,
+        "child_population_total": 22449,
+        "child_sex_ratio": 893,
+        "female": 72740,
+        "literacy_rate_female": 56.95,
+        "literacy_rate_male": 84.15,
+        "literacy_rate_percentage": 71.08,
+        "literate_female": 35391,
+        "literate_male": 56516,
+        "literate_total": 91907,
+        "male": 79015,
+        "percentage_population": 8.3,
+        "population": 151755,
+        "sex_ratio": 921
+    }
+}

@@ -1,0 +1,45 @@
+{
+  "state": "Tripura",
+  "year": "1962",
+  "summary_stats": {
+    "total_electors_state": 480609,
+    "total_votes_polled_state": 326605,
+    "turnout_percentage_state": 68.0,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Tripura East",
+      "ac_no": 494,
+      "ac_type": "ST",
+      "district": "Tripura",
+      "winning_candidate": "Dasaratha Deb",
+      "winning_party": "Communist Party Of India",
+      "total_electors_ac": 239516,
+      "total_votes_ac": 157624,
+      "poll_percentage_ac": 0.0,
+      "margin": 10048,
+      "margin_percentage": 6.4,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1962/tripura/tripura-east/1298/25/3"
+    },
+    {
+      "ac_name": "Tripura West",
+      "ac_no": 493,
+      "ac_type": "GEN",
+      "district": "Tripura",
+      "winning_candidate": "Birendra Chandra Dutta",
+      "winning_party": "Communist Party Of India",
+      "total_electors_ac": 241093,
+      "total_votes_ac": 168981,
+      "poll_percentage_ac": 0.0,
+      "margin": 16989,
+      "margin_percentage": 10.1,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1962/tripura/tripura-west/1297/25/3"
+    }
+  ]
+}

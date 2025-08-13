@@ -1,0 +1,36 @@
+{
+  "state": "Tamil Nadu",
+  "constituency": "METTUR",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 593427,
+        "total_votes_polled": 351437,
+        "turnout_percentage": 59.2,
+        "margin_votes": 66140,
+        "margin_percentage": 18.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "G. Bhuvarahan",
+          "party": "Indian National Congress",
+          "votes": 201744,
+          "votes_percentage": 57.4
+        },
+        {
+          "position": 2,
+          "name": "K. Ramamurthy",
+          "party": "Indian National Congress (ORGANISATION)",
+          "votes": 135604,
+          "votes_percentage": 38.6
+        }
+      ]
+    }
+  }
+}

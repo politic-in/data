@@ -1,0 +1,451 @@
+{
+  "state": "Manipur",
+  "constituency": "Heirok",
+  "district": "Thoubal",
+  "ac_type": "GEN",
+  "results": {
+    "2022": {
+      "poll_date": "28 February 2022",
+      "counting_date": "10 March 2022",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 34115,
+        "total_votes_polled": 31748,
+        "turnout_percentage": 93.1,
+        "margin_votes": 403,
+        "margin_percentage": 1.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Thokchom Radheshyam Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 13589,
+          "votes_percentage": 43.0
+        },
+        {
+          "position": 2,
+          "name": "Moirangthem Okendro",
+          "party": "Indian National Congress",
+          "votes": 13186,
+          "votes_percentage": 41.7
+        },
+        {
+          "position": 3,
+          "name": "Ningthoujam Diten Singh",
+          "party": "National People's Party",
+          "votes": 4766,
+          "votes_percentage": 15.1
+        },
+        {
+          "position": 4,
+          "name": "Moirangthem Totomsana Nongshaba",
+          "party": "Rashtriya Janhit Sangharsh Party",
+          "votes": 86,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2017": {
+      "poll_date": "04 February 2017",
+      "counting_date": "11 March 2017",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 30297,
+        "total_votes_polled": 28621,
+        "turnout_percentage": 94.8,
+        "margin_votes": 1647,
+        "margin_percentage": 5.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Thokchom Radheshyam Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 13389,
+          "votes_percentage": 46.6
+        },
+        {
+          "position": 2,
+          "name": "Moirangthem Okendro",
+          "party": "Indian National Congress",
+          "votes": 11742,
+          "votes_percentage": 40.9
+        },
+        {
+          "position": 3,
+          "name": "Ningthoujam Diten",
+          "party": "Nationalist Congress Party",
+          "votes": 3321,
+          "votes_percentage": 11.6
+        },
+        {
+          "position": 4,
+          "name": "Moirangthem Totomsana",
+          "party": "All India Trinamool Congress",
+          "votes": 85,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 5,
+          "name": "Nongmeikapam Sovakiran Singh",
+          "party": "Manipur Peoples Party",
+          "votes": 84,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2012": {
+      "poll_date": "28 January 2012",
+      "counting_date": "03 June 2012",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 26503,
+        "total_votes_polled": 25435,
+        "turnout_percentage": 96.0,
+        "total_valid_votes": 24658,
+        "total_valid_votes_percentage": 93.0,
+        "margin_votes": 5771,
+        "margin_percentage": 22.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Moirangthem Okendro",
+          "party": "Indian National Congress",
+          "votes": 13535,
+          "votes_percentage": 53.2
+        },
+        {
+          "position": 2,
+          "name": "Nongmeikapam Sovakiran Singh",
+          "party": "Manipur Peoples Party",
+          "votes": 7764,
+          "votes_percentage": 30.5
+        },
+        {
+          "position": 3,
+          "name": "Sumatibala Ningthoujam",
+          "party": "Manipur State Congress Party",
+          "votes": 4136,
+          "votes_percentage": 16.3
+        }
+      ]
+    },
+    "2007": {
+      "poll_date": "23 February 2007",
+      "counting_date": "27 February 2007",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 26048,
+        "total_votes_polled": 23868,
+        "turnout_percentage": 91.6,
+        "margin_votes": 3828,
+        "margin_percentage": 16.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "M. Okendro",
+          "party": "Indian National Congress",
+          "votes": 13775,
+          "votes_percentage": 57.7
+        },
+        {
+          "position": 2,
+          "name": "N. Sovakiran Singh",
+          "party": "Mahabharat Peples Party",
+          "votes": 9947,
+          "votes_percentage": 41.7
+        },
+        {
+          "position": 3,
+          "name": "M. Tombi Singh",
+          "party": "Janata Dal (United)",
+          "votes": 74,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 4,
+          "name": "M. Totomshana",
+          "party": "Independent",
+          "votes": 72,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2002": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 22094,
+        "total_votes_polled": 20344,
+        "turnout_percentage": 92.1,
+        "margin_votes": 604,
+        "margin_percentage": 3.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nongmeikapam Sovakiran Singh",
+          "party": "Federal Party Of Manipur",
+          "votes": 9376,
+          "votes_percentage": 46.5
+        },
+        {
+          "position": 2,
+          "name": "Moirangthem Okendro",
+          "party": "Indian National Congress",
+          "votes": 8772,
+          "votes_percentage": 43.5
+        },
+        {
+          "position": 3,
+          "name": "Ningthoujam Borchandra Singh",
+          "party": "Manipur State Congress Party",
+          "votes": 1254,
+          "votes_percentage": 6.2
+        },
+        {
+          "position": 4,
+          "name": "S. Kondum",
+          "party": "Manipur National Conference",
+          "votes": 307,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Ningthoujam Muhindro Singh",
+          "party": "Communist Party Of India",
+          "votes": 284,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 6,
+          "name": "Moirangthem Tombi",
+          "party": "Samata Party",
+          "votes": 189,
+          "votes_percentage": 0.9
+        }
+      ]
+    },
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 21034,
+        "total_votes_polled": 19196,
+        "turnout_percentage": 91.3,
+        "margin_votes": 1709,
+        "margin_percentage": 8.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Moirangthem  Okendro",
+          "party": "Indian National Congress",
+          "votes": 7665,
+          "votes_percentage": 40.3
+        },
+        {
+          "position": 2,
+          "name": "Nongmeikapam  Komol Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 5956,
+          "votes_percentage": 31.3
+        },
+        {
+          "position": 3,
+          "name": "N.  Borchandra  Singh",
+          "party": "Manipur State Congress Party",
+          "votes": 4338,
+          "votes_percentage": 22.8
+        },
+        {
+          "position": 4,
+          "name": "Maibam Jugeshwar Singh",
+          "party": "Federal Party Of Manipur",
+          "votes": 948,
+          "votes_percentage": 5.0
+        },
+        {
+          "position": 5,
+          "name": "Moirangthem  Tombi",
+          "party": "Samata Party",
+          "votes": 118,
+          "votes_percentage": 0.6
+        }
+      ]
+    },
+    "1995": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 19073,
+        "total_votes_polled": 17931,
+        "turnout_percentage": 94.0,
+        "margin_votes": 1198,
+        "margin_percentage": 6.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Moirangthem Okendro",
+          "party": "Indian National Congress",
+          "votes": 6456,
+          "votes_percentage": 36.4
+        },
+        {
+          "position": 2,
+          "name": "Nongmeikapam Komol Singh",
+          "party": "Mahabharat Peples Party",
+          "votes": 5258,
+          "votes_percentage": 29.7
+        },
+        {
+          "position": 3,
+          "name": "Khundongbam Khelendra Singh",
+          "party": "Communist Party Of India",
+          "votes": 2773,
+          "votes_percentage": 15.6
+        },
+        {
+          "position": 4,
+          "name": "Maibam Jugeshwor Singh",
+          "party": "Indian Congress (SOCIALIST)",
+          "votes": 2397,
+          "votes_percentage": 13.5
+        },
+        {
+          "position": 5,
+          "name": "Ningthoujam Borchandra Singh",
+          "party": "Independent",
+          "votes": 505,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 6,
+          "name": "Laishram Krishnadas",
+          "party": "Independent",
+          "votes": 346,
+          "votes_percentage": 2.0
+        }
+      ]
+    },
+    "1990": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 20598,
+        "total_votes_polled": 18724,
+        "turnout_percentage": 90.9,
+        "margin_votes": 641,
+        "margin_percentage": 3.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nongmeikapam Komon Singh",
+          "party": "Janata Dal",
+          "votes": 8207,
+          "votes_percentage": 44.5
+        },
+        {
+          "position": 2,
+          "name": "Moirangthem Ibotombi",
+          "party": "Indian National Congress",
+          "votes": 7566,
+          "votes_percentage": 41.0
+        },
+        {
+          "position": 3,
+          "name": "Laishram Krishna Das Singh",
+          "party": "Mahabharat Peples Party",
+          "votes": 1716,
+          "votes_percentage": 9.3
+        },
+        {
+          "position": 4,
+          "name": "Th. Biramangol Singh",
+          "party": "Indian Congress (SOCIALIST- SARAT CHANDRA SINHA)",
+          "votes": 973,
+          "votes_percentage": 5.3
+        }
+      ]
+    },
+    "1984": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 16255,
+        "total_votes_polled": 14729,
+        "turnout_percentage": 90.6,
+        "margin_votes": 869,
+        "margin_percentage": 5.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Moirangthem Ibotombitombi",
+          "party": "Indian National Congress",
+          "votes": 6274,
+          "votes_percentage": 44.1
+        },
+        {
+          "position": 2,
+          "name": "Nongmeikapam Nilakamal",
+          "party": "Independent",
+          "votes": 5405,
+          "votes_percentage": 38.0
+        },
+        {
+          "position": 3,
+          "name": "Laishram Krishna",
+          "party": "Manipur Peoples Party",
+          "votes": 2540,
+          "votes_percentage": 17.9
+        }
+      ]
+    },
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 14730,
+        "total_votes_polled": 12906,
+        "turnout_percentage": 87.6,
+        "margin_votes": 182,
+        "margin_percentage": 1.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Moirangthem Ibotombi",
+          "party": "Janta Party",
+          "votes": 4936,
+          "votes_percentage": 39.2
+        },
+        {
+          "position": 2,
+          "name": "Nongmeikapam Nilakamal",
+          "party": "Indian National Congress (I)",
+          "votes": 4754,
+          "votes_percentage": 37.8
+        },
+        {
+          "position": 3,
+          "name": "Khudongbam Kheiendro",
+          "party": "Communist Party Of India",
+          "votes": 2903,
+          "votes_percentage": 23.1
+        }
+      ]
+    }
+  }
+}

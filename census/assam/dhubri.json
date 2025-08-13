@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 181137,
+        "male": 187125,
+        "percentage_of_total_population": 18.89,
+        "percentage_of_total_population_calculated": 18.89,
+        "percentage_of_total_population_stated": 18.89,
+        "sex_ratio": 968,
+        "total": 368262
+    },
+    "literacy": {
+        "female_literacy_rate": 53.33,
+        "female_literate": 410790,
+        "male_literacy_rate": 63.1,
+        "male_literate": 511551,
+        "rate_percentage": 58.34,
+        "total_literate": 922341
+    },
+    "population": {
+        "female": 951410,
+        "male": 997848,
+        "sex_ratio": 953,
+        "total": 1949258
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 101
+        },
+        "Christian": {
+            "percentage": 0.21,
+            "population": 4107
+        },
+        "Hindu": {
+            "percentage": 19.92,
+            "population": 388380
+        },
+        "Jain": {
+            "percentage": 0.09,
+            "population": 1846
+        },
+        "Muslims": {
+            "percentage": 79.67,
+            "population": 1553023
+        },
+        "Not Stated": {
+            "percentage": 0.08,
+            "population": 1502
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 45
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 254
+        }
+    },
+    "rural": {
+        "child_population_female": 170066,
+        "child_population_male": 175213,
+        "child_population_percentage": 19.78,
+        "child_population_percentage_calculated": 19.78,
+        "child_population_percentage_stated": 19.78,
+        "child_population_total": 345279,
+        "child_sex_ratio": 971,
+        "female": 851643,
+        "literacy_rate_female": 50.21,
+        "literacy_rate_male": 60.02,
+        "literacy_rate_percentage": 55.25,
+        "literate_female": 342251,
+        "literate_male": 431395,
+        "literate_total": 773646,
+        "male": 893914,
+        "percentage_population": 89.55,
+        "population": 1745557,
+        "sex_ratio": 953
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/148-dhubri.html",
+    "urban": {
+        "child_population_female": 11104,
+        "child_population_male": 11879,
+        "child_population_percentage": 11.28,
+        "child_population_percentage_calculated": 11.28,
+        "child_population_percentage_stated": 11.28,
+        "child_population_total": 22983,
+        "child_sex_ratio": 935,
+        "female": 99767,
+        "literacy_rate_female": 77.3,
+        "literacy_rate_male": 87.07,
+        "literacy_rate_percentage": 82.28,
+        "literate_female": 68539,
+        "literate_male": 80156,
+        "literate_total": 148695,
+        "male": 103934,
+        "percentage_population": 10.45,
+        "population": 203701,
+        "sex_ratio": 960
+    }
+}

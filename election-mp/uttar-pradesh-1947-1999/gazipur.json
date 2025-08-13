@@ -1,0 +1,64 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "GAZIPUR",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 399020,
+        "total_votes_polled": 219895,
+        "turnout_percentage": 55.1,
+        "margin_votes": 36863,
+        "margin_percentage": 16.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Viswanath Singh Gahmari",
+          "party": "Indian National Congress",
+          "votes": 77046,
+          "votes_percentage": 35.0
+        },
+        {
+          "position": 2,
+          "name": "Har Prasad",
+          "party": "Communist Party Of India",
+          "votes": 40183,
+          "votes_percentage": 18.3
+        },
+        {
+          "position": 3,
+          "name": "Jamuna",
+          "party": "Praja Socialist Party",
+          "votes": 33387,
+          "votes_percentage": 15.2
+        },
+        {
+          "position": 4,
+          "name": "Dal Shringar Dubey",
+          "party": "Socialist",
+          "votes": 21258,
+          "votes_percentage": 9.7
+        },
+        {
+          "position": 5,
+          "name": "Shiv Narain",
+          "party": "Jan Sangh",
+          "votes": 19132,
+          "votes_percentage": 8.7
+        },
+        {
+          "position": 6,
+          "name": "Sagar",
+          "party": "Independent",
+          "votes": 18825,
+          "votes_percentage": 8.6
+        }
+      ]
+    }
+  }
+}

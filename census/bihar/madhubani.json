@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 391843,
+        "male": 418636,
+        "percentage_of_total_population": 18.06,
+        "percentage_of_total_population_calculated": 18.06,
+        "percentage_of_total_population_stated": 18.06,
+        "sex_ratio": 936,
+        "total": 810479
+    },
+    "literacy": {
+        "female_literacy_rate": 46.16,
+        "female_literate": 815253,
+        "male_literacy_rate": 70.14,
+        "male_literate": 1340085,
+        "rate_percentage": 58.62,
+        "total_literate": 2155338
+    },
+    "population": {
+        "female": 2158066,
+        "male": 2329313,
+        "sex_ratio": 926,
+        "total": 4487379
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 328
+        },
+        "Christian": {
+            "percentage": 0.07,
+            "population": 3262
+        },
+        "Hindu": {
+            "percentage": 81.39,
+            "population": 3652168
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 442
+        },
+        "Muslims": {
+            "percentage": 18.25,
+            "population": 818912
+        },
+        "Not Stated": {
+            "percentage": 0.26,
+            "population": 11534
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 169
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 564
+        }
+    },
+    "rural": {
+        "child_population_female": 379476,
+        "child_population_male": 405228,
+        "child_population_percentage": 18.14,
+        "child_population_percentage_calculated": 18.14,
+        "child_population_percentage_stated": 18.14,
+        "child_population_total": 784704,
+        "child_sex_ratio": 936,
+        "female": 2081597,
+        "literacy_rate_female": 45.55,
+        "literacy_rate_male": 69.8,
+        "literacy_rate_percentage": 58.14,
+        "literate_female": 775270,
+        "literate_male": 1283625,
+        "literate_total": 2058895,
+        "male": 2244287,
+        "percentage_population": 96.4,
+        "population": 4325884,
+        "sex_ratio": 928
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/59-madhubani.html",
+    "urban": {
+        "child_population_female": 12387,
+        "child_population_male": 13388,
+        "child_population_percentage": 15.96,
+        "child_population_percentage_calculated": 15.96,
+        "child_population_percentage_stated": 15.96,
+        "child_population_total": 25775,
+        "child_sex_ratio": 925,
+        "female": 76469,
+        "literacy_rate_female": 62.39,
+        "literacy_rate_male": 78.81,
+        "literacy_rate_percentage": 71.06,
+        "literate_female": 39983,
+        "literate_male": 56460,
+        "literate_total": 96443,
+        "male": 85026,
+        "percentage_population": 3.6,
+        "population": 161495,
+        "sex_ratio": 899
+    }
+}

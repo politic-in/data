@@ -1,0 +1,45 @@
+{
+  "state": "Arunachal Pradesh",
+  "year": "1989",
+  "summary_stats": {
+    "total_electors_state": 476051,
+    "total_votes_polled_state": 281665,
+    "turnout_percentage_state": 59.2,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Arunachal East",
+      "ac_no": 2,
+      "ac_type": "GEN",
+      "district": "Arunachal Pradesh",
+      "winning_candidate": "Laeta Umbrey",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 193555,
+      "total_votes_ac": 127260,
+      "poll_percentage_ac": 0.0,
+      "margin": 32614,
+      "margin_percentage": 25.6,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1989/arunachal-pradesh/arunachal-east/3993/41/9"
+    },
+    {
+      "ac_name": "Arunachal West",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Arunachal Pradesh",
+      "winning_candidate": "Prem Khandu Thungon",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 282496,
+      "total_votes_ac": 154405,
+      "poll_percentage_ac": 0.0,
+      "margin": 7746,
+      "margin_percentage": 5.0,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1989/arunachal-pradesh/arunachal-west/3992/41/9"
+    }
+  ]
+}

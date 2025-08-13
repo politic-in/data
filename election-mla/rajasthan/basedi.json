@@ -1,0 +1,92 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Basedi",
+  "district": "Dhaulpur",
+  "ac_type": "SC",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 181293,
+        "total_votes_polled": 118871,
+        "turnout_percentage": 66.5,
+        "margin_votes": 17556,
+        "margin_percentage": 14.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Khiladi Lal Bairwa",
+          "party": "Indian National Congress",
+          "votes": 54297,
+          "votes_percentage": 45.7
+        },
+        {
+          "position": 2,
+          "name": "Chhitriya Lal Jatav",
+          "party": "Bharatiya Janta Party",
+          "votes": 36741,
+          "votes_percentage": 30.9
+        },
+        {
+          "position": 3,
+          "name": "Sukhram Koli",
+          "party": "Independent",
+          "votes": 18593,
+          "votes_percentage": 15.6
+        },
+        {
+          "position": 4,
+          "name": "Udayveer Singh",
+          "party": "Bahujan Samaj Party",
+          "votes": 2840,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 5,
+          "name": "Deepak Kain",
+          "party": "Bharat Vahini Party",
+          "votes": 2356,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 6,
+          "name": "Indrajeet Singh Nagar",
+          "party": "Independent",
+          "votes": 1829,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 7,
+          "name": "Sunil Kumar",
+          "party": "Ambedkarite Party Of India",
+          "votes": 762,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "Ajay Kumar Valmiki",
+          "party": "Aam Aadmi Party",
+          "votes": 710,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 9,
+          "name": "Ramdas Khatek",
+          "party": "Bharatiya Rashtravadi Samanta Party",
+          "votes": 466,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 10,
+          "name": "Munni",
+          "party": "Bharatiya Yuva Shakti",
+          "votes": 277,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

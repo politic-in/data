@@ -1,0 +1,134 @@
+{
+  "state": "Maharashtra",
+  "constituency": "CHANDA",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 520311,
+        "total_votes_polled": 343096,
+        "turnout_percentage": 65.9,
+        "margin_votes": 12284,
+        "margin_percentage": 3.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Abdul Shafi",
+          "party": "Indian National Congress",
+          "votes": 161707,
+          "votes_percentage": 47.1
+        },
+        {
+          "position": 2,
+          "name": "Atram Raje Vishweshwarrao Dharmarao",
+          "party": "Independent",
+          "votes": 149423,
+          "votes_percentage": 43.6
+        },
+        {
+          "position": 3,
+          "name": "Vithalrao Laxmanrao Deotale",
+          "party": "Praja Socialist Party",
+          "votes": 8230,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 4,
+          "name": "Ganpatrao Govindrao Amrutkar",
+          "party": "Communist Party Of India",
+          "votes": 3294,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Sitaram Haridas Selmek",
+          "party": "Independent",
+          "votes": 2569,
+          "votes_percentage": 0.7
+        }
+      ]
+    },
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 474396,
+        "total_votes_polled": 295777,
+        "turnout_percentage": 62.4,
+        "margin_votes": 16836,
+        "margin_percentage": 5.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "K. M. Kaushik",
+          "party": "Independent",
+          "votes": 139310,
+          "votes_percentage": 47.1
+        },
+        {
+          "position": 2,
+          "name": "Tai Kannamwar",
+          "party": "Indian National Congress",
+          "votes": 122474,
+          "votes_percentage": 41.4
+        },
+        {
+          "position": 3,
+          "name": "N. R. Pandharam",
+          "party": "Independent",
+          "votes": 12748,
+          "votes_percentage": 4.3
+        },
+        {
+          "position": 4,
+          "name": "B. U. Wahane",
+          "party": "Independent",
+          "votes": 2518,
+          "votes_percentage": 0.9
+        }
+      ]
+    },
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 424370,
+        "total_votes_polled": 278409,
+        "turnout_percentage": 65.6,
+        "margin_votes": 42911,
+        "margin_percentage": 15.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Lal Shyamshah Lal Bhagwanshah",
+          "party": "Independent",
+          "votes": 128233,
+          "votes_percentage": 46.1
+        },
+        {
+          "position": 2,
+          "name": "V. N. Swami",
+          "party": "Indian National Congress",
+          "votes": 85322,
+          "votes_percentage": 30.6
+        },
+        {
+          "position": 3,
+          "name": "Laxmanrao Narayan Khobragade",
+          "party": "Republican Party",
+          "votes": 40467,
+          "votes_percentage": 14.5
+        }
+      ]
+    }
+  }
+}

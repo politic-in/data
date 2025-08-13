@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 31283,
+        "male": 34643,
+        "percentage_of_total_population": 11.26,
+        "percentage_of_total_population_calculated": 11.26,
+        "percentage_of_total_population_stated": 11.26,
+        "sex_ratio": 903,
+        "total": 65926
+    },
+    "literacy": {
+        "female_literacy_rate": 67.75,
+        "female_literate": 172057,
+        "male_literacy_rate": 83.45,
+        "male_literate": 221621,
+        "rate_percentage": 75.78,
+        "total_literate": 393678
+    },
+    "population": {
+        "female": 285240,
+        "male": 300209,
+        "sex_ratio": 950,
+        "total": 585449
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 91
+        },
+        "Christian": {
+            "percentage": 0.09,
+            "population": 500
+        },
+        "Hindu": {
+            "percentage": 93.9,
+            "population": 549749
+        },
+        "Jain": {
+            "percentage": 0.09,
+            "population": 515
+        },
+        "Muslims": {
+            "percentage": 5.73,
+            "population": 33565
+        },
+        "Not Stated": {
+            "percentage": 0.13,
+            "population": 743
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 38
+        },
+        "Sikh": {
+            "percentage": 0.04,
+            "population": 248
+        }
+    },
+    "rural": {
+        "child_population_female": 17036,
+        "child_population_male": 18750,
+        "child_population_percentage": 11.94,
+        "child_population_percentage_calculated": 11.94,
+        "child_population_percentage_stated": 11.94,
+        "child_population_total": 35786,
+        "child_sex_ratio": 909,
+        "female": 146515,
+        "literacy_rate_female": 59.82,
+        "literacy_rate_male": 78.61,
+        "literacy_rate_percentage": 69.39,
+        "literate_female": 77455,
+        "literate_male": 105738,
+        "literate_total": 183193,
+        "male": 153260,
+        "percentage_population": 51.2,
+        "population": 299775,
+        "sex_ratio": 956
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/192-porbandar.html",
+    "urban": {
+        "child_population_female": 14242,
+        "child_population_male": 15898,
+        "child_population_percentage": 10.55,
+        "child_population_percentage_calculated": 10.55,
+        "child_population_percentage_stated": 10.55,
+        "child_population_total": 30140,
+        "child_sex_ratio": 896,
+        "female": 138725,
+        "literacy_rate_female": 76.0,
+        "literacy_rate_male": 88.43,
+        "literacy_rate_percentage": 82.37,
+        "literate_female": 94602,
+        "literate_male": 115883,
+        "literate_total": 210485,
+        "male": 146949,
+        "percentage_population": 48.8,
+        "population": 285674,
+        "sex_ratio": 944
+    }
+}

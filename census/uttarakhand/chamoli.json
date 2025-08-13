@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 24548,
+        "male": 27613,
+        "percentage_of_total_population": 13.32,
+        "percentage_of_total_population_calculated": 13.32,
+        "percentage_of_total_population_stated": 13.32,
+        "sex_ratio": 889,
+        "total": 52161
+    },
+    "literacy": {
+        "female_literacy_rate": 72.32,
+        "female_literate": 125161,
+        "male_literacy_rate": 93.4,
+        "male_literate": 155395,
+        "rate_percentage": 82.65,
+        "total_literate": 280556
+    },
+    "population": {
+        "female": 197614,
+        "male": 193991,
+        "sex_ratio": 1019,
+        "total": 391605
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.05,
+            "population": 190
+        },
+        "Christian": {
+            "percentage": 0.11,
+            "population": 428
+        },
+        "Hindu": {
+            "percentage": 98.52,
+            "population": 385818
+        },
+        "Jain": {
+            "percentage": 0.0,
+            "population": 11
+        },
+        "Muslims": {
+            "percentage": 1.12,
+            "population": 4395
+        },
+        "Not Stated": {
+            "percentage": 0.11,
+            "population": 417
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 23
+        },
+        "Sikh": {
+            "percentage": 0.08,
+            "population": 323
+        }
+    },
+    "rural": {
+        "child_population_female": 21404,
+        "child_population_male": 23813,
+        "child_population_percentage": 13.61,
+        "child_population_percentage_calculated": 13.61,
+        "child_population_percentage_stated": 13.61,
+        "child_population_total": 45217,
+        "child_sex_ratio": 899,
+        "female": 171840,
+        "literacy_rate_female": 70.08,
+        "literacy_rate_male": 92.91,
+        "literacy_rate_percentage": 80.94,
+        "literate_female": 105432,
+        "literate_male": 126871,
+        "literate_total": 232303,
+        "male": 160369,
+        "percentage_population": 84.83,
+        "population": 332209,
+        "sex_ratio": 1072
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/575-chamoli.html",
+    "urban": {
+        "child_population_female": 3148,
+        "child_population_male": 3796,
+        "child_population_percentage": 11.69,
+        "child_population_percentage_calculated": 11.69,
+        "child_population_percentage_stated": 11.69,
+        "child_population_total": 6944,
+        "child_sex_ratio": 829,
+        "female": 25774,
+        "literacy_rate_female": 87.2,
+        "literacy_rate_male": 95.63,
+        "literacy_rate_percentage": 91.99,
+        "literate_female": 19729,
+        "literate_male": 28524,
+        "literate_total": 48253,
+        "male": 33622,
+        "percentage_population": 15.17,
+        "population": 59396,
+        "sex_ratio": 767
+    }
+}

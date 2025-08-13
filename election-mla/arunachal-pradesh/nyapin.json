@@ -1,0 +1,229 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Nyapin",
+  "district": "Kurung Kumey",
+  "ac_type": "ST",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 12825,
+        "total_votes_polled": 10880,
+        "turnout_percentage": 84.9,
+        "margin_votes": 154,
+        "margin_percentage": 1.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bamang Felix",
+          "party": "Bharatiya Janta Party",
+          "votes": 5517,
+          "votes_percentage": 50.7
+        },
+        {
+          "position": 2,
+          "name": "Tai Nikio",
+          "party": "Indian National Congress",
+          "votes": 5363,
+          "votes_percentage": 49.3
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "09 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 1,
+      "aggregate": {
+        "total_electors": 11632,
+        "total_votes_polled": 0,
+        "turnout_percentage": 0.0,
+        "total_valid_votes": 0,
+        "total_valid_votes_percentage": 0.0,
+        "margin_votes": 0,
+        "margin_percentage": 0.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shri Bamang Felix",
+          "party": "Indian National Congress",
+          "votes": 0,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "13 October 2009",
+      "counting_date": "22 October 2009",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 10292,
+        "total_votes_polled": 8991,
+        "turnout_percentage": 87.4,
+        "total_valid_votes": 8746,
+        "total_valid_votes_percentage": 85.0,
+        "margin_votes": 739,
+        "margin_percentage": 8.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bamang Felix",
+          "party": "Nationalist Congress Party",
+          "votes": 4865,
+          "votes_percentage": 54.1
+        },
+        {
+          "position": 2,
+          "name": "Tatar Kipa",
+          "party": "Indian National Congress",
+          "votes": 4126,
+          "votes_percentage": 45.9
+        }
+      ]
+    },
+    "2004": {
+      "poll_date": "10 July 2004",
+      "counting_date": "10 October 2004",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 12984,
+        "total_votes_polled": 8290,
+        "turnout_percentage": 0.6,
+        "margin_votes": 179,
+        "margin_percentage": 2.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tatar  Kipa",
+          "party": "Indian National Congress",
+          "votes": 3794,
+          "votes_percentage": 45.8
+        },
+        {
+          "position": 2,
+          "name": "Bamang  Felix",
+          "party": "Arunachal Congress",
+          "votes": 3615,
+          "votes_percentage": 43.6
+        },
+        {
+          "position": 3,
+          "name": "Tai  Tagak",
+          "party": "Bharatiya Janta Party",
+          "votes": 881,
+          "votes_percentage": 10.6
+        }
+      ]
+    },
+    "1999": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 11246,
+        "total_votes_polled": 7801,
+        "turnout_percentage": 69.4,
+        "margin_votes": 2866,
+        "margin_percentage": 36.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tatar Kipa",
+          "party": "Indian National Congress",
+          "votes": 5231,
+          "votes_percentage": 68.9
+        },
+        {
+          "position": 2,
+          "name": "Tako Changriang",
+          "party": "Arunachal Congress",
+          "votes": 2365,
+          "votes_percentage": 31.1
+        }
+      ]
+    },
+    "1995": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 10608,
+        "total_votes_polled": 7594,
+        "turnout_percentage": 71.6,
+        "margin_votes": 524,
+        "margin_percentage": 6.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tadar Taniang",
+          "party": "Indian National Congress",
+          "votes": 3062,
+          "votes_percentage": 41.1
+        },
+        {
+          "position": 2,
+          "name": "Tattar Kipa",
+          "party": "Janata Dal",
+          "votes": 2538,
+          "votes_percentage": 34.0
+        },
+        {
+          "position": 3,
+          "name": "Tadar Tang",
+          "party": "Jharkhand Party",
+          "votes": 1859,
+          "votes_percentage": 24.9
+        }
+      ]
+    },
+    "1990": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 9800,
+        "total_votes_polled": 7341,
+        "turnout_percentage": 74.9,
+        "margin_votes": 100,
+        "margin_percentage": 1.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tadar Taniang",
+          "party": "Indian National Congress",
+          "votes": 2241,
+          "votes_percentage": 31.4
+        },
+        {
+          "position": 2,
+          "name": "Kamen Ringu",
+          "party": "Janata Dal",
+          "votes": 2141,
+          "votes_percentage": 30.0
+        },
+        {
+          "position": 3,
+          "name": "Tai Nikam",
+          "party": "Janata Party (JP)",
+          "votes": 1569,
+          "votes_percentage": 22.0
+        },
+        {
+          "position": 4,
+          "name": "Tadar Tang",
+          "party": "Independent",
+          "votes": 1178,
+          "votes_percentage": 16.5
+        }
+      ]
+    }
+  }
+}

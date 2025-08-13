@@ -1,0 +1,78 @@
+{
+  "state": "Uttarakhand",
+  "constituency": "YAMUNOTR",
+  "district": "Uttarkashi",
+  "ac_type": "GEN",
+  "results": {
+    "2022": {
+      "poll_date": "14 February 2022",
+      "counting_date": "10 March 2022",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 94620,
+        "total_votes_polled": 51588,
+        "turnout_percentage": 55.1,
+        "margin_votes": 6639,
+        "margin_percentage": 12.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sanjay Dobhal",
+          "party": "Independent",
+          "votes": 22952,
+          "votes_percentage": 44.5
+        },
+        {
+          "position": 2,
+          "name": "Deepak Bijalwan",
+          "party": "Indian National Congress",
+          "votes": 16313,
+          "votes_percentage": 31.6
+        },
+        {
+          "position": 3,
+          "name": "Kedar Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 10620,
+          "votes_percentage": 20.6
+        },
+        {
+          "position": 4,
+          "name": "Manoj Kohli Shyam",
+          "party": "Aam Aadmi Party",
+          "votes": 583,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Jagaveer Singh",
+          "party": "Bahujan Samaj Party",
+          "votes": 343,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Vishal Singh",
+          "party": "Rashtriya Uttarakhand Party",
+          "votes": 295,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Ramesh Chand Ramola",
+          "party": "Uttarakhand Kranti Dal",
+          "votes": 264,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Vipin",
+          "party": "Satya Bahumat Party",
+          "votes": 218,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

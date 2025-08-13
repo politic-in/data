@@ -1,0 +1,43 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "ROMGGONG",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "2004": {
+      "poll_date": "10 July 2004",
+      "counting_date": "10 October 2004",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 10726,
+        "total_votes_polled": 8363,
+        "turnout_percentage": 0.8,
+        "margin_votes": 488,
+        "margin_percentage": 5.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dibang  Tatak",
+          "party": "Indian National Congress",
+          "votes": 3742,
+          "votes_percentage": 44.7
+        },
+        {
+          "position": 2,
+          "name": "Tamiyo  Taga",
+          "party": "Independent",
+          "votes": 3254,
+          "votes_percentage": 38.9
+        },
+        {
+          "position": 3,
+          "name": "Karma  Jerang",
+          "party": "Bharatiya Janta Party",
+          "votes": 1367,
+          "votes_percentage": 16.4
+        }
+      ]
+    }
+  }
+}

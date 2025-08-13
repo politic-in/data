@@ -1,0 +1,57 @@
+{
+  "state": "Tripura",
+  "constituency": "Ambassa (ST)",
+  "district": "Dhalai",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 45644,
+        "total_votes_polled": 41227,
+        "turnout_percentage": 91.3,
+        "margin_votes": 3585,
+        "margin_percentage": 8.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Parimal Debbarma",
+          "party": "Bharatiya Janta Party",
+          "votes": 20842,
+          "votes_percentage": 50.6
+        },
+        {
+          "position": 2,
+          "name": "Bharat Reang",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 17257,
+          "votes_percentage": 41.9
+        },
+        {
+          "position": 3,
+          "name": "Bijoy Kumar Hrangkhawl",
+          "party": "Indigenous Nationalist Party Of Twipra",
+          "votes": 2184,
+          "votes_percentage": 5.3
+        },
+        {
+          "position": 4,
+          "name": "Sachitra Debbarma",
+          "party": "Indian National Congress",
+          "votes": 629,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 6,
+          "name": "Parkaroy Reang",
+          "party": "Tripura Peoples Party",
+          "votes": 315,
+          "votes_percentage": 0.8
+        }
+      ]
+    }
+  }
+}

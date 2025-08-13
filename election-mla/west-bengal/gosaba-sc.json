@@ -1,0 +1,71 @@
+{
+  "state": "West Bengal",
+  "constituency": "GOSABA (SC)",
+  "district": "South  Twenty Four Parganas",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 211243,
+        "total_votes_polled": 176469,
+        "turnout_percentage": 85.0,
+        "margin_votes": 19671,
+        "margin_percentage": 11.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jayanta Naskar",
+          "party": "All India Trinamool Congress",
+          "votes": 90716,
+          "votes_percentage": 51.4
+        },
+        {
+          "position": 2,
+          "name": "Uttam Kumar Saha",
+          "party": "Revolutionary Socialist Party",
+          "votes": 71045,
+          "votes_percentage": 40.3
+        },
+        {
+          "position": 3,
+          "name": "Sanjoy Kr. Nayek",
+          "party": "Bharatiya Janta Party",
+          "votes": 11504,
+          "votes_percentage": 6.5
+        },
+        {
+          "position": 4,
+          "name": "Dilip Mondal",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1050,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 5,
+          "name": "Dinabandhu Mandal",
+          "party": "Lok Jan Shakti Party",
+          "votes": 977,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Haripada Mandal",
+          "party": "Bahujan Samaj Party",
+          "votes": 776,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Tushar Kanti Mondal",
+          "party": "Mulnibasi Party Of India",
+          "votes": 401,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

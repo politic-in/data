@@ -1,0 +1,127 @@
+{
+  "state": "Himachal Pradesh",
+  "constituency": "INDORA(SC)",
+  "district": "Kangra",
+  "ac_type": "SC",
+  "results": {
+    "2022": {
+      "poll_date": "12 November 2022",
+      "counting_date": "08 December 2022",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 89667,
+        "total_votes_polled": 67136,
+        "turnout_percentage": 75.4,
+        "margin_votes": 2250,
+        "margin_percentage": 3.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Malender Rajan",
+          "party": "Indian National Congress",
+          "votes": 30797,
+          "votes_percentage": 45.6
+        },
+        {
+          "position": 2,
+          "name": "Reeta Devi",
+          "party": "Bharatiya Janta Party",
+          "votes": 28547,
+          "votes_percentage": 42.2
+        },
+        {
+          "position": 3,
+          "name": "Manohar Lal",
+          "party": "Independent",
+          "votes": 4442,
+          "votes_percentage": 6.6
+        },
+        {
+          "position": 4,
+          "name": "Jagdish Singh",
+          "party": "Aam Aadmi Party",
+          "votes": 1474,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 5,
+          "name": "Nirmal Parshad",
+          "party": "Independent",
+          "votes": 1470,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 6,
+          "name": "Hans Raj",
+          "party": "Bahujan Samaj Party",
+          "votes": 261,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Laxman Dass",
+          "party": "Hindu Samaj Party",
+          "votes": 145,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2017": {
+      "poll_date": "09 November 2017",
+      "counting_date": "18 December 2017",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 78205,
+        "total_votes_polled": 59190,
+        "turnout_percentage": 76.5,
+        "margin_votes": 1095,
+        "margin_percentage": 1.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Reeta Devi",
+          "party": "Bharatiya Janta Party",
+          "votes": 29213,
+          "votes_percentage": 49.4
+        },
+        {
+          "position": 2,
+          "name": "Kamal Kishore",
+          "party": "Indian National Congress",
+          "votes": 28118,
+          "votes_percentage": 47.5
+        },
+        {
+          "position": 3,
+          "name": "Sushil Kumar",
+          "party": "Bahujan Samaj Party",
+          "votes": 952,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 4,
+          "name": "Laxman Dass",
+          "party": "Independent",
+          "votes": 502,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Balwant Singh",
+          "party": "Independent",
+          "votes": 217,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Tilak Raj",
+          "party": "Independent",
+          "votes": 188,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

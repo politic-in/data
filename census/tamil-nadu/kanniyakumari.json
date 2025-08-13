@@ -1,0 +1,124 @@
+{
+  "district": "Kanniyakumari",
+  "state": "Tamil Nadu",
+  "census_year": 2011,
+  "source_urls": [
+    "https://www.census2011.co.in/census/district/51-kanniyakumari.html",
+    "https://www.censusindia.co.in/district/kanniyakumari-district-tamil-nadu-629"
+  ],
+  "population": {
+    "total": 1870374,
+    "male": 926345,
+    "female": 944029,
+    "sex_ratio": 1019
+  },
+  "urban_rural_distribution": {
+    "urban": {
+      "percentage": 82.33,
+      "population": 1539802,
+      "male": 761407,
+      "female": 778395,
+      "sex_ratio": 1022,
+      "child_population": {
+        "total": 148570,
+        "male": 75573,
+        "female": 72997,
+        "sex_ratio": 966,
+        "percentage_of_urban_population": 9.65
+      },
+      "literacy": {
+        "rate_percentage": 91.96,
+        "total_literate": 1279358,
+        "male_literate": 644109,
+        "female_literate": 635249,
+        "male_literacy_rate": 93.92,
+        "female_literacy_rate": 90.06
+      }
+    },
+    "rural": {
+      "percentage": 17.67,
+      "population": 330572,
+      "male": 164938,
+      "female": 165634,
+      "sex_ratio": 1004,
+      "child_population": {
+        "total": 33780,
+        "male": 17262,
+        "female": 16518,
+        "sex_ratio": 957,
+        "percentage_of_rural_population": 10.22
+      },
+      "literacy": {
+        "rate_percentage": 90.76,
+        "total_literate": 269380,
+        "male_literate": 136432,
+        "female_literate": 132948,
+        "male_literacy_rate": 92.39,
+        "female_literacy_rate": 89.16
+      }
+    }
+  },
+  "child_population_0_6": {
+    "total": 182350,
+    "male": 92835,
+    "female": 89515,
+    "sex_ratio": 964,
+    "percentage_of_total_population": 9.75
+  },
+  "literacy": {
+    "rate_percentage": 91.75,
+    "total_literate": 1548738,
+    "male_literate": 780541,
+    "female_literate": 768197,
+    "male_literacy_rate": 93.65,
+    "female_literacy_rate": 89.9
+  },
+  "religion_distribution": {
+    "hindu": {
+      "percentage": 48.65,
+      "population": 909872
+    },
+    "muslim": {
+      "percentage": 4.2,
+      "population": 78590
+    },
+    "christian": {
+      "percentage": 46.85,
+      "population": 876299
+    },
+    "sikh": {
+      "percentage": 0.01,
+      "population": 160
+    },
+    "buddhist": {
+      "percentage": 0.02,
+      "population": 438
+    },
+    "jain": {
+      "percentage": 0.01,
+      "population": 156
+    },
+    "others": {
+      "percentage": 0.0,
+      "population": 10
+    },
+    "not_stated": {
+      "percentage": 0.26,
+      "population": 4849
+    }
+  },
+  "social_groups": {
+    "scheduled_castes_sc": {
+      "population": 74249,
+      "percentage_of_total_population": 4.0,
+      "male": 36817,
+      "female": 37432
+    },
+    "scheduled_tribes_st": {
+      "population": 7282,
+      "percentage_of_total_population": 0.4,
+      "male": 3554,
+      "female": 3728
+    }
+  }
+}

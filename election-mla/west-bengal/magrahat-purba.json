@@ -1,0 +1,134 @@
+{
+  "state": "West Bengal",
+  "constituency": "Magrahat Purba",
+  "district": "South  Twenty Four Parganas",
+  "ac_type": "SC",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 228746,
+        "total_votes_polled": 204673,
+        "turnout_percentage": 90.1,
+        "margin_votes": 54079,
+        "margin_percentage": 26.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Namita Saha",
+          "party": "All India Trinamool Congress",
+          "votes": 110945,
+          "votes_percentage": 54.2
+        },
+        {
+          "position": 2,
+          "name": "Chandan Kumar Naskar",
+          "party": "Bharatiya Janta Party",
+          "votes": 56866,
+          "votes_percentage": 27.8
+        },
+        {
+          "position": 3,
+          "name": "Chandan Saha",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 33822,
+          "votes_percentage": 16.5
+        },
+        {
+          "position": 4,
+          "name": "Sanjay Mandal",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1209,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 5,
+          "name": "Sudipta Sanfui",
+          "party": "Independent",
+          "votes": 939,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Somnath Sarkar",
+          "party": "Independent",
+          "votes": 459,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Biswajit Biswas",
+          "party": "Independent",
+          "votes": 433,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 177554,
+        "total_votes_polled": 151397,
+        "turnout_percentage": 85.3,
+        "margin_votes": 8803,
+        "margin_percentage": 5.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Namita Saha",
+          "party": "All India Trinamool Congress",
+          "votes": 75217,
+          "votes_percentage": 49.7
+        },
+        {
+          "position": 2,
+          "name": "Chandan Saha",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 66414,
+          "votes_percentage": 43.9
+        },
+        {
+          "position": 3,
+          "name": "Ratan Kumar Sardar",
+          "party": "Bharatiya Janta Party",
+          "votes": 4476,
+          "votes_percentage": 3.0
+        },
+        {
+          "position": 4,
+          "name": "Taranga Mondal",
+          "party": "People's Democratic Conference Of India",
+          "votes": 2621,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 5,
+          "name": "Swapan Mondal",
+          "party": "Independent",
+          "votes": 1419,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Namita Mistri",
+          "party": "Independent",
+          "votes": 640,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Alok Kumar Haldar",
+          "party": "Indian Justice Party",
+          "votes": 610,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "state": "Punjab",
+  "constituency": "FAZILKA",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 546486,
+        "total_votes_polled": 351323,
+        "turnout_percentage": 64.3,
+        "margin_votes": 5323,
+        "margin_percentage": 1.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gurdas Singh",
+          "party": "Shiromani Akali Dal",
+          "votes": 152677,
+          "votes_percentage": 43.5
+        },
+        {
+          "position": 2,
+          "name": "Iqbal Singh",
+          "party": "Indian National Congress",
+          "votes": 147354,
+          "votes_percentage": 41.9
+        },
+        {
+          "position": 3,
+          "name": "Hanuman Dass",
+          "party": "Bhartiya Jan Sangh",
+          "votes": 34674,
+          "votes_percentage": 9.9
+        },
+        {
+          "position": 4,
+          "name": "Bagrawat",
+          "party": "Independent",
+          "votes": 3323,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Prithi Raj",
+          "party": "Independent",
+          "votes": 2692,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Doongar",
+          "party": "Independent",
+          "votes": 2000,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Thandu Ram",
+          "party": "Independent",
+          "votes": 1711,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Yogiraj Surya Dev",
+          "party": "Bharatiya Kranti Dal",
+          "votes": 483,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 494461,
+        "total_votes_polled": 343288,
+        "turnout_percentage": 69.4,
+        "margin_votes": 26495,
+        "margin_percentage": 7.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "I. Singh",
+          "party": "Indian National Congress",
+          "votes": 118948,
+          "votes_percentage": 34.6
+        },
+        {
+          "position": 2,
+          "name": "A. Singh",
+          "party": "Communist Party Of India",
+          "votes": 92453,
+          "votes_percentage": 26.9
+        },
+        {
+          "position": 3,
+          "name": "K. Singh",
+          "party": "Bhartiya Jan Sangh",
+          "votes": 88046,
+          "votes_percentage": 25.6
+        },
+        {
+          "position": 4,
+          "name": "Bagrawat",
+          "party": "Independent",
+          "votes": 14153,
+          "votes_percentage": 4.1
+        },
+        {
+          "position": 5,
+          "name": "B. Singh",
+          "party": "Swatantra",
+          "votes": 9273,
+          "votes_percentage": 2.7
+        },
+        {
+          "position": 6,
+          "name": "B. Ram",
+          "party": "Independent",
+          "votes": 5411,
+          "votes_percentage": 1.6
+        }
+      ]
+    }
+  }
+}

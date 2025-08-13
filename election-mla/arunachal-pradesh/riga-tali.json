@@ -1,0 +1,64 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Riga-tali",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1984": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 10259,
+        "total_votes_polled": 7490,
+        "turnout_percentage": 73.0,
+        "margin_votes": 76,
+        "margin_percentage": 1.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Boa Tamo",
+          "party": "Indian National Congress",
+          "votes": 1762,
+          "votes_percentage": 25.5
+        },
+        {
+          "position": 2,
+          "name": "Mem Kabak",
+          "party": "Bharatiya Janta Party",
+          "votes": 1686,
+          "votes_percentage": 24.4
+        },
+        {
+          "position": 3,
+          "name": "Nido Techi",
+          "party": "Independent",
+          "votes": 1510,
+          "votes_percentage": 21.9
+        },
+        {
+          "position": 4,
+          "name": "Tagrue Tanang",
+          "party": "Independent",
+          "votes": 1053,
+          "votes_percentage": 15.3
+        },
+        {
+          "position": 5,
+          "name": "Sorom Tatup",
+          "party": "Independent",
+          "votes": 523,
+          "votes_percentage": 7.6
+        },
+        {
+          "position": 6,
+          "name": "Yora Tanang",
+          "party": "Janta Party",
+          "votes": 364,
+          "votes_percentage": 5.3
+        }
+      ]
+    }
+  }
+}

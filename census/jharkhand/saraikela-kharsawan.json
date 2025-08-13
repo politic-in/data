@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 77457,
+        "male": 82139,
+        "percentage_of_total_population": 14.98,
+        "percentage_of_total_population_calculated": 14.98,
+        "percentage_of_total_population_stated": 14.98,
+        "sex_ratio": 943,
+        "total": 159596
+    },
+    "literacy": {
+        "female_literacy_rate": 55.88,
+        "female_literate": 247661,
+        "male_literacy_rate": 79.03,
+        "male_literate": 365332,
+        "rate_percentage": 67.7,
+        "total_literate": 612993
+    },
+    "population": {
+        "female": 520645,
+        "male": 544411,
+        "sex_ratio": 956,
+        "total": 1065056
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 187
+        },
+        "Christian": {
+            "percentage": 0.76,
+            "population": 8113
+        },
+        "Hindu": {
+            "percentage": 66.57,
+            "population": 709016
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 72
+        },
+        "Muslims": {
+            "percentage": 5.97,
+            "population": 63588
+        },
+        "Not Stated": {
+            "percentage": 0.23,
+            "population": 2497
+        },
+        "Others": {
+            "percentage": 26.33,
+            "population": 280469
+        },
+        "Sikh": {
+            "percentage": 0.1,
+            "population": 1114
+        }
+    },
+    "rural": {
+        "child_population_female": 59761,
+        "child_population_male": 62906,
+        "child_population_percentage": 15.21,
+        "child_population_percentage_calculated": 15.21,
+        "child_population_percentage_stated": 15.21,
+        "child_population_total": 122667,
+        "child_sex_ratio": 950,
+        "female": 397462,
+        "literacy_rate_female": 50.28,
+        "literacy_rate_male": 76.47,
+        "literacy_rate_percentage": 63.53,
+        "literate_female": 169802,
+        "literate_male": 264546,
+        "literate_total": 434348,
+        "male": 408848,
+        "percentage_population": 75.71,
+        "population": 806310,
+        "sex_ratio": 972
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/115-saraikela-kharsawan.html",
+    "urban": {
+        "child_population_female": 17715,
+        "child_population_male": 19214,
+        "child_population_percentage": 14.27,
+        "child_population_percentage_calculated": 14.27,
+        "child_population_percentage_stated": 14.27,
+        "child_population_total": 36929,
+        "child_sex_ratio": 922,
+        "female": 123183,
+        "literacy_rate_female": 73.82,
+        "literacy_rate_male": 86.62,
+        "literacy_rate_percentage": 80.54,
+        "literate_female": 77859,
+        "literate_male": 100786,
+        "literate_total": 178645,
+        "male": 135563,
+        "percentage_population": 24.29,
+        "population": 258746,
+        "sex_ratio": 909
+    }
+}

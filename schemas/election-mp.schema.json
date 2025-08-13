@@ -1,0 +1,147 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/politic-in/data/schemas/election-mp.schema.json",
+  "title": "MP Election Data Schema",
+  "description": "Schema for validating Member of Parliament (MP) election data",
+  "type": "object",
+  "required": [
+    "state",
+    "constituency",
+    "results"
+  ],
+  "properties": {
+    "state": {
+      "type": "string",
+      "minLength": 1,
+      "description": "State name"
+    },
+    "constituency": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Parliamentary constituency name"
+    },
+    "district": {
+      "type": "string",
+      "description": "District name (may be empty for multi-district constituencies)"
+    },
+    "ac_type": {
+      "type": "string",
+      "enum": ["GEN", "SC", "ST"],
+      "description": "Constituency type: General, Scheduled Caste, or Scheduled Tribe"
+    },
+    "results": {
+      "type": "object",
+      "patternProperties": {
+        "^[0-9]{4}$": {
+          "type": "object",
+          "required": [
+            "poll_date",
+            "counting_date",
+            "total_contestants",
+            "aggregate",
+            "candidates"
+          ],
+          "properties": {
+            "poll_date": {
+              "type": "string",
+              "description": "Date of polling"
+            },
+            "counting_date": {
+              "type": "string",
+              "description": "Date of vote counting"
+            },
+            "total_contestants": {
+              "type": "integer",
+              "minimum": 1,
+              "description": "Total number of candidates"
+            },
+            "aggregate": {
+              "type": "object",
+              "required": [
+                "total_electors",
+                "total_votes_polled",
+                "turnout_percentage"
+              ],
+              "properties": {
+                "total_electors": {
+                  "type": "integer",
+                  "minimum": 0,
+                  "description": "Total registered voters"
+                },
+                "total_votes_polled": {
+                  "type": "integer",
+                  "minimum": 0,
+                  "description": "Total votes cast"
+                },
+                "turnout_percentage": {
+                  "type": "number",
+                  "minimum": 0,
+                  "maximum": 100,
+                  "description": "Voter turnout percentage"
+                },
+                "margin_votes": {
+                  "type": "integer",
+                  "minimum": 0,
+                  "description": "Victory margin in votes"
+                },
+                "margin_percentage": {
+                  "type": "number",
+                  "minimum": 0,
+                  "maximum": 100,
+                  "description": "Victory margin as percentage"
+                }
+              },
+              "additionalProperties": false
+            },
+            "candidates": {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "type": "object",
+                "required": [
+                  "position",
+                  "name",
+                  "party",
+                  "votes",
+                  "votes_percentage"
+                ],
+                "properties": {
+                  "position": {
+                    "type": "integer",
+                    "minimum": 1,
+                    "description": "Candidate's final position/rank"
+                  },
+                  "name": {
+                    "type": "string",
+                    "minLength": 1,
+                    "description": "Candidate name"
+                  },
+                  "party": {
+                    "type": "string",
+                    "minLength": 1,
+                    "description": "Political party name"
+                  },
+                  "votes": {
+                    "type": "integer",
+                    "minimum": 0,
+                    "description": "Votes received"
+                  },
+                  "votes_percentage": {
+                    "type": "number",
+                    "minimum": 0,
+                    "maximum": 100,
+                    "description": "Vote share percentage"
+                  }
+                },
+                "additionalProperties": false
+              }
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

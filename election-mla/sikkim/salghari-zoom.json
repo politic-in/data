@@ -1,0 +1,152 @@
+{
+  "state": "Sikkim",
+  "constituency": "Salghari-zoom",
+  "district": "West",
+  "ac_type": "SC",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 10942,
+        "total_votes_polled": 8860,
+        "turnout_percentage": 81.6,
+        "margin_votes": 93,
+        "margin_percentage": 1.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sunita Gajmer",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 4400,
+          "votes_percentage": 49.7
+        },
+        {
+          "position": 2,
+          "name": "Dhan Kumari Kami",
+          "party": "Sikkim Democratic Front",
+          "votes": 4307,
+          "votes_percentage": 48.6
+        },
+        {
+          "position": 3,
+          "name": "Ganga Maya Cintury",
+          "party": "Indian National Congress",
+          "votes": 119,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 4,
+          "name": "Pahal Man Kami",
+          "party": "Hamro Sikkim Party",
+          "votes": 34,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "12 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 9635,
+        "total_votes_polled": 8076,
+        "turnout_percentage": 83.8,
+        "total_valid_votes": 7947,
+        "total_valid_votes_percentage": 82.5,
+        "margin_votes": 779,
+        "margin_percentage": 9.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Arjun Kumar Ghatani",
+          "party": "Sikkim Democratic Front",
+          "votes": 4250,
+          "votes_percentage": 53.5
+        },
+        {
+          "position": 2,
+          "name": "Bhanu Pratap Rasaily",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 3471,
+          "votes_percentage": 43.7
+        },
+        {
+          "position": 3,
+          "name": "Ranjit Kami",
+          "party": "Bharatiya Janta Party",
+          "votes": 162,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 4,
+          "name": "Kharka Bahadur Thatal",
+          "party": "Indian National Congress",
+          "votes": 64,
+          "votes_percentage": 0.8
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "30 April 2009",
+      "counting_date": "05 June 2009",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 8050,
+        "total_votes_polled": 6812,
+        "turnout_percentage": 84.6,
+        "total_valid_votes": 6731,
+        "total_valid_votes_percentage": 83.6,
+        "margin_votes": 2298,
+        "margin_percentage": 33.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Madan Cintury",
+          "party": "Sikkim Democratic Front",
+          "votes": 4437,
+          "votes_percentage": 65.1
+        },
+        {
+          "position": 2,
+          "name": "Janga Bir Darnal",
+          "party": "Indian National Congress",
+          "votes": 2139,
+          "votes_percentage": 31.4
+        },
+        {
+          "position": 3,
+          "name": "Nirmala Kami",
+          "party": "Sikkim Jan-Ekta Party",
+          "votes": 104,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 4,
+          "name": "Padam Bahadur Darnal",
+          "party": "Nationalist Congress Party",
+          "votes": 57,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 5,
+          "name": "Giri Kumar Pariyar",
+          "party": "Sikkim Himali Rajya Parishad",
+          "votes": 41,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Basant Gajmer",
+          "party": "Sikkim Gorkha Prajatantric Party",
+          "votes": 34,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Yingkiong-pangin",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1984": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 13389,
+        "total_votes_polled": 10692,
+        "turnout_percentage": 79.9,
+        "margin_votes": 3370,
+        "margin_percentage": 31.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Geogong Apang",
+          "party": "Indian National Congress",
+          "votes": 6880,
+          "votes_percentage": 66.2
+        },
+        {
+          "position": 2,
+          "name": "Tanung Mize",
+          "party": "Peoples Party Of Arunachal",
+          "votes": 3510,
+          "votes_percentage": 33.8
+        }
+      ]
+    },
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 11685,
+        "total_votes_polled": 8871,
+        "turnout_percentage": 75.9,
+        "margin_votes": 2615,
+        "margin_percentage": 29.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gegong Apang",
+          "party": "Indian National Congress (I)",
+          "votes": 4799,
+          "votes_percentage": 56.6
+        },
+        {
+          "position": 2,
+          "name": "Bani Danggen",
+          "party": "Peoples Party Of Arunachal",
+          "votes": 2184,
+          "votes_percentage": 25.7
+        },
+        {
+          "position": 3,
+          "name": "Tagang Taki",
+          "party": "Independent",
+          "votes": 1501,
+          "votes_percentage": 17.7
+        }
+      ]
+    },
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 10855,
+        "total_votes_polled": 7546,
+        "turnout_percentage": 69.5,
+        "margin_votes": 1610,
+        "margin_percentage": 21.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gegong Apang",
+          "party": "Janta Party",
+          "votes": 4435,
+          "votes_percentage": 61.1
+        },
+        {
+          "position": 2,
+          "name": "Tagang Taki",
+          "party": "Independent",
+          "votes": 2825,
+          "votes_percentage": 38.9
+        }
+      ]
+    }
+  }
+}

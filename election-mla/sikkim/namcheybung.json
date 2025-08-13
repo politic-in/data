@@ -1,0 +1,173 @@
+{
+  "state": "Sikkim",
+  "constituency": "Namcheybung",
+  "district": "East",
+  "ac_type": "GEN",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 15176,
+        "total_votes_polled": 12310,
+        "turnout_percentage": 81.7,
+        "margin_votes": 971,
+        "margin_percentage": 7.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Em Prasad Sharma",
+          "party": "Sikkim Democratic Front",
+          "votes": 6141,
+          "votes_percentage": 49.9
+        },
+        {
+          "position": 2,
+          "name": "Denis Rai",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 5170,
+          "votes_percentage": 42.0
+        },
+        {
+          "position": 3,
+          "name": "Devi Basnett",
+          "party": "Bharatiya Janta Party",
+          "votes": 574,
+          "votes_percentage": 4.7
+        },
+        {
+          "position": 4,
+          "name": "Kharga Bahadur Rai",
+          "party": "Sikkim Republican Party",
+          "votes": 162,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 5,
+          "name": "Phipra Hang Subba",
+          "party": "Sikkim Rajya Manch Party",
+          "votes": 161,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 6,
+          "name": "Anush Rai",
+          "party": "Hamro Sikkim Party",
+          "votes": 102,
+          "votes_percentage": 0.8
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "12 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 12882,
+        "total_votes_polled": 10995,
+        "turnout_percentage": 85.4,
+        "total_valid_votes": 10838,
+        "total_valid_votes_percentage": 84.1,
+        "margin_votes": 622,
+        "margin_percentage": 5.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bek Bahadur Rai",
+          "party": "Sikkim Democratic Front",
+          "votes": 5577,
+          "votes_percentage": 51.5
+        },
+        {
+          "position": 2,
+          "name": "Dilip Rai",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 4955,
+          "votes_percentage": 45.7
+        },
+        {
+          "position": 3,
+          "name": "Tashi Rai",
+          "party": "Bharatiya Janta Party",
+          "votes": 167,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 4,
+          "name": "Manoj Rai",
+          "party": "Indian National Congress",
+          "votes": 139,
+          "votes_percentage": 1.3
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "30 April 2009",
+      "counting_date": "05 June 2009",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 10723,
+        "total_votes_polled": 9274,
+        "turnout_percentage": 86.5,
+        "total_valid_votes": 9037,
+        "total_valid_votes_percentage": 84.3,
+        "margin_votes": 2923,
+        "margin_percentage": 31.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bek Bdr. Rai",
+          "party": "Sikkim Democratic Front",
+          "votes": 5877,
+          "votes_percentage": 63.4
+        },
+        {
+          "position": 2,
+          "name": "Em Prasad Sharma",
+          "party": "Indian National Congress",
+          "votes": 2954,
+          "votes_percentage": 31.9
+        },
+        {
+          "position": 3,
+          "name": "Ashok Kr. Subba",
+          "party": "Nationalist Congress Party",
+          "votes": 132,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 4,
+          "name": "Ten Tshera Subba",
+          "party": "Sikkim Himali Rajya Parishad",
+          "votes": 101,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Diwash Thapa",
+          "party": "Independent",
+          "votes": 96,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Sunder Rai",
+          "party": "Sikkim Gorkha Prajatantric Party",
+          "votes": 73,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 7,
+          "name": "Punya Prasad Koirala",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 41,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

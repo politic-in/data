@@ -1,0 +1,50 @@
+{
+  "state": "Mizoram",
+  "constituency": "LUNGLEIWEST",
+  "district": "Lunglei",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 13786,
+        "total_votes_polled": 11838,
+        "turnout_percentage": 86.2,
+        "margin_votes": 77,
+        "margin_percentage": 0.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "C.Lalrinsanga",
+          "party": "Mizo National Front",
+          "votes": 4093,
+          "votes_percentage": 34.6
+        },
+        {
+          "position": 2,
+          "name": "Chalrosanga Ralte",
+          "party": "Indian National Congress",
+          "votes": 4016,
+          "votes_percentage": 33.9
+        },
+        {
+          "position": 3,
+          "name": "Lalnuntluanga Sailo",
+          "party": "Independent",
+          "votes": 3587,
+          "votes_percentage": 30.3
+        },
+        {
+          "position": 4,
+          "name": "C.S.Chawngchhuma",
+          "party": "Bharatiya Janta Party",
+          "votes": 142,
+          "votes_percentage": 1.2
+        }
+      ]
+    }
+  }
+}

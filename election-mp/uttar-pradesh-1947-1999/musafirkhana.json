@@ -1,0 +1,90 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "MUSAFIRKHANA",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 395994,
+        "total_votes_polled": 168885,
+        "turnout_percentage": 42.7,
+        "margin_votes": 50194,
+        "margin_percentage": 29.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kunwar Rananjai Singh",
+          "party": "Indian National Congress",
+          "votes": 77869,
+          "votes_percentage": 46.1
+        },
+        {
+          "position": 2,
+          "name": "Jagroop",
+          "party": "Socialist",
+          "votes": 27675,
+          "votes_percentage": 16.4
+        },
+        {
+          "position": 3,
+          "name": "Shyamta Prasad",
+          "party": "Jan Sangh",
+          "votes": 22863,
+          "votes_percentage": 13.5
+        },
+        {
+          "position": 4,
+          "name": "Abdul Wahid",
+          "party": "Independent",
+          "votes": 14456,
+          "votes_percentage": 8.6
+        },
+        {
+          "position": 5,
+          "name": "Vidya Dhar Bajpai",
+          "party": "Swatantra",
+          "votes": 10338,
+          "votes_percentage": 6.1
+        },
+        {
+          "position": 6,
+          "name": "Hari Sharan Singh",
+          "party": "Praja Socialist Party",
+          "votes": 8008,
+          "votes_percentage": 4.7
+        }
+      ]
+    },
+    "1957": {
+      "poll_date": "25 February 1957",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 387572,
+        "total_votes_polled": 131086,
+        "turnout_percentage": 33.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Balkrishna Vishwanath Keskar",
+          "party": "Indian National Congress",
+          "votes": 79941,
+          "votes_percentage": 61.0
+        },
+        {
+          "position": 2,
+          "name": "Abdul Wahid",
+          "party": "Independent",
+          "votes": 51145,
+          "votes_percentage": 39.0
+        }
+      ]
+    }
+  }
+}

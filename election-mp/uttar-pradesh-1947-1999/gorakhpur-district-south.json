@@ -1,0 +1,48 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "GORAKHPUR DISTRICT (SOUTH)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 342796,
+        "total_votes_polled": 104695,
+        "turnout_percentage": 30.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sinhasan Singh",
+          "party": "Indian National Congress",
+          "votes": 57450,
+          "votes_percentage": 54.9
+        },
+        {
+          "position": 2,
+          "name": "Mahant Digvijai Nath",
+          "party": "Akhil Bharatiya Hindu Mahasabha",
+          "votes": 25678,
+          "votes_percentage": 24.5
+        },
+        {
+          "position": 3,
+          "name": "Narendra Narain",
+          "party": "Socialist Party",
+          "votes": 11981,
+          "votes_percentage": 11.4
+        },
+        {
+          "position": 4,
+          "name": "Raghupat Sahai",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 9586,
+          "votes_percentage": 9.2
+        }
+      ]
+    }
+  }
+}

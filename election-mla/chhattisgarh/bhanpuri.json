@@ -1,0 +1,64 @@
+{
+  "state": "Chhattisgarh",
+  "constituency": "Bhanpuri",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "2003": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 133148,
+        "total_votes_polled": 86648,
+        "turnout_percentage": 65.1,
+        "margin_votes": 11392,
+        "margin_percentage": 13.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kedar Kshyap",
+          "party": "Bharatiya Janta Party",
+          "votes": 41023,
+          "votes_percentage": 47.4
+        },
+        {
+          "position": 2,
+          "name": "Antu Ram Kashyap",
+          "party": "Indian National Congress",
+          "votes": 29631,
+          "votes_percentage": 34.2
+        },
+        {
+          "position": 3,
+          "name": "Madhu Ram Muraya",
+          "party": "Independent",
+          "votes": 4812,
+          "votes_percentage": 5.6
+        },
+        {
+          "position": 4,
+          "name": "Lakhamu Bharti",
+          "party": "Nationalist Congress Party",
+          "votes": 4624,
+          "votes_percentage": 5.3
+        },
+        {
+          "position": 5,
+          "name": "Budhsan",
+          "party": "Communist Party Of India",
+          "votes": 3775,
+          "votes_percentage": 4.4
+        },
+        {
+          "position": 6,
+          "name": "Chaturbhuj Baghel",
+          "party": "Bahujan Samaj Party",
+          "votes": 2781,
+          "votes_percentage": 3.2
+        }
+      ]
+    }
+  }
+}

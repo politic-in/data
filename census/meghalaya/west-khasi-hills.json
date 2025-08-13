@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 42875,
+        "male": 44339,
+        "percentage_of_total_population": 22.74,
+        "percentage_of_total_population_calculated": 22.74,
+        "percentage_of_total_population_stated": 22.74,
+        "sex_ratio": 967,
+        "total": 87214
+    },
+    "literacy": {
+        "female_literacy_rate": 77.19,
+        "female_literate": 113371,
+        "male_literacy_rate": 78.53,
+        "male_literate": 117307,
+        "rate_percentage": 77.87,
+        "total_literate": 230678
+    },
+    "population": {
+        "female": 189746,
+        "male": 193715,
+        "sex_ratio": 980,
+        "total": 383461
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.34,
+            "population": 1313
+        },
+        "Christian": {
+            "percentage": 95.68,
+            "population": 366881
+        },
+        "Hindu": {
+            "percentage": 1.69,
+            "population": 6498
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 38
+        },
+        "Muslims": {
+            "percentage": 0.4,
+            "population": 1533
+        },
+        "Not Stated": {
+            "percentage": 0.33,
+            "population": 1262
+        },
+        "Others": {
+            "percentage": 1.53,
+            "population": 5878
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 58
+        }
+    },
+    "rural": {
+        "child_population_female": 38462,
+        "child_population_male": 39848,
+        "child_population_percentage": 23.01,
+        "child_population_percentage_calculated": 23.01,
+        "child_population_percentage_stated": 23.01,
+        "child_population_total": 78310,
+        "child_sex_ratio": 965,
+        "female": 167976,
+        "literacy_rate_female": 75.73,
+        "literacy_rate_male": 77.33,
+        "literacy_rate_percentage": 76.54,
+        "literate_female": 98080,
+        "literate_male": 102493,
+        "literate_total": 200573,
+        "male": 172380,
+        "percentage_population": 88.76,
+        "population": 340356,
+        "sex_ratio": 974
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/382-west-khasi-hills.html",
+    "urban": {
+        "child_population_female": 4410,
+        "child_population_male": 4494,
+        "child_population_percentage": 20.66,
+        "child_population_percentage_calculated": 20.66,
+        "child_population_percentage_stated": 20.66,
+        "child_population_total": 8904,
+        "child_sex_ratio": 981,
+        "female": 21770,
+        "literacy_rate_female": 88.08,
+        "literacy_rate_male": 87.96,
+        "literacy_rate_percentage": 88.02,
+        "literate_female": 15291,
+        "literate_male": 14814,
+        "literate_total": 30105,
+        "male": 21335,
+        "percentage_population": 11.24,
+        "population": 43105,
+        "sex_ratio": 1020
+    }
+}

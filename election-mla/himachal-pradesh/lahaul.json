@@ -1,0 +1,85 @@
+{
+  "state": "Himachal Pradesh",
+  "constituency": "LAHAUL",
+  "district": "Lahul & Spiti",
+  "ac_type": "ST",
+  "results": {
+    "2022": {
+      "poll_date": "12 November 2022",
+      "counting_date": "08 December 2022",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 24024,
+        "total_votes_polled": 18734,
+        "turnout_percentage": 78.3,
+        "margin_votes": 1616,
+        "margin_percentage": 8.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ravi Thakur",
+          "party": "Indian National Congress",
+          "votes": 9948,
+          "votes_percentage": 52.9
+        },
+        {
+          "position": 2,
+          "name": "Dr.Ram Lal Markanda",
+          "party": "Bharatiya Janta Party",
+          "votes": 8332,
+          "votes_percentage": 44.3
+        },
+        {
+          "position": 3,
+          "name": "Sudarshan Jaspa",
+          "party": "Aam Aadmi Party",
+          "votes": 454,
+          "votes_percentage": 2.4
+        }
+      ]
+    },
+    "2017": {
+      "poll_date": "09 November 2017",
+      "counting_date": "18 December 2017",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 15928,
+        "total_votes_polled": 16929,
+        "turnout_percentage": 106.7,
+        "margin_votes": 1478,
+        "margin_percentage": 8.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr. Ram Lal Markanda",
+          "party": "Bharatiya Janta Party",
+          "votes": 7756,
+          "votes_percentage": 45.8
+        },
+        {
+          "position": 2,
+          "name": "Ravi Thakur",
+          "party": "Indian National Congress",
+          "votes": 6278,
+          "votes_percentage": 37.1
+        },
+        {
+          "position": 3,
+          "name": "Rajinder Karpa",
+          "party": "Independent",
+          "votes": 2240,
+          "votes_percentage": 13.2
+        },
+        {
+          "position": 4,
+          "name": "Sudarshan Jaspa",
+          "party": "Independent",
+          "votes": 655,
+          "votes_percentage": 3.9
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "state": "Jammu & Kashmir",
+  "constituency": "Samba(SC)",
+  "district": "Samba",
+  "ac_type": "SC",
+  "results": {
+    "2014": {
+      "poll_date": "20 December 2014",
+      "counting_date": "24 December 2014",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 82500,
+        "total_votes_polled": 64195,
+        "turnout_percentage": 77.8,
+        "total_valid_votes": 63671,
+        "total_valid_votes_percentage": 77.2,
+        "margin_votes": 22118,
+        "margin_percentage": 34.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Devinder Kumar Manyal",
+          "party": "Bharatiya Janta Party",
+          "votes": 34075,
+          "votes_percentage": 53.1
+        },
+        {
+          "position": 2,
+          "name": "Yash Paul Kundal",
+          "party": "J & K National Panthers Party",
+          "votes": 11957,
+          "votes_percentage": 18.6
+        },
+        {
+          "position": 3,
+          "name": "Subhash Chander",
+          "party": "Indian National Congress",
+          "votes": 9063,
+          "votes_percentage": 14.1
+        },
+        {
+          "position": 4,
+          "name": "Sunny Sangral",
+          "party": "Jammu & Kashmir Peoples Democratic Party",
+          "votes": 2971,
+          "votes_percentage": 4.6
+        },
+        {
+          "position": 5,
+          "name": "Som Nath",
+          "party": "Bahujan Samaj Party",
+          "votes": 2779,
+          "votes_percentage": 4.3
+        },
+        {
+          "position": 6,
+          "name": "Satwant Kaur",
+          "party": "Jammu & Kashmir National Conference",
+          "votes": 2220,
+          "votes_percentage": 3.5
+        },
+        {
+          "position": 7,
+          "name": "Vijay Kumar Atri",
+          "party": "Nationalist Congress Party",
+          "votes": 310,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Darshan Kumar",
+          "party": "Bahujan Mukti Party",
+          "votes": 296,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

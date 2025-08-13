@@ -1,0 +1,62 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "PURNEA CUM SANTAL PARGANAS",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 752822,
+        "total_votes_polled": 659217,
+        "turnout_percentage": 43.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bhagat Jha (AZAD)",
+          "party": "Indian National Congress",
+          "votes": 166049,
+          "votes_percentage": 25.2
+        },
+        {
+          "position": 1,
+          "name": "Jughar Soren Paul",
+          "party": "Jharkhand Party",
+          "votes": 147837,
+          "votes_percentage": 22.4
+        },
+        {
+          "position": 3,
+          "name": "Narayan Soren",
+          "party": "Indian National Congress",
+          "votes": 147531,
+          "votes_percentage": 22.4
+        },
+        {
+          "position": 4,
+          "name": "Sudhir Hasda",
+          "party": "Jharkhand Party",
+          "votes": 121248,
+          "votes_percentage": 18.4
+        },
+        {
+          "position": 5,
+          "name": "Barruchi Jha",
+          "party": "Socialist Party",
+          "votes": 53206,
+          "votes_percentage": 8.1
+        },
+        {
+          "position": 6,
+          "name": "Lakhi Prasad Agrawal",
+          "party": "Independent",
+          "votes": 23346,
+          "votes_percentage": 3.5
+        }
+      ]
+    }
+  }
+}

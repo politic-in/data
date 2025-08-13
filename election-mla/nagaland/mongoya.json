@@ -1,0 +1,71 @@
+{
+  "state": "Nagaland",
+  "constituency": "MONGOYA",
+  "district": "Mokokchung",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 15918,
+        "total_votes_polled": 13569,
+        "turnout_percentage": 85.3,
+        "margin_votes": 348,
+        "margin_percentage": 2.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ngangshi K Ao",
+          "party": "Naga Peoples Front",
+          "votes": 6883,
+          "votes_percentage": 50.7
+        },
+        {
+          "position": 2,
+          "name": "Alemtemshi Jamir",
+          "party": "Nationalist Democratic Progressive Party",
+          "votes": 6535,
+          "votes_percentage": 48.2
+        },
+        {
+          "position": 3,
+          "name": "S. Supongmeren Jamir",
+          "party": "National People's Party",
+          "votes": 151,
+          "votes_percentage": 1.1
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "23 February 2013",
+      "counting_date": "28 February 2013",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 14690,
+        "total_votes_polled": 12933,
+        "turnout_percentage": 88.0,
+        "margin_votes": 4683,
+        "margin_percentage": 36.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Merentoshi R.Jamir",
+          "party": "Naga Peoples Front",
+          "votes": 8808,
+          "votes_percentage": 68.1
+        },
+        {
+          "position": 2,
+          "name": "Dr. Ngangshi K.Ao",
+          "party": "Indian National Congress",
+          "votes": 4125,
+          "votes_percentage": 31.9
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "state": "Orissa",
+  "constituency": "ANGUL",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 529706,
+        "total_votes_polled": 175752,
+        "turnout_percentage": 33.2,
+        "margin_votes": 15296,
+        "margin_percentage": 8.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pratap Gangadebbad Kumar",
+          "party": "Indian National Congress",
+          "votes": 55615,
+          "votes_percentage": 31.6
+        },
+        {
+          "position": 2,
+          "name": "Dhirenranath Deblal",
+          "party": "Swatantra",
+          "votes": 40319,
+          "votes_percentage": 22.9
+        },
+        {
+          "position": 3,
+          "name": "Satyanarayan Deo",
+          "party": "Utkal Congress",
+          "votes": 32913,
+          "votes_percentage": 18.7
+        },
+        {
+          "position": 4,
+          "name": "Nityananda Mahapatra",
+          "party": "Jana Congress",
+          "votes": 26438,
+          "votes_percentage": 15.0
+        },
+        {
+          "position": 5,
+          "name": "Kapileswar Pradhan",
+          "party": "Independent",
+          "votes": 10700,
+          "votes_percentage": 6.1
+        }
+      ]
+    },
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 481556,
+        "total_votes_polled": 176034,
+        "turnout_percentage": 36.6,
+        "margin_votes": 31521,
+        "margin_percentage": 17.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "D. Deblal",
+          "party": "Swatantra",
+          "votes": 79961,
+          "votes_percentage": 45.4
+        },
+        {
+          "position": 2,
+          "name": "P.G.D.B. Kumar",
+          "party": "Indian National Congress",
+          "votes": 48440,
+          "votes_percentage": 27.5
+        },
+        {
+          "position": 3,
+          "name": "P. Pradhan",
+          "party": "Independent",
+          "votes": 36895,
+          "votes_percentage": 21.0
+        }
+      ]
+    },
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 1,
+      "aggregate": {
+        "total_electors": 445165,
+        "margin_votes": 0,
+        "margin_percentage": 0.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Harekrushna Mahtab",
+          "party": "Indian National Congress",
+          "votes": 0,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "1957": {
+      "poll_date": "25 February 1957",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 405988,
+        "total_votes_polled": 147667,
+        "turnout_percentage": 36.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Badkumar Pratap Ganga Deb",
+          "party": "Ganatantra Parishad",
+          "votes": 68326,
+          "votes_percentage": 46.3
+        },
+        {
+          "position": 2,
+          "name": "Madan Mohan Pradhan",
+          "party": "Indian National Congress",
+          "votes": 55208,
+          "votes_percentage": 37.4
+        },
+        {
+          "position": 3,
+          "name": "Srinibas Misra",
+          "party": "Communist Party Of India",
+          "votes": 24133,
+          "votes_percentage": 16.3
+        }
+      ]
+    }
+  }
+}

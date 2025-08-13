@@ -1,0 +1,148 @@
+{
+  "state": "Assam",
+  "constituency": "Rupahihat",
+  "district": "Nagaon",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 189990,
+        "total_votes_polled": 179955,
+        "turnout_percentage": 95.2,
+        "margin_votes": 106352,
+        "margin_percentage": 59.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nurul Huda",
+          "party": "Indian National Congress",
+          "votes": 132091,
+          "votes_percentage": 73.4
+        },
+        {
+          "position": 2,
+          "name": "Najir Hussain",
+          "party": "Bharatiya Janta Party",
+          "votes": 25739,
+          "votes_percentage": 14.3
+        },
+        {
+          "position": 3,
+          "name": "Shafiqul Islam",
+          "party": "Assam Jatiya Parishad",
+          "votes": 10006,
+          "votes_percentage": 5.6
+        },
+        {
+          "position": 4,
+          "name": "Nurul Amin Chowdhury",
+          "party": "Independent",
+          "votes": 8138,
+          "votes_percentage": 4.5
+        },
+        {
+          "position": 5,
+          "name": "Nazrul Islam",
+          "party": "Independent",
+          "votes": 1535,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Abu Shama",
+          "party": "Independent",
+          "votes": 1117,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Samsul Alam",
+          "party": "Janata Dal (United)",
+          "votes": 478,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Jinnatul Islam",
+          "party": "Rashtriya Ulama Council",
+          "votes": 443,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Wakibur Islam",
+          "party": "Independent",
+          "votes": 408,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "04 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 143071,
+        "total_votes_polled": 119739,
+        "turnout_percentage": 83.7,
+        "margin_votes": 233,
+        "margin_percentage": 0.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mazibur Rahman",
+          "party": "All India United Democratic Front",
+          "votes": 44441,
+          "votes_percentage": 37.1
+        },
+        {
+          "position": 2,
+          "name": "Salma Jesmin",
+          "party": "Indian National Congress",
+          "votes": 44208,
+          "votes_percentage": 36.9
+        },
+        {
+          "position": 3,
+          "name": "Abdul Aziz",
+          "party": "Independent",
+          "votes": 22197,
+          "votes_percentage": 18.5
+        },
+        {
+          "position": 4,
+          "name": "Nurul Hoque Mohammad Farhad",
+          "party": "Asom Gana Parisad",
+          "votes": 4293,
+          "votes_percentage": 3.6
+        },
+        {
+          "position": 5,
+          "name": "Dharmaraj Hazarika",
+          "party": "Bharatiya Janta Party",
+          "votes": 2783,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 6,
+          "name": "Samsul Alam",
+          "party": "Nationalist Congress Party",
+          "votes": 948,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 7,
+          "name": "Mostafa Hussain",
+          "party": "All India Trinamool Congress",
+          "votes": 869,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

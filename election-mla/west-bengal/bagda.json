@@ -1,0 +1,57 @@
+{
+  "state": "West Bengal",
+  "constituency": "Bagda",
+  "district": "North Twenty Four Parganas",
+  "ac_type": "SC",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 268567,
+        "total_votes_polled": 217771,
+        "turnout_percentage": 81.5,
+        "margin_votes": 9792,
+        "margin_percentage": 4.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Biswajit Das",
+          "party": "Bharatiya Janta Party",
+          "votes": 108111,
+          "votes_percentage": 49.6
+        },
+        {
+          "position": 2,
+          "name": "Paritosh Kumar Saha",
+          "party": "All India Trinamool Congress",
+          "votes": 98319,
+          "votes_percentage": 45.2
+        },
+        {
+          "position": 3,
+          "name": "Kirttaniya Prabir (Bapi)",
+          "party": "Indian National Congress",
+          "votes": 8250,
+          "votes_percentage": 3.8
+        },
+        {
+          "position": 4,
+          "name": "Santosh  Biswas",
+          "party": "Bahujan Samaj Party",
+          "votes": 2240,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Pradip Kumar Biswas",
+          "party": "Independent",
+          "votes": 851,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

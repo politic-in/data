@@ -1,0 +1,120 @@
+{
+  "state": "West Bengal",
+  "constituency": "AUSGRAM",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 629094,
+        "total_votes_polled": 363981,
+        "turnout_percentage": 57.9,
+        "margin_votes": 90912,
+        "margin_percentage": 25.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Halder Krishna Chandra",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 160100,
+          "votes_percentage": 44.0
+        },
+        {
+          "position": 2,
+          "name": "Mahadeb Saha",
+          "party": "Bangla Congress",
+          "votes": 69188,
+          "votes_percentage": 19.0
+        },
+        {
+          "position": 3,
+          "name": "Ram Panchanan",
+          "party": "Communist Party Of India",
+          "votes": 57387,
+          "votes_percentage": 15.8
+        },
+        {
+          "position": 4,
+          "name": "Das Sankar",
+          "party": "Indian National Congress (ORGANISATION)",
+          "votes": 54399,
+          "votes_percentage": 14.9
+        },
+        {
+          "position": 5,
+          "name": "Nimai Saha",
+          "party": "Independent",
+          "votes": 3956,
+          "votes_percentage": 1.1
+        }
+      ]
+    },
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 525272,
+        "total_votes_polled": 308908,
+        "turnout_percentage": 58.8,
+        "margin_votes": 8858,
+        "margin_percentage": 2.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "B. Das",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 152904,
+          "votes_percentage": 49.5
+        },
+        {
+          "position": 2,
+          "name": "D. M. Mohan",
+          "party": "Indian National Congress",
+          "votes": 144046,
+          "votes_percentage": 46.6
+        }
+      ]
+    },
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 498990,
+        "total_votes_polled": 233065,
+        "turnout_percentage": 46.7,
+        "margin_votes": 23689,
+        "margin_percentage": 10.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mono Mohan Das",
+          "party": "Indian National Congress",
+          "votes": 114829,
+          "votes_percentage": 49.3
+        },
+        {
+          "position": 2,
+          "name": "Krishna Chandra Halder",
+          "party": "Communist Party Of India",
+          "votes": 91140,
+          "votes_percentage": 39.1
+        },
+        {
+          "position": 3,
+          "name": "Gobardhan Pakray",
+          "party": "Praja Socialist Party",
+          "votes": 18435,
+          "votes_percentage": 7.9
+        }
+      ]
+    }
+  }
+}

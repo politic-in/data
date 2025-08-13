@@ -1,0 +1,99 @@
+{
+  "state": "Assam",
+  "constituency": "Bihali",
+  "district": "Sonitpur",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 120066,
+        "total_votes_polled": 102201,
+        "turnout_percentage": 87.6,
+        "margin_votes": 29839,
+        "margin_percentage": 29.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ranjit Dutta",
+          "party": "Bharatiya Janta Party",
+          "votes": 53583,
+          "votes_percentage": 52.4
+        },
+        {
+          "position": 2,
+          "name": "Jayanta Borah",
+          "party": "Independent",
+          "votes": 23744,
+          "votes_percentage": 23.2
+        },
+        {
+          "position": 3,
+          "name": "Bibek Das",
+          "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+          "votes": 21531,
+          "votes_percentage": 21.1
+        },
+        {
+          "position": 4,
+          "name": "Anjan Upadhyaya",
+          "party": "Assam Jatiya Parishad",
+          "votes": 3343,
+          "votes_percentage": 3.3
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "04 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 100072,
+        "total_votes_polled": 80881,
+        "turnout_percentage": 80.8,
+        "margin_votes": 18136,
+        "margin_percentage": 22.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pallab Lochan Das",
+          "party": "Indian National Congress",
+          "votes": 40798,
+          "votes_percentage": 50.4
+        },
+        {
+          "position": 2,
+          "name": "Ranjit Dutta",
+          "party": "Bharatiya Janta Party",
+          "votes": 22662,
+          "votes_percentage": 28.0
+        },
+        {
+          "position": 3,
+          "name": "Bibek Das",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 12784,
+          "votes_percentage": 15.8
+        },
+        {
+          "position": 4,
+          "name": "Biswajeet Goswami",
+          "party": "Independent",
+          "votes": 3307,
+          "votes_percentage": 4.1
+        },
+        {
+          "position": 5,
+          "name": "Malay Das",
+          "party": "All India United Democratic Front",
+          "votes": 1330,
+          "votes_percentage": 1.6
+        }
+      ]
+    }
+  }
+}

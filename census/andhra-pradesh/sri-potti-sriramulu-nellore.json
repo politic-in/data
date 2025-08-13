@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 147368,
+        "male": 156941,
+        "percentage_of_total_population": 10.27,
+        "percentage_of_total_population_calculated": 10.27,
+        "percentage_of_total_population_stated": 10.27,
+        "sex_ratio": 939,
+        "total": 304309
+    },
+    "literacy": {
+        "female_literacy_rate": 61.99,
+        "female_literate": 820267,
+        "male_literacy_rate": 75.74,
+        "male_literate": 1011922,
+        "rate_percentage": 68.9,
+        "total_literate": 1832189
+    },
+    "population": {
+        "female": 1470583,
+        "male": 1492974,
+        "sex_ratio": 985,
+        "total": 2963557
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 239
+        },
+        "Christian": {
+            "percentage": 0.88,
+            "population": 26202
+        },
+        "Hindu": {
+            "percentage": 89.07,
+            "population": 2639737
+        },
+        "Jain": {
+            "percentage": 0.09,
+            "population": 2610
+        },
+        "Muslims": {
+            "percentage": 9.73,
+            "population": 288378
+        },
+        "Not Stated": {
+            "percentage": 0.19,
+            "population": 5567
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 146
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 678
+        }
+    },
+    "rural": {
+        "child_population_female": 108525,
+        "child_population_male": 115556,
+        "child_population_percentage": 10.64,
+        "child_population_percentage_calculated": 10.64,
+        "child_population_percentage_stated": 10.64,
+        "child_population_total": 224081,
+        "child_sex_ratio": 939,
+        "female": 1045117,
+        "literacy_rate_female": 56.02,
+        "literacy_rate_male": 71.19,
+        "literacy_rate_percentage": 63.64,
+        "literate_female": 524673,
+        "literate_male": 672946,
+        "literate_total": 1197619,
+        "male": 1060810,
+        "percentage_population": 71.06,
+        "population": 2105927,
+        "sex_ratio": 985
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/136-sri-potti-sriramulu-nellore.html",
+    "urban": {
+        "child_population_female": 38877,
+        "child_population_male": 41351,
+        "child_population_percentage": 9.35,
+        "child_population_percentage_calculated": 9.35,
+        "child_population_percentage_stated": 9.35,
+        "child_population_total": 80228,
+        "child_sex_ratio": 940,
+        "female": 425466,
+        "literacy_rate_female": 76.46,
+        "literacy_rate_male": 86.74,
+        "literacy_rate_percentage": 81.63,
+        "literate_female": 295594,
+        "literate_male": 338976,
+        "literate_total": 634570,
+        "male": 432164,
+        "percentage_population": 28.94,
+        "population": 857630,
+        "sex_ratio": 985
+    }
+}

@@ -1,0 +1,50 @@
+{
+  "state": "Punjab",
+  "constituency": "RUPAR",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 475396,
+        "total_votes_polled": 348741,
+        "turnout_percentage": 73.4,
+        "margin_votes": 4072,
+        "margin_percentage": 1.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "B. Singh",
+          "party": "Indian National Congress",
+          "votes": 127986,
+          "votes_percentage": 36.7
+        },
+        {
+          "position": 2,
+          "name": "B. Singh",
+          "party": "Akali Dal - Sant Fateh Singh Group",
+          "votes": 123914,
+          "votes_percentage": 35.5
+        },
+        {
+          "position": 3,
+          "name": "B. Singh",
+          "party": "Bhartiya Jan Sangh",
+          "votes": 48057,
+          "votes_percentage": 13.8
+        },
+        {
+          "position": 4,
+          "name": "G. Singh",
+          "party": "Akali Dal - Master Tara Singh",
+          "votes": 35973,
+          "votes_percentage": 10.3
+        }
+      ]
+    }
+  }
+}

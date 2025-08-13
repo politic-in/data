@@ -1,0 +1,50 @@
+{
+  "state": "West Bengal",
+  "constituency": "KHANDAGHOSH (SC)",
+  "district": "Barddhaman",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 220371,
+        "total_votes_polled": 193853,
+        "turnout_percentage": 89.2,
+        "margin_votes": 3202,
+        "margin_percentage": 1.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nabin Chandra Bag",
+          "party": "All India Trinamool Congress",
+          "votes": 90151,
+          "votes_percentage": 46.5
+        },
+        {
+          "position": 2,
+          "name": "Asima Roy",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 86949,
+          "votes_percentage": 44.9
+        },
+        {
+          "position": 3,
+          "name": "Ashoke Santra",
+          "party": "Bharatiya Janta Party",
+          "votes": 13973,
+          "votes_percentage": 7.2
+        },
+        {
+          "position": 4,
+          "name": "Protul Biswas",
+          "party": "Bahujan Samaj Party",
+          "votes": 2780,
+          "votes_percentage": 1.4
+        }
+      ]
+    }
+  }
+}

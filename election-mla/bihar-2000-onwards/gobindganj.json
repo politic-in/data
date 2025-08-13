@@ -1,0 +1,122 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "GOBINDGANJ",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2005": {
+      "poll_date": "16 November 2005",
+      "counting_date": "21 November 2005",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 206551,
+        "total_votes_polled": 88872,
+        "turnout_percentage": 43.0,
+        "total_valid_votes": 88872,
+        "total_valid_votes_percentage": 43.0,
+        "margin_votes": 16021,
+        "margin_percentage": 18.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Meena Devi",
+          "party": "Janata Dal (United)",
+          "votes": 35743,
+          "votes_percentage": 40.2
+        },
+        {
+          "position": 2,
+          "name": "Rajan Tiwari",
+          "party": "Lok Jan Shakti Party",
+          "votes": 19722,
+          "votes_percentage": 22.2
+        },
+        {
+          "position": 3,
+          "name": "Shashi Bhushan Rai",
+          "party": "Independent",
+          "votes": 15423,
+          "votes_percentage": 17.4
+        },
+        {
+          "position": 4,
+          "name": "Anirudh Sahani",
+          "party": "Rashtriya Janata Dal",
+          "votes": 15101,
+          "votes_percentage": 17.0
+        },
+        {
+          "position": 5,
+          "name": "Prabhu Ram",
+          "party": "Bahujan Samaj Party",
+          "votes": 2883,
+          "votes_percentage": 3.2
+        }
+      ]
+    },
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 192654,
+        "total_votes_polled": 110872,
+        "turnout_percentage": 57.6,
+        "margin_votes": 3263,
+        "margin_percentage": 2.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rajan Tiwari",
+          "party": "Independent",
+          "votes": 31702,
+          "votes_percentage": 29.2
+        },
+        {
+          "position": 2,
+          "name": "Bhupendra Nath Dubey",
+          "party": "Samata Party",
+          "votes": 28439,
+          "votes_percentage": 26.2
+        },
+        {
+          "position": 3,
+          "name": "Shuresh Sahani",
+          "party": "Rashtriya Janata Dal",
+          "votes": 26458,
+          "votes_percentage": 24.4
+        },
+        {
+          "position": 4,
+          "name": "Yogendra Pandey",
+          "party": "Nationalist Congress Party",
+          "votes": 17172,
+          "votes_percentage": 15.8
+        },
+        {
+          "position": 5,
+          "name": "Yetendra Ku. Kashyap",
+          "party": "Indian National Congress",
+          "votes": 3739,
+          "votes_percentage": 3.4
+        },
+        {
+          "position": 6,
+          "name": "Narad Paswan",
+          "party": "Independent",
+          "votes": 697,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Manoj Kumar",
+          "party": "Independent",
+          "votes": 429,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

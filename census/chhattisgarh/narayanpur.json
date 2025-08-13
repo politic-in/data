@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 11614,
+        "male": 11744,
+        "percentage_of_total_population": 16.71,
+        "percentage_of_total_population_calculated": 16.71,
+        "percentage_of_total_population_stated": 16.71,
+        "sex_ratio": 989,
+        "total": 23358
+    },
+    "literacy": {
+        "female_literacy_rate": 39.88,
+        "female_literate": 23172,
+        "male_literacy_rate": 57.31,
+        "male_literate": 33449,
+        "rate_percentage": 48.62,
+        "total_literate": 56621
+    },
+    "population": {
+        "female": 69716,
+        "male": 70104,
+        "sex_ratio": 994,
+        "total": 139820
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.05,
+            "population": 71
+        },
+        "Christian": {
+            "percentage": 0.43,
+            "population": 600
+        },
+        "Hindu": {
+            "percentage": 92.38,
+            "population": 129161
+        },
+        "Jain": {
+            "percentage": 0.29,
+            "population": 409
+        },
+        "Muslims": {
+            "percentage": 0.55,
+            "population": 776
+        },
+        "Not Stated": {
+            "percentage": 0.12,
+            "population": 165
+        },
+        "Others": {
+            "percentage": 6.11,
+            "population": 8542
+        },
+        "Sikh": {
+            "percentage": 0.07,
+            "population": 96
+        }
+    },
+    "rural": {
+        "child_population_female": 10391,
+        "child_population_male": 10432,
+        "child_population_percentage": 17.69,
+        "child_population_percentage_calculated": 17.69,
+        "child_population_percentage_stated": 17.69,
+        "child_population_total": 20823,
+        "child_sex_ratio": 996,
+        "female": 59061,
+        "literacy_rate_female": 33.33,
+        "literacy_rate_male": 50.28,
+        "literacy_rate_percentage": 41.77,
+        "literate_female": 16221,
+        "literate_male": 24246,
+        "literate_total": 40467,
+        "male": 58653,
+        "percentage_population": 84.19,
+        "population": 117714,
+        "sex_ratio": 1007
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/500-narayanpur.html",
+    "urban": {
+        "child_population_female": 1223,
+        "child_population_male": 1312,
+        "child_population_percentage": 11.47,
+        "child_population_percentage_calculated": 11.47,
+        "child_population_percentage_stated": 11.47,
+        "child_population_total": 2535,
+        "child_sex_ratio": 932,
+        "female": 10655,
+        "literacy_rate_female": 73.7,
+        "literacy_rate_male": 90.77,
+        "literacy_rate_percentage": 82.54,
+        "literate_female": 6951,
+        "literate_male": 9203,
+        "literate_total": 16154,
+        "male": 11451,
+        "percentage_population": 15.81,
+        "population": 22106,
+        "sex_ratio": 930
+    }
+}

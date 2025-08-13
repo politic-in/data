@@ -1,0 +1,57 @@
+{
+  "state": "West Bengal",
+  "constituency": "Mangalkote",
+  "district": "Barddhaman",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 241890,
+        "total_votes_polled": 213503,
+        "turnout_percentage": 89.9,
+        "margin_votes": 22337,
+        "margin_percentage": 10.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Apurba Chowdhury (Achal)",
+          "party": "All India Trinamool Congress",
+          "votes": 107596,
+          "votes_percentage": 50.4
+        },
+        {
+          "position": 2,
+          "name": "Rana Protap Goswami",
+          "party": "Bharatiya Janta Party",
+          "votes": 85259,
+          "votes_percentage": 39.9
+        },
+        {
+          "position": 3,
+          "name": "Choudhury Sahajahan",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 16783,
+          "votes_percentage": 7.9
+        },
+        {
+          "position": 4,
+          "name": "Abdus Sabur Sk",
+          "party": "Bahujan Samaj Party",
+          "votes": 2476,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 5,
+          "name": "Rasik Saren",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1389,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

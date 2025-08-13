@@ -1,0 +1,106 @@
+{
+  "state": "Tripura",
+  "constituency": "Bagbassa",
+  "district": "North Tripura",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 42738,
+        "total_votes_polled": 36925,
+        "turnout_percentage": 87.0,
+        "margin_votes": 270,
+        "margin_percentage": 0.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bijita Nath",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 18001,
+          "votes_percentage": 48.8
+        },
+        {
+          "position": 2,
+          "name": "Pradip Kumar Nath",
+          "party": "Bharatiya Janta Party",
+          "votes": 17731,
+          "votes_percentage": 48.0
+        },
+        {
+          "position": 3,
+          "name": "Jyotirmoy Nath",
+          "party": "Indian National Congress",
+          "votes": 552,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 4,
+          "name": "Arabinda Teli",
+          "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+          "votes": 277,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 5,
+          "name": "Amarjit Singha",
+          "party": "All India Trinamool Congress",
+          "votes": 274,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Martujuddin Choudhury",
+          "party": "Independent",
+          "votes": 90,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "14 February 2013",
+      "counting_date": "28 February 2013",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 38657,
+        "total_votes_polled": 35095,
+        "turnout_percentage": 90.8,
+        "margin_votes": 2932,
+        "margin_percentage": 8.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bijita Nath",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 17991,
+          "votes_percentage": 51.3
+        },
+        {
+          "position": 2,
+          "name": "Jyotirmoy Nath",
+          "party": "Indian National Congress",
+          "votes": 15059,
+          "votes_percentage": 42.9
+        },
+        {
+          "position": 3,
+          "name": "Ronajoy Kumar Deb",
+          "party": "Bharatiya Janta Party",
+          "votes": 1479,
+          "votes_percentage": 4.2
+        },
+        {
+          "position": 4,
+          "name": "Subirjit Sinha",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 566,
+          "votes_percentage": 1.6
+        }
+      ]
+    }
+  }
+}

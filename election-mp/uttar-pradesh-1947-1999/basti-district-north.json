@@ -1,0 +1,48 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "BASTI DISTRICT (NORTH)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 374224,
+        "total_votes_polled": 172752,
+        "turnout_percentage": 46.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Udai Shanker Dubey",
+          "party": "Indian National Congress",
+          "votes": 128312,
+          "votes_percentage": 74.3
+        },
+        {
+          "position": 2,
+          "name": "Ambika Pratap Narain",
+          "party": "U.P. Praja Party",
+          "votes": 22802,
+          "votes_percentage": 13.2
+        },
+        {
+          "position": 3,
+          "name": "H. A. Jalil",
+          "party": "Socialist Party",
+          "votes": 14050,
+          "votes_percentage": 8.1
+        },
+        {
+          "position": 4,
+          "name": "Hori Lal",
+          "party": "Independent",
+          "votes": 7588,
+          "votes_percentage": 4.4
+        }
+      ]
+    }
+  }
+}

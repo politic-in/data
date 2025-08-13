@@ -1,0 +1,78 @@
+{
+  "state": "Kerala",
+  "constituency": "Thiruvanambadi",
+  "district": "Kozhikode",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "06 April 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 170541,
+        "total_votes_polled": 142590,
+        "turnout_percentage": 83.9,
+        "margin_votes": 4643,
+        "margin_percentage": 3.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Linto Joseph",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 67867,
+          "votes_percentage": 47.6
+        },
+        {
+          "position": 2,
+          "name": "C. P. Cheriya Muhammed",
+          "party": "Indian Union Muslim League",
+          "votes": 63224,
+          "votes_percentage": 44.3
+        },
+        {
+          "position": 3,
+          "name": "Baby Ambattu",
+          "party": "Bharatiya Janta Party",
+          "votes": 7794,
+          "votes_percentage": 5.5
+        },
+        {
+          "position": 4,
+          "name": "Sunny. V. Joseph",
+          "party": "Independent",
+          "votes": 1847,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 5,
+          "name": "K. P. Cheriya Muhammed S/o Kunhoyi",
+          "party": "Independent",
+          "votes": 1121,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Linto Joseph S/o Sali",
+          "party": "Independent",
+          "votes": 579,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Lenilal. T. D.",
+          "party": "Independent",
+          "votes": 80,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "Prof.George Mathew Thottathimyalil",
+          "party": "Independent",
+          "votes": 78,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "Sarath",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 174849,
+        "total_votes_polled": 119878,
+        "turnout_percentage": 68.6,
+        "margin_votes": 13466,
+        "margin_percentage": 11.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shashank Shekhar Bhokta",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 60482,
+          "votes_percentage": 51.1
+        },
+        {
+          "position": 2,
+          "name": "Uday Shankar Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 47016,
+          "votes_percentage": 39.7
+        },
+        {
+          "position": 3,
+          "name": "Siraj Ansari",
+          "party": "Rashtriya Janata Dal",
+          "votes": 7227,
+          "votes_percentage": 6.1
+        },
+        {
+          "position": 4,
+          "name": "Nirbhay Charan Lal",
+          "party": "Samajwadi Party",
+          "votes": 1597,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 5,
+          "name": "Ashok Roy",
+          "party": "Indian National Congress",
+          "votes": 1238,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Jiyanand Yadav",
+          "party": "Bahujan Samaj Party",
+          "votes": 291,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "Balki Pra Singh",
+          "party": "Independent",
+          "votes": 170,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "Ajay Pra Singh",
+          "party": "Independent",
+          "votes": 160,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Shital Kisku",
+          "party": "Independent",
+          "votes": 140,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

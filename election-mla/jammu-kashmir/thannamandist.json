@@ -1,0 +1,64 @@
+{
+  "state": "Jammu & Kashmir",
+  "constituency": "THANNAMANDI(ST)",
+  "district": "Rajouri",
+  "ac_type": "GEN",
+  "results": {
+    "2024": {
+      "poll_date": "08 October 2024",
+      "counting_date": "08 October 2024",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 122370,
+        "total_votes_polled": 90286,
+        "turnout_percentage": 74.7,
+        "margin_votes": 6179,
+        "margin_percentage": 6.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Muzaffar Iqbal Khan",
+          "party": "Independent",
+          "votes": 32645,
+          "votes_percentage": 35.7
+        },
+        {
+          "position": 2,
+          "name": "Mohd Iqbal Malik",
+          "party": "Bharatiya Janta Party",
+          "votes": 26466,
+          "votes_percentage": 29.0
+        },
+        {
+          "position": 3,
+          "name": "Qamar Hussain",
+          "party": "Jammu & Kashmir Peoples Democratic Party",
+          "votes": 21986,
+          "votes_percentage": 24.1
+        },
+        {
+          "position": 4,
+          "name": "Mohd Shabir Khan",
+          "party": "Indian National Congress",
+          "votes": 7508,
+          "votes_percentage": 8.2
+        },
+        {
+          "position": 6,
+          "name": "Astkhar Ali Ahmed",
+          "party": "Independent",
+          "votes": 1015,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 7,
+          "name": "Irfan Anjum",
+          "party": "Jammu And Kashmir Apni Party",
+          "votes": 666,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

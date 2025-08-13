@@ -1,0 +1,78 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Harishchandra Puram",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2004": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 133945,
+        "total_votes_polled": 106254,
+        "turnout_percentage": 79.3,
+        "margin_votes": 37361,
+        "margin_percentage": 35.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Atchannaidu Kinjarapu",
+          "party": "Telugu Desam",
+          "votes": 70756,
+          "votes_percentage": 66.6
+        },
+        {
+          "position": 2,
+          "name": "Duvvada Vani",
+          "party": "Indian National Congress",
+          "votes": 33395,
+          "votes_percentage": 31.4
+        },
+        {
+          "position": 3,
+          "name": "Guruvelli Suryaprakasa Rao",
+          "party": "Independent",
+          "votes": 2146,
+          "votes_percentage": 2.0
+        }
+      ]
+    },
+    "1989": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 126215,
+        "total_votes_polled": 94409,
+        "turnout_percentage": 74.8,
+        "margin_votes": 18817,
+        "margin_percentage": 19.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kinjarapu Yerrannaidu",
+          "party": "Independent",
+          "votes": 45651,
+          "votes_percentage": 50.6
+        },
+        {
+          "position": 2,
+          "name": "Kannepalli Appalan Arasimha Bhukta",
+          "party": "Indian National Congress",
+          "votes": 26834,
+          "votes_percentage": 29.8
+        },
+        {
+          "position": 3,
+          "name": "Sampathirao Raghavarao",
+          "party": "Independent",
+          "votes": 17708,
+          "votes_percentage": 19.6
+        }
+      ]
+    }
+  }
+}

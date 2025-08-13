@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 244231,
+        "male": 264319,
+        "percentage_of_total_population": 16.57,
+        "percentage_of_total_population_calculated": 16.57,
+        "percentage_of_total_population_stated": 16.57,
+        "sex_ratio": 924,
+        "total": 508550
+    },
+    "literacy": {
+        "female_literacy_rate": 48.45,
+        "female_literate": 609185,
+        "male_literacy_rate": 74.74,
+        "male_literate": 973444,
+        "rate_percentage": 61.82,
+        "total_literate": 1582629
+    },
+    "population": {
+        "female": 1501619,
+        "male": 1566801,
+        "sex_ratio": 958,
+        "total": 3068420
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 209
+        },
+        "Christian": {
+            "percentage": 0.24,
+            "population": 7406
+        },
+        "Hindu": {
+            "percentage": 93.53,
+            "population": 2869976
+        },
+        "Jain": {
+            "percentage": 2.56,
+            "population": 78647
+        },
+        "Muslims": {
+            "percentage": 3.4,
+            "population": 104307
+        },
+        "Not Stated": {
+            "percentage": 0.11,
+            "population": 3224
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 373
+        },
+        "Sikh": {
+            "percentage": 0.14,
+            "population": 4278
+        }
+    },
+    "rural": {
+        "child_population_female": 213113,
+        "child_population_male": 228369,
+        "child_population_percentage": 17.95,
+        "child_population_percentage_calculated": 17.95,
+        "child_population_percentage_stated": 17.95,
+        "child_population_total": 441482,
+        "child_sex_ratio": 933,
+        "female": 1208678,
+        "literacy_rate_female": 39.82,
+        "literacy_rate_male": 69.64,
+        "literacy_rate_percentage": 54.93,
+        "literate_female": 396467,
+        "literate_male": 712379,
+        "literate_total": 1108846,
+        "male": 1251316,
+        "percentage_population": 80.17,
+        "population": 2459994,
+        "sex_ratio": 966
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/455-udaipur.html",
+    "urban": {
+        "child_population_female": 31116,
+        "child_population_male": 35952,
+        "child_population_percentage": 11.02,
+        "child_population_percentage_calculated": 11.02,
+        "child_population_percentage_stated": 11.02,
+        "child_population_total": 67068,
+        "child_sex_ratio": 865,
+        "female": 292941,
+        "literacy_rate_female": 81.24,
+        "literacy_rate_male": 93.39,
+        "literacy_rate_percentage": 87.52,
+        "literate_female": 212718,
+        "literate_male": 261065,
+        "literate_total": 473783,
+        "male": 315485,
+        "percentage_population": 19.83,
+        "population": 608426,
+        "sex_ratio": 929
+    }
+}

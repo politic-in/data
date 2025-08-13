@@ -1,0 +1,85 @@
+{
+  "state": "Kerala",
+  "constituency": "KASARGOD",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 579127,
+        "total_votes_polled": 415761,
+        "turnout_percentage": 71.8,
+        "margin_votes": 28404,
+        "margin_percentage": 6.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ramachandran Kadannappalli",
+          "party": "Indian National Congress",
+          "votes": 189486,
+          "votes_percentage": 45.6
+        },
+        {
+          "position": 2,
+          "name": "E. K. Nayanar",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 161082,
+          "votes_percentage": 38.7
+        },
+        {
+          "position": 3,
+          "name": "U. Ishwara Bhat",
+          "party": "Bhartiya Jan Sangh",
+          "votes": 43564,
+          "votes_percentage": 10.5
+        },
+        {
+          "position": 4,
+          "name": "Pattathil Raghavah",
+          "party": "Independent",
+          "votes": 17930,
+          "votes_percentage": 4.3
+        }
+      ]
+    },
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 467371,
+        "total_votes_polled": 351097,
+        "turnout_percentage": 75.1,
+        "margin_votes": 118510,
+        "margin_percentage": 33.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "A. K. Gopalan",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 206480,
+          "votes_percentage": 58.8
+        },
+        {
+          "position": 2,
+          "name": "T. V. C. Nair",
+          "party": "Indian National Congress",
+          "votes": 87970,
+          "votes_percentage": 25.1
+        },
+        {
+          "position": 3,
+          "name": "M. U. Rao",
+          "party": "Bhartiya Jan Sangh",
+          "votes": 41471,
+          "votes_percentage": 11.8
+        }
+      ]
+    }
+  }
+}

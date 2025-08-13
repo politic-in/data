@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 203038,
+        "male": 235542,
+        "percentage_of_total_population": 11.53,
+        "percentage_of_total_population_calculated": 11.53,
+        "percentage_of_total_population_stated": 11.53,
+        "sex_ratio": 862,
+        "total": 438580
+    },
+    "literacy": {
+        "female_literacy_rate": 74.43,
+        "female_literate": 1210981,
+        "male_literacy_rate": 87.07,
+        "male_literate": 1514075,
+        "rate_percentage": 80.96,
+        "total_literate": 2725056
+    },
+    "population": {
+        "female": 1830113,
+        "male": 1974445,
+        "sex_ratio": 927,
+        "total": 3804558
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.03,
+            "population": 1170
+        },
+        "Christian": {
+            "percentage": 0.14,
+            "population": 5478
+        },
+        "Hindu": {
+            "percentage": 89.3,
+            "population": 3397406
+        },
+        "Jain": {
+            "percentage": 0.88,
+            "population": 33591
+        },
+        "Muslims": {
+            "percentage": 9.5,
+            "population": 361388
+        },
+        "Not Stated": {
+            "percentage": 0.09,
+            "population": 3338
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 269
+        },
+        "Sikh": {
+            "percentage": 0.05,
+            "population": 1918
+        }
+    },
+    "rural": {
+        "child_population_female": 89884,
+        "child_population_male": 102201,
+        "child_population_percentage": 12.08,
+        "child_population_percentage_calculated": 12.08,
+        "child_population_percentage_stated": 12.08,
+        "child_population_total": 192085,
+        "child_sex_ratio": 879,
+        "female": 774244,
+        "literacy_rate_female": 65.93,
+        "literacy_rate_male": 83.01,
+        "literacy_rate_percentage": 74.65,
+        "literate_female": 451180,
+        "literate_male": 592755,
+        "literate_total": 1043935,
+        "male": 816264,
+        "percentage_population": 41.81,
+        "population": 1590508,
+        "sex_ratio": 949
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/190-rajkot.html",
+    "urban": {
+        "child_population_female": 113162,
+        "child_population_male": 133333,
+        "child_population_percentage": 11.13,
+        "child_population_percentage_calculated": 11.13,
+        "child_population_percentage_stated": 11.13,
+        "child_population_total": 246495,
+        "child_sex_ratio": 849,
+        "female": 1055869,
+        "literacy_rate_female": 80.6,
+        "literacy_rate_male": 89.9,
+        "literacy_rate_percentage": 85.44,
+        "literate_female": 759801,
+        "literate_male": 921320,
+        "literate_total": 1681121,
+        "male": 1158181,
+        "percentage_population": 58.19,
+        "population": 2214050,
+        "sex_ratio": 912
+    }
+}

@@ -1,0 +1,64 @@
+{
+  "state": "Kerala",
+  "constituency": "Ambalappuzha",
+  "district": "Alappuzha",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "06 April 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 171291,
+        "total_votes_polled": 136430,
+        "turnout_percentage": 80.0,
+        "margin_votes": 11125,
+        "margin_percentage": 8.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "H.Salam",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 61365,
+          "votes_percentage": 45.0
+        },
+        {
+          "position": 2,
+          "name": "Adv.M.Liju",
+          "party": "Indian National Congress",
+          "votes": 50240,
+          "votes_percentage": 36.8
+        },
+        {
+          "position": 3,
+          "name": "Anoop Antony",
+          "party": "Bharatiya Janta Party",
+          "votes": 22389,
+          "votes_percentage": 16.4
+        },
+        {
+          "position": 4,
+          "name": "M.M.Thahir",
+          "party": "Social Democratic Party Of India",
+          "votes": 1690,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 5,
+          "name": "Subhadramma Thottappally",
+          "party": "Welfare Party Of India",
+          "votes": 525,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Subaida",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 221,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

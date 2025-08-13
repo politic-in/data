@@ -1,0 +1,103 @@
+{
+    "district": "Salem",
+    "state": "Tamil Nadu",
+    "source_census2011": "https://www.census2011.co.in/census/district/28-salem.html",
+    "population": {
+        "total": 3482056,
+        "male": 1781571,
+        "female": 1700485,
+        "sex_ratio": 954
+    },
+    "child_population": {
+        "total": 344960,
+        "male": 180002,
+        "female": 164958,
+        "sex_ratio": 916,
+        "percentage_of_total_population": 9.91,
+        "percentage_of_total_population_calculated": 9.91,
+        "percentage_of_total_population_stated": 9.91
+    },
+    "literacy": {
+        "rate_percentage": 72.86,
+        "male_literacy_rate": 80.24,
+        "female_literacy_rate": 65.15,
+        "total_literate": 2285562,
+        "male_literate": 0,
+        "female_literate": 0
+    },
+    "religion": {
+        "Hindu": {
+            "population": 3326357,
+            "percentage": 95.53
+        },
+        "Muslims": {
+            "population": 95487,
+            "percentage": 2.74
+        },
+        "Christian": {
+            "population": 53841,
+            "percentage": 1.55
+        },
+        "Sikh": {
+            "population": 412,
+            "percentage": 0.01
+        },
+        "Buddhist": {
+            "population": 174,
+            "percentage": 0.005
+        },
+        "Jain": {
+            "population": 992,
+            "percentage": 0.03
+        },
+        "Others": {
+            "population": 246,
+            "percentage": 0.01
+        },
+        "Not Stated": {
+            "population": 4547,
+            "percentage": 0.13
+        }
+    },
+    "rural": {
+        "population": 1707934,
+        "male": 883274,
+        "female": 824660,
+        "sex_ratio": 934,
+        "percentage_population": 49.05,
+        "child_population_total": 173421,
+        "child_population_male": 91351,
+        "child_population_female": 82070,
+        "child_sex_ratio": 898,
+        "child_population_percentage": 10.15,
+        "child_population_percentage_calculated": 10.15,
+        "child_population_percentage_stated": 10.15,
+        "literacy_rate_percentage": 65.74,
+        "literacy_rate_male": 74.57,
+        "literacy_rate_female": 56.32,
+        "literate_total": 1008761,
+        "literate_male": 0,
+        "literate_female": 0
+    },
+    "urban": {
+        "population": 1774122,
+        "male": 898297,
+        "female": 875825,
+        "sex_ratio": 975,
+        "percentage_population": 50.95,
+        "child_population_total": 171539,
+        "child_population_male": 88651,
+        "child_population_female": 82888,
+        "child_sex_ratio": 935,
+        "child_population_percentage": 9.67,
+        "child_population_percentage_calculated": 9.67,
+        "child_population_percentage_stated": 9.67,
+        "literacy_rate_percentage": 79.67,
+        "literacy_rate_male": 85.79,
+        "literacy_rate_female": 73.43,
+        "literate_total": 1276801,
+        "literate_male": 0,
+        "literate_female": 0
+    },
+    "sc_st_skipped_auto_find_failed": true
+}

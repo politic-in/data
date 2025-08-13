@@ -1,0 +1,36 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Pongchau Wakka",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 7761,
+        "total_votes_polled": 2380,
+        "turnout_percentage": 30.7,
+        "margin_votes": 434,
+        "margin_percentage": 18.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Wnagnam Wangshu",
+          "party": "Janta Party",
+          "votes": 1344,
+          "votes_percentage": 59.6
+        },
+        {
+          "position": 2,
+          "name": "Aching",
+          "party": "Independent",
+          "votes": 910,
+          "votes_percentage": 40.4
+        }
+      ]
+    }
+  }
+}

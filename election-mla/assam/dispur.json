@@ -1,0 +1,946 @@
+{
+  "state": "Assam",
+  "constituency": "Dispur",
+  "district": "Kamrup Metropolitan",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 13,
+      "aggregate": {
+        "total_electors": 385906,
+        "total_votes_polled": 300536,
+        "turnout_percentage": 79.4,
+        "margin_votes": 121657,
+        "margin_percentage": 40.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Atul Bora",
+          "party": "Bharatiya Janta Party",
+          "votes": 196043,
+          "votes_percentage": 65.2
+        },
+        {
+          "position": 2,
+          "name": "Manjit Mahanta",
+          "party": "Indian National Congress",
+          "votes": 74386,
+          "votes_percentage": 24.8
+        },
+        {
+          "position": 3,
+          "name": "Prince Faizul Haque",
+          "party": "Assam Jatiya Parishad",
+          "votes": 15636,
+          "votes_percentage": 5.2
+        },
+        {
+          "position": 4,
+          "name": "Shailen Kalita",
+          "party": "Independent",
+          "votes": 5148,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 5,
+          "name": "Charan Chandra Deka",
+          "party": "Independent",
+          "votes": 2155,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Biswajit Nath",
+          "party": "Independent",
+          "votes": 1239,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Hemendra Nath Deka",
+          "party": "Independent",
+          "votes": 1232,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Hridayananda Gogoi",
+          "party": "Nationalist Congress Party",
+          "votes": 1184,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Pallabi Rabha",
+          "party": "Janata Dal (United)",
+          "votes": 847,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Pallabi Doley",
+          "party": "Independent",
+          "votes": 788,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 11,
+          "name": "Sonamoni Das",
+          "party": "Lok Jan Shakti Party",
+          "votes": 735,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Nitul Das",
+          "party": "Independent",
+          "votes": 603,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 13,
+          "name": "Sukanta Mazumdar",
+          "party": "Bharatiya Gana Parishad",
+          "votes": 540,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 14,
+      "aggregate": {
+        "total_electors": 355580,
+        "total_votes_polled": 276269,
+        "turnout_percentage": 78.4,
+        "margin_votes": 130197,
+        "margin_percentage": 47.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Atul Bora",
+          "party": "Bharatiya Janta Party",
+          "votes": 198378,
+          "votes_percentage": 71.8
+        },
+        {
+          "position": 2,
+          "name": "Akon Bora",
+          "party": "Indian National Congress",
+          "votes": 68181,
+          "votes_percentage": 24.7
+        },
+        {
+          "position": 3,
+          "name": "Sangita Das",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 1944,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 4,
+          "name": "Hareswar Rahang",
+          "party": "Independent",
+          "votes": 1756,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 5,
+          "name": "Pradip Baruah",
+          "party": "Nationalist Congress Party",
+          "votes": 1259,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Bidyut Bora",
+          "party": "All India Trinamool Congress",
+          "votes": 1022,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Dadhiswar Phangcho",
+          "party": "Independent",
+          "votes": 717,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Bishnu Prasad Sarma",
+          "party": "Independent",
+          "votes": 614,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Gobinda Das",
+          "party": "Independent",
+          "votes": 551,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Rijumoni Gogoi",
+          "party": "Bhartiya Rashtrawadi Party",
+          "votes": 485,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Dr. Jitendra Kumar Talukdar",
+          "party": "Liberal Democratic Party",
+          "votes": 420,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Dr. Faruk Ahmed Bhuyan",
+          "party": "Samajwadi Party",
+          "votes": 384,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Bandana Barman Baruah",
+          "party": "Rashtriya Jankranti Party",
+          "votes": 336,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Parag Koch",
+          "party": "Republican Party Of India (A)",
+          "votes": 222,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "04 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 13,
+      "aggregate": {
+        "total_electors": 318580,
+        "total_votes_polled": 200316,
+        "turnout_percentage": 62.9,
+        "margin_votes": 8247,
+        "margin_percentage": 4.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Akon Bora",
+          "party": "Indian National Congress",
+          "votes": 83096,
+          "votes_percentage": 41.5
+        },
+        {
+          "position": 2,
+          "name": "Atul Bora.",
+          "party": "Asom Gana Parisad",
+          "votes": 74849,
+          "votes_percentage": 37.4
+        },
+        {
+          "position": 3,
+          "name": "Ranjit Rahang",
+          "party": "Bharatiya Janta Party",
+          "votes": 29065,
+          "votes_percentage": 14.5
+        },
+        {
+          "position": 4,
+          "name": "Biren Sarma.",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 3314,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 5,
+          "name": "Anowar Ali.",
+          "party": "All India United Democratic Front",
+          "votes": 2417,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 6,
+          "name": "Luit Kr. Barman.",
+          "party": "Independent",
+          "votes": 1813,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 7,
+          "name": "Gobinda Das.",
+          "party": "Independent",
+          "votes": 1455,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 8,
+          "name": "Mamata Bairagi",
+          "party": "All India Trinamool Congress",
+          "votes": 1288,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 9,
+          "name": "Mina Borah.",
+          "party": "Independent",
+          "votes": 823,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 10,
+          "name": "Pradip Baruah.",
+          "party": "Nationalist Congress Party",
+          "votes": 654,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 11,
+          "name": "Hitlar  King Basumatary.",
+          "party": "Revolutionary Communist Party Of India (RASIK BHATT)",
+          "votes": 604,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 12,
+          "name": "Mukti Ram Laskar.",
+          "party": "Revolutionary Socialist Party",
+          "votes": 505,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 13,
+          "name": "Ratul Kumar Choudhury.",
+          "party": "Samajwadi Party",
+          "votes": 433,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2006": {
+      "poll_date": "04 March 2006",
+      "counting_date": "05 November 2006",
+      "total_contestants": 12,
+      "aggregate": {
+        "total_electors": 293848,
+        "total_votes_polled": 173460,
+        "turnout_percentage": 59.0,
+        "margin_votes": 813,
+        "margin_percentage": 0.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Akon Bora",
+          "party": "Indian National Congress",
+          "votes": 52461,
+          "votes_percentage": 30.3
+        },
+        {
+          "position": 2,
+          "name": "Atul Bora",
+          "party": "Trinamool Gana Parishad",
+          "votes": 51648,
+          "votes_percentage": 29.9
+        },
+        {
+          "position": 3,
+          "name": "Bijoya Chakravarty",
+          "party": "Bharatiya Janta Party",
+          "votes": 50343,
+          "votes_percentage": 29.1
+        },
+        {
+          "position": 4,
+          "name": "Suprakash Talukdar",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 4560,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 5,
+          "name": "Sanjib Kumar Barthakur",
+          "party": "Independent",
+          "votes": 2840,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 6,
+          "name": "Rina Das",
+          "party": "Assam United Democratic Front",
+          "votes": 2617,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 7,
+          "name": "Dhiren Engty",
+          "party": "Independent",
+          "votes": 2509,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 8,
+          "name": "Arun Chandra Talukdar",
+          "party": "Nationalist Congress Party",
+          "votes": 1795,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 9,
+          "name": "Manteswar Rahang",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 1677,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 10,
+          "name": "Maneswar Kathar",
+          "party": "Independent",
+          "votes": 917,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 11,
+          "name": "Phookan Kalita",
+          "party": "Rashtriya Janata Dal",
+          "votes": 892,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 12,
+          "name": "Charitra Kr. Das",
+          "party": "Independent",
+          "votes": 666,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "2001": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 12,
+      "aggregate": {
+        "total_electors": 215074,
+        "total_votes_polled": 126969,
+        "turnout_percentage": 59.0,
+        "margin_votes": 3379,
+        "margin_percentage": 2.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Robin Bordoloi",
+          "party": "Indian National Congress",
+          "votes": 46871,
+          "votes_percentage": 36.9
+        },
+        {
+          "position": 2,
+          "name": "Atul Bora",
+          "party": "Independent",
+          "votes": 43492,
+          "votes_percentage": 34.3
+        },
+        {
+          "position": 3,
+          "name": "Prafulla Kumar Mahanta",
+          "party": "Asom Gana Parisad",
+          "votes": 25688,
+          "votes_percentage": 20.2
+        },
+        {
+          "position": 4,
+          "name": "Maneswar Kathar",
+          "party": "Independent",
+          "votes": 3801,
+          "votes_percentage": 3.0
+        },
+        {
+          "position": 5,
+          "name": "Chittaranjan Patwari",
+          "party": "All India Trinamool Congress",
+          "votes": 1419,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Monjuli Dev",
+          "party": "Lok Jan Shakti Party",
+          "votes": 1286,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 7,
+          "name": "Jethua Kachari",
+          "party": "Revolutionary Socialist Party",
+          "votes": 895,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 8,
+          "name": "Dr. Phukan Ch. Boro",
+          "party": "Independent",
+          "votes": 892,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 9,
+          "name": "Jitul Gogoi",
+          "party": "Independent",
+          "votes": 759,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 10,
+          "name": "Sukai Shah",
+          "party": "Independent",
+          "votes": 745,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 11,
+          "name": "Nazir Hussain",
+          "party": "Independent",
+          "votes": 681,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 12,
+          "name": "Bankim Choudhury",
+          "party": "Samajwadi Janata Party (RASHTRIYA)",
+          "votes": 433,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "1991": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 25,
+      "aggregate": {
+        "total_electors": 135421,
+        "total_votes_polled": 83144,
+        "turnout_percentage": 61.4,
+        "margin_votes": 11366,
+        "margin_percentage": 13.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Atul Bora",
+          "party": "Asom Gana Parisad",
+          "votes": 26175,
+          "votes_percentage": 33.5
+        },
+        {
+          "position": 2,
+          "name": "Akon Bora",
+          "party": "Indian National Congress",
+          "votes": 14809,
+          "votes_percentage": 19.0
+        },
+        {
+          "position": 3,
+          "name": "Golap Borbora",
+          "party": "Janata Dal",
+          "votes": 11966,
+          "votes_percentage": 15.3
+        },
+        {
+          "position": 4,
+          "name": "Kangsha Fangshu",
+          "party": "United Reservation Movement Council Of Assam",
+          "votes": 9154,
+          "votes_percentage": 11.7
+        },
+        {
+          "position": 5,
+          "name": "Pabindra Deka",
+          "party": "Independent",
+          "votes": 2636,
+          "votes_percentage": 3.4
+        },
+        {
+          "position": 6,
+          "name": "Hiten Sarma",
+          "party": "Bharatiya Janta Party",
+          "votes": 2361,
+          "votes_percentage": 3.0
+        },
+        {
+          "position": 7,
+          "name": "Putul Sing Teron",
+          "party": "Jharkhand Party",
+          "votes": 1944,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 8,
+          "name": "Loknath Bharali",
+          "party": "Natun Asom Gana Parishad",
+          "votes": 1520,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 9,
+          "name": "Bimal Kumar Bhuyan",
+          "party": "United Peoples Congress Of Assam",
+          "votes": 1213,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 10,
+          "name": "Chakreswar Kalita",
+          "party": "Communist Party Of India",
+          "votes": 1129,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 11,
+          "name": "Putul Bora",
+          "party": "Independent",
+          "votes": 808,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 12,
+          "name": "Khatu Ram Rabha",
+          "party": "Independent",
+          "votes": 589,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 13,
+          "name": "Kamal Nayak",
+          "party": "Asom Jatiya Parishad",
+          "votes": 555,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 14,
+          "name": "Rejendra Tumung",
+          "party": "Autonomous State Demand Committee",
+          "votes": 500,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 15,
+          "name": "Mridula Barkakati",
+          "party": "Independent",
+          "votes": 479,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 16,
+          "name": "Padma Kanta Saikia",
+          "party": "Independent",
+          "votes": 433,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 17,
+          "name": "Banmali Sarma",
+          "party": "Independent",
+          "votes": 376,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 18,
+          "name": "Indra Sarma",
+          "party": "Independent",
+          "votes": 232,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 19,
+          "name": "Hem Saikia",
+          "party": "Asom Jatiyatabadi Dal",
+          "votes": 231,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 20,
+          "name": "Arun Chandra Kalita",
+          "party": "Independent",
+          "votes": 224,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 21,
+          "name": "Dinesh Das",
+          "party": "Independent",
+          "votes": 208,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 22,
+          "name": "Lakshyadhar Barua",
+          "party": "Independent",
+          "votes": 168,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 23,
+          "name": "Ram Narayan Saikia",
+          "party": "Independent",
+          "votes": 124,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 24,
+          "name": "Subhas Das",
+          "party": "Independent",
+          "votes": 100,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 25,
+          "name": "Tarini Mohan Barua",
+          "party": "Independent",
+          "votes": 99,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1985": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 17,
+      "aggregate": {
+        "total_electors": 101728,
+        "total_votes_polled": 77066,
+        "turnout_percentage": 75.8,
+        "margin_votes": 27849,
+        "margin_percentage": 36.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Atul Bora",
+          "party": "Independent",
+          "votes": 45803,
+          "votes_percentage": 62.1
+        },
+        {
+          "position": 2,
+          "name": "Munindra Gautam",
+          "party": "Indian National Congress",
+          "votes": 17954,
+          "votes_percentage": 24.4
+        },
+        {
+          "position": 3,
+          "name": "Sabyasanchi Rabha",
+          "party": "Independent",
+          "votes": 2740,
+          "votes_percentage": 3.7
+        },
+        {
+          "position": 4,
+          "name": "Radha Ranjan Dev",
+          "party": "Independent",
+          "votes": 2390,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 5,
+          "name": "Moni Hajowari",
+          "party": "Communist Party Of India",
+          "votes": 840,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Saturam Rabha",
+          "party": "Independent",
+          "votes": 777,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 7,
+          "name": "Dhiren Lingdo",
+          "party": "Independent",
+          "votes": 614,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 8,
+          "name": "Dwijendra Bhattacharjee",
+          "party": "Indian Congress (SOCIALIST)",
+          "votes": 582,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 9,
+          "name": "Gobinda Kalita",
+          "party": "Independent",
+          "votes": 500,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 10,
+          "name": "Chandra Mohan Kakati",
+          "party": "Independent",
+          "votes": 303,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 11,
+          "name": "Ambu Bora",
+          "party": "Independent",
+          "votes": 288,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 12,
+          "name": "Ram Chandra Baishya",
+          "party": "Independent",
+          "votes": 278,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 13,
+          "name": "Nizamul Haque",
+          "party": "Independent",
+          "votes": 216,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 14,
+          "name": "Putul Sing Teron",
+          "party": "Independent",
+          "votes": 148,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 15,
+          "name": "Mono Mohan Das",
+          "party": "Independent",
+          "votes": 146,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 16,
+          "name": "Surendra Bora",
+          "party": "Independent",
+          "votes": 93,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 17,
+          "name": "Pradip Kumar Saikia",
+          "party": "Independent",
+          "votes": 49,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1983": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 58419,
+        "total_votes_polled": 6090,
+        "turnout_percentage": 10.4,
+        "margin_votes": 2273,
+        "margin_percentage": 37.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tarini Mohan Barua",
+          "party": "Indian National Congress",
+          "votes": 3564,
+          "votes_percentage": 65.4
+        },
+        {
+          "position": 2,
+          "name": "Umesh Bhattacharyya",
+          "party": "Communist Party Of India",
+          "votes": 1291,
+          "votes_percentage": 23.7
+        },
+        {
+          "position": 3,
+          "name": "Praney Mushahari",
+          "party": "Independent",
+          "votes": 358,
+          "votes_percentage": 6.6
+        },
+        {
+          "position": 4,
+          "name": "Dhiren Lyndoh",
+          "party": "Independent",
+          "votes": 240,
+          "votes_percentage": 4.4
+        }
+      ]
+    },
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 57986,
+        "total_votes_polled": 38787,
+        "turnout_percentage": 66.9,
+        "margin_votes": 4642,
+        "margin_percentage": 12.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tarini Mohan Barua",
+          "party": "Janta Party",
+          "votes": 16749,
+          "votes_percentage": 44.7
+        },
+        {
+          "position": 2,
+          "name": "Mohendra Mohan Choudhury",
+          "party": "Indian National Congress",
+          "votes": 12107,
+          "votes_percentage": 32.3
+        },
+        {
+          "position": 3,
+          "name": "Ambu Bora",
+          "party": "Independent",
+          "votes": 4769,
+          "votes_percentage": 12.7
+        },
+        {
+          "position": 4,
+          "name": "Parul Borah",
+          "party": "Indian National Congress (I)",
+          "votes": 1750,
+          "votes_percentage": 4.7
+        },
+        {
+          "position": 5,
+          "name": "Bijon Sankar Roy",
+          "party": "All India Forward Bloc",
+          "votes": 1744,
+          "votes_percentage": 4.7
+        },
+        {
+          "position": 6,
+          "name": "Tapan Ch. Das",
+          "party": "Independent",
+          "votes": 348,
+          "votes_percentage": 0.9
+        }
+      ]
+    }
+  }
+}

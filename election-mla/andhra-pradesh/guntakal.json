@@ -1,0 +1,73 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Guntakal",
+  "district": "Anantapur",
+  "ac_type": "GEN",
+  "results": {
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 217807,
+        "total_votes_polled": 139772,
+        "turnout_percentage": 64.2,
+        "total_valid_votes": 139770,
+        "total_valid_votes_percentage": 64.2,
+        "margin_votes": 9344,
+        "margin_percentage": 6.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Madhusudan",
+          "party": "Indian National Congress",
+          "votes": 61097,
+          "votes_percentage": 43.7
+        },
+        {
+          "position": 2,
+          "name": "Sainath Goud Ramagowni",
+          "party": "Telugu Desam",
+          "votes": 51753,
+          "votes_percentage": 37.0
+        },
+        {
+          "position": 3,
+          "name": "Patti Ravi",
+          "party": "Praja Rajyam Party",
+          "votes": 20417,
+          "votes_percentage": 14.6
+        },
+        {
+          "position": 4,
+          "name": "T Obilesu",
+          "party": "Bahujan Samaj Party",
+          "votes": 2740,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 5,
+          "name": "D.Hemadri",
+          "party": "Independent",
+          "votes": 1610,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 6,
+          "name": "Pasupula Hari Haranath",
+          "party": "Bharatiya Janta Party",
+          "votes": 1570,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 7,
+          "name": "G.Veeranjeneyya",
+          "party": "Bharatheeya Sadharma Samsthapana Party",
+          "votes": 583,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

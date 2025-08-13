@@ -1,0 +1,71 @@
+{
+  "state": "Jammu & Kashmir",
+  "constituency": "RAMNAGAR(SC)",
+  "district": "Udhampur",
+  "ac_type": "GEN",
+  "results": {
+    "2024": {
+      "poll_date": "08 October 2024",
+      "counting_date": "08 October 2024",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 96779,
+        "total_votes_polled": 70066,
+        "turnout_percentage": 73.6,
+        "margin_votes": 9306,
+        "margin_percentage": 13.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sunil Bhardwaj",
+          "party": "Bharatiya Janta Party",
+          "votes": 34550,
+          "votes_percentage": 48.5
+        },
+        {
+          "position": 2,
+          "name": "Ashri Devi",
+          "party": "J&k National Panthers Party (India)",
+          "votes": 25244,
+          "votes_percentage": 35.4
+        },
+        {
+          "position": 3,
+          "name": "Mool Raj",
+          "party": "Indian National Congress",
+          "votes": 7800,
+          "votes_percentage": 11.0
+        },
+        {
+          "position": 5,
+          "name": "Herjeet",
+          "party": "Bahujan Samaj Party",
+          "votes": 809,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Raj Singh",
+          "party": "Shiv Sena (Uddhav Balasaheb Thackrey)",
+          "votes": 714,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 7,
+          "name": "Sanju Kumar",
+          "party": "Jammu & Kashmir National Panthers Party (Bhim)",
+          "votes": 486,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 8,
+          "name": "Sandeep Kumar Sarmal",
+          "party": "Democratic Progressive Azad Party",
+          "votes": 463,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "state": "Sikkim",
+  "constituency": "Namthang-rateypani",
+  "district": "South",
+  "ac_type": "GEN",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 15521,
+        "total_votes_polled": 12690,
+        "turnout_percentage": 82.3,
+        "margin_votes": 1305,
+        "margin_percentage": 10.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sanjeet Kharel",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 6848,
+          "votes_percentage": 54.0
+        },
+        {
+          "position": 2,
+          "name": "Birjan Tamang",
+          "party": "Sikkim Democratic Front",
+          "votes": 5543,
+          "votes_percentage": 43.7
+        },
+        {
+          "position": 3,
+          "name": "Sancha Man Chettri",
+          "party": "Indian National Congress",
+          "votes": 128,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 4,
+          "name": "Ganga Ram Sharma",
+          "party": "Sikkim Republican Party",
+          "votes": 83,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Madan Tamang",
+          "party": "Hamro Sikkim Party",
+          "votes": 47,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Usha Gurung",
+          "party": "Jai Maha Bharath Party",
+          "votes": 41,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "12 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 13178,
+        "total_votes_polled": 11046,
+        "turnout_percentage": 83.8,
+        "total_valid_votes": 10937,
+        "total_valid_votes_percentage": 83.0,
+        "margin_votes": 1155,
+        "margin_percentage": 10.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tilu Gurung",
+          "party": "Sikkim Democratic Front",
+          "votes": 5947,
+          "votes_percentage": 54.4
+        },
+        {
+          "position": 2,
+          "name": "Prem Singh Tamang",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 4792,
+          "votes_percentage": 43.8
+        },
+        {
+          "position": 3,
+          "name": "Dik Maya Basnet",
+          "party": "Indian National Congress",
+          "votes": 107,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 4,
+          "name": "Yasodha Barakoti",
+          "party": "All India Trinamool Congress",
+          "votes": 91,
+          "votes_percentage": 0.8
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "30 April 2009",
+      "counting_date": "05 June 2009",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 11011,
+        "total_votes_polled": 9106,
+        "turnout_percentage": 82.7,
+        "total_valid_votes": 8910,
+        "total_valid_votes_percentage": 80.9,
+        "margin_votes": 3211,
+        "margin_percentage": 35.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tilu Gurung",
+          "party": "Sikkim Democratic Front",
+          "votes": 5988,
+          "votes_percentage": 65.8
+        },
+        {
+          "position": 2,
+          "name": "Suk Bdr. Tamang",
+          "party": "Indian National Congress",
+          "votes": 2777,
+          "votes_percentage": 30.5
+        },
+        {
+          "position": 3,
+          "name": "Arun Kr. Gurung",
+          "party": "Sikkim Gorkha Prajatantric Party",
+          "votes": 132,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 4,
+          "name": "Manoj Uprety",
+          "party": "Independent",
+          "votes": 101,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Abir Singh Subba",
+          "party": "Independent",
+          "votes": 60,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Sanjukta Rai",
+          "party": "Sikkim Jan-Ekta Party",
+          "votes": 48,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

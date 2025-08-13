@@ -1,0 +1,57 @@
+{
+  "state": "West Bengal",
+  "constituency": "BALAGARH (SC)",
+  "district": "Hugli",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 236498,
+        "total_votes_polled": 199808,
+        "turnout_percentage": 86.1,
+        "margin_votes": 17837,
+        "margin_percentage": 8.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ashim Kumar Majhi",
+          "party": "All India Trinamool Congress",
+          "votes": 96472,
+          "votes_percentage": 48.3
+        },
+        {
+          "position": 2,
+          "name": "Panchu Gopal Mondal",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 78635,
+          "votes_percentage": 39.4
+        },
+        {
+          "position": 3,
+          "name": "Subash Chandra Halder",
+          "party": "Bharatiya Janta Party",
+          "votes": 20757,
+          "votes_percentage": 10.4
+        },
+        {
+          "position": 4,
+          "name": "Subrata Mondal",
+          "party": "Party For Democratic Socialism",
+          "votes": 2226,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Gautam Mondal",
+          "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+          "votes": 1718,
+          "votes_percentage": 0.9
+        }
+      ]
+    }
+  }
+}

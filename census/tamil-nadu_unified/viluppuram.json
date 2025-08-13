@@ -1,0 +1,103 @@
+{
+    "district": "Viluppuram",
+    "state": "Tamil Nadu",
+    "source_census2011": "https://www.census2011.co.in/census/district/27-viluppuram.html",
+    "population": {
+        "total": 3458873,
+        "male": 1740819,
+        "female": 1718054,
+        "sex_ratio": 987
+    },
+    "child_population": {
+        "total": 404106,
+        "male": 208246,
+        "female": 195860,
+        "sex_ratio": 941,
+        "percentage_of_total_population": 11.68,
+        "percentage_of_total_population_calculated": 11.68,
+        "percentage_of_total_population_stated": 11.68
+    },
+    "literacy": {
+        "rate_percentage": 71.88,
+        "male_literacy_rate": 80.55,
+        "female_literacy_rate": 63.15,
+        "total_literate": 2195776,
+        "male_literate": 0,
+        "female_literate": 0
+    },
+    "religion": {
+        "Hindu": {
+            "population": 3174941,
+            "percentage": 91.79
+        },
+        "Muslims": {
+            "population": 133896,
+            "percentage": 3.87
+        },
+        "Christian": {
+            "population": 138279,
+            "percentage": 4.0
+        },
+        "Sikh": {
+            "population": 325,
+            "percentage": 0.01
+        },
+        "Buddhist": {
+            "population": 238,
+            "percentage": 0.01
+        },
+        "Jain": {
+            "population": 4032,
+            "percentage": 0.12
+        },
+        "Others": {
+            "population": 278,
+            "percentage": 0.01
+        },
+        "Not Stated": {
+            "population": 6884,
+            "percentage": 0.2
+        }
+    },
+    "rural": {
+        "population": 2939785,
+        "male": 1481475,
+        "female": 1458310,
+        "sex_ratio": 984,
+        "percentage_population": 84.99,
+        "child_population_total": 347396,
+        "child_population_male": 179154,
+        "child_population_female": 168242,
+        "child_sex_ratio": 939,
+        "child_population_percentage": 11.82,
+        "child_population_percentage_calculated": 11.82,
+        "child_population_percentage_stated": 11.82,
+        "literacy_rate_percentage": 69.59,
+        "literacy_rate_male": 78.75,
+        "literacy_rate_female": 60.33,
+        "literate_total": 1803943,
+        "literate_male": 0,
+        "literate_female": 0
+    },
+    "urban": {
+        "population": 519088,
+        "male": 259344,
+        "female": 259744,
+        "sex_ratio": 1002,
+        "percentage_population": 15.01,
+        "child_population_total": 56710,
+        "child_population_male": 29092,
+        "child_population_female": 27618,
+        "child_sex_ratio": 949,
+        "child_population_percentage": 10.92,
+        "child_population_percentage_calculated": 10.92,
+        "child_population_percentage_stated": 10.92,
+        "literacy_rate_percentage": 84.74,
+        "literacy_rate_male": 90.71,
+        "literacy_rate_female": 78.82,
+        "literate_total": 391833,
+        "literate_male": 0,
+        "literate_female": 0
+    },
+    "sc_st_skipped_auto_find_failed": true
+}

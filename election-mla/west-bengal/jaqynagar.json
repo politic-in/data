@@ -1,0 +1,64 @@
+{
+  "state": "West Bengal",
+  "constituency": "Jaqynagar",
+  "district": "South  Twenty Four Parganas",
+  "ac_type": "SC",
+  "results": {
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 174871,
+        "total_votes_polled": 144940,
+        "turnout_percentage": 82.9,
+        "margin_votes": 26590,
+        "margin_percentage": 18.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tarun Kanti Naskar",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 71566,
+          "votes_percentage": 49.4
+        },
+        {
+          "position": 2,
+          "name": "Shyamali Halder",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 44976,
+          "votes_percentage": 31.0
+        },
+        {
+          "position": 3,
+          "name": "Manoranjan Halder",
+          "party": "Indian National Congress",
+          "votes": 13829,
+          "votes_percentage": 9.5
+        },
+        {
+          "position": 4,
+          "name": "Utpal Kumar Mondal",
+          "party": "Bharatiya Janta Party",
+          "votes": 9694,
+          "votes_percentage": 6.7
+        },
+        {
+          "position": 5,
+          "name": "Sanjoy Kumar Roy",
+          "party": "People's Democratic Conference Of India",
+          "votes": 2985,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 6,
+          "name": "Sanatan Halder",
+          "party": "Independent",
+          "votes": 1890,
+          "votes_percentage": 1.3
+        }
+      ]
+    }
+  }
+}

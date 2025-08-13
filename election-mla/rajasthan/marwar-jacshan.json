@@ -1,0 +1,106 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Marwar jacshan",
+  "district": "Pali",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 12,
+      "aggregate": {
+        "total_electors": 267265,
+        "total_votes_polled": 161804,
+        "turnout_percentage": 61.6,
+        "margin_votes": 251,
+        "margin_percentage": 0.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Khushveer Singh",
+          "party": "Independent",
+          "votes": 58921,
+          "votes_percentage": 36.4
+        },
+        {
+          "position": 2,
+          "name": "Kesaram Choudhary",
+          "party": "Bharatiya Janta Party",
+          "votes": 58670,
+          "votes_percentage": 36.3
+        },
+        {
+          "position": 3,
+          "name": "Jasaram Rathore",
+          "party": "Indian National Congress",
+          "votes": 21037,
+          "votes_percentage": 13.0
+        },
+        {
+          "position": 4,
+          "name": "Dr. Ramhari Meena",
+          "party": "Bahujan Samaj Party",
+          "votes": 10242,
+          "votes_percentage": 6.3
+        },
+        {
+          "position": 5,
+          "name": "Laxminarayan Dave",
+          "party": "Independent",
+          "votes": 7946,
+          "votes_percentage": 4.9
+        },
+        {
+          "position": 6,
+          "name": "Amarsingh",
+          "party": "Shiv Sena",
+          "votes": 1103,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Gavari",
+          "party": "Independent",
+          "votes": 984,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "Dungaram",
+          "party": "Independent",
+          "votes": 881,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 9,
+          "name": "Kesa Ram",
+          "party": "Independent",
+          "votes": 853,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 10,
+          "name": "Ganpat Singh Rajpurohit",
+          "party": "Aarakshan Virodhi Party",
+          "votes": 424,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 11,
+          "name": "Devaram",
+          "party": "Abhinav Rajasthan Party",
+          "votes": 389,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Deepak Jain",
+          "party": "Aam Aadmi Party",
+          "votes": 354,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

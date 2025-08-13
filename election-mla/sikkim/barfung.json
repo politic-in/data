@@ -1,0 +1,117 @@
+{
+  "state": "Sikkim",
+  "constituency": "Barfung",
+  "district": "South",
+  "ac_type": "BL",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 15021,
+        "total_votes_polled": 11944,
+        "turnout_percentage": 80.4,
+        "margin_votes": 97,
+        "margin_percentage": 0.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tashi Thendup Bhutia",
+          "party": "Sikkim Democratic Front",
+          "votes": 5936,
+          "votes_percentage": 49.7
+        },
+        {
+          "position": 2,
+          "name": "Lobzang Bhutia",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 5839,
+          "votes_percentage": 48.9
+        },
+        {
+          "position": 3,
+          "name": "Mingma Tshring Sherpa",
+          "party": "Sikkim Republican Party",
+          "votes": 169,
+          "votes_percentage": 1.4
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "12 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 12270,
+        "total_votes_polled": 10408,
+        "turnout_percentage": 84.8,
+        "total_valid_votes": 10211,
+        "total_valid_votes_percentage": 83.2,
+        "margin_votes": 3179,
+        "margin_percentage": 30.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dorjee Dazom Bhutia",
+          "party": "Sikkim Democratic Front",
+          "votes": 6639,
+          "votes_percentage": 65.0
+        },
+        {
+          "position": 2,
+          "name": "Pema Wangyal Bhutia",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 3460,
+          "votes_percentage": 33.9
+        },
+        {
+          "position": 3,
+          "name": "Dadul Lepcha",
+          "party": "Indian National Congress",
+          "votes": 112,
+          "votes_percentage": 1.1
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "30 April 2009",
+      "counting_date": "05 June 2009",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 10023,
+        "total_votes_polled": 8598,
+        "turnout_percentage": 85.8,
+        "total_valid_votes": 8416,
+        "total_valid_votes_percentage": 84.0,
+        "margin_votes": 3852,
+        "margin_percentage": 44.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sonam Gyatso Bhutia",
+          "party": "Sikkim Democratic Front",
+          "votes": 6049,
+          "votes_percentage": 70.4
+        },
+        {
+          "position": 2,
+          "name": "Lobzang Bhutia",
+          "party": "Indian National Congress",
+          "votes": 2197,
+          "votes_percentage": 25.6
+        },
+        {
+          "position": 3,
+          "name": "Sonam Pintso Bhutia",
+          "party": "Independent",
+          "votes": 352,
+          "votes_percentage": 4.1
+        }
+      ]
+    }
+  }
+}

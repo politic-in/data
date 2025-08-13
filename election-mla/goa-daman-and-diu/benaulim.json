@@ -1,0 +1,71 @@
+{
+  "state": "Goa, Daman And Diu",
+  "constituency": "Benaulim",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 18049,
+        "total_votes_polled": 10977,
+        "turnout_percentage": 60.8,
+        "margin_votes": 6084,
+        "margin_percentage": 55.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Cruz Francisco Monte P. D.",
+          "party": "Indian National Congress (U)",
+          "votes": 7936,
+          "votes_percentage": 74.2
+        },
+        {
+          "position": 2,
+          "name": "Cardozo Raul Joaquim",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 1852,
+          "votes_percentage": 17.3
+        },
+        {
+          "position": 3,
+          "name": "Silva Eugenio Silvano",
+          "party": "Independent",
+          "votes": 277,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 4,
+          "name": "Barreto Joao Jeronio",
+          "party": "Janta Party",
+          "votes": 220,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 5,
+          "name": "Cota Jose Lourance Joaquim",
+          "party": "Independent",
+          "votes": 197,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 6,
+          "name": "Braganza Edward Francisco",
+          "party": "Janta Party (SECULAR)",
+          "votes": 188,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 7,
+          "name": "Rodrigues Felix Valois",
+          "party": "Independent",
+          "votes": 26,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

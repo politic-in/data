@@ -1,0 +1,50 @@
+{
+  "state": "Assam",
+  "constituency": "Haflong (ST)",
+  "district": "Dima Hasao",
+  "ac_type": "ST",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 126130,
+        "total_votes_polled": 101384,
+        "turnout_percentage": 81.3,
+        "margin_votes": 8306,
+        "margin_percentage": 8.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bir Bhadra Hagjer",
+          "party": "Bharatiya Janta Party",
+          "votes": 52037,
+          "votes_percentage": 51.3
+        },
+        {
+          "position": 2,
+          "name": "Nirmal Langthasa",
+          "party": "Indian National Congress",
+          "votes": 43731,
+          "votes_percentage": 43.1
+        },
+        {
+          "position": 3,
+          "name": "Mayasing Daulagupu",
+          "party": "Independent",
+          "votes": 2893,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 4,
+          "name": "Neikhol Haolai Changsan",
+          "party": "All India United Democratic Front",
+          "votes": 2723,
+          "votes_percentage": 2.7
+        }
+      ]
+    }
+  }
+}

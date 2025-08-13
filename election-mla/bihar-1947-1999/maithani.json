@@ -1,0 +1,71 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "Maithani",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 105246,
+        "total_votes_polled": 54121,
+        "turnout_percentage": 51.4,
+        "margin_votes": 1587,
+        "margin_percentage": 2.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sitaram Mishra",
+          "party": "Communist Party Of India",
+          "votes": 17601,
+          "votes_percentage": 33.3
+        },
+        {
+          "position": 2,
+          "name": "Mithlesh Kumar Singh",
+          "party": "Janta Party",
+          "votes": 16014,
+          "votes_percentage": 30.3
+        },
+        {
+          "position": 3,
+          "name": "Geeta Singh",
+          "party": "Indian National Congress",
+          "votes": 14316,
+          "votes_percentage": 27.1
+        },
+        {
+          "position": 4,
+          "name": "Kapildeo Rai",
+          "party": "Independent",
+          "votes": 2769,
+          "votes_percentage": 5.2
+        },
+        {
+          "position": 5,
+          "name": "Shivjee Kunwar",
+          "party": "Independent",
+          "votes": 1064,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 6,
+          "name": "Fulena Singh",
+          "party": "Independent",
+          "votes": 617,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 7,
+          "name": "Chahdra Choor Singh",
+          "party": "Independent",
+          "votes": 443,
+          "votes_percentage": 0.8
+        }
+      ]
+    }
+  }
+}

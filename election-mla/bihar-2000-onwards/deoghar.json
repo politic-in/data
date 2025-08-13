@@ -1,0 +1,85 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "Deoghar",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 223904,
+        "total_votes_polled": 118915,
+        "turnout_percentage": 53.1,
+        "margin_votes": 20818,
+        "margin_percentage": 17.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Suresh Paswan",
+          "party": "Rashtriya Janata Dal",
+          "votes": 48216,
+          "votes_percentage": 41.1
+        },
+        {
+          "position": 2,
+          "name": "Shankar Paswan",
+          "party": "Janata Dal (United)",
+          "votes": 27398,
+          "votes_percentage": 23.3
+        },
+        {
+          "position": 3,
+          "name": "Kameshwar Nath Das",
+          "party": "Indian National Congress",
+          "votes": 26362,
+          "votes_percentage": 22.5
+        },
+        {
+          "position": 4,
+          "name": "Raghunath Das",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 7757,
+          "votes_percentage": 6.6
+        },
+        {
+          "position": 5,
+          "name": "Ramdeo Prasad Das",
+          "party": "Bahujan Samaj Party",
+          "votes": 3165,
+          "votes_percentage": 2.7
+        },
+        {
+          "position": 6,
+          "name": "Dharmraj Kumar",
+          "party": "Independent",
+          "votes": 2489,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 7,
+          "name": "Sanjay Kumar",
+          "party": "Nationalist Congress Party",
+          "votes": 1228,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 8,
+          "name": "Kedan Nath Das",
+          "party": "Independent",
+          "votes": 428,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Ravi Kant Das",
+          "party": "National Democratic Peoples Front",
+          "votes": 362,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

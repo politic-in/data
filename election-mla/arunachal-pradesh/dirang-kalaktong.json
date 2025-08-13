@@ -1,0 +1,43 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Dirang- Kalaktong",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1984": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 10284,
+        "total_votes_polled": 8396,
+        "turnout_percentage": 81.6,
+        "margin_votes": 481,
+        "margin_percentage": 5.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "R.K. Khrimey",
+          "party": "Independent",
+          "votes": 3925,
+          "votes_percentage": 49.1
+        },
+        {
+          "position": 2,
+          "name": "Nima Tsering Khrime",
+          "party": "Indian National Congress",
+          "votes": 3444,
+          "votes_percentage": 43.0
+        },
+        {
+          "position": 3,
+          "name": "Dorjee Tsering",
+          "party": "Independent",
+          "votes": 633,
+          "votes_percentage": 7.9
+        }
+      ]
+    }
+  }
+}

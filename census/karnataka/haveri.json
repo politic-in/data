@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 94949,
+        "male": 100368,
+        "percentage_of_total_population": 12.23,
+        "percentage_of_total_population_calculated": 12.23,
+        "percentage_of_total_population_stated": 12.23,
+        "sex_ratio": 946,
+        "total": 195317
+    },
+    "literacy": {
+        "female_literacy_rate": 70.46,
+        "female_literate": 481650,
+        "male_literacy_rate": 84.0,
+        "male_literate": 603793,
+        "rate_percentage": 77.4,
+        "total_literate": 1085443
+    },
+    "population": {
+        "female": 778540,
+        "male": 819128,
+        "sex_ratio": 950,
+        "total": 1597668
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.0,
+            "population": 68
+        },
+        "Christian": {
+            "percentage": 0.15,
+            "population": 2406
+        },
+        "Hindu": {
+            "percentage": 80.23,
+            "population": 1281878
+        },
+        "Jain": {
+            "percentage": 0.62,
+            "population": 9834
+        },
+        "Muslims": {
+            "percentage": 18.65,
+            "population": 297927
+        },
+        "Not Stated": {
+            "percentage": 0.28,
+            "population": 4434
+        },
+        "Others": {
+            "percentage": 0.04,
+            "population": 702
+        },
+        "Sikh": {
+            "percentage": 0.03,
+            "population": 419
+        }
+    },
+    "rural": {
+        "child_population_female": 74185,
+        "child_population_male": 77825,
+        "child_population_percentage": 12.24,
+        "child_population_percentage_calculated": 12.24,
+        "child_population_percentage_stated": 12.24,
+        "child_population_total": 152010,
+        "child_sex_ratio": 953,
+        "female": 603717,
+        "literacy_rate_female": 67.89,
+        "literacy_rate_male": 83.05,
+        "literacy_rate_percentage": 75.69,
+        "literate_female": 359498,
+        "literate_male": 465603,
+        "literate_total": 825101,
+        "male": 638450,
+        "percentage_population": 77.75,
+        "population": 1242167,
+        "sex_ratio": 946
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/258-haveri.html",
+    "urban": {
+        "child_population_female": 20763,
+        "child_population_male": 22544,
+        "child_population_percentage": 12.18,
+        "child_population_percentage_calculated": 12.18,
+        "child_population_percentage_stated": 12.18,
+        "child_population_total": 43307,
+        "child_sex_ratio": 921,
+        "female": 174823,
+        "literacy_rate_female": 79.29,
+        "literacy_rate_male": 87.39,
+        "literacy_rate_percentage": 83.39,
+        "literate_female": 122152,
+        "literate_male": 138190,
+        "literate_total": 260342,
+        "male": 180678,
+        "percentage_population": 22.25,
+        "population": 355501,
+        "sex_ratio": 968
+    }
+}

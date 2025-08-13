@@ -1,0 +1,36 @@
+{
+  "state": "Maharashtra",
+  "constituency": "Kasumba",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 110676,
+        "total_votes_polled": 75612,
+        "turnout_percentage": 68.3,
+        "margin_votes": 1866,
+        "margin_percentage": 2.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Patil Rohidas Chudaman",
+          "party": "Indian National Congress (I)",
+          "votes": 37550,
+          "votes_percentage": 51.3
+        },
+        {
+          "position": 2,
+          "name": "Bhamare Ramrao Sitaram",
+          "party": "Indian National Congress (U)",
+          "votes": 35684,
+          "votes_percentage": 48.7
+        }
+      ]
+    }
+  }
+}

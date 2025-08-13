@@ -1,0 +1,120 @@
+{
+  "state": "Haryana",
+  "constituency": "JHAJJAR",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 551818,
+        "total_votes_polled": 370363,
+        "turnout_percentage": 67.1,
+        "margin_votes": 46615,
+        "margin_percentage": 12.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sher Singh",
+          "party": "Indian National Congress",
+          "votes": 189860,
+          "votes_percentage": 51.3
+        },
+        {
+          "position": 2,
+          "name": "Rizaq Ram",
+          "party": "Indian National Congress (ORGANISATION)",
+          "votes": 143245,
+          "votes_percentage": 38.7
+        },
+        {
+          "position": 3,
+          "name": "Jai Ram",
+          "party": "Socialist Unity Centre Of India",
+          "votes": 15985,
+          "votes_percentage": 4.3
+        },
+        {
+          "position": 4,
+          "name": "Ram Saroop",
+          "party": "Republican Party Of India (KHOBRAGADE)",
+          "votes": 13564,
+          "votes_percentage": 3.7
+        }
+      ]
+    },
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 501785,
+        "total_votes_polled": 367852,
+        "turnout_percentage": 73.3,
+        "margin_votes": 142091,
+        "margin_percentage": 38.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "S. Singh",
+          "party": "Indian National Congress",
+          "votes": 209492,
+          "votes_percentage": 57.0
+        },
+        {
+          "position": 2,
+          "name": "M. Parshad",
+          "party": "Independent",
+          "votes": 67401,
+          "votes_percentage": 18.3
+        },
+        {
+          "position": 3,
+          "name": "R. Pat",
+          "party": "Communist Party Of India",
+          "votes": 27467,
+          "votes_percentage": 7.5
+        },
+        {
+          "position": 4,
+          "name": "L. Narain",
+          "party": "Bhartiya Jan Sangh",
+          "votes": 17206,
+          "votes_percentage": 4.7
+        },
+        {
+          "position": 5,
+          "name": "D. Singh",
+          "party": "Independent",
+          "votes": 11806,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 6,
+          "name": "M. Chand",
+          "party": "Samyukta Socialist Party",
+          "votes": 9038,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 7,
+          "name": "M. Ram",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 8899,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 8,
+          "name": "B. Singh",
+          "party": "Independent",
+          "votes": 4978,
+          "votes_percentage": 1.4
+        }
+      ]
+    }
+  }
+}

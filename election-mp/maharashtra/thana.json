@@ -1,0 +1,50 @@
+{
+  "state": "Maharashtra",
+  "constituency": "THANA",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 442152,
+        "total_votes_polled": 283129,
+        "turnout_percentage": 64.0,
+        "margin_votes": 71643,
+        "margin_percentage": 25.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sonubhau Dagadu Baswant",
+          "party": "Indian National Congress",
+          "votes": 132920,
+          "votes_percentage": 46.9
+        },
+        {
+          "position": 2,
+          "name": "Shamrao Vishnu Parulekar",
+          "party": "Communist Party Of India",
+          "votes": 61277,
+          "votes_percentage": 21.6
+        },
+        {
+          "position": 3,
+          "name": "Vasudeo Narayan Bedekar",
+          "party": "Praja Socialist Party",
+          "votes": 43355,
+          "votes_percentage": 15.3
+        },
+        {
+          "position": 4,
+          "name": "Gajanan Motiram Koli",
+          "party": "Jan Sangh",
+          "votes": 33573,
+          "votes_percentage": 11.9
+        }
+      ]
+    }
+  }
+}

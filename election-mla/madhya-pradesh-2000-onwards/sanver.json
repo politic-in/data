@@ -1,0 +1,85 @@
+{
+  "state": "Madhya Pradesh [2000 Onwards]",
+  "constituency": "Sanver",
+  "district": "Indore",
+  "ac_type": "SC",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 238650,
+        "total_votes_polled": 196955,
+        "turnout_percentage": 83.6,
+        "margin_votes": 2945,
+        "margin_percentage": 1.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tulsiram Silawat",
+          "party": "Indian National Congress",
+          "votes": 96535,
+          "votes_percentage": 49.0
+        },
+        {
+          "position": 2,
+          "name": "Dr.Rajesh Sonkar",
+          "party": "Bharatiya Janta Party",
+          "votes": 93590,
+          "votes_percentage": 47.5
+        },
+        {
+          "position": 3,
+          "name": "Kamal Chouhan",
+          "party": "Bahujan Samaj Party",
+          "votes": 2844,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 4,
+          "name": "Anil Chouhan",
+          "party": "Bahujan Sangharshh Dal",
+          "votes": 996,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "Rahul Khare",
+          "party": "Sampoorna Samaj Party",
+          "votes": 785,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Rahul Silawat",
+          "party": "Independent",
+          "votes": 690,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Narendra Bourasi",
+          "party": "Independent",
+          "votes": 555,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Bramhanand Malviya",
+          "party": "Aam Aadmi Party",
+          "votes": 538,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Subhash Chouhan",
+          "party": "Prajatantrik Samadhan Party",
+          "votes": 422,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

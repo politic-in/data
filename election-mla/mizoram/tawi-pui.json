@@ -1,0 +1,71 @@
+{
+  "state": "Mizoram",
+  "constituency": "Tawi Pui",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 6169,
+        "total_votes_polled": 4204,
+        "turnout_percentage": 68.2,
+        "margin_votes": 627,
+        "margin_percentage": 14.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "H. Kiautuma",
+          "party": "Peoples Conference",
+          "votes": 1316,
+          "votes_percentage": 31.8
+        },
+        {
+          "position": 2,
+          "name": "Sanghlira Colbert",
+          "party": "Independent",
+          "votes": 689,
+          "votes_percentage": 16.6
+        },
+        {
+          "position": 3,
+          "name": "P. Siamliana",
+          "party": "Independent",
+          "votes": 637,
+          "votes_percentage": 15.4
+        },
+        {
+          "position": 4,
+          "name": "K, Thanfianga",
+          "party": "Independent",
+          "votes": 542,
+          "votes_percentage": 13.1
+        },
+        {
+          "position": 5,
+          "name": "Satilawma",
+          "party": "Independent",
+          "votes": 453,
+          "votes_percentage": 10.9
+        },
+        {
+          "position": 6,
+          "name": "F. Lalchhawna",
+          "party": "Independent",
+          "votes": 432,
+          "votes_percentage": 10.4
+        },
+        {
+          "position": 7,
+          "name": "B. Sangchema",
+          "party": "Independent",
+          "votes": 71,
+          "votes_percentage": 1.7
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "state": "Tripura",
+  "constituency": "Karbook (ST)",
+  "district": "South Tripura",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 34699,
+        "total_votes_polled": 31514,
+        "turnout_percentage": 92.1,
+        "margin_votes": 797,
+        "margin_percentage": 2.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Burba Mohan Tripura",
+          "party": "Bharatiya Janta Party",
+          "votes": 15622,
+          "votes_percentage": 49.6
+        },
+        {
+          "position": 2,
+          "name": "Priyamani Debbarma",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 14825,
+          "votes_percentage": 47.0
+        },
+        {
+          "position": 3,
+          "name": "Ram Bahadur Reang",
+          "party": "Indian National Congress",
+          "votes": 461,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Janak Mani Tripura",
+          "party": "Indigenous Nationalist Party Of Twipra",
+          "votes": 216,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Harish Reang",
+          "party": "Tripura Peoples Party",
+          "votes": 213,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Subal Debbarma",
+          "party": "North East India Development Party",
+          "votes": 177,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

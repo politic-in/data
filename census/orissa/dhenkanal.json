@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 64991,
+        "male": 74105,
+        "percentage_of_total_population": 11.66,
+        "percentage_of_total_population_calculated": 11.66,
+        "percentage_of_total_population_stated": 11.66,
+        "sex_ratio": 877,
+        "total": 139096
+    },
+    "literacy": {
+        "female_literacy_rate": 71.0,
+        "female_literate": 365817,
+        "male_literacy_rate": 86.18,
+        "male_literate": 464093,
+        "rate_percentage": 78.76,
+        "total_literate": 829910
+    },
+    "population": {
+        "female": 580218,
+        "male": 612593,
+        "sex_ratio": 947,
+        "total": 1192811
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.03,
+            "population": 366
+        },
+        "Christian": {
+            "percentage": 0.06,
+            "population": 727
+        },
+        "Hindu": {
+            "percentage": 99.39,
+            "population": 1185542
+        },
+        "Jain": {
+            "percentage": 0.0,
+            "population": 39
+        },
+        "Muslims": {
+            "percentage": 0.4,
+            "population": 4805
+        },
+        "Not Stated": {
+            "percentage": 0.09,
+            "population": 1069
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 139
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 124
+        }
+    },
+    "rural": {
+        "child_population_female": 59487,
+        "child_population_male": 67847,
+        "child_population_percentage": 11.84,
+        "child_population_percentage_calculated": 11.84,
+        "child_population_percentage_stated": 11.84,
+        "child_population_total": 127334,
+        "child_sex_ratio": 877,
+        "female": 523979,
+        "literacy_rate_female": 69.49,
+        "literacy_rate_male": 85.37,
+        "literacy_rate_percentage": 77.59,
+        "literate_female": 322756,
+        "literate_male": 412767,
+        "literate_total": 735523,
+        "male": 551326,
+        "percentage_population": 90.15,
+        "population": 1075305,
+        "sex_ratio": 950
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/407-dhenkanal.html",
+    "urban": {
+        "child_population_female": 5516,
+        "child_population_male": 6246,
+        "child_population_percentage": 10.01,
+        "child_population_percentage_calculated": 10.01,
+        "child_population_percentage_stated": 10.01,
+        "child_population_total": 11762,
+        "child_sex_ratio": 883,
+        "female": 56239,
+        "literacy_rate_female": 84.89,
+        "literacy_rate_male": 93.28,
+        "literacy_rate_percentage": 89.26,
+        "literate_female": 43061,
+        "literate_male": 51326,
+        "literate_total": 94387,
+        "male": 61267,
+        "percentage_population": 9.85,
+        "population": 117506,
+        "sex_ratio": 918
+    }
+}

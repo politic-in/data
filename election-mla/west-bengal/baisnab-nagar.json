@@ -1,0 +1,71 @@
+{
+  "state": "West Bengal",
+  "constituency": "Baisnab Nagar",
+  "district": "Maldah",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 231377,
+        "total_votes_polled": 206947,
+        "turnout_percentage": 90.2,
+        "margin_votes": 2471,
+        "margin_percentage": 1.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chandana Sarkar",
+          "party": "All India Trinamool Congress",
+          "votes": 83061,
+          "votes_percentage": 40.1
+        },
+        {
+          "position": 2,
+          "name": "Swadhin Kumar Sarkar",
+          "party": "Bharatiya Janta Party",
+          "votes": 80590,
+          "votes_percentage": 38.9
+        },
+        {
+          "position": 3,
+          "name": "Azizul Hoque",
+          "party": "Indian National Congress",
+          "votes": 37443,
+          "votes_percentage": 18.1
+        },
+        {
+          "position": 4,
+          "name": "Nikhil Chandra Mandal",
+          "party": "Bahujan Samaj Party",
+          "votes": 2282,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Harendranath Sarkar",
+          "party": "Independent",
+          "votes": 1346,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Kurban Ansari",
+          "party": "Independent",
+          "votes": 1247,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Samir Ghosh",
+          "party": "Independent",
+          "votes": 978,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

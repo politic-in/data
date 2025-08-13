@@ -1,0 +1,57 @@
+{
+  "state": "Mizoram",
+  "constituency": "EASTTUIPUI",
+  "district": "Champhai",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 14703,
+        "total_votes_polled": 11725,
+        "turnout_percentage": 79.9,
+        "margin_votes": 587,
+        "margin_percentage": 5.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ramthanmawia",
+          "party": "Mizo National Front",
+          "votes": 4384,
+          "votes_percentage": 37.4
+        },
+        {
+          "position": 2,
+          "name": "C.Laltanpuia",
+          "party": "Independent",
+          "votes": 3797,
+          "votes_percentage": 32.4
+        },
+        {
+          "position": 3,
+          "name": "T.Sangkunga",
+          "party": "Indian National Congress",
+          "votes": 3421,
+          "votes_percentage": 29.2
+        },
+        {
+          "position": 4,
+          "name": "Dr.Vl.Zahawma Chawngthu",
+          "party": "Bharatiya Janta Party",
+          "votes": 100,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Simeona",
+          "party": "Independent",
+          "votes": 23,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

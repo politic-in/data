@@ -1,0 +1,50 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "MAHUA",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 447690,
+        "total_votes_polled": 221987,
+        "turnout_percentage": 49.6,
+        "margin_votes": 9962,
+        "margin_percentage": 4.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chandramani Lal Choudhary",
+          "party": "Indian National Congress",
+          "votes": 85825,
+          "votes_percentage": 38.7
+        },
+        {
+          "position": 2,
+          "name": "Satyadeo",
+          "party": "Praja Socialist Party",
+          "votes": 75863,
+          "votes_percentage": 34.2
+        },
+        {
+          "position": 3,
+          "name": "Bachhulal Azad",
+          "party": "Swatantra",
+          "votes": 34338,
+          "votes_percentage": 15.5
+        },
+        {
+          "position": 4,
+          "name": "Sitaram Rajak",
+          "party": "Socialist",
+          "votes": 17047,
+          "votes_percentage": 7.7
+        }
+      ]
+    }
+  }
+}

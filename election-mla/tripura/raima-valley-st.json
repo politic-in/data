@@ -1,0 +1,64 @@
+{
+  "state": "Tripura",
+  "constituency": "Raima Valley (ST)",
+  "district": "Dhalai",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 43415,
+        "total_votes_polled": 38932,
+        "turnout_percentage": 91.0,
+        "margin_votes": 1922,
+        "margin_percentage": 4.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dhananjoy Tripura",
+          "party": "Indigenous People's Front Of Tripura",
+          "votes": 18673,
+          "votes_percentage": 48.0
+        },
+        {
+          "position": 2,
+          "name": "Lalit Mohan Tripura",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 16751,
+          "votes_percentage": 43.0
+        },
+        {
+          "position": 3,
+          "name": "Shib Chandra Debbarma",
+          "party": "Indigenous Nationalist Party Of Twipra",
+          "votes": 1815,
+          "votes_percentage": 4.7
+        },
+        {
+          "position": 4,
+          "name": "Khagendra Reang",
+          "party": "Tripura Peoples Party",
+          "votes": 840,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 6,
+          "name": "Bakul Bikash Chakma",
+          "party": "Indian National Congress",
+          "votes": 476,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 7,
+          "name": "Nakendra Chakma",
+          "party": "Tipraland State Party",
+          "votes": 377,
+          "votes_percentage": 1.0
+        }
+      ]
+    }
+  }
+}

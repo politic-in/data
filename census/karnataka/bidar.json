@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 108869,
+        "male": 115573,
+        "percentage_of_total_population": 13.18,
+        "percentage_of_total_population_calculated": 13.18,
+        "percentage_of_total_population_stated": 13.18,
+        "sex_ratio": 942,
+        "total": 224442
+    },
+    "literacy": {
+        "female_literacy_rate": 61.55,
+        "female_literate": 445475,
+        "male_literacy_rate": 79.09,
+        "male_literate": 597198,
+        "rate_percentage": 70.51,
+        "total_literate": 1042673
+    },
+    "population": {
+        "female": 832635,
+        "male": 870665,
+        "sex_ratio": 956,
+        "total": 1703300
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 1.79,
+            "population": 30453
+        },
+        "Christian": {
+            "percentage": 2.08,
+            "population": 35438
+        },
+        "Hindu": {
+            "percentage": 75.72,
+            "population": 1289709
+        },
+        "Jain": {
+            "percentage": 0.04,
+            "population": 680
+        },
+        "Muslims": {
+            "percentage": 19.68,
+            "population": 335184
+        },
+        "Not Stated": {
+            "percentage": 0.6,
+            "population": 10170
+        },
+        "Others": {
+            "percentage": 0.03,
+            "population": 521
+        },
+        "Sikh": {
+            "percentage": 0.07,
+            "population": 1145
+        }
+    },
+    "rural": {
+        "child_population_female": 82181,
+        "child_population_male": 86615,
+        "child_population_percentage": 13.21,
+        "child_population_percentage_calculated": 13.21,
+        "child_population_percentage_stated": 13.21,
+        "child_population_total": 168796,
+        "child_sex_ratio": 949,
+        "female": 626098,
+        "literacy_rate_female": 56.82,
+        "literacy_rate_male": 76.28,
+        "literacy_rate_percentage": 66.73,
+        "literate_female": 309030,
+        "literate_male": 430681,
+        "literate_total": 739711,
+        "male": 651250,
+        "percentage_population": 74.99,
+        "population": 1277348,
+        "sex_ratio": 961
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/246-bidar.html",
+    "urban": {
+        "child_population_female": 26711,
+        "child_population_male": 28935,
+        "child_population_percentage": 13.06,
+        "child_population_percentage_calculated": 13.06,
+        "child_population_percentage_stated": 13.06,
+        "child_population_total": 55646,
+        "child_sex_ratio": 923,
+        "female": 206537,
+        "literacy_rate_female": 75.88,
+        "literacy_rate_male": 87.42,
+        "literacy_rate_percentage": 81.81,
+        "literate_female": 136445,
+        "literate_male": 166517,
+        "literate_total": 302962,
+        "male": 219415,
+        "percentage_population": 25.01,
+        "population": 425952,
+        "sex_ratio": 941
+    }
+}

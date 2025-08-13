@@ -1,0 +1,71 @@
+{
+  "state": "Karnataka",
+  "constituency": "Heggadadevanko",
+  "district": "Mysore",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "12 May 2018",
+      "counting_date": "11 June 2018",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 209502,
+        "total_votes_polled": 169457,
+        "turnout_percentage": 81.7,
+        "margin_votes": 22093,
+        "margin_percentage": 13.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Anil Kumar C",
+          "party": "Indian National Congress",
+          "votes": 76652,
+          "votes_percentage": 45.2
+        },
+        {
+          "position": 2,
+          "name": "Chikkanna",
+          "party": "Janata Dal (Secular)",
+          "votes": 54559,
+          "votes_percentage": 32.2
+        },
+        {
+          "position": 3,
+          "name": "Siddaraju",
+          "party": "Bharatiya Janta Party",
+          "votes": 34425,
+          "votes_percentage": 20.3
+        },
+        {
+          "position": 4,
+          "name": "J K Gopala",
+          "party": "Bharatiya Republican Paksha",
+          "votes": 1763,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "M S Shivakumar",
+          "party": "Independent",
+          "votes": 760,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "G N Devadatta",
+          "party": "Samanya Janatha Party (Loktantrik)",
+          "votes": 666,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Manjula N V",
+          "party": "Samajwadi Party",
+          "votes": 632,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 77663,
+        "male": 88053,
+        "percentage_of_total_population": 14.08,
+        "percentage_of_total_population_calculated": 14.08,
+        "percentage_of_total_population_stated": 14.08,
+        "sex_ratio": 882,
+        "total": 165716
+    },
+    "literacy": {
+        "female_literacy_rate": 68.95,
+        "female_literate": 340192,
+        "male_literacy_rate": 86.94,
+        "male_literate": 450551,
+        "rate_percentage": 78.17,
+        "total_literate": 790743
+    },
+    "population": {
+        "female": 571051,
+        "male": 606294,
+        "sex_ratio": 942,
+        "total": 1177345
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 15.01,
+            "population": 176679
+        },
+        "Christian": {
+            "percentage": 0.08,
+            "population": 992
+        },
+        "Hindu": {
+            "percentage": 73.32,
+            "population": 863199
+        },
+        "Jain": {
+            "percentage": 0.45,
+            "population": 5278
+        },
+        "Muslims": {
+            "percentage": 10.83,
+            "population": 127552
+        },
+        "Not Stated": {
+            "percentage": 0.25,
+            "population": 2899
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 103
+        },
+        "Sikh": {
+            "percentage": 0.05,
+            "population": 643
+        }
+    },
+    "rural": {
+        "child_population_female": 66512,
+        "child_population_male": 75268,
+        "child_population_percentage": 14.2,
+        "child_population_percentage_calculated": 14.2,
+        "child_population_percentage_stated": 14.2,
+        "child_population_total": 141780,
+        "child_sex_ratio": 884,
+        "female": 484182,
+        "literacy_rate_female": 66.91,
+        "literacy_rate_male": 86.23,
+        "literacy_rate_percentage": 76.81,
+        "literate_female": 279455,
+        "literate_male": 378697,
+        "literate_total": 658152,
+        "male": 514430,
+        "percentage_population": 84.82,
+        "population": 998612,
+        "sex_ratio": 941
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/350-hingoli.html",
+    "urban": {
+        "child_population_female": 11152,
+        "child_population_male": 12784,
+        "child_population_percentage": 13.39,
+        "child_population_percentage_calculated": 13.39,
+        "child_population_percentage_stated": 13.39,
+        "child_population_total": 23936,
+        "child_sex_ratio": 872,
+        "female": 86869,
+        "literacy_rate_female": 80.22,
+        "literacy_rate_male": 90.86,
+        "literacy_rate_percentage": 85.65,
+        "literate_female": 60737,
+        "literate_male": 71854,
+        "literate_total": 132591,
+        "male": 91864,
+        "percentage_population": 15.18,
+        "population": 178733,
+        "sex_ratio": 946
+    }
+}

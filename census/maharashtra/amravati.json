@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 150465,
+        "male": 160926,
+        "percentage_of_total_population": 10.78,
+        "percentage_of_total_population_calculated": 10.78,
+        "percentage_of_total_population_stated": 10.78,
+        "sex_ratio": 935,
+        "total": 311391
+    },
+    "literacy": {
+        "female_literacy_rate": 83.1,
+        "female_literate": 1044771,
+        "male_literacy_rate": 91.46,
+        "male_literate": 1207104,
+        "rate_percentage": 87.38,
+        "total_literate": 2251875
+    },
+    "population": {
+        "female": 1407677,
+        "male": 1480768,
+        "sex_ratio": 951,
+        "total": 2888445
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 13.29,
+            "population": 383891
+        },
+        "Christian": {
+            "percentage": 0.25,
+            "population": 7223
+        },
+        "Hindu": {
+            "percentage": 71.15,
+            "population": 2055177
+        },
+        "Jain": {
+            "percentage": 0.39,
+            "population": 11360
+        },
+        "Muslims": {
+            "percentage": 14.59,
+            "population": 421410
+        },
+        "Not Stated": {
+            "percentage": 0.13,
+            "population": 3854
+        },
+        "Others": {
+            "percentage": 0.11,
+            "population": 3288
+        },
+        "Sikh": {
+            "percentage": 0.08,
+            "population": 2242
+        }
+    },
+    "rural": {
+        "child_population_female": 99284,
+        "child_population_male": 105268,
+        "child_population_percentage": 11.05,
+        "child_population_percentage_calculated": 11.05,
+        "child_population_percentage_stated": 11.05,
+        "child_population_total": 204552,
+        "child_sex_ratio": 943,
+        "female": 900525,
+        "literacy_rate_female": 79.76,
+        "literacy_rate_male": 90.1,
+        "literacy_rate_percentage": 85.07,
+        "literate_female": 639030,
+        "literate_male": 761665,
+        "literate_total": 1400695,
+        "male": 950633,
+        "percentage_population": 64.09,
+        "population": 1851158,
+        "sex_ratio": 947
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/341-amravati.html",
+    "urban": {
+        "child_population_female": 51173,
+        "child_population_male": 55666,
+        "child_population_percentage": 10.3,
+        "child_population_percentage_calculated": 10.3,
+        "child_population_percentage_stated": 10.3,
+        "child_population_total": 106839,
+        "child_sex_ratio": 919,
+        "female": 507152,
+        "literacy_rate_female": 88.98,
+        "literacy_rate_male": 93.88,
+        "literacy_rate_percentage": 91.48,
+        "literate_female": 405741,
+        "literate_male": 445439,
+        "literate_total": 851180,
+        "male": 530135,
+        "percentage_population": 35.91,
+        "population": 1037287,
+        "sex_ratio": 957
+    }
+}

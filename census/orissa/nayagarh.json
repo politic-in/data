@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 49259,
+        "male": 57612,
+        "percentage_of_total_population": 11.1,
+        "percentage_of_total_population_calculated": 11.1,
+        "percentage_of_total_population_stated": 11.1,
+        "sex_ratio": 855,
+        "total": 106871
+    },
+    "literacy": {
+        "female_literacy_rate": 72.05,
+        "female_literate": 296029,
+        "male_literacy_rate": 88.16,
+        "male_literate": 392333,
+        "rate_percentage": 80.42,
+        "total_literate": 688362
+    },
+    "population": {
+        "female": 460153,
+        "male": 502636,
+        "sex_ratio": 915,
+        "total": 962789
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.0,
+            "population": 33
+        },
+        "Christian": {
+            "percentage": 0.04,
+            "population": 383
+        },
+        "Hindu": {
+            "percentage": 99.27,
+            "population": 955754
+        },
+        "Jain": {
+            "percentage": 0.0,
+            "population": 24
+        },
+        "Muslims": {
+            "percentage": 0.55,
+            "population": 5278
+        },
+        "Not Stated": {
+            "percentage": 0.12,
+            "population": 1198
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 12
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 107
+        }
+    },
+    "rural": {
+        "child_population_female": 45661,
+        "child_population_male": 53275,
+        "child_population_percentage": 11.2,
+        "child_population_percentage_calculated": 11.2,
+        "child_population_percentage_stated": 11.2,
+        "child_population_total": 98936,
+        "child_sex_ratio": 857,
+        "female": 422032,
+        "literacy_rate_female": 71.12,
+        "literacy_rate_male": 87.72,
+        "literacy_rate_percentage": 79.75,
+        "literate_female": 267658,
+        "literate_male": 357687,
+        "literate_total": 625345,
+        "male": 461019,
+        "percentage_population": 91.72,
+        "population": 883051,
+        "sex_ratio": 915
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/409-nayagarh.html",
+    "urban": {
+        "child_population_female": 3611,
+        "child_population_male": 4324,
+        "child_population_percentage": 9.95,
+        "child_population_percentage_calculated": 9.95,
+        "child_population_percentage_stated": 9.95,
+        "child_population_total": 7935,
+        "child_sex_ratio": 835,
+        "female": 38121,
+        "literacy_rate_female": 82.21,
+        "literacy_rate_male": 92.9,
+        "literacy_rate_percentage": 87.76,
+        "literate_female": 28371,
+        "literate_male": 34646,
+        "literate_total": 63017,
+        "male": 41617,
+        "percentage_population": 8.28,
+        "population": 79738,
+        "sex_ratio": 916
+    }
+}

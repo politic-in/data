@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 64551,
+        "male": 67735,
+        "percentage_of_total_population": 10.54,
+        "percentage_of_total_population_calculated": 10.54,
+        "percentage_of_total_population_stated": 10.54,
+        "sex_ratio": 953,
+        "total": 132286
+    },
+    "literacy": {
+        "female_literacy_rate": 61.55,
+        "female_literate": 341064,
+        "male_literacy_rate": 77.75,
+        "male_literate": 442158,
+        "rate_percentage": 69.76,
+        "total_literate": 783222
+    },
+    "population": {
+        "female": 618667,
+        "male": 636437,
+        "sex_ratio": 972,
+        "total": 1255104
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 85
+        },
+        "Christian": {
+            "percentage": 0.37,
+            "population": 4684
+        },
+        "Hindu": {
+            "percentage": 87.65,
+            "population": 1100131
+        },
+        "Jain": {
+            "percentage": 0.08,
+            "population": 975
+        },
+        "Muslims": {
+            "percentage": 11.78,
+            "population": 147810
+        },
+        "Not Stated": {
+            "percentage": 0.09,
+            "population": 1078
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 77
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 264
+        }
+    },
+    "rural": {
+        "child_population_female": 48911,
+        "child_population_male": 51117,
+        "child_population_percentage": 10.27,
+        "child_population_percentage_calculated": 10.27,
+        "child_population_percentage_stated": 10.27,
+        "child_population_total": 100028,
+        "child_sex_ratio": 957,
+        "female": 479522,
+        "literacy_rate_female": 57.1,
+        "literacy_rate_male": 75.41,
+        "literacy_rate_percentage": 66.39,
+        "literate_female": 245891,
+        "literate_male": 334340,
+        "literate_total": 580231,
+        "male": 494463,
+        "percentage_population": 77.6,
+        "population": 973985,
+        "sex_ratio": 970
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/249-chikkaballapura.html",
+    "urban": {
+        "child_population_female": 15641,
+        "child_population_male": 16617,
+        "child_population_percentage": 11.47,
+        "child_population_percentage_calculated": 11.47,
+        "child_population_percentage_stated": 11.47,
+        "child_population_total": 32258,
+        "child_sex_ratio": 941,
+        "female": 139145,
+        "literacy_rate_female": 77.06,
+        "literacy_rate_male": 86.01,
+        "literacy_rate_percentage": 81.57,
+        "literate_female": 95173,
+        "literate_male": 107818,
+        "literate_total": 202991,
+        "male": 141974,
+        "percentage_population": 22.4,
+        "population": 281119,
+        "sex_ratio": 980
+    }
+}

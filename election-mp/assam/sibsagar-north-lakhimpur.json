@@ -1,0 +1,48 @@
+{
+  "state": "Assam",
+  "constituency": "SIBSAGAR NORTH LAKHIMPUR",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 345910,
+        "total_votes_polled": 169015,
+        "turnout_percentage": 48.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Buragohain, Surendranath",
+          "party": "Indian National Congress",
+          "votes": 90279,
+          "votes_percentage": 53.4
+        },
+        {
+          "position": 2,
+          "name": "Barbarua, Lalit",
+          "party": "Independent",
+          "votes": 31616,
+          "votes_percentage": 18.7
+        },
+        {
+          "position": 3,
+          "name": "Gogoi, Khagendranath",
+          "party": "Socialist Party",
+          "votes": 29049,
+          "votes_percentage": 17.2
+        },
+        {
+          "position": 4,
+          "name": "Chowdhuri, Emran Hussain",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 18071,
+          "votes_percentage": 10.7
+        }
+      ]
+    }
+  }
+}

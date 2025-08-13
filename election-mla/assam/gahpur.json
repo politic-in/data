@@ -1,0 +1,113 @@
+{
+  "state": "Assam",
+  "constituency": "Gahpur",
+  "district": "Sonitpur",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 191254,
+        "total_votes_polled": 161410,
+        "turnout_percentage": 85.3,
+        "margin_votes": 29294,
+        "margin_percentage": 18.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sri Utpal Borah",
+          "party": "Bharatiya Janta Party",
+          "votes": 93224,
+          "votes_percentage": 57.8
+        },
+        {
+          "position": 2,
+          "name": "Ripun Bora",
+          "party": "Indian National Congress",
+          "votes": 63930,
+          "votes_percentage": 39.6
+        },
+        {
+          "position": 3,
+          "name": "Dr Gopal Phukan",
+          "party": "Assam Jatiya Parishad",
+          "votes": 2904,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 4,
+          "name": "Sri Sabir Narzary",
+          "party": "Voters Party  International",
+          "votes": 1352,
+          "votes_percentage": 0.8
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "04 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 160187,
+        "total_votes_polled": 129499,
+        "turnout_percentage": 80.8,
+        "margin_votes": 36224,
+        "margin_percentage": 28.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Smti Monika Bora",
+          "party": "Indian National Congress",
+          "votes": 60441,
+          "votes_percentage": 46.7
+        },
+        {
+          "position": 2,
+          "name": "Sree Utpal Borah",
+          "party": "Independent",
+          "votes": 24217,
+          "votes_percentage": 18.7
+        },
+        {
+          "position": 3,
+          "name": "Sri Kamal Kurmi",
+          "party": "Bodaland Peoples Front",
+          "votes": 15659,
+          "votes_percentage": 12.1
+        },
+        {
+          "position": 4,
+          "name": "Sri Bhupen Kumar Borah",
+          "party": "Asom Gana Parisad",
+          "votes": 12507,
+          "votes_percentage": 9.7
+        },
+        {
+          "position": 5,
+          "name": "Sankar Jyoti Kutum",
+          "party": "Independent",
+          "votes": 10005,
+          "votes_percentage": 7.7
+        },
+        {
+          "position": 6,
+          "name": "Sri Uttam Gowala",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 4203,
+          "votes_percentage": 3.3
+        },
+        {
+          "position": 7,
+          "name": "Sri Milan Ch. Kakati",
+          "party": "Bharatiya Janta Party",
+          "votes": 2467,
+          "votes_percentage": 1.9
+        }
+      ]
+    }
+  }
+}

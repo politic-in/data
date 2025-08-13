@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 55747,
+        "male": 65277,
+        "percentage_of_total_population": 12.85,
+        "percentage_of_total_population_calculated": 12.85,
+        "percentage_of_total_population_stated": 12.85,
+        "sex_ratio": 854,
+        "total": 121024
+    },
+    "literacy": {
+        "female_literacy_rate": 58.87,
+        "female_literate": 230107,
+        "male_literacy_rate": 76.14,
+        "male_literate": 327471,
+        "rate_percentage": 67.92,
+        "total_literate": 557578
+    },
+    "population": {
+        "female": 446651,
+        "male": 495360,
+        "sex_ratio": 902,
+        "total": 942011
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 171
+        },
+        "Christian": {
+            "percentage": 0.11,
+            "population": 996
+        },
+        "Hindu": {
+            "percentage": 82.72,
+            "population": 779243
+        },
+        "Jain": {
+            "percentage": 0.12,
+            "population": 1172
+        },
+        "Muslims": {
+            "percentage": 0.89,
+            "population": 8360
+        },
+        "Not Stated": {
+            "percentage": 0.06,
+            "population": 570
+        },
+        "Others": {
+            "percentage": 0.06,
+            "population": 530
+        },
+        "Sikh": {
+            "percentage": 16.03,
+            "population": 150969
+        }
+    },
+    "rural": {
+        "child_population_female": 45833,
+        "child_population_male": 53426,
+        "child_population_percentage": 13.02,
+        "child_population_percentage_calculated": 13.02,
+        "child_population_percentage_stated": 13.02,
+        "child_population_total": 99259,
+        "child_sex_ratio": 858,
+        "female": 361609,
+        "literacy_rate_female": 55.65,
+        "literacy_rate_male": 74.5,
+        "literacy_rate_percentage": 65.52,
+        "literate_female": 175717,
+        "literate_male": 258814,
+        "literate_total": 434531,
+        "male": 400814,
+        "percentage_population": 80.94,
+        "population": 762423,
+        "sex_ratio": 902
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/217-fatehabad.html",
+    "urban": {
+        "child_population_female": 9912,
+        "child_population_male": 11853,
+        "child_population_percentage": 12.12,
+        "child_population_percentage_calculated": 12.12,
+        "child_population_percentage_stated": 12.12,
+        "child_population_total": 21765,
+        "child_sex_ratio": 836,
+        "female": 85042,
+        "literacy_rate_female": 72.39,
+        "literacy_rate_male": 83.03,
+        "literacy_rate_percentage": 77.97,
+        "literate_female": 54390,
+        "literate_male": 68657,
+        "literate_total": 123047,
+        "male": 94546,
+        "percentage_population": 19.06,
+        "population": 179588,
+        "sex_ratio": 899
+    }
+}

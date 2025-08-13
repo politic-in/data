@@ -1,0 +1,55 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "BULANDSHAHR DISTRICT",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 770017,
+        "total_votes_polled": 696063,
+        "turnout_percentage": 45.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Balmiki Kanhaiya Lal",
+          "party": "Indian National Congress",
+          "votes": 223717,
+          "votes_percentage": 32.1
+        },
+        {
+          "position": 1,
+          "name": "Raghubar Dayal",
+          "party": "Indian National Congress",
+          "votes": 181068,
+          "votes_percentage": 26.0
+        },
+        {
+          "position": 3,
+          "name": "Ganga Ram",
+          "party": "All India Scheduled Caste Federation",
+          "votes": 114258,
+          "votes_percentage": 16.4
+        },
+        {
+          "position": 4,
+          "name": "Gujral Usha",
+          "party": "Socialist Party",
+          "votes": 107732,
+          "votes_percentage": 15.5
+        },
+        {
+          "position": 5,
+          "name": "Man Singh",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 69288,
+          "votes_percentage": 10.0
+        }
+      ]
+    }
+  }
+}

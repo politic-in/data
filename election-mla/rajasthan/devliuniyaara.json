@@ -1,0 +1,85 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Devliuniyaara",
+  "district": "Tonk",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 245467,
+        "total_votes_polled": 185559,
+        "turnout_percentage": 76.7,
+        "margin_votes": 21476,
+        "margin_percentage": 11.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Harish Chandra Meena",
+          "party": "Indian National Congress",
+          "votes": 95540,
+          "votes_percentage": 51.5
+        },
+        {
+          "position": 2,
+          "name": "Rajendra Gurjar",
+          "party": "Bharatiya Janta Party",
+          "votes": 74064,
+          "votes_percentage": 39.9
+        },
+        {
+          "position": 3,
+          "name": "Uday Lal Gurjar",
+          "party": "Independent",
+          "votes": 8876,
+          "votes_percentage": 4.8
+        },
+        {
+          "position": 4,
+          "name": "Om Prakash Bairwa",
+          "party": "Bahujan Samaj Party",
+          "votes": 3724,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 5,
+          "name": "Badrilal Sharma",
+          "party": "Abhinav Rajasthan Party",
+          "votes": 1088,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Raju",
+          "party": "Independent",
+          "votes": 894,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Surendra",
+          "party": "National Unionist Zamindara Party",
+          "votes": 673,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Laddu Lal Meena",
+          "party": "Aam Aadmi Party",
+          "votes": 366,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Banwari",
+          "party": "Bharatiya Yuva Shakti",
+          "votes": 334,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

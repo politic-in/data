@@ -1,0 +1,106 @@
+{
+  "state": "West Bengal",
+  "constituency": "BHANGORE",
+  "district": "South  Twenty Four Parganas",
+  "ac_type": "GEN",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 233089,
+        "total_votes_polled": 203504,
+        "turnout_percentage": 88.4,
+        "margin_votes": 18124,
+        "margin_percentage": 8.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Abdur Razzak Molla",
+          "party": "All India Trinamool Congress",
+          "votes": 102087,
+          "votes_percentage": 50.2
+        },
+        {
+          "position": 2,
+          "name": "Abdur Rasid Gazi",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 83963,
+          "votes_percentage": 41.3
+        },
+        {
+          "position": 3,
+          "name": "Abani Kumar Mondal",
+          "party": "Bharatiya Janta Party",
+          "votes": 9563,
+          "votes_percentage": 4.7
+        },
+        {
+          "position": 4,
+          "name": "Jalal Uddin Ahmed",
+          "party": "Welfare Party Of India",
+          "votes": 4039,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 5,
+          "name": "Ikbal Molla",
+          "party": "Lok Jan Shakti Party",
+          "votes": 2048,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Abdus Salam Molla (RAJU)",
+          "party": "Independent",
+          "votes": 1804,
+          "votes_percentage": 0.9
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 187371,
+        "total_votes_polled": 173193,
+        "turnout_percentage": 92.4,
+        "margin_votes": 5106,
+        "margin_percentage": 2.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Badal Jamadar",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 81965,
+          "votes_percentage": 47.3
+        },
+        {
+          "position": 2,
+          "name": "Arabul Islam",
+          "party": "All India Trinamool Congress",
+          "votes": 76859,
+          "votes_percentage": 44.4
+        },
+        {
+          "position": 3,
+          "name": "Md.Nannu Hossain",
+          "party": "Independent",
+          "votes": 10363,
+          "votes_percentage": 6.0
+        },
+        {
+          "position": 4,
+          "name": "Madhusudan Sanpui",
+          "party": "Bharatiya Janta Party",
+          "votes": 4006,
+          "votes_percentage": 2.3
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "state": "Tripura",
+  "constituency": "Matabari",
+  "district": "South Tripura",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 50413,
+        "total_votes_polled": 45992,
+        "turnout_percentage": 91.8,
+        "margin_votes": 1569,
+        "margin_percentage": 3.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Biplab Kumar Ghosh",
+          "party": "Bharatiya Janta Party",
+          "votes": 23069,
+          "votes_percentage": 50.2
+        },
+        {
+          "position": 2,
+          "name": "Madhab Chandra Saha",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 21500,
+          "votes_percentage": 46.7
+        },
+        {
+          "position": 3,
+          "name": "Abhijit Sarkar",
+          "party": "Indian National Congress",
+          "votes": 497,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 4,
+          "name": "Bishwajit Chakraborty",
+          "party": "All India Trinamool Congress",
+          "votes": 315,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Gopal Roy",
+          "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+          "votes": 302,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Tarani Sadhan Jamatia",
+          "party": "Indigenous Nationalist Party Of Twipra",
+          "votes": 199,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Bibhulal Dey",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 110,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "state": "West Bengal",
+  "constituency": "NABAGRAM (SC)",
+  "district": "Murshidabad",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 221323,
+        "total_votes_polled": 178478,
+        "turnout_percentage": 82.1,
+        "margin_votes": 38443,
+        "margin_percentage": 21.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kanai Chandra Mondal",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 99545,
+          "votes_percentage": 55.8
+        },
+        {
+          "position": 2,
+          "name": "Dilip Saha",
+          "party": "All India Trinamool Congress",
+          "votes": 61102,
+          "votes_percentage": 34.2
+        },
+        {
+          "position": 3,
+          "name": "Susanta Marjit",
+          "party": "Bharatiya Janta Party",
+          "votes": 13084,
+          "votes_percentage": 7.3
+        },
+        {
+          "position": 4,
+          "name": "Radha Madhab Mandal",
+          "party": "Samajwadi Party",
+          "votes": 2372,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 5,
+          "name": "Amit Mehena",
+          "party": "Welfare Party Of India",
+          "votes": 1232,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Barun Mandal",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1143,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

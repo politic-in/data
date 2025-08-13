@@ -1,0 +1,78 @@
+{
+  "state": "Madhya Pradesh [2000 Onwards]",
+  "constituency": "Chachuda",
+  "district": "Guna",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 203976,
+        "total_votes_polled": 161933,
+        "turnout_percentage": 80.7,
+        "margin_votes": 9797,
+        "margin_percentage": 6.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Lakshman Singh",
+          "party": "Indian National Congress",
+          "votes": 81908,
+          "votes_percentage": 50.6
+        },
+        {
+          "position": 2,
+          "name": "Mamta  Meena",
+          "party": "Bharatiya Janta Party",
+          "votes": 72111,
+          "votes_percentage": 44.5
+        },
+        {
+          "position": 3,
+          "name": "Ganeshram Lodhi",
+          "party": "Bhartiya Panchyat Party",
+          "votes": 2327,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 4,
+          "name": "Rahul Kumar Boddhy",
+          "party": "Bahujan Samaj Party",
+          "votes": 1997,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 5,
+          "name": "Mamta Bai",
+          "party": "Independent",
+          "votes": 1414,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Shivnarayan",
+          "party": "Independent",
+          "votes": 872,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Vikram Singh Lovewanshi (LODHA)",
+          "party": "Aam Aadmi Party",
+          "votes": 655,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Mamta",
+          "party": "Independent",
+          "votes": 649,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

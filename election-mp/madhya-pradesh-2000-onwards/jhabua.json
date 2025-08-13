@@ -1,0 +1,64 @@
+{
+  "state": "Madhya Pradesh [2000 Onwards]",
+  "constituency": "Jhabua",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2004": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 1290101,
+        "total_votes_polled": 628135,
+        "turnout_percentage": 48.7,
+        "margin_votes": 80282,
+        "margin_percentage": 12.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kantilal Bhuria",
+          "party": "Indian National Congress",
+          "votes": 322257,
+          "votes_percentage": 51.3
+        },
+        {
+          "position": 2,
+          "name": "Relam Chauhan",
+          "party": "Bharatiya Janta Party",
+          "votes": 241975,
+          "votes_percentage": 38.5
+        },
+        {
+          "position": 3,
+          "name": "Udaysingh Machhar",
+          "party": "Independent",
+          "votes": 19473,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 4,
+          "name": "Narayansingh Kharadi",
+          "party": "Janata Dal (United)",
+          "votes": 18334,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 5,
+          "name": "Jalamsingh Patel",
+          "party": "Bahujan Samaj Party",
+          "votes": 16026,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 6,
+          "name": "Susheela Maida",
+          "party": "Samajwadi Party",
+          "votes": 10838,
+          "votes_percentage": 1.7
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Ahor",
+  "district": "Jalor",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 237870,
+        "total_votes_polled": 149015,
+        "turnout_percentage": 64.0,
+        "margin_votes": 31048,
+        "margin_percentage": 20.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chhagansingh",
+          "party": "Bharatiya Janta Party",
+          "votes": 74928,
+          "votes_percentage": 50.3
+        },
+        {
+          "position": 2,
+          "name": "Savaram Patel",
+          "party": "Indian National Congress",
+          "votes": 43880,
+          "votes_percentage": 29.5
+        },
+        {
+          "position": 3,
+          "name": "Pankaj",
+          "party": "Bahujan Samaj Party",
+          "votes": 22808,
+          "votes_percentage": 15.3
+        },
+        {
+          "position": 4,
+          "name": "Jagdish Choudhary",
+          "party": "Independent",
+          "votes": 2684,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 5,
+          "name": "Chhagnaram",
+          "party": "Hindustan Janata Party",
+          "votes": 1204,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Milap Chand Jain",
+          "party": "Independent",
+          "votes": 1091,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Lal Chand",
+          "party": "Independent",
+          "votes": 1021,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 8,
+          "name": "Nimbaram",
+          "party": "Independent",
+          "votes": 644,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Balwant Singh",
+          "party": "Shiv Sena",
+          "votes": 311,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Dinesh Kumar",
+          "party": "Aam Aadmi Party",
+          "votes": 255,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Prakash Singh",
+          "party": "Abhinav Rajasthan Party",
+          "votes": 189,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

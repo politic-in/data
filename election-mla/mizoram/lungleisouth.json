@@ -1,0 +1,50 @@
+{
+  "state": "Mizoram",
+  "constituency": "LUNGLEISOUTH",
+  "district": "Lunglei",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 16482,
+        "total_votes_polled": 14461,
+        "turnout_percentage": 88.1,
+        "margin_votes": 2441,
+        "margin_percentage": 16.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "K Pachhunga",
+          "party": "Mizo National Front",
+          "votes": 6245,
+          "votes_percentage": 43.2
+        },
+        {
+          "position": 2,
+          "name": "R Lalnunthara",
+          "party": "Indian National Congress",
+          "votes": 3804,
+          "votes_percentage": 26.3
+        },
+        {
+          "position": 3,
+          "name": "Rev Dr K Thanzauva",
+          "party": "Independent",
+          "votes": 3492,
+          "votes_percentage": 24.2
+        },
+        {
+          "position": 4,
+          "name": "Dr.Aichhunga",
+          "party": "Bharatiya Janta Party",
+          "votes": 920,
+          "votes_percentage": 6.4
+        }
+      ]
+    }
+  }
+}

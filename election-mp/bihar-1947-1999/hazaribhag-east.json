@@ -1,0 +1,41 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "HAZARIBHAG EAST",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 335212,
+        "total_votes_polled": 129617,
+        "turnout_percentage": 38.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nageshwar Pd. Sinha",
+          "party": "Indian National Congress",
+          "votes": 65251,
+          "votes_percentage": 50.3
+        },
+        {
+          "position": 2,
+          "name": "Tara Kishore Prasad",
+          "party": "Chota Nagpur Santhal Parganas Janta Party",
+          "votes": 48857,
+          "votes_percentage": 37.7
+        },
+        {
+          "position": 3,
+          "name": "Mithilesh Kumar Singh",
+          "party": "Socialist Party",
+          "votes": 15509,
+          "votes_percentage": 12.0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Banswada",
+  "district": "Banswara",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 242493,
+        "total_votes_polled": 199968,
+        "turnout_percentage": 84.1,
+        "margin_votes": 18366,
+        "margin_percentage": 9.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Arjun Singh Bamniya",
+          "party": "Indian National Congress",
+          "votes": 88447,
+          "votes_percentage": 44.2
+        },
+        {
+          "position": 2,
+          "name": "Hakru Maida",
+          "party": "Bharatiya Janta Party",
+          "votes": 70081,
+          "votes_percentage": 35.1
+        },
+        {
+          "position": 3,
+          "name": "Dhan Singh Rawat",
+          "party": "Independent",
+          "votes": 32950,
+          "votes_percentage": 16.5
+        },
+        {
+          "position": 4,
+          "name": "Dhirajmal Dindor",
+          "party": "Janata Dal (United)",
+          "votes": 5009,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 5,
+          "name": "Shanta",
+          "party": "Bahujan Samaj Party",
+          "votes": 2223,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Rupchand Rawat",
+          "party": "Independent",
+          "votes": 1258,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

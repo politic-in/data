@@ -1,0 +1,57 @@
+{
+  "state": "West Bengal",
+  "constituency": "JALPAIGURI (SC)",
+  "district": "Jalpaiguri",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 240851,
+        "total_votes_polled": 204833,
+        "turnout_percentage": 86.5,
+        "margin_votes": 5157,
+        "margin_percentage": 2.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sukhbilas Barma",
+          "party": "Indian National Congress",
+          "votes": 94553,
+          "votes_percentage": 46.2
+        },
+        {
+          "position": 2,
+          "name": "Dharttimohan Roy",
+          "party": "All India Trinamool Congress",
+          "votes": 89396,
+          "votes_percentage": 43.6
+        },
+        {
+          "position": 3,
+          "name": "Tapan Roy",
+          "party": "Bharatiya Janta Party",
+          "votes": 16029,
+          "votes_percentage": 7.8
+        },
+        {
+          "position": 4,
+          "name": "Haribhakta Sardar",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 2586,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 5,
+          "name": "Ganesh Mandal",
+          "party": "Bahujan Samaj Party",
+          "votes": 2269,
+          "votes_percentage": 1.1
+        }
+      ]
+    }
+  }
+}

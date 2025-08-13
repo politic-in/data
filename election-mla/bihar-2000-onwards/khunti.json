@@ -1,0 +1,57 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "Khunti",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 130663,
+        "total_votes_polled": 73852,
+        "turnout_percentage": 56.5,
+        "margin_votes": 7971,
+        "margin_percentage": 10.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nilkanth Singh Munda",
+          "party": "Bharatiya Janta Party",
+          "votes": 33828,
+          "votes_percentage": 46.6
+        },
+        {
+          "position": 2,
+          "name": "Sushila Kerketta",
+          "party": "Indian National Congress",
+          "votes": 25857,
+          "votes_percentage": 35.6
+        },
+        {
+          "position": 3,
+          "name": "Sanatan Kandir",
+          "party": "Jharkhand Party",
+          "votes": 10886,
+          "votes_percentage": 15.0
+        },
+        {
+          "position": 4,
+          "name": "Folen Kujur",
+          "party": "Rashtriya Janata Dal",
+          "votes": 1740,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 5,
+          "name": "Kanti Kindo",
+          "party": "Bahujan Samaj Party",
+          "votes": 236,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

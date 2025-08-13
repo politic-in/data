@@ -1,0 +1,50 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Hindun",
+  "district": "Karauli",
+  "ac_type": "SC",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 237353,
+        "total_votes_polled": 184237,
+        "turnout_percentage": 78.4,
+        "margin_votes": 26780,
+        "margin_percentage": 14.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bharosi Lal",
+          "party": "Indian National Congress",
+          "votes": 104694,
+          "votes_percentage": 56.8
+        },
+        {
+          "position": 2,
+          "name": "Manju Khairwal",
+          "party": "Bharatiya Janta Party",
+          "votes": 77914,
+          "votes_percentage": 42.3
+        },
+        {
+          "position": 3,
+          "name": "Shashi Dutta",
+          "party": "Rashtriya Loktantrik Party",
+          "votes": 878,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 4,
+          "name": "Shivnarayan",
+          "party": "Bharatiya Yuva Shakti",
+          "votes": 751,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

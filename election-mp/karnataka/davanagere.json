@@ -1,0 +1,771 @@
+{
+  "state": "Karnataka",
+  "constituency": "Davanagere",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2024": {
+      "poll_date": "19 April 2024",
+      "counting_date": "01 June 2024",
+      "total_contestants": 30,
+      "aggregate": {
+        "total_electors": 1709244,
+        "total_votes_polled": 1320368,
+        "turnout_percentage": 77.3,
+        "margin_votes": 26094,
+        "margin_percentage": 2.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr. Prabha Mallikarjun",
+          "party": "Indian National Congress",
+          "votes": 633059,
+          "votes_percentage": 47.9
+        },
+        {
+          "position": 2,
+          "name": "Gayithri Siddeshwara",
+          "party": "Bharatiya Janta Party",
+          "votes": 606965,
+          "votes_percentage": 46.0
+        },
+        {
+          "position": 3,
+          "name": "G.B.Vinay Kumar",
+          "party": "Independent",
+          "votes": 42907,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 4,
+          "name": "T.Jabeena Aapa",
+          "party": "Independent",
+          "votes": 5128,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 5,
+          "name": "D. Hanumanthappa",
+          "party": "Bahujan Samaj Party",
+          "votes": 4475,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 6,
+          "name": "Taslim Banu",
+          "party": "Independent",
+          "votes": 4141,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "T.Chandru",
+          "party": "Independent",
+          "votes": 3043,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "G.M.Gayitri Siddeshi",
+          "party": "Independent",
+          "votes": 2464,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Paraveej.H",
+          "party": "Independent",
+          "votes": 1869,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Eshwara Shenga",
+          "party": "Uttama Prajaakeeya Party",
+          "votes": 1430,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "A.K.Ganesh",
+          "party": "Independent",
+          "votes": 1055,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "M.C.Sreenivas",
+          "party": "Bharatiya Prajagala Kalyana Paksha",
+          "votes": 973,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Anaberu Thippeswamy",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 849,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Syed Zabiulla.K",
+          "party": "Independent",
+          "votes": 844,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Saleem S",
+          "party": "Independent",
+          "votes": 799,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "Mohamed Hayath.M",
+          "party": "Independent",
+          "votes": 722,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 17,
+          "name": "Abdul Nazeer Ahammed",
+          "party": "Independent",
+          "votes": 652,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 18,
+          "name": "Rasheed Khan",
+          "party": "Independent",
+          "votes": 600,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 19,
+          "name": "M.G.Srikanth",
+          "party": "Navabharath Sena",
+          "votes": 561,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 20,
+          "name": "M.P. Khalandar",
+          "party": "Country Citizen Party",
+          "votes": 539,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 21,
+          "name": "Peddappa S",
+          "party": "Independent",
+          "votes": 508,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 22,
+          "name": "K.S. Veerbhadrappa",
+          "party": "Karnataka Rashtra Samithi",
+          "votes": 475,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 23,
+          "name": "G.M.Barkath Ali Basha",
+          "party": "Independent",
+          "votes": 471,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 24,
+          "name": "Veeresh.S (LION VEERESH)",
+          "party": "Rani Chennamma Party",
+          "votes": 458,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 25,
+          "name": "Doddesh.H.S",
+          "party": "Janahitha Paksha",
+          "votes": 440,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 26,
+          "name": "Barkath Ali",
+          "party": "Independent",
+          "votes": 411,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 27,
+          "name": "Manju. Marikoppa",
+          "party": "Independent",
+          "votes": 378,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 28,
+          "name": "Rudresha.K.H",
+          "party": "Samaj Vikas Kranti Party",
+          "votes": 348,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 29,
+          "name": "Ravinaik. B",
+          "party": "Independent",
+          "votes": 320,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 30,
+          "name": "Mahabub Basha",
+          "party": "Independent",
+          "votes": 308,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "2019": {
+      "poll_date": "18 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 25,
+      "aggregate": {
+        "total_electors": 1613781,
+        "total_votes_polled": 1194586,
+        "turnout_percentage": 74.2,
+        "margin_votes": 169702,
+        "margin_percentage": 14.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "G M Siddeshwar",
+          "party": "Bharatiya Janta Party",
+          "votes": 652996,
+          "votes_percentage": 54.7
+        },
+        {
+          "position": 2,
+          "name": "H B Manjappa",
+          "party": "Indian National Congress",
+          "votes": 483294,
+          "votes_percentage": 40.5
+        },
+        {
+          "position": 3,
+          "name": "Siddappa B H",
+          "party": "Bahujan Samaj Party",
+          "votes": 7736,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 4,
+          "name": "Manjunatha Marikoppa",
+          "party": "Independent",
+          "votes": 5947,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "Mohamed Hayath",
+          "party": "Independent",
+          "votes": 4954,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "H Eshwarappa",
+          "party": "India Praja Bandhu Party",
+          "votes": 4625,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "V Manjunathachar",
+          "party": "Independent",
+          "votes": 4571,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "C M Manjunatha Swami",
+          "party": "Independent",
+          "votes": 4490,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Ganesha B A",
+          "party": "Uttama Prajaakeeya Party",
+          "votes": 3220,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "A T Dadakhalandar",
+          "party": "Independent",
+          "votes": 2723,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "M B Veerabhadrappa",
+          "party": "Independent",
+          "votes": 1733,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "B V Tippeswamy Goshale",
+          "party": "Independent",
+          "votes": 1612,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Harish Halli",
+          "party": "Independent",
+          "votes": 1561,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Barkath Ali",
+          "party": "Independent",
+          "votes": 1505,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Madhu Thogaleri",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1258,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "Mohammed Aleemulla",
+          "party": "Independent",
+          "votes": 1173,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 17,
+          "name": "Shashikumar R N",
+          "party": "Independent",
+          "votes": 1100,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 18,
+          "name": "V Iqbal Ahemad",
+          "party": "Independent",
+          "votes": 1038,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 19,
+          "name": "Abdul Nazeer Sab",
+          "party": "Independent",
+          "votes": 987,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 20,
+          "name": "Syed. Zabiulla K",
+          "party": "Independent",
+          "votes": 978,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 21,
+          "name": "Alur M G Swamy",
+          "party": "Independent",
+          "votes": 898,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 22,
+          "name": "S S Subhan Khan",
+          "party": "Independent",
+          "votes": 851,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 23,
+          "name": "Ravindra Navale",
+          "party": "Indian Labour Party (Ambedkar Phule)",
+          "votes": 822,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 24,
+          "name": "S K Afzalkhan",
+          "party": "Independent",
+          "votes": 803,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 25,
+          "name": "Dr|| Sridhara Udupa",
+          "party": "Independent",
+          "votes": 613,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "17 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 18,
+      "aggregate": {
+        "total_electors": 1522712,
+        "total_votes_polled": 1114868,
+        "turnout_percentage": 73.2,
+        "margin_votes": 17607,
+        "margin_percentage": 1.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "G M Siddeshwara",
+          "party": "Bharatiya Janta Party",
+          "votes": 518894,
+          "votes_percentage": 46.5
+        },
+        {
+          "position": 2,
+          "name": "S.S. Mallikarjun",
+          "party": "Indian National Congress",
+          "votes": 501287,
+          "votes_percentage": 45.0
+        },
+        {
+          "position": 3,
+          "name": "Mahima J Patel",
+          "party": "Janata Dal (Secular)",
+          "votes": 46911,
+          "votes_percentage": 4.2
+        },
+        {
+          "position": 4,
+          "name": "Com. H.K. Ramachandrappa",
+          "party": "Communist Party Of India",
+          "votes": 8064,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "B. Gnana Prakash",
+          "party": "Independent",
+          "votes": 7097,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "A.K.Parashurama Kotemallur",
+          "party": "Bahujan Samaj Party",
+          "votes": 5581,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "H.K. Kenchveerappa",
+          "party": "Vichara Jagruthi Congress Paksha",
+          "votes": 3972,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "S.S. Subhan Khan",
+          "party": "Independent",
+          "votes": 3312,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "G.M.Siddeshi",
+          "party": "Independent",
+          "votes": 2732,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "K.J. Basavaraj",
+          "party": "Aam Aadmi Party",
+          "votes": 2582,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "K Syed Zabiulla",
+          "party": "Independent",
+          "votes": 1582,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Parasuram Kurubar",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 1332,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "A.T. Dadakhalandar",
+          "party": "Independent",
+          "votes": 1331,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Sri Nagarajappa",
+          "party": "Independent",
+          "votes": 1226,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Siddesh",
+          "party": "Independent",
+          "votes": 1216,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "G.C.Patel",
+          "party": "Sarva Janata Party",
+          "votes": 1145,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 17,
+          "name": "Alur M.G. Swamy",
+          "party": "Independent",
+          "votes": 1122,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 18,
+          "name": "Dr. Sridhara Udupa",
+          "party": "Independent",
+          "votes": 946,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 28,
+      "aggregate": {
+        "total_electors": 1344920,
+        "total_votes_polled": 907281,
+        "turnout_percentage": 67.5,
+        "margin_votes": 2024,
+        "margin_percentage": 0.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "G.M. Siddeswara",
+          "party": "Bharatiya Janta Party",
+          "votes": 423447,
+          "votes_percentage": 46.7
+        },
+        {
+          "position": 2,
+          "name": "S.S. Mallikarjuna",
+          "party": "Indian National Congress",
+          "votes": 421423,
+          "votes_percentage": 46.4
+        },
+        {
+          "position": 3,
+          "name": "K.B. Kallerudreshappa",
+          "party": "Janata Dal (Secular)",
+          "votes": 10489,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 4,
+          "name": "L.S Mallikarjun",
+          "party": "Independent",
+          "votes": 5694,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 5,
+          "name": "Dr. Hidayathur Rahman Khan",
+          "party": "Bahujan Samaj Party",
+          "votes": 5469,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Maruthi H.",
+          "party": "Independent",
+          "votes": 5094,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "M. Nagarajappa",
+          "party": "Independent",
+          "votes": 4782,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Yogesh Rao Sindhe",
+          "party": "Independent",
+          "votes": 4438,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 9,
+          "name": "Jayanna Itagi",
+          "party": "Independent",
+          "votes": 2537,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "B. Gnana Prakash",
+          "party": "Independent",
+          "votes": 2243,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Arundi Ningappa",
+          "party": "Independent",
+          "votes": 2081,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "H. Nagaraj Palegara",
+          "party": "Independent",
+          "votes": 1874,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 13,
+          "name": "Idli Ramappa",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 1731,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 14,
+          "name": "H K Kenchaveerappa Hebbalu",
+          "party": "Independent",
+          "votes": 1665,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 15,
+          "name": "S. Chandrashekarappa",
+          "party": "Independent",
+          "votes": 1488,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 16,
+          "name": "G. N. Siddesh",
+          "party": "Independent",
+          "votes": 1292,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 17,
+          "name": "G.M. Sudesh",
+          "party": "Akhila India Jananayaka Makkal Katchi (Dr. Issac)",
+          "votes": 1239,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 18,
+          "name": "Alur M.G. Swamy",
+          "party": "Independent",
+          "votes": 1193,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 19,
+          "name": "A.Ramesh Huli",
+          "party": "Independent",
+          "votes": 1118,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 20,
+          "name": "Subhan Khan",
+          "party": "Independent",
+          "votes": 1022,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 21,
+          "name": "H.M. Ehsanulla Patel",
+          "party": "Independent",
+          "votes": 999,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 22,
+          "name": "Dr.Raju C.",
+          "party": "Independent",
+          "votes": 966,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 23,
+          "name": "Inayat Ali Khan",
+          "party": "Independent",
+          "votes": 958,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 24,
+          "name": "Lokanagowda Patil",
+          "party": "Independent",
+          "votes": 880,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 25,
+          "name": "H. Eswarappa Bovi",
+          "party": "Independent",
+          "votes": 866,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 26,
+          "name": "Veeresh T.",
+          "party": "Independent",
+          "votes": 849,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 27,
+          "name": "B. Rajashekharayya",
+          "party": "Independent",
+          "votes": 805,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 28,
+          "name": "Dr. Sridhara Udupa",
+          "party": "Independent",
+          "votes": 635,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

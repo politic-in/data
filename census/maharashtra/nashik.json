@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 389874,
+        "male": 438061,
+        "percentage_of_total_population": 13.56,
+        "percentage_of_total_population_calculated": 13.56,
+        "percentage_of_total_population_stated": 13.56,
+        "sex_ratio": 890,
+        "total": 827935
+    },
+    "literacy": {
+        "female_literacy_rate": 76.08,
+        "female_literate": 1947828,
+        "male_literacy_rate": 88.17,
+        "male_literate": 2397538,
+        "rate_percentage": 82.31,
+        "total_literate": 4345366
+    },
+    "population": {
+        "female": 2950001,
+        "male": 3157186,
+        "sex_ratio": 934,
+        "total": 6107187
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 1.55,
+            "population": 94783
+        },
+        "Christian": {
+            "percentage": 0.39,
+            "population": 23946
+        },
+        "Hindu": {
+            "percentage": 85.75,
+            "population": 5237009
+        },
+        "Jain": {
+            "percentage": 0.63,
+            "population": 38212
+        },
+        "Muslims": {
+            "percentage": 11.35,
+            "population": 693052
+        },
+        "Not Stated": {
+            "percentage": 0.16,
+            "population": 9478
+        },
+        "Others": {
+            "percentage": 0.03,
+            "population": 1795
+        },
+        "Sikh": {
+            "percentage": 0.15,
+            "population": 8912
+        }
+    },
+    "rural": {
+        "child_population_female": 233578,
+        "child_population_male": 262482,
+        "child_population_percentage": 14.13,
+        "child_population_percentage_calculated": 14.13,
+        "child_population_percentage_stated": 14.13,
+        "child_population_total": 496060,
+        "child_sex_ratio": 890,
+        "female": 1705102,
+        "literacy_rate_female": 69.31,
+        "literacy_rate_male": 84.71,
+        "literacy_rate_percentage": 77.19,
+        "literate_female": 1019968,
+        "literate_male": 1306464,
+        "literate_total": 2326432,
+        "male": 1804712,
+        "percentage_population": 57.47,
+        "population": 3509814,
+        "sex_ratio": 945
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/354-nashik.html",
+    "urban": {
+        "child_population_female": 156307,
+        "child_population_male": 175568,
+        "child_population_percentage": 12.78,
+        "child_population_percentage_calculated": 12.78,
+        "child_population_percentage_stated": 12.78,
+        "child_population_total": 331875,
+        "child_sex_ratio": 890,
+        "female": 1244899,
+        "literacy_rate_female": 85.23,
+        "literacy_rate_male": 92.71,
+        "literacy_rate_percentage": 89.12,
+        "literate_female": 927860,
+        "literate_male": 1091074,
+        "literate_total": 2018934,
+        "male": 1352474,
+        "percentage_population": 42.53,
+        "population": 2597373,
+        "sex_ratio": 920
+    }
+}

@@ -1,0 +1,43 @@
+{
+  "state": "Nagaland",
+  "constituency": "LONGKHIMCHARE",
+  "district": "Tuensang",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 21015,
+        "total_votes_polled": 19755,
+        "turnout_percentage": 94.3,
+        "margin_votes": 1848,
+        "margin_percentage": 9.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Muthingnyuba Sangtam",
+          "party": "Naga Peoples Front",
+          "votes": 9316,
+          "votes_percentage": 47.2
+        },
+        {
+          "position": 2,
+          "name": "A. Imtilemba Sangtam",
+          "party": "Bharatiya Janta Party",
+          "votes": 7468,
+          "votes_percentage": 37.8
+        },
+        {
+          "position": 3,
+          "name": "T. Cholongse Sangtam",
+          "party": "National People's Party",
+          "votes": 2971,
+          "votes_percentage": 15.0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "state": "Goa",
+  "year": "2004",
+  "summary_stats": {
+    "total_electors_state": 941167,
+    "total_votes_polled_state": 551090,
+    "turnout_percentage_state": 58.6,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Mormugao",
+      "ac_no": 2,
+      "ac_type": "GEN",
+      "district": "Goa",
+      "winning_candidate": "Alemao Churchil Braz",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 515504,
+      "total_votes_ac": 297186,
+      "poll_percentage_ac": 0.0,
+      "margin": 50524,
+      "margin_percentage": 17.0,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2004/goa/mormugao/6899/51/14"
+    },
+    {
+      "ac_name": "Panaji",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Goa",
+      "winning_candidate": "Shripad Yesso Naik",
+      "winning_party": "Bharatiya Janta Party",
+      "total_electors_ac": 425663,
+      "total_votes_ac": 253904,
+      "poll_percentage_ac": 0.0,
+      "margin": 56213,
+      "margin_percentage": 22.1,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2004/goa/panaji/6898/51/14"
+    }
+  ]
+}

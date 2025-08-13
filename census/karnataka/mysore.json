@@ -1,0 +1,123 @@
+{
+  "district": "Mysore",
+  "state": "Karnataka",
+  "source_urls": {
+    "primary_demographics": "https://www.census2011.co.in/census/district/263-mysore.html",
+    "sc_st_data": "https://www.censusindia.co.in/district/mysore-district-karnataka-577"
+  },
+  "total_population": {
+    "total": 3001127,
+    "male": 1511600,
+    "female": 1489527,
+    "sex_ratio": 985
+  },
+  "child_population_0_6": {
+    "total": 305561,
+    "male": 155807,
+    "female": 149754,
+    "sex_ratio": 961,
+    "percentage_of_total_population": 10.18
+  },
+  "literacy": {
+    "total_literate": 1962180,
+    "literacy_rate_percentage": 72.79,
+    "male_literate": 1063766,
+    "male_literacy_rate_percentage": 78.46,
+    "female_literate": 898414,
+    "female_literacy_rate_percentage": 67.06
+  },
+  "urban_rural_distribution": {
+    "urban": {
+      "percentage": 41.5,
+      "population": 1245413,
+      "male": 624100,
+      "female": 621313,
+      "sex_ratio": 996,
+      "child_population": {
+        "total": 121533,
+        "male": 62050,
+        "female": 59483,
+        "sex_ratio": 959,
+        "percentage_of_urban_population": 9.76
+      },
+      "literacy": {
+        "rate_percentage": 86.09,
+        "total_literate": 967510,
+        "male_literate": 503032,
+        "female_literate": 464478,
+        "male_literacy_rate_percentage": 89.5,
+        "female_literacy_rate_percentage": 82.67
+      }
+    },
+    "rural": {
+      "percentage": 58.5,
+      "population": 1755714,
+      "male": 887500,
+      "female": 868214,
+      "sex_ratio": 978,
+      "child_population": {
+        "total": 184028,
+        "male": 93757,
+        "female": 90271,
+        "sex_ratio": 963,
+        "percentage_of_rural_population": 10.48
+      },
+      "literacy": {
+        "rate_percentage": 63.29,
+        "total_literate": 994670,
+        "male_literate": 560734,
+        "female_literate": 433936,
+        "male_literacy_rate_percentage": 70.64,
+        "female_literacy_rate_percentage": 55.78
+      }
+    }
+  },
+  "religion_distribution": {
+    "hindu": {
+      "population": 2631985,
+      "percentage": 87.7
+    },
+    "muslim": {
+      "population": 290549,
+      "percentage": 9.68
+    },
+    "christian": {
+      "population": 39361,
+      "percentage": 1.31
+    },
+    "sikh": {
+      "population": 1255,
+      "percentage": 0.04
+    },
+    "buddhist": {
+      "population": 16194,
+      "percentage": 0.54
+    },
+    "jain": {
+      "population": 14419,
+      "percentage": 0.48
+    },
+    "others": {
+      "population": 493,
+      "percentage": 0.02
+    },
+    "not_stated": {
+      "population": 6871,
+      "percentage": 0.23
+    }
+  },
+  "sc_st_population": {
+    "scheduled_caste": {
+      "total": 536643,
+      "percentage_of_total_population": 17.9,
+      "male": 269331,
+      "female": 267312
+    },
+    "scheduled_tribe": {
+      "total": 334547,
+      "percentage_of_total_population": 11.1,
+      "male": 166697,
+      "female": 167850
+    }
+  }
+}

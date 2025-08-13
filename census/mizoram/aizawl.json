@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 25901,
+        "male": 26456,
+        "percentage_of_total_population": 13.08,
+        "percentage_of_total_population_calculated": 13.08,
+        "percentage_of_total_population_stated": 13.08,
+        "sex_ratio": 979,
+        "total": 52357
+    },
+    "literacy": {
+        "female_literacy_rate": 97.67,
+        "female_literate": 171048,
+        "male_literacy_rate": 98.11,
+        "male_literate": 169547,
+        "rate_percentage": 97.89,
+        "total_literate": 340595
+    },
+    "population": {
+        "female": 201039,
+        "male": 199270,
+        "sex_ratio": 1009,
+        "total": 400309
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.39,
+            "population": 1570
+        },
+        "Christian": {
+            "percentage": 94.71,
+            "population": 379134
+        },
+        "Hindu": {
+            "percentage": 3.31,
+            "population": 13249
+        },
+        "Jain": {
+            "percentage": 0.02,
+            "population": 76
+        },
+        "Muslims": {
+            "percentage": 1.31,
+            "population": 5264
+        },
+        "Not Stated": {
+            "percentage": 0.1,
+            "population": 406
+        },
+        "Others": {
+            "percentage": 0.13,
+            "population": 505
+        },
+        "Sikh": {
+            "percentage": 0.03,
+            "population": 105
+        }
+    },
+    "rural": {
+        "child_population_female": 6466,
+        "child_population_male": 6712,
+        "child_population_percentage": 15.4,
+        "child_population_percentage_calculated": 15.4,
+        "child_population_percentage_stated": 15.4,
+        "child_population_total": 13178,
+        "child_sex_ratio": 963,
+        "female": 41775,
+        "literacy_rate_female": 95.9,
+        "literacy_rate_male": 96.89,
+        "literacy_rate_percentage": 96.4,
+        "literate_female": 33861,
+        "literate_male": 35914,
+        "literate_total": 69775,
+        "male": 43780,
+        "percentage_population": 21.37,
+        "population": 85555,
+        "sex_ratio": 954
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/388-aizawl.html",
+    "urban": {
+        "child_population_female": 19441,
+        "child_population_male": 19738,
+        "child_population_percentage": 12.45,
+        "child_population_percentage_calculated": 12.45,
+        "child_population_percentage_stated": 12.45,
+        "child_population_total": 39179,
+        "child_sex_ratio": 985,
+        "female": 159264,
+        "literacy_rate_female": 98.11,
+        "literacy_rate_male": 98.44,
+        "literacy_rate_percentage": 98.27,
+        "literate_female": 137187,
+        "literate_male": 133633,
+        "literate_total": 270820,
+        "male": 155490,
+        "percentage_population": 78.63,
+        "population": 314754,
+        "sex_ratio": 1024
+    }
+}

@@ -1,0 +1,43 @@
+{
+  "state": "Madhya Pradesh [1947   1999]",
+  "constituency": "Khairlanji",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 67739,
+        "total_votes_polled": 41002,
+        "turnout_percentage": 60.5,
+        "margin_votes": 8224,
+        "margin_percentage": 20.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Domansingh Nagpure Alias Baba Patel",
+          "party": "Republican Party Of India (KHOBRAGADE)",
+          "votes": 22840,
+          "votes_percentage": 57.0
+        },
+        {
+          "position": 2,
+          "name": "Viseshwar Tajram",
+          "party": "Indian National Congress (I)",
+          "votes": 14616,
+          "votes_percentage": 36.5
+        },
+        {
+          "position": 3,
+          "name": "Bhageshwar Raoji",
+          "party": "Independent",
+          "votes": 2620,
+          "votes_percentage": 6.5
+        }
+      ]
+    }
+  }
+}

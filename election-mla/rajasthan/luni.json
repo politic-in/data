@@ -1,0 +1,708 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Luni",
+  "district": "Jodhpur",
+  "ac_type": "GEN",
+  "results": {
+    "2023": {
+      "poll_date": "25 November 2023",
+      "counting_date": "03 December 2023",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 670336,
+        "total_votes_polled": 242238,
+        "turnout_percentage": 36.4,
+        "margin_votes": 24678,
+        "margin_percentage": 10.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jogaram Patel",
+          "party": "Bharatiya Janta Party",
+          "votes": 123498,
+          "votes_percentage": 50.6
+        },
+        {
+          "position": 2,
+          "name": "Mahendra Bishnoi",
+          "party": "Indian National Congress",
+          "votes": 98820,
+          "votes_percentage": 40.5
+        },
+        {
+          "position": 3,
+          "name": "Badrilal",
+          "party": "Rashtriya Loktantrik Party",
+          "votes": 16529,
+          "votes_percentage": 6.8
+        },
+        {
+          "position": 4,
+          "name": "Rajuram",
+          "party": "Bahujan Samaj Party",
+          "votes": 2079,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Ugmaram Bheel",
+          "party": "Bheem Tribal Congress",
+          "votes": 1312,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 284055,
+        "total_votes_polled": 220756,
+        "turnout_percentage": 78.5,
+        "margin_votes": 9157,
+        "margin_percentage": 4.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mahendra Vishnoi",
+          "party": "Indian National Congress",
+          "votes": 84979,
+          "votes_percentage": 38.5
+        },
+        {
+          "position": 2,
+          "name": "Jogaram Patel",
+          "party": "Bharatiya Janta Party",
+          "votes": 75822,
+          "votes_percentage": 34.4
+        },
+        {
+          "position": 3,
+          "name": "Bhanwar Lal",
+          "party": "Rashtriya Loktantrik Party",
+          "votes": 30662,
+          "votes_percentage": 13.9
+        },
+        {
+          "position": 4,
+          "name": "Pappu Singh",
+          "party": "Bahujan Samaj Party",
+          "votes": 23750,
+          "votes_percentage": 10.8
+        },
+        {
+          "position": 5,
+          "name": "Anand Singh",
+          "party": "Nationalist People's Front",
+          "votes": 1514,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Madan Das",
+          "party": "Naya Bharat Party",
+          "votes": 1224,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Bhalla Ram",
+          "party": "Independent",
+          "votes": 973,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Kailash Kumar",
+          "party": "Independent",
+          "votes": 934,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Prem Singh",
+          "party": "Aam Aadmi Party",
+          "votes": 898,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "01 December 2013",
+      "counting_date": "08 December 2013",
+      "total_contestants": 12,
+      "aggregate": {
+        "total_electors": 243761,
+        "total_votes_polled": 183787,
+        "turnout_percentage": 76.8,
+        "margin_votes": 35940,
+        "margin_percentage": 19.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jogaram Patel",
+          "party": "Bharatiya Janta Party",
+          "votes": 96386,
+          "votes_percentage": 52.4
+        },
+        {
+          "position": 2,
+          "name": "Amridevi Bishnoi",
+          "party": "Indian National Congress",
+          "votes": 60446,
+          "votes_percentage": 32.9
+        },
+        {
+          "position": 3,
+          "name": "Rajendra Choudhary",
+          "party": "Independent",
+          "votes": 18966,
+          "votes_percentage": 10.3
+        },
+        {
+          "position": 4,
+          "name": "Isharam",
+          "party": "Bahujan Samaj Party",
+          "votes": 2630,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 5,
+          "name": "Anand Singh",
+          "party": "Bharatiya Yuva Shakti",
+          "votes": 1667,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Roshan",
+          "party": "Independent",
+          "votes": 993,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Mohammed Ramzan Khan",
+          "party": "Independent",
+          "votes": 854,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Premsingh",
+          "party": "Akhil Bhartiya Aamjan Party",
+          "votes": 440,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Devilal",
+          "party": "Independent",
+          "votes": 397,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Sumer Singh",
+          "party": "Jago Party",
+          "votes": 395,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Rajeev",
+          "party": "Janata Dal (United)",
+          "votes": 312,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Santosh Kumar",
+          "party": "Samajwadi Party",
+          "votes": 301,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2008": {
+      "poll_date": "04 December 2008",
+      "counting_date": "08 December 2008",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 211562,
+        "total_votes_polled": 150601,
+        "turnout_percentage": 71.2,
+        "margin_votes": 15499,
+        "margin_percentage": 10.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Malkhan Singh",
+          "party": "Indian National Congress",
+          "votes": 63316,
+          "votes_percentage": 42.0
+        },
+        {
+          "position": 2,
+          "name": "Jogaram Patel",
+          "party": "Bharatiya Janta Party",
+          "votes": 47817,
+          "votes_percentage": 31.8
+        },
+        {
+          "position": 3,
+          "name": "Kishore",
+          "party": "Bahujan Samaj Party",
+          "votes": 32632,
+          "votes_percentage": 21.7
+        },
+        {
+          "position": 4,
+          "name": "Rugha Ram",
+          "party": "Nationalist Congress Party",
+          "votes": 1751,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 5,
+          "name": "Himta Ram",
+          "party": "Independent",
+          "votes": 1636,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Jairoopa Ram",
+          "party": "Independent",
+          "votes": 794,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Rajkumar Singh",
+          "party": "Independent",
+          "votes": 754,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Arjun Singh",
+          "party": "Lok Jan Shakti Party",
+          "votes": 644,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Ugma Ram",
+          "party": "Indian Justice Party",
+          "votes": 479,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Prem Singh",
+          "party": "Jago Party",
+          "votes": 446,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 11,
+          "name": "Om Prakash",
+          "party": "Independent",
+          "votes": 332,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2003": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 161435,
+        "total_votes_polled": 111336,
+        "turnout_percentage": 69.0,
+        "margin_votes": 1356,
+        "margin_percentage": 1.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ram Singh Vishnoi",
+          "party": "Indian National Congress",
+          "votes": 37574,
+          "votes_percentage": 33.8
+        },
+        {
+          "position": 2,
+          "name": "Joga Ram Patel",
+          "party": "Rajasthan Samajik Nyaya Manch",
+          "votes": 36218,
+          "votes_percentage": 32.5
+        },
+        {
+          "position": 3,
+          "name": "Hanuman Ram Vishnoi",
+          "party": "Bharatiya Janta Party",
+          "votes": 20137,
+          "votes_percentage": 18.1
+        },
+        {
+          "position": 4,
+          "name": "Jagdish",
+          "party": "Bahujan Samaj Party",
+          "votes": 13793,
+          "votes_percentage": 12.4
+        },
+        {
+          "position": 5,
+          "name": "Rugha Ram Choudary",
+          "party": "Independent",
+          "votes": 2121,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 6,
+          "name": "Prema Ram",
+          "party": "Independent",
+          "votes": 1473,
+          "votes_percentage": 1.3
+        }
+      ]
+    },
+    "1998": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 137337,
+        "total_votes_polled": 97618,
+        "turnout_percentage": 71.1,
+        "margin_votes": 2309,
+        "margin_percentage": 2.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ram Singh Vishnoi",
+          "party": "Indian National Congress",
+          "votes": 36063,
+          "votes_percentage": 37.4
+        },
+        {
+          "position": 2,
+          "name": "Jaswant Singh Bishnoi",
+          "party": "Bharatiya Janta Party",
+          "votes": 33754,
+          "votes_percentage": 35.0
+        },
+        {
+          "position": 3,
+          "name": "Vijay Poonia",
+          "party": "Independent",
+          "votes": 24188,
+          "votes_percentage": 25.1
+        },
+        {
+          "position": 4,
+          "name": "Jeewa Ram Sargara",
+          "party": "Bahujan Samaj Party",
+          "votes": 1164,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 5,
+          "name": "Pema Ram Choudhary",
+          "party": "Independent",
+          "votes": 548,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Amba Lal Dadhich",
+          "party": "Independent",
+          "votes": 343,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Aladin",
+          "party": "Independent",
+          "votes": 266,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "1993": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 125186,
+        "total_votes_polled": 77602,
+        "turnout_percentage": 62.0,
+        "margin_votes": 3851,
+        "margin_percentage": 5.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jaswant Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 37772,
+          "votes_percentage": 49.7
+        },
+        {
+          "position": 2,
+          "name": "Ram Singh Vishnol",
+          "party": "Indian National Congress",
+          "votes": 33921,
+          "votes_percentage": 44.6
+        },
+        {
+          "position": 3,
+          "name": "Nathuram",
+          "party": "Independent",
+          "votes": 2631,
+          "votes_percentage": 3.5
+        },
+        {
+          "position": 4,
+          "name": "Narayan",
+          "party": "Independent",
+          "votes": 684,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Maan Singh",
+          "party": "Doordarshi Party",
+          "votes": 625,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Madan Das Vaishanav",
+          "party": "Shiv Sena",
+          "votes": 266,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Jetha Ram Patel",
+          "party": "Independent",
+          "votes": 82,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "Chander Shekhar",
+          "party": "Independent",
+          "votes": 76,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1990": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 113576,
+        "total_votes_polled": 79680,
+        "turnout_percentage": 70.2,
+        "margin_votes": 12094,
+        "margin_percentage": 15.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ram Singh Vishnoi",
+          "party": "Indian National Congress",
+          "votes": 39549,
+          "votes_percentage": 50.2
+        },
+        {
+          "position": 2,
+          "name": "Budha Ram",
+          "party": "Janata Dal",
+          "votes": 27455,
+          "votes_percentage": 34.9
+        },
+        {
+          "position": 3,
+          "name": "Chandan Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 11072,
+          "votes_percentage": 14.1
+        },
+        {
+          "position": 4,
+          "name": "Poona Ram",
+          "party": "Independent",
+          "votes": 234,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 5,
+          "name": "Raj Kumar Chuhil",
+          "party": "Akhil Bharatiya Hindu Mahasabha",
+          "votes": 147,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 6,
+          "name": "Om Prakash Solanki",
+          "party": "Doordarshi Party",
+          "votes": 129,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Bagta Ram",
+          "party": "Independent",
+          "votes": 69,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "Oma Ram",
+          "party": "Independent",
+          "votes": 63,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Nahar Singh",
+          "party": "Independent",
+          "votes": 46,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1985": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 95353,
+        "total_votes_polled": 50727,
+        "turnout_percentage": 53.2,
+        "margin_votes": 34626,
+        "margin_percentage": 68.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ram Singh",
+          "party": "Indian National Congress",
+          "votes": 41253,
+          "votes_percentage": 82.6
+        },
+        {
+          "position": 2,
+          "name": "Amba Lal",
+          "party": "Bharatiya Janta Party",
+          "votes": 6627,
+          "votes_percentage": 13.3
+        },
+        {
+          "position": 3,
+          "name": "Gokal Ram",
+          "party": "Independent",
+          "votes": 1145,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 4,
+          "name": "Jagdish Rathore",
+          "party": "Independent",
+          "votes": 930,
+          "votes_percentage": 1.9
+        }
+      ]
+    },
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 80152,
+        "total_votes_polled": 45152,
+        "turnout_percentage": 56.3,
+        "margin_votes": 7686,
+        "margin_percentage": 17.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ram Singh Bisnoi",
+          "party": "Indian National Congress (I)",
+          "votes": 25474,
+          "votes_percentage": 57.5
+        },
+        {
+          "position": 2,
+          "name": "Ramnarayan Bisnoi",
+          "party": "Janata Party (SECULAR) - CH. CHARAN SINGH",
+          "votes": 17788,
+          "votes_percentage": 40.1
+        },
+        {
+          "position": 3,
+          "name": "Gokul Ram",
+          "party": "Independent",
+          "votes": 507,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 4,
+          "name": "Jaswant Singh Choudhary",
+          "party": "Independent",
+          "votes": 303,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Kan Singh",
+          "party": "Independent",
+          "votes": 266,
+          "votes_percentage": 0.6
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 68232,
+        "total_votes_polled": 45755,
+        "turnout_percentage": 67.1,
+        "margin_votes": 6666,
+        "margin_percentage": 14.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ram Singh Vishoni",
+          "party": "Indian National Congress",
+          "votes": 25702,
+          "votes_percentage": 57.5
+        },
+        {
+          "position": 2,
+          "name": "Ram Narain Vishnoi",
+          "party": "Janta Party",
+          "votes": 19036,
+          "votes_percentage": 42.6
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+    "district": "Ramanathapuram",
+    "state": "Tamil Nadu",
+    "source_census2011": "https://www.census2011.co.in/census/district/48-ramanathapuram.html",
+    "source_secondary": "https://www.censusindia.co.in/district/ramanathapuram-district-tamil-nadu-626",
+    "population": {
+        "total": 1353445,
+        "male": 682658,
+        "female": 670787,
+        "sex_ratio": 983
+    },
+    "child_population": {
+        "total": 140644,
+        "male": 71705,
+        "female": 68939,
+        "sex_ratio": 961,
+        "percentage_of_total_population": 10.39,
+        "percentage_of_total_population_calculated": 10.39,
+        "percentage_of_total_population_stated": 10.39
+    },
+    "religion": {
+        "Hindu": {
+            "population": 1047411,
+            "percentage": 77.39
+        },
+        "Muslims": {
+            "population": 208038,
+            "percentage": 15.37
+        },
+        "Christian": {
+            "population": 91139,
+            "percentage": 6.73
+        },
+        "Sikh": {
+            "population": 154,
+            "percentage": 0.01
+        },
+        "Buddhist": {
+            "population": 86,
+            "percentage": 0.01
+        },
+        "Jain": {
+            "population": 29,
+            "percentage": 0.0
+        },
+        "Others": {
+            "population": 36,
+            "percentage": 0.0
+        },
+        "Not Stated": {
+            "population": 6552,
+            "percentage": 0.48
+        }
+    },
+    "rural": {
+        "population": 942746,
+        "male": 474508,
+        "female": 468238,
+        "sex_ratio": 987,
+        "percentage_population": 69.66,
+        "child_population_total": 96420,
+        "child_population_male": 49176,
+        "child_population_female": 47244,
+        "child_sex_ratio": 961,
+        "child_population_percentage": 10.23,
+        "child_population_percentage_calculated": 10.23,
+        "child_population_percentage_stated": 10.23,
+        "literacy_rate_percentage": 77.03,
+        "literacy_rate_male": 0,
+        "literacy_rate_female": 0,
+        "literate_total": 651919,
+        "literate_male": 362778,
+        "literate_female": 289141
+    },
+    "urban": {
+        "population": 410699,
+        "male": 208150,
+        "female": 202549,
+        "sex_ratio": 973,
+        "percentage_population": 30.34,
+        "child_population_total": 44224,
+        "child_population_male": 22529,
+        "child_population_female": 21695,
+        "child_sex_ratio": 963,
+        "child_population_percentage": 10.77,
+        "child_population_percentage_calculated": 10.77,
+        "child_population_percentage_stated": 10.77,
+        "literacy_rate_percentage": 89.24,
+        "literacy_rate_male": 0,
+        "literacy_rate_female": 0,
+        "literate_total": 327027,
+        "literate_male": 173709,
+        "literate_female": 153318
+    },
+    "scheduled_caste": {
+        "total": 249008,
+        "male": 125015,
+        "female": 123993,
+        "percentage_of_total_population": 18.4
+    },
+    "scheduled_tribe": {
+        "total": 1105,
+        "male": 559,
+        "female": 546,
+        "percentage_of_total_population": 0.1
+    }
+}

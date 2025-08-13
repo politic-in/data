@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 33782,
+        "male": 39144,
+        "percentage_of_total_population": 10.65,
+        "percentage_of_total_population_calculated": 10.65,
+        "percentage_of_total_population_stated": 10.65,
+        "sex_ratio": 863,
+        "total": 72926
+    },
+    "literacy": {
+        "female_literacy_rate": 76.42,
+        "female_literate": 224197,
+        "male_literacy_rate": 87.5,
+        "male_literate": 278534,
+        "rate_percentage": 82.19,
+        "total_literate": 502731
+    },
+    "population": {
+        "female": 327142,
+        "male": 357485,
+        "sex_ratio": 915,
+        "total": 684627
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 118
+        },
+        "Christian": {
+            "percentage": 0.31,
+            "population": 2094
+        },
+        "Hindu": {
+            "percentage": 44.47,
+            "population": 304481
+        },
+        "Jain": {
+            "percentage": 0.1,
+            "population": 653
+        },
+        "Muslims": {
+            "percentage": 2.12,
+            "population": 14492
+        },
+        "Not Stated": {
+            "percentage": 0.23,
+            "population": 1601
+        },
+        "Others": {
+            "percentage": 0.02,
+            "population": 143
+        },
+        "Sikh": {
+            "percentage": 52.74,
+            "population": 361045
+        }
+    },
+    "rural": {
+        "child_population_female": 25450,
+        "child_population_male": 29629,
+        "child_population_percentage": 10.87,
+        "child_population_percentage_calculated": 10.87,
+        "child_population_percentage_stated": 10.87,
+        "child_population_total": 55079,
+        "child_sex_ratio": 859,
+        "female": 242731,
+        "literacy_rate_female": 74.35,
+        "literacy_rate_male": 86.74,
+        "literacy_rate_percentage": 80.78,
+        "literate_female": 161546,
+        "literate_male": 203376,
+        "literate_total": 364922,
+        "male": 264089,
+        "percentage_population": 74.03,
+        "population": 506820,
+        "sex_ratio": 919
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/604-rupnagar.html",
+    "urban": {
+        "child_population_female": 8324,
+        "child_population_male": 9523,
+        "child_population_percentage": 10.04,
+        "child_population_percentage_calculated": 10.04,
+        "child_population_percentage_stated": 10.04,
+        "child_population_total": 17847,
+        "child_sex_ratio": 874,
+        "female": 84411,
+        "literacy_rate_female": 82.34,
+        "literacy_rate_male": 89.61,
+        "literacy_rate_percentage": 86.15,
+        "literate_female": 62651,
+        "literate_male": 75158,
+        "literate_total": 137809,
+        "male": 93396,
+        "percentage_population": 25.97,
+        "population": 177807,
+        "sex_ratio": 904
+    }
+}

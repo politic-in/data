@@ -1,0 +1,85 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Baadi",
+  "district": "Dhaulpur",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 204363,
+        "total_votes_polled": 179981,
+        "turnout_percentage": 88.9,
+        "margin_votes": 19683,
+        "margin_percentage": 10.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Girraj Singh",
+          "party": "Indian National Congress",
+          "votes": 79712,
+          "votes_percentage": 44.3
+        },
+        {
+          "position": 2,
+          "name": "Jasvant Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 60029,
+          "votes_percentage": 33.4
+        },
+        {
+          "position": 3,
+          "name": "Ramhet",
+          "party": "Bahujan Samaj Party",
+          "votes": 36798,
+          "votes_percentage": 20.5
+        },
+        {
+          "position": 4,
+          "name": "Ramhet",
+          "party": "Independent",
+          "votes": 892,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "Brijmohan",
+          "party": "Independent",
+          "votes": 889,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Bahadursingh",
+          "party": "Independent",
+          "votes": 731,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Imamuddeen",
+          "party": "Independent",
+          "votes": 465,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Girraj Singh",
+          "party": "Independent",
+          "votes": 324,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Jeetendra",
+          "party": "Independent",
+          "votes": 141,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

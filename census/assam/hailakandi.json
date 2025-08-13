@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 54329,
+        "male": 56949,
+        "percentage_of_total_population": 16.88,
+        "percentage_of_total_population_calculated": 16.88,
+        "percentage_of_total_population_stated": 16.88,
+        "sex_ratio": 954,
+        "total": 111278
+    },
+    "literacy": {
+        "female_literacy_rate": 67.6,
+        "female_literate": 180530,
+        "male_literacy_rate": 80.74,
+        "male_literate": 226836,
+        "rate_percentage": 74.33,
+        "total_literate": 407366
+    },
+    "population": {
+        "female": 321406,
+        "male": 337890,
+        "sex_ratio": 951,
+        "total": 659296
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.07,
+            "population": 490
+        },
+        "Christian": {
+            "percentage": 1.29,
+            "population": 8480
+        },
+        "Hindu": {
+            "percentage": 38.1,
+            "population": 251194
+        },
+        "Jain": {
+            "percentage": 0.04,
+            "population": 247
+        },
+        "Muslims": {
+            "percentage": 60.31,
+            "population": 397653
+        },
+        "Not Stated": {
+            "percentage": 0.08,
+            "population": 512
+        },
+        "Others": {
+            "percentage": 0.1,
+            "population": 636
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 84
+        }
+    },
+    "rural": {
+        "child_population_female": 52056,
+        "child_population_male": 54561,
+        "child_population_percentage": 17.45,
+        "child_population_percentage_calculated": 17.45,
+        "child_population_percentage_stated": 17.45,
+        "child_population_total": 106617,
+        "child_sex_ratio": 954,
+        "female": 297409,
+        "literacy_rate_female": 65.57,
+        "literacy_rate_male": 79.51,
+        "literacy_rate_percentage": 72.73,
+        "literate_female": 160873,
+        "literate_male": 206089,
+        "literate_total": 366962,
+        "male": 313747,
+        "percentage_population": 92.7,
+        "population": 611156,
+        "sex_ratio": 948
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/153-hailakandi.html",
+    "urban": {
+        "child_population_female": 2286,
+        "child_population_male": 2375,
+        "child_population_percentage": 9.68,
+        "child_population_percentage_calculated": 9.68,
+        "child_population_percentage_stated": 9.68,
+        "child_population_total": 4661,
+        "child_sex_ratio": 963,
+        "female": 23997,
+        "literacy_rate_female": 90.54,
+        "literacy_rate_male": 95.31,
+        "literacy_rate_percentage": 92.93,
+        "literate_female": 19657,
+        "literate_male": 20747,
+        "literate_total": 40404,
+        "male": 24143,
+        "percentage_population": 7.3,
+        "population": 48140,
+        "sex_ratio": 994
+    }
+}

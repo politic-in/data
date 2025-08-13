@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 9999,
+        "male": 10537,
+        "percentage_of_total_population": 10.55,
+        "percentage_of_total_population_calculated": 10.55,
+        "percentage_of_total_population_stated": 10.55,
+        "sex_ratio": 949,
+        "total": 20536
+    },
+    "literacy": {
+        "female_literacy_rate": 91.01,
+        "female_literate": 76015,
+        "male_literacy_rate": 92.18,
+        "male_literate": 83479,
+        "rate_percentage": 91.62,
+        "total_literate": 159494
+    },
+    "population": {
+        "female": 93530,
+        "male": 101092,
+        "sex_ratio": 925,
+        "total": 194622
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.23,
+            "population": 442
+        },
+        "Christian": {
+            "percentage": 93.44,
+            "population": 181847
+        },
+        "Hindu": {
+            "percentage": 5.06,
+            "population": 9840
+        },
+        "Jain": {
+            "percentage": 0.03,
+            "population": 66
+        },
+        "Muslims": {
+            "percentage": 1.06,
+            "population": 2057
+        },
+        "Not Stated": {
+            "percentage": 0.15,
+            "population": 286
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 6
+        },
+        "Sikh": {
+            "percentage": 0.04,
+            "population": 78
+        }
+    },
+    "rural": {
+        "child_population_female": 7258,
+        "child_population_male": 7649,
+        "child_population_percentage": 10.73,
+        "child_population_percentage_calculated": 10.73,
+        "child_population_percentage_stated": 10.73,
+        "child_population_total": 14907,
+        "child_sex_ratio": 949,
+        "female": 67524,
+        "literacy_rate_female": 90.11,
+        "literacy_rate_male": 91.5,
+        "literacy_rate_percentage": 90.82,
+        "literate_female": 54304,
+        "literate_male": 58307,
+        "literate_total": 112611,
+        "male": 71373,
+        "percentage_population": 71.37,
+        "population": 138897,
+        "sex_ratio": 946
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/609-mokokchung.html",
+    "urban": {
+        "child_population_female": 2744,
+        "child_population_male": 2885,
+        "child_population_percentage": 10.1,
+        "child_population_percentage_calculated": 10.1,
+        "child_population_percentage_stated": 10.1,
+        "child_population_total": 5629,
+        "child_sex_ratio": 951,
+        "female": 26006,
+        "literacy_rate_female": 93.33,
+        "literacy_rate_male": 93.81,
+        "literacy_rate_percentage": 93.59,
+        "literate_female": 21711,
+        "literate_male": 25172,
+        "literate_total": 46883,
+        "male": 29719,
+        "percentage_population": 28.63,
+        "population": 55725,
+        "sex_ratio": 875
+    }
+}

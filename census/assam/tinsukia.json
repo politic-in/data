@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 89058,
+        "male": 92768,
+        "percentage_of_total_population": 13.69,
+        "percentage_of_total_population_calculated": 13.69,
+        "percentage_of_total_population_stated": 13.69,
+        "sex_ratio": 960,
+        "total": 181826
+    },
+    "literacy": {
+        "female_literacy_rate": 61.73,
+        "female_literate": 344873,
+        "male_literacy_rate": 77.19,
+        "male_literate": 453449,
+        "rate_percentage": 69.66,
+        "total_literate": 798322
+    },
+    "population": {
+        "female": 647698,
+        "male": 680231,
+        "sex_ratio": 952,
+        "total": 1327929
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 1.22,
+            "population": 16228
+        },
+        "Christian": {
+            "percentage": 5.79,
+            "population": 76877
+        },
+        "Hindu": {
+            "percentage": 88.96,
+            "population": 1181347
+        },
+        "Jain": {
+            "percentage": 0.06,
+            "population": 837
+        },
+        "Muslims": {
+            "percentage": 3.64,
+            "population": 48373
+        },
+        "Not Stated": {
+            "percentage": 0.14,
+            "population": 1873
+        },
+        "Others": {
+            "percentage": 0.03,
+            "population": 395
+        },
+        "Sikh": {
+            "percentage": 0.15,
+            "population": 1999
+        }
+    },
+    "rural": {
+        "child_population_female": 76324,
+        "child_population_male": 78904,
+        "child_population_percentage": 14.6,
+        "child_population_percentage_calculated": 14.6,
+        "child_population_percentage_stated": 14.6,
+        "child_population_total": 155228,
+        "child_sex_ratio": 967,
+        "female": 521791,
+        "literacy_rate_female": 56.29,
+        "literacy_rate_male": 73.49,
+        "literacy_rate_percentage": 65.05,
+        "literate_female": 250738,
+        "literate_male": 339871,
+        "literate_total": 590609,
+        "male": 541395,
+        "percentage_population": 80.06,
+        "population": 1063186,
+        "sex_ratio": 964
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/166-tinsukia.html",
+    "urban": {
+        "child_population_female": 12725,
+        "child_population_male": 13873,
+        "child_population_percentage": 10.05,
+        "child_population_percentage_calculated": 10.05,
+        "child_population_percentage_stated": 10.05,
+        "child_population_total": 26598,
+        "child_sex_ratio": 917,
+        "female": 125907,
+        "literacy_rate_female": 83.17,
+        "literacy_rate_male": 90.89,
+        "literacy_rate_percentage": 87.22,
+        "literate_female": 94135,
+        "literate_male": 113578,
+        "literate_total": 207713,
+        "male": 138836,
+        "percentage_population": 19.94,
+        "population": 264743,
+        "sex_ratio": 907
+    }
+}

@@ -1,0 +1,64 @@
+{
+  "state": "Assam",
+  "constituency": "Boko (SC)",
+  "district": "Kamrup",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 197963,
+        "total_votes_polled": 174634,
+        "turnout_percentage": 89.2,
+        "margin_votes": 17594,
+        "margin_percentage": 10.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nandita Das",
+          "party": "Indian National Congress",
+          "votes": 69986,
+          "votes_percentage": 40.1
+        },
+        {
+          "position": 2,
+          "name": "Jyoti Prasad Das",
+          "party": "Asom Gana Parisad",
+          "votes": 52392,
+          "votes_percentage": 30.0
+        },
+        {
+          "position": 3,
+          "name": "Gopi Nath Das",
+          "party": "All India United Democratic Front",
+          "votes": 42338,
+          "votes_percentage": 24.2
+        },
+        {
+          "position": 4,
+          "name": "Dr. Ghanashyam Das",
+          "party": "Independent",
+          "votes": 5794,
+          "votes_percentage": 3.3
+        },
+        {
+          "position": 5,
+          "name": "Anirban Das",
+          "party": "Independent",
+          "votes": 2976,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 6,
+          "name": "Nitish Ranjan Das",
+          "party": "Independent",
+          "votes": 1148,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

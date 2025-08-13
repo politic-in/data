@@ -1,0 +1,78 @@
+{
+  "state": "Kerala",
+  "constituency": "Kazhakoottam",
+  "district": "Thiruvananthapuram",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "06 April 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 181248,
+        "total_votes_polled": 137657,
+        "turnout_percentage": 76.3,
+        "margin_votes": 23497,
+        "margin_percentage": 17.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kadakampally Surendran",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 63690,
+          "votes_percentage": 46.3
+        },
+        {
+          "position": 2,
+          "name": "Sobha Surendran",
+          "party": "Bharatiya Janta Party",
+          "votes": 40193,
+          "votes_percentage": 29.2
+        },
+        {
+          "position": 3,
+          "name": "Dr. S. S. Lal",
+          "party": "Indian National Congress",
+          "votes": 32995,
+          "votes_percentage": 24.0
+        },
+        {
+          "position": 4,
+          "name": "Kochumani",
+          "party": "Bahujan Samaj Party",
+          "votes": 377,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 5,
+          "name": "V. Sasikumaran Nair",
+          "party": "Independent",
+          "votes": 129,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 6,
+          "name": "Lalumon",
+          "party": "Independent",
+          "votes": 112,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 7,
+          "name": "Syamlal",
+          "party": "Independent",
+          "votes": 85,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "Adv. Sen A. G.",
+          "party": "Independent",
+          "votes": 76,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

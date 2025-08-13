@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 108713,
+        "male": 113242,
+        "percentage_of_total_population": 19.29,
+        "percentage_of_total_population_calculated": 19.29,
+        "percentage_of_total_population_stated": 19.29,
+        "sex_ratio": 960,
+        "total": 221955
+    },
+    "literacy": {
+        "female_literacy_rate": 43.31,
+        "female_literate": 195960,
+        "male_literacy_rate": 60.34,
+        "male_literate": 287303,
+        "rate_percentage": 52.04,
+        "total_literate": 483263
+    },
+    "population": {
+        "female": 561176,
+        "male": 589391,
+        "sex_ratio": 952,
+        "total": 1150567
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 245
+        },
+        "Christian": {
+            "percentage": 7.23,
+            "population": 83208
+        },
+        "Hindu": {
+            "percentage": 54.59,
+            "population": 628044
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 125
+        },
+        "Muslims": {
+            "percentage": 34.61,
+            "population": 398243
+        },
+        "Not Stated": {
+            "percentage": 0.18,
+            "population": 2078
+        },
+        "Others": {
+            "percentage": 3.34,
+            "population": 38426
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 198
+        }
+    },
+    "rural": {
+        "child_population_female": 96604,
+        "child_population_male": 100386,
+        "child_population_percentage": 19.88,
+        "child_population_percentage_calculated": 19.88,
+        "child_population_percentage_stated": 19.88,
+        "child_population_total": 196990,
+        "child_sex_ratio": 962,
+        "female": 485009,
+        "literacy_rate_female": 39.53,
+        "literacy_rate_male": 56.99,
+        "literacy_rate_percentage": 48.45,
+        "literate_female": 153550,
+        "literate_male": 231109,
+        "literate_total": 384659,
+        "male": 505892,
+        "percentage_population": 86.12,
+        "population": 990901,
+        "sex_ratio": 959
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/114-sahibganj.html",
+    "urban": {
+        "child_population_female": 12131,
+        "child_population_male": 12834,
+        "child_population_percentage": 15.64,
+        "child_population_percentage_calculated": 15.64,
+        "child_population_percentage_stated": 15.64,
+        "child_population_total": 24965,
+        "child_sex_ratio": 945,
+        "female": 76167,
+        "literacy_rate_female": 66.23,
+        "literacy_rate_male": 79.52,
+        "literacy_rate_percentage": 73.2,
+        "literate_female": 42410,
+        "literate_male": 56194,
+        "literate_total": 98604,
+        "male": 83499,
+        "percentage_population": 13.88,
+        "population": 159666,
+        "sex_ratio": 912
+    }
+}

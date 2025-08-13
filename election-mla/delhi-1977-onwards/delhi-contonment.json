@@ -1,0 +1,85 @@
+{
+  "state": "Delhi [1977 Onwards]",
+  "constituency": "Delhi Contonment",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1983": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 35064,
+        "total_votes_polled": 17604,
+        "turnout_percentage": 50.2,
+        "margin_votes": 1506,
+        "margin_percentage": 8.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Karan Singh Tanwar",
+          "party": "Bharatiya Janta Party",
+          "votes": 9389,
+          "votes_percentage": 53.3
+        },
+        {
+          "position": 2,
+          "name": "Vimal Negi",
+          "party": "Indian National Congress",
+          "votes": 7883,
+          "votes_percentage": 44.8
+        },
+        {
+          "position": 3,
+          "name": "E.M. Massey",
+          "party": "Independent",
+          "votes": 180,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 4,
+          "name": "Mukhtiar Singh",
+          "party": "Independent",
+          "votes": 150,
+          "votes_percentage": 0.9
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 24835,
+        "total_votes_polled": 14149,
+        "turnout_percentage": 57.0,
+        "margin_votes": 441,
+        "margin_percentage": 3.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Vimal Nagi",
+          "party": "Indian National Congress",
+          "votes": 6012,
+          "votes_percentage": 42.9
+        },
+        {
+          "position": 2,
+          "name": "Inder Sen",
+          "party": "Janta Party",
+          "votes": 5571,
+          "votes_percentage": 39.8
+        },
+        {
+          "position": 3,
+          "name": "Brij Lal Dua",
+          "party": "Independent",
+          "votes": 2430,
+          "votes_percentage": 17.3
+        }
+      ]
+    }
+  }
+}

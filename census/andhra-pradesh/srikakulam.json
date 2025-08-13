@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 137210,
+        "male": 143827,
+        "percentage_of_total_population": 10.4,
+        "percentage_of_total_population_calculated": 10.4,
+        "percentage_of_total_population_stated": 10.4,
+        "sex_ratio": 954,
+        "total": 281037
+    },
+    "literacy": {
+        "female_literacy_rate": 52.08,
+        "female_literate": 637557,
+        "male_literacy_rate": 71.61,
+        "male_literate": 857824,
+        "rate_percentage": 61.74,
+        "total_literate": 1495381
+    },
+    "population": {
+        "female": 1361376,
+        "male": 1341738,
+        "sex_ratio": 1015,
+        "total": 2703114
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.0,
+            "population": 77
+        },
+        "Christian": {
+            "percentage": 0.7,
+            "population": 18879
+        },
+        "Hindu": {
+            "percentage": 98.66,
+            "population": 2666950
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 160
+        },
+        "Muslims": {
+            "percentage": 0.33,
+            "population": 9025
+        },
+        "Not Stated": {
+            "percentage": 0.29,
+            "population": 7724
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 106
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 193
+        }
+    },
+    "rural": {
+        "child_population_female": 116599,
+        "child_population_male": 121732,
+        "child_population_percentage": 10.52,
+        "child_population_percentage_calculated": 10.52,
+        "child_population_percentage_stated": 10.52,
+        "child_population_total": 238331,
+        "child_sex_ratio": 958,
+        "female": 1139523,
+        "literacy_rate_female": 48.35,
+        "literacy_rate_male": 68.86,
+        "literacy_rate_percentage": 58.51,
+        "literate_female": 494540,
+        "literate_male": 692122,
+        "literate_total": 1186662,
+        "male": 1126888,
+        "percentage_population": 83.84,
+        "population": 2266411,
+        "sex_ratio": 1011
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/128-srikakulam.html",
+    "urban": {
+        "child_population_female": 20603,
+        "child_population_male": 22103,
+        "child_population_percentage": 9.78,
+        "child_population_percentage_calculated": 9.78,
+        "child_population_percentage_stated": 9.78,
+        "child_population_total": 42706,
+        "child_sex_ratio": 932,
+        "female": 221853,
+        "literacy_rate_female": 71.06,
+        "literacy_rate_male": 85.97,
+        "literacy_rate_percentage": 78.36,
+        "literate_female": 143017,
+        "literate_male": 165702,
+        "literate_total": 308719,
+        "male": 214850,
+        "percentage_population": 16.16,
+        "population": 436703,
+        "sex_ratio": 1033
+    }
+}

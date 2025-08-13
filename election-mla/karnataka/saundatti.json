@@ -1,0 +1,85 @@
+{
+  "state": "Karnataka",
+  "constituency": "Saundatti",
+  "district": "Belgaum",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "12 May 2018",
+      "counting_date": "11 June 2018",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 189163,
+        "total_votes_polled": 152747,
+        "turnout_percentage": 81.3,
+        "margin_votes": 6291,
+        "margin_percentage": 4.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Anand @ Vishwanath Chandrashekhar Mamani",
+          "party": "Bharatiya Janta Party",
+          "votes": 62480,
+          "votes_percentage": 40.9
+        },
+        {
+          "position": 2,
+          "name": "Anand Chopra",
+          "party": "Independent",
+          "votes": 56189,
+          "votes_percentage": 36.8
+        },
+        {
+          "position": 3,
+          "name": "Vishwas Vasant Vaidya",
+          "party": "Indian National Congress",
+          "votes": 30018,
+          "votes_percentage": 19.7
+        },
+        {
+          "position": 4,
+          "name": "Shameer Karimbeg Jamadar",
+          "party": "All India Mahila Empowerment Party",
+          "votes": 970,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 5,
+          "name": "Doddagouda Fakirgouda Patil",
+          "party": "Janata Dal (Secular)",
+          "votes": 758,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "D.B.Naik",
+          "party": "Independent",
+          "votes": 701,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Panchanagouda Kallappa Sanagoudra",
+          "party": "Samanya Janatha Party (Loktantrik)",
+          "votes": 616,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Ishwar Channappa Melagiri",
+          "party": "Janata Dal (United)",
+          "votes": 610,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Angadi Mahesh Gurappa",
+          "party": "Nationalist Congress Party",
+          "votes": 405,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

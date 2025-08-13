@@ -1,0 +1,120 @@
+{
+  "state": "Karnataka",
+  "constituency": "Yemkanmardi",
+  "district": "Belgaum",
+  "ac_type": "ST",
+  "results": {
+    "2023": {
+      "poll_date": "10 May 2023",
+      "counting_date": "10 May 2023",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 203074,
+        "total_votes_polled": 165450,
+        "turnout_percentage": 82.0,
+        "margin_votes": 57211,
+        "margin_percentage": 34.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Satish Laxmanarao Jarkiholi",
+          "party": "Indian National Congress",
+          "votes": 100290,
+          "votes_percentage": 60.3
+        },
+        {
+          "position": 2,
+          "name": "Basavaraj Hundri",
+          "party": "Bharatiya Janta Party",
+          "votes": 43079,
+          "votes_percentage": 25.9
+        },
+        {
+          "position": 3,
+          "name": "Astagi Maruti Mallappa",
+          "party": "Janata Dal (Secular)",
+          "votes": 19567,
+          "votes_percentage": 11.8
+        },
+        {
+          "position": 4,
+          "name": "Maruti Tippanna Naik",
+          "party": "Independent",
+          "votes": 2052,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 5,
+          "name": "Shivanand Laxman Sammakkanavar",
+          "party": "Independent",
+          "votes": 462,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2008": {
+      "poll_date": "16 May 2008",
+      "counting_date": "25 May 2008",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 148953,
+        "total_votes_polled": 108634,
+        "turnout_percentage": 72.9,
+        "margin_votes": 16781,
+        "margin_percentage": 15.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jarakiholi Satish Laxmanarao",
+          "party": "Indian National Congress",
+          "votes": 46132,
+          "votes_percentage": 42.5
+        },
+        {
+          "position": 2,
+          "name": "Balagouda  Malagouda  Patil",
+          "party": "Janata Dal (Secular)",
+          "votes": 29351,
+          "votes_percentage": 27.0
+        },
+        {
+          "position": 3,
+          "name": "Mallappa Laxman Muttennavar",
+          "party": "Bharatiya Janta Party",
+          "votes": 18557,
+          "votes_percentage": 17.1
+        },
+        {
+          "position": 4,
+          "name": "Kolekar Yalappa Hanumant",
+          "party": "Independent",
+          "votes": 10320,
+          "votes_percentage": 9.5
+        },
+        {
+          "position": 5,
+          "name": "Maruti Sannappa Gutaguddi",
+          "party": "Independent",
+          "votes": 2179,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 6,
+          "name": "Ramachandra Bhimappa Naik",
+          "party": "Bahujan Samaj Party",
+          "votes": 1201,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 7,
+          "name": "Pujeri Basavraj Irappa",
+          "party": "Independent",
+          "votes": 894,
+          "votes_percentage": 0.8
+        }
+      ]
+    }
+  }
+}

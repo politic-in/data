@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 118363,
+        "male": 123294,
+        "percentage_of_total_population": 10.31,
+        "percentage_of_total_population_calculated": 10.31,
+        "percentage_of_total_population_stated": 10.31,
+        "sex_ratio": 960,
+        "total": 241657
+    },
+    "literacy": {
+        "female_literacy_rate": 49.87,
+        "female_literate": 530885,
+        "male_literacy_rate": 68.15,
+        "male_literate": 707503,
+        "rate_percentage": 58.89,
+        "total_literate": 1238388
+    },
+    "population": {
+        "female": 1182997,
+        "male": 1161477,
+        "sex_ratio": 1019,
+        "total": 2344474
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.0,
+            "population": 114
+        },
+        "Christian": {
+            "percentage": 0.76,
+            "population": 17853
+        },
+        "Hindu": {
+            "percentage": 98.07,
+            "population": 2299129
+        },
+        "Jain": {
+            "percentage": 0.03,
+            "population": 815
+        },
+        "Muslims": {
+            "percentage": 0.7,
+            "population": 16423
+        },
+        "Not Stated": {
+            "percentage": 0.41,
+            "population": 9577
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 183
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 380
+        }
+    },
+    "rural": {
+        "child_population_female": 95540,
+        "child_population_male": 99319,
+        "child_population_percentage": 10.51,
+        "child_population_percentage_calculated": 10.51,
+        "child_population_percentage_stated": 10.51,
+        "child_population_total": 194859,
+        "child_sex_ratio": 962,
+        "female": 933135,
+        "literacy_rate_female": 44.0,
+        "literacy_rate_male": 63.73,
+        "literacy_rate_percentage": 53.77,
+        "literate_female": 368522,
+        "literate_male": 523316,
+        "literate_total": 891838,
+        "male": 920428,
+        "percentage_population": 79.06,
+        "population": 1853563,
+        "sex_ratio": 1014
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/129-vizianagaram.html",
+    "urban": {
+        "child_population_female": 22817,
+        "child_population_male": 23981,
+        "child_population_percentage": 9.53,
+        "child_population_percentage_calculated": 9.53,
+        "child_population_percentage_stated": 9.53,
+        "child_population_total": 46798,
+        "child_sex_ratio": 951,
+        "female": 249862,
+        "literacy_rate_female": 71.51,
+        "literacy_rate_male": 84.85,
+        "literacy_rate_percentage": 78.03,
+        "literate_female": 162363,
+        "literate_male": 184187,
+        "literate_total": 346550,
+        "male": 241049,
+        "percentage_population": 20.94,
+        "population": 490911,
+        "sex_ratio": 1037
+    }
+}

@@ -1,0 +1,64 @@
+{
+  "state": "Jammu & Kashmir",
+  "constituency": "KANGAN(ST)",
+  "district": "Ganderbal",
+  "ac_type": "GEN",
+  "results": {
+    "2024": {
+      "poll_date": "08 October 2024",
+      "counting_date": "08 October 2024",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 78718,
+        "total_votes_polled": 56283,
+        "turnout_percentage": 73.5,
+        "margin_votes": 3819,
+        "margin_percentage": 6.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mian Mehar Ali",
+          "party": "Jammu & Kashmir National Conference",
+          "votes": 28907,
+          "votes_percentage": 50.0
+        },
+        {
+          "position": 2,
+          "name": "Syed Jamat Ali Shah",
+          "party": "Jammu & Kashmir Peoples Democratic Party",
+          "votes": 25088,
+          "votes_percentage": 43.4
+        },
+        {
+          "position": 4,
+          "name": "Atta Mohammad Khatana",
+          "party": "Jammu And Kashmir Apni Party",
+          "votes": 718,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 5,
+          "name": "Mohd Ayoub Chohan",
+          "party": "All Jammu & Kashmir Liberal Democratic Party",
+          "votes": 621,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Abdul Majeed Baniyea",
+          "party": "Republican Party Of India (A)",
+          "votes": 595,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 7,
+          "name": "Gulam Rubani Tadwa",
+          "party": "Anarakshit Samaj Party",
+          "votes": 354,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

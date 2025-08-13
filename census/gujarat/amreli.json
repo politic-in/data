@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 81532,
+        "male": 92023,
+        "percentage_of_total_population": 11.46,
+        "percentage_of_total_population_calculated": 11.46,
+        "percentage_of_total_population_stated": 11.46,
+        "sex_ratio": 886,
+        "total": 173555
+    },
+    "literacy": {
+        "female_literacy_rate": 66.09,
+        "female_literate": 437279,
+        "male_literacy_rate": 82.21,
+        "male_literate": 558180,
+        "rate_percentage": 74.25,
+        "total_literate": 995459
+    },
+    "population": {
+        "female": 743141,
+        "male": 771049,
+        "sex_ratio": 964,
+        "total": 1514190
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 243
+        },
+        "Christian": {
+            "percentage": 0.06,
+            "population": 919
+        },
+        "Hindu": {
+            "percentage": 93.15,
+            "population": 1410463
+        },
+        "Jain": {
+            "percentage": 0.14,
+            "population": 2053
+        },
+        "Muslims": {
+            "percentage": 6.55,
+            "population": 99105
+        },
+        "Not Stated": {
+            "percentage": 0.06,
+            "population": 952
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 40
+        },
+        "Sikh": {
+            "percentage": 0.03,
+            "population": 415
+        }
+    },
+    "rural": {
+        "child_population_female": 61861,
+        "child_population_male": 69460,
+        "child_population_percentage": 11.65,
+        "child_population_percentage_calculated": 11.65,
+        "child_population_percentage_stated": 11.65,
+        "child_population_total": 131321,
+        "child_sex_ratio": 891,
+        "female": 555001,
+        "literacy_rate_female": 62.88,
+        "literacy_rate_male": 80.49,
+        "literacy_rate_percentage": 71.77,
+        "literate_female": 310105,
+        "literate_male": 404938,
+        "literate_total": 715043,
+        "male": 572554,
+        "percentage_population": 74.47,
+        "population": 1127555,
+        "sex_ratio": 969
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/194-amreli.html",
+    "urban": {
+        "child_population_female": 19647,
+        "child_population_male": 22587,
+        "child_population_percentage": 10.92,
+        "child_population_percentage_calculated": 10.92,
+        "child_population_percentage_stated": 10.92,
+        "child_population_total": 42234,
+        "child_sex_ratio": 870,
+        "female": 188140,
+        "literacy_rate_female": 75.48,
+        "literacy_rate_male": 87.11,
+        "literacy_rate_percentage": 81.42,
+        "literate_female": 127174,
+        "literate_male": 153242,
+        "literate_total": 280416,
+        "male": 198495,
+        "percentage_population": 25.53,
+        "population": 386635,
+        "sex_ratio": 948
+    }
+}

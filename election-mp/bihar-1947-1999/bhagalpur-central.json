@@ -1,0 +1,55 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "BHAGALPUR CENTRAL",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 306142,
+        "total_votes_polled": 145939,
+        "turnout_percentage": 47.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Banarshi Pd. Jhunjhunwala",
+          "party": "Indian National Congress",
+          "votes": 67332,
+          "votes_percentage": 46.1
+        },
+        {
+          "position": 2,
+          "name": "Sahajanand Kumar",
+          "party": "Socialist Party",
+          "votes": 33942,
+          "votes_percentage": 23.3
+        },
+        {
+          "position": 3,
+          "name": "Shiv Narayan Ram",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 20030,
+          "votes_percentage": 13.7
+        },
+        {
+          "position": 4,
+          "name": "Rameshwar Nath Tewari",
+          "party": "Independent",
+          "votes": 13655,
+          "votes_percentage": 9.4
+        },
+        {
+          "position": 5,
+          "name": "Shree Narayan Sinha",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 10980,
+          "votes_percentage": 7.5
+        }
+      ]
+    }
+  }
+}

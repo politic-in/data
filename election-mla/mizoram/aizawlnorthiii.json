@@ -1,0 +1,57 @@
+{
+  "state": "Mizoram",
+  "constituency": "AIZAWLNORTHIII",
+  "district": "Aizawl",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 19059,
+        "total_votes_polled": 14624,
+        "turnout_percentage": 77.0,
+        "margin_votes": 434,
+        "margin_percentage": 3.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "C Lalmuanpuia",
+          "party": "Mizo National Front",
+          "votes": 5166,
+          "votes_percentage": 35.3
+        },
+        {
+          "position": 2,
+          "name": "Lal Thanzara",
+          "party": "Indian National Congress",
+          "votes": 4732,
+          "votes_percentage": 32.4
+        },
+        {
+          "position": 3,
+          "name": "Lalhmingthanga",
+          "party": "Independent",
+          "votes": 4510,
+          "votes_percentage": 30.8
+        },
+        {
+          "position": 4,
+          "name": "Lalremsiama Ralte",
+          "party": "Independent",
+          "votes": 139,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Vl Awia",
+          "party": "Bharatiya Janta Party",
+          "votes": 77,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

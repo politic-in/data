@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 117945,
+        "male": 130183,
+        "percentage_of_total_population": 22.78,
+        "percentage_of_total_population_calculated": 22.78,
+        "percentage_of_total_population_stated": 22.78,
+        "sex_ratio": 906,
+        "total": 248128
+    },
+    "literacy": {
+        "female_literacy_rate": 36.6,
+        "female_literate": 146462,
+        "male_literacy_rate": 69.94,
+        "male_literate": 308435,
+        "rate_percentage": 54.08,
+        "total_literate": 454897
+    },
+    "population": {
+        "female": 518101,
+        "male": 571162,
+        "sex_ratio": 907,
+        "total": 1089263
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.05,
+            "population": 516
+        },
+        "Christian": {
+            "percentage": 0.11,
+            "population": 1235
+        },
+        "Hindu": {
+            "percentage": 20.37,
+            "population": 221846
+        },
+        "Jain": {
+            "percentage": 0.13,
+            "population": 1453
+        },
+        "Muslims": {
+            "percentage": 79.2,
+            "population": 862647
+        },
+        "Not Stated": {
+            "percentage": 0.09,
+            "population": 970
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 4
+        },
+        "Sikh": {
+            "percentage": 0.05,
+            "population": 592
+        }
+    },
+    "rural": {
+        "child_population_female": 107102,
+        "child_population_male": 117967,
+        "child_population_percentage": 23.32,
+        "child_population_percentage_calculated": 23.32,
+        "child_population_percentage_stated": 23.32,
+        "child_population_total": 225069,
+        "child_sex_ratio": 908,
+        "female": 459071,
+        "literacy_rate_female": 33.71,
+        "literacy_rate_male": 68.56,
+        "literacy_rate_percentage": 51.99,
+        "literate_female": 118663,
+        "literate_male": 266086,
+        "literate_total": 384749,
+        "male": 506086,
+        "percentage_population": 88.61,
+        "population": 965157,
+        "sex_ratio": 907
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/226-mewat.html",
+    "urban": {
+        "child_population_female": 10858,
+        "child_population_male": 12201,
+        "child_population_percentage": 18.58,
+        "child_population_percentage_calculated": 18.58,
+        "child_population_percentage_stated": 18.58,
+        "child_population_total": 23059,
+        "child_sex_ratio": 890,
+        "female": 59030,
+        "literacy_rate_female": 57.71,
+        "literacy_rate_male": 80.09,
+        "literacy_rate_percentage": 69.42,
+        "literate_female": 27799,
+        "literate_male": 42349,
+        "literate_total": 70148,
+        "male": 65076,
+        "percentage_population": 11.39,
+        "population": 124106,
+        "sex_ratio": 907
+    }
+}

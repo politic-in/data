@@ -1,0 +1,48 @@
+{
+  "state": "Rajasthan",
+  "constituency": "SIROHI PALI",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 380210,
+        "total_votes_polled": 159335,
+        "turnout_percentage": 41.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ajit Singh",
+          "party": "Independent",
+          "votes": 99925,
+          "votes_percentage": 62.7
+        },
+        {
+          "position": 2,
+          "name": "Gokal Bhai Bhutt",
+          "party": "Indian National Congress",
+          "votes": 37080,
+          "votes_percentage": 23.3
+        },
+        {
+          "position": 3,
+          "name": "Rani Devi Bhargava",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 11677,
+          "votes_percentage": 7.3
+        },
+        {
+          "position": 4,
+          "name": "Dharam Chand",
+          "party": "Independent",
+          "votes": 10653,
+          "votes_percentage": 6.7
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "state": "Tripura",
+  "constituency": "Pani Sagar",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2003": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 29723,
+        "total_votes_polled": 22525,
+        "turnout_percentage": 75.8,
+        "margin_votes": 1793,
+        "margin_percentage": 8.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Subodh Das",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 10931,
+          "votes_percentage": 48.6
+        },
+        {
+          "position": 2,
+          "name": "Bikash Sharma",
+          "party": "Indian National Congress",
+          "votes": 9138,
+          "votes_percentage": 40.6
+        },
+        {
+          "position": 3,
+          "name": "Tamal Kanti Deb",
+          "party": "Bharatiya Janta Party",
+          "votes": 1797,
+          "votes_percentage": 8.0
+        },
+        {
+          "position": 4,
+          "name": "Ajoy Kumar Das",
+          "party": "Independent",
+          "votes": 407,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 5,
+          "name": "Golapjit Rajkumar",
+          "party": "Nationalist Congress Party",
+          "votes": 231,
+          "votes_percentage": 1.0
+        }
+      ]
+    }
+  }
+}

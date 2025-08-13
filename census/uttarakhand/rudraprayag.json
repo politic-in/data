@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 15224,
+        "male": 16822,
+        "percentage_of_total_population": 13.23,
+        "percentage_of_total_population_calculated": 13.23,
+        "percentage_of_total_population_stated": 13.23,
+        "sex_ratio": 905,
+        "total": 32046
+    },
+    "literacy": {
+        "female_literacy_rate": 70.35,
+        "female_literate": 79130,
+        "male_literacy_rate": 93.9,
+        "male_literate": 91803,
+        "rate_percentage": 81.3,
+        "total_literate": 170933
+    },
+    "population": {
+        "female": 127696,
+        "male": 114589,
+        "sex_ratio": 1114,
+        "total": 242285
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.0,
+            "population": 9
+        },
+        "Christian": {
+            "percentage": 0.07,
+            "population": 171
+        },
+        "Hindu": {
+            "percentage": 99.13,
+            "population": 240170
+        },
+        "Jain": {
+            "percentage": 0.0,
+            "population": 4
+        },
+        "Muslims": {
+            "percentage": 0.61,
+            "population": 1486
+        },
+        "Not Stated": {
+            "percentage": 0.15,
+            "population": 363
+        },
+        "Others": {
+            "percentage": 0.02,
+            "population": 44
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 38
+        }
+    },
+    "rural": {
+        "child_population_female": 14755,
+        "child_population_male": 16240,
+        "child_population_percentage": 13.34,
+        "child_population_percentage_calculated": 13.34,
+        "child_population_percentage_stated": 13.34,
+        "child_population_total": 30995,
+        "child_sex_ratio": 909,
+        "female": 123620,
+        "literacy_rate_female": 69.89,
+        "literacy_rate_male": 93.9,
+        "literacy_rate_percentage": 80.92,
+        "literate_female": 76091,
+        "literate_male": 86853,
+        "literate_total": 162944,
+        "male": 108740,
+        "percentage_population": 95.9,
+        "population": 232360,
+        "sex_ratio": 1137
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/576-rudraprayag.html",
+    "urban": {
+        "child_population_female": 468,
+        "child_population_male": 583,
+        "child_population_percentage": 10.59,
+        "child_population_percentage_calculated": 10.59,
+        "child_population_percentage_stated": 10.59,
+        "child_population_total": 1051,
+        "child_sex_ratio": 803,
+        "female": 4076,
+        "literacy_rate_female": 84.23,
+        "literacy_rate_male": 94.0,
+        "literacy_rate_percentage": 90.03,
+        "literate_female": 3039,
+        "literate_male": 4950,
+        "literate_total": 7989,
+        "male": 5849,
+        "percentage_population": 4.1,
+        "population": 9925,
+        "sex_ratio": 697
+    }
+}

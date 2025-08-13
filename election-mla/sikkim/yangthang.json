@@ -1,0 +1,159 @@
+{
+  "state": "Sikkim",
+  "constituency": "Yangthang",
+  "district": "West",
+  "ac_type": "GEN",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 13191,
+        "total_votes_polled": 10622,
+        "turnout_percentage": 81.1,
+        "margin_votes": 47,
+        "margin_percentage": 0.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bhim Hang Limboo",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 5184,
+          "votes_percentage": 48.8
+        },
+        {
+          "position": 2,
+          "name": "Dal Bdr. Subba",
+          "party": "Sikkim Democratic Front",
+          "votes": 5137,
+          "votes_percentage": 48.4
+        },
+        {
+          "position": 3,
+          "name": "Dhan Singh Limboo",
+          "party": "Hamro Sikkim Party",
+          "votes": 115,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Mangal Subba (LIMBOO)",
+          "party": "Indian National Congress",
+          "votes": 93,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 4,
+          "name": "Binay Limboo (TSONG)",
+          "party": "Sikkim Republican Party",
+          "votes": 93,
+          "votes_percentage": 0.9
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "12 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 10986,
+        "total_votes_polled": 9305,
+        "turnout_percentage": 84.7,
+        "total_valid_votes": 9146,
+        "total_valid_votes_percentage": 83.3,
+        "margin_votes": 1639,
+        "margin_percentage": 17.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chandra Maya Limboo (SUBBA)",
+          "party": "Sikkim Democratic Front",
+          "votes": 5211,
+          "votes_percentage": 57.0
+        },
+        {
+          "position": 2,
+          "name": "Kharka Bdr. Subba",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 3572,
+          "votes_percentage": 39.1
+        },
+        {
+          "position": 3,
+          "name": "Lall Man Subba",
+          "party": "Indian National Congress",
+          "votes": 223,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 4,
+          "name": "Ashis Gurung",
+          "party": "Bharatiya Janta Party",
+          "votes": 140,
+          "votes_percentage": 1.5
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "30 April 2009",
+      "counting_date": "05 June 2009",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 9169,
+        "total_votes_polled": 7884,
+        "turnout_percentage": 86.0,
+        "total_valid_votes": 7723,
+        "total_valid_votes_percentage": 84.2,
+        "margin_votes": 4225,
+        "margin_percentage": 53.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Prem Lall Subba",
+          "party": "Sikkim Democratic Front",
+          "votes": 5770,
+          "votes_percentage": 73.2
+        },
+        {
+          "position": 2,
+          "name": "Depan Hang Limbu",
+          "party": "Indian National Congress",
+          "votes": 1545,
+          "votes_percentage": 19.6
+        },
+        {
+          "position": 3,
+          "name": "Padam Bahadur Chettri",
+          "party": "Bharatiya Janta Party",
+          "votes": 218,
+          "votes_percentage": 2.8
+        },
+        {
+          "position": 4,
+          "name": "Akar Dhoj Limbu",
+          "party": "Sikkim Himali Rajya Parishad",
+          "votes": 148,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 5,
+          "name": "Karna Bahadur Gurung",
+          "party": "Sikkim Jan-Ekta Party",
+          "votes": 143,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 6,
+          "name": "Ganesh Bhattarai",
+          "party": "Sikkim Gorkha Prajatantric Party",
+          "votes": 60,
+          "votes_percentage": 0.8
+        }
+      ]
+    }
+  }
+}

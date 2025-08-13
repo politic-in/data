@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 95359,
+        "male": 103426,
+        "percentage_of_total_population": 17.66,
+        "percentage_of_total_population_calculated": 17.66,
+        "percentage_of_total_population_stated": 17.66,
+        "sex_ratio": 922,
+        "total": 198785
+    },
+    "literacy": {
+        "female_literacy_rate": 55.01,
+        "female_literate": 244469,
+        "male_literacy_rate": 77.66,
+        "male_literate": 374412,
+        "rate_percentage": 66.8,
+        "total_literate": 618881
+    },
+    "population": {
+        "female": 539731,
+        "male": 585582,
+        "sex_ratio": 922,
+        "total": 1125313
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 248
+        },
+        "Christian": {
+            "percentage": 0.06,
+            "population": 691
+        },
+        "Hindu": {
+            "percentage": 92.87,
+            "population": 1045117
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 60
+        },
+        "Muslims": {
+            "percentage": 6.73,
+            "population": 75742
+        },
+        "Not Stated": {
+            "percentage": 0.29,
+            "population": 3249
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 58
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 148
+        }
+    },
+    "rural": {
+        "child_population_female": 85556,
+        "child_population_male": 92595,
+        "child_population_percentage": 17.99,
+        "child_population_percentage_calculated": 17.99,
+        "child_population_percentage_stated": 17.99,
+        "child_population_total": 178151,
+        "child_sex_ratio": 924,
+        "female": 475963,
+        "literacy_rate_female": 53.1,
+        "literacy_rate_male": 76.89,
+        "literacy_rate_percentage": 65.45,
+        "literate_female": 207301,
+        "literate_male": 324140,
+        "literate_total": 531441,
+        "male": 514154,
+        "percentage_population": 87.99,
+        "population": 990117,
+        "sex_ratio": 926
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/91-jehanabad.html",
+    "urban": {
+        "child_population_female": 9777,
+        "child_population_male": 10857,
+        "child_population_percentage": 15.26,
+        "child_population_percentage_calculated": 15.26,
+        "child_population_percentage_stated": 15.26,
+        "child_population_total": 20634,
+        "child_sex_ratio": 901,
+        "female": 63768,
+        "literacy_rate_female": 68.84,
+        "literacy_rate_male": 83.0,
+        "literacy_rate_percentage": 76.33,
+        "literate_female": 37168,
+        "literate_male": 50272,
+        "literate_total": 87440,
+        "male": 71428,
+        "percentage_population": 12.01,
+        "population": 135196,
+        "sex_ratio": 893
+    }
+}

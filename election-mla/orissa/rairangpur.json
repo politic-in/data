@@ -1,0 +1,801 @@
+{
+  "state": "Orissa",
+  "constituency": "Rairangpur",
+  "district": "Mayurbhanj",
+  "ac_type": "ST",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 234967,
+        "total_votes_polled": 161124,
+        "turnout_percentage": 69.5,
+        "margin_votes": 2847,
+        "margin_percentage": 1.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Naba Charan Majhi",
+          "party": "Bharatiya Janta Party",
+          "votes": 60901,
+          "votes_percentage": 37.8
+        },
+        {
+          "position": 2,
+          "name": "Basanti Marndi",
+          "party": "Biju Janata Dal",
+          "votes": 58054,
+          "votes_percentage": 36.0
+        },
+        {
+          "position": 3,
+          "name": "Ram Chandra Murmu",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 30512,
+          "votes_percentage": 18.9
+        },
+        {
+          "position": 4,
+          "name": "Minati Hansdah",
+          "party": "Independent",
+          "votes": 5163,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 5,
+          "name": "Kanhu Charan Soren",
+          "party": "All India Trinamool Congress",
+          "votes": 2248,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 6,
+          "name": "Naba Kishore Tudu",
+          "party": "Bahujan Mukti Party",
+          "votes": 1218,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 7,
+          "name": "Hinduray Tudu",
+          "party": "Independent",
+          "votes": 1105,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 8,
+          "name": "Sushila Sawayan",
+          "party": "Bahujan Samaj Party",
+          "votes": 1075,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 9,
+          "name": "Jalandhar Singh",
+          "party": "Independent",
+          "votes": 848,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "17 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 17,
+      "aggregate": {
+        "total_electors": 209938,
+        "total_votes_polled": 156035,
+        "turnout_percentage": 74.3,
+        "total_valid_votes": 154939,
+        "total_valid_votes_percentage": 73.8,
+        "margin_votes": 15556,
+        "margin_percentage": 10.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Saiba Sushil Kumar Hansdah",
+          "party": "Biju Janata Dal",
+          "votes": 51062,
+          "votes_percentage": 33.0
+        },
+        {
+          "position": 2,
+          "name": "Droupadai Murmu",
+          "party": "Bharatiya Janta Party",
+          "votes": 35506,
+          "votes_percentage": 22.9
+        },
+        {
+          "position": 3,
+          "name": "Purna Chandra Marndi",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 28838,
+          "votes_percentage": 18.6
+        },
+        {
+          "position": 4,
+          "name": "Shyam Charan Hansdah",
+          "party": "Indian National Congress",
+          "votes": 19075,
+          "votes_percentage": 12.3
+        },
+        {
+          "position": 5,
+          "name": "Budhan Sing Marndi",
+          "party": "Jharkhand Disom Party",
+          "votes": 4848,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 6,
+          "name": "Birsa Kandankel",
+          "party": "Aama Odisha Party",
+          "votes": 4245,
+          "votes_percentage": 2.7
+        },
+        {
+          "position": 7,
+          "name": "Bada Naran Majhi",
+          "party": "Independent",
+          "votes": 1563,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 8,
+          "name": "Budhu Mahali",
+          "party": "Independent",
+          "votes": 1412,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 9,
+          "name": "Rajendra Singh",
+          "party": "Independent",
+          "votes": 1232,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 10,
+          "name": "Braja Kishore Majhi",
+          "party": "Independent",
+          "votes": 1163,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 11,
+          "name": "Umakanta Naik",
+          "party": "Independent",
+          "votes": 1131,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 12,
+          "name": "Sudarsan Murmu",
+          "party": "Aam Aadmi Party",
+          "votes": 1126,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 13,
+          "name": "Lambodar Murmu",
+          "party": "Bahujan Samaj Party",
+          "votes": 1114,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 14,
+          "name": "Biswanath Kisku",
+          "party": "Independent",
+          "votes": 865,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 15,
+          "name": "Bula Sardar",
+          "party": "Independent",
+          "votes": 650,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 16,
+          "name": "Mangal Sing Tudu",
+          "party": "Odisha Jan Morcha",
+          "votes": 599,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 17,
+          "name": "Nanda Kishore Kisku",
+          "party": "Independent",
+          "votes": 510,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 13,
+      "aggregate": {
+        "total_electors": 183507,
+        "total_votes_polled": 115727,
+        "turnout_percentage": 63.1,
+        "margin_votes": 4602,
+        "margin_percentage": 4.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shyam Charan Hansdah",
+          "party": "Indian National Congress",
+          "votes": 24792,
+          "votes_percentage": 21.5
+        },
+        {
+          "position": 2,
+          "name": "Purna Chandra Marndi",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 20190,
+          "votes_percentage": 17.5
+        },
+        {
+          "position": 3,
+          "name": "Jaduram Murmu",
+          "party": "Bharatiya Janta Party",
+          "votes": 17898,
+          "votes_percentage": 15.5
+        },
+        {
+          "position": 4,
+          "name": "Kashinath Hembram",
+          "party": "Nationalist Congress Party",
+          "votes": 14828,
+          "votes_percentage": 12.8
+        },
+        {
+          "position": 5,
+          "name": "Khelaram Mahali",
+          "party": "Independent",
+          "votes": 12504,
+          "votes_percentage": 10.8
+        },
+        {
+          "position": 6,
+          "name": "Sonaram Soren",
+          "party": "Jharkhand Disom Party",
+          "votes": 8021,
+          "votes_percentage": 7.0
+        },
+        {
+          "position": 7,
+          "name": "Lopamudra Hansdah",
+          "party": "Independent",
+          "votes": 6670,
+          "votes_percentage": 5.8
+        },
+        {
+          "position": 8,
+          "name": "Mangal Singh Tudu",
+          "party": "Samajwadi Party",
+          "votes": 2696,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 9,
+          "name": "Durga Hembram",
+          "party": "Janata Dal (United)",
+          "votes": 2351,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 10,
+          "name": "Chandra Mohan Soren",
+          "party": "Independent",
+          "votes": 1595,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 11,
+          "name": "Pitambar Marndi",
+          "party": "Independent",
+          "votes": 1517,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 12,
+          "name": "Dulari Soren",
+          "party": "Independent",
+          "votes": 1373,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 13,
+          "name": "Somaya Murmu",
+          "party": "Rashtriya Parivartan Dal",
+          "votes": 1292,
+          "votes_percentage": 1.1
+        }
+      ]
+    },
+    "2004": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 131315,
+        "total_votes_polled": 89669,
+        "turnout_percentage": 68.3,
+        "margin_votes": 42,
+        "margin_percentage": 0.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Droupadi Murmu",
+          "party": "Bharatiya Janta Party",
+          "votes": 29295,
+          "votes_percentage": 32.7
+        },
+        {
+          "position": 2,
+          "name": "Ram Chandra Murmu",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 29253,
+          "votes_percentage": 32.6
+        },
+        {
+          "position": 3,
+          "name": "Laxman Majhi",
+          "party": "Indian National Congress",
+          "votes": 22551,
+          "votes_percentage": 25.1
+        },
+        {
+          "position": 4,
+          "name": "Shankar Purty",
+          "party": "Independent",
+          "votes": 2719,
+          "votes_percentage": 3.0
+        },
+        {
+          "position": 5,
+          "name": "Sukanti Pingua",
+          "party": "Independent",
+          "votes": 2511,
+          "votes_percentage": 2.8
+        },
+        {
+          "position": 6,
+          "name": "Majhiaram Tudu",
+          "party": "All Jharkhand Students Union",
+          "votes": 2036,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 7,
+          "name": "Braja Mohan Hansdah",
+          "party": "Independent",
+          "votes": 1324,
+          "votes_percentage": 1.5
+        }
+      ]
+    },
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 125385,
+        "total_votes_polled": 74997,
+        "turnout_percentage": 59.8,
+        "margin_votes": 4568,
+        "margin_percentage": 6.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Droupadi Murmu",
+          "party": "Bharatiya Janta Party",
+          "votes": 25110,
+          "votes_percentage": 34.2
+        },
+        {
+          "position": 2,
+          "name": "Laxman Majhi",
+          "party": "Indian National Congress",
+          "votes": 20542,
+          "votes_percentage": 27.9
+        },
+        {
+          "position": 3,
+          "name": "Braja Mohon Hansdah",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 10485,
+          "votes_percentage": 14.3
+        },
+        {
+          "position": 4,
+          "name": "Nandalal Soren",
+          "party": "Independent",
+          "votes": 7442,
+          "votes_percentage": 10.1
+        },
+        {
+          "position": 5,
+          "name": "Majhia Ram Tudu",
+          "party": "Independent",
+          "votes": 5410,
+          "votes_percentage": 7.4
+        },
+        {
+          "position": 6,
+          "name": "Dukhishyam Murmu",
+          "party": "Independent",
+          "votes": 1589,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 7,
+          "name": "Anil Kumar Birua",
+          "party": "Independent",
+          "votes": 1140,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 8,
+          "name": "Ganeswar Tudu",
+          "party": "Independent",
+          "votes": 572,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 9,
+          "name": "Sudarshan Murmu",
+          "party": "Independent",
+          "votes": 443,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 10,
+          "name": "Biswanath Pingua",
+          "party": "Bahujan Samaj Party",
+          "votes": 409,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 11,
+          "name": "Lambodar Murmu",
+          "party": "Independent",
+          "votes": 397,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "1995": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 120081,
+        "total_votes_polled": 85344,
+        "turnout_percentage": 71.1,
+        "margin_votes": 1488,
+        "margin_percentage": 1.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Laxman Mazhi",
+          "party": "Indian National Congress",
+          "votes": 19327,
+          "votes_percentage": 23.6
+        },
+        {
+          "position": 2,
+          "name": "Chaitanya Prasad Majhi",
+          "party": "Janata Dal",
+          "votes": 17839,
+          "votes_percentage": 21.8
+        },
+        {
+          "position": 3,
+          "name": "Naba Charan Majhi",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 17429,
+          "votes_percentage": 21.3
+        },
+        {
+          "position": 4,
+          "name": "Nandalal Soren",
+          "party": "Bharatiya Janta Party",
+          "votes": 12524,
+          "votes_percentage": 15.3
+        },
+        {
+          "position": 5,
+          "name": "Salkhan Murmu",
+          "party": "Independent",
+          "votes": 6282,
+          "votes_percentage": 7.7
+        },
+        {
+          "position": 6,
+          "name": "Shyam Charan Hansdah",
+          "party": "Jammu & Kashmir Panthers Party",
+          "votes": 5007,
+          "votes_percentage": 6.1
+        },
+        {
+          "position": 7,
+          "name": "Dilip Kumar Behra",
+          "party": "Independent",
+          "votes": 1861,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 8,
+          "name": "Deogi Tudu",
+          "party": "Independent",
+          "votes": 779,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 9,
+          "name": "Shyam Majhi",
+          "party": "Independent",
+          "votes": 305,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 10,
+          "name": "Sakila Majhi",
+          "party": "Independent",
+          "votes": 245,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 11,
+          "name": "Balakram Tudu",
+          "party": "Independent",
+          "votes": 177,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "1990": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 113289,
+        "total_votes_polled": 51973,
+        "turnout_percentage": 45.9,
+        "margin_votes": 4906,
+        "margin_percentage": 9.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chaitanya Prasad Majhi",
+          "party": "Janata Dal",
+          "votes": 24011,
+          "votes_percentage": 47.2
+        },
+        {
+          "position": 2,
+          "name": "Naba Majhi",
+          "party": "Independent",
+          "votes": 19105,
+          "votes_percentage": 37.6
+        },
+        {
+          "position": 3,
+          "name": "Laxman Majhi",
+          "party": "Indian National Congress",
+          "votes": 5748,
+          "votes_percentage": 11.3
+        },
+        {
+          "position": 4,
+          "name": "Guru Charan Bagey",
+          "party": "Independent",
+          "votes": 1093,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 5,
+          "name": "Sadhu Charan Tudu",
+          "party": "Jharkhand Dal",
+          "votes": 421,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Hadibandhu Murmu",
+          "party": "Independent",
+          "votes": 264,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Daman Majhi",
+          "party": "Independent",
+          "votes": 198,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "1985": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 85841,
+        "total_votes_polled": 35286,
+        "turnout_percentage": 41.1,
+        "margin_votes": 10529,
+        "margin_percentage": 29.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bhabendra Nath Majhi",
+          "party": "Indian National Congress",
+          "votes": 17369,
+          "votes_percentage": 50.8
+        },
+        {
+          "position": 2,
+          "name": "Sudarshan Murmu",
+          "party": "Bharatiya Janta Party",
+          "votes": 6840,
+          "votes_percentage": 20.0
+        },
+        {
+          "position": 3,
+          "name": "Sashibhushan Marndi",
+          "party": "Janta Party",
+          "votes": 6835,
+          "votes_percentage": 20.0
+        },
+        {
+          "position": 4,
+          "name": "Braja Mohan Hansoah",
+          "party": "Independent",
+          "votes": 2459,
+          "votes_percentage": 7.2
+        },
+        {
+          "position": 5,
+          "name": "Jaygobinda Hembram",
+          "party": "Jharkhand Party",
+          "votes": 660,
+          "votes_percentage": 1.9
+        }
+      ]
+    },
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 82521,
+        "total_votes_polled": 25260,
+        "turnout_percentage": 30.6,
+        "margin_votes": 4036,
+        "margin_percentage": 16.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sidhalal Murmu",
+          "party": "Indian National Congress (I)",
+          "votes": 11208,
+          "votes_percentage": 45.5
+        },
+        {
+          "position": 2,
+          "name": "Braja Mohan Hansdah",
+          "party": "Independent",
+          "votes": 7172,
+          "votes_percentage": 29.1
+        },
+        {
+          "position": 3,
+          "name": "Chandra Mohan Sinha",
+          "party": "Janata Party (SECULAR) - CH. CHARAN SINGH",
+          "votes": 5122,
+          "votes_percentage": 20.8
+        },
+        {
+          "position": 4,
+          "name": "Ghasiram Sandil",
+          "party": "Jharkhand Party",
+          "votes": 1115,
+          "votes_percentage": 4.5
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 76578,
+        "total_votes_polled": 18969,
+        "turnout_percentage": 24.8,
+        "margin_votes": 5789,
+        "margin_percentage": 30.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Arjun Majhi",
+          "party": "Janta Party",
+          "votes": 9308,
+          "votes_percentage": 50.3
+        },
+        {
+          "position": 2,
+          "name": "Gopinath Narndi",
+          "party": "Indian National Congress",
+          "votes": 3519,
+          "votes_percentage": 19.0
+        },
+        {
+          "position": 3,
+          "name": "Birla Tudu",
+          "party": "All India Jharkhand Party",
+          "votes": 1820,
+          "votes_percentage": 9.8
+        },
+        {
+          "position": 4,
+          "name": "Premsagar Sirka",
+          "party": "Independent",
+          "votes": 1530,
+          "votes_percentage": 8.3
+        },
+        {
+          "position": 5,
+          "name": "Ghasiram Sandil",
+          "party": "Independent",
+          "votes": 822,
+          "votes_percentage": 4.4
+        },
+        {
+          "position": 6,
+          "name": "Suklal Majhi",
+          "party": "Communist Party Of India",
+          "votes": 485,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 7,
+          "name": "Shankar Majhi",
+          "party": "Independent",
+          "votes": 482,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 8,
+          "name": "Raghunath Tudu",
+          "party": "Jharkhand Party",
+          "votes": 452,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 9,
+          "name": "Lalmohan Soren",
+          "party": "Independent",
+          "votes": 96,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

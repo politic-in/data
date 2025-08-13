@@ -1,0 +1,92 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Ke kadi",
+  "district": "Ajmer",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 239807,
+        "total_votes_polled": 178170,
+        "turnout_percentage": 75.0,
+        "margin_votes": 19461,
+        "margin_percentage": 10.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Raghu Sharma",
+          "party": "Indian National Congress",
+          "votes": 95795,
+          "votes_percentage": 53.8
+        },
+        {
+          "position": 2,
+          "name": "Rajendra Vinayaka",
+          "party": "Bharatiya Janta Party",
+          "votes": 76334,
+          "votes_percentage": 42.8
+        },
+        {
+          "position": 3,
+          "name": "Devkaran Singh Kharol",
+          "party": "Bahujan Samaj Party",
+          "votes": 1903,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 4,
+          "name": "Surendar Singh Ranawat",
+          "party": "Independent",
+          "votes": 1143,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 5,
+          "name": "Rajesh Saini",
+          "party": "Independent",
+          "votes": 1041,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Abdul Rajjak",
+          "party": "Aam Aadmi Party",
+          "votes": 929,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Jagdish Pilaniya",
+          "party": "Independent",
+          "votes": 343,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "Kailash Ojha",
+          "party": "Independent",
+          "votes": 261,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Baluram Jat",
+          "party": "Bahujan Sangharshh Dal",
+          "votes": 224,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Ashok Singh Rao",
+          "party": "Bharatiya Yuva Shakti",
+          "votes": 197,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

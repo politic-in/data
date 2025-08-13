@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 76729,
+        "male": 80010,
+        "percentage_of_total_population": 15.04,
+        "percentage_of_total_population_calculated": 15.04,
+        "percentage_of_total_population_stated": 15.04,
+        "sex_ratio": 959,
+        "total": 156739
+    },
+    "literacy": {
+        "female_literacy_rate": 70.67,
+        "female_literate": 307934,
+        "male_literacy_rate": 83.52,
+        "male_literate": 375552,
+        "rate_percentage": 77.2,
+        "total_literate": 683486
+    },
+    "population": {
+        "female": 512463,
+        "male": 529674,
+        "sex_ratio": 968,
+        "total": 1042137
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.1,
+            "population": 1074
+        },
+        "Christian": {
+            "percentage": 4.43,
+            "population": 46217
+        },
+        "Hindu": {
+            "percentage": 76.49,
+            "population": 797130
+        },
+        "Jain": {
+            "percentage": 0.02,
+            "population": 250
+        },
+        "Muslims": {
+            "percentage": 18.57,
+            "population": 193476
+        },
+        "Not Stated": {
+            "percentage": 0.11,
+            "population": 1168
+        },
+        "Others": {
+            "percentage": 0.23,
+            "population": 2410
+        },
+        "Sikh": {
+            "percentage": 0.04,
+            "population": 412
+        }
+    },
+    "rural": {
+        "child_population_female": 71678,
+        "child_population_male": 74611,
+        "child_population_percentage": 15.39,
+        "child_population_percentage_calculated": 15.39,
+        "child_population_percentage_stated": 15.39,
+        "child_population_total": 146289,
+        "child_sex_ratio": 961,
+        "female": 468222,
+        "literacy_rate_female": 69.44,
+        "literacy_rate_male": 82.8,
+        "literacy_rate_percentage": 76.22,
+        "literate_female": 275370,
+        "literate_male": 337806,
+        "literate_total": 613176,
+        "male": 482582,
+        "percentage_population": 91.24,
+        "population": 950804,
+        "sex_ratio": 970
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/160-lakhimpur.html",
+    "urban": {
+        "child_population_female": 5045,
+        "child_population_male": 5405,
+        "child_population_percentage": 11.44,
+        "child_population_percentage_calculated": 11.44,
+        "child_population_percentage_stated": 11.44,
+        "child_population_total": 10450,
+        "child_sex_ratio": 933,
+        "female": 44241,
+        "literacy_rate_female": 83.08,
+        "literacy_rate_male": 90.55,
+        "literacy_rate_percentage": 86.93,
+        "literate_female": 32564,
+        "literate_male": 37746,
+        "literate_total": 70310,
+        "male": 47092,
+        "percentage_population": 8.76,
+        "population": 91333,
+        "sex_ratio": 939
+    }
+}

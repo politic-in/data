@@ -1,0 +1,78 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "Dumka",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 170567,
+        "total_votes_polled": 95985,
+        "turnout_percentage": 56.3,
+        "margin_votes": 11222,
+        "margin_percentage": 11.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Stephen Marandi",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 43010,
+          "votes_percentage": 45.4
+        },
+        {
+          "position": 2,
+          "name": "Satish Soren",
+          "party": "Bharatiya Janta Party",
+          "votes": 31788,
+          "votes_percentage": 33.6
+        },
+        {
+          "position": 3,
+          "name": "Ramesh Hembrom",
+          "party": "Indian National Congress",
+          "votes": 15755,
+          "votes_percentage": 16.7
+        },
+        {
+          "position": 4,
+          "name": "Masi Charan Hansda",
+          "party": "Communist Party Of India",
+          "votes": 2406,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 5,
+          "name": "Vijay Kumar Soni",
+          "party": "Rashtriya Janata Dal",
+          "votes": 1067,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Silas Baskey",
+          "party": "Amara Bengali",
+          "votes": 439,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Matu Murmu",
+          "party": "Independent",
+          "votes": 132,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "Sona Murmu",
+          "party": "Independent",
+          "votes": 50,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "state": "Delhi [1977 Onwards]",
+  "constituency": "Sohan Ganj",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1983": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 34680,
+        "total_votes_polled": 26709,
+        "turnout_percentage": 77.0,
+        "margin_votes": 1647,
+        "margin_percentage": 6.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nand Lal",
+          "party": "Indian National Congress",
+          "votes": 13329,
+          "votes_percentage": 51.4
+        },
+        {
+          "position": 2,
+          "name": "Inder Mohan Bhardwaj",
+          "party": "Bharatiya Janta Party",
+          "votes": 11682,
+          "votes_percentage": 45.1
+        },
+        {
+          "position": 3,
+          "name": "Raj Singh Rana",
+          "party": "Janta Party",
+          "votes": 463,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 4,
+          "name": "Ujagar Singh Josh",
+          "party": "Independent",
+          "votes": 283,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Bela Bindra",
+          "party": "Independent",
+          "votes": 111,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Har Bhajan Singh",
+          "party": "Independent",
+          "votes": 51,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 41026,
+        "total_votes_polled": 25164,
+        "turnout_percentage": 61.3,
+        "margin_votes": 1506,
+        "margin_percentage": 6.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Inder Mohan Bhardwaj",
+          "party": "Janta Party",
+          "votes": 12985,
+          "votes_percentage": 53.1
+        },
+        {
+          "position": 2,
+          "name": "Ram Chandra Sharma",
+          "party": "Communist Party Of India",
+          "votes": 11479,
+          "votes_percentage": 46.9
+        }
+      ]
+    }
+  }
+}

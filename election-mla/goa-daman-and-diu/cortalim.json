@@ -1,0 +1,71 @@
+{
+  "state": "Goa, Daman And Diu",
+  "constituency": "Cortalim",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 16369,
+        "total_votes_polled": 11030,
+        "turnout_percentage": 67.4,
+        "margin_votes": 3219,
+        "margin_percentage": 29.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Froilano Nanchado",
+          "party": "Indian National Congress (U)",
+          "votes": 6296,
+          "votes_percentage": 58.7
+        },
+        {
+          "position": 2,
+          "name": "Caetano Barreto",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 3077,
+          "votes_percentage": 28.7
+        },
+        {
+          "position": 3,
+          "name": "Kamath Ramesh Venkatesh",
+          "party": "Independent",
+          "votes": 540,
+          "votes_percentage": 5.0
+        },
+        {
+          "position": 4,
+          "name": "Afonso Norman Rondolencio",
+          "party": "Janta Party",
+          "votes": 331,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 5,
+          "name": "Fernandes Antonio Inacio Menino",
+          "party": "Independent",
+          "votes": 259,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 6,
+          "name": "Andrade Jose Roque Minino",
+          "party": "Independent",
+          "votes": 154,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 7,
+          "name": "Souza Anastasio Rosario",
+          "party": "Independent",
+          "votes": 61,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

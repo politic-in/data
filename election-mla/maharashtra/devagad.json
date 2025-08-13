@@ -1,0 +1,50 @@
+{
+  "state": "Maharashtra",
+  "constituency": "Devagad",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 84130,
+        "total_votes_polled": 46692,
+        "turnout_percentage": 55.5,
+        "margin_votes": 2258,
+        "margin_percentage": 4.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Amrit Gangaram Rane",
+          "party": "Indian National Congress (I)",
+          "votes": 16423,
+          "votes_percentage": 35.9
+        },
+        {
+          "position": 2,
+          "name": "Appa Gogate",
+          "party": "Bharatiya Janta Party",
+          "votes": 14165,
+          "votes_percentage": 31.0
+        },
+        {
+          "position": 3,
+          "name": "Mirashi Rajabhau Govind",
+          "party": "Indian National Congress (U)",
+          "votes": 12014,
+          "votes_percentage": 26.3
+        },
+        {
+          "position": 4,
+          "name": "Kamatekar Sadashiv Krishnaji",
+          "party": "Independent",
+          "votes": 3096,
+          "votes_percentage": 6.8
+        }
+      ]
+    }
+  }
+}

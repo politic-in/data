@@ -1,0 +1,41 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "BUDAUN DISTRICT (WEST)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 354848,
+        "total_votes_polled": 131103,
+        "turnout_percentage": 37.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Badan Sing",
+          "party": "Indian National Congress",
+          "votes": 71074,
+          "votes_percentage": 54.2
+        },
+        {
+          "position": 2,
+          "name": "Narendra Sing",
+          "party": "Independent",
+          "votes": 44841,
+          "votes_percentage": 34.2
+        },
+        {
+          "position": 3,
+          "name": "Vir Sen",
+          "party": "Socialist Party",
+          "votes": 15188,
+          "votes_percentage": 11.6
+        }
+      ]
+    }
+  }
+}

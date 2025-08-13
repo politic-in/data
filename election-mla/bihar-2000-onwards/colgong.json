@@ -1,0 +1,143 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "COLGONG",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2005": {
+      "poll_date": "26 October 2005",
+      "counting_date": "21 November 2005",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 245125,
+        "total_votes_polled": 122949,
+        "turnout_percentage": 50.2,
+        "total_valid_votes": 122949,
+        "total_valid_votes_percentage": 50.2,
+        "margin_votes": 13572,
+        "margin_percentage": 11.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ajay Kumar Mandal",
+          "party": "Janata Dal (United)",
+          "votes": 58640,
+          "votes_percentage": 47.7
+        },
+        {
+          "position": 2,
+          "name": "Sadanand Singh",
+          "party": "Indian National Congress",
+          "votes": 45068,
+          "votes_percentage": 36.7
+        },
+        {
+          "position": 3,
+          "name": "Sikandar Jamal",
+          "party": "Lok Jan Shakti Party",
+          "votes": 12779,
+          "votes_percentage": 10.4
+        },
+        {
+          "position": 4,
+          "name": "Jitendra Prasad Yadav",
+          "party": "Samajwadi Party",
+          "votes": 3760,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 5,
+          "name": "Bikash Mandal",
+          "party": "Bahujan Samaj Party",
+          "votes": 2702,
+          "votes_percentage": 2.2
+        }
+      ]
+    },
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 226904,
+        "total_votes_polled": 140297,
+        "turnout_percentage": 61.8,
+        "margin_votes": 25635,
+        "margin_percentage": 18.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sadanand Singh",
+          "party": "Indian National Congress",
+          "votes": 63579,
+          "votes_percentage": 46.1
+        },
+        {
+          "position": 2,
+          "name": "Mahesh Prasad Mandal",
+          "party": "Rashtriya Janata Dal",
+          "votes": 37944,
+          "votes_percentage": 27.5
+        },
+        {
+          "position": 3,
+          "name": "Ajay Mandal",
+          "party": "Independent",
+          "votes": 16293,
+          "votes_percentage": 11.8
+        },
+        {
+          "position": 4,
+          "name": "Deepak Singh",
+          "party": "Bihar People's Party",
+          "votes": 13137,
+          "votes_percentage": 9.5
+        },
+        {
+          "position": 5,
+          "name": "Mahanth Kumar Ram",
+          "party": "Bahujan Samaj Party",
+          "votes": 2264,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 6,
+          "name": "Kuldeep Mandal",
+          "party": "Independent",
+          "votes": 2006,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 7,
+          "name": "Suresh Paswan",
+          "party": "Independent",
+          "votes": 1007,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 8,
+          "name": "Yogendra Pra. Nishad",
+          "party": "Samajwadi Party",
+          "votes": 745,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 9,
+          "name": "Rambaran Singh",
+          "party": "Hind Kisan Mazdoor Party",
+          "votes": 593,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 10,
+          "name": "Govind Mandal",
+          "party": "Nationalist Congress Party",
+          "votes": 333,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "state": "Goa",
+  "constituency": "Porvorim",
+  "district": "North Goa",
+  "ac_type": "GEN",
+  "results": {
+    "2022": {
+      "poll_date": "14 February 2022",
+      "counting_date": "10 March 2022",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 27092,
+        "total_votes_polled": 20764,
+        "turnout_percentage": 78.4,
+        "margin_votes": 7950,
+        "margin_percentage": 38.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rohan Khaunte",
+          "party": "Bharatiya Janta Party",
+          "votes": 11714,
+          "votes_percentage": 56.4
+        },
+        {
+          "position": 2,
+          "name": "Sandeep Vazarkar",
+          "party": "All India Trinamool Congress",
+          "votes": 3764,
+          "votes_percentage": 18.1
+        },
+        {
+          "position": 3,
+          "name": "Vikas Ramchandra Prabhudesai",
+          "party": "Indian National Congress",
+          "votes": 3595,
+          "votes_percentage": 17.3
+        },
+        {
+          "position": 4,
+          "name": "Ritesh Chodankar",
+          "party": "Aam Aadmi Party",
+          "votes": 1535,
+          "votes_percentage": 7.4
+        },
+        {
+          "position": 5,
+          "name": "Shankar Phadte",
+          "party": "Nationalist Congress Party",
+          "votes": 156,
+          "votes_percentage": 0.8
+        }
+      ]
+    },
+    "2017": {
+      "poll_date": "04 February 2017",
+      "counting_date": "11 March 2017",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 24346,
+        "total_votes_polled": 19480,
+        "turnout_percentage": 157.8,
+        "margin_votes": 4213,
+        "margin_percentage": 21.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rohan Khaunte",
+          "party": "Independent",
+          "votes": 11174,
+          "votes_percentage": 56.9
+        },
+        {
+          "position": 2,
+          "name": "Guruprasad R. Pawaskar",
+          "party": "Bharatiya Janta Party",
+          "votes": 6961,
+          "votes_percentage": 35.4
+        },
+        {
+          "position": 3,
+          "name": "Rajesh Valvaikar",
+          "party": "Aam Aadmi Party",
+          "votes": 846,
+          "votes_percentage": 4.3
+        },
+        {
+          "position": 4,
+          "name": "Rajesh Vishnu Sinai Amonkar Alias Rajesh Amonkar",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 222,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Wilbur Fredrick Ticlo",
+          "party": "Independent",
+          "votes": 144,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Raju D'souza",
+          "party": "Samajwadi Janata Party (ChandraShekhar)",
+          "votes": 133,
+          "votes_percentage": 0.7
+        }
+      ]
+    },
+    "2012": {
+      "poll_date": "03 March 2012",
+      "counting_date": "06 March 2012",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 21209,
+        "total_votes_polled": 16631,
+        "turnout_percentage": 78.4,
+        "total_valid_votes": 16306,
+        "total_valid_votes_percentage": 76.9,
+        "margin_votes": 901,
+        "margin_percentage": 5.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rohan Khaunte",
+          "party": "Independent",
+          "votes": 7972,
+          "votes_percentage": 47.9
+        },
+        {
+          "position": 2,
+          "name": "Govind Parvatkar",
+          "party": "Bharatiya Janta Party",
+          "votes": 7071,
+          "votes_percentage": 42.5
+        },
+        {
+          "position": 3,
+          "name": "Fermeena P. Khaunte",
+          "party": "Nationalist Congress Party",
+          "votes": 1217,
+          "votes_percentage": 7.3
+        },
+        {
+          "position": 4,
+          "name": "Umesh Sukha Narvekar",
+          "party": "Independent",
+          "votes": 232,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 5,
+          "name": "Raju D'souza",
+          "party": "Samajwadi Janata Party (RASHTRIYA)",
+          "votes": 139,
+          "votes_percentage": 0.8
+        }
+      ]
+    }
+  }
+}

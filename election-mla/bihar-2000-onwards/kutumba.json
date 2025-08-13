@@ -1,0 +1,92 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "Kutumba",
+  "district": "Aurangabad",
+  "ac_type": "SC",
+  "results": {
+    "2010": {
+      "poll_date": "24 October 2010",
+      "counting_date": "24 November 2010",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 195497,
+        "total_votes_polled": 93460,
+        "turnout_percentage": 47.8,
+        "margin_votes": 13910,
+        "margin_percentage": 14.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Lalan Ram",
+          "party": "Janata Dal (United)",
+          "votes": 42559,
+          "votes_percentage": 45.5
+        },
+        {
+          "position": 2,
+          "name": "Suresh Paswan",
+          "party": "Rashtriya Janata Dal",
+          "votes": 28649,
+          "votes_percentage": 30.7
+        },
+        {
+          "position": 3,
+          "name": "Rajesh Kumar",
+          "party": "Indian National Congress",
+          "votes": 8477,
+          "votes_percentage": 9.1
+        },
+        {
+          "position": 4,
+          "name": "Manorama Devi",
+          "party": "Bahujan Samaj Party",
+          "votes": 3535,
+          "votes_percentage": 3.8
+        },
+        {
+          "position": 5,
+          "name": "Santosh Kumar Deepak",
+          "party": "Independent",
+          "votes": 2837,
+          "votes_percentage": 3.0
+        },
+        {
+          "position": 6,
+          "name": "Ganesh Paswan",
+          "party": "Indian Justice Party",
+          "votes": 2075,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 7,
+          "name": "Santosh Kumar",
+          "party": "Independent",
+          "votes": 1914,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 8,
+          "name": "Ravindra Paswan",
+          "party": "Janata Dal (Secular)",
+          "votes": 1375,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 9,
+          "name": "Ramchandra Prasad",
+          "party": "Nationalist Congress Party",
+          "votes": 1087,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 10,
+          "name": "Uday Paswan",
+          "party": "Independent",
+          "votes": 952,
+          "votes_percentage": 1.0
+        }
+      ]
+    }
+  }
+}

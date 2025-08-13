@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 55574,
+        "male": 56940,
+        "percentage_of_total_population": 17.49,
+        "percentage_of_total_population_calculated": 17.49,
+        "percentage_of_total_population_stated": 17.49,
+        "sex_ratio": 976,
+        "total": 112514
+    },
+    "literacy": {
+        "female_literacy_rate": 62.7,
+        "female_literate": 165264,
+        "male_literacy_rate": 72.39,
+        "male_literate": 193438,
+        "rate_percentage": 67.58,
+        "total_literate": 358702
+    },
+    "population": {
+        "female": 319132,
+        "male": 324159,
+        "sex_ratio": 984,
+        "total": 643291
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.53,
+            "population": 3392
+        },
+        "Christian": {
+            "percentage": 60.62,
+            "population": 389956
+        },
+        "Hindu": {
+            "percentage": 19.11,
+            "population": 122936
+        },
+        "Jain": {
+            "percentage": 0.02,
+            "population": 144
+        },
+        "Muslims": {
+            "percentage": 16.6,
+            "population": 106788
+        },
+        "Not Stated": {
+            "percentage": 0.45,
+            "population": 2916
+        },
+        "Others": {
+            "percentage": 2.63,
+            "population": 16950
+        },
+        "Sikh": {
+            "percentage": 0.03,
+            "population": 209
+        }
+    },
+    "rural": {
+        "child_population_female": 51268,
+        "child_population_male": 52362,
+        "child_population_percentage": 18.23,
+        "child_population_percentage_calculated": 18.23,
+        "child_population_percentage_stated": 18.23,
+        "child_population_total": 103630,
+        "child_sex_ratio": 979,
+        "female": 281510,
+        "literacy_rate_female": 58.82,
+        "literacy_rate_male": 69.5,
+        "literacy_rate_percentage": 64.21,
+        "literate_female": 135428,
+        "literate_male": 163020,
+        "literate_total": 298448,
+        "male": 286923,
+        "percentage_population": 88.36,
+        "population": 568433,
+        "sex_ratio": 981
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/379-west-garo-hills.html",
+    "urban": {
+        "child_population_female": 4296,
+        "child_population_male": 4588,
+        "child_population_percentage": 11.87,
+        "child_population_percentage_calculated": 11.87,
+        "child_population_percentage_stated": 11.87,
+        "child_population_total": 8884,
+        "child_sex_ratio": 936,
+        "female": 37622,
+        "literacy_rate_female": 89.53,
+        "literacy_rate_male": 93.17,
+        "literacy_rate_percentage": 91.33,
+        "literate_female": 29836,
+        "literate_male": 30418,
+        "literate_total": 60254,
+        "male": 37236,
+        "percentage_population": 11.64,
+        "population": 74858,
+        "sex_ratio": 1010
+    }
+}

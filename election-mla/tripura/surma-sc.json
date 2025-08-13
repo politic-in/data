@@ -1,0 +1,64 @@
+{
+  "state": "Tripura",
+  "constituency": "Surma (SC)",
+  "district": "Dhalai",
+  "ac_type": "SC",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 44462,
+        "total_votes_polled": 39751,
+        "turnout_percentage": 90.2,
+        "margin_votes": 2710,
+        "margin_percentage": 6.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ashis Das",
+          "party": "Bharatiya Janta Party",
+          "votes": 20767,
+          "votes_percentage": 52.2
+        },
+        {
+          "position": 2,
+          "name": "Anjan Das",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 18057,
+          "votes_percentage": 45.4
+        },
+        {
+          "position": 4,
+          "name": "Tapas Kumar Das",
+          "party": "Indian National Congress",
+          "votes": 317,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 5,
+          "name": "Jay Kumar Keot",
+          "party": "All India Trinamool Congress",
+          "votes": 300,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Sushil Malakar",
+          "party": "Independent",
+          "votes": 193,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Pranesh Das",
+          "party": "Amra Bangalee",
+          "votes": 117,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

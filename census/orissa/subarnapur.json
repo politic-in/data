@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 36491,
+        "male": 38330,
+        "percentage_of_total_population": 12.26,
+        "percentage_of_total_population_calculated": 12.26,
+        "percentage_of_total_population_stated": 12.26,
+        "sex_ratio": 952,
+        "total": 74821
+    },
+    "literacy": {
+        "female_literacy_rate": 64.04,
+        "female_literate": 168028,
+        "male_literacy_rate": 84.4,
+        "male_literate": 230393,
+        "rate_percentage": 74.42,
+        "total_literate": 398421
+    },
+    "population": {
+        "female": 298871,
+        "male": 311312,
+        "sex_ratio": 960,
+        "total": 610183
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 46
+        },
+        "Christian": {
+            "percentage": 0.39,
+            "population": 2374
+        },
+        "Hindu": {
+            "percentage": 99.19,
+            "population": 605225
+        },
+        "Jain": {
+            "percentage": 0.0,
+            "population": 17
+        },
+        "Muslims": {
+            "percentage": 0.26,
+            "population": 1566
+        },
+        "Not Stated": {
+            "percentage": 0.15,
+            "population": 891
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 6
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 58
+        }
+    },
+    "rural": {
+        "child_population_female": 33844,
+        "child_population_male": 35506,
+        "child_population_percentage": 12.38,
+        "child_population_percentage_calculated": 12.38,
+        "child_population_percentage_stated": 12.38,
+        "child_population_total": 69350,
+        "child_sex_ratio": 953,
+        "female": 274608,
+        "literacy_rate_female": 63.06,
+        "literacy_rate_male": 83.82,
+        "literacy_rate_percentage": 73.64,
+        "literate_female": 151832,
+        "literate_male": 209666,
+        "literate_total": 361498,
+        "male": 285634,
+        "percentage_population": 91.82,
+        "population": 560242,
+        "sex_ratio": 961
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/416-subarnapur.html",
+    "urban": {
+        "child_population_female": 2642,
+        "child_population_male": 2829,
+        "child_population_percentage": 10.95,
+        "child_population_percentage_calculated": 10.95,
+        "child_population_percentage_stated": 10.95,
+        "child_population_total": 5471,
+        "child_sex_ratio": 934,
+        "female": 24263,
+        "literacy_rate_female": 74.91,
+        "literacy_rate_male": 90.71,
+        "literacy_rate_percentage": 83.03,
+        "literate_female": 16196,
+        "literate_male": 20727,
+        "literate_total": 36923,
+        "male": 25678,
+        "percentage_population": 8.18,
+        "population": 49941,
+        "sex_ratio": 945
+    }
+}

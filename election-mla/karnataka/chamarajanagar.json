@@ -1,0 +1,932 @@
+{
+  "state": "Karnataka",
+  "constituency": "Chamarajanagar",
+  "district": "Chamarajanagar",
+  "ac_type": "GEN",
+  "results": {
+    "2023": {
+      "poll_date": "10 May 2023",
+      "counting_date": "10 May 2023",
+      "total_contestants": 15,
+      "aggregate": {
+        "total_electors": 209506,
+        "total_votes_polled": 172263,
+        "turnout_percentage": 82.6,
+        "margin_votes": 7533,
+        "margin_percentage": 4.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "C. Puttarangashetty",
+          "party": "Indian National Congress",
+          "votes": 83858,
+          "votes_percentage": 48.5
+        },
+        {
+          "position": 2,
+          "name": "V.Somanna",
+          "party": "Bharatiya Janta Party",
+          "votes": 76325,
+          "votes_percentage": 44.1
+        },
+        {
+          "position": 3,
+          "name": "Ha.Ra.Mahesh",
+          "party": "Bahujan Samaj Party",
+          "votes": 6461,
+          "votes_percentage": 3.7
+        },
+        {
+          "position": 4,
+          "name": "Mallikarjuna Swamy A .M",
+          "party": "Janata Dal (Secular)",
+          "votes": 1082,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 5,
+          "name": "Dr.Guruprasad",
+          "party": "Aam Aadmi Party",
+          "votes": 925,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Abhilash.K",
+          "party": "Uttama Prajaakeeya Party",
+          "votes": 896,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Vatal Nagaraj",
+          "party": "Kannada Chalavali Vatal Paksha",
+          "votes": 658,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Ningaraju",
+          "party": "Independent",
+          "votes": 569,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Nagesha.K",
+          "party": "Independent",
+          "votes": 277,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "P.Gurusiddappa",
+          "party": "Bharathiya Belaku Party",
+          "votes": 270,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "C.L.Srinivas Shasthti",
+          "party": "Karnataka Rashtra Samithi",
+          "votes": 211,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Prasanna Kumar.B",
+          "party": "Karnataka Praja Party (RaithaParva)",
+          "votes": 202,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "H.C Mahesh Kumar",
+          "party": "Sarvodaya Karnataka Paksha",
+          "votes": 198,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "G.M.Gadkar",
+          "party": "Samajwadi Janata Party(Karnataka)",
+          "votes": 184,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "M.Nagendra Babu",
+          "party": "Karnataka Jantha Paksha",
+          "votes": 147,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2018": {
+      "poll_date": "12 May 2018",
+      "counting_date": "11 June 2018",
+      "total_contestants": 14,
+      "aggregate": {
+        "total_electors": 204126,
+        "total_votes_polled": 165048,
+        "turnout_percentage": 81.9,
+        "margin_votes": 4913,
+        "margin_percentage": 3.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "C Puttarangashetty",
+          "party": "Indian National Congress",
+          "votes": 75963,
+          "votes_percentage": 46.0
+        },
+        {
+          "position": 2,
+          "name": "K R Mallikarjunappa",
+          "party": "Bharatiya Janta Party",
+          "votes": 71050,
+          "votes_percentage": 43.1
+        },
+        {
+          "position": 3,
+          "name": "A M Mallikarjunaswamy (ALUR MALLU)",
+          "party": "Bahujan Samaj Party",
+          "votes": 7134,
+          "votes_percentage": 4.3
+        },
+        {
+          "position": 4,
+          "name": "Vatal Nagaraj",
+          "party": "Kannada Chalevali Vatal Paksha",
+          "votes": 5977,
+          "votes_percentage": 3.6
+        },
+        {
+          "position": 5,
+          "name": "M Honnuraiah",
+          "party": "Independent",
+          "votes": 904,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Narayanaswamy J",
+          "party": "Samanya Janatha Party (Loktantrik)",
+          "votes": 556,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "Rangaswamy",
+          "party": "Independent",
+          "votes": 552,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Suresha B N",
+          "party": "Independent",
+          "votes": 540,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Saraswathi M R",
+          "party": "All India Mahila Empowerment Party",
+          "votes": 523,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Lawyer Chinnaswamy M",
+          "party": "Independent",
+          "votes": 506,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 11,
+          "name": "M S Mallikarjun",
+          "party": "Independent",
+          "votes": 441,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 12,
+          "name": "Prasannakumar B",
+          "party": "Independent",
+          "votes": 360,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 13,
+          "name": "S Ganesh",
+          "party": "Bharatiya Dr. B.R.Ambedkar Janta Party",
+          "votes": 279,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 14,
+          "name": "Nagasundara D",
+          "party": "Bharatiya Republican Paksha",
+          "votes": 263,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "05 May 2013",
+      "counting_date": "08 May 2013",
+      "total_contestants": 14,
+      "aggregate": {
+        "total_electors": 186856,
+        "total_votes_polled": 146760,
+        "turnout_percentage": 78.5,
+        "margin_votes": 11196,
+        "margin_percentage": 7.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "C.Puttarangashetty",
+          "party": "Indian National Congress",
+          "votes": 54440,
+          "votes_percentage": 37.1
+        },
+        {
+          "position": 2,
+          "name": "K.R.Mallikarjunappa",
+          "party": "Karnataka Jantha Paksha",
+          "votes": 43244,
+          "votes_percentage": 29.5
+        },
+        {
+          "position": 3,
+          "name": "Vatal Nagaraj",
+          "party": "Kannada Chalevali Vatal Paksha",
+          "votes": 18408,
+          "votes_percentage": 12.5
+        },
+        {
+          "position": 4,
+          "name": "R.P.Nanjundaswamy",
+          "party": "Bahujan Samaj Party",
+          "votes": 9278,
+          "votes_percentage": 6.3
+        },
+        {
+          "position": 5,
+          "name": "Somanayaka.S",
+          "party": "Bharatiya Janta Party",
+          "votes": 6919,
+          "votes_percentage": 4.7
+        },
+        {
+          "position": 6,
+          "name": "K.Veerabhadraswamy",
+          "party": "Karnataka Makkala Paksha",
+          "votes": 4504,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 7,
+          "name": "S.P.Sannamadasetty",
+          "party": "Janata Dal (Secular)",
+          "votes": 2696,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 8,
+          "name": "Raju",
+          "party": "Independent",
+          "votes": 2053,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 9,
+          "name": "M.C.Rajanna",
+          "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+          "votes": 1181,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 10,
+          "name": "Mohammad Inayath Ulla",
+          "party": "Independent",
+          "votes": 1122,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 11,
+          "name": "Mahadevaswamy",
+          "party": "Independent",
+          "votes": 874,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 12,
+          "name": "D.S.Doreswamy",
+          "party": "Samajwadi Party",
+          "votes": 813,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 13,
+          "name": "Puttaraju",
+          "party": "Independent",
+          "votes": 651,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 14,
+          "name": "Karunakara.K",
+          "party": "Independent",
+          "votes": 577,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "2008": {
+      "poll_date": "16 May 2008",
+      "counting_date": "25 May 2008",
+      "total_contestants": 12,
+      "aggregate": {
+        "total_electors": 171293,
+        "total_votes_polled": 123823,
+        "turnout_percentage": 72.3,
+        "margin_votes": 2612,
+        "margin_percentage": 2.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "C.Puttarangashetty",
+          "party": "Indian National Congress",
+          "votes": 42017,
+          "votes_percentage": 33.9
+        },
+        {
+          "position": 2,
+          "name": "M.Mahadev",
+          "party": "Bharatiya Janta Party",
+          "votes": 39405,
+          "votes_percentage": 31.8
+        },
+        {
+          "position": 3,
+          "name": "Vatal Nagaraj",
+          "party": "Kannada Chalevali Vatal Paksha",
+          "votes": 11426,
+          "votes_percentage": 9.2
+        },
+        {
+          "position": 4,
+          "name": "M.Shivakumar",
+          "party": "Janata Dal (Secular)",
+          "votes": 8919,
+          "votes_percentage": 7.2
+        },
+        {
+          "position": 5,
+          "name": "G.M.Gadkar",
+          "party": "Bahujan Samaj Party",
+          "votes": 8866,
+          "votes_percentage": 7.2
+        },
+        {
+          "position": 6,
+          "name": "Siddaraju",
+          "party": "Independent",
+          "votes": 3677,
+          "votes_percentage": 3.0
+        },
+        {
+          "position": 7,
+          "name": "Mohammad Innayath Ulla",
+          "party": "Independent",
+          "votes": 3549,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 8,
+          "name": "A.M.Mahesh Prabhu",
+          "party": "Sarvodaya Karnataka Paksha",
+          "votes": 1807,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 9,
+          "name": "H.Lakshmana Shetru",
+          "party": "Independent",
+          "votes": 1335,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 10,
+          "name": "Raju",
+          "party": "Independent",
+          "votes": 1122,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 11,
+          "name": "Rangaiah",
+          "party": "Samajwadi Party",
+          "votes": 882,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 12,
+          "name": "Mahammad Wasim Ulla",
+          "party": "Independent",
+          "votes": 818,
+          "votes_percentage": 0.7
+        }
+      ]
+    },
+    "2004": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 162731,
+        "total_votes_polled": 115638,
+        "turnout_percentage": 71.1,
+        "margin_votes": 10483,
+        "margin_percentage": 9.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Vatal Nagaraj",
+          "party": "Kannada Chalevali Vatal Paksha",
+          "votes": 37072,
+          "votes_percentage": 32.0
+        },
+        {
+          "position": 2,
+          "name": "Dr Manjula Bp",
+          "party": "Indian National Congress",
+          "votes": 26589,
+          "votes_percentage": 23.0
+        },
+        {
+          "position": 3,
+          "name": "Gadkar Gm",
+          "party": "Independent",
+          "votes": 22030,
+          "votes_percentage": 19.0
+        },
+        {
+          "position": 4,
+          "name": "Kumaraswamy R",
+          "party": "Janata Dal (Secular)",
+          "votes": 10015,
+          "votes_percentage": 8.7
+        },
+        {
+          "position": 5,
+          "name": "Puttaraju",
+          "party": "Bahujan Samaj Party",
+          "votes": 9449,
+          "votes_percentage": 8.2
+        },
+        {
+          "position": 6,
+          "name": "Ravishankar Ms",
+          "party": "Bharatiya Janta Party",
+          "votes": 6415,
+          "votes_percentage": 5.5
+        },
+        {
+          "position": 7,
+          "name": "Ravichandra Gs",
+          "party": "Jharkhand Party",
+          "votes": 2502,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 8,
+          "name": "Prakash Mr",
+          "party": "Kannada Nadu Party",
+          "votes": 1618,
+          "votes_percentage": 1.4
+        }
+      ]
+    },
+    "1999": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 154442,
+        "total_votes_polled": 114283,
+        "turnout_percentage": 74.0,
+        "margin_votes": 17519,
+        "margin_percentage": 15.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "C Guruswamy",
+          "party": "Bharatiya Janta Party",
+          "votes": 46300,
+          "votes_percentage": 43.8
+        },
+        {
+          "position": 2,
+          "name": "Vatal Nagaraj",
+          "party": "Kannada Chalevali Vatal Paksha",
+          "votes": 28781,
+          "votes_percentage": 27.2
+        },
+        {
+          "position": 3,
+          "name": "Gm Gadkar",
+          "party": "Indian National Congress",
+          "votes": 19384,
+          "votes_percentage": 18.4
+        },
+        {
+          "position": 4,
+          "name": "Hanumanthashetty",
+          "party": "Janata Dal (Secular)",
+          "votes": 4614,
+          "votes_percentage": 4.4
+        },
+        {
+          "position": 5,
+          "name": "Cm Krishnamurthy",
+          "party": "Bahujan Samaj Party",
+          "votes": 3292,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 6,
+          "name": "Hb Mahadevaswamy",
+          "party": "Karnataka Rajya Ryota Sangha",
+          "votes": 2092,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 7,
+          "name": "Sha.Muruli",
+          "party": "Independent",
+          "votes": 767,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 8,
+          "name": "Cs Basavaraju",
+          "party": "Independent",
+          "votes": 410,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "1994": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 13,
+      "aggregate": {
+        "total_electors": 143371,
+        "total_votes_polled": 109199,
+        "turnout_percentage": 76.2,
+        "margin_votes": 5982,
+        "margin_percentage": 5.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Vatal Nagaraj",
+          "party": "Kannada Chalevali Vatal Paksha",
+          "votes": 28334,
+          "votes_percentage": 26.7
+        },
+        {
+          "position": 2,
+          "name": "S. Puttaswamy",
+          "party": "Indian National Congress",
+          "votes": 22352,
+          "votes_percentage": 21.1
+        },
+        {
+          "position": 3,
+          "name": "C. Guruswamy",
+          "party": "Janata Dal",
+          "votes": 21162,
+          "votes_percentage": 19.9
+        },
+        {
+          "position": 4,
+          "name": "A.S. Nataraju",
+          "party": "Bharatiya Janta Party",
+          "votes": 13170,
+          "votes_percentage": 12.4
+        },
+        {
+          "position": 5,
+          "name": "Hanumantha Setty",
+          "party": "Karnataka Congress Party",
+          "votes": 10344,
+          "votes_percentage": 9.7
+        },
+        {
+          "position": 6,
+          "name": "Malleshu",
+          "party": "Karnataka Rajya Ryota Sangha",
+          "votes": 4251,
+          "votes_percentage": 4.0
+        },
+        {
+          "position": 7,
+          "name": "M.C. Swamy",
+          "party": "Independent",
+          "votes": 2595,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 8,
+          "name": "M. Madaiah",
+          "party": "Independent",
+          "votes": 1569,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 9,
+          "name": "K. Nagendra",
+          "party": "Independent",
+          "votes": 1389,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 10,
+          "name": "Basavaraju",
+          "party": "Independent",
+          "votes": 393,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 11,
+          "name": "Venkataramanayaka",
+          "party": "Independent",
+          "votes": 300,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 12,
+          "name": "C. Basavaraju",
+          "party": "Independent",
+          "votes": 183,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 13,
+          "name": "P.D. Kumar",
+          "party": "Independent",
+          "votes": 108,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1989": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 132837,
+        "total_votes_polled": 98471,
+        "turnout_percentage": 74.1,
+        "margin_votes": 5893,
+        "margin_percentage": 6.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Vatal Nagaraj",
+          "party": "Independent",
+          "votes": 35642,
+          "votes_percentage": 38.8
+        },
+        {
+          "position": 2,
+          "name": "S. Puttaswamy",
+          "party": "Indian National Congress",
+          "votes": 29749,
+          "votes_percentage": 32.4
+        },
+        {
+          "position": 3,
+          "name": "C. Guruswamy",
+          "party": "Janata Dal",
+          "votes": 21570,
+          "votes_percentage": 23.5
+        },
+        {
+          "position": 4,
+          "name": "H. M. Kanta Raju",
+          "party": "Janata Party (JP)",
+          "votes": 1586,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 5,
+          "name": "M. N. Guruswamy",
+          "party": "Bharatiya Janta Party",
+          "votes": 1191,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 6,
+          "name": "Nagendra",
+          "party": "Independent",
+          "votes": 548,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "D. Nanjundasetty",
+          "party": "Independent",
+          "votes": 522,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "B. Parashiva Murthy",
+          "party": "Independent",
+          "votes": 451,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 9,
+          "name": "Bhavani Shankar",
+          "party": "Independent",
+          "votes": 328,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 10,
+          "name": "Madasetty",
+          "party": "Independent",
+          "votes": 184,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Mahadevaiah",
+          "party": "Independent",
+          "votes": 178,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "1985": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 109502,
+        "total_votes_polled": 83609,
+        "turnout_percentage": 76.4,
+        "margin_votes": 7710,
+        "margin_percentage": 9.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "S. Puttaswamy",
+          "party": "Indian National Congress",
+          "votes": 33335,
+          "votes_percentage": 40.7
+        },
+        {
+          "position": 2,
+          "name": "M. C. Parashivappa",
+          "party": "Janta Party",
+          "votes": 25625,
+          "votes_percentage": 31.3
+        },
+        {
+          "position": 3,
+          "name": "Vatal Nagaraj",
+          "party": "Independent",
+          "votes": 21758,
+          "votes_percentage": 26.6
+        },
+        {
+          "position": 4,
+          "name": "Y. S. Lingaiah",
+          "party": "Independent",
+          "votes": 1149,
+          "votes_percentage": 1.4
+        }
+      ]
+    },
+    "1983": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 103080,
+        "total_votes_polled": 74661,
+        "turnout_percentage": 72.4,
+        "margin_votes": 5917,
+        "margin_percentage": 7.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "S. Puttaswamy",
+          "party": "Indian National Congress",
+          "votes": 34607,
+          "votes_percentage": 47.5
+        },
+        {
+          "position": 2,
+          "name": "Vatal Nagaraj",
+          "party": "Independent",
+          "votes": 28690,
+          "votes_percentage": 39.4
+        },
+        {
+          "position": 3,
+          "name": "M. Shivanja Shetty",
+          "party": "Janta Party",
+          "votes": 7269,
+          "votes_percentage": 10.0
+        },
+        {
+          "position": 4,
+          "name": "Genesh Dixit",
+          "party": "Bharatiya Janta Party",
+          "votes": 1243,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 5,
+          "name": "N. M. Guruswamy",
+          "party": "Independent",
+          "votes": 502,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Y. M. Puttamallapa",
+          "party": "Independent",
+          "votes": 404,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "M. C. Swamy",
+          "party": "Independent",
+          "votes": 120,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 94678,
+        "total_votes_polled": 76412,
+        "turnout_percentage": 80.7,
+        "margin_votes": 15878,
+        "margin_percentage": 20.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "M.C.Basappa",
+          "party": "Janta Party",
+          "votes": 36389,
+          "votes_percentage": 48.8
+        },
+        {
+          "position": 2,
+          "name": "S.Puttaswamy",
+          "party": "Indian National Congress",
+          "votes": 20511,
+          "votes_percentage": 27.5
+        },
+        {
+          "position": 3,
+          "name": "R.Venkataranga Naika",
+          "party": "Indian National Congress (I)",
+          "votes": 16862,
+          "votes_percentage": 22.6
+        },
+        {
+          "position": 4,
+          "name": "Kunnamaddaiah",
+          "party": "Independent",
+          "votes": 743,
+          "votes_percentage": 1.0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+    "district": "Perambalur",
+    "state": "Tamil Nadu",
+    "source_census2011": "https://www.census2011.co.in/census/district/37-perambalur.html",
+    "source_secondary": "https://www.censusindia.co.in/district/perambalur-district-tamil-nadu-615",
+    "population": {
+        "total": 565223,
+        "male": 282157,
+        "female": 283066,
+        "sex_ratio": 1003
+    },
+    "child_population": {
+        "total": 59567,
+        "male": 31135,
+        "female": 28432,
+        "sex_ratio": 913,
+        "percentage_of_total_population": 10.54,
+        "percentage_of_total_population_calculated": 10.54,
+        "percentage_of_total_population_stated": 10.54
+    },
+    "literacy": {
+        "rate_percentage": 74.32,
+        "male_literacy_rate": 82.87,
+        "female_literacy_rate": 65.9,
+        "total_literate": 375823,
+        "male_literate": 208011,
+        "female_literate": 167812
+    },
+    "religion": {
+        "Hindu": {
+            "population": 521658,
+            "percentage": 92.29
+        },
+        "Muslims": {
+            "population": 32702,
+            "percentage": 5.79
+        },
+        "Christian": {
+            "population": 10301,
+            "percentage": 1.82
+        },
+        "Sikh": {
+            "population": 83,
+            "percentage": 0.01
+        },
+        "Buddhist": {
+            "population": 39,
+            "percentage": 0.01
+        },
+        "Jain": {
+            "population": 38,
+            "percentage": 0.01
+        },
+        "Others": {
+            "population": 26,
+            "percentage": 0.0
+        },
+        "Not Stated": {
+            "population": 376,
+            "percentage": 0.07
+        }
+    },
+    "rural": {
+        "population": 468060,
+        "male": 233926,
+        "female": 234134,
+        "sex_ratio": 1001,
+        "percentage_population": 82.81,
+        "literacy_rate_percentage": 72.06,
+        "literacy_rate_male": 0,
+        "literacy_rate_female": 0,
+        "literate_total": 301716,
+        "literate_male": 169106,
+        "literate_female": 132610
+    },
+    "urban": {
+        "population": 97163,
+        "male": 48231,
+        "female": 48932,
+        "sex_ratio": 1015,
+        "percentage_population": 17.19,
+        "literacy_rate_percentage": 85.22,
+        "literacy_rate_male": 0,
+        "literacy_rate_female": 0,
+        "literate_total": 74107,
+        "literate_male": 38905,
+        "literate_female": 35202
+    },
+    "scheduled_caste": {
+        "total": 175289,
+        "percentage_of_total_population": 31.0,
+        "male": 87444,
+        "female": 87845
+    },
+    "scheduled_tribe": {
+        "total": 2584,
+        "percentage_of_total_population": 0.5,
+        "male": 1292,
+        "female": 1292
+    }
+}

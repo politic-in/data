@@ -1,0 +1,57 @@
+{
+  "state": "Assam",
+  "constituency": "Barama (ST)",
+  "district": "Nalbari",
+  "ac_type": "ST",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 145311,
+        "total_votes_polled": 117509,
+        "turnout_percentage": 82.2,
+        "margin_votes": 9796,
+        "margin_percentage": 8.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Maneswar Brahma",
+          "party": "Bodaland Peoples Front",
+          "votes": 45289,
+          "votes_percentage": 38.5
+        },
+        {
+          "position": 2,
+          "name": "Rekha Rani Das Boro",
+          "party": "Independent",
+          "votes": 35493,
+          "votes_percentage": 30.2
+        },
+        {
+          "position": 3,
+          "name": "Kati Ram Baro",
+          "party": "Independent",
+          "votes": 20870,
+          "votes_percentage": 17.8
+        },
+        {
+          "position": 4,
+          "name": "Pani Ram Rabha",
+          "party": "Indian National Congress",
+          "votes": 14373,
+          "votes_percentage": 12.2
+        },
+        {
+          "position": 5,
+          "name": "Bhupen Das",
+          "party": "Independent",
+          "votes": 1484,
+          "votes_percentage": 1.3
+        }
+      ]
+    }
+  }
+}

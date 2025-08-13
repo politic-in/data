@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 150136,
+        "male": 167749,
+        "percentage_of_total_population": 10.58,
+        "percentage_of_total_population_calculated": 10.58,
+        "percentage_of_total_population_stated": 10.58,
+        "sex_ratio": 895,
+        "total": 317885
+    },
+    "literacy": {
+        "female_literacy_rate": 76.31,
+        "female_literate": 1024660,
+        "male_literacy_rate": 89.42,
+        "male_literate": 1201034,
+        "rate_percentage": 82.87,
+        "total_literate": 2225694
+    },
+    "population": {
+        "female": 1492899,
+        "male": 1510842,
+        "sex_ratio": 988,
+        "total": 3003741
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 4.7,
+            "population": 141315
+        },
+        "Christian": {
+            "percentage": 0.15,
+            "population": 4408
+        },
+        "Hindu": {
+            "percentage": 89.62,
+            "population": 2691952
+        },
+        "Jain": {
+            "percentage": 0.43,
+            "population": 12810
+        },
+        "Muslims": {
+            "percentage": 4.89,
+            "population": 146970
+        },
+        "Not Stated": {
+            "percentage": 0.15,
+            "population": 4428
+        },
+        "Others": {
+            "percentage": 0.02,
+            "population": 676
+        },
+        "Sikh": {
+            "percentage": 0.04,
+            "population": 1182
+        }
+    },
+    "rural": {
+        "child_population_female": 122242,
+        "child_population_male": 136325,
+        "child_population_percentage": 10.63,
+        "child_population_percentage_calculated": 10.63,
+        "child_population_percentage_stated": 10.63,
+        "child_population_total": 258567,
+        "child_sex_ratio": 897,
+        "female": 1213614,
+        "literacy_rate_female": 74.21,
+        "literacy_rate_male": 88.68,
+        "literacy_rate_percentage": 81.42,
+        "literate_female": 809951,
+        "literate_male": 960799,
+        "literate_total": 1770750,
+        "male": 1219749,
+        "percentage_population": 81.01,
+        "population": 2433363,
+        "sex_ratio": 995
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/365-satara.html",
+    "urban": {
+        "child_population_female": 27914,
+        "child_population_male": 31404,
+        "child_population_percentage": 10.4,
+        "child_population_percentage_calculated": 10.4,
+        "child_population_percentage_stated": 10.4,
+        "child_population_total": 59318,
+        "child_sex_ratio": 889,
+        "female": 279285,
+        "literacy_rate_female": 85.42,
+        "literacy_rate_male": 92.51,
+        "literacy_rate_percentage": 89.02,
+        "literate_female": 214709,
+        "literate_male": 240235,
+        "literate_total": 454944,
+        "male": 291093,
+        "percentage_population": 18.99,
+        "population": 570378,
+        "sex_ratio": 959
+    }
+}

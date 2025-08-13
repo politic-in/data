@@ -1,0 +1,57 @@
+{
+  "state": "Tripura",
+  "constituency": "Mandwibazar (ST)",
+  "district": "West Tripura",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 44272,
+        "total_votes_polled": 40075,
+        "turnout_percentage": 91.5,
+        "margin_votes": 5864,
+        "margin_percentage": 14.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dhirendra Debbarma",
+          "party": "Indigenous People's Front Of Tripura",
+          "votes": 21381,
+          "votes_percentage": 53.4
+        },
+        {
+          "position": 2,
+          "name": "Monoranjan Debbarma",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 15517,
+          "votes_percentage": 38.7
+        },
+        {
+          "position": 3,
+          "name": "Jagadish Debbarma",
+          "party": "Indigenous Nationalist Party Of Twipra",
+          "votes": 2215,
+          "votes_percentage": 5.5
+        },
+        {
+          "position": 4,
+          "name": "Jiten Debbarma",
+          "party": "Indian National Congress",
+          "votes": 496,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 5,
+          "name": "Sona Charan Debbarma",
+          "party": "Tipraland State Party",
+          "votes": 466,
+          "votes_percentage": 1.2
+        }
+      ]
+    }
+  }
+}

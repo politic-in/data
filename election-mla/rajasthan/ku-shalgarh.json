@@ -1,0 +1,78 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Ku shalgarh",
+  "district": "Banswara",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 217312,
+        "total_votes_polled": 186898,
+        "turnout_percentage": 91.1,
+        "margin_votes": 18950,
+        "margin_percentage": 10.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ramila Khadiya",
+          "party": "Independent",
+          "votes": 94344,
+          "votes_percentage": 50.5
+        },
+        {
+          "position": 2,
+          "name": "Bhima Bhai",
+          "party": "Bharatiya Janta Party",
+          "votes": 75394,
+          "votes_percentage": 40.3
+        },
+        {
+          "position": 3,
+          "name": "Chagan",
+          "party": "Bahujan Samaj Party",
+          "votes": 6016,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 4,
+          "name": "Devchand Mavi",
+          "party": "Independent",
+          "votes": 3011,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 5,
+          "name": "Dinesh",
+          "party": "Abhinav Rajasthan Party",
+          "votes": 2527,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 6,
+          "name": "Fateh Singh",
+          "party": "Loktantrik Janta Dal",
+          "votes": 2281,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 7,
+          "name": "Naresh",
+          "party": "Independent",
+          "votes": 1709,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 8,
+          "name": "Ashok",
+          "party": "Independent",
+          "votes": 1616,
+          "votes_percentage": 0.9
+        }
+      ]
+    }
+  }
+}

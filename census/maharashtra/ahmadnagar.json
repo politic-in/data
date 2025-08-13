@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 255790,
+        "male": 300224,
+        "percentage_of_total_population": 12.24,
+        "percentage_of_total_population_calculated": 12.24,
+        "percentage_of_total_population_stated": 12.24,
+        "sex_ratio": 852,
+        "total": 556014
+    },
+    "literacy": {
+        "female_literacy_rate": 70.89,
+        "female_literate": 1378535,
+        "male_literacy_rate": 86.82,
+        "male_literate": 1773355,
+        "rate_percentage": 79.05,
+        "total_literate": 3151890
+    },
+    "population": {
+        "female": 2200334,
+        "male": 2342825,
+        "sex_ratio": 939,
+        "total": 4543159
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.75,
+            "population": 33898
+        },
+        "Christian": {
+            "percentage": 0.5,
+            "population": 22766
+        },
+        "Hindu": {
+            "percentage": 90.4,
+            "population": 4107143
+        },
+        "Jain": {
+            "percentage": 0.85,
+            "population": 38718
+        },
+        "Muslims": {
+            "percentage": 7.06,
+            "population": 320743
+        },
+        "Not Stated": {
+            "percentage": 0.29,
+            "population": 13052
+        },
+        "Others": {
+            "percentage": 0.03,
+            "population": 1408
+        },
+        "Sikh": {
+            "percentage": 0.12,
+            "population": 5431
+        }
+    },
+    "rural": {
+        "child_population_female": 206808,
+        "child_population_male": 243665,
+        "child_population_percentage": 12.41,
+        "child_population_percentage_calculated": 12.41,
+        "child_population_percentage_stated": 12.41,
+        "child_population_total": 450473,
+        "child_sex_ratio": 849,
+        "female": 1757635,
+        "literacy_rate_female": 67.85,
+        "literacy_rate_male": 85.49,
+        "literacy_rate_percentage": 76.89,
+        "literate_female": 1052256,
+        "literate_male": 1392891,
+        "literate_total": 2445147,
+        "male": 1872907,
+        "percentage_population": 79.91,
+        "population": 3630542,
+        "sex_ratio": 938
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/360-ahmadnagar.html",
+    "urban": {
+        "child_population_female": 48968,
+        "child_population_male": 56573,
+        "child_population_percentage": 11.56,
+        "child_population_percentage_calculated": 11.56,
+        "child_population_percentage_stated": 11.56,
+        "child_population_total": 105541,
+        "child_sex_ratio": 866,
+        "female": 442699,
+        "literacy_rate_female": 82.87,
+        "literacy_rate_male": 92.05,
+        "literacy_rate_percentage": 87.57,
+        "literate_female": 326279,
+        "literate_male": 380464,
+        "literate_total": 706743,
+        "male": 469918,
+        "percentage_population": 20.09,
+        "population": 912617,
+        "sex_ratio": 942
+    }
+}

@@ -1,0 +1,55 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "GONDA DISTRICT (NORTH)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 364459,
+        "total_votes_polled": 164274,
+        "turnout_percentage": 45.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chowdhari Hyder Husain",
+          "party": "Indian National Congress",
+          "votes": 82217,
+          "votes_percentage": 50.0
+        },
+        {
+          "position": 2,
+          "name": "Dikshit Deomani Acharya",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 61376,
+          "votes_percentage": 37.4
+        },
+        {
+          "position": 3,
+          "name": "Panna Lal",
+          "party": "Akhil Bharatiya Hindu Mahasabha",
+          "votes": 10101,
+          "votes_percentage": 6.1
+        },
+        {
+          "position": 4,
+          "name": "Imdad Husain",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 5725,
+          "votes_percentage": 3.5
+        },
+        {
+          "position": 5,
+          "name": "Shukul Ram Dutt",
+          "party": "Independent",
+          "votes": 4855,
+          "votes_percentage": 3.0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "GHANSHYAMPUR",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2005": {
+      "poll_date": "13 November 2005",
+      "counting_date": "21 November 2005",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 232083,
+        "total_votes_polled": 101950,
+        "turnout_percentage": 43.9,
+        "total_valid_votes": 101950,
+        "total_valid_votes_percentage": 43.9,
+        "margin_votes": 4853,
+        "margin_percentage": 4.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Izhar Ahmad",
+          "party": "Lok Jan Shakti Party",
+          "votes": 33888,
+          "votes_percentage": 33.2
+        },
+        {
+          "position": 2,
+          "name": "Dr. Mahabir Prasad",
+          "party": "Rashtriya Janata Dal",
+          "votes": 29035,
+          "votes_percentage": 28.5
+        },
+        {
+          "position": 3,
+          "name": "Vijayshankar Chaudhary",
+          "party": "Bharatiya Janta Party",
+          "votes": 28056,
+          "votes_percentage": 27.5
+        },
+        {
+          "position": 4,
+          "name": "Harendra Narayan Singh",
+          "party": "Samajwadi Party",
+          "votes": 4258,
+          "votes_percentage": 4.2
+        },
+        {
+          "position": 5,
+          "name": "Laxmi Nayak",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 3971,
+          "votes_percentage": 3.9
+        },
+        {
+          "position": 6,
+          "name": "Vidyanand Ram",
+          "party": "Bahujan Samaj Party",
+          "votes": 2742,
+          "votes_percentage": 2.7
+        }
+      ]
+    },
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 201776,
+        "total_votes_polled": 150830,
+        "turnout_percentage": 74.8,
+        "margin_votes": 16441,
+        "margin_percentage": 10.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mahavir Prasad",
+          "party": "Rashtriya Janata Dal",
+          "votes": 79472,
+          "votes_percentage": 53.6
+        },
+        {
+          "position": 2,
+          "name": "Izhar Ahmad",
+          "party": "Janata Dal (United)",
+          "votes": 63031,
+          "votes_percentage": 42.5
+        },
+        {
+          "position": 3,
+          "name": "Chandeshwar Singh",
+          "party": "Communist Party Of India",
+          "votes": 1546,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 4,
+          "name": "Laxmi Nayak",
+          "party": "Independent",
+          "votes": 1441,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Qamre Alam",
+          "party": "Indian National Congress",
+          "votes": 1191,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Thithar Pandit",
+          "party": "Bahujan Samaj Party",
+          "votes": 511,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "Ashok Mu Misar",
+          "party": "Nationalist Congress Party",
+          "votes": 488,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Lalit Mohan Jha",
+          "party": "Independent",
+          "votes": 362,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Rambilash Yadav",
+          "party": "Independent",
+          "votes": 198,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

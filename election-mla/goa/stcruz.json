@@ -1,0 +1,57 @@
+{
+  "state": "Goa",
+  "constituency": "St.Cruz",
+  "district": "North Goa",
+  "ac_type": "GEN",
+  "results": {
+    "2022": {
+      "poll_date": "14 February 2022",
+      "counting_date": "10 March 2022",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 29296,
+        "total_votes_polled": 22336,
+        "turnout_percentage": 77.4,
+        "margin_votes": 2464,
+        "margin_percentage": 11.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rodolfo Louis Fernandes",
+          "party": "Indian National Congress",
+          "votes": 8841,
+          "votes_percentage": 39.6
+        },
+        {
+          "position": 2,
+          "name": "Antonio Caetano Fernandes",
+          "party": "Bharatiya Janta Party",
+          "votes": 6377,
+          "votes_percentage": 28.6
+        },
+        {
+          "position": 3,
+          "name": "Amit Palekar",
+          "party": "Aam Aadmi Party",
+          "votes": 4098,
+          "votes_percentage": 18.4
+        },
+        {
+          "position": 4,
+          "name": "Ajay Tipu Kholkar",
+          "party": "Revolutionary Goans Party",
+          "votes": 2497,
+          "votes_percentage": 11.2
+        },
+        {
+          "position": 5,
+          "name": "Victor Benjamin Gonsalves",
+          "party": "All India Trinamool Congress",
+          "votes": 523,
+          "votes_percentage": 2.3
+        }
+      ]
+    }
+  }
+}

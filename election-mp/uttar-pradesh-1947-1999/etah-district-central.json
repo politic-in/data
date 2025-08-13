@@ -1,0 +1,55 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "ETAH DISTRICT (CENTRAL)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 365009,
+        "total_votes_polled": 168730,
+        "turnout_percentage": 46.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rohan Lal Chaturvedi",
+          "party": "Indian National Congress",
+          "votes": 68367,
+          "votes_percentage": 40.5
+        },
+        {
+          "position": 2,
+          "name": "Rao Krishan Pal Singh",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 38782,
+          "votes_percentage": 23.0
+        },
+        {
+          "position": 3,
+          "name": "Siya Ram",
+          "party": "Independent",
+          "votes": 28344,
+          "votes_percentage": 16.8
+        },
+        {
+          "position": 4,
+          "name": "Babu Ram Verma",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 18587,
+          "votes_percentage": 11.0
+        },
+        {
+          "position": 5,
+          "name": "Satya Deo",
+          "party": "Socialist Party",
+          "votes": 14650,
+          "votes_percentage": 8.7
+        }
+      ]
+    }
+  }
+}

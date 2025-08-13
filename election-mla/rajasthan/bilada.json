@@ -1,0 +1,57 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Bilada",
+  "district": "Jodhpur",
+  "ac_type": "SC",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 259233,
+        "total_votes_polled": 182737,
+        "turnout_percentage": 71.4,
+        "margin_votes": 9618,
+        "margin_percentage": 5.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Heeraram",
+          "party": "Indian National Congress",
+          "votes": 75671,
+          "votes_percentage": 41.4
+        },
+        {
+          "position": 2,
+          "name": "Arjun Lal",
+          "party": "Bharatiya Janta Party",
+          "votes": 66053,
+          "votes_percentage": 36.2
+        },
+        {
+          "position": 3,
+          "name": "Vijendra Jhala",
+          "party": "Rashtriya Loktantrik Party",
+          "votes": 37796,
+          "votes_percentage": 20.7
+        },
+        {
+          "position": 4,
+          "name": "Mangilal",
+          "party": "Abhinav Rajasthan Party",
+          "votes": 1952,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Pukhraj Sonel",
+          "party": "Independent",
+          "votes": 1265,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "district": "Kasaragod",
+  "state": "Kerala",
+  "data_source_primary": "https://www.census2011.co.in/census/district/271-kasaragod.html",
+  "data_source_secondary": "https://www.censusindia.co.in/district/kasaragod-district-kerala-588",
+  "total_population": {
+    "total": 1307375,
+    "male": 628613,
+    "female": 678762,
+    "sex_ratio": 1080
+  },
+  "child_population_0_6": {
+    "total": 155807,
+    "male": 79460,
+    "female": 76347,
+    "sex_ratio": 961,
+    "percentage_of_total_population": 11.92
+  },
+  "literacy": {
+    "rate_percentage": 90.09,
+    "total_literate": 1037492,
+    "male_literate": 516476,
+    "female_literate": 521016,
+    "male_literacy_rate": 94.05,
+    "female_literacy_rate": 86.49
+  },
+  "urban_population": {
+    "percentage_of_total_population": 38.94,
+    "total_population": 509047,
+    "male": 240897,
+    "female": 268150,
+    "sex_ratio": 1113,
+    "child_population_0_6": {
+      "total": 63975,
+      "male": 32741,
+      "female": 31234,
+      "sex_ratio": 954,
+      "percentage_of_urban_population": 12.57
+    },
+    "literacy": {
+      "rate_percentage": 92.0,
+      "total_literate": 409460,
+      "male_literate": 198786,
+      "female_literate": 210674,
+      "male_literacy_rate": 95.5,
+      "female_literacy_rate": 88.92
+    }
+  },
+  "rural_population": {
+    "percentage_of_total_population": 61.06,
+    "total_population": 798328,
+    "male": 387716,
+    "female": 410612,
+    "sex_ratio": 1059,
+    "child_population_0_6": {
+      "total": 91832,
+      "male": 46719,
+      "female": 45113,
+      "sex_ratio": 966,
+      "percentage_of_rural_population": 11.5
+    },
+    "literacy": {
+      "rate_percentage": 88.89,
+      "total_literate": 628032,
+      "male_literate": 317690,
+      "female_literate": 310342,
+      "male_literacy_rate": 93.17,
+      "female_literacy_rate": 84.91
+    }
+  },
+  "religion_distribution": {
+    "hindu": {
+      "percentage": 55.84,
+      "population": 729987
+    },
+    "muslim": {
+      "percentage": 37.24,
+      "population": 486913
+    },
+    "christian": {
+      "percentage": 6.69,
+      "population": 87454
+    },
+    "sikh": {
+      "percentage": 0.01,
+      "population": 151
+    },
+    "buddhist": {
+      "percentage": 0.03,
+      "population": 362
+    },
+    "jain": {
+      "percentage": 0.01,
+      "population": 130
+    },
+    "others": {
+      "percentage": 0.01,
+      "population": 152
+    },
+    "not_stated": {
+      "percentage": 0.17,
+      "population": 2226
+    }
+  },
+  "scheduled_caste_population": {
+    "total": 53283,
+    "percentage_of_total_population": 4.1,
+    "male": 26385,
+    "female": 26898
+  },
+  "scheduled_tribe_population": {
+    "total": 48857,
+    "percentage_of_total_population": 3.7,
+    "male": 23950,
+    "female": 24907
+  }
+}

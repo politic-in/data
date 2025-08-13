@@ -1,0 +1,99 @@
+{
+  "state": "Himachal Pradesh",
+  "constituency": "JHANDUTA(SC)",
+  "district": "Bilaspur",
+  "ac_type": "SC",
+  "results": {
+    "2022": {
+      "poll_date": "12 November 2022",
+      "counting_date": "08 December 2022",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 78141,
+        "total_votes_polled": 60255,
+        "turnout_percentage": 77.4,
+        "margin_votes": 5799,
+        "margin_percentage": 9.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jeet Ram Katwal",
+          "party": "Bharatiya Janta Party",
+          "votes": 28268,
+          "votes_percentage": 46.7
+        },
+        {
+          "position": 2,
+          "name": "Vivek Kumar",
+          "party": "Indian National Congress",
+          "votes": 22469,
+          "votes_percentage": 37.1
+        },
+        {
+          "position": 3,
+          "name": "Raj Kumar",
+          "party": "Independent",
+          "votes": 8358,
+          "votes_percentage": 13.8
+        },
+        {
+          "position": 4,
+          "name": "Sudhir Kumar",
+          "party": "Aam Aadmi Party",
+          "votes": 427,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Manoj Kumar",
+          "party": "Rashtriya Devbhumi Party",
+          "votes": 282,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Amar Nath",
+          "party": "Bahujan Samaj Party",
+          "votes": 245,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Jitender Pal",
+          "party": "Independent",
+          "votes": 206,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2017": {
+      "poll_date": "09 November 2017",
+      "counting_date": "18 December 2017",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 69092,
+        "total_votes_polled": 53098,
+        "turnout_percentage": 77.8,
+        "margin_votes": 4962,
+        "margin_percentage": 9.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jeet Ram Katwal",
+          "party": "Bharatiya Janta Party",
+          "votes": 29030,
+          "votes_percentage": 54.7
+        },
+        {
+          "position": 2,
+          "name": "Beeru Ram Kishore",
+          "party": "Indian National Congress",
+          "votes": 24068,
+          "votes_percentage": 45.3
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "state": "Sikkim",
+  "constituency": "Lachen mangan",
+  "district": "North",
+  "ac_type": "BL",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 8072,
+        "total_votes_polled": 6646,
+        "turnout_percentage": 83.2,
+        "margin_votes": 584,
+        "margin_percentage": 8.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Samdup Lepcha",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 3615,
+          "votes_percentage": 54.4
+        },
+        {
+          "position": 2,
+          "name": "Tshering Wangdi Lepcha",
+          "party": "Sikkim Democratic Front",
+          "votes": 3031,
+          "votes_percentage": 45.6
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "12 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 6869,
+        "total_votes_polled": 5852,
+        "turnout_percentage": 85.2,
+        "total_valid_votes": 5773,
+        "total_valid_votes_percentage": 84.0,
+        "margin_votes": 557,
+        "margin_percentage": 9.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tshering Wangdi Lepcha",
+          "party": "Sikkim Democratic Front",
+          "votes": 3127,
+          "votes_percentage": 54.2
+        },
+        {
+          "position": 2,
+          "name": "Samdup Lepcha",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 2570,
+          "votes_percentage": 44.5
+        },
+        {
+          "position": 3,
+          "name": "Topden Lepcha",
+          "party": "Indian National Congress",
+          "votes": 76,
+          "votes_percentage": 1.3
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "30 April 2009",
+      "counting_date": "05 June 2009",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 5701,
+        "total_votes_polled": 5101,
+        "turnout_percentage": 89.5,
+        "total_valid_votes": 4983,
+        "total_valid_votes_percentage": 87.4,
+        "margin_votes": 779,
+        "margin_percentage": 15.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tshering Wangdi Lepcha",
+          "party": "Sikkim Democratic Front",
+          "votes": 2719,
+          "votes_percentage": 53.3
+        },
+        {
+          "position": 2,
+          "name": "Anil Lachenpa",
+          "party": "Indian National Congress",
+          "votes": 1940,
+          "votes_percentage": 38.0
+        },
+        {
+          "position": 3,
+          "name": "Chewang Jigme Lepcha",
+          "party": "Sikkim Himali Rajya Parishad",
+          "votes": 442,
+          "votes_percentage": 8.7
+        }
+      ]
+    }
+  }
+}

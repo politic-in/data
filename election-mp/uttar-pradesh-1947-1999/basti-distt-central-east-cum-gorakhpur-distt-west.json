@@ -1,0 +1,55 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "BASTI DISTT CENTRAL (EAST) CUM GORAKHPUR DISTT (WEST)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 730319,
+        "total_votes_polled": 498251,
+        "turnout_percentage": 34.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ram Shanker Lal",
+          "party": "Indian National Congress",
+          "votes": 193733,
+          "votes_percentage": 38.9
+        },
+        {
+          "position": 1,
+          "name": "Sohan Lal Dhusiya",
+          "party": "Indian National Congress",
+          "votes": 169610,
+          "votes_percentage": 34.0
+        },
+        {
+          "position": 3,
+          "name": "Mahanth Digvijai Nath",
+          "party": "Akhil Bharatiya Hindu Mahasabha",
+          "votes": 61989,
+          "votes_percentage": 12.4
+        },
+        {
+          "position": 4,
+          "name": "Har Nath",
+          "party": "Independent",
+          "votes": 36793,
+          "votes_percentage": 7.4
+        },
+        {
+          "position": 5,
+          "name": "Mahabir Pd.",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 36126,
+          "votes_percentage": 7.3
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Ichchapuram",
+  "district": "Srikakulam",
+  "ac_type": "GEN",
+  "results": {
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 186252,
+        "total_votes_polled": 136345,
+        "turnout_percentage": 73.2,
+        "total_valid_votes": 136222,
+        "total_valid_votes_percentage": 73.1,
+        "margin_votes": 2275,
+        "margin_percentage": 1.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Piriya Sairaj",
+          "party": "Telugu Desam",
+          "votes": 45277,
+          "votes_percentage": 33.2
+        },
+        {
+          "position": 2,
+          "name": "Narthu Rama Rao",
+          "party": "Indian National Congress",
+          "votes": 43002,
+          "votes_percentage": 31.6
+        },
+        {
+          "position": 3,
+          "name": "Narthu Seshagiri Rao",
+          "party": "Praja Rajyam Party",
+          "votes": 39256,
+          "votes_percentage": 28.8
+        },
+        {
+          "position": 4,
+          "name": "Umapathi Badiya",
+          "party": "Bahujan Samaj Party",
+          "votes": 5222,
+          "votes_percentage": 3.8
+        },
+        {
+          "position": 5,
+          "name": "Ramaraju Mahanthi",
+          "party": "Pyramid Party Of India",
+          "votes": 3465,
+          "votes_percentage": 2.5
+        }
+      ]
+    }
+  }
+}

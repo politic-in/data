@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 49628,
+        "male": 57708,
+        "percentage_of_total_population": 10.78,
+        "percentage_of_total_population_calculated": 10.78,
+        "percentage_of_total_population_stated": 10.78,
+        "sex_ratio": 860,
+        "total": 107336
+    },
+    "literacy": {
+        "female_literacy_rate": 66.48,
+        "female_literate": 279340,
+        "male_literacy_rate": 74.44,
+        "male_literate": 348549,
+        "rate_percentage": 70.68,
+        "total_literate": 627889
+    },
+    "population": {
+        "female": 469826,
+        "male": 525920,
+        "sex_ratio": 893,
+        "total": 995746
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 178
+        },
+        "Christian": {
+            "percentage": 0.33,
+            "population": 3277
+        },
+        "Hindu": {
+            "percentage": 15.91,
+            "population": 158414
+        },
+        "Jain": {
+            "percentage": 0.04,
+            "population": 436
+        },
+        "Muslims": {
+            "percentage": 0.94,
+            "population": 9388
+        },
+        "Not Stated": {
+            "percentage": 0.48,
+            "population": 4767
+        },
+        "Others": {
+            "percentage": 0.04,
+            "population": 365
+        },
+        "Sikh": {
+            "percentage": 82.24,
+            "population": 818921
+        }
+    },
+    "rural": {
+        "child_population_female": 38263,
+        "child_population_male": 44351,
+        "child_population_percentage": 10.75,
+        "child_population_percentage_calculated": 10.75,
+        "child_population_percentage_stated": 10.75,
+        "child_population_total": 82614,
+        "child_sex_ratio": 863,
+        "female": 362796,
+        "literacy_rate_female": 63.87,
+        "literacy_rate_male": 72.15,
+        "literacy_rate_percentage": 68.23,
+        "literate_female": 207278,
+        "literate_male": 260725,
+        "literate_total": 468003,
+        "male": 405704,
+        "percentage_population": 77.18,
+        "population": 768500,
+        "sex_ratio": 894
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/595-moga.html",
+    "urban": {
+        "child_population_female": 11379,
+        "child_population_male": 13343,
+        "child_population_percentage": 10.88,
+        "child_population_percentage_calculated": 10.88,
+        "child_population_percentage_stated": 10.88,
+        "child_population_total": 24722,
+        "child_sex_ratio": 853,
+        "female": 107030,
+        "literacy_rate_female": 75.34,
+        "literacy_rate_male": 82.18,
+        "literacy_rate_percentage": 78.95,
+        "literate_female": 72062,
+        "literate_male": 87824,
+        "literate_total": 159886,
+        "male": 120216,
+        "percentage_population": 22.82,
+        "population": 227246,
+        "sex_ratio": 890
+    }
+}

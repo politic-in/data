@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 163754,
+        "male": 177414,
+        "percentage_of_total_population": 9.71,
+        "percentage_of_total_population_calculated": 9.71,
+        "percentage_of_total_population_stated": 9.71,
+        "sex_ratio": 923,
+        "total": 341168
+    },
+    "literacy": {
+        "female_literacy_rate": 55.69,
+        "female_literate": 885233,
+        "male_literacy_rate": 74.58,
+        "male_literate": 1179790,
+        "rate_percentage": 65.11,
+        "total_literate": 2065023
+    },
+    "population": {
+        "female": 1753295,
+        "male": 1759281,
+        "sex_ratio": 997,
+        "total": 3512576
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 253
+        },
+        "Christian": {
+            "percentage": 0.89,
+            "population": 31377
+        },
+        "Hindu": {
+            "percentage": 93.2,
+            "population": 3273755
+        },
+        "Jain": {
+            "percentage": 0.02,
+            "population": 569
+        },
+        "Muslims": {
+            "percentage": 5.62,
+            "population": 197333
+        },
+        "Not Stated": {
+            "percentage": 0.22,
+            "population": 7710
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 126
+        },
+        "Sikh": {
+            "percentage": 0.04,
+            "population": 1453
+        }
+    },
+    "rural": {
+        "child_population_female": 118016,
+        "child_population_male": 128789,
+        "child_population_percentage": 9.79,
+        "child_population_percentage_calculated": 9.79,
+        "child_population_percentage_stated": 9.79,
+        "child_population_total": 246805,
+        "child_sex_ratio": 916,
+        "female": 1259649,
+        "literacy_rate_female": 48.7,
+        "literacy_rate_male": 69.04,
+        "literacy_rate_percentage": 58.83,
+        "literate_female": 555991,
+        "literate_male": 781417,
+        "literate_total": 1337408,
+        "male": 1260594,
+        "percentage_population": 71.75,
+        "population": 2520243,
+        "sex_ratio": 999
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/126-warangal.html",
+    "urban": {
+        "child_population_female": 45708,
+        "child_population_male": 48655,
+        "child_population_percentage": 9.51,
+        "child_population_percentage_calculated": 9.51,
+        "child_population_percentage_stated": 9.51,
+        "child_population_total": 94363,
+        "child_sex_ratio": 939,
+        "female": 493646,
+        "literacy_rate_female": 73.5,
+        "literacy_rate_male": 88.52,
+        "literacy_rate_percentage": 81.03,
+        "literate_female": 329242,
+        "literate_male": 398373,
+        "literate_total": 727615,
+        "male": 498687,
+        "percentage_population": 28.25,
+        "population": 992333,
+        "sex_ratio": 990
+    }
+}

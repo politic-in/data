@@ -1,0 +1,87 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Sullurpeta",
+  "district": "Nellore",
+  "ac_type": "SC",
+  "results": {
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 212160,
+        "total_votes_polled": 159916,
+        "turnout_percentage": 75.4,
+        "total_valid_votes": 159872,
+        "total_valid_votes_percentage": 75.4,
+        "margin_votes": 5367,
+        "margin_percentage": 3.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr.Parasa Venkata Rathnaiah",
+          "party": "Telugu Desam",
+          "votes": 66089,
+          "votes_percentage": 41.3
+        },
+        {
+          "position": 2,
+          "name": "Vinnamala Saraswathi",
+          "party": "Indian National Congress",
+          "votes": 60722,
+          "votes_percentage": 38.0
+        },
+        {
+          "position": 3,
+          "name": "Garika Eswaramma",
+          "party": "Praja Rajyam Party",
+          "votes": 24832,
+          "votes_percentage": 15.5
+        },
+        {
+          "position": 4,
+          "name": "Udduru Ramachandraiah",
+          "party": "Bahujan Samaj Party",
+          "votes": 3559,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 5,
+          "name": "Pellakuru Kanchiraju",
+          "party": "Lok Satta Party",
+          "votes": 1746,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Degala Suryanarayana",
+          "party": "Pyramid Party Of India",
+          "votes": 1002,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Panabaka China Gangaiah",
+          "party": "Independent",
+          "votes": 876,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "Chilakala Srinivasulu",
+          "party": "Independent",
+          "votes": 671,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Orepalli Venkata Krishna Prasad",
+          "party": "Independent",
+          "votes": 375,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

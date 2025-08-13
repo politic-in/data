@@ -1,0 +1,76 @@
+{
+  "state": "Kerala",
+  "constituency": "KASERGOD",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 460358,
+        "total_votes_polled": 308449,
+        "turnout_percentage": 67.0,
+        "margin_votes": 83363,
+        "margin_percentage": 27.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "A. K. Gopalan",
+          "party": "Communist Party Of India",
+          "votes": 188384,
+          "votes_percentage": 61.1
+        },
+        {
+          "position": 2,
+          "name": "K. R. Karanth",
+          "party": "Praja Socialist Party",
+          "votes": 105021,
+          "votes_percentage": 34.0
+        },
+        {
+          "position": 3,
+          "name": "Govinda Menoki Illath",
+          "party": "Jan Sangh",
+          "votes": 6816,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 4,
+          "name": "C. V. Ebrayan",
+          "party": "Independent",
+          "votes": 2806,
+          "votes_percentage": 0.9
+        }
+      ]
+    },
+    "1957": {
+      "poll_date": "25 February 1957",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 449300,
+        "total_votes_polled": 252533,
+        "turnout_percentage": 56.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gopalan Ayillath Kuttieri",
+          "party": "Communist Party Of India",
+          "votes": 128839,
+          "votes_percentage": 51.0
+        },
+        {
+          "position": 2,
+          "name": "Achutha Shenoy B.",
+          "party": "Independent",
+          "votes": 123694,
+          "votes_percentage": 49.0
+        }
+      ]
+    }
+  }
+}

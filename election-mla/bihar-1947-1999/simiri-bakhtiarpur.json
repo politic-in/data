@@ -1,0 +1,43 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "Simiri-bakhtiarpur",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 136391,
+        "total_votes_polled": 116637,
+        "turnout_percentage": 85.5,
+        "margin_votes": 4964,
+        "margin_percentage": 4.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chaudhry Md. Salahuadin",
+          "party": "Indian National Congress (I)",
+          "votes": 58361,
+          "votes_percentage": 50.4
+        },
+        {
+          "position": 2,
+          "name": "Dinesh Chandra Yadav",
+          "party": "Janata Party (SECULAR) - CH. CHARAN SINGH",
+          "votes": 53397,
+          "votes_percentage": 46.1
+        },
+        {
+          "position": 3,
+          "name": "Ramchandra Prasad",
+          "party": "Janata Party (JP)",
+          "votes": 4103,
+          "votes_percentage": 3.5
+        }
+      ]
+    }
+  }
+}

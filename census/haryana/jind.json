@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 76849,
+        "male": 91705,
+        "percentage_of_total_population": 12.63,
+        "percentage_of_total_population_calculated": 12.63,
+        "percentage_of_total_population_stated": 12.63,
+        "sex_ratio": 838,
+        "total": 168554
+    },
+    "literacy": {
+        "female_literacy_rate": 60.76,
+        "female_literate": 330709,
+        "male_literacy_rate": 80.81,
+        "male_literate": 502049,
+        "rate_percentage": 71.44,
+        "total_literate": 832758
+    },
+    "population": {
+        "female": 621146,
+        "male": 713006,
+        "sex_ratio": 871,
+        "total": 1334152
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 172
+        },
+        "Christian": {
+            "percentage": 0.07,
+            "population": 889
+        },
+        "Hindu": {
+            "percentage": 95.69,
+            "population": 1276669
+        },
+        "Jain": {
+            "percentage": 0.19,
+            "population": 2594
+        },
+        "Muslims": {
+            "percentage": 1.73,
+            "population": 23016
+        },
+        "Not Stated": {
+            "percentage": 0.12,
+            "population": 1653
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 56
+        },
+        "Sikh": {
+            "percentage": 2.18,
+            "population": 29103
+        }
+    },
+    "rural": {
+        "child_population_female": 59953,
+        "child_population_male": 71437,
+        "child_population_percentage": 12.77,
+        "child_population_percentage_calculated": 12.77,
+        "child_population_percentage_stated": 12.77,
+        "child_population_total": 131390,
+        "child_sex_ratio": 839,
+        "female": 478050,
+        "literacy_rate_female": 57.34,
+        "literacy_rate_male": 78.89,
+        "literacy_rate_percentage": 68.85,
+        "literate_female": 239748,
+        "literate_male": 377967,
+        "literate_total": 617715,
+        "male": 550519,
+        "percentage_population": 77.1,
+        "population": 1028569,
+        "sex_ratio": 868
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/216-jind.html",
+    "urban": {
+        "child_population_female": 16891,
+        "child_population_male": 20273,
+        "child_population_percentage": 12.16,
+        "child_population_percentage_calculated": 12.16,
+        "child_population_percentage_stated": 12.16,
+        "child_population_total": 37164,
+        "child_sex_ratio": 833,
+        "female": 143096,
+        "literacy_rate_female": 72.07,
+        "literacy_rate_male": 87.25,
+        "literacy_rate_percentage": 80.11,
+        "literate_female": 90961,
+        "literate_male": 124082,
+        "literate_total": 215043,
+        "male": 162487,
+        "percentage_population": 22.9,
+        "population": 305583,
+        "sex_ratio": 881
+    }
+}

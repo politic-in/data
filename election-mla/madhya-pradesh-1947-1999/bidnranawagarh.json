@@ -1,0 +1,64 @@
+{
+  "state": "Madhya Pradesh [1947   1999]",
+  "constituency": "Bidnranawagarh",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "1985": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 86502,
+        "total_votes_polled": 33433,
+        "turnout_percentage": 38.7,
+        "margin_votes": 9978,
+        "margin_percentage": 29.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ishwarsingh",
+          "party": "Indian National Congress",
+          "votes": 16682,
+          "votes_percentage": 51.3
+        },
+        {
+          "position": 2,
+          "name": "Bhoj Lal Netam",
+          "party": "Communist Party Of India",
+          "votes": 6704,
+          "votes_percentage": 20.6
+        },
+        {
+          "position": 3,
+          "name": "Dhansi Nagesh",
+          "party": "Bharatiya Janta Party",
+          "votes": 6346,
+          "votes_percentage": 19.5
+        },
+        {
+          "position": 4,
+          "name": "Kursoram",
+          "party": "Janta Party",
+          "votes": 1514,
+          "votes_percentage": 4.7
+        },
+        {
+          "position": 5,
+          "name": "Jadoram Markam",
+          "party": "Independent",
+          "votes": 1112,
+          "votes_percentage": 3.4
+        },
+        {
+          "position": 6,
+          "name": "Ratansingh",
+          "party": "Independent",
+          "votes": 169,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

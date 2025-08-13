@@ -1,0 +1,127 @@
+{
+  "state": "West Bengal",
+  "constituency": "Maldaha",
+  "district": "Maldah",
+  "ac_type": "SC",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 232994,
+        "total_votes_polled": 203671,
+        "turnout_percentage": 88.6,
+        "margin_votes": 15456,
+        "margin_percentage": 7.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gopal Chandra Saha",
+          "party": "Bharatiya Janta Party",
+          "votes": 93398,
+          "votes_percentage": 45.9
+        },
+        {
+          "position": 2,
+          "name": "Ujjwal Kumar Chowdhury",
+          "party": "All India Trinamool Congress",
+          "votes": 77942,
+          "votes_percentage": 38.3
+        },
+        {
+          "position": 3,
+          "name": "Bhupendra Nath Halder (Arjun)",
+          "party": "Indian National Congress",
+          "votes": 26563,
+          "votes_percentage": 13.0
+        },
+        {
+          "position": 4,
+          "name": "Sujit Kumar Moulik",
+          "party": "Independent",
+          "votes": 2128,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Santosh Kumar Sarkar",
+          "party": "Bahujan Mukti Party",
+          "votes": 1469,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Mukul Sarkar",
+          "party": "Bahujan Samaj Party",
+          "votes": 1240,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Mirana Sarkar",
+          "party": "Independent",
+          "votes": 931,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 169549,
+        "total_votes_polled": 146409,
+        "turnout_percentage": 86.4,
+        "margin_votes": 10755,
+        "margin_percentage": 7.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bhupendra Nath Halder (ARJUN)",
+          "party": "Indian National Congress",
+          "votes": 68155,
+          "votes_percentage": 46.6
+        },
+        {
+          "position": 2,
+          "name": "Rahul Ranjan Das",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 57400,
+          "votes_percentage": 39.2
+        },
+        {
+          "position": 3,
+          "name": "Kusum Roy",
+          "party": "Bharatiya Janta Party",
+          "votes": 13180,
+          "votes_percentage": 9.0
+        },
+        {
+          "position": 4,
+          "name": "Niren Rajbanshi",
+          "party": "Independent",
+          "votes": 3066,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 5,
+          "name": "Debashis Sarkar",
+          "party": "Independent",
+          "votes": 2352,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 6,
+          "name": "Haridas Karmakar",
+          "party": "Bahujan Samaj Party",
+          "votes": 2256,
+          "votes_percentage": 1.5
+        }
+      ]
+    }
+  }
+}

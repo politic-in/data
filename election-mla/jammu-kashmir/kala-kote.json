@@ -1,0 +1,73 @@
+{
+  "state": "Jammu & Kashmir",
+  "constituency": "Kala kote",
+  "district": "Rajauri",
+  "ac_type": "GEN",
+  "results": {
+    "2014": {
+      "poll_date": "20 December 2014",
+      "counting_date": "24 December 2014",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 86056,
+        "total_votes_polled": 66162,
+        "turnout_percentage": 76.9,
+        "total_valid_votes": 65396,
+        "total_valid_votes_percentage": 76.0,
+        "margin_votes": 6178,
+        "margin_percentage": 9.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Abdul Ghani Kohli",
+          "party": "Bharatiya Janta Party",
+          "votes": 25225,
+          "votes_percentage": 38.1
+        },
+        {
+          "position": 2,
+          "name": "Rachhpal Singh",
+          "party": "Jammu & Kashmir National Conference",
+          "votes": 19047,
+          "votes_percentage": 28.8
+        },
+        {
+          "position": 3,
+          "name": "Ashok Kumar Sharma",
+          "party": "Indian National Congress",
+          "votes": 10520,
+          "votes_percentage": 15.9
+        },
+        {
+          "position": 4,
+          "name": "Asad Bari Shah",
+          "party": "Jammu & Kashmir Peoples Democratic Party",
+          "votes": 8325,
+          "votes_percentage": 12.6
+        },
+        {
+          "position": 5,
+          "name": "Mohd Rafiq",
+          "party": "Bahujan Samaj Party",
+          "votes": 1472,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 6,
+          "name": "Ashok Kumar",
+          "party": "Independent",
+          "votes": 526,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 7,
+          "name": "Mahesh Kumar Sharma",
+          "party": "Independent",
+          "votes": 281,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

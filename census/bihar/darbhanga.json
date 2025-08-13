@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 349779,
+        "male": 375703,
+        "percentage_of_total_population": 18.43,
+        "percentage_of_total_population_calculated": 18.43,
+        "percentage_of_total_population_stated": 18.43,
+        "sex_ratio": 931,
+        "total": 725482
+    },
+    "literacy": {
+        "female_literacy_rate": 45.24,
+        "female_literate": 691068,
+        "male_literacy_rate": 66.83,
+        "male_literate": 1125566,
+        "rate_percentage": 56.56,
+        "total_literate": 1816634
+    },
+    "population": {
+        "female": 1877436,
+        "male": 2059949,
+        "sex_ratio": 911,
+        "total": 3937385
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 245
+        },
+        "Christian": {
+            "percentage": 0.09,
+            "population": 3534
+        },
+        "Hindu": {
+            "percentage": 77.28,
+            "population": 3042729
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 236
+        },
+        "Muslims": {
+            "percentage": 22.39,
+            "population": 881476
+        },
+        "Not Stated": {
+            "percentage": 0.21,
+            "population": 8232
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 101
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 832
+        }
+    },
+    "rural": {
+        "child_population_female": 322425,
+        "child_population_male": 345871,
+        "child_population_percentage": 18.8,
+        "child_population_percentage_calculated": 18.8,
+        "child_population_percentage_stated": 18.8,
+        "child_population_total": 668296,
+        "child_sex_ratio": 932,
+        "female": 1695512,
+        "literacy_rate_female": 42.64,
+        "literacy_rate_male": 65.07,
+        "literacy_rate_percentage": 54.4,
+        "literate_female": 585551,
+        "literate_male": 984342,
+        "literate_total": 1569893,
+        "male": 1858545,
+        "percentage_population": 90.26,
+        "population": 3554057,
+        "sex_ratio": 912
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/67-darbhanga.html",
+    "urban": {
+        "child_population_female": 27375,
+        "child_population_male": 29811,
+        "child_population_percentage": 14.92,
+        "child_population_percentage_calculated": 14.92,
+        "child_population_percentage_stated": 14.92,
+        "child_population_total": 57186,
+        "child_sex_ratio": 918,
+        "female": 181924,
+        "literacy_rate_female": 68.27,
+        "literacy_rate_male": 82.3,
+        "literacy_rate_percentage": 75.65,
+        "literate_female": 105517,
+        "literate_male": 141224,
+        "literate_total": 246741,
+        "male": 201404,
+        "percentage_population": 9.74,
+        "population": 383328,
+        "sex_ratio": 903
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 89632,
+        "male": 94648,
+        "percentage_of_total_population": 11.1,
+        "percentage_of_total_population_calculated": 11.1,
+        "percentage_of_total_population_stated": 11.1,
+        "sex_ratio": 947,
+        "total": 184280
+    },
+    "literacy": {
+        "female_literacy_rate": 65.88,
+        "female_literate": 480204,
+        "male_literacy_rate": 81.37,
+        "male_literate": 607188,
+        "rate_percentage": 73.71,
+        "total_literate": 1087392
+    },
+    "population": {
+        "female": 818613,
+        "male": 840843,
+        "sex_ratio": 974,
+        "total": 1659456
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 84
+        },
+        "Christian": {
+            "percentage": 0.19,
+            "population": 3175
+        },
+        "Hindu": {
+            "percentage": 91.63,
+            "population": 1520553
+        },
+        "Jain": {
+            "percentage": 0.23,
+            "population": 3778
+        },
+        "Muslims": {
+            "percentage": 7.76,
+            "population": 128751
+        },
+        "Not Stated": {
+            "percentage": 0.16,
+            "population": 2665
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 128
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 322
+        }
+    },
+    "rural": {
+        "child_population_female": 72627,
+        "child_population_male": 76667,
+        "child_population_percentage": 11.23,
+        "child_population_percentage_calculated": 11.23,
+        "child_population_percentage_stated": 11.23,
+        "child_population_total": 149294,
+        "child_sex_ratio": 947,
+        "female": 654350,
+        "literacy_rate_female": 61.91,
+        "literacy_rate_male": 79.19,
+        "literacy_rate_percentage": 70.68,
+        "literate_female": 360134,
+        "literate_male": 474285,
+        "literate_total": 834419,
+        "male": 675573,
+        "percentage_population": 80.14,
+        "population": 1329923,
+        "sex_ratio": 969
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/251-chitradurga.html",
+    "urban": {
+        "child_population_female": 17024,
+        "child_population_male": 17962,
+        "child_population_percentage": 10.62,
+        "child_population_percentage_calculated": 10.62,
+        "child_population_percentage_stated": 10.62,
+        "child_population_total": 34986,
+        "child_sex_ratio": 948,
+        "female": 164263,
+        "literacy_rate_female": 81.55,
+        "literacy_rate_male": 90.22,
+        "literacy_rate_percentage": 85.89,
+        "literate_female": 120070,
+        "literate_male": 132903,
+        "literate_total": 252973,
+        "male": 165270,
+        "percentage_population": 19.86,
+        "population": 329533,
+        "sex_ratio": 994
+    }
+}

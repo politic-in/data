@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 140807,
+        "male": 156627,
+        "percentage_of_total_population": 14.6,
+        "percentage_of_total_population_calculated": 14.6,
+        "percentage_of_total_population_stated": 14.6,
+        "sex_ratio": 899,
+        "total": 297434
+    },
+    "literacy": {
+        "female_literacy_rate": 48.01,
+        "female_literate": 418312,
+        "male_literacy_rate": 76.81,
+        "male_literate": 667381,
+        "rate_percentage": 62.39,
+        "total_literate": 1085693
+    },
+    "population": {
+        "female": 1012151,
+        "male": 1025422,
+        "sex_ratio": 987,
+        "total": 2037573
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 141
+        },
+        "Christian": {
+            "percentage": 0.07,
+            "population": 1345
+        },
+        "Hindu": {
+            "percentage": 91.8,
+            "population": 1870543
+        },
+        "Jain": {
+            "percentage": 0.93,
+            "population": 18974
+        },
+        "Muslims": {
+            "percentage": 7.04,
+            "population": 143476
+        },
+        "Not Stated": {
+            "percentage": 0.07,
+            "population": 1502
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 52
+        },
+        "Sikh": {
+            "percentage": 0.08,
+            "population": 1540
+        }
+    },
+    "rural": {
+        "child_population_female": 111861,
+        "child_population_male": 123671,
+        "child_population_percentage": 14.93,
+        "child_population_percentage_calculated": 14.93,
+        "child_population_percentage_stated": 14.93,
+        "child_population_total": 235532,
+        "child_sex_ratio": 905,
+        "female": 790008,
+        "literacy_rate_female": 43.48,
+        "literacy_rate_male": 73.64,
+        "literacy_rate_percentage": 58.4,
+        "literate_female": 294891,
+        "literate_male": 488897,
+        "literate_total": 783788,
+        "male": 787559,
+        "percentage_population": 77.42,
+        "population": 1577567,
+        "sex_ratio": 1003
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/443-pali.html",
+    "urban": {
+        "child_population_female": 28967,
+        "child_population_male": 32935,
+        "child_population_percentage": 13.46,
+        "child_population_percentage_calculated": 13.46,
+        "child_population_percentage_stated": 13.46,
+        "child_population_total": 61902,
+        "child_sex_ratio": 880,
+        "female": 222143,
+        "literacy_rate_female": 63.89,
+        "literacy_rate_male": 87.1,
+        "literacy_rate_percentage": 75.84,
+        "literate_female": 123421,
+        "literate_male": 178484,
+        "literate_total": 301905,
+        "male": 237863,
+        "percentage_population": 22.58,
+        "population": 460006,
+        "sex_ratio": 934
+    }
+}

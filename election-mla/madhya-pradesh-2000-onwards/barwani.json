@@ -1,0 +1,50 @@
+{
+  "state": "Madhya Pradesh [2000 Onwards]",
+  "constituency": "Barwani",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "2003": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 153178,
+        "total_votes_polled": 108236,
+        "turnout_percentage": 70.7,
+        "margin_votes": 17844,
+        "margin_percentage": 16.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Premsingh Patel",
+          "party": "Bharatiya Janta Party",
+          "votes": 55924,
+          "votes_percentage": 51.7
+        },
+        {
+          "position": 2,
+          "name": "Tersingh Patel",
+          "party": "Indian National Congress",
+          "votes": 38080,
+          "votes_percentage": 35.2
+        },
+        {
+          "position": 3,
+          "name": "Ramesh Chouhan",
+          "party": "Samajwadi Party",
+          "votes": 7623,
+          "votes_percentage": 7.0
+        },
+        {
+          "position": 4,
+          "name": "Umraosingh Fatla",
+          "party": "Nationalist Congress Party",
+          "votes": 6583,
+          "votes_percentage": 6.1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Taksing Taliha",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 8971,
+        "total_votes_polled": 6370,
+        "turnout_percentage": 71.0,
+        "margin_votes": 691,
+        "margin_percentage": 10.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Punji Mara",
+          "party": "Indian National Congress (I)",
+          "votes": 3292,
+          "votes_percentage": 55.9
+        },
+        {
+          "position": 2,
+          "name": "Tara Payeng",
+          "party": "Peoples Party Of Arunachal",
+          "votes": 2601,
+          "votes_percentage": 44.1
+        }
+      ]
+    }
+  }
+}

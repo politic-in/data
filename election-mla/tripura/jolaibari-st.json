@@ -1,0 +1,57 @@
+{
+  "state": "Tripura",
+  "constituency": "Jolaibari (ST)",
+  "district": "South Tripura",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 44797,
+        "total_votes_polled": 41866,
+        "turnout_percentage": 94.5,
+        "margin_votes": 1568,
+        "margin_percentage": 3.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jashabir Tripura",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 21160,
+          "votes_percentage": 50.5
+        },
+        {
+          "position": 2,
+          "name": "Ankya Mog Choudhuri",
+          "party": "Bharatiya Janta Party",
+          "votes": 19592,
+          "votes_percentage": 46.8
+        },
+        {
+          "position": 4,
+          "name": "Madhu Sudan Tripura",
+          "party": "All India Trinamool Congress",
+          "votes": 435,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Braja Mohan Tripura",
+          "party": "Indian National Congress",
+          "votes": 349,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Kalyan Reang",
+          "party": "Independent",
+          "votes": 330,
+          "votes_percentage": 0.8
+        }
+      ]
+    }
+  }
+}

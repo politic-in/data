@@ -1,0 +1,55 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "PRATAPGARH DISTT (EAST)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 362654,
+        "total_votes_polled": 122001,
+        "turnout_percentage": 33.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Munishwar Dutt Upadhyaya",
+          "party": "Indian National Congress",
+          "votes": 77668,
+          "votes_percentage": 63.7
+        },
+        {
+          "position": 2,
+          "name": "Pashupati Pratap Singh",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 23518,
+          "votes_percentage": 19.3
+        },
+        {
+          "position": 3,
+          "name": "Shyam Sunder",
+          "party": "Independent",
+          "votes": 12145,
+          "votes_percentage": 10.0
+        },
+        {
+          "position": 4,
+          "name": "Chandrika Singh Karunesh",
+          "party": "Socialist Party",
+          "votes": 5920,
+          "votes_percentage": 4.9
+        },
+        {
+          "position": 5,
+          "name": "Kishen Chand Puri",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 2750,
+          "votes_percentage": 2.3
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "ALLAHABAD DISTT (WEST)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 363930,
+        "total_votes_polled": 129771,
+        "turnout_percentage": 35.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sri Prakasa",
+          "party": "Indian National Congress",
+          "votes": 68708,
+          "votes_percentage": 52.9
+        },
+        {
+          "position": 2,
+          "name": "R. N. Basu",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 32026,
+          "votes_percentage": 24.7
+        },
+        {
+          "position": 3,
+          "name": "Rup Nath",
+          "party": "Independent",
+          "votes": 14135,
+          "votes_percentage": 10.9
+        },
+        {
+          "position": 4,
+          "name": "Shambhu Narain",
+          "party": "Akhil Bharatiya Ram Rajya Parishad",
+          "votes": 10445,
+          "votes_percentage": 8.0
+        },
+        {
+          "position": 5,
+          "name": "K. K. Bhattacharya",
+          "party": "Independent",
+          "votes": 4457,
+          "votes_percentage": 3.4
+        }
+      ]
+    }
+  }
+}

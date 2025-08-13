@@ -1,0 +1,85 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Bahrod",
+  "district": "Alwar",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 209123,
+        "total_votes_polled": 159691,
+        "turnout_percentage": 77.0,
+        "margin_votes": 3836,
+        "margin_percentage": 2.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Baljeet Yadav",
+          "party": "Independent",
+          "votes": 55160,
+          "votes_percentage": 34.5
+        },
+        {
+          "position": 2,
+          "name": "Ramchandra Yadav",
+          "party": "Indian National Congress",
+          "votes": 51324,
+          "votes_percentage": 32.1
+        },
+        {
+          "position": 3,
+          "name": "Mohit Yadav",
+          "party": "Bharatiya Janta Party",
+          "votes": 37755,
+          "votes_percentage": 23.6
+        },
+        {
+          "position": 4,
+          "name": "Jasram",
+          "party": "Bahujan Samaj Party",
+          "votes": 12433,
+          "votes_percentage": 7.8
+        },
+        {
+          "position": 5,
+          "name": "Asha",
+          "party": "Aam Aadmi Party",
+          "votes": 842,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Khamosh Devi",
+          "party": "Independent",
+          "votes": 823,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Mukesh Kumar Sharma",
+          "party": "Bharat Vahini Party",
+          "votes": 724,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Mahendra Singh",
+          "party": "Janata Dal (United)",
+          "votes": 378,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Gajraj Singh Yadav",
+          "party": "Abhinav Rajasthan Party",
+          "votes": 252,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

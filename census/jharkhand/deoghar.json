@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 130785,
+        "male": 137668,
+        "percentage_of_total_population": 17.99,
+        "percentage_of_total_population_calculated": 17.99,
+        "percentage_of_total_population_stated": 17.99,
+        "sex_ratio": 950,
+        "total": 268453
+    },
+    "literacy": {
+        "female_literacy_rate": 51.8,
+        "female_literate": 303701,
+        "male_literacy_rate": 76.85,
+        "male_literate": 489837,
+        "rate_percentage": 64.85,
+        "total_literate": 793538
+    },
+    "population": {
+        "female": 717051,
+        "male": 775022,
+        "sex_ratio": 925,
+        "total": 1492073
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 188
+        },
+        "Christian": {
+            "percentage": 0.4,
+            "population": 6027
+        },
+        "Hindu": {
+            "percentage": 78.09,
+            "population": 1165140
+        },
+        "Jain": {
+            "percentage": 0.02,
+            "population": 282
+        },
+        "Muslims": {
+            "percentage": 20.28,
+            "population": 302626
+        },
+        "Not Stated": {
+            "percentage": 0.11,
+            "population": 1600
+        },
+        "Others": {
+            "percentage": 1.08,
+            "population": 16067
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 143
+        }
+    },
+    "rural": {
+        "child_population_female": 114402,
+        "child_population_male": 119310,
+        "child_population_percentage": 18.94,
+        "child_population_percentage_calculated": 18.94,
+        "child_population_percentage_stated": 18.94,
+        "child_population_total": 233712,
+        "child_sex_ratio": 959,
+        "female": 595576,
+        "literacy_rate_female": 46.14,
+        "literacy_rate_male": 73.8,
+        "literacy_rate_percentage": 60.49,
+        "literate_female": 222020,
+        "literate_male": 382872,
+        "literate_total": 604892,
+        "male": 638136,
+        "percentage_population": 82.68,
+        "population": 1233712,
+        "sex_ratio": 933
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/95-deoghar.html",
+    "urban": {
+        "child_population_female": 16393,
+        "child_population_male": 18348,
+        "child_population_percentage": 13.45,
+        "child_population_percentage_calculated": 13.45,
+        "child_population_percentage_stated": 13.45,
+        "child_population_total": 34741,
+        "child_sex_ratio": 893,
+        "female": 121475,
+        "literacy_rate_female": 77.73,
+        "literacy_rate_male": 90.24,
+        "literacy_rate_percentage": 84.36,
+        "literate_female": 81681,
+        "literate_male": 106965,
+        "literate_total": 188646,
+        "male": 136886,
+        "percentage_population": 17.32,
+        "population": 258361,
+        "sex_ratio": 887
+    }
+}

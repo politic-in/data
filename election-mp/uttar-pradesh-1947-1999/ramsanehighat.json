@@ -1,0 +1,120 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "RAMSANEHIGHAT",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 521620,
+        "total_votes_polled": 184524,
+        "turnout_percentage": 35.4,
+        "margin_votes": 39829,
+        "margin_percentage": 21.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Baij Nath Kureel",
+          "party": "Indian National Congress",
+          "votes": 103705,
+          "votes_percentage": 56.2
+        },
+        {
+          "position": 2,
+          "name": "Baboo Lal Kusumesh",
+          "party": "Indian National Congress (ORGANISATION)",
+          "votes": 63876,
+          "votes_percentage": 34.6
+        },
+        {
+          "position": 3,
+          "name": "Anand Prakash",
+          "party": "Bharatiya Kranti Dal",
+          "votes": 11103,
+          "votes_percentage": 6.0
+        }
+      ]
+    },
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 490633,
+        "total_votes_polled": 229552,
+        "turnout_percentage": 46.8,
+        "margin_votes": 13469,
+        "margin_percentage": 5.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "B. Kureel",
+          "party": "Indian National Congress",
+          "votes": 89685,
+          "votes_percentage": 39.1
+        },
+        {
+          "position": 2,
+          "name": "S. Kailash",
+          "party": "Samyukta Socialist Party",
+          "votes": 76216,
+          "votes_percentage": 33.2
+        },
+        {
+          "position": 3,
+          "name": "B. L. Rawat",
+          "party": "Bhartiya Jan Sangh",
+          "votes": 51503,
+          "votes_percentage": 22.4
+        }
+      ]
+    },
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 419365,
+        "total_votes_polled": 208662,
+        "turnout_percentage": 49.8,
+        "margin_votes": 1926,
+        "margin_percentage": 0.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Swami Rama Nand",
+          "party": "Indian National Congress",
+          "votes": 72633,
+          "votes_percentage": 34.8
+        },
+        {
+          "position": 2,
+          "name": "Bhagirath",
+          "party": "Jan Sangh",
+          "votes": 70707,
+          "votes_percentage": 33.9
+        },
+        {
+          "position": 3,
+          "name": "Radhey Shyam",
+          "party": "Socialist",
+          "votes": 46997,
+          "votes_percentage": 22.5
+        },
+        {
+          "position": 4,
+          "name": "Ashoka Nand",
+          "party": "Swatantra",
+          "votes": 8964,
+          "votes_percentage": 4.3
+        }
+      ]
+    }
+  }
+}

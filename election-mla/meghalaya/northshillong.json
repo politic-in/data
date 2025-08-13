@@ -1,0 +1,71 @@
+{
+  "state": "Meghalaya",
+  "constituency": "NORTHSHILLONG",
+  "district": "East Khasi Hills",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 26655,
+        "total_votes_polled": 18383,
+        "turnout_percentage": 69.7,
+        "margin_votes": 406,
+        "margin_percentage": 2.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Adelbert Nongrum",
+          "party": "Khun Hynnieutrip National Awakaning Movement",
+          "votes": 5572,
+          "votes_percentage": 30.3
+        },
+        {
+          "position": 2,
+          "name": "J. Antonius Lyngdoh",
+          "party": "Bharatiya Janta Party",
+          "votes": 5166,
+          "votes_percentage": 28.1
+        },
+        {
+          "position": 3,
+          "name": "W. Humphrey D. Syngkon",
+          "party": "Indian National Congress",
+          "votes": 5124,
+          "votes_percentage": 27.9
+        },
+        {
+          "position": 4,
+          "name": "Alester Neville Diengdoh",
+          "party": "Hill State People's Democratic Party",
+          "votes": 968,
+          "votes_percentage": 5.3
+        },
+        {
+          "position": 5,
+          "name": "Joebrenson Marwein",
+          "party": "United Democratic Party",
+          "votes": 785,
+          "votes_percentage": 4.3
+        },
+        {
+          "position": 6,
+          "name": "Erwin K. Syiem Sutnga",
+          "party": "National People's Party",
+          "votes": 441,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 7,
+          "name": "Tony Fass Marbaniang",
+          "party": "North East India Development Party",
+          "votes": 327,
+          "votes_percentage": 1.8
+        }
+      ]
+    }
+  }
+}

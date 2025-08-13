@@ -1,0 +1,92 @@
+{
+  "state": "Karnataka",
+  "constituency": "Govindarajanagar",
+  "district": "Bangalore",
+  "ac_type": "GEN",
+  "results": {
+    "2013": {
+      "poll_date": "05 May 2013",
+      "counting_date": "08 May 2013",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 239468,
+        "total_votes_polled": 131237,
+        "turnout_percentage": 54.8,
+        "margin_votes": 42460,
+        "margin_percentage": 32.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Priyakrishna",
+          "party": "Indian National Congress",
+          "votes": 72654,
+          "votes_percentage": 55.4
+        },
+        {
+          "position": 2,
+          "name": "H. Ravindra",
+          "party": "Bharatiya Janta Party",
+          "votes": 30194,
+          "votes_percentage": 23.0
+        },
+        {
+          "position": 3,
+          "name": "T.M. Range Gowda",
+          "party": "Janata Dal (Secular)",
+          "votes": 20662,
+          "votes_percentage": 15.7
+        },
+        {
+          "position": 4,
+          "name": "P. Doddaiah",
+          "party": "Karnataka Jantha Paksha",
+          "votes": 5227,
+          "votes_percentage": 4.0
+        },
+        {
+          "position": 5,
+          "name": "Harish. K",
+          "party": "Independent",
+          "votes": 598,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Mahesh. R",
+          "party": "Independent",
+          "votes": 511,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "K. Rajashekar",
+          "party": "Badavara Shramikara Raitara Congress Party",
+          "votes": 499,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Ravindra",
+          "party": "Independent",
+          "votes": 324,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "B.S. Vijayakumar",
+          "party": "Sarva Janata Party",
+          "votes": 313,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Abhimani Narendra",
+          "party": "Independent",
+          "votes": 255,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

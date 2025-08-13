@@ -1,0 +1,78 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Khinvsar",
+  "district": "Nagaur",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 240955,
+        "total_votes_polled": 183774,
+        "turnout_percentage": 77.2,
+        "margin_votes": 16948,
+        "margin_percentage": 9.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Hanuman Beniwal",
+          "party": "Rashtriya Loktantrik Party",
+          "votes": 83096,
+          "votes_percentage": 45.2
+        },
+        {
+          "position": 2,
+          "name": "Savai Singh Chaudhary",
+          "party": "Indian National Congress",
+          "votes": 66148,
+          "votes_percentage": 36.0
+        },
+        {
+          "position": 3,
+          "name": "Ramchandra Utta",
+          "party": "Bharatiya Janta Party",
+          "votes": 26809,
+          "votes_percentage": 14.6
+        },
+        {
+          "position": 4,
+          "name": "Dr. Anita",
+          "party": "Independent",
+          "votes": 2279,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 5,
+          "name": "Indaram",
+          "party": "Bahujan Sangharshh Dal",
+          "votes": 2230,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 6,
+          "name": "Kishan Lal Dadhich",
+          "party": "Independent",
+          "votes": 1262,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Rampal Meghwanshi",
+          "party": "Bahujan Samaj Party",
+          "votes": 1181,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "Rekha Bera",
+          "party": "Independent",
+          "votes": 769,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

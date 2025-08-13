@@ -1,0 +1,50 @@
+{
+  "state": "Goa, Daman And Diu",
+  "constituency": "Rivona",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 14124,
+        "total_votes_polled": 10216,
+        "turnout_percentage": 72.3,
+        "margin_votes": 476,
+        "margin_percentage": 4.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dessai Dilkush Fettu",
+          "party": "Indian National Congress (U)",
+          "votes": 4132,
+          "votes_percentage": 42.2
+        },
+        {
+          "position": 2,
+          "name": "Velip Jiva Kusta",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 3656,
+          "votes_percentage": 37.4
+        },
+        {
+          "position": 3,
+          "name": "Velip Chandrakant Devu",
+          "party": "Independent",
+          "votes": 1493,
+          "votes_percentage": 15.3
+        },
+        {
+          "position": 4,
+          "name": "Panchwadkaer Mukund Ganesh",
+          "party": "Janta Party",
+          "votes": 508,
+          "votes_percentage": 5.2
+        }
+      ]
+    }
+  }
+}

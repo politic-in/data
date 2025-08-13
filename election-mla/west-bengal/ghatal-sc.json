@@ -1,0 +1,57 @@
+{
+  "state": "West Bengal",
+  "constituency": "GHATAL (SC)",
+  "district": "Paschim Medinipur",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 256521,
+        "total_votes_polled": 214081,
+        "turnout_percentage": 84.4,
+        "margin_votes": 19479,
+        "margin_percentage": 9.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shankar Dolai",
+          "party": "All India Trinamool Congress",
+          "votes": 107682,
+          "votes_percentage": 50.3
+        },
+        {
+          "position": 2,
+          "name": "Kamal Chandra Dolui",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 88203,
+          "votes_percentage": 41.2
+        },
+        {
+          "position": 3,
+          "name": "Anjushree Dolui",
+          "party": "Bharatiya Janta Party",
+          "votes": 10468,
+          "votes_percentage": 4.9
+        },
+        {
+          "position": 4,
+          "name": "Tanmoy Dolui",
+          "party": "Independent",
+          "votes": 5164,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 5,
+          "name": "Anjan Jana",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 2564,
+          "votes_percentage": 1.2
+        }
+      ]
+    }
+  }
+}

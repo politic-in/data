@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 113493,
+        "male": 123901,
+        "percentage_of_total_population": 10.54,
+        "percentage_of_total_population_calculated": 10.54,
+        "percentage_of_total_population_stated": 10.54,
+        "sex_ratio": 916,
+        "total": 237394
+    },
+    "literacy": {
+        "female_literacy_rate": 81.61,
+        "female_literate": 792421,
+        "male_literacy_rate": 91.78,
+        "male_literate": 957515,
+        "rate_percentage": 86.88,
+        "total_literate": 1749936
+    },
+    "population": {
+        "female": 1084536,
+        "male": 1167137,
+        "sex_ratio": 929,
+        "total": 2251673
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 475
+        },
+        "Christian": {
+            "percentage": 0.56,
+            "population": 12527
+        },
+        "Hindu": {
+            "percentage": 95.38,
+            "population": 2147632
+        },
+        "Jain": {
+            "percentage": 0.02,
+            "population": 476
+        },
+        "Muslims": {
+            "percentage": 3.73,
+            "population": 84060
+        },
+        "Not Stated": {
+            "percentage": 0.21,
+            "population": 4805
+        },
+        "Others": {
+            "percentage": 0.02,
+            "population": 434
+        },
+        "Sikh": {
+            "percentage": 0.06,
+            "population": 1264
+        }
+    },
+    "rural": {
+        "child_population_female": 62918,
+        "child_population_male": 68059,
+        "child_population_percentage": 11.22,
+        "child_population_percentage_calculated": 11.22,
+        "child_population_percentage_stated": 11.22,
+        "child_population_total": 130977,
+        "child_sex_ratio": 924,
+        "female": 571548,
+        "literacy_rate_female": 76.28,
+        "literacy_rate_male": 89.38,
+        "literacy_rate_percentage": 82.95,
+        "literate_female": 387991,
+        "literate_male": 471689,
+        "literate_total": 859680,
+        "male": 595809,
+        "percentage_population": 51.84,
+        "population": 1167357,
+        "sex_ratio": 959
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/410-khordha.html",
+    "urban": {
+        "child_population_female": 50597,
+        "child_population_male": 55820,
+        "child_population_percentage": 9.81,
+        "child_population_percentage_calculated": 9.81,
+        "child_population_percentage_stated": 9.81,
+        "child_population_total": 106417,
+        "child_sex_ratio": 906,
+        "female": 512988,
+        "literacy_rate_female": 87.46,
+        "literacy_rate_male": 94.24,
+        "literacy_rate_percentage": 91.04,
+        "literate_female": 404430,
+        "literate_male": 485826,
+        "literate_total": 890256,
+        "male": 571328,
+        "percentage_population": 48.16,
+        "population": 1084316,
+        "sex_ratio": 898
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 53792,
+        "male": 55917,
+        "percentage_of_total_population": 14.96,
+        "percentage_of_total_population_calculated": 14.96,
+        "percentage_of_total_population_stated": 14.96,
+        "sex_ratio": 962,
+        "total": 109709
+    },
+    "literacy": {
+        "female_literacy_rate": 51.94,
+        "female_literate": 165886,
+        "male_literacy_rate": 76.93,
+        "male_literate": 233900,
+        "rate_percentage": 64.13,
+        "total_literate": 399786
+    },
+    "population": {
+        "female": 373165,
+        "male": 359945,
+        "sex_ratio": 1037,
+        "total": 733110
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.04,
+            "population": 290
+        },
+        "Christian": {
+            "percentage": 20.31,
+            "population": 148895
+        },
+        "Hindu": {
+            "percentage": 79.16,
+            "population": 580300
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 47
+        },
+        "Muslims": {
+            "percentage": 0.29,
+            "population": 2138
+        },
+        "Not Stated": {
+            "percentage": 0.18,
+            "population": 1335
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 23
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 82
+        }
+    },
+    "rural": {
+        "child_population_female": 50058,
+        "child_population_male": 51758,
+        "child_population_percentage": 15.41,
+        "child_population_percentage_calculated": 15.41,
+        "child_population_percentage_stated": 15.41,
+        "child_population_total": 101816,
+        "child_sex_ratio": 967,
+        "female": 337308,
+        "literacy_rate_female": 48.77,
+        "literacy_rate_male": 74.99,
+        "literacy_rate_percentage": 61.52,
+        "literate_female": 140096,
+        "literate_male": 203797,
+        "literate_total": 343893,
+        "male": 323523,
+        "percentage_population": 90.14,
+        "population": 660831,
+        "sex_ratio": 1043
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/414-kandhamal.html",
+    "urban": {
+        "child_population_female": 3736,
+        "child_population_male": 4157,
+        "child_population_percentage": 10.92,
+        "child_population_percentage_calculated": 10.92,
+        "child_population_percentage_stated": 10.92,
+        "child_population_total": 7893,
+        "child_sex_ratio": 899,
+        "female": 35857,
+        "literacy_rate_female": 80.29,
+        "literacy_rate_male": 93.3,
+        "literacy_rate_percentage": 86.81,
+        "literate_female": 25790,
+        "literate_male": 30103,
+        "literate_total": 55893,
+        "male": 36422,
+        "percentage_population": 9.86,
+        "population": 72279,
+        "sex_ratio": 984
+    }
+}

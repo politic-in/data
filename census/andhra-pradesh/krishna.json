@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 210621,
+        "male": 225263,
+        "percentage_of_total_population": 9.65,
+        "percentage_of_total_population_calculated": 9.65,
+        "percentage_of_total_population_stated": 9.65,
+        "sex_ratio": 935,
+        "total": 435884
+    },
+    "literacy": {
+        "female_literacy_rate": 69.18,
+        "female_literate": 1410759,
+        "male_literacy_rate": 78.3,
+        "male_literate": 1598959,
+        "rate_percentage": 73.74,
+        "total_literate": 3009718
+    },
+    "population": {
+        "female": 2250023,
+        "male": 2267375,
+        "sex_ratio": 992,
+        "total": 4517398
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 863
+        },
+        "Christian": {
+            "percentage": 3.22,
+            "population": 145598
+        },
+        "Hindu": {
+            "percentage": 89.07,
+            "population": 4023678
+        },
+        "Jain": {
+            "percentage": 0.14,
+            "population": 6320
+        },
+        "Muslims": {
+            "percentage": 6.8,
+            "population": 307043
+        },
+        "Not Stated": {
+            "percentage": 0.7,
+            "population": 31597
+        },
+        "Others": {
+            "percentage": 0.02,
+            "population": 906
+        },
+        "Sikh": {
+            "percentage": 0.03,
+            "population": 1393
+        }
+    },
+    "rural": {
+        "child_population_female": 125016,
+        "child_population_male": 133905,
+        "child_population_percentage": 9.68,
+        "child_population_percentage_calculated": 9.68,
+        "child_population_percentage_stated": 9.68,
+        "child_population_total": 258921,
+        "child_sex_ratio": 934,
+        "female": 1330204,
+        "literacy_rate_female": 63.56,
+        "literacy_rate_male": 73.71,
+        "literacy_rate_percentage": 68.64,
+        "literate_female": 765982,
+        "literate_male": 891610,
+        "literate_total": 1657592,
+        "male": 1343534,
+        "percentage_population": 59.19,
+        "population": 2673738,
+        "sex_ratio": 990
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/133-krishna.html",
+    "urban": {
+        "child_population_female": 85648,
+        "child_population_male": 91315,
+        "child_population_percentage": 9.6,
+        "child_population_percentage_calculated": 9.6,
+        "child_population_percentage_stated": 9.6,
+        "child_population_total": 176963,
+        "child_sex_ratio": 938,
+        "female": 919819,
+        "literacy_rate_female": 77.3,
+        "literacy_rate_male": 84.96,
+        "literacy_rate_percentage": 81.13,
+        "literate_female": 644777,
+        "literate_male": 707349,
+        "literate_total": 1352126,
+        "male": 923841,
+        "percentage_population": 40.81,
+        "population": 1843660,
+        "sex_ratio": 996
+    }
+}

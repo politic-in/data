@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 518151,
+        "male": 586808,
+        "percentage_of_total_population": 11.72,
+        "percentage_of_total_population_calculated": 11.72,
+        "percentage_of_total_population_stated": 11.72,
+        "sex_ratio": 883,
+        "total": 1104959
+    },
+    "literacy": {
+        "female_literacy_rate": 81.05,
+        "female_literate": 3231513,
+        "male_literacy_rate": 90.84,
+        "male_literate": 3940210,
+        "rate_percentage": 86.15,
+        "total_literate": 7171723
+    },
+    "population": {
+        "female": 4505303,
+        "male": 4924105,
+        "sex_ratio": 915,
+        "total": 9429408
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 3.61,
+            "population": 340404
+        },
+        "Christian": {
+            "percentage": 1.42,
+            "population": 134192
+        },
+        "Hindu": {
+            "percentage": 85.8,
+            "population": 8090254
+        },
+        "Jain": {
+            "percentage": 1.36,
+            "population": 127786
+        },
+        "Muslims": {
+            "percentage": 7.14,
+            "population": 673704
+        },
+        "Not Stated": {
+            "percentage": 0.28,
+            "population": 26105
+        },
+        "Others": {
+            "percentage": 0.1,
+            "population": 9873
+        },
+        "Sikh": {
+            "percentage": 0.29,
+            "population": 27090
+        }
+    },
+    "rural": {
+        "child_population_female": 204854,
+        "child_population_male": 235248,
+        "child_population_percentage": 11.97,
+        "child_population_percentage_calculated": 11.97,
+        "child_population_percentage_stated": 11.97,
+        "child_population_total": 440102,
+        "child_sex_ratio": 871,
+        "female": 1774786,
+        "literacy_rate_female": 73.25,
+        "literacy_rate_male": 88.25,
+        "literacy_rate_percentage": 80.98,
+        "literate_female": 1150031,
+        "literate_male": 1472191,
+        "literate_total": 2622222,
+        "male": 1903440,
+        "percentage_population": 39.01,
+        "population": 3678226,
+        "sex_ratio": 932
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/359-pune.html",
+    "urban": {
+        "child_population_female": 313440,
+        "child_population_male": 351417,
+        "child_population_percentage": 11.56,
+        "child_population_percentage_calculated": 11.56,
+        "child_population_percentage_stated": 11.56,
+        "child_population_total": 664857,
+        "child_sex_ratio": 892,
+        "female": 2730517,
+        "literacy_rate_female": 86.12,
+        "literacy_rate_male": 92.46,
+        "literacy_rate_percentage": 89.45,
+        "literate_female": 2081482,
+        "literate_male": 2468019,
+        "literate_total": 4549501,
+        "male": 3020665,
+        "percentage_population": 60.99,
+        "population": 5751182,
+        "sex_ratio": 904
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 7683,
+        "male": 8061,
+        "percentage_of_total_population": 10.72,
+        "percentage_of_total_population_calculated": 10.72,
+        "percentage_of_total_population_stated": 10.72,
+        "sex_ratio": 953,
+        "total": 15744
+    },
+    "literacy": {
+        "female_literacy_rate": 75.82,
+        "female_literate": 47384,
+        "male_literacy_rate": 86.52,
+        "male_literate": 59357,
+        "rate_percentage": 81.42,
+        "total_literate": 106741
+    },
+    "population": {
+        "female": 70180,
+        "male": 76670,
+        "sex_ratio": 915,
+        "total": 146850
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 23.87,
+            "population": 35053
+        },
+        "Christian": {
+            "percentage": 14.61,
+            "population": 21462
+        },
+        "Hindu": {
+            "percentage": 57.6,
+            "population": 84583
+        },
+        "Jain": {
+            "percentage": 0.03,
+            "population": 45
+        },
+        "Muslims": {
+            "percentage": 1.29,
+            "population": 1889
+        },
+        "Not Stated": {
+            "percentage": 0.33,
+            "population": 491
+        },
+        "Others": {
+            "percentage": 2.16,
+            "population": 3176
+        },
+        "Sikh": {
+            "percentage": 0.1,
+            "population": 151
+        }
+    },
+    "rural": {
+        "child_population_female": 6712,
+        "child_population_male": 7024,
+        "child_population_percentage": 10.93,
+        "child_population_percentage_calculated": 10.93,
+        "child_population_percentage_stated": 10.93,
+        "child_population_total": 13736,
+        "child_sex_ratio": 956,
+        "female": 59803,
+        "literacy_rate_female": 74.26,
+        "literacy_rate_male": 85.58,
+        "literacy_rate_percentage": 80.21,
+        "literate_female": 39427,
+        "literate_male": 50339,
+        "literate_total": 89766,
+        "male": 65848,
+        "percentage_population": 85.56,
+        "population": 125651,
+        "sex_ratio": 908
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/463-south-sikkim.html",
+    "urban": {
+        "child_population_female": 969,
+        "child_population_male": 1039,
+        "child_population_percentage": 9.47,
+        "child_population_percentage_calculated": 9.47,
+        "child_population_percentage_stated": 9.47,
+        "child_population_total": 2008,
+        "child_sex_ratio": 933,
+        "female": 10377,
+        "literacy_rate_female": 84.58,
+        "literacy_rate_male": 92.18,
+        "literacy_rate_percentage": 88.45,
+        "literate_female": 7957,
+        "literate_male": 9018,
+        "literate_total": 16975,
+        "male": 10822,
+        "percentage_population": 14.44,
+        "population": 21199,
+        "sex_ratio": 959
+    }
+}

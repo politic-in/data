@@ -1,0 +1,88 @@
+{
+  "state": "Madhya Pradesh [1947   1999]",
+  "constituency": "NIMAR",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1957": {
+      "poll_date": "25 February 1957",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 395767,
+        "total_votes_polled": 154238,
+        "turnout_percentage": 39.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Varma Ramsingh",
+          "party": "Indian National Congress",
+          "votes": 73180,
+          "votes_percentage": 47.4
+        },
+        {
+          "position": 2,
+          "name": "Bade Ramchandra",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 62553,
+          "votes_percentage": 40.6
+        },
+        {
+          "position": 3,
+          "name": "Kayare Mangilal",
+          "party": "Independent",
+          "votes": 18505,
+          "votes_percentage": 12.0
+        }
+      ]
+    },
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 387579,
+        "total_votes_polled": 175023,
+        "turnout_percentage": 45.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tiwari Babulal Surajbhan",
+          "party": "Indian National Congress",
+          "votes": 83228,
+          "votes_percentage": 47.6
+        },
+        {
+          "position": 2,
+          "name": "Badrinarayan Ganpatrao",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 35905,
+          "votes_percentage": 20.5
+        },
+        {
+          "position": 3,
+          "name": "Mishra Maheshdutta Chandragopal",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 34627,
+          "votes_percentage": 19.8
+        },
+        {
+          "position": 4,
+          "name": "Joshi Ramshankar Ramratan",
+          "party": "Independent",
+          "votes": 12234,
+          "votes_percentage": 7.0
+        },
+        {
+          "position": 5,
+          "name": "Laxminarayan Zillimal",
+          "party": "Independent",
+          "votes": 9029,
+          "votes_percentage": 5.2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "state": "Maharashtra",
+  "constituency": "BOMBAY CENTRAL SOUTH",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 537390,
+        "total_votes_polled": 338356,
+        "turnout_percentage": 63.0,
+        "margin_votes": 89993,
+        "margin_percentage": 26.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kader Abdul Saledbnoy",
+          "party": "Indian National Congress",
+          "votes": 164199,
+          "votes_percentage": 48.5
+        },
+        {
+          "position": 2,
+          "name": "Shankar Dattatray Pradhan",
+          "party": "Shiv Sena",
+          "votes": 74206,
+          "votes_percentage": 21.9
+        },
+        {
+          "position": 3,
+          "name": "Gulabrao Bhaurao Ganacharya",
+          "party": "Communist Party Of India",
+          "votes": 55368,
+          "votes_percentage": 16.4
+        },
+        {
+          "position": 4,
+          "name": "Vamanrao Ganpatrao Parab",
+          "party": "Bhartiya Jan Sangh",
+          "votes": 33271,
+          "votes_percentage": 9.8
+        },
+        {
+          "position": 5,
+          "name": "Ram Aurangabadkar",
+          "party": "Republican Party Of India (KHOBRAGADE)",
+          "votes": 3789,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Bhogilal Navinchandra Zaveri",
+          "party": "Independent",
+          "votes": 1692,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Shamim Ahmed Shaikh",
+          "party": "Independent",
+          "votes": 843,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 483146,
+        "total_votes_polled": 342542,
+        "turnout_percentage": 70.9,
+        "margin_votes": 7004,
+        "margin_percentage": 2.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "S A Dange",
+          "party": "Communist Party Of India",
+          "votes": 142718,
+          "votes_percentage": 41.7
+        },
+        {
+          "position": 2,
+          "name": "H. J. Mahindra",
+          "party": "Indian National Congress",
+          "votes": 135714,
+          "votes_percentage": 39.6
+        },
+        {
+          "position": 3,
+          "name": "P.J. Shroff",
+          "party": "Swatantra",
+          "votes": 36561,
+          "votes_percentage": 10.7
+        },
+        {
+          "position": 4,
+          "name": "N. M. Amin",
+          "party": "Bhartiya Jan Sangh",
+          "votes": 19412,
+          "votes_percentage": 5.7
+        }
+      ]
+    }
+  }
+}

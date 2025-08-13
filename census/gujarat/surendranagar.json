@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 113423,
+        "male": 126588,
+        "percentage_of_total_population": 13.67,
+        "percentage_of_total_population_calculated": 13.67,
+        "percentage_of_total_population_stated": 13.67,
+        "sex_ratio": 896,
+        "total": 240011
+    },
+    "literacy": {
+        "female_literacy_rate": 61.45,
+        "female_literate": 450405,
+        "male_literacy_rate": 82.11,
+        "male_literate": 643221,
+        "rate_percentage": 72.13,
+        "total_literate": 1093626
+    },
+    "population": {
+        "female": 846351,
+        "male": 909917,
+        "sex_ratio": 930,
+        "total": 1756268
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 312
+        },
+        "Christian": {
+            "percentage": 0.08,
+            "population": 1419
+        },
+        "Hindu": {
+            "percentage": 92.26,
+            "population": 1620282
+        },
+        "Jain": {
+            "percentage": 1.31,
+            "population": 22992
+        },
+        "Muslims": {
+            "percentage": 6.25,
+            "population": 109681
+        },
+        "Not Stated": {
+            "percentage": 0.05,
+            "population": 942
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 128
+        },
+        "Sikh": {
+            "percentage": 0.03,
+            "population": 512
+        }
+    },
+    "rural": {
+        "child_population_female": 87500,
+        "child_population_male": 96563,
+        "child_population_percentage": 14.62,
+        "child_population_percentage_calculated": 14.62,
+        "child_population_percentage_stated": 14.62,
+        "child_population_total": 184063,
+        "child_sex_ratio": 906,
+        "female": 609877,
+        "literacy_rate_female": 56.1,
+        "literacy_rate_male": 79.15,
+        "literacy_rate_percentage": 67.95,
+        "literate_female": 293046,
+        "literate_male": 437657,
+        "literate_total": 730703,
+        "male": 649475,
+        "percentage_population": 71.71,
+        "population": 1259352,
+        "sex_ratio": 939
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/189-surendranagar.html",
+    "urban": {
+        "child_population_female": 25939,
+        "child_population_male": 30009,
+        "child_population_percentage": 11.26,
+        "child_population_percentage_calculated": 11.26,
+        "child_population_percentage_stated": 11.26,
+        "child_population_total": 55948,
+        "child_sex_ratio": 864,
+        "female": 236474,
+        "literacy_rate_female": 74.74,
+        "literacy_rate_male": 89.21,
+        "literacy_rate_percentage": 82.3,
+        "literate_female": 157359,
+        "literate_male": 205564,
+        "literate_total": 362923,
+        "male": 260442,
+        "percentage_population": 28.29,
+        "population": 496916,
+        "sex_ratio": 908
+    }
+}

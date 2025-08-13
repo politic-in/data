@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 68604,
+        "male": 71761,
+        "percentage_of_total_population": 10.61,
+        "percentage_of_total_population_calculated": 10.61,
+        "percentage_of_total_population_stated": 10.61,
+        "sex_ratio": 956,
+        "total": 140365
+    },
+    "literacy": {
+        "female_literacy_rate": 77.89,
+        "female_literate": 461406,
+        "male_literacy_rate": 92.04,
+        "male_literate": 542837,
+        "rate_percentage": 84.95,
+        "total_literate": 1004243
+    },
+    "population": {
+        "female": 660953,
+        "male": 661554,
+        "sex_ratio": 999,
+        "total": 1322507
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 9.47,
+            "population": 125282
+        },
+        "Christian": {
+            "percentage": 0.14,
+            "population": 1827
+        },
+        "Hindu": {
+            "percentage": 87.25,
+            "population": 1153861
+        },
+        "Jain": {
+            "percentage": 0.12,
+            "population": 1568
+        },
+        "Muslims": {
+            "percentage": 1.98,
+            "population": 26157
+        },
+        "Not Stated": {
+            "percentage": 0.5,
+            "population": 6572
+        },
+        "Others": {
+            "percentage": 0.38,
+            "population": 5080
+        },
+        "Sikh": {
+            "percentage": 0.16,
+            "population": 2160
+        }
+    },
+    "rural": {
+        "child_population_female": 57571,
+        "child_population_male": 60006,
+        "child_population_percentage": 10.72,
+        "child_population_percentage_calculated": 10.72,
+        "child_population_percentage_stated": 10.72,
+        "child_population_total": 117577,
+        "child_sex_ratio": 959,
+        "female": 548643,
+        "literacy_rate_female": 75.94,
+        "literacy_rate_male": 91.3,
+        "literacy_rate_percentage": 83.6,
+        "literate_female": 372931,
+        "literate_male": 445490,
+        "literate_total": 818421,
+        "male": 547934,
+        "percentage_population": 82.92,
+        "population": 1096577,
+        "sex_ratio": 1001
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/345-gondiya.html",
+    "urban": {
+        "child_population_female": 11030,
+        "child_population_male": 11758,
+        "child_population_percentage": 10.09,
+        "child_population_percentage_calculated": 10.09,
+        "child_population_percentage_stated": 10.09,
+        "child_population_total": 22788,
+        "child_sex_ratio": 938,
+        "female": 112310,
+        "literacy_rate_female": 87.36,
+        "literacy_rate_male": 95.57,
+        "literacy_rate_percentage": 91.47,
+        "literate_female": 88475,
+        "literate_male": 97347,
+        "literate_total": 185822,
+        "male": 113620,
+        "percentage_population": 17.08,
+        "population": 225930,
+        "sex_ratio": 988
+    }
+}

@@ -1,0 +1,45 @@
+{
+  "state": "Tripura",
+  "year": "1980",
+  "summary_stats": {
+    "total_electors_state": 1057506,
+    "total_votes_polled_state": 845729,
+    "turnout_percentage_state": 80.0,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Tripura East",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Tripura",
+      "winning_candidate": "Bajuban Riyan",
+      "winning_party": "Communist Party Of India (MARXIST)",
+      "total_electors_ac": 522218,
+      "total_votes_ac": 414540,
+      "poll_percentage_ac": 0.0,
+      "margin": 93906,
+      "margin_percentage": 22.7,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1980/tripura/tripura-east/3268/25/7"
+    },
+    {
+      "ac_name": "Tripura West",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Tripura",
+      "winning_candidate": "Ajoy Biswas",
+      "winning_party": "Communist Party Of India (MARXIST)",
+      "total_electors_ac": 535288,
+      "total_votes_ac": 431189,
+      "poll_percentage_ac": 0.0,
+      "margin": 55345,
+      "margin_percentage": 12.8,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1980/tripura/tripura-west/3267/25/7"
+    }
+  ]
+}

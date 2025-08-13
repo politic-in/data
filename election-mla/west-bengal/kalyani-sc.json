@@ -1,0 +1,64 @@
+{
+  "state": "West Bengal",
+  "constituency": "KALYANI (SC)",
+  "district": "Nadia",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 231651,
+        "total_votes_polled": 186937,
+        "turnout_percentage": 81.9,
+        "margin_votes": 26095,
+        "margin_percentage": 14.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr. Ramendra Nath Biswas",
+          "party": "All India Trinamool Congress",
+          "votes": 95795,
+          "votes_percentage": 51.2
+        },
+        {
+          "position": 2,
+          "name": "Alakesh Das",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 69700,
+          "votes_percentage": 37.3
+        },
+        {
+          "position": 3,
+          "name": "Dr. Ranajit Kumar Biswas",
+          "party": "Bharatiya Janta Party",
+          "votes": 15710,
+          "votes_percentage": 8.4
+        },
+        {
+          "position": 4,
+          "name": "Biplab Majumdar",
+          "party": "Shiv Sena",
+          "votes": 2355,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 5,
+          "name": "Tushar Kanti Biswas",
+          "party": "Bahujan Samaj Party",
+          "votes": 2319,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 6,
+          "name": "Samaresh Biswas",
+          "party": "Party For Democratic Socialism",
+          "votes": 1058,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

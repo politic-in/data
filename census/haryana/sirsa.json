@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 72991,
+        "male": 84676,
+        "percentage_of_total_population": 12.17,
+        "percentage_of_total_population_calculated": 12.17,
+        "percentage_of_total_population_stated": 12.17,
+        "sex_ratio": 862,
+        "total": 157667
+    },
+    "literacy": {
+        "female_literacy_rate": 60.4,
+        "female_literate": 325929,
+        "male_literacy_rate": 76.43,
+        "male_literate": 456968,
+        "rate_percentage": 68.82,
+        "total_literate": 782897
+    },
+    "population": {
+        "female": 612607,
+        "male": 682582,
+        "sex_ratio": 897,
+        "total": 1295189
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.03,
+            "population": 370
+        },
+        "Christian": {
+            "percentage": 0.17,
+            "population": 2186
+        },
+        "Hindu": {
+            "percentage": 72.6,
+            "population": 940255
+        },
+        "Jain": {
+            "percentage": 0.17,
+            "population": 2256
+        },
+        "Muslims": {
+            "percentage": 0.74,
+            "population": 9524
+        },
+        "Not Stated": {
+            "percentage": 0.08,
+            "population": 1012
+        },
+        "Others": {
+            "percentage": 0.05,
+            "population": 624
+        },
+        "Sikh": {
+            "percentage": 26.17,
+            "population": 338962
+        }
+    },
+    "rural": {
+        "child_population_female": 55999,
+        "child_population_male": 64422,
+        "child_population_percentage": 12.34,
+        "child_population_percentage_calculated": 12.34,
+        "child_population_percentage_stated": 12.34,
+        "child_population_total": 120421,
+        "child_sex_ratio": 869,
+        "female": 461764,
+        "literacy_rate_female": 56.1,
+        "literacy_rate_male": 73.82,
+        "literacy_rate_percentage": 65.41,
+        "literate_female": 227645,
+        "literate_male": 331990,
+        "literate_total": 559635,
+        "male": 514177,
+        "percentage_population": 75.35,
+        "population": 975941,
+        "sex_ratio": 898
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/218-sirsa.html",
+    "urban": {
+        "child_population_female": 16984,
+        "child_population_male": 20262,
+        "child_population_percentage": 11.67,
+        "child_population_percentage_calculated": 11.67,
+        "child_population_percentage_stated": 11.67,
+        "child_population_total": 37246,
+        "child_sex_ratio": 838,
+        "female": 150843,
+        "literacy_rate_female": 73.42,
+        "literacy_rate_male": 84.36,
+        "literacy_rate_percentage": 79.17,
+        "literate_female": 98284,
+        "literate_male": 124978,
+        "literate_total": 223262,
+        "male": 168405,
+        "percentage_population": 24.65,
+        "population": 319248,
+        "sex_ratio": 896
+    }
+}

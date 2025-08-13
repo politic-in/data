@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 136047,
+        "male": 145816,
+        "percentage_of_total_population": 16.25,
+        "percentage_of_total_population_calculated": 16.25,
+        "percentage_of_total_population_stated": 16.25,
+        "sex_ratio": 933,
+        "total": 281863
+    },
+    "literacy": {
+        "female_literacy_rate": 58.95,
+        "female_literate": 417136,
+        "male_literacy_rate": 80.01,
+        "male_literate": 596113,
+        "rate_percentage": 69.75,
+        "total_literate": 1013249
+    },
+    "population": {
+        "female": 843614,
+        "male": 890881,
+        "sex_ratio": 947,
+        "total": 1734495
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.0,
+            "population": 71
+        },
+        "Christian": {
+            "percentage": 0.99,
+            "population": 17137
+        },
+        "Hindu": {
+            "percentage": 80.56,
+            "population": 1397227
+        },
+        "Jain": {
+            "percentage": 0.1,
+            "population": 1676
+        },
+        "Muslims": {
+            "percentage": 16.21,
+            "population": 281247
+        },
+        "Not Stated": {
+            "percentage": 0.1,
+            "population": 1671
+        },
+        "Others": {
+            "percentage": 1.97,
+            "population": 34154
+        },
+        "Sikh": {
+            "percentage": 0.08,
+            "population": 1312
+        }
+    },
+    "rural": {
+        "child_population_female": 119175,
+        "child_population_male": 127467,
+        "child_population_percentage": 16.9,
+        "child_population_percentage_calculated": 16.9,
+        "child_population_percentage_stated": 16.9,
+        "child_population_total": 246642,
+        "child_sex_ratio": 935,
+        "female": 712254,
+        "literacy_rate_female": 54.91,
+        "literacy_rate_male": 77.86,
+        "literacy_rate_percentage": 66.64,
+        "literate_female": 325673,
+        "literate_male": 482336,
+        "literate_total": 808009,
+        "male": 746934,
+        "percentage_population": 84.13,
+        "population": 1459188,
+        "sex_ratio": 954
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/102-hazaribagh.html",
+    "urban": {
+        "child_population_female": 16867,
+        "child_population_male": 18354,
+        "child_population_percentage": 12.79,
+        "child_population_percentage_calculated": 12.79,
+        "child_population_percentage_stated": 12.79,
+        "child_population_total": 35221,
+        "child_sex_ratio": 919,
+        "female": 131360,
+        "literacy_rate_female": 79.89,
+        "literacy_rate_male": 90.59,
+        "literacy_rate_percentage": 85.49,
+        "literate_female": 91463,
+        "literate_male": 113777,
+        "literate_total": 205240,
+        "male": 143947,
+        "percentage_population": 15.87,
+        "population": 275307,
+        "sex_ratio": 913
+    }
+}

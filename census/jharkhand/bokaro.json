@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 141011,
+        "male": 152775,
+        "percentage_of_total_population": 14.25,
+        "percentage_of_total_population_calculated": 14.25,
+        "percentage_of_total_population_stated": 14.25,
+        "sex_ratio": 923,
+        "total": 293786
+    },
+    "literacy": {
+        "female_literacy_rate": 60.63,
+        "female_literate": 514432,
+        "male_literacy_rate": 82.51,
+        "male_literate": 759088,
+        "rate_percentage": 72.01,
+        "total_literate": 1273520
+    },
+    "population": {
+        "female": 989523,
+        "male": 1072807,
+        "sex_ratio": 922,
+        "total": 2062330
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.09,
+            "population": 1890
+        },
+        "Christian": {
+            "percentage": 0.67,
+            "population": 13730
+        },
+        "Hindu": {
+            "percentage": 79.35,
+            "population": 1636460
+        },
+        "Jain": {
+            "percentage": 0.1,
+            "population": 2045
+        },
+        "Muslims": {
+            "percentage": 11.71,
+            "population": 241451
+        },
+        "Not Stated": {
+            "percentage": 0.1,
+            "population": 2056
+        },
+        "Others": {
+            "percentage": 7.78,
+            "population": 160524
+        },
+        "Sikh": {
+            "percentage": 0.2,
+            "population": 4174
+        }
+    },
+    "rural": {
+        "child_population_female": 82424,
+        "child_population_male": 87270,
+        "child_population_percentage": 15.73,
+        "child_population_percentage_calculated": 15.73,
+        "child_population_percentage_stated": 15.73,
+        "child_population_total": 169694,
+        "child_sex_ratio": 944,
+        "female": 523732,
+        "literacy_rate_female": 49.81,
+        "literacy_rate_male": 76.41,
+        "literacy_rate_percentage": 63.5,
+        "literate_female": 219815,
+        "literate_male": 357363,
+        "literate_total": 577178,
+        "male": 554954,
+        "percentage_population": 52.3,
+        "population": 1078686,
+        "sex_ratio": 944
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/93-bokaro.html",
+    "urban": {
+        "child_population_female": 58559,
+        "child_population_male": 65533,
+        "child_population_percentage": 12.62,
+        "child_population_percentage_calculated": 12.62,
+        "child_population_percentage_stated": 12.62,
+        "child_population_total": 124092,
+        "child_sex_ratio": 894,
+        "female": 465791,
+        "literacy_rate_female": 72.35,
+        "literacy_rate_male": 88.81,
+        "literacy_rate_percentage": 81.01,
+        "literate_female": 294617,
+        "literate_male": 401725,
+        "literate_total": 696342,
+        "male": 517853,
+        "percentage_population": 47.7,
+        "population": 983644,
+        "sex_ratio": 899
+    }
+}

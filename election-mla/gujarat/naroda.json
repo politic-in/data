@@ -1,0 +1,932 @@
+{
+  "state": "Gujarat",
+  "constituency": "Naroda",
+  "district": "Ahmadabad",
+  "ac_type": "GEN",
+  "results": {
+    "2022": {
+      "poll_date": "01 December 2022",
+      "counting_date": "08 December 2022",
+      "total_contestants": 17,
+      "aggregate": {
+        "total_electors": 296284,
+        "total_votes_polled": 156264,
+        "turnout_percentage": 53.2,
+        "margin_votes": 83513,
+        "margin_percentage": 53.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kukrani Payal Manojkumar",
+          "party": "Bharatiya Janta Party",
+          "votes": 112767,
+          "votes_percentage": 71.5
+        },
+        {
+          "position": 2,
+          "name": "Omprakash Darogaprasad Tiwari",
+          "party": "Aam Aadmi Party",
+          "votes": 29254,
+          "votes_percentage": 18.5
+        },
+        {
+          "position": 3,
+          "name": "Meghraj Dodwani",
+          "party": "Nationalist Congress Party",
+          "votes": 8027,
+          "votes_percentage": 5.1
+        },
+        {
+          "position": 4,
+          "name": "Sharma Brijeshkumar Ujagarlal",
+          "party": "Independent",
+          "votes": 1316,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 5,
+          "name": "Suthar Amit",
+          "party": "Independent",
+          "votes": 905,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Gohil Mahendrasinh Laxmansinh",
+          "party": "Independent",
+          "votes": 706,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Gautambhai B Trivedi",
+          "party": "Bhartiya Nagrik Suraksha Party",
+          "votes": 541,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Prajapati Nitaben Mukeshkumar",
+          "party": "Garvi Gujarat Party",
+          "votes": 526,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Dipaben Nileshbhai Santwani",
+          "party": "Independent",
+          "votes": 378,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Prakashsingh Sundersingh Rajput",
+          "party": "Jan Man Party",
+          "votes": 272,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Pandey Jyotiben Manojbhai",
+          "party": "Swatantrata Abhivyakti Party",
+          "votes": 265,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Patel Mittal Kanubhai",
+          "party": "Bhartiya Jan Parishad",
+          "votes": 261,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 13,
+          "name": "Gulwani Ramkumar Baliramji",
+          "party": "Independent",
+          "votes": 256,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 14,
+          "name": "Vishram Dhruvsinh Sikarvar",
+          "party": "Pachchasi Parivartan Samaj Party",
+          "votes": 205,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Selukar Rakesh Sureshbhai",
+          "party": "Jan Sangharsh Virat Party",
+          "votes": 203,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "Tatad Archanaben Gautambhai",
+          "party": "Jan Sewa Driver Party",
+          "votes": 194,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 17,
+          "name": "Patel Satyamkumar K",
+          "party": "Sardar Vallabhbhai Patel Party",
+          "votes": 188,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2017": {
+      "poll_date": "09 December 2017",
+      "counting_date": "18 December 2017",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 254343,
+        "total_votes_polled": 162225,
+        "turnout_percentage": 64.9,
+        "margin_votes": 60142,
+        "margin_percentage": 37.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Thawani Balram Khubchand",
+          "party": "Bharatiya Janta Party",
+          "votes": 108168,
+          "votes_percentage": 66.7
+        },
+        {
+          "position": 2,
+          "name": "Tiwari Omprakash Darogaprasad",
+          "party": "Indian National Congress",
+          "votes": 48026,
+          "votes_percentage": 29.6
+        },
+        {
+          "position": 3,
+          "name": "Amitbhai Mohanbhai Patel",
+          "party": "All India Hindustan Congress Party",
+          "votes": 1976,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 4,
+          "name": "Nikulsinh Kamalsinh Tomar",
+          "party": "Nationalist Congress Party",
+          "votes": 990,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 5,
+          "name": "Rajput Rahulsinh Kishorsinh",
+          "party": "Shiv Sena",
+          "votes": 957,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Brijesh Sharma",
+          "party": "Independent",
+          "votes": 751,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Chauhan Narendrasinh Makhatulsingh",
+          "party": "Independent",
+          "votes": 580,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Dashrath M.Devda",
+          "party": "Independent",
+          "votes": 409,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Kashyap Rajkumar Nankubhai",
+          "party": "Rashtriya Mahan Gantantra Party",
+          "votes": 185,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Nita Bhulchandani",
+          "party": "Rashtriya Samajwadi Party  (Secular)",
+          "votes": 183,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2012": {
+      "poll_date": "",
+      "counting_date": "20 December 2012",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 218498,
+        "total_votes_polled": 145464,
+        "turnout_percentage": 66.6,
+        "margin_votes": 58352,
+        "margin_percentage": 40.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Wadhwani Nirmalaben Sunilbhai",
+          "party": "Bharatiya Janta Party",
+          "votes": 96333,
+          "votes_percentage": 66.2
+        },
+        {
+          "position": 2,
+          "name": "Bharwad Bhavanbhai Surabhai",
+          "party": "Indian National Congress",
+          "votes": 37981,
+          "votes_percentage": 26.1
+        },
+        {
+          "position": 3,
+          "name": "Sonpal Pankajbhai Labhshankar",
+          "party": "Gujarat Parivartan Party",
+          "votes": 4451,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 4,
+          "name": "Kateriya Satishkumar Mojiram",
+          "party": "Bahujan Samaj Party",
+          "votes": 2502,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 5,
+          "name": "Mohnani Ramchand Detaram",
+          "party": "Independent",
+          "votes": 1640,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Vihola Shankarji Jivaji",
+          "party": "Loktantrik Rashrtavadi Party",
+          "votes": 1020,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Solanki Shaileshbhai Jivabhai",
+          "party": "Republican Party Of India (A)",
+          "votes": 838,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "Patel Navinchandra Hiralal",
+          "party": "Independent",
+          "votes": 699,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "2007": {
+      "poll_date": "11 December 2007",
+      "counting_date": "23 December 2007",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 564587,
+        "total_votes_polled": 314999,
+        "turnout_percentage": 55.8,
+        "margin_votes": 180442,
+        "margin_percentage": 57.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr. Kodnani Maya Surendrakumar (DR. MAYA KODNANI)",
+          "party": "Bharatiya Janta Party",
+          "votes": 237518,
+          "votes_percentage": 75.4
+        },
+        {
+          "position": 2,
+          "name": "Harwani Parsottam Fagunmal ( DR. PARSOTTAM HARWANI)",
+          "party": "Indian National Congress",
+          "votes": 57076,
+          "votes_percentage": 18.1
+        },
+        {
+          "position": 3,
+          "name": "Patel Hashmukhbhai Thakarshibhai (HASHMUKH T.PATEL,BAJARANGDALWALA)",
+          "party": "Bharatiya Jan Shakti",
+          "votes": 6354,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 4,
+          "name": "Dr. Maganbhai Motibhai Parekh",
+          "party": "Independent",
+          "votes": 5745,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 5,
+          "name": "Tahelramani Narendra Bhojumal",
+          "party": "Bahujan Samaj Party",
+          "votes": 5199,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 6,
+          "name": "Rajput Ranjitsinhbhai Ramshankarbhai (R.K.SINH)",
+          "party": "Indian Justice Party",
+          "votes": 2100,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Goswami Mangalgiri Dhangiri ( MANGALGIRI D. GOSWAMI)",
+          "party": "Independent",
+          "votes": 1002,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2002": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 419440,
+        "total_votes_polled": 208277,
+        "turnout_percentage": 49.7,
+        "margin_votes": 111095,
+        "margin_percentage": 53.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kodnani Mayaben Surendrabhai",
+          "party": "Bharatiya Janta Party",
+          "votes": 155286,
+          "votes_percentage": 74.7
+        },
+        {
+          "position": 2,
+          "name": "Kothiya Kanubhai Bhagvanbhai (K. B. Patel)",
+          "party": "Indian National Congress",
+          "votes": 44191,
+          "votes_percentage": 21.3
+        },
+        {
+          "position": 3,
+          "name": "Mukesh Ratansing Rathod",
+          "party": "Independent",
+          "votes": 3124,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 4,
+          "name": "Amin Harnishbhai Kantilal",
+          "party": "Independent",
+          "votes": 1817,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Solanki Ranchhodbhai Aalabhai",
+          "party": "Bahujan Samaj Party",
+          "votes": 1613,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Chhara Raghunath Gogadbhai",
+          "party": "Samajwadi Janata Party (RASHTRIYA)",
+          "votes": 930,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Ishwarji Punjaji Thakore",
+          "party": "Akhil Bharatiya Jan Sangh",
+          "votes": 568,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Nada Hasmukhbhai Virjibhai (Hasmukh Nada (Patel))",
+          "party": "Janata Dal (Secular)",
+          "votes": 436,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "1998": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 360573,
+        "total_votes_polled": 176026,
+        "turnout_percentage": 48.8,
+        "margin_votes": 74854,
+        "margin_percentage": 42.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kodnani Mayaben Surendrabhai",
+          "party": "Bharatiya Janta Party",
+          "votes": 116269,
+          "votes_percentage": 68.4
+        },
+        {
+          "position": 2,
+          "name": "Patel Dhirubhai Devrajbhai",
+          "party": "Indian National Congress",
+          "votes": 41415,
+          "votes_percentage": 24.4
+        },
+        {
+          "position": 3,
+          "name": "Patel Jagdishbhai Chimanlal",
+          "party": "All India Rashtriya Janata Party",
+          "votes": 11629,
+          "votes_percentage": 6.8
+        },
+        {
+          "position": 4,
+          "name": "Khanvani Radhakishan Uddhavdas",
+          "party": "Independent",
+          "votes": 349,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 5,
+          "name": "Vachhani Rameshchandra Virjibhai",
+          "party": "Independent",
+          "votes": 339,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "1995": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 27,
+      "aggregate": {
+        "total_electors": 346046,
+        "total_votes_polled": 168094,
+        "turnout_percentage": 48.6,
+        "margin_votes": 53525,
+        "margin_percentage": 31.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gopaldas Bhojwani",
+          "party": "Bharatiya Janta Party",
+          "votes": 91140,
+          "votes_percentage": 56.2
+        },
+        {
+          "position": 2,
+          "name": "Gopalani Lalchand Chetandas",
+          "party": "Indian National Congress",
+          "votes": 37615,
+          "votes_percentage": 23.2
+        },
+        {
+          "position": 3,
+          "name": "Patel Jayantilal Joitaram",
+          "party": "Independent",
+          "votes": 8098,
+          "votes_percentage": 5.0
+        },
+        {
+          "position": 4,
+          "name": "Joshi Vasudev Shankarlal",
+          "party": "Independent",
+          "votes": 6650,
+          "votes_percentage": 4.1
+        },
+        {
+          "position": 5,
+          "name": "Sagarbhai Harijibhai Desai",
+          "party": "Independent",
+          "votes": 3356,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 6,
+          "name": "Karsanbhai Haribhai Godani",
+          "party": "Independent",
+          "votes": 3189,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 7,
+          "name": "Advocate Mishra Balgovind Shiv Bihari",
+          "party": "Socialist Party (LOHIYA)",
+          "votes": 1421,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 8,
+          "name": "Makwana Jashiben Revabhai",
+          "party": "Independent",
+          "votes": 1400,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 9,
+          "name": "Charan Himatbhai Vijaysinh",
+          "party": "Janata Dal",
+          "votes": 1340,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 10,
+          "name": "Pandit Trilokinath Laltaprasad Mishra",
+          "party": "Independent",
+          "votes": 1267,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 11,
+          "name": "Thakor Ramanji Jawanji",
+          "party": "Independent",
+          "votes": 1158,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 12,
+          "name": "Patel Himatlal Premjibhai",
+          "party": "Independent",
+          "votes": 675,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 13,
+          "name": "Patel Mansukbhai Vallabhbhai",
+          "party": "Doordarshi Party",
+          "votes": 666,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 14,
+          "name": "Patel Dipakkumar Manubhai",
+          "party": "Independent",
+          "votes": 461,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 15,
+          "name": "Vimalaben Kantilal Patel",
+          "party": "Independent",
+          "votes": 447,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 16,
+          "name": "Dr. Chelaram Gopaldas Sirwani",
+          "party": "Republican Party Of India (DEMOCRATIC)",
+          "votes": 411,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 17,
+          "name": "Vaghadiya Dhirubhai Shamjibhai",
+          "party": "Independent",
+          "votes": 396,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 18,
+          "name": "Brahmbhatt Pramod Karanshing",
+          "party": "Independent",
+          "votes": 303,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 19,
+          "name": "Jagadishbhai Ishwarbhai Patel",
+          "party": "Independent",
+          "votes": 290,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 20,
+          "name": "Patel Dilipbhai Gopalbhai",
+          "party": "Independent",
+          "votes": 289,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 21,
+          "name": "Patel Hashmukhbhai Mathurbhai",
+          "party": "Independent",
+          "votes": 287,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 22,
+          "name": "Tank Mohmad Unesh Alarakhabhai",
+          "party": "Socialist League Of India",
+          "votes": 271,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 23,
+          "name": "Chavda Mukundbhai Kuvarji",
+          "party": "Independent",
+          "votes": 268,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 24,
+          "name": "Kripalani Ashokkumar Khatanmal",
+          "party": "Independent",
+          "votes": 248,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 25,
+          "name": "Goswami Sundarnath Kishannath",
+          "party": "Independent",
+          "votes": 234,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 26,
+          "name": "Patel Rameshbhai Mafatlal",
+          "party": "Independent",
+          "votes": 192,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 27,
+          "name": "Ghanshyamdas Sukhramdas Bhanbhani",
+          "party": "Independent",
+          "votes": 121,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1990": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 15,
+      "aggregate": {
+        "total_electors": 259852,
+        "total_votes_polled": 111060,
+        "turnout_percentage": 42.7,
+        "margin_votes": 49664,
+        "margin_percentage": 44.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gopaldas Bhojwani",
+          "party": "Bharatiya Janta Party",
+          "votes": 69067,
+          "votes_percentage": 63.4
+        },
+        {
+          "position": 2,
+          "name": "Gitaben Dixini",
+          "party": "Indian National Congress",
+          "votes": 19403,
+          "votes_percentage": 17.8
+        },
+        {
+          "position": 3,
+          "name": "Aiyar Chindambram P.",
+          "party": "Janata Dal",
+          "votes": 16518,
+          "votes_percentage": 15.2
+        },
+        {
+          "position": 4,
+          "name": "Trilokinath Laltaprasad",
+          "party": "Shiv Sena",
+          "votes": 1592,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Patel Manilal Laxmichand",
+          "party": "Janata Party (JP)",
+          "votes": 697,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Patel Jayantibhai Devsibhai",
+          "party": "Yuva Vikas Party",
+          "votes": 378,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Rajput Ravindrakumar Udaysingh",
+          "party": "Independent",
+          "votes": 367,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Patel Bhulabhai Makabhai",
+          "party": "Doordarshi Party",
+          "votes": 198,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Kotadiya Virjibhai Gokalbhai",
+          "party": "Independent",
+          "votes": 130,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Mandani Ashaben Tarachand",
+          "party": "Independent",
+          "votes": 109,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Patel Baldevbhai Chaturbhai",
+          "party": "Independent",
+          "votes": 108,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Khimnani Sundarbhai",
+          "party": "Independent",
+          "votes": 97,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Najabhai Ranabhai Bharwad",
+          "party": "Independent",
+          "votes": 87,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Chauhan Pratapji Kalaji",
+          "party": "Independent",
+          "votes": 76,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Jagyasi Kishormal Vasumal",
+          "party": "All India Dalit Muslim Minorities Suraksha Mahasangh",
+          "votes": 47,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "1985": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 159099,
+        "total_votes_polled": 60440,
+        "turnout_percentage": 38.0,
+        "margin_votes": 17923,
+        "margin_percentage": 29.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Geetaben Daxini",
+          "party": "Indian National Congress",
+          "votes": 37150,
+          "votes_percentage": 62.6
+        },
+        {
+          "position": 2,
+          "name": "Vadhva Nandlal Mohriram",
+          "party": "Bharatiya Janta Party",
+          "votes": 19227,
+          "votes_percentage": 32.4
+        },
+        {
+          "position": 3,
+          "name": "Girish Thakkar",
+          "party": "Janta Party",
+          "votes": 1309,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 4,
+          "name": "Shah Ramanlal Sankalchand",
+          "party": "Independent",
+          "votes": 1101,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 5,
+          "name": "Mahant Ramnarayan Hans Goswami",
+          "party": "Independent",
+          "votes": 297,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Suthar Bharatkumar Trikamlal",
+          "party": "Doordarshi Party",
+          "votes": 82,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 7,
+          "name": "Abhichandani Bhagwan Topandas",
+          "party": "Independent",
+          "votes": 78,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "Hansrajani Parashram Gurnomal",
+          "party": "Independent",
+          "votes": 62,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 118728,
+        "total_votes_polled": 48827,
+        "turnout_percentage": 41.1,
+        "margin_votes": 12744,
+        "margin_percentage": 26.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ramchand Tahalram",
+          "party": "Indian National Congress (I)",
+          "votes": 25216,
+          "votes_percentage": 52.5
+        },
+        {
+          "position": 2,
+          "name": "Wadhwa Nandlal Mohriram",
+          "party": "Bharatiya Janta Party",
+          "votes": 12472,
+          "votes_percentage": 26.0
+        },
+        {
+          "position": 3,
+          "name": "Khubchandani Thavardas Ladharam",
+          "party": "Janata Party (JP)",
+          "votes": 5113,
+          "votes_percentage": 10.7
+        },
+        {
+          "position": 4,
+          "name": "Patel Kanubhai Ratilal",
+          "party": "Independent",
+          "votes": 4615,
+          "votes_percentage": 9.6
+        },
+        {
+          "position": 5,
+          "name": "Pababhai Jagabhai Parmar",
+          "party": "Independent",
+          "votes": 293,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Soni Shantibhai Muljibhai",
+          "party": "Independent",
+          "votes": 148,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "Dinkarrao Sakharamrao Chavan",
+          "party": "Independent",
+          "votes": 138,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 214531,
+        "male": 231425,
+        "percentage_of_total_population": 10.93,
+        "percentage_of_total_population_calculated": 10.93,
+        "percentage_of_total_population_stated": 10.93,
+        "sex_ratio": 927,
+        "total": 445956
+    },
+    "literacy": {
+        "female_literacy_rate": 53.97,
+        "female_literate": 972486,
+        "male_literacy_rate": 73.02,
+        "male_literate": 1338474,
+        "rate_percentage": 63.57,
+        "total_literate": 2310960
+    },
+    "population": {
+        "female": 2016653,
+        "male": 2064495,
+        "sex_ratio": 977,
+        "total": 4081148
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 341
+        },
+        "Christian": {
+            "percentage": 0.5,
+            "population": 20463
+        },
+        "Hindu": {
+            "percentage": 88.2,
+            "population": 3599372
+        },
+        "Jain": {
+            "percentage": 0.03,
+            "population": 1417
+        },
+        "Muslims": {
+            "percentage": 10.87,
+            "population": 443456
+        },
+        "Not Stated": {
+            "percentage": 0.36,
+            "population": 14858
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 309
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 932
+        }
+    },
+    "rural": {
+        "child_population_female": 155907,
+        "child_population_male": 167977,
+        "child_population_percentage": 11.03,
+        "child_population_percentage_calculated": 11.03,
+        "child_population_percentage_stated": 11.03,
+        "child_population_total": 323884,
+        "child_sex_ratio": 928,
+        "female": 1446280,
+        "literacy_rate_female": 48.77,
+        "literacy_rate_male": 69.41,
+        "literacy_rate_percentage": 59.21,
+        "literate_female": 629336,
+        "literate_male": 917058,
+        "literate_total": 1546394,
+        "male": 1489157,
+        "percentage_population": 71.93,
+        "population": 2935437,
+        "sex_ratio": 971
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/139-anantapur.html",
+    "urban": {
+        "child_population_female": 58680,
+        "child_population_male": 63392,
+        "child_population_percentage": 10.65,
+        "child_population_percentage_calculated": 10.65,
+        "child_population_percentage_stated": 10.65,
+        "child_population_total": 122072,
+        "child_sex_ratio": 926,
+        "female": 570373,
+        "literacy_rate_female": 67.06,
+        "literacy_rate_male": 82.32,
+        "literacy_rate_percentage": 74.69,
+        "literate_female": 343150,
+        "literate_male": 421416,
+        "literate_total": 764566,
+        "male": 575338,
+        "percentage_population": 28.07,
+        "population": 1145711,
+        "sex_ratio": 991
+    }
+}

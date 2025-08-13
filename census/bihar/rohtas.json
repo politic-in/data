@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 244350,
+        "male": 262460,
+        "percentage_of_total_population": 17.12,
+        "percentage_of_total_population_calculated": 17.12,
+        "percentage_of_total_population_stated": 17.12,
+        "sex_ratio": 931,
+        "total": 506810
+    },
+    "literacy": {
+        "female_literacy_rate": 62.97,
+        "female_literate": 738049,
+        "male_literacy_rate": 82.88,
+        "male_literate": 1061783,
+        "rate_percentage": 73.37,
+        "total_literate": 1799832
+    },
+    "population": {
+        "female": 1416372,
+        "male": 1543546,
+        "sex_ratio": 918,
+        "total": 2959918
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.05,
+            "population": 1584
+        },
+        "Christian": {
+            "percentage": 0.1,
+            "population": 2889
+        },
+        "Hindu": {
+            "percentage": 89.37,
+            "population": 2645415
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 252
+        },
+        "Muslims": {
+            "percentage": 10.15,
+            "population": 300487
+        },
+        "Not Stated": {
+            "percentage": 0.21,
+            "population": 6185
+        },
+        "Others": {
+            "percentage": 0.02,
+            "population": 537
+        },
+        "Sikh": {
+            "percentage": 0.09,
+            "population": 2569
+        }
+    },
+    "rural": {
+        "child_population_female": 214250,
+        "child_population_male": 229547,
+        "child_population_percentage": 17.53,
+        "child_population_percentage_calculated": 17.53,
+        "child_population_percentage_stated": 17.53,
+        "child_population_total": 443797,
+        "child_sex_ratio": 933,
+        "female": 1213877,
+        "literacy_rate_female": 61.53,
+        "literacy_rate_male": 82.57,
+        "literacy_rate_percentage": 72.5,
+        "literate_female": 615088,
+        "literate_male": 898959,
+        "literate_total": 1514047,
+        "male": 1318276,
+        "percentage_population": 85.55,
+        "population": 2532153,
+        "sex_ratio": 921
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/86-rohtas.html",
+    "urban": {
+        "child_population_female": 30086,
+        "child_population_male": 32927,
+        "child_population_percentage": 14.73,
+        "child_population_percentage_calculated": 14.73,
+        "child_population_percentage_stated": 14.73,
+        "child_population_total": 63013,
+        "child_sex_ratio": 914,
+        "female": 202495,
+        "literacy_rate_female": 71.32,
+        "literacy_rate_male": 84.65,
+        "literacy_rate_percentage": 78.35,
+        "literate_female": 122961,
+        "literate_male": 162824,
+        "literate_total": 285785,
+        "male": 225270,
+        "percentage_population": 14.45,
+        "population": 427765,
+        "sex_ratio": 899
+    }
+}

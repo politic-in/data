@@ -1,0 +1,610 @@
+{
+  "state": "Gujarat",
+  "constituency": "Limbayat",
+  "district": "Surat",
+  "ac_type": "GEN",
+  "results": {
+    "2022": {
+      "poll_date": "01 December 2022",
+      "counting_date": "08 December 2022",
+      "total_contestants": 44,
+      "aggregate": {
+        "total_electors": 305284,
+        "total_votes_polled": 177988,
+        "turnout_percentage": 58.7,
+        "margin_votes": 58009,
+        "margin_percentage": 32.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sangitaben Rajendra Patil",
+          "party": "Bharatiya Janta Party",
+          "votes": 95696,
+          "votes_percentage": 53.4
+        },
+        {
+          "position": 2,
+          "name": "Pankajbhai Tayade",
+          "party": "Aam Aadmi Party",
+          "votes": 37687,
+          "votes_percentage": 21.1
+        },
+        {
+          "position": 3,
+          "name": "Gopal D. Patil",
+          "party": "Indian National Congress",
+          "votes": 29436,
+          "votes_percentage": 16.4
+        },
+        {
+          "position": 4,
+          "name": "Abdul Bashir Shaikh",
+          "party": "All India Majlis-E-Ittehadul Muslimeen",
+          "votes": 5216,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 5,
+          "name": "Ayaz Kazi",
+          "party": "Bahujan Samaj Party",
+          "votes": 972,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Wasim Karim Shaikh",
+          "party": "Independent",
+          "votes": 950,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Anishaben Kureshi",
+          "party": "Independent",
+          "votes": 870,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Irfankhan Pathan",
+          "party": "Independent",
+          "votes": 733,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Bharatbhai B. Patel",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 540,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Shah Samir Shaikhlal",
+          "party": "Independent",
+          "votes": 312,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Imrankhan Shokat Khan",
+          "party": "Independent",
+          "votes": 279,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Nasirshaha Naththushaha",
+          "party": "Independent",
+          "votes": 270,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 13,
+          "name": "Sabirabibi  Mohammad Yusuf Shaikh",
+          "party": "Independent",
+          "votes": 269,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 14,
+          "name": "Vasim Shaikh",
+          "party": "Independent",
+          "votes": 255,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Khalik Yusuf Shaikh",
+          "party": "Independent",
+          "votes": 254,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "Shaikh Subhan Abudulla",
+          "party": "Samajwadi Party",
+          "votes": 249,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 17,
+          "name": "Akram Vahidulla Ansari",
+          "party": "Independent",
+          "votes": 245,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 18,
+          "name": "Javid Shaikh",
+          "party": "Independent",
+          "votes": 244,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 19,
+          "name": "Sami Akhtar Isaf Mohammad Shaikh",
+          "party": "Independent",
+          "votes": 239,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 20,
+          "name": "Hameed Madhavsang Rana",
+          "party": "Independent",
+          "votes": 227,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 21,
+          "name": "Pathan Bashirkhan",
+          "party": "Independent",
+          "votes": 216,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 22,
+          "name": "Shah Aiyub",
+          "party": "Independent",
+          "votes": 183,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 23,
+          "name": "Ram Murat Maurya (Comrade)",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 182,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 24,
+          "name": "Nasrinbano Shaikh",
+          "party": "Independent",
+          "votes": 176,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 25,
+          "name": "Shaikh Salman",
+          "party": "Independent",
+          "votes": 159,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 26,
+          "name": "Azim Saiyad",
+          "party": "Independent",
+          "votes": 153,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 27,
+          "name": "Saiyad Mehmud",
+          "party": "Independent",
+          "votes": 148,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 28,
+          "name": "Patel Aamin Abdul Ghafar",
+          "party": "Independent",
+          "votes": 147,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 29,
+          "name": "Raybole Panjab",
+          "party": "Independent",
+          "votes": 144,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 30,
+          "name": "Ramzan Mansuri (Varisht Partrakar)",
+          "party": "Log Party",
+          "votes": 139,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 31,
+          "name": "Arun Pathak (Gabbar)",
+          "party": "Independent",
+          "votes": 139,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 32,
+          "name": "Rani Aziz Shaikh",
+          "party": "Rashtriya Samaj Paksha",
+          "votes": 136,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 33,
+          "name": "Shah Firoj Supadubhai",
+          "party": "Independent",
+          "votes": 128,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 34,
+          "name": "Hamid Shaikh",
+          "party": "Independent",
+          "votes": 123,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 36,
+          "name": "Sayarabanu Hamid Rana",
+          "party": "Independent",
+          "votes": 113,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 35,
+          "name": "Rekhaben Satishbhai Patel",
+          "party": "Independent",
+          "votes": 113,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 37,
+          "name": "Shaikh Yusuf",
+          "party": "Independent",
+          "votes": 100,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 38,
+          "name": "Ramjubhai Shaikh",
+          "party": "Independent",
+          "votes": 90,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 39,
+          "name": "Saiyad Suraiya Latif",
+          "party": "Independent",
+          "votes": 87,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 40,
+          "name": "Farukhasha Shabbirsha",
+          "party": "Independent",
+          "votes": 84,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 41,
+          "name": "Faruk Khan",
+          "party": "Independent",
+          "votes": 77,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 43,
+          "name": "Mohammad Nafis Islam Khan",
+          "party": "Independent",
+          "votes": 74,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 42,
+          "name": "Rashid Dadamiya Shaikh",
+          "party": "Independent",
+          "votes": 74,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 44,
+          "name": "Mohshin Shah",
+          "party": "Independent",
+          "votes": 60,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "2017": {
+      "poll_date": "09 December 2017",
+      "counting_date": "18 December 2017",
+      "total_contestants": 16,
+      "aggregate": {
+        "total_electors": 254829,
+        "total_votes_polled": 169690,
+        "turnout_percentage": 67.0,
+        "margin_votes": 31951,
+        "margin_percentage": 18.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Patil Sangitaben Rajendrabhai",
+          "party": "Bharatiya Janta Party",
+          "votes": 93585,
+          "votes_percentage": 55.2
+        },
+        {
+          "position": 2,
+          "name": "Dr. Ravindra  Suklal Patil",
+          "party": "Indian National Congress",
+          "votes": 61634,
+          "votes_percentage": 36.3
+        },
+        {
+          "position": 3,
+          "name": "Akram Vahidulla Ansari",
+          "party": "Nationalist Congress Party",
+          "votes": 5132,
+          "votes_percentage": 3.0
+        },
+        {
+          "position": 4,
+          "name": "Samrat Abhiman Patil",
+          "party": "Shiv Sena",
+          "votes": 4075,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 5,
+          "name": "Patel Dashrath Prabhudutt",
+          "party": "Independent",
+          "votes": 835,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Satyendra Singh \"krantikari\"",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 709,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Manubhai Mayabhai Ahir",
+          "party": "Bahujan Samaj Party",
+          "votes": 705,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Jain Rajendrakumar Anilkumar",
+          "party": "Independent",
+          "votes": 619,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Bharatbhai Babubhai Rakholiya (PATEL)",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 591,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 10,
+          "name": "Rasha Raju Uppalaya",
+          "party": "Aam Aadmi Party",
+          "votes": 384,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Koli Dashrath Lotanbhai",
+          "party": "Independent",
+          "votes": 347,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Chauhan Anilbhai Laljibhai",
+          "party": "Independent",
+          "votes": 287,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 13,
+          "name": "Varde Raju Bhimrao",
+          "party": "Bahujan Mukti Party",
+          "votes": 255,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 14,
+          "name": "Girdhar Brijlal Chaudhari",
+          "party": "Independent",
+          "votes": 203,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Hemant Suresh Soni",
+          "party": "Rashtriya Samaj Paksha",
+          "votes": 182,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "Shekh Hamid Ramjan",
+          "party": "Svatantra Bharat Satyagrah Party",
+          "votes": 147,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2012": {
+      "poll_date": "",
+      "counting_date": "20 December 2012",
+      "total_contestants": 20,
+      "aggregate": {
+        "total_electors": 218004,
+        "total_votes_polled": 150268,
+        "turnout_percentage": 68.9,
+        "margin_votes": 30321,
+        "margin_percentage": 20.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Patil Sangitaben Rajendrabhai",
+          "party": "Bharatiya Janta Party",
+          "votes": 79744,
+          "votes_percentage": 53.1
+        },
+        {
+          "position": 2,
+          "name": "Sonvane Suresh Mohan",
+          "party": "Indian National Congress",
+          "votes": 49423,
+          "votes_percentage": 32.9
+        },
+        {
+          "position": 3,
+          "name": "Patel Manubhai Mohanbhai",
+          "party": "Independent",
+          "votes": 5930,
+          "votes_percentage": 4.0
+        },
+        {
+          "position": 4,
+          "name": "Rajdeep Jamirkhan Jafarkhan",
+          "party": "Nationalist Congress Party",
+          "votes": 2760,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 5,
+          "name": "Nimje Devraj Honiya",
+          "party": "Gujarat Parivartan Party",
+          "votes": 2497,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 6,
+          "name": "Koli Laxman Parashram",
+          "party": "Independent",
+          "votes": 2488,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 7,
+          "name": "Ingle Sunilbhai Madhavrav",
+          "party": "Bahujan Samaj Party",
+          "votes": 1263,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 8,
+          "name": "Multani Ayashaben Shahbuddin",
+          "party": "Independent",
+          "votes": 1096,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 9,
+          "name": "Saiyed Mehmud Ahmad",
+          "party": "Independent",
+          "votes": 961,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 10,
+          "name": "Shekh Aminabee Harun",
+          "party": "Independent",
+          "votes": 762,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 11,
+          "name": "Maurya Rambharat  Ramkhilavan",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 558,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 12,
+          "name": "Vaishnav Bhailal Becharbhai",
+          "party": "Independent",
+          "votes": 471,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 13,
+          "name": "Saiyed Mir Sarajuddin Mir Jalaluddin(SAIYED MUNNABAPU)",
+          "party": "Independent",
+          "votes": 390,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 14,
+          "name": "Chauhan Anilbhai Laljibhai",
+          "party": "Independent",
+          "votes": 354,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 15,
+          "name": "Shekh Hasan Dagadu",
+          "party": "Hindusthan Nirman Dal",
+          "votes": 318,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 16,
+          "name": "Jawaharlal Purusotambhai Patil",
+          "party": "Independent",
+          "votes": 301,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 17,
+          "name": "Soni Mahedrabhai Narayandas",
+          "party": "Janata Dal (United)",
+          "votes": 285,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 18,
+          "name": "Arun Shesharam Pathak",
+          "party": "Independent",
+          "votes": 269,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 19,
+          "name": "Shekh Shabirabibi Mahmad Yusuf",
+          "party": "Indians Front",
+          "votes": 214,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 20,
+          "name": "Akhade Pitambar Aatmaram",
+          "party": "Independent",
+          "votes": 184,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

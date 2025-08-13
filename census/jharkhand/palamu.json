@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 160202,
+        "male": 169526,
+        "percentage_of_total_population": 17.0,
+        "percentage_of_total_population_calculated": 17.0,
+        "percentage_of_total_population_stated": 17.0,
+        "sex_ratio": 945,
+        "total": 329728
+    },
+    "literacy": {
+        "female_literacy_rate": 52.09,
+        "female_literate": 402857,
+        "male_literacy_rate": 74.3,
+        "male_literate": 621706,
+        "rate_percentage": 63.63,
+        "total_literate": 1024563
+    },
+    "population": {
+        "female": 933567,
+        "male": 1006302,
+        "sex_ratio": 928,
+        "total": 1939869
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 188
+        },
+        "Christian": {
+            "percentage": 0.32,
+            "population": 6164
+        },
+        "Hindu": {
+            "percentage": 86.77,
+            "population": 1683169
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 284
+        },
+        "Muslims": {
+            "percentage": 12.28,
+            "population": 238295
+        },
+        "Not Stated": {
+            "percentage": 0.28,
+            "population": 5354
+        },
+        "Others": {
+            "percentage": 0.29,
+            "population": 5681
+        },
+        "Sikh": {
+            "percentage": 0.04,
+            "population": 734
+        }
+    },
+    "rural": {
+        "child_population_female": 145177,
+        "child_population_male": 153161,
+        "child_population_percentage": 17.41,
+        "child_population_percentage_calculated": 17.41,
+        "child_population_percentage_stated": 17.41,
+        "child_population_total": 298338,
+        "child_sex_ratio": 948,
+        "female": 826315,
+        "literacy_rate_female": 49.22,
+        "literacy_rate_male": 72.52,
+        "literacy_rate_percentage": 61.31,
+        "literate_female": 335245,
+        "literate_male": 532569,
+        "literate_total": 867814,
+        "male": 887551,
+        "percentage_population": 88.35,
+        "population": 1713866,
+        "sex_ratio": 931
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/109-palamu.html",
+    "urban": {
+        "child_population_female": 15008,
+        "child_population_male": 16382,
+        "child_population_percentage": 13.89,
+        "child_population_percentage_calculated": 13.89,
+        "child_population_percentage_stated": 13.89,
+        "child_population_total": 31390,
+        "child_sex_ratio": 916,
+        "female": 107252,
+        "literacy_rate_female": 73.3,
+        "literacy_rate_male": 87.07,
+        "literacy_rate_percentage": 80.54,
+        "literate_female": 67612,
+        "literate_male": 89137,
+        "literate_total": 156749,
+        "male": 118751,
+        "percentage_population": 11.65,
+        "population": 226003,
+        "sex_ratio": 903
+    }
+}

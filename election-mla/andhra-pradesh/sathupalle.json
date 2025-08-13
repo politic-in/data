@@ -1,0 +1,80 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Sathupalle",
+  "district": "Khammam",
+  "ac_type": "SC",
+  "results": {
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 198571,
+        "total_votes_polled": 169263,
+        "turnout_percentage": 85.2,
+        "total_valid_votes": 169220,
+        "total_valid_votes_percentage": 85.2,
+        "margin_votes": 14008,
+        "margin_percentage": 8.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sandra Venkata Veeraiah",
+          "party": "Telugu Desam",
+          "votes": 79491,
+          "votes_percentage": 47.0
+        },
+        {
+          "position": 2,
+          "name": "Chandrasekhar Sambhani",
+          "party": "Indian National Congress",
+          "votes": 65483,
+          "votes_percentage": 38.7
+        },
+        {
+          "position": 3,
+          "name": "Ravi Nagabathini",
+          "party": "Praja Rajyam Party",
+          "votes": 16264,
+          "votes_percentage": 9.6
+        },
+        {
+          "position": 4,
+          "name": "Tirumalaiah Telluri",
+          "party": "Bahujan Samaj Party",
+          "votes": 2642,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 5,
+          "name": "Chokkaiah Jadi",
+          "party": "Lok Satta Party",
+          "votes": 1959,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 6,
+          "name": "Venkateswara Rao Kuvvarapu (Kodipunju)",
+          "party": "Independent",
+          "votes": 1546,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 7,
+          "name": "Kolikapogu Musalaiah",
+          "party": "Bharatiya Janta Party",
+          "votes": 1001,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "Konduri Susmitha Koteswar Rao",
+          "party": "Independent",
+          "votes": 834,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

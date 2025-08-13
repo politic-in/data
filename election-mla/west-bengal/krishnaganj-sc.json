@@ -1,0 +1,71 @@
+{
+  "state": "West Bengal",
+  "constituency": "KRISHNAGANJ (SC)",
+  "district": "Nadia",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 249438,
+        "total_votes_polled": 211597,
+        "turnout_percentage": 85.6,
+        "margin_votes": 43928,
+        "margin_percentage": 20.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Satyajit Biswas",
+          "party": "All India Trinamool Congress",
+          "votes": 114626,
+          "votes_percentage": 54.2
+        },
+        {
+          "position": 2,
+          "name": "Mrinal Biswas(MINI)",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 70698,
+          "votes_percentage": 33.4
+        },
+        {
+          "position": 3,
+          "name": "Sujit Kumar Biswas",
+          "party": "Bharatiya Janta Party",
+          "votes": 17741,
+          "votes_percentage": 8.4
+        },
+        {
+          "position": 4,
+          "name": "Nitya Gopal Mondal",
+          "party": "Indian National Congress",
+          "votes": 4175,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 5,
+          "name": "Rajnath Sarkar",
+          "party": "Bahujan Samaj Party",
+          "votes": 2197,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Biplab Kumar Golder",
+          "party": "New Democratic Party Of India",
+          "votes": 1245,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Apurba Biswas",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 915,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

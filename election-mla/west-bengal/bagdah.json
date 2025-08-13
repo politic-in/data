@@ -1,0 +1,64 @@
+{
+  "state": "West Bengal",
+  "constituency": "Bagdah",
+  "district": "North Twenty Four Parganas",
+  "ac_type": "SC",
+  "results": {
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 203624,
+        "total_votes_polled": 173531,
+        "turnout_percentage": 85.2,
+        "margin_votes": 20956,
+        "margin_percentage": 12.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Upendra Nath Biswas",
+          "party": "All India Trinamool Congress",
+          "votes": 91821,
+          "votes_percentage": 52.9
+        },
+        {
+          "position": 2,
+          "name": "Mrinal Kanti Sikdar",
+          "party": "All India Forward Bloc",
+          "votes": 70865,
+          "votes_percentage": 40.8
+        },
+        {
+          "position": 3,
+          "name": "Chandan Mallick",
+          "party": "Bahujan Samaj Party",
+          "votes": 4414,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 4,
+          "name": "Arabinda Biswas",
+          "party": "Bharatiya Janta Party",
+          "votes": 4306,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 5,
+          "name": "Pranita Mandal",
+          "party": "Independent",
+          "votes": 1212,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Dhirendra Nath Mandal",
+          "party": "Nirjatita Samaj Biplabi Party",
+          "votes": 913,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

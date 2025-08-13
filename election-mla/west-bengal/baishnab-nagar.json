@@ -1,0 +1,57 @@
+{
+  "state": "West Bengal",
+  "constituency": "Baishnab Nagar",
+  "district": "Maldah",
+  "ac_type": "GEN",
+  "results": {
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 172524,
+        "total_votes_polled": 145489,
+        "turnout_percentage": 84.3,
+        "margin_votes": 5023,
+        "margin_percentage": 3.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Isha Khan Choudhury",
+          "party": "Indian National Congress",
+          "votes": 62589,
+          "votes_percentage": 43.0
+        },
+        {
+          "position": 2,
+          "name": "Biswanath Ghosh",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 57566,
+          "votes_percentage": 39.6
+        },
+        {
+          "position": 3,
+          "name": "Swadhin Kumar Sarkar",
+          "party": "Bharatiya Janta Party",
+          "votes": 20483,
+          "votes_percentage": 14.1
+        },
+        {
+          "position": 4,
+          "name": "Manirul",
+          "party": "Independent",
+          "votes": 3436,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 5,
+          "name": "Manjur Alahi Munshi",
+          "party": "Janata Dal (United)",
+          "votes": 1415,
+          "votes_percentage": 1.0
+        }
+      ]
+    }
+  }
+}

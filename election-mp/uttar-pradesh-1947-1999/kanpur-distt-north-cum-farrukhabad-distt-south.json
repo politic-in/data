@@ -1,0 +1,48 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "KANPUR DISTT NORTH CUM FARRUKHABAD DISTT SOUTH",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 365691,
+        "total_votes_polled": 166635,
+        "turnout_percentage": 45.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "V. N. Tiwari",
+          "party": "Indian National Congress",
+          "votes": 83859,
+          "votes_percentage": 50.3
+        },
+        {
+          "position": 2,
+          "name": "P. D. Katiyar",
+          "party": "Socialist Party",
+          "votes": 54943,
+          "votes_percentage": 33.0
+        },
+        {
+          "position": 3,
+          "name": "Govardhan Lal",
+          "party": "Independent",
+          "votes": 20593,
+          "votes_percentage": 12.4
+        },
+        {
+          "position": 4,
+          "name": "Bal Ravinra Nath",
+          "party": "Akhil Bharatiya Hindu Mahasabha",
+          "votes": 7240,
+          "votes_percentage": 4.3
+        }
+      ]
+    }
+  }
+}

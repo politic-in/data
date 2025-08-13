@@ -1,0 +1,80 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Kalwakurthy",
+  "district": "Mahbubnagar",
+  "ac_type": "GEN",
+  "results": {
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 210938,
+        "total_votes_polled": 156075,
+        "turnout_percentage": 74.0,
+        "total_valid_votes": 156071,
+        "total_valid_votes_percentage": 74.0,
+        "margin_votes": 597,
+        "margin_percentage": 0.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "G.Jaipal Yadav",
+          "party": "Telugu Desam",
+          "votes": 56990,
+          "votes_percentage": 36.5
+        },
+        {
+          "position": 2,
+          "name": "Yadma Kista Reddy",
+          "party": "Indian National Congress",
+          "votes": 56393,
+          "votes_percentage": 36.1
+        },
+        {
+          "position": 3,
+          "name": "Achary Tallwoju",
+          "party": "Bharatiya Janta Party",
+          "votes": 24125,
+          "votes_percentage": 15.5
+        },
+        {
+          "position": 4,
+          "name": "J.Chitharanjan Das",
+          "party": "Praja Rajyam Party",
+          "votes": 7881,
+          "votes_percentage": 5.1
+        },
+        {
+          "position": 5,
+          "name": "Guduru Prabhakar Reddy",
+          "party": "Pyramid Party Of India",
+          "votes": 3407,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 6,
+          "name": "Mabbu Sayanna Madiga",
+          "party": "Independent",
+          "votes": 2957,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 7,
+          "name": "Banavath Ramulu Naik",
+          "party": "Bahujan Samaj Party",
+          "votes": 2351,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 8,
+          "name": "Bandela Ramchandra Reddy",
+          "party": "Lok Satta Party",
+          "votes": 1967,
+          "votes_percentage": 1.3
+        }
+      ]
+    }
+  }
+}

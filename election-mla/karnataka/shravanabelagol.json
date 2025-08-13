@@ -1,0 +1,57 @@
+{
+  "state": "Karnataka",
+  "constituency": "Shravanabelagol",
+  "district": "Hassan",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "12 May 2018",
+      "counting_date": "11 June 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 198781,
+        "total_votes_polled": 166355,
+        "turnout_percentage": 84.1,
+        "margin_votes": 53012,
+        "margin_percentage": 31.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "C N  Balakrishna",
+          "party": "Janata Dal (Secular)",
+          "votes": 105516,
+          "votes_percentage": 63.4
+        },
+        {
+          "position": 2,
+          "name": "C S Puttegowda",
+          "party": "Indian National Congress",
+          "votes": 52504,
+          "votes_percentage": 31.6
+        },
+        {
+          "position": 3,
+          "name": "Shivananjegowda",
+          "party": "Bharatiya Janta Party",
+          "votes": 7506,
+          "votes_percentage": 4.5
+        },
+        {
+          "position": 4,
+          "name": "Dwarakish",
+          "party": "All India Mahila Empowerment Party",
+          "votes": 415,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 5,
+          "name": "Bojegowda",
+          "party": "Samanya Janatha Party (Loktantrik)",
+          "votes": 414,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

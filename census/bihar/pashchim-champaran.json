@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 378678,
+        "male": 397353,
+        "percentage_of_total_population": 19.72,
+        "percentage_of_total_population_calculated": 19.72,
+        "percentage_of_total_population_stated": 19.72,
+        "sex_ratio": 953,
+        "total": 776031
+    },
+    "literacy": {
+        "female_literacy_rate": 44.69,
+        "female_literate": 668255,
+        "male_literacy_rate": 65.59,
+        "male_literate": 1091226,
+        "rate_percentage": 55.7,
+        "total_literate": 1759481
+    },
+    "population": {
+        "female": 1873932,
+        "male": 2061110,
+        "sex_ratio": 909,
+        "total": 3935042
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.03,
+            "population": 1337
+        },
+        "Christian": {
+            "percentage": 0.22,
+            "population": 8469
+        },
+        "Hindu": {
+            "percentage": 77.44,
+            "population": 3047427
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 296
+        },
+        "Muslims": {
+            "percentage": 21.98,
+            "population": 865090
+        },
+        "Not Stated": {
+            "percentage": 0.24,
+            "population": 9602
+        },
+        "Others": {
+            "percentage": 0.05,
+            "population": 1895
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 926
+        }
+    },
+    "rural": {
+        "child_population_female": 347862,
+        "child_population_male": 364155,
+        "child_population_percentage": 20.1,
+        "child_population_percentage_calculated": 20.1,
+        "child_population_percentage_stated": 20.1,
+        "child_population_total": 712017,
+        "child_sex_ratio": 955,
+        "female": 1688068,
+        "literacy_rate_female": 42.46,
+        "literacy_rate_male": 64.2,
+        "literacy_rate_percentage": 53.9,
+        "literate_female": 569011,
+        "literate_male": 956393,
+        "literate_total": 1525404,
+        "male": 1853809,
+        "percentage_population": 90.01,
+        "population": 3541877,
+        "sex_ratio": 911
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/55-pashchim-champaran.html",
+    "urban": {
+        "child_population_female": 30751,
+        "child_population_male": 33263,
+        "child_population_percentage": 16.28,
+        "child_population_percentage_calculated": 16.28,
+        "child_population_percentage_stated": 16.28,
+        "child_population_total": 64014,
+        "child_sex_ratio": 924,
+        "female": 185864,
+        "literacy_rate_female": 63.98,
+        "literacy_rate_male": 77.47,
+        "literacy_rate_percentage": 71.12,
+        "literate_female": 99244,
+        "literate_male": 134833,
+        "literate_total": 234077,
+        "male": 207301,
+        "percentage_population": 9.99,
+        "population": 393165,
+        "sex_ratio": 897
+    }
+}

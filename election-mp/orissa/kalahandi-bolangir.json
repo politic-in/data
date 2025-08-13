@@ -1,0 +1,48 @@
+{
+  "state": "Orissa",
+  "constituency": "KALAHANDI BOLANGIR",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 790404,
+        "total_votes_polled": 553858,
+        "turnout_percentage": 35.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Giridhari Bhoi",
+          "party": "All India Gantantra Parishad",
+          "votes": 198378,
+          "votes_percentage": 35.8
+        },
+        {
+          "position": 1,
+          "name": "Rajendra Narayan Singh Deo",
+          "party": "All India Gantantra Parishad",
+          "votes": 188116,
+          "votes_percentage": 34.0
+        },
+        {
+          "position": 3,
+          "name": "Jogeswara Kumra",
+          "party": "Indian National Congress",
+          "votes": 88689,
+          "votes_percentage": 16.0
+        },
+        {
+          "position": 4,
+          "name": "Udhistir Misra",
+          "party": "Indian National Congress",
+          "votes": 78675,
+          "votes_percentage": 14.2
+        }
+      ]
+    }
+  }
+}

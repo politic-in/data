@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 105670,
+        "male": 110650,
+        "percentage_of_total_population": 13.12,
+        "percentage_of_total_population_calculated": 13.12,
+        "percentage_of_total_population_stated": 13.12,
+        "sex_ratio": 955,
+        "total": 216320
+    },
+    "literacy": {
+        "female_literacy_rate": 53.5,
+        "female_literate": 381588,
+        "male_literacy_rate": 75.85,
+        "male_literate": 545672,
+        "rate_percentage": 64.72,
+        "total_literate": 927260
+    },
+    "population": {
+        "female": 818900,
+        "male": 830097,
+        "sex_ratio": 987,
+        "total": 1648997
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.03,
+            "population": 467
+        },
+        "Christian": {
+            "percentage": 0.99,
+            "population": 16271
+        },
+        "Hindu": {
+            "percentage": 98.13,
+            "population": 1618175
+        },
+        "Jain": {
+            "percentage": 0.13,
+            "population": 2225
+        },
+        "Muslims": {
+            "percentage": 0.47,
+            "population": 7811
+        },
+        "Not Stated": {
+            "percentage": 0.2,
+            "population": 3342
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 141
+        },
+        "Sikh": {
+            "percentage": 0.03,
+            "population": 565
+        }
+    },
+    "rural": {
+        "child_population_female": 95361,
+        "child_population_male": 99273,
+        "child_population_percentage": 13.41,
+        "child_population_percentage_calculated": 13.41,
+        "child_population_percentage_stated": 13.41,
+        "child_population_total": 194634,
+        "child_sex_ratio": 961,
+        "female": 722846,
+        "literacy_rate_female": 50.32,
+        "literacy_rate_male": 73.85,
+        "literacy_rate_percentage": 62.11,
+        "literate_female": 315775,
+        "literate_male": 464882,
+        "literate_total": 780657,
+        "male": 728770,
+        "percentage_population": 88.03,
+        "population": 1451616,
+        "sex_ratio": 992
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/417-balangir.html",
+    "urban": {
+        "child_population_female": 10301,
+        "child_population_male": 11385,
+        "child_population_percentage": 10.99,
+        "child_population_percentage_calculated": 10.99,
+        "child_population_percentage_stated": 10.99,
+        "child_population_total": 21686,
+        "child_sex_ratio": 905,
+        "female": 96054,
+        "literacy_rate_female": 76.75,
+        "literacy_rate_male": 89.82,
+        "literacy_rate_percentage": 83.44,
+        "literate_female": 65813,
+        "literate_male": 80790,
+        "literate_total": 146603,
+        "male": 101327,
+        "percentage_population": 11.97,
+        "population": 197381,
+        "sex_ratio": 948
+    }
+}

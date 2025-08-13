@@ -1,0 +1,509 @@
+{
+  "state": "Jharkhand",
+  "constituency": "Maheshpur",
+  "district": "Pakaur",
+  "ac_type": "ST",
+  "results": {
+    "2024": {
+      "poll_date": "20 November 2024",
+      "counting_date": "23 November 2024",
+      "total_contestants": 15,
+      "aggregate": {
+        "total_electors": 240082,
+        "total_votes_polled": 191440,
+        "turnout_percentage": 80.3,
+        "margin_votes": 61175,
+        "margin_percentage": 32.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Stephen Marandi",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 114924,
+          "votes_percentage": 59.6
+        },
+        {
+          "position": 2,
+          "name": "Navneet Anthony Hembrom",
+          "party": "Bharatiya Janta Party",
+          "votes": 53749,
+          "votes_percentage": 27.9
+        },
+        {
+          "position": 3,
+          "name": "Gopin Soren",
+          "party": "Communist Party Of India",
+          "votes": 5329,
+          "votes_percentage": 2.8
+        },
+        {
+          "position": 4,
+          "name": "Mistry Soren",
+          "party": "Bhartiya Azad Sena",
+          "votes": 5031,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 5,
+          "name": "Daud Marandi",
+          "party": "Samajwadi Party",
+          "votes": 2644,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 6,
+          "name": "Rephaeel Murmu",
+          "party": "Independent",
+          "votes": 2305,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 7,
+          "name": "Stefan Marandi",
+          "party": "Independent",
+          "votes": 1566,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 9,
+          "name": "Elian Hansdak",
+          "party": "Jharkhand People's Party",
+          "votes": 1241,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 10,
+          "name": "Madan Murmu",
+          "party": "Independent",
+          "votes": 970,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 11,
+          "name": "Kameshwar Hansda",
+          "party": "Ambedkarite Party Of India",
+          "votes": 810,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 12,
+          "name": "Elias Kisku",
+          "party": "Independent",
+          "votes": 807,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 13,
+          "name": "Elias Hembrom",
+          "party": "Independent",
+          "votes": 637,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 14,
+          "name": "Gabriel Hembrom",
+          "party": "Independent",
+          "votes": 523,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 15,
+          "name": "Budhan Marandi",
+          "party": "Independent",
+          "votes": 505,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 16,
+          "name": "Gangaram Kisku",
+          "party": "Independent",
+          "votes": 399,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2020": {
+      "poll_date": "08 February 2020",
+      "counting_date": "11 February 2020",
+      "total_contestants": 12,
+      "aggregate": {
+        "total_electors": 212256,
+        "total_votes_polled": 163427,
+        "turnout_percentage": 81.2,
+        "margin_votes": 34106,
+        "margin_percentage": 20.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Stephen Marandi",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 89197,
+          "votes_percentage": 54.6
+        },
+        {
+          "position": 2,
+          "name": "Mistry Soren",
+          "party": "Bharatiya Janta Party",
+          "votes": 55091,
+          "votes_percentage": 33.7
+        },
+        {
+          "position": 3,
+          "name": "Gopin Soren",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 5176,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 4,
+          "name": "Shivdhan Hembrom",
+          "party": "Jharkhand Vikas Morcha (Prajatantrik)",
+          "votes": 2860,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 5,
+          "name": "Suphal Marandi",
+          "party": "Ajsu Party",
+          "votes": 2706,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 6,
+          "name": "Stefan Marandi",
+          "party": "Independent",
+          "votes": 1551,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 7,
+          "name": "Origanesh Hembrom",
+          "party": "Jharkhand People's Party",
+          "votes": 1360,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 8,
+          "name": "Jantu Soren",
+          "party": "Janata Dal (United)",
+          "votes": 1237,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 9,
+          "name": "Shankar Pahariya",
+          "party": "Bahujan Samaj Party",
+          "votes": 1175,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 10,
+          "name": "Elias Kisku",
+          "party": "Independent",
+          "votes": 1101,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 11,
+          "name": "Saiman Murmu",
+          "party": "All India Trinamool Congress",
+          "votes": 1048,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 12,
+          "name": "Saul Hansda",
+          "party": "Independent",
+          "votes": 925,
+          "votes_percentage": 0.6
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "20 December 2014",
+      "counting_date": "24 December 2014",
+      "total_contestants": 12,
+      "aggregate": {
+        "total_electors": 201331,
+        "total_votes_polled": 160831,
+        "turnout_percentage": 79.9,
+        "total_valid_votes": 158304,
+        "total_valid_votes_percentage": 78.6,
+        "margin_votes": 6156,
+        "margin_percentage": 3.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Stephen Marandi",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 51866,
+          "votes_percentage": 32.3
+        },
+        {
+          "position": 2,
+          "name": "Devidhan Tudu",
+          "party": "Bharatiya Janta Party",
+          "votes": 45710,
+          "votes_percentage": 28.4
+        },
+        {
+          "position": 3,
+          "name": "Mistri Soren",
+          "party": "Jharkhand Vikas Morcha (Prajatantrik)",
+          "votes": 31276,
+          "votes_percentage": 19.5
+        },
+        {
+          "position": 4,
+          "name": "Gamelina Soren",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 8798,
+          "votes_percentage": 5.5
+        },
+        {
+          "position": 5,
+          "name": "Devilal Murmu",
+          "party": "Indian National Congress",
+          "votes": 5814,
+          "votes_percentage": 3.6
+        },
+        {
+          "position": 6,
+          "name": "Dijen Hembrom",
+          "party": "Independent",
+          "votes": 4782,
+          "votes_percentage": 3.0
+        },
+        {
+          "position": 7,
+          "name": "Daud Marandi",
+          "party": "Samajwadi Party",
+          "votes": 3717,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 8,
+          "name": "Haridas Murmu",
+          "party": "Independent",
+          "votes": 1615,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 9,
+          "name": "Kalidas Tudu",
+          "party": "Independent",
+          "votes": 1335,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 10,
+          "name": "Ramen Murmu",
+          "party": "Independent",
+          "votes": 1271,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 11,
+          "name": "Samuel Tudu",
+          "party": "Bahujan Samaj Party",
+          "votes": 1109,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 12,
+          "name": "Stefan Marandi",
+          "party": "All India Forward Bloc",
+          "votes": 1011,
+          "votes_percentage": 0.6
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "25 November 2009",
+      "counting_date": "23 December 2009",
+      "total_contestants": 14,
+      "aggregate": {
+        "total_electors": 174460,
+        "total_votes_polled": 113529,
+        "turnout_percentage": 65.1,
+        "total_valid_votes": 113505,
+        "total_valid_votes_percentage": 65.1,
+        "margin_votes": 21974,
+        "margin_percentage": 19.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mistri Soren",
+          "party": "Jharkhand Vikas Morcha (Prajatantrik)",
+          "votes": 50746,
+          "votes_percentage": 44.7
+        },
+        {
+          "position": 2,
+          "name": "Devidhan Tudu",
+          "party": "Bharatiya Janta Party",
+          "votes": 28772,
+          "votes_percentage": 25.3
+        },
+        {
+          "position": 3,
+          "name": "Durga Marandi",
+          "party": "All India Trinamool Congress",
+          "votes": 15840,
+          "votes_percentage": 14.0
+        },
+        {
+          "position": 4,
+          "name": "Gopin Soren",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 3616,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 5,
+          "name": "Daud Marandi",
+          "party": "Independent",
+          "votes": 2625,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 6,
+          "name": "Stefan Marandi",
+          "party": "Independent",
+          "votes": 1879,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 7,
+          "name": "Ameliya Hansda",
+          "party": "Revolutionary Socialist Party",
+          "votes": 1807,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 8,
+          "name": "Saimon Murmu",
+          "party": "Jharkhand Party",
+          "votes": 1390,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 9,
+          "name": "Kandana Hembrom",
+          "party": "Independent",
+          "votes": 1344,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 10,
+          "name": "Subasten Kisku",
+          "party": "Independent",
+          "votes": 1222,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 11,
+          "name": "Samson Hansda",
+          "party": "Independent",
+          "votes": 1214,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 12,
+          "name": "Pramodini Hembrom",
+          "party": "Independent",
+          "votes": 1193,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 13,
+          "name": "Anthoni Utpal Marandi",
+          "party": "Bahujan Samaj Party",
+          "votes": 1183,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 14,
+          "name": "Mekael Hembrom",
+          "party": "Independent",
+          "votes": 698,
+          "votes_percentage": 0.6
+        }
+      ]
+    },
+    "2005": {
+      "poll_date": "02 March 2005",
+      "counting_date": "27 February 2005",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 172991,
+        "total_votes_polled": 108444,
+        "turnout_percentage": 62.7,
+        "margin_votes": 12816,
+        "margin_percentage": 11.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Suphal Marandi",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 45520,
+          "votes_percentage": 42.0
+        },
+        {
+          "position": 2,
+          "name": "Debidhan Besra",
+          "party": "Bharatiya Janta Party",
+          "votes": 32704,
+          "votes_percentage": 30.2
+        },
+        {
+          "position": 3,
+          "name": "Mistry Soren",
+          "party": "All Jharkhand Students Union",
+          "votes": 13812,
+          "votes_percentage": 12.7
+        },
+        {
+          "position": 4,
+          "name": "Gopin Soren",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 8525,
+          "votes_percentage": 7.9
+        },
+        {
+          "position": 5,
+          "name": "Ismail Soren",
+          "party": "Jharkhand Disom Party",
+          "votes": 2686,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 6,
+          "name": "Shreechand Tudu",
+          "party": "Bahujan Samaj Party",
+          "votes": 2139,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 7,
+          "name": "Junesh Murmu",
+          "party": "Independent",
+          "votes": 1851,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 8,
+          "name": "Stephan Tudu",
+          "party": "Jharkhand People's Party",
+          "votes": 1207,
+          "votes_percentage": 1.1
+        }
+      ]
+    }
+  }
+}

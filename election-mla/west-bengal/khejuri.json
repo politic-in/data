@@ -1,0 +1,92 @@
+{
+  "state": "West Bengal",
+  "constituency": "Khejuri",
+  "district": "Purba Medinipur",
+  "ac_type": "SC",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 228219,
+        "total_votes_polled": 211485,
+        "turnout_percentage": 93.2,
+        "margin_votes": 17965,
+        "margin_percentage": 8.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Santanu Pramanik",
+          "party": "Bharatiya Janta Party",
+          "votes": 110407,
+          "votes_percentage": 52.2
+        },
+        {
+          "position": 2,
+          "name": "Partha Pratim Das",
+          "party": "All India Trinamool Congress",
+          "votes": 92442,
+          "votes_percentage": 43.7
+        },
+        {
+          "position": 3,
+          "name": "Himangshu Das",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 7812,
+          "votes_percentage": 3.7
+        },
+        {
+          "position": 4,
+          "name": "Somnath Mandal",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 824,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 177602,
+        "total_votes_polled": 165369,
+        "turnout_percentage": 93.1,
+        "margin_votes": 16160,
+        "margin_percentage": 9.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ranajit Mondal",
+          "party": "All India Trinamool Congress",
+          "votes": 87833,
+          "votes_percentage": 53.1
+        },
+        {
+          "position": 2,
+          "name": "Asim Kumar Mandal",
+          "party": "Samajwadi Party",
+          "votes": 71673,
+          "votes_percentage": 43.3
+        },
+        {
+          "position": 3,
+          "name": "Kalipada Mandal",
+          "party": "Bharatiya Janta Party",
+          "votes": 3924,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 4,
+          "name": "Sachchidananda Das",
+          "party": "Independent",
+          "votes": 1939,
+          "votes_percentage": 1.2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 74253,
+        "male": 77428,
+        "percentage_of_total_population": 15.86,
+        "percentage_of_total_population_calculated": 15.86,
+        "percentage_of_total_population_stated": 15.86,
+        "sex_ratio": 959,
+        "total": 151681
+    },
+    "literacy": {
+        "female_literacy_rate": 62.0,
+        "female_literate": 242961,
+        "male_literacy_rate": 76.14,
+        "male_literate": 314253,
+        "rate_percentage": 69.25,
+        "total_literate": 557214
+    },
+    "population": {
+        "female": 466146,
+        "male": 490167,
+        "sex_ratio": 951,
+        "total": 956313
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.65,
+            "population": 6260
+        },
+        "Christian": {
+            "percentage": 16.5,
+            "population": 157789
+        },
+        "Hindu": {
+            "percentage": 80.1,
+            "population": 766000
+        },
+        "Jain": {
+            "percentage": 0.04,
+            "population": 397
+        },
+        "Muslims": {
+            "percentage": 2.12,
+            "population": 20290
+        },
+        "Not Stated": {
+            "percentage": 0.17,
+            "population": 1639
+        },
+        "Others": {
+            "percentage": 0.37,
+            "population": 3568
+        },
+        "Sikh": {
+            "percentage": 0.04,
+            "population": 370
+        }
+    },
+    "rural": {
+        "child_population_female": 67848,
+        "child_population_male": 70559,
+        "child_population_percentage": 16.41,
+        "child_population_percentage_calculated": 16.41,
+        "child_population_percentage_stated": 16.41,
+        "child_population_total": 138407,
+        "child_sex_ratio": 962,
+        "female": 411423,
+        "literacy_rate_female": 59.05,
+        "literacy_rate_male": 73.95,
+        "literacy_rate_percentage": 66.69,
+        "literate_female": 202896,
+        "literate_male": 267214,
+        "literate_total": 470110,
+        "male": 431924,
+        "percentage_population": 88.19,
+        "population": 843347,
+        "sex_ratio": 953
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/157-karbi-anglong.html",
+    "urban": {
+        "child_population_female": 6405,
+        "child_population_male": 6869,
+        "child_population_percentage": 11.75,
+        "child_population_percentage_calculated": 11.75,
+        "child_population_percentage_stated": 11.75,
+        "child_population_total": 13274,
+        "child_sex_ratio": 932,
+        "female": 54723,
+        "literacy_rate_female": 82.92,
+        "literacy_rate_male": 91.56,
+        "literacy_rate_percentage": 87.37,
+        "literate_female": 40065,
+        "literate_male": 47039,
+        "literate_total": 87104,
+        "male": 58243,
+        "percentage_population": 11.81,
+        "population": 112966,
+        "sex_ratio": 940
+    }
+}

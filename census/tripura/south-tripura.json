@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 54569,
+        "male": 57380,
+        "percentage_of_total_population": 12.78,
+        "percentage_of_total_population_calculated": 12.78,
+        "percentage_of_total_population_stated": 12.78,
+        "sex_ratio": 951,
+        "total": 111949
+    },
+    "literacy": {
+        "female_literacy_rate": 79.09,
+        "female_literate": 295728,
+        "male_literacy_rate": 89.98,
+        "male_literate": 351082,
+        "rate_percentage": 84.66,
+        "total_literate": 646810
+    },
+    "population": {
+        "female": 428457,
+        "male": 447544,
+        "sex_ratio": 957,
+        "total": 876001
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 5.64,
+            "population": 49420
+        },
+        "Christian": {
+            "percentage": 4.48,
+            "population": 39258
+        },
+        "Hindu": {
+            "percentage": 84.02,
+            "population": 736015
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 106
+        },
+        "Muslims": {
+            "percentage": 5.62,
+            "population": 49258
+        },
+        "Not Stated": {
+            "percentage": 0.1,
+            "population": 891
+        },
+        "Others": {
+            "percentage": 0.09,
+            "population": 808
+        },
+        "Sikh": {
+            "percentage": 0.03,
+            "population": 245
+        }
+    },
+    "rural": {
+        "child_population_female": 48895,
+        "child_population_male": 51240,
+        "child_population_percentage": 13.3,
+        "child_population_percentage_calculated": 13.3,
+        "child_population_percentage_stated": 13.3,
+        "child_population_total": 100135,
+        "child_sex_ratio": 954,
+        "female": 368183,
+        "literacy_rate_female": 77.07,
+        "literacy_rate_male": 88.99,
+        "literacy_rate_percentage": 83.16,
+        "literate_female": 246066,
+        "literate_male": 296820,
+        "literate_total": 542886,
+        "male": 384787,
+        "percentage_population": 85.96,
+        "population": 752970,
+        "sex_ratio": 957
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/458-south-tripura.html",
+    "urban": {
+        "child_population_female": 5672,
+        "child_population_male": 6142,
+        "child_population_percentage": 9.6,
+        "child_population_percentage_calculated": 9.6,
+        "child_population_percentage_stated": 9.6,
+        "child_population_total": 11814,
+        "child_sex_ratio": 923,
+        "female": 60274,
+        "literacy_rate_female": 90.95,
+        "literacy_rate_male": 95.84,
+        "literacy_rate_percentage": 93.44,
+        "literate_female": 49662,
+        "literate_male": 54262,
+        "literate_total": 103924,
+        "male": 62757,
+        "percentage_population": 14.04,
+        "population": 123031,
+        "sex_ratio": 960
+    }
+}

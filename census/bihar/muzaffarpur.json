@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 403907,
+        "male": 441428,
+        "percentage_of_total_population": 17.61,
+        "percentage_of_total_population_calculated": 17.61,
+        "percentage_of_total_population_stated": 17.61,
+        "sex_ratio": 915,
+        "total": 845335
+    },
+    "literacy": {
+        "female_literacy_rate": 54.67,
+        "female_literate": 1022115,
+        "male_literacy_rate": 71.28,
+        "male_literate": 1487117,
+        "rate_percentage": 63.43,
+        "total_literate": 2509232
+    },
+    "population": {
+        "female": 2273565,
+        "male": 2527497,
+        "sex_ratio": 900,
+        "total": 4801062
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 288
+        },
+        "Christian": {
+            "percentage": 0.11,
+            "population": 5149
+        },
+        "Hindu": {
+            "percentage": 84.0,
+            "population": 4032773
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 382
+        },
+        "Muslims": {
+            "percentage": 15.53,
+            "population": 745546
+        },
+        "Not Stated": {
+            "percentage": 0.33,
+            "population": 15893
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 98
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 933
+        }
+    },
+    "rural": {
+        "child_population_female": 374003,
+        "child_population_male": 407934,
+        "child_population_percentage": 18.07,
+        "child_population_percentage_calculated": 18.07,
+        "child_population_percentage_stated": 18.07,
+        "child_population_total": 781937,
+        "child_sex_ratio": 917,
+        "female": 2050813,
+        "literacy_rate_female": 52.27,
+        "literacy_rate_male": 69.77,
+        "literacy_rate_percentage": 61.5,
+        "literate_female": 876417,
+        "literate_male": 1304006,
+        "literate_total": 2180423,
+        "male": 2276812,
+        "percentage_population": 90.14,
+        "population": 4327625,
+        "sex_ratio": 901
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/68-muzaffarpur.html",
+    "urban": {
+        "child_population_female": 29993,
+        "child_population_male": 33405,
+        "child_population_percentage": 13.39,
+        "child_population_percentage_calculated": 13.39,
+        "child_population_percentage_stated": 13.39,
+        "child_population_total": 63398,
+        "child_sex_ratio": 898,
+        "female": 222752,
+        "literacy_rate_female": 75.59,
+        "literacy_rate_male": 84.27,
+        "literacy_rate_percentage": 80.19,
+        "literate_female": 145698,
+        "literate_male": 183111,
+        "literate_total": 328809,
+        "male": 250685,
+        "percentage_population": 9.86,
+        "population": 473437,
+        "sex_ratio": 889
+    }
+}

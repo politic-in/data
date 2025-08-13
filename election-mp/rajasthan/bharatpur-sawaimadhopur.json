@@ -1,0 +1,48 @@
+{
+  "state": "Rajasthan",
+  "constituency": "BHARATPUR SAWAIMADHOPUR",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 748347,
+        "total_votes_polled": 687306,
+        "turnout_percentage": 45.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Girraj Sharan Singh",
+          "party": "Independent",
+          "votes": 196391,
+          "votes_percentage": 28.6
+        },
+        {
+          "position": 1,
+          "name": "Manak Chand",
+          "party": "Krishikar Lok Party",
+          "votes": 176395,
+          "votes_percentage": 25.7
+        },
+        {
+          "position": 3,
+          "name": "Amrit Lal Yadav",
+          "party": "Indian National Congress",
+          "votes": 176121,
+          "votes_percentage": 25.6
+        },
+        {
+          "position": 4,
+          "name": "Raj Bahadur",
+          "party": "Indian National Congress",
+          "votes": 138399,
+          "votes_percentage": 20.1
+        }
+      ]
+    }
+  }
+}

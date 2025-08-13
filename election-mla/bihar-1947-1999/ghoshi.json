@@ -1,0 +1,50 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "Ghoshi",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 119289,
+        "total_votes_polled": 97825,
+        "turnout_percentage": 82.0,
+        "margin_votes": 8863,
+        "margin_percentage": 9.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jagdish Sharma",
+          "party": "Janta Party",
+          "votes": 52424,
+          "votes_percentage": 54.0
+        },
+        {
+          "position": 2,
+          "name": "Ramashray Pd. Ansari",
+          "party": "Communist Party Of India",
+          "votes": 43561,
+          "votes_percentage": 44.9
+        },
+        {
+          "position": 3,
+          "name": "Md. Hussain Ansari",
+          "party": "Independent",
+          "votes": 786,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 4,
+          "name": "Gajendra Prasad",
+          "party": "Independent",
+          "votes": 363,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

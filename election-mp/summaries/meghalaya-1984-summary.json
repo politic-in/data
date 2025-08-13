@@ -1,0 +1,45 @@
+{
+  "state": "Meghalaya",
+  "year": "1984",
+  "summary_stats": {
+    "total_electors_state": 751283,
+    "total_votes_polled_state": 409212,
+    "turnout_percentage_state": 54.5,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Shillong",
+      "ac_no": 1,
+      "ac_type": "ST",
+      "district": "Meghalaya",
+      "winning_candidate": "G.G.Swell",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 469793,
+      "total_votes_ac": 261564,
+      "poll_percentage_ac": 0.0,
+      "margin": 50826,
+      "margin_percentage": 19.4,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1984/meghalaya/shillong/3706/44/8"
+    },
+    {
+      "ac_name": "Tura",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Meghalaya",
+      "winning_candidate": "Purno Agitok Sangma",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 281490,
+      "total_votes_ac": 147648,
+      "poll_percentage_ac": 0.0,
+      "margin": 78738,
+      "margin_percentage": 53.3,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1984/meghalaya/tura/3707/44/8"
+    }
+  ]
+}

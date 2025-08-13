@@ -1,0 +1,64 @@
+{
+  "state": "West Bengal",
+  "constituency": "MATIGARA-NAXALBARI (SC)",
+  "district": "Darjiling",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 243265,
+        "total_votes_polled": 206070,
+        "turnout_percentage": 86.1,
+        "margin_votes": 18627,
+        "margin_percentage": 9.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sankar Malakar",
+          "party": "Indian National Congress",
+          "votes": 86441,
+          "votes_percentage": 42.0
+        },
+        {
+          "position": 2,
+          "name": "Amar Sinha",
+          "party": "All India Trinamool Congress",
+          "votes": 67814,
+          "votes_percentage": 32.9
+        },
+        {
+          "position": 3,
+          "name": "Anandamoy Barman",
+          "party": "Bharatiya Janta Party",
+          "votes": 44625,
+          "votes_percentage": 21.7
+        },
+        {
+          "position": 5,
+          "name": "Sudip Mandal",
+          "party": "Bahujan Samaj Party",
+          "votes": 1849,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Goutam Kirtania",
+          "party": "Independent",
+          "votes": 1739,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 7,
+          "name": "Kshitish Chandra Roy",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1138,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

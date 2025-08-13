@@ -1,0 +1,71 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Re vadar",
+  "district": "Sirohi",
+  "ac_type": "SC",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 245175,
+        "total_votes_polled": 170712,
+        "turnout_percentage": 72.1,
+        "margin_votes": 14604,
+        "margin_percentage": 8.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jagasi Ram",
+          "party": "Bharatiya Janta Party",
+          "votes": 87861,
+          "votes_percentage": 51.5
+        },
+        {
+          "position": 2,
+          "name": "Neeraj Dangi",
+          "party": "Indian National Congress",
+          "votes": 73257,
+          "votes_percentage": 42.9
+        },
+        {
+          "position": 3,
+          "name": "Narayan Lal",
+          "party": "Independent",
+          "votes": 3328,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 4,
+          "name": "Radheshyam",
+          "party": "Bahujan Samaj Party",
+          "votes": 2395,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 5,
+          "name": "Sukhraj",
+          "party": "Aam Aadmi Party",
+          "votes": 1817,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Heera Lal",
+          "party": "Shiv Sena",
+          "votes": 1342,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 7,
+          "name": "Shivlal Jeengar",
+          "party": "Bharatiya Yuva Shakti",
+          "votes": 712,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

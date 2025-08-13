@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 82783,
+        "male": 98551,
+        "percentage_of_total_population": 10.96,
+        "percentage_of_total_population_calculated": 10.96,
+        "percentage_of_total_population_stated": 10.96,
+        "sex_ratio": 840,
+        "total": 181334
+    },
+    "literacy": {
+        "female_literacy_rate": 62.17,
+        "female_literate": 431664,
+        "male_literacy_rate": 73.18,
+        "male_literate": 570413,
+        "rate_percentage": 67.99,
+        "total_literate": 1002077
+    },
+    "population": {
+        "female": 777140,
+        "male": 878029,
+        "sex_ratio": 885,
+        "total": 1655169
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 268
+        },
+        "Christian": {
+            "percentage": 0.15,
+            "population": 2406
+        },
+        "Hindu": {
+            "percentage": 23.53,
+            "population": 389410
+        },
+        "Jain": {
+            "percentage": 0.19,
+            "population": 3222
+        },
+        "Muslims": {
+            "percentage": 10.82,
+            "population": 179116
+        },
+        "Not Stated": {
+            "percentage": 0.14,
+            "population": 2271
+        },
+        "Others": {
+            "percentage": 0.06,
+            "population": 1038
+        },
+        "Sikh": {
+            "percentage": 65.1,
+            "population": 1077438
+        }
+    },
+    "rural": {
+        "child_population_female": 55357,
+        "child_population_male": 66967,
+        "child_population_percentage": 10.74,
+        "child_population_percentage_calculated": 10.74,
+        "child_population_percentage_stated": 10.74,
+        "child_population_total": 122324,
+        "child_sex_ratio": 827,
+        "female": 534551,
+        "literacy_rate_female": 58.7,
+        "literacy_rate_male": 70.22,
+        "literacy_rate_percentage": 64.79,
+        "literate_female": 281270,
+        "literate_male": 377587,
+        "literate_total": 658857,
+        "male": 604653,
+        "percentage_population": 68.83,
+        "population": 1139204,
+        "sex_ratio": 884
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/606-sangrur.html",
+    "urban": {
+        "child_population_female": 27430,
+        "child_population_male": 31580,
+        "child_population_percentage": 11.44,
+        "child_population_percentage_calculated": 11.44,
+        "child_population_percentage_stated": 11.44,
+        "child_population_total": 59010,
+        "child_sex_ratio": 869,
+        "female": 242589,
+        "literacy_rate_female": 69.9,
+        "literacy_rate_male": 79.75,
+        "literacy_rate_percentage": 75.11,
+        "literate_female": 150394,
+        "literate_male": 192826,
+        "literate_total": 343220,
+        "male": 273376,
+        "percentage_population": 31.17,
+        "population": 515965,
+        "sex_ratio": 887
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 149707,
+        "male": 160285,
+        "percentage_of_total_population": 11.31,
+        "percentage_of_total_population_calculated": 11.31,
+        "percentage_of_total_population_stated": 11.31,
+        "sex_ratio": 934,
+        "total": 309992
+    },
+    "literacy": {
+        "female_literacy_rate": 51.31,
+        "female_literate": 626997,
+        "male_literacy_rate": 70.81,
+        "male_literate": 856350,
+        "rate_percentage": 61.01,
+        "total_literate": 1483347
+    },
+    "population": {
+        "female": 1371642,
+        "male": 1369597,
+        "sex_ratio": 1001,
+        "total": 2741239
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.93,
+            "population": 25510
+        },
+        "Christian": {
+            "percentage": 0.56,
+            "population": 15422
+        },
+        "Hindu": {
+            "percentage": 87.55,
+            "population": 2399901
+        },
+        "Jain": {
+            "percentage": 0.02,
+            "population": 617
+        },
+        "Muslims": {
+            "percentage": 10.07,
+            "population": 275970
+        },
+        "Not Stated": {
+            "percentage": 0.81,
+            "population": 22120
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 322
+        },
+        "Sikh": {
+            "percentage": 0.05,
+            "population": 1377
+        }
+    },
+    "rural": {
+        "child_population_female": 113289,
+        "child_population_male": 120918,
+        "child_population_percentage": 11.82,
+        "child_population_percentage_calculated": 11.82,
+        "child_population_percentage_stated": 11.82,
+        "child_population_total": 234207,
+        "child_sex_ratio": 937,
+        "female": 995677,
+        "literacy_rate_female": 44.95,
+        "literacy_rate_male": 65.83,
+        "literacy_rate_percentage": 55.29,
+        "literate_female": 396674,
+        "literate_male": 569033,
+        "literate_total": 965707,
+        "male": 985303,
+        "percentage_population": 72.27,
+        "population": 1980980,
+        "sex_ratio": 1011
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/118-adilabad.html",
+    "urban": {
+        "child_population_female": 36412,
+        "child_population_male": 39373,
+        "child_population_percentage": 9.97,
+        "child_population_percentage_calculated": 9.97,
+        "child_population_percentage_stated": 9.97,
+        "child_population_total": 75785,
+        "child_sex_ratio": 925,
+        "female": 375965,
+        "literacy_rate_female": 67.83,
+        "literacy_rate_male": 83.3,
+        "literacy_rate_percentage": 75.63,
+        "literate_female": 230323,
+        "literate_male": 287317,
+        "literate_total": 517640,
+        "male": 384294,
+        "percentage_population": 27.73,
+        "population": 760259,
+        "sex_ratio": 978
+    }
+}

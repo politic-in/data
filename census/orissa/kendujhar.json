@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 127526,
+        "male": 131877,
+        "percentage_of_total_population": 14.4,
+        "percentage_of_total_population_calculated": 14.4,
+        "percentage_of_total_population_stated": 14.4,
+        "sex_ratio": 967,
+        "total": 259403
+    },
+    "literacy": {
+        "female_literacy_rate": 58.28,
+        "female_literate": 447399,
+        "male_literacy_rate": 78.12,
+        "male_literate": 605119,
+        "rate_percentage": 68.24,
+        "total_literate": 1052518
+    },
+    "population": {
+        "female": 895246,
+        "male": 906487,
+        "sex_ratio": 988,
+        "total": 1801733
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 209
+        },
+        "Christian": {
+            "percentage": 0.51,
+            "population": 9141
+        },
+        "Hindu": {
+            "percentage": 97.28,
+            "population": 1752694
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 131
+        },
+        "Muslims": {
+            "percentage": 1.54,
+            "population": 27752
+        },
+        "Not Stated": {
+            "percentage": 0.13,
+            "population": 2257
+        },
+        "Others": {
+            "percentage": 0.41,
+            "population": 7372
+        },
+        "Sikh": {
+            "percentage": 0.12,
+            "population": 2177
+        }
+    },
+    "rural": {
+        "child_population_female": 110830,
+        "child_population_male": 114111,
+        "child_population_percentage": 14.52,
+        "child_population_percentage_calculated": 14.52,
+        "child_population_percentage_stated": 14.52,
+        "child_population_total": 224941,
+        "child_sex_ratio": 971,
+        "female": 774007,
+        "literacy_rate_female": 56.3,
+        "literacy_rate_male": 76.8,
+        "literacy_rate_percentage": 66.53,
+        "literate_female": 373373,
+        "literate_male": 507316,
+        "literate_total": 880689,
+        "male": 774667,
+        "percentage_population": 85.95,
+        "population": 1548674,
+        "sex_ratio": 999
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/399-kendujhar.html",
+    "urban": {
+        "child_population_female": 16688,
+        "child_population_male": 17774,
+        "child_population_percentage": 13.62,
+        "child_population_percentage_calculated": 13.62,
+        "child_population_percentage_stated": 13.62,
+        "child_population_total": 34462,
+        "child_sex_ratio": 939,
+        "female": 121239,
+        "literacy_rate_female": 70.8,
+        "literacy_rate_male": 85.76,
+        "literacy_rate_percentage": 78.61,
+        "literate_female": 74026,
+        "literate_male": 97803,
+        "literate_total": 171829,
+        "male": 131820,
+        "percentage_population": 14.05,
+        "population": 253059,
+        "sex_ratio": 920
+    }
+}

@@ -1,0 +1,85 @@
+{
+  "state": "Chhattisgarh",
+  "constituency": "Champa",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2003": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 164786,
+        "total_votes_polled": 122241,
+        "turnout_percentage": 74.2,
+        "margin_votes": 7710,
+        "margin_percentage": 6.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Moti Lal",
+          "party": "Indian National Congress",
+          "votes": 52075,
+          "votes_percentage": 42.6
+        },
+        {
+          "position": 2,
+          "name": "Narayan Prasad",
+          "party": "Bharatiya Janta Party",
+          "votes": 44365,
+          "votes_percentage": 36.3
+        },
+        {
+          "position": 3,
+          "name": "Udal",
+          "party": "Bahujan Samaj Party",
+          "votes": 15009,
+          "votes_percentage": 12.3
+        },
+        {
+          "position": 4,
+          "name": "Shashi",
+          "party": "Nationalist Congress Party",
+          "votes": 4695,
+          "votes_percentage": 3.8
+        },
+        {
+          "position": 5,
+          "name": "Santosh Kumar",
+          "party": "Independent",
+          "votes": 2227,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 6,
+          "name": "Saheblal",
+          "party": "Independent",
+          "votes": 1314,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 7,
+          "name": "Saheb Lal Sahu",
+          "party": "Independent",
+          "votes": 1184,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 8,
+          "name": "Hariom",
+          "party": "Samajwadi Party",
+          "votes": 697,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 9,
+          "name": "Balram",
+          "party": "Loktantrik Samajwadi Party",
+          "votes": 619,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

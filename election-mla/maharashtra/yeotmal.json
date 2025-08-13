@@ -1,0 +1,78 @@
+{
+  "state": "Maharashtra",
+  "constituency": "Yeotmal",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 110172,
+        "total_votes_polled": 51191,
+        "turnout_percentage": 46.5,
+        "margin_votes": 26762,
+        "margin_percentage": 52.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Trambak Dattatrya Deshmukh Alias Abasaheb Parwekar",
+          "party": "Indian National Congress (I)",
+          "votes": 35868,
+          "votes_percentage": 71.3
+        },
+        {
+          "position": 2,
+          "name": "Bhore Devidas Shamrao",
+          "party": "Independent",
+          "votes": 9106,
+          "votes_percentage": 18.1
+        },
+        {
+          "position": 3,
+          "name": "Sitaram Rangappa Kaushik",
+          "party": "Bharatiya Janta Party",
+          "votes": 3185,
+          "votes_percentage": 6.3
+        },
+        {
+          "position": 4,
+          "name": "Tiwari Rajkishor Matasaran",
+          "party": "Janata Party (SECULAR) - CH. CHARAN SINGH",
+          "votes": 563,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Umashankar Babulal Dixit",
+          "party": "Independent",
+          "votes": 530,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Shantaram Laxmanrao Veti",
+          "party": "Independent",
+          "votes": 501,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 7,
+          "name": "Atram Shioram Kacharu",
+          "party": "Independent",
+          "votes": 491,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 8,
+          "name": "Ahir Jayanarayanji Bhairaoprasad",
+          "party": "Independent",
+          "votes": 49,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 163940,
+        "male": 181550,
+        "percentage_of_total_population": 14.23,
+        "percentage_of_total_population_calculated": 14.23,
+        "percentage_of_total_population_stated": 14.23,
+        "sex_ratio": 903,
+        "total": 345490
+    },
+    "literacy": {
+        "female_literacy_rate": 64.69,
+        "female_literate": 660109,
+        "male_literacy_rate": 86.44,
+        "male_literate": 918625,
+        "rate_percentage": 75.79,
+        "total_literate": 1578734
+    },
+    "population": {
+        "female": 1184358,
+        "male": 1244231,
+        "sex_ratio": 952,
+        "total": 2428589
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 168
+        },
+        "Christian": {
+            "percentage": 0.26,
+            "population": 6375
+        },
+        "Hindu": {
+            "percentage": 93.08,
+            "population": 2260560
+        },
+        "Jain": {
+            "percentage": 0.46,
+            "population": 11110
+        },
+        "Muslims": {
+            "percentage": 6.12,
+            "population": 148563
+        },
+        "Not Stated": {
+            "percentage": 0.05,
+            "population": 1147
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 52
+        },
+        "Sikh": {
+            "percentage": 0.03,
+            "population": 614
+        }
+    },
+    "rural": {
+        "child_population_female": 143793,
+        "child_population_male": 158074,
+        "child_population_percentage": 14.62,
+        "child_population_percentage_calculated": 14.62,
+        "child_population_percentage_stated": 14.62,
+        "child_population_total": 301867,
+        "child_sex_ratio": 910,
+        "female": 1008728,
+        "literacy_rate_female": 62.37,
+        "literacy_rate_male": 85.57,
+        "literacy_rate_percentage": 74.19,
+        "literate_female": 539484,
+        "literate_male": 768505,
+        "literate_total": 1307989,
+        "male": 1056141,
+        "percentage_population": 85.02,
+        "population": 2064869,
+        "sex_ratio": 955
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/186-sabarkantha.html",
+    "urban": {
+        "child_population_female": 20168,
+        "child_population_male": 23455,
+        "child_population_percentage": 11.99,
+        "child_population_percentage_calculated": 11.99,
+        "child_population_percentage_stated": 11.99,
+        "child_population_total": 43623,
+        "child_sex_ratio": 860,
+        "female": 175630,
+        "literacy_rate_female": 77.59,
+        "literacy_rate_male": 91.18,
+        "literacy_rate_percentage": 84.58,
+        "literate_female": 120625,
+        "literate_male": 150120,
+        "literate_total": 270745,
+        "male": 188090,
+        "percentage_population": 14.98,
+        "population": 363720,
+        "sex_ratio": 934
+    }
+}

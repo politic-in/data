@@ -1,0 +1,57 @@
+{
+  "state": "Goa, Daman And Diu",
+  "constituency": "Pernem",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 15427,
+        "total_votes_polled": 9404,
+        "turnout_percentage": 61.0,
+        "margin_votes": 2411,
+        "margin_percentage": 25.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mandrekar Deu Gunaji",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 4701,
+          "votes_percentage": 52.0
+        },
+        {
+          "position": 2,
+          "name": "Morajkar Ramdas Shankar",
+          "party": "Indian National Congress (I)",
+          "votes": 2290,
+          "votes_percentage": 25.3
+        },
+        {
+          "position": 3,
+          "name": "Rau Narayan Bhicaji",
+          "party": "Janta Party",
+          "votes": 1118,
+          "votes_percentage": 12.4
+        },
+        {
+          "position": 4,
+          "name": "Nipanikar Balaram Vishnu",
+          "party": "Independent",
+          "votes": 542,
+          "votes_percentage": 6.0
+        },
+        {
+          "position": 5,
+          "name": "Harijan Kashiram Ganpat",
+          "party": "Independent",
+          "votes": 398,
+          "votes_percentage": 4.4
+        }
+      ]
+    }
+  }
+}

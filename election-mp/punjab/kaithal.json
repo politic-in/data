@@ -1,0 +1,111 @@
+{
+  "state": "Punjab",
+  "constituency": "KAITHAL",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 518275,
+        "total_votes_polled": 360791,
+        "turnout_percentage": 69.6,
+        "margin_votes": 19603,
+        "margin_percentage": 5.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dev Dutt",
+          "party": "Indian National Congress",
+          "votes": 150127,
+          "votes_percentage": 41.6
+        },
+        {
+          "position": 2,
+          "name": "Inder Singh",
+          "party": "Swatantra",
+          "votes": 130524,
+          "votes_percentage": 36.2
+        },
+        {
+          "position": 3,
+          "name": "Birbal Dass",
+          "party": "Jan Sangh",
+          "votes": 38651,
+          "votes_percentage": 10.7
+        },
+        {
+          "position": 4,
+          "name": "Ser Singh",
+          "party": "Independent",
+          "votes": 11361,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 5,
+          "name": "Ram Chander Singh",
+          "party": "Akhil Bharatiya Ram Rajya Parishad",
+          "votes": 8023,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 6,
+          "name": "Om Dutt",
+          "party": "Independent",
+          "votes": 7243,
+          "votes_percentage": 2.0
+        }
+      ]
+    },
+    "1957": {
+      "poll_date": "25 February 1957",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 402728,
+        "total_votes_polled": 256120,
+        "turnout_percentage": 63.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mool Chand",
+          "party": "Indian National Congress",
+          "votes": 119388,
+          "votes_percentage": 46.6
+        },
+        {
+          "position": 2,
+          "name": "Birbal Dass",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 50787,
+          "votes_percentage": 19.8
+        },
+        {
+          "position": 3,
+          "name": "Ranpat Singh",
+          "party": "Independent",
+          "votes": 47203,
+          "votes_percentage": 18.4
+        },
+        {
+          "position": 4,
+          "name": "Sohan Lal",
+          "party": "All India Scheduled Caste Federation",
+          "votes": 38742,
+          "votes_percentage": 15.1
+        },
+        {
+          "position": 5,
+          "name": "Vijai Singh",
+          "party": "Independent",
+          "votes": 0,
+          "votes_percentage": 0.0
+        }
+      ]
+    }
+  }
+}

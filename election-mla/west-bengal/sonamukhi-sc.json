@@ -1,0 +1,50 @@
+{
+  "state": "West Bengal",
+  "constituency": "SONAMUKHI (SC)",
+  "district": "Bankura",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 209931,
+        "total_votes_polled": 182224,
+        "turnout_percentage": 89.1,
+        "margin_votes": 8719,
+        "margin_percentage": 4.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ajit Ray",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 86125,
+          "votes_percentage": 47.3
+        },
+        {
+          "position": 2,
+          "name": "Dipali Saha",
+          "party": "All India Trinamool Congress",
+          "votes": 77406,
+          "votes_percentage": 42.5
+        },
+        {
+          "position": 3,
+          "name": "Debjani Roy",
+          "party": "Bharatiya Janta Party",
+          "votes": 15118,
+          "votes_percentage": 8.3
+        },
+        {
+          "position": 4,
+          "name": "Jayanta Lohar",
+          "party": "Bahujan Samaj Party",
+          "votes": 3575,
+          "votes_percentage": 2.0
+        }
+      ]
+    }
+  }
+}

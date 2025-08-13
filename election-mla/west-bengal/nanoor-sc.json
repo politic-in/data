@@ -1,0 +1,50 @@
+{
+  "state": "West Bengal",
+  "constituency": "NANOOR (SC)",
+  "district": "Birbhum",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 250489,
+        "total_votes_polled": 204122,
+        "turnout_percentage": 83.2,
+        "margin_votes": 25730,
+        "margin_percentage": 12.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shyamali Pradhan",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 104374,
+          "votes_percentage": 51.1
+        },
+        {
+          "position": 2,
+          "name": "Gadadhar Hazra",
+          "party": "All India Trinamool Congress",
+          "votes": 78644,
+          "votes_percentage": 38.5
+        },
+        {
+          "position": 3,
+          "name": "Tarakeswar Saha",
+          "party": "Bharatiya Janta Party",
+          "votes": 18502,
+          "votes_percentage": 9.1
+        },
+        {
+          "position": 4,
+          "name": "Sebashish Bagdi",
+          "party": "Independent",
+          "votes": 2602,
+          "votes_percentage": 1.3
+        }
+      ]
+    }
+  }
+}

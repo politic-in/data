@@ -1,0 +1,100 @@
+{
+    "child_population": {
+        "female": 2251,
+        "male": 2302,
+        "percentage_of_total_population": 10.89,
+        "percentage_of_total_population_calculated": 10.89,
+        "percentage_of_total_population_stated": 10.89,
+        "sex_ratio": 978,
+        "total": 4553
+    },
+    "literacy": {
+        "female_literacy_rate": 97.25,
+        "female_literate": 19860,
+        "male_literacy_rate": 98.63,
+        "male_literate": 16610,
+        "rate_percentage": 97.87,
+        "total_literate": 36470
+    },
+    "population": {
+        "female": 22673,
+        "male": 19143,
+        "sex_ratio": 1184,
+        "total": 41816
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.05,
+            "population": 21
+        },
+        "Christian": {
+            "percentage": 2.29,
+            "population": 958
+        },
+        "Hindu": {
+            "percentage": 66.82,
+            "population": 27940
+        },
+        "Jain": {
+            "percentage": 0.03,
+            "population": 14
+        },
+        "Muslims": {
+            "percentage": 30.74,
+            "population": 12856
+        },
+        "Not Stated": {
+            "percentage": 0.05,
+            "population": 21
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 3
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 3
+        }
+    },
+    "rural": {
+        "child_population_female": 0,
+        "child_population_male": 0,
+        "child_population_percentage": 0.0,
+        "child_population_percentage_stated": 0.0,
+        "child_population_total": 0,
+        "child_sex_ratio": 0,
+        "female": 0,
+        "literacy_rate_female": 0.0,
+        "literacy_rate_male": 0.0,
+        "literacy_rate_percentage": 0.0,
+        "literate_female": 0,
+        "literate_male": 0,
+        "literate_total": 0,
+        "male": 0,
+        "percentage_population": 0.0,
+        "population": 0,
+        "sex_ratio": 0
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/483-mahe.html",
+    "urban": {
+        "child_population_female": 2251,
+        "child_population_male": 2302,
+        "child_population_percentage": 10.89,
+        "child_population_percentage_calculated": 10.89,
+        "child_population_percentage_stated": 10.89,
+        "child_population_total": 4553,
+        "child_sex_ratio": 978,
+        "female": 22673,
+        "literacy_rate_female": 97.25,
+        "literacy_rate_male": 98.63,
+        "literacy_rate_percentage": 97.87,
+        "literate_female": 19860,
+        "literate_male": 16610,
+        "literate_total": 36470,
+        "male": 19143,
+        "percentage_population": 100.0,
+        "population": 41816,
+        "sex_ratio": 1184
+    }
+}

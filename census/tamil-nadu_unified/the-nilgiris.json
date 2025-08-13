@@ -1,0 +1,101 @@
+{
+    "district": "The Nilgiris",
+    "state": "Tamil Nadu",
+    "source_census2011": "https://www.census2011.co.in/census/district/31-the-nilgiris.html",
+    "source_secondary": "https://www.censusindia.co.in/district/the-nilgiris-district-tamil-nadu-611",
+    "population": {
+        "total": 735394,
+        "male": 360143,
+        "female": 375251,
+        "sex_ratio": 1042
+    },
+    "child_population": {
+        "total": 66799,
+        "male": 33648,
+        "female": 33151,
+        "sex_ratio": 985,
+        "percentage_of_total_population": 9.08,
+        "percentage_of_total_population_calculated": 9.08,
+        "percentage_of_total_population_stated": 9.08
+    },
+    "literacy": {
+        "rate_percentage": 85.2,
+        "male_literacy_rate": 91.72,
+        "female_literacy_rate": 78.98,
+        "total_literate": 569647,
+        "male_literate": 299447,
+        "female_literate": 270200
+    },
+    "religion": {
+        "Hindu": {
+            "population": 569477,
+            "percentage": 77.44
+        },
+        "Muslims": {
+            "population": 78452,
+            "percentage": 10.67
+        },
+        "Christian": {
+            "population": 84610,
+            "percentage": 11.51
+        },
+        "Sikh": {
+            "population": 338,
+            "percentage": 0.05
+        },
+        "Buddhist": {
+            "population": 382,
+            "percentage": 0.05
+        },
+        "Jain": {
+            "population": 910,
+            "percentage": 0.12
+        },
+        "Others": {
+            "population": 87,
+            "percentage": 0.01
+        },
+        "Not Stated": {
+            "population": 1138,
+            "percentage": 0.15
+        }
+    },
+    "rural": {
+        "population": 299739,
+        "male": 145909,
+        "female": 153830,
+        "sex_ratio": 1054,
+        "percentage_population": 40.76,
+        "literacy_rate_percentage": 81.17,
+        "literacy_rate_male": 0,
+        "literacy_rate_female": 0,
+        "literate_total": 221955,
+        "literate_male": 118463,
+        "literate_female": 103492
+    },
+    "urban": {
+        "population": 435655,
+        "male": 214234,
+        "female": 221421,
+        "sex_ratio": 1034,
+        "percentage_population": 59.24,
+        "literacy_rate_percentage": 87.99,
+        "literacy_rate_male": 0,
+        "literacy_rate_female": 0,
+        "literate_total": 347692,
+        "literate_male": 180984,
+        "literate_female": 166708
+    },
+    "scheduled_caste": {
+        "total": 235878,
+        "percentage_of_total_population": 32.1,
+        "male": 115917,
+        "female": 119961
+    },
+    "scheduled_tribe": {
+        "total": 32813,
+        "percentage_of_total_population": 4.5,
+        "male": 16091,
+        "female": 16722
+    }
+}

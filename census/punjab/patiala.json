@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 97001,
+        "male": 115891,
+        "percentage_of_total_population": 11.23,
+        "percentage_of_total_population_calculated": 11.23,
+        "percentage_of_total_population_stated": 11.23,
+        "sex_ratio": 837,
+        "total": 212892
+    },
+    "literacy": {
+        "female_literacy_rate": 69.8,
+        "female_literate": 555739,
+        "male_literacy_rate": 80.2,
+        "male_literate": 711052,
+        "rate_percentage": 75.28,
+        "total_literate": 1266791
+    },
+    "population": {
+        "female": 893164,
+        "male": 1002522,
+        "sex_ratio": 891,
+        "total": 1895686
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 245
+        },
+        "Christian": {
+            "percentage": 0.3,
+            "population": 5683
+        },
+        "Hindu": {
+            "percentage": 41.32,
+            "population": 783306
+        },
+        "Jain": {
+            "percentage": 0.1,
+            "population": 1914
+        },
+        "Muslims": {
+            "percentage": 2.11,
+            "population": 40043
+        },
+        "Not Stated": {
+            "percentage": 0.17,
+            "population": 3141
+        },
+        "Others": {
+            "percentage": 0.07,
+            "population": 1410
+        },
+        "Sikh": {
+            "percentage": 55.91,
+            "population": 1059944
+        }
+    },
+    "rural": {
+        "child_population_female": 60898,
+        "child_population_male": 73596,
+        "child_population_percentage": 11.88,
+        "child_population_percentage_calculated": 11.88,
+        "child_population_percentage_stated": 11.88,
+        "child_population_total": 134494,
+        "child_sex_ratio": 827,
+        "female": 533606,
+        "literacy_rate_female": 62.49,
+        "literacy_rate_male": 74.91,
+        "literacy_rate_percentage": 69.03,
+        "literate_female": 295398,
+        "literate_male": 393440,
+        "literate_total": 688838,
+        "male": 598800,
+        "percentage_population": 59.74,
+        "population": 1132406,
+        "sex_ratio": 891
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/601-patiala.html",
+    "urban": {
+        "child_population_female": 36077,
+        "child_population_male": 42321,
+        "child_population_percentage": 10.27,
+        "child_population_percentage_calculated": 10.27,
+        "child_population_percentage_stated": 10.27,
+        "child_population_total": 78398,
+        "child_sex_ratio": 852,
+        "female": 359558,
+        "literacy_rate_female": 80.48,
+        "literacy_rate_male": 87.88,
+        "literacy_rate_percentage": 84.39,
+        "literate_female": 260341,
+        "literate_male": 317612,
+        "literate_total": 577953,
+        "male": 403722,
+        "percentage_population": 40.26,
+        "population": 763280,
+        "sex_ratio": 891
+    }
+}

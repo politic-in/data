@@ -1,0 +1,57 @@
+{
+  "state": "Assam",
+  "constituency": "Diphu (ST)",
+  "district": "Karbi Anglong",
+  "ac_type": "ST",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 171751,
+        "total_votes_polled": 135459,
+        "turnout_percentage": 80.5,
+        "margin_votes": 28236,
+        "margin_percentage": 20.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sum Ronghang",
+          "party": "Bharatiya Janta Party",
+          "votes": 64421,
+          "votes_percentage": 47.6
+        },
+        {
+          "position": 2,
+          "name": "Bidya Sing Engleng",
+          "party": "Indian National Congress",
+          "votes": 36185,
+          "votes_percentage": 26.7
+        },
+        {
+          "position": 3,
+          "name": "Dr. Jayanta Rongpi",
+          "party": "Independent",
+          "votes": 31647,
+          "votes_percentage": 23.4
+        },
+        {
+          "position": 4,
+          "name": "Dipendra Rongpi",
+          "party": "Lok Jan Shakti Party",
+          "votes": 1975,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Mary Kramsapi",
+          "party": "Jan Congress Party",
+          "votes": 1231,
+          "votes_percentage": 0.9
+        }
+      ]
+    }
+  }
+}

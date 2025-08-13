@@ -1,0 +1,99 @@
+{
+  "state": "Assam",
+  "constituency": "Moriani",
+  "district": "Jorhat",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 113990,
+        "total_votes_polled": 93782,
+        "turnout_percentage": 84.1,
+        "margin_votes": 2446,
+        "margin_percentage": 2.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rupjyoti Kurmi",
+          "party": "Indian National Congress",
+          "votes": 47308,
+          "votes_percentage": 50.4
+        },
+        {
+          "position": 2,
+          "name": "Ramani Tanti",
+          "party": "Bharatiya Janta Party",
+          "votes": 44862,
+          "votes_percentage": 47.8
+        },
+        {
+          "position": 3,
+          "name": "Gopal Chandra Ghatuwar",
+          "party": "Asom Songrami Mancha(Asom)",
+          "votes": 1612,
+          "votes_percentage": 1.7
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "04 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 104283,
+        "total_votes_polled": 76178,
+        "turnout_percentage": 73.1,
+        "margin_votes": 7058,
+        "margin_percentage": 9.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rupjyoti Kurmi",
+          "party": "Indian National Congress",
+          "votes": 35754,
+          "votes_percentage": 46.9
+        },
+        {
+          "position": 2,
+          "name": "Alak Kumar Ghose",
+          "party": "All India Trinamool Congress",
+          "votes": 28696,
+          "votes_percentage": 37.7
+        },
+        {
+          "position": 3,
+          "name": "Dulen Nayak",
+          "party": "Asom Gana Parisad",
+          "votes": 3961,
+          "votes_percentage": 5.2
+        },
+        {
+          "position": 4,
+          "name": "Santanu Kumar Gogoi",
+          "party": "Bharatiya Janta Party",
+          "votes": 3376,
+          "votes_percentage": 4.4
+        },
+        {
+          "position": 5,
+          "name": "Sanjib Gogoi",
+          "party": "Independent",
+          "votes": 3320,
+          "votes_percentage": 4.4
+        },
+        {
+          "position": 6,
+          "name": "June Tanti",
+          "party": "Independent",
+          "votes": 1071,
+          "votes_percentage": 1.4
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "state": "Maharashtra",
+  "constituency": "VANDRE WEST",
+  "district": "Mumbai (Suburban)",
+  "ac_type": "GEN",
+  "results": {
+    "2024": {
+      "poll_date": "20 November 2024",
+      "counting_date": "23 November 2024",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 288746,
+        "total_votes_polled": 147454,
+        "turnout_percentage": 51.7,
+        "margin_votes": 19931,
+        "margin_percentage": 13.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Adv. Ashish Shelar",
+          "party": "Bharatiya Janta Party",
+          "votes": 82780,
+          "votes_percentage": 55.5
+        },
+        {
+          "position": 2,
+          "name": "Asif Ahmed Zakaria",
+          "party": "Indian National Congress",
+          "votes": 62849,
+          "votes_percentage": 42.1
+        },
+        {
+          "position": 4,
+          "name": "Aijaz Iqbal Qureshi",
+          "party": "Bahujan Samaj Party",
+          "votes": 472,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 5,
+          "name": "Istiyaque Bashir Jagirdar",
+          "party": "Aazad Samaj Party (Kanshi Ram)",
+          "votes": 364,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 6,
+          "name": "Kadri Vazir Mohammed",
+          "party": "Independent",
+          "votes": 287,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Andalib Majrooh Sultanpuri",
+          "party": "Rashtriya Ulama Council",
+          "votes": 221,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "Dattatreya Dasharat Tavare",
+          "party": "Independent",
+          "votes": 169,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Bharati Naik",
+          "party": "Rashtriya Swarajya Sena",
+          "votes": 163,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Ashfaque Ahmed Shaikh",
+          "party": "Independent",
+          "votes": 76,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Mohammed Ilyas Ahmed Shaikh",
+          "party": "Bahujan Maha Party",
+          "votes": 73,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2019": {
+      "poll_date": "21 October 2019",
+      "counting_date": "24 October 2019",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 295586,
+        "total_votes_polled": 127473,
+        "turnout_percentage": 44.3,
+        "margin_votes": 26507,
+        "margin_percentage": 20.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Adv. Ashish Babaji Shelar",
+          "party": "Bharatiya Janta Party",
+          "votes": 74816,
+          "votes_percentage": 58.7
+        },
+        {
+          "position": 2,
+          "name": "Asif Ahmed Zakaria",
+          "party": "Indian National Congress",
+          "votes": 48309,
+          "votes_percentage": 37.9
+        },
+        {
+          "position": 3,
+          "name": "Istiyak Bashir Jagirdar",
+          "party": "Vanchit Bahujan Aaghadi",
+          "votes": 3312,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 4,
+          "name": "Arun Vitthal Jadhav",
+          "party": "Bahujan Samaj Party",
+          "votes": 1036,
+          "votes_percentage": 0.8
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "15 October 2014",
+      "counting_date": "19 October 2014",
+      "total_contestants": 13,
+      "aggregate": {
+        "total_electors": 286425,
+        "total_votes_polled": 146830,
+        "turnout_percentage": 51.8,
+        "total_valid_votes": 145295,
+        "total_valid_votes_percentage": 50.7,
+        "margin_votes": 26911,
+        "margin_percentage": 18.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Av. Ashish Shelar",
+          "party": "Bharatiya Janta Party",
+          "votes": 74779,
+          "votes_percentage": 50.9
+        },
+        {
+          "position": 2,
+          "name": "Baba Ziauddin Siddique",
+          "party": "Indian National Congress",
+          "votes": 47868,
+          "votes_percentage": 32.6
+        },
+        {
+          "position": 3,
+          "name": "Chawri Vilas Sitaram",
+          "party": "Shiv Sena",
+          "votes": 14156,
+          "votes_percentage": 9.6
+        },
+        {
+          "position": 4,
+          "name": "Tushar Madhav Aphale",
+          "party": "Maharashtra Navnirman Sena",
+          "votes": 3116,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 5,
+          "name": "Asif Bhamla",
+          "party": "Nationalist Congress Party",
+          "votes": 2387,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 6,
+          "name": "Adv. Shane Cardoz",
+          "party": "Independent",
+          "votes": 1197,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 7,
+          "name": "Amar Krishna Chafe",
+          "party": "Bahujan Samaj Party",
+          "votes": 1053,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 8,
+          "name": "Ajaysingh Lalji Singh",
+          "party": "Bahujan Vikas Aaghadi",
+          "votes": 232,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Kishor Anant Loke",
+          "party": "Independent",
+          "votes": 121,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Sameer Rai",
+          "party": "Peace Party",
+          "votes": 117,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Anoj Bhimsen More",
+          "party": "Republican Sena",
+          "votes": 113,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Vijay V. Gore",
+          "party": "All India Forward Bloc",
+          "votes": 81,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Azimuddin Khan",
+          "party": "The Lok Party Of India",
+          "votes": 75,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "13 October 2009",
+      "counting_date": "22 October 2009",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 297919,
+        "total_votes_polled": 128245,
+        "turnout_percentage": 43.1,
+        "total_valid_votes": 128233,
+        "total_valid_votes_percentage": 43.0,
+        "margin_votes": 1691,
+        "margin_percentage": 1.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "(BABA) ZIAUDDIN SIDDIQUE",
+          "party": "Indian National Congress",
+          "votes": 59659,
+          "votes_percentage": 46.5
+        },
+        {
+          "position": 2,
+          "name": "Adv. Ashish Shelar",
+          "party": "Bharatiya Janta Party",
+          "votes": 57968,
+          "votes_percentage": 45.2
+        },
+        {
+          "position": 3,
+          "name": "Khan Rahebar (RAJA)",
+          "party": "Independent",
+          "votes": 5132,
+          "votes_percentage": 4.0
+        },
+        {
+          "position": 4,
+          "name": "Rizwan Merchant",
+          "party": "Samajwadi Party",
+          "votes": 1862,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Tejpal Singh Chadha",
+          "party": "Bahujan Samaj Party",
+          "votes": 1248,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Shah Bharat Meghji",
+          "party": "Independent",
+          "votes": 933,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Lokre Nisar Mohd. Salim",
+          "party": "Independent",
+          "votes": 863,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 8,
+          "name": "Khaire Ganeshvishwanath",
+          "party": "Independent",
+          "votes": 235,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Malati Uttamrao Bedse",
+          "party": "Independent",
+          "votes": 202,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Yadav Sanjay Kamlakar",
+          "party": "Independent",
+          "votes": 143,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

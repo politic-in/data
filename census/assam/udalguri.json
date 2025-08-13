@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 55862,
+        "male": 57412,
+        "percentage_of_total_population": 13.62,
+        "percentage_of_total_population_calculated": 13.62,
+        "percentage_of_total_population_stated": 13.62,
+        "sex_ratio": 973,
+        "total": 113274
+    },
+    "literacy": {
+        "female_literacy_rate": 58.05,
+        "female_literate": 205600,
+        "male_literacy_rate": 72.58,
+        "male_literate": 264326,
+        "rate_percentage": 65.41,
+        "total_literate": 469926
+    },
+    "population": {
+        "female": 410051,
+        "male": 421617,
+        "sex_ratio": 973,
+        "total": 831668
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.2,
+            "population": 1681
+        },
+        "Christian": {
+            "percentage": 13.25,
+            "population": 110215
+        },
+        "Hindu": {
+            "percentage": 73.64,
+            "population": 612425
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 124
+        },
+        "Muslims": {
+            "percentage": 12.66,
+            "population": 105319
+        },
+        "Not Stated": {
+            "percentage": 0.18,
+            "population": 1460
+        },
+        "Others": {
+            "percentage": 0.03,
+            "population": 229
+        },
+        "Sikh": {
+            "percentage": 0.03,
+            "population": 215
+        }
+    },
+    "rural": {
+        "child_population_female": 54059,
+        "child_population_male": 55594,
+        "child_population_percentage": 13.81,
+        "child_population_percentage_calculated": 13.81,
+        "child_population_percentage_stated": 13.81,
+        "child_population_total": 109653,
+        "child_sex_ratio": 972,
+        "female": 391652,
+        "literacy_rate_female": 56.92,
+        "literacy_rate_male": 71.75,
+        "literacy_rate_percentage": 64.43,
+        "literate_female": 192154,
+        "literate_male": 248863,
+        "literate_total": 441017,
+        "male": 402442,
+        "percentage_population": 95.48,
+        "population": 794094,
+        "sex_ratio": 973
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/167-udalguri.html",
+    "urban": {
+        "child_population_female": 1805,
+        "child_population_male": 1816,
+        "child_population_percentage": 9.64,
+        "child_population_percentage_calculated": 9.64,
+        "child_population_percentage_stated": 9.64,
+        "child_population_total": 3621,
+        "child_sex_ratio": 994,
+        "female": 18399,
+        "literacy_rate_female": 81.03,
+        "literacy_rate_male": 89.08,
+        "literacy_rate_percentage": 85.14,
+        "literate_female": 13446,
+        "literate_male": 15463,
+        "literate_total": 28909,
+        "male": 19175,
+        "percentage_population": 4.52,
+        "population": 37574,
+        "sex_ratio": 960
+    }
+}

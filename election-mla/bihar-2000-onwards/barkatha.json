@@ -1,0 +1,78 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "Barkatha",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 193875,
+        "total_votes_polled": 117863,
+        "turnout_percentage": 60.8,
+        "margin_votes": 875,
+        "margin_percentage": 0.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bhubneshwar Prasad Mehta",
+          "party": "Communist Party Of India",
+          "votes": 33169,
+          "votes_percentage": 28.6
+        },
+        {
+          "position": 2,
+          "name": "Khagendra Prasad",
+          "party": "Bharatiya Janta Party",
+          "votes": 32294,
+          "votes_percentage": 27.8
+        },
+        {
+          "position": 3,
+          "name": "Janki Yadav",
+          "party": "Rashtriya Janata Dal",
+          "votes": 23562,
+          "votes_percentage": 20.3
+        },
+        {
+          "position": 4,
+          "name": "Basudeo Yadav",
+          "party": "Indian National Congress",
+          "votes": 16392,
+          "votes_percentage": 14.1
+        },
+        {
+          "position": 5,
+          "name": "Tuklal Nayak",
+          "party": "Bahujan Samaj Party",
+          "votes": 5493,
+          "votes_percentage": 4.7
+        },
+        {
+          "position": 6,
+          "name": "Birbal Prasad Mehta",
+          "party": "Nationalist Congress Party",
+          "votes": 2863,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 7,
+          "name": "Fuleshwar Ram",
+          "party": "Independent",
+          "votes": 1497,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 8,
+          "name": "Gajanand Singh",
+          "party": "Independent",
+          "votes": 719,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

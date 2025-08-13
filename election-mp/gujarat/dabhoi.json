@@ -1,0 +1,78 @@
+{
+  "state": "Gujarat",
+  "constituency": "DABHOI",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 478771,
+        "total_votes_polled": 314222,
+        "turnout_percentage": 65.6,
+        "margin_votes": 29675,
+        "margin_percentage": 9.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Prabhudas Khushalbhai Patel",
+          "party": "Indian National Congress",
+          "votes": 163779,
+          "votes_percentage": 52.1
+        },
+        {
+          "position": 2,
+          "name": "Manubhai Motibhai Patel",
+          "party": "Indian National Congress (ORGANISATION)",
+          "votes": 134104,
+          "votes_percentage": 42.7
+        },
+        {
+          "position": 3,
+          "name": "Kailasprasad Mishrilal Joshi",
+          "party": "Independent",
+          "votes": 2718,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 4,
+          "name": "Mohanbhai Jesangbhai Vasava",
+          "party": "Independent",
+          "votes": 1925,
+          "votes_percentage": 0.6
+        }
+      ]
+    },
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 458775,
+        "total_votes_polled": 306310,
+        "turnout_percentage": 66.8,
+        "margin_votes": 27589,
+        "margin_percentage": 9.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "M.M. Patel",
+          "party": "Indian National Congress",
+          "votes": 159453,
+          "votes_percentage": 52.1
+        },
+        {
+          "position": 2,
+          "name": "P.K. Patel",
+          "party": "Swatantra",
+          "votes": 131864,
+          "votes_percentage": 43.0
+        }
+      ]
+    }
+  }
+}

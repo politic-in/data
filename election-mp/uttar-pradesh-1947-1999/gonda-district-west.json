@@ -1,0 +1,55 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "GONDA DISTRICT (WEST)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 380009,
+        "total_votes_polled": 131240,
+        "turnout_percentage": 34.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nayar Shakuntala",
+          "party": "Akhil Bharatiya Hindu Mahasabha",
+          "votes": 66330,
+          "votes_percentage": 50.5
+        },
+        {
+          "position": 2,
+          "name": "Tandon Lal Behar",
+          "party": "Indian National Congress",
+          "votes": 48111,
+          "votes_percentage": 36.7
+        },
+        {
+          "position": 3,
+          "name": "Krishna Kumar",
+          "party": "Socialist Party",
+          "votes": 7802,
+          "votes_percentage": 5.9
+        },
+        {
+          "position": 4,
+          "name": "Ram Behari",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 5272,
+          "votes_percentage": 4.0
+        },
+        {
+          "position": 5,
+          "name": "Hajela Mahadeo Pd.",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 3725,
+          "votes_percentage": 2.8
+        }
+      ]
+    }
+  }
+}

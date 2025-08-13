@@ -1,0 +1,85 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Sangariyaa",
+  "district": "Hanumangarh",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 228070,
+        "total_votes_polled": 198759,
+        "turnout_percentage": 88.0,
+        "margin_votes": 6538,
+        "margin_percentage": 3.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gurdeep Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 99064,
+          "votes_percentage": 49.8
+        },
+        {
+          "position": 2,
+          "name": "Shabnam Godara",
+          "party": "Indian National Congress",
+          "votes": 92526,
+          "votes_percentage": 46.6
+        },
+        {
+          "position": 3,
+          "name": "Balvir Singh",
+          "party": "Bahujan Samaj Party",
+          "votes": 2863,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 4,
+          "name": "Rupendra Singh",
+          "party": "Independent",
+          "votes": 2063,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Anil Kumar",
+          "party": "Aam Aadmi Party",
+          "votes": 995,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Vedprakash",
+          "party": "Independent",
+          "votes": 392,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Baljinder Singh",
+          "party": "Shiromani Akali Dal (Amritsar)(Simranjit Singh Mann)",
+          "votes": 364,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "Radhe Shyam",
+          "party": "Independent",
+          "votes": 304,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Rajender Kumar",
+          "party": "Dalit Kranti Dal",
+          "votes": 188,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

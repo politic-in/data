@@ -1,0 +1,64 @@
+{
+  "state": "Assam",
+  "constituency": "Udalguri (ST)",
+  "district": "Udalguri",
+  "ac_type": "ST",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 133923,
+        "total_votes_polled": 107539,
+        "turnout_percentage": 82.1,
+        "margin_votes": 24374,
+        "margin_percentage": 22.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rihon Daimari",
+          "party": "Bodaland Peoples Front",
+          "votes": 45037,
+          "votes_percentage": 41.9
+        },
+        {
+          "position": 2,
+          "name": "Anjali Prabha Daimari",
+          "party": "Independent",
+          "votes": 20663,
+          "votes_percentage": 19.2
+        },
+        {
+          "position": 3,
+          "name": "Dilip Kr. Baro",
+          "party": "Independent",
+          "votes": 20204,
+          "votes_percentage": 18.8
+        },
+        {
+          "position": 4,
+          "name": "Jaman Singh Brahma",
+          "party": "Indian National Congress",
+          "votes": 16343,
+          "votes_percentage": 15.2
+        },
+        {
+          "position": 5,
+          "name": "Bipul Narzary",
+          "party": "Independent",
+          "votes": 3624,
+          "votes_percentage": 3.4
+        },
+        {
+          "position": 6,
+          "name": "Santosh Madahi",
+          "party": "Independent",
+          "votes": 1668,
+          "votes_percentage": 1.6
+        }
+      ]
+    }
+  }
+}

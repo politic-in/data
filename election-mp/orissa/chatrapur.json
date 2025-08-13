@@ -1,0 +1,127 @@
+{
+  "state": "Orissa",
+  "constituency": "CHATRAPUR",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 559938,
+        "total_votes_polled": 259232,
+        "turnout_percentage": 46.3,
+        "margin_votes": 85933,
+        "margin_percentage": 33.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jaganath Rao R.",
+          "party": "Indian National Congress",
+          "votes": 150279,
+          "votes_percentage": 58.0
+        },
+        {
+          "position": 2,
+          "name": "Brundaban Naiyak",
+          "party": "Utkal Congress",
+          "votes": 64346,
+          "votes_percentage": 24.8
+        },
+        {
+          "position": 3,
+          "name": "Jaganath Mishra",
+          "party": "Independent",
+          "votes": 22956,
+          "votes_percentage": 8.9
+        },
+        {
+          "position": 4,
+          "name": "Ananta Tripathi Sarma",
+          "party": "Indian National Congress (ORGANISATION)",
+          "votes": 11534,
+          "votes_percentage": 4.4
+        }
+      ]
+    },
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 508555,
+        "total_votes_polled": 212036,
+        "turnout_percentage": 41.7,
+        "margin_votes": 41661,
+        "margin_percentage": 19.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "J. R. Rachakonda",
+          "party": "Indian National Congress",
+          "votes": 107071,
+          "votes_percentage": 50.5
+        },
+        {
+          "position": 2,
+          "name": "J. Praharaja",
+          "party": "Swatantra",
+          "votes": 65410,
+          "votes_percentage": 30.8
+        },
+        {
+          "position": 3,
+          "name": "C. Patro",
+          "party": "Independent",
+          "votes": 15184,
+          "votes_percentage": 7.2
+        },
+        {
+          "position": 4,
+          "name": "S. Misra",
+          "party": "Independent",
+          "votes": 13954,
+          "votes_percentage": 6.6
+        }
+      ]
+    },
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 413107,
+        "total_votes_polled": 82677,
+        "turnout_percentage": 20.0,
+        "margin_votes": 25215,
+        "margin_percentage": 30.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sarma Ananta Tripathy",
+          "party": "Indian National Congress",
+          "votes": 47958,
+          "votes_percentage": 58.0
+        },
+        {
+          "position": 2,
+          "name": "Harihara Das",
+          "party": "Swatantra",
+          "votes": 22743,
+          "votes_percentage": 27.5
+        },
+        {
+          "position": 3,
+          "name": "Naryan Sahu",
+          "party": "Socialist",
+          "votes": 9013,
+          "votes_percentage": 10.9
+        }
+      ]
+    }
+  }
+}

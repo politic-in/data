@@ -1,0 +1,50 @@
+{
+  "state": "Maharashtra",
+  "constituency": "Nazgaon",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 99349,
+        "total_votes_polled": 45276,
+        "turnout_percentage": 45.6,
+        "margin_votes": 8788,
+        "margin_percentage": 19.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Atmaram Tukaram Bhosale Alias Bhai Bhosale",
+          "party": "Indian National Congress (I)",
+          "votes": 19327,
+          "votes_percentage": 43.2
+        },
+        {
+          "position": 2,
+          "name": "Chandrakant Narayan Jagtap",
+          "party": "Bharatiya Janta Party",
+          "votes": 10539,
+          "votes_percentage": 23.6
+        },
+        {
+          "position": 3,
+          "name": "Bhosale Ravindra Laxman",
+          "party": "Indian National Congress (U)",
+          "votes": 8355,
+          "votes_percentage": 18.7
+        },
+        {
+          "position": 4,
+          "name": "Manjrekar Vilas Shankar",
+          "party": "Janata Party (JP)",
+          "votes": 6508,
+          "votes_percentage": 14.6
+        }
+      ]
+    }
+  }
+}

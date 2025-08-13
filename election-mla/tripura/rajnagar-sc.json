@@ -1,0 +1,57 @@
+{
+  "state": "Tripura",
+  "constituency": "Rajnagar (SC)",
+  "district": "South Tripura",
+  "ac_type": "SC",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 43615,
+        "total_votes_polled": 39316,
+        "turnout_percentage": 91.1,
+        "margin_votes": 5713,
+        "margin_percentage": 14.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sudhan Das",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 22004,
+          "votes_percentage": 56.0
+        },
+        {
+          "position": 2,
+          "name": "Bibhishan Chandra Das",
+          "party": "Bharatiya Janta Party",
+          "votes": 16291,
+          "votes_percentage": 41.4
+        },
+        {
+          "position": 3,
+          "name": "Manik Das",
+          "party": "Indian National Congress",
+          "votes": 459,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 5,
+          "name": "Uttam Dhupi",
+          "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+          "votes": 368,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Radha Rani Das (BHOWMIK)",
+          "party": "Independent",
+          "votes": 194,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

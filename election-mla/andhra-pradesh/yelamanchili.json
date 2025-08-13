@@ -1,0 +1,87 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Yelamanchili",
+  "district": "Visakhapatnam",
+  "ac_type": "GEN",
+  "results": {
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 174408,
+        "total_votes_polled": 145971,
+        "turnout_percentage": 83.7,
+        "total_valid_votes": 145773,
+        "total_valid_votes_percentage": 83.6,
+        "margin_votes": 10090,
+        "margin_percentage": 6.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Uppalapati Venkata Ramanamurthy Raju (Kannababu)",
+          "party": "Indian National Congress",
+          "votes": 53960,
+          "votes_percentage": 37.0
+        },
+        {
+          "position": 2,
+          "name": "Gonthina Venkata Nageswara Rao",
+          "party": "Praja Rajyam Party",
+          "votes": 43870,
+          "votes_percentage": 30.1
+        },
+        {
+          "position": 3,
+          "name": "Lalam Bhaskara Rao",
+          "party": "Telugu Desam",
+          "votes": 39525,
+          "votes_percentage": 27.1
+        },
+        {
+          "position": 4,
+          "name": "Kunduru Govindhu",
+          "party": "Trilinga Praja Pragati Party",
+          "votes": 2436,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 5,
+          "name": "Kandipalli Vara Lakshmi",
+          "party": "Bahujan Samaj Party",
+          "votes": 1465,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Vegi Someswara Rao",
+          "party": "Bharatiya Janta Party",
+          "votes": 1416,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 7,
+          "name": "Yallapu Bheema Venkateswara Rao",
+          "party": "Rashtriya Janata Dal",
+          "votes": 1261,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 8,
+          "name": "Chandra Sekhar Rao Rayavarapu",
+          "party": "Independent",
+          "votes": 1060,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 9,
+          "name": "Sarisa Leela Prasanna Kumari",
+          "party": "Pyramid Party Of India",
+          "votes": 780,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

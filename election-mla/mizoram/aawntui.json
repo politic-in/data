@@ -1,0 +1,57 @@
+{
+  "state": "Mizoram",
+  "constituency": "Aawntui",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 9259,
+        "total_votes_polled": 6185,
+        "turnout_percentage": 66.8,
+        "margin_votes": 95,
+        "margin_percentage": 1.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "K. Chawngliana",
+          "party": "Peoples Conference",
+          "votes": 2102,
+          "votes_percentage": 34.5
+        },
+        {
+          "position": 2,
+          "name": "Robert Lalchhuana",
+          "party": "Independent",
+          "votes": 2007,
+          "votes_percentage": 32.9
+        },
+        {
+          "position": 3,
+          "name": "Thanglawra",
+          "party": "Independent",
+          "votes": 992,
+          "votes_percentage": 16.3
+        },
+        {
+          "position": 4,
+          "name": "R. Dotinaia",
+          "party": "Independent",
+          "votes": 960,
+          "votes_percentage": 15.7
+        },
+        {
+          "position": 5,
+          "name": "R. Vanlawma",
+          "party": "Independent",
+          "votes": 39,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

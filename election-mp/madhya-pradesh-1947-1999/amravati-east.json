@@ -1,0 +1,41 @@
+{
+  "state": "Madhya Pradesh [1947   1999]",
+  "constituency": "AMRAVATI EAST",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 357241,
+        "total_votes_polled": 221630,
+        "turnout_percentage": 62.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Panjabrao Shamrao Deshmukh",
+          "party": "Indian National Congress",
+          "votes": 139120,
+          "votes_percentage": 62.8
+        },
+        {
+          "position": 2,
+          "name": "Gangabisen Maniklal Sikchi",
+          "party": "Independent",
+          "votes": 42472,
+          "votes_percentage": 19.2
+        },
+        {
+          "position": 3,
+          "name": "Deorao Balkrishna Sadatpure",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 40038,
+          "votes_percentage": 18.1
+        }
+      ]
+    }
+  }
+}

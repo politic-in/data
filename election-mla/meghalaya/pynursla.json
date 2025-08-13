@@ -1,0 +1,99 @@
+{
+  "state": "Meghalaya",
+  "constituency": "PYNURSLA",
+  "district": "East Khasi Hills",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 33193,
+        "total_votes_polled": 30030,
+        "turnout_percentage": 91.1,
+        "margin_votes": 2574,
+        "margin_percentage": 8.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Prestone Tynsong",
+          "party": "National People's Party",
+          "votes": 12807,
+          "votes_percentage": 42.6
+        },
+        {
+          "position": 2,
+          "name": "Nehru Suting",
+          "party": "United Democratic Party",
+          "votes": 10233,
+          "votes_percentage": 34.1
+        },
+        {
+          "position": 3,
+          "name": "Grace Mary Kharpuri",
+          "party": "Peoples Democratic Front",
+          "votes": 5295,
+          "votes_percentage": 17.6
+        },
+        {
+          "position": 4,
+          "name": "Dr. Jelington Ryngdong",
+          "party": "Indian National Congress",
+          "votes": 1141,
+          "votes_percentage": 3.8
+        },
+        {
+          "position": 5,
+          "name": "Banteilang Singh Rumnong",
+          "party": "Bharatiya Janta Party",
+          "votes": 355,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 7,
+          "name": "Denis Tynsiar",
+          "party": "Aam Aadmi Party",
+          "votes": 199,
+          "votes_percentage": 0.7
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "23 February 2013",
+      "counting_date": "28 February 2013",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 28527,
+        "total_votes_polled": 26600,
+        "turnout_percentage": 93.2,
+        "margin_votes": 4064,
+        "margin_percentage": 15.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Prestone Tynsong",
+          "party": "Indian National Congress",
+          "votes": 12251,
+          "votes_percentage": 46.1
+        },
+        {
+          "position": 2,
+          "name": "Banalari Khongwar",
+          "party": "United Democratic Party",
+          "votes": 8187,
+          "votes_percentage": 30.8
+        },
+        {
+          "position": 3,
+          "name": "Don Kupar Massar",
+          "party": "Independent",
+          "votes": 6162,
+          "votes_percentage": 23.2
+        }
+      ]
+    }
+  }
+}

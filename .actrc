@@ -1,0 +1,20 @@
+# act configuration for local GitHub Actions testing
+# Use medium sized images for better compatibility
+-P ubuntu-latest=catthehacker/ubuntu:act-latest
+-P ubuntu-22.04=catthehacker/ubuntu:act-22.04
+-P ubuntu-20.04=catthehacker/ubuntu:act-20.04
+
+# Set default platform
+--platform ubuntu-latest=catthehacker/ubuntu:act-latest
+
+# Enable verbose output for debugging
+#--verbose
+
+# Use local .env for secrets
+--secret-file .secrets
+
+# Use local .env for vars
+--var-file .vars
+
+# Reuse containers for faster iteration
+--reuse

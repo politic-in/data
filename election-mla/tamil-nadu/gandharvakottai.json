@@ -1,0 +1,78 @@
+{
+  "state": "Tamil Nadu",
+  "constituency": "Gandharvakottai",
+  "district": "Pudukkottai",
+  "ac_type": "SC",
+  "results": {
+    "2011": {
+      "poll_date": "13 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 152708,
+        "total_votes_polled": 122381,
+        "turnout_percentage": 80.1,
+        "margin_votes": 19699,
+        "margin_percentage": 16.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Subramanian. N",
+          "party": "All India Anna Dravida Munnetra Kazhagam",
+          "votes": 67128,
+          "votes_percentage": 54.9
+        },
+        {
+          "position": 2,
+          "name": "Kavithaipithan. S",
+          "party": "Dravida Munetra Kazhagam",
+          "votes": 47429,
+          "votes_percentage": 38.8
+        },
+        {
+          "position": 3,
+          "name": "Selvarani. R",
+          "party": "Indiya Jananayaka Katchi",
+          "votes": 2974,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 4,
+          "name": "Rethinam. V",
+          "party": "Independent",
+          "votes": 1357,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Murugesan. M",
+          "party": "Bahujan Samaj Party",
+          "votes": 1073,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Bharathy. K",
+          "party": "Independent",
+          "votes": 842,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Asaithambi. P",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 824,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 8,
+          "name": "Chitra. R",
+          "party": "Independent",
+          "votes": 754,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

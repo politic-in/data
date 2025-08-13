@@ -1,0 +1,82 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/politic-in/data/schemas/booth.schema.json",
+  "title": "Booth Data Schema",
+  "description": "Schema for validating booth/polling station data",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "partId",
+      "stateCd",
+      "districtCd",
+      "acNumber",
+      "partNumber",
+      "partName",
+      "acName",
+      "districtCode",
+      "districtName",
+      "stateCode",
+      "stateName"
+    ],
+    "properties": {
+      "partId": {
+        "type": "integer",
+        "minimum": 1,
+        "description": "Unique identifier for the polling booth part"
+      },
+      "stateCd": {
+        "type": "string",
+        "pattern": "^[SUsU][0-9]{2}$",
+        "description": "State/UT code in format S/s or U/u followed by 2 digits"
+      },
+      "districtCd": {
+        "type": "string",
+        "pattern": "^[SUsU][0-9]{4}$",
+        "description": "District code in format S/s or U/u followed by 4 digits"
+      },
+      "acNumber": {
+        "type": "integer",
+        "minimum": 1,
+        "description": "Assembly constituency number"
+      },
+      "partNumber": {
+        "type": "integer",
+        "minimum": 1,
+        "description": "Part number within the constituency"
+      },
+      "partName": {
+        "type": "string",
+        "minLength": 1,
+        "description": "Name of the polling booth/location"
+      },
+      "acName": {
+        "type": "string",
+        "minLength": 1,
+        "description": "Assembly constituency name"
+      },
+      "districtCode": {
+        "type": "string",
+        "pattern": "^[SUsU][0-9]{4}$",
+        "description": "District code (redundant with districtCd)"
+      },
+      "districtName": {
+        "type": "string",
+        "minLength": 1,
+        "description": "District name"
+      },
+      "stateCode": {
+        "type": "string",
+        "pattern": "^[SUsU][0-9]{2}$",
+        "description": "State/UT code (redundant with stateCd)"
+      },
+      "stateName": {
+        "type": "string",
+        "minLength": 1,
+        "description": "State name"
+      }
+    },
+    "additionalProperties": false
+  },
+  "minItems": 1
+}

@@ -1,0 +1,45 @@
+{
+  "state": "Arunachal Pradesh",
+  "year": "1991",
+  "summary_stats": {
+    "total_electors_state": 519315,
+    "total_votes_polled_state": 266324,
+    "turnout_percentage_state": 51.3,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Arunachal East",
+      "ac_no": 2,
+      "ac_type": "GEN",
+      "district": "Arunachal Pradesh",
+      "winning_candidate": "Laeta Umbrey",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 212830,
+      "total_votes_ac": 119376,
+      "poll_percentage_ac": 0.0,
+      "margin": 47863,
+      "margin_percentage": 40.1,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1991/arunachal-pradesh/arunachal-east/4522/41/10"
+    },
+    {
+      "ac_name": "Arunachal West",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Arunachal Pradesh",
+      "winning_candidate": "Prem Khandu Thungon",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 306485,
+      "total_votes_ac": 146948,
+      "poll_percentage_ac": 0.0,
+      "margin": 67581,
+      "margin_percentage": 46.0,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1991/arunachal-pradesh/arunachal-west/4521/41/10"
+    }
+  ]
+}

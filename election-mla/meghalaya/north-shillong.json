@@ -1,0 +1,50 @@
+{
+  "state": "Meghalaya",
+  "constituency": "North Shillong",
+  "district": "East Khasi Hills",
+  "ac_type": "ST",
+  "results": {
+    "2013": {
+      "poll_date": "23 February 2013",
+      "counting_date": "28 February 2013",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 24408,
+        "total_votes_polled": 17913,
+        "turnout_percentage": 73.4,
+        "margin_votes": 2180,
+        "margin_percentage": 12.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Roshan Warjri",
+          "party": "Indian National Congress",
+          "votes": 8445,
+          "votes_percentage": 47.1
+        },
+        {
+          "position": 2,
+          "name": "Adelbert Nongrum",
+          "party": "Khun Hynnieutrip National Awakaning Movement",
+          "votes": 6265,
+          "votes_percentage": 35.0
+        },
+        {
+          "position": 3,
+          "name": "Ibarilin Kharsati",
+          "party": "United Democratic Party",
+          "votes": 2587,
+          "votes_percentage": 14.4
+        },
+        {
+          "position": 4,
+          "name": "Philomath Passah",
+          "party": "National People's Party",
+          "votes": 616,
+          "votes_percentage": 3.4
+        }
+      ]
+    }
+  }
+}

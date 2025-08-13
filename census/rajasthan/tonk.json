@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 96196,
+        "male": 107842,
+        "percentage_of_total_population": 14.36,
+        "percentage_of_total_population_calculated": 14.36,
+        "percentage_of_total_population_stated": 14.36,
+        "sex_ratio": 892,
+        "total": 204038
+    },
+    "literacy": {
+        "female_literacy_rate": 45.45,
+        "female_literate": 271330,
+        "male_literacy_rate": 77.12,
+        "male_literate": 478329,
+        "rate_percentage": 61.58,
+        "total_literate": 749659
+    },
+    "population": {
+        "female": 693190,
+        "male": 728136,
+        "sex_ratio": 952,
+        "total": 1421326
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 122
+        },
+        "Christian": {
+            "percentage": 0.05,
+            "population": 754
+        },
+        "Hindu": {
+            "percentage": 87.49,
+            "population": 1243527
+        },
+        "Jain": {
+            "percentage": 1.58,
+            "population": 22458
+        },
+        "Muslims": {
+            "percentage": 10.77,
+            "population": 153146
+        },
+        "Not Stated": {
+            "percentage": 0.06,
+            "population": 911
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 30
+        },
+        "Sikh": {
+            "percentage": 0.03,
+            "population": 378
+        }
+    },
+    "rural": {
+        "child_population_female": 76207,
+        "child_population_male": 84980,
+        "child_population_percentage": 14.61,
+        "child_population_percentage_calculated": 14.61,
+        "child_population_percentage_stated": 14.61,
+        "child_population_total": 161187,
+        "child_sex_ratio": 897,
+        "female": 535558,
+        "literacy_rate_female": 39.66,
+        "literacy_rate_male": 75.46,
+        "literacy_rate_percentage": 58.01,
+        "literate_female": 182171,
+        "literate_male": 364531,
+        "literate_total": 546702,
+        "male": 568045,
+        "percentage_population": 77.65,
+        "population": 1103603,
+        "sex_ratio": 943
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/445-tonk.html",
+    "urban": {
+        "child_population_female": 19963,
+        "child_population_male": 22888,
+        "child_population_percentage": 13.49,
+        "child_population_percentage_calculated": 13.49,
+        "child_population_percentage_stated": 13.49,
+        "child_population_total": 42851,
+        "child_sex_ratio": 872,
+        "female": 157632,
+        "literacy_rate_female": 64.76,
+        "literacy_rate_male": 82.94,
+        "literacy_rate_percentage": 73.84,
+        "literate_female": 89159,
+        "literate_male": 113798,
+        "literate_total": 202957,
+        "male": 160091,
+        "percentage_population": 22.35,
+        "population": 317723,
+        "sex_ratio": 985
+    }
+}

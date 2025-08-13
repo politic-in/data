@@ -1,0 +1,45 @@
+{
+  "state": "Arunachal Pradesh",
+  "year": "1999",
+  "summary_stats": {
+    "total_electors_state": 611572,
+    "total_votes_polled_state": 441231,
+    "turnout_percentage_state": 72.1,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Arunachal East",
+      "ac_no": 2,
+      "ac_type": "GEN",
+      "district": "Arunachal Pradesh",
+      "winning_candidate": "Wangcha Rajkumar",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 265446,
+      "total_votes_ac": 196263,
+      "poll_percentage_ac": 0.0,
+      "margin": 41403,
+      "margin_percentage": 21.1,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1999/arunachal-pradesh/arunachal-east/6142/41/13"
+    },
+    {
+      "ac_name": "Arunachal West",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Arunachal Pradesh",
+      "winning_candidate": "Jarbom Gamlin",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 346126,
+      "total_votes_ac": 244968,
+      "poll_percentage_ac": 0.0,
+      "margin": 60723,
+      "margin_percentage": 24.8,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1999/arunachal-pradesh/arunachal-west/6141/41/13"
+    }
+  ]
+}

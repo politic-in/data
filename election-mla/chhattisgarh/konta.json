@@ -1,0 +1,134 @@
+{
+  "state": "Chhattisgarh",
+  "constituency": "Konta",
+  "district": "Dakshin Bastar Dantewada",
+  "ac_type": "ST",
+  "results": {
+    "2013": {
+      "poll_date": "11 November 2013",
+      "counting_date": "08 December 2013",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 156806,
+        "total_votes_polled": 71847,
+        "turnout_percentage": 48.4,
+        "margin_votes": 5786,
+        "margin_percentage": 8.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kawasi Lakhma",
+          "party": "Indian National Congress",
+          "votes": 27610,
+          "votes_percentage": 38.4
+        },
+        {
+          "position": 2,
+          "name": "Dhani Ram Barse",
+          "party": "Bharatiya Janta Party",
+          "votes": 21824,
+          "votes_percentage": 30.4
+        },
+        {
+          "position": 3,
+          "name": "Manish Kunjam",
+          "party": "Communist Party Of India",
+          "votes": 19834,
+          "votes_percentage": 27.6
+        },
+        {
+          "position": 4,
+          "name": "Hunga Ram Kartami",
+          "party": "Bahujan Samaj Party",
+          "votes": 2579,
+          "votes_percentage": 3.6
+        }
+      ]
+    },
+    "2008": {
+      "poll_date": "20 November 2008",
+      "counting_date": "08 December 2008",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 156952,
+        "total_votes_polled": 68889,
+        "turnout_percentage": 43.9,
+        "margin_votes": 192,
+        "margin_percentage": 0.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Lakhma Kawasi",
+          "party": "Indian National Congress",
+          "votes": 21630,
+          "votes_percentage": 31.4
+        },
+        {
+          "position": 2,
+          "name": "Padam Nanda",
+          "party": "Bharatiya Janta Party",
+          "votes": 21438,
+          "votes_percentage": 31.1
+        },
+        {
+          "position": 3,
+          "name": "Rama Sodi",
+          "party": "Communist Party Of India",
+          "votes": 20751,
+          "votes_percentage": 30.1
+        },
+        {
+          "position": 4,
+          "name": "Hungaram Kartami",
+          "party": "Bahujan Samaj Party",
+          "votes": 5070,
+          "votes_percentage": 7.4
+        }
+      ]
+    },
+    "2003": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 118715,
+        "total_votes_polled": 62218,
+        "turnout_percentage": 52.4,
+        "margin_votes": 17398,
+        "margin_percentage": 28.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kawasi Lakhma",
+          "party": "Indian National Congress",
+          "votes": 32067,
+          "votes_percentage": 51.5
+        },
+        {
+          "position": 2,
+          "name": "Manish Kunjam",
+          "party": "Communist Party Of India",
+          "votes": 14669,
+          "votes_percentage": 23.6
+        },
+        {
+          "position": 3,
+          "name": "Budhram Sodi",
+          "party": "Bharatiya Janta Party",
+          "votes": 10452,
+          "votes_percentage": 16.8
+        },
+        {
+          "position": 4,
+          "name": "Hungaram Poyam",
+          "party": "Nationalist Congress Party",
+          "votes": 5030,
+          "votes_percentage": 8.1
+        }
+      ]
+    }
+  }
+}

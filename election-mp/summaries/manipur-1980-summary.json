@@ -1,0 +1,45 @@
+{
+  "state": "Manipur",
+  "year": "1980",
+  "summary_stats": {
+    "total_electors_state": 909282,
+    "total_votes_polled_state": 742442,
+    "turnout_percentage_state": 81.7,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Inner Manipur",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Manipur",
+      "winning_candidate": "Ngangom Mohendra",
+      "winning_party": "Communist Party Of India",
+      "total_electors_ac": 469331,
+      "total_votes_ac": 380893,
+      "poll_percentage_ac": 0.0,
+      "margin": 11946,
+      "margin_percentage": 3.1,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1980/manipur/inner-manipur/3163/24/7"
+    },
+    {
+      "ac_name": "Outer Manipur",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Manipur",
+      "winning_candidate": "Gouzagin",
+      "winning_party": "Indian National Congress (I)",
+      "total_electors_ac": 439951,
+      "total_votes_ac": 361549,
+      "poll_percentage_ac": 0.0,
+      "margin": 22326,
+      "margin_percentage": 6.2,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1980/manipur/outer-manipur/3164/24/7"
+    }
+  ]
+}

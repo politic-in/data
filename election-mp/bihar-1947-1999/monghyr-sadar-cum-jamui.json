@@ -1,0 +1,62 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "MONGHYR SADAR CUM JAMUI",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 534168,
+        "total_votes_polled": 518714,
+        "turnout_percentage": 48.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Banarsi Pd. Sinha",
+          "party": "Indian National Congress",
+          "votes": 131586,
+          "votes_percentage": 25.4
+        },
+        {
+          "position": 1,
+          "name": "Nayan Tara Das",
+          "party": "Indian National Congress",
+          "votes": 118241,
+          "votes_percentage": 22.8
+        },
+        {
+          "position": 3,
+          "name": "Ram Kishun Lal",
+          "party": "Socialist Party",
+          "votes": 98050,
+          "votes_percentage": 18.9
+        },
+        {
+          "position": 4,
+          "name": "Rameshwar Yadav",
+          "party": "Socialist Party",
+          "votes": 79669,
+          "votes_percentage": 15.4
+        },
+        {
+          "position": 5,
+          "name": "Kalika Prasad Singh",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 56729,
+          "votes_percentage": 10.9
+        },
+        {
+          "position": 6,
+          "name": "Hari Dash",
+          "party": "Independent",
+          "votes": 34439,
+          "votes_percentage": 6.6
+        }
+      ]
+    }
+  }
+}

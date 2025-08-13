@@ -1,0 +1,84 @@
+{
+  "state": "Uttarakhand",
+  "constituency": "CHAUBATAKHAL",
+  "district": "Garhwal",
+  "ac_type": "GEN",
+  "results": {
+    "2022": {
+      "poll_date": "14 February 2022",
+      "counting_date": "10 March 2022",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_votes_polled": 41857,
+        "turnout_percentage": 0.0,
+        "margin_votes": 11430,
+        "margin_percentage": 27.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Satpal Maharaj",
+          "party": "Bharatiya Janta Party",
+          "votes": 24927,
+          "votes_percentage": 59.6
+        },
+        {
+          "position": 2,
+          "name": "Keshar Singh",
+          "party": "Indian National Congress",
+          "votes": 13497,
+          "votes_percentage": 32.3
+        },
+        {
+          "position": 3,
+          "name": "Digmohan Negi",
+          "party": "Aam Aadmi Party",
+          "votes": 1908,
+          "votes_percentage": 4.6
+        },
+        {
+          "position": 4,
+          "name": "Ashwani Gusain",
+          "party": "Independent",
+          "votes": 533,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 5,
+          "name": "Anu Pant",
+          "party": "Uttarakhand Kranti Dal (Democratic)",
+          "votes": 316,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Arun Kumar",
+          "party": "Independent",
+          "votes": 260,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Virendra Singh Rawat",
+          "party": "Uttarakhand Kranti Dal(P)",
+          "votes": 180,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Shekhar Singh",
+          "party": "Uttarakhand Raksha Morcha",
+          "votes": 126,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Jay Parkash",
+          "party": "Samajwadi Party",
+          "votes": 110,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

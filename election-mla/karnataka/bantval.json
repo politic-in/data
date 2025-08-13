@@ -1,0 +1,113 @@
+{
+  "state": "Karnataka",
+  "constituency": "Bantval",
+  "district": "Dakshina Kannada",
+  "ac_type": "GEN",
+  "results": {
+    "2023": {
+      "poll_date": "10 May 2023",
+      "counting_date": "10 May 2023",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 228411,
+        "total_votes_polled": 184751,
+        "turnout_percentage": 81.2,
+        "margin_votes": 8282,
+        "margin_percentage": 4.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rajesh Naik U",
+          "party": "Bharatiya Janta Party",
+          "votes": 93324,
+          "votes_percentage": 50.3
+        },
+        {
+          "position": 2,
+          "name": "B. Ramanath Rai",
+          "party": "Indian National Congress",
+          "votes": 85042,
+          "votes_percentage": 45.8
+        },
+        {
+          "position": 3,
+          "name": "Ilyas Mohammed Thumbe",
+          "party": "Social Democratic Party Of India",
+          "votes": 5436,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 4,
+          "name": "Purushothama Gowda Kolpe",
+          "party": "Aam Aadmi Party",
+          "votes": 495,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 5,
+          "name": "Prakash Gomes",
+          "party": "Janata Dal (Secular)",
+          "votes": 454,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2008": {
+      "poll_date": "16 May 2008",
+      "counting_date": "25 May 2008",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 172836,
+        "total_votes_polled": 135234,
+        "turnout_percentage": 78.2,
+        "margin_votes": 1251,
+        "margin_percentage": 0.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "B.Ramanatha Rai",
+          "party": "Indian National Congress",
+          "votes": 61560,
+          "votes_percentage": 45.5
+        },
+        {
+          "position": 2,
+          "name": "Nagaraj Shetty B",
+          "party": "Bharatiya Janta Party",
+          "votes": 60309,
+          "votes_percentage": 44.6
+        },
+        {
+          "position": 3,
+          "name": "K.M.Ibrahim",
+          "party": "Janata Dal (Secular)",
+          "votes": 6298,
+          "votes_percentage": 4.7
+        },
+        {
+          "position": 4,
+          "name": "Sathish Kumar Bantwal",
+          "party": "Communist Party Of India",
+          "votes": 3127,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 5,
+          "name": "Ramanatha Pai",
+          "party": "Independent",
+          "votes": 2544,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 6,
+          "name": "P.A. Raheem",
+          "party": "Bahujan Samaj Party",
+          "votes": 1396,
+          "votes_percentage": 1.0
+        }
+      ]
+    }
+  }
+}

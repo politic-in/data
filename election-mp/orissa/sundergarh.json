@@ -1,0 +1,50 @@
+{
+  "state": "Orissa",
+  "constituency": "SUNDERGARH",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 476109,
+        "total_votes_polled": 122864,
+        "turnout_percentage": 25.8,
+        "margin_votes": 6075,
+        "margin_percentage": 4.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Yagnyanarayan Singha",
+          "party": "Ganatantra Parishad",
+          "votes": 50859,
+          "votes_percentage": 41.4
+        },
+        {
+          "position": 2,
+          "name": "Sibnarayan Singh",
+          "party": "Indian National Congress",
+          "votes": 44784,
+          "votes_percentage": 36.5
+        },
+        {
+          "position": 3,
+          "name": "Oram Silas",
+          "party": "Independent",
+          "votes": 12061,
+          "votes_percentage": 9.8
+        },
+        {
+          "position": 4,
+          "name": "Xess Theophile",
+          "party": "Independent",
+          "votes": 7680,
+          "votes_percentage": 6.3
+        }
+      ]
+    }
+  }
+}

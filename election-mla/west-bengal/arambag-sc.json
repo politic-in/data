@@ -1,0 +1,43 @@
+{
+  "state": "West Bengal",
+  "constituency": "ARAMBAG (SC)",
+  "district": "Hugli",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 231918,
+        "total_votes_polled": 195962,
+        "turnout_percentage": 86.1,
+        "margin_votes": 36457,
+        "margin_percentage": 18.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Krishna Chandra Santra",
+          "party": "All India Trinamool Congress",
+          "votes": 107579,
+          "votes_percentage": 54.9
+        },
+        {
+          "position": 2,
+          "name": "Asit Malik",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 71122,
+          "votes_percentage": 36.3
+        },
+        {
+          "position": 3,
+          "name": "Murari Bera",
+          "party": "Bharatiya Janta Party",
+          "votes": 17261,
+          "votes_percentage": 8.8
+        }
+      ]
+    }
+  }
+}

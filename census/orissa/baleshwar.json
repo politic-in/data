@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 140102,
+        "male": 148570,
+        "percentage_of_total_population": 12.44,
+        "percentage_of_total_population_calculated": 12.44,
+        "percentage_of_total_population_stated": 12.44,
+        "sex_ratio": 943,
+        "total": 288672
+    },
+    "literacy": {
+        "female_literacy_rate": 72.28,
+        "female_literate": 718873,
+        "male_literacy_rate": 87.0,
+        "male_literate": 902359,
+        "rate_percentage": 79.79,
+        "total_literate": 1621232
+    },
+    "population": {
+        "female": 1134742,
+        "male": 1185787,
+        "sex_ratio": 957,
+        "total": 2320529
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.0,
+            "population": 111
+        },
+        "Christian": {
+            "percentage": 0.28,
+            "population": 6434
+        },
+        "Hindu": {
+            "percentage": 94.71,
+            "population": 2197709
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 201
+        },
+        "Muslims": {
+            "percentage": 4.06,
+            "population": 94254
+        },
+        "Not Stated": {
+            "percentage": 0.14,
+            "population": 3238
+        },
+        "Others": {
+            "percentage": 0.79,
+            "population": 18345
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 237
+        }
+    },
+    "rural": {
+        "child_population_female": 126559,
+        "child_population_male": 134260,
+        "child_population_percentage": 12.62,
+        "child_population_percentage_calculated": 12.62,
+        "child_population_percentage_stated": 12.62,
+        "child_population_total": 260819,
+        "child_sex_ratio": 943,
+        "female": 1010770,
+        "literacy_rate_female": 71.3,
+        "literacy_rate_male": 86.74,
+        "literacy_rate_percentage": 79.18,
+        "literate_female": 630459,
+        "literate_male": 799882,
+        "literate_total": 1430341,
+        "male": 1056466,
+        "percentage_population": 89.08,
+        "population": 2067236,
+        "sex_ratio": 957
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/401-baleshwar.html",
+    "urban": {
+        "child_population_female": 13548,
+        "child_population_male": 14305,
+        "child_population_percentage": 11.0,
+        "child_population_percentage_calculated": 11.0,
+        "child_population_percentage_stated": 11.0,
+        "child_population_total": 27853,
+        "child_sex_ratio": 947,
+        "female": 123972,
+        "literacy_rate_female": 80.07,
+        "literacy_rate_male": 89.1,
+        "literacy_rate_percentage": 84.67,
+        "literate_female": 88414,
+        "literate_male": 102477,
+        "literate_total": 190891,
+        "male": 129321,
+        "percentage_population": 10.92,
+        "population": 253293,
+        "sex_ratio": 959
+    }
+}

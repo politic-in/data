@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 85820,
+        "male": 93283,
+        "percentage_of_total_population": 11.55,
+        "percentage_of_total_population_calculated": 11.55,
+        "percentage_of_total_population_stated": 11.55,
+        "sex_ratio": 920,
+        "total": 179103
+    },
+    "literacy": {
+        "female_literacy_rate": 75.09,
+        "female_literate": 495229,
+        "male_literacy_rate": 87.45,
+        "male_literate": 623047,
+        "rate_percentage": 81.51,
+        "total_literate": 1118276
+    },
+    "population": {
+        "female": 745312,
+        "male": 805707,
+        "sex_ratio": 925,
+        "total": 1551019
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.03,
+            "population": 442
+        },
+        "Christian": {
+            "percentage": 0.61,
+            "population": 9494
+        },
+        "Hindu": {
+            "percentage": 76.61,
+            "population": 1188204
+        },
+        "Jain": {
+            "percentage": 0.31,
+            "population": 4813
+        },
+        "Muslims": {
+            "percentage": 22.15,
+            "population": 343511
+        },
+        "Not Stated": {
+            "percentage": 0.16,
+            "population": 2480
+        },
+        "Others": {
+            "percentage": 0.02,
+            "population": 342
+        },
+        "Sikh": {
+            "percentage": 0.11,
+            "population": 1733
+        }
+    },
+    "rural": {
+        "child_population_female": 58771,
+        "child_population_male": 62739,
+        "child_population_percentage": 11.84,
+        "child_population_percentage_calculated": 11.84,
+        "child_population_percentage_stated": 11.84,
+        "child_population_total": 121510,
+        "child_sex_ratio": 937,
+        "female": 496667,
+        "literacy_rate_female": 70.47,
+        "literacy_rate_male": 85.05,
+        "literacy_rate_percentage": 77.99,
+        "literate_female": 308574,
+        "literate_male": 396884,
+        "literate_total": 705458,
+        "male": 529393,
+        "percentage_population": 66.15,
+        "population": 1026060,
+        "sex_ratio": 938
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/202-bharuch.html",
+    "urban": {
+        "child_population_female": 27067,
+        "child_population_male": 30526,
+        "child_population_percentage": 10.97,
+        "child_population_percentage_calculated": 10.97,
+        "child_population_percentage_stated": 10.97,
+        "child_population_total": 57593,
+        "child_sex_ratio": 887,
+        "female": 248645,
+        "literacy_rate_female": 84.24,
+        "literacy_rate_male": 92.02,
+        "literacy_rate_percentage": 88.33,
+        "literate_female": 186655,
+        "literate_male": 226163,
+        "literate_total": 412818,
+        "male": 276314,
+        "percentage_population": 33.85,
+        "population": 524959,
+        "sex_ratio": 900
+    }
+}

@@ -1,0 +1,115 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Kalyandurg",
+  "district": "Anantapur",
+  "ac_type": "GEN",
+  "results": {
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 177742,
+        "total_votes_polled": 146392,
+        "turnout_percentage": 82.4,
+        "total_valid_votes": 146301,
+        "total_valid_votes_percentage": 82.3,
+        "margin_votes": 4388,
+        "margin_percentage": 3.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Neelakantapuram Raghuveera Reddy",
+          "party": "Indian National Congress",
+          "votes": 69614,
+          "votes_percentage": 47.6
+        },
+        {
+          "position": 2,
+          "name": "Unnam Hanumantharaya Chowdary",
+          "party": "Telugu Desam",
+          "votes": 65226,
+          "votes_percentage": 44.6
+        },
+        {
+          "position": 3,
+          "name": "Market Ramanna",
+          "party": "Praja Rajyam Party",
+          "votes": 7342,
+          "votes_percentage": 5.0
+        },
+        {
+          "position": 4,
+          "name": "Balaram Sake",
+          "party": "Bharatiya Janta Party",
+          "votes": 1415,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "M. Narayana",
+          "party": "Independent",
+          "votes": 914,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "R. G. Santha Kumari",
+          "party": "Lok Satta Party",
+          "votes": 642,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "B. Venkata Narayana",
+          "party": "Bahujan Samaj Party",
+          "votes": 616,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Yeragorla Kuruba Venkatesulu",
+          "party": "Pyramid Party Of India",
+          "votes": 532,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "1989": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 148447,
+        "total_votes_polled": 98431,
+        "turnout_percentage": 66.3,
+        "margin_votes": 4742,
+        "margin_percentage": 4.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Lakshmi Devi M.",
+          "party": "Indian National Congress",
+          "votes": 48448,
+          "votes_percentage": 52.2
+        },
+        {
+          "position": 2,
+          "name": "Sanjeevaiah V.",
+          "party": "Communist Party Of India",
+          "votes": 43706,
+          "votes_percentage": 47.0
+        },
+        {
+          "position": 3,
+          "name": "Parusuramaiah B.",
+          "party": "Independent",
+          "votes": 749,
+          "votes_percentage": 0.8
+        }
+      ]
+    }
+  }
+}

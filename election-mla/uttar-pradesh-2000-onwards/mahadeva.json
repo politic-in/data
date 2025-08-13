@@ -1,0 +1,78 @@
+{
+  "state": "Uttar Pradesh [2000 Onwards]",
+  "constituency": "MAHADEVA",
+  "district": "Basti",
+  "ac_type": "SC",
+  "results": {
+    "2022": {
+      "poll_date": "10 February 2022",
+      "counting_date": "10 March 2022",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 363051,
+        "total_votes_polled": 209605,
+        "turnout_percentage": 58.2,
+        "margin_votes": 5495,
+        "margin_percentage": 2.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dudhram",
+          "party": "Suheldev Bharatiya Samaj Party",
+          "votes": 83350,
+          "votes_percentage": 39.8
+        },
+        {
+          "position": 2,
+          "name": "Ravi",
+          "party": "Bharatiya Janta Party",
+          "votes": 77855,
+          "votes_percentage": 37.1
+        },
+        {
+          "position": 3,
+          "name": "Laxmi Chandra Kharvar",
+          "party": "Bahujan Samaj Party",
+          "votes": 40207,
+          "votes_percentage": 19.2
+        },
+        {
+          "position": 4,
+          "name": "Purnima",
+          "party": "Jan Adhikar Party",
+          "votes": 2907,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 5,
+          "name": "Brijesh Kumar",
+          "party": "Indian National Congress",
+          "votes": 2255,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Suresh",
+          "party": "Aam Aadmi Party",
+          "votes": 1183,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Vijay Vikram",
+          "party": "Independent",
+          "votes": 943,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Ram Karan",
+          "party": "Bahujan Mukti Party",
+          "votes": 905,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

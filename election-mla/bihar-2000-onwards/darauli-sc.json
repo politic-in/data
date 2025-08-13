@@ -1,0 +1,122 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "Darauli (SC)",
+  "district": "Siwan",
+  "ac_type": "",
+  "results": {
+    "2020": {
+      "poll_date": "28 October 2020",
+      "counting_date": "10 November 2020",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 308675,
+        "total_votes_polled": 155676,
+        "turnout_percentage": 52.0,
+        "margin_votes": 12119,
+        "margin_percentage": 7.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Satyadeo Ram",
+          "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+          "votes": 81067,
+          "votes_percentage": 52.1
+        },
+        {
+          "position": 2,
+          "name": "Ramayan Manjhi",
+          "party": "Bharatiya Janta Party",
+          "votes": 68948,
+          "votes_percentage": 44.3
+        },
+        {
+          "position": 3,
+          "name": "Sheo Kumar Manjhi",
+          "party": "Independent",
+          "votes": 3140,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 4,
+          "name": "Kumar Shashi Ranjan",
+          "party": "The Plurals Party",
+          "votes": 2521,
+          "votes_percentage": 1.6
+        }
+      ]
+    },
+    "2015": {
+      "poll_date": "05 November 2015",
+      "counting_date": "08 November 2015",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 287505,
+        "total_votes_polled": 147762,
+        "turnout_percentage": 51.4,
+        "total_valid_votes": 143144,
+        "total_valid_votes_percentage": 49.8,
+        "margin_votes": 9584,
+        "margin_percentage": 6.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Satyadeo Ram",
+          "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+          "votes": 49576,
+          "votes_percentage": 33.6
+        },
+        {
+          "position": 2,
+          "name": "Ramayan Manjhi",
+          "party": "Bharatiya Janta Party",
+          "votes": 39992,
+          "votes_percentage": 27.1
+        },
+        {
+          "position": 3,
+          "name": "Parmatma Ram",
+          "party": "Rashtriya Janata Dal",
+          "votes": 37345,
+          "votes_percentage": 25.3
+        },
+        {
+          "position": 4,
+          "name": "Chandrama Prasad",
+          "party": "Independent",
+          "votes": 8760,
+          "votes_percentage": 5.9
+        },
+        {
+          "position": 5,
+          "name": "Mira Devi",
+          "party": "Independent",
+          "votes": 2593,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 6,
+          "name": "Bimalesh Kumar Ram",
+          "party": "Bahujan Samaj Party",
+          "votes": 1697,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 7,
+          "name": "Manoj Ram",
+          "party": "Jammu & Kashmir National Panthers Party",
+          "votes": 1617,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 8,
+          "name": "Ram Ek Bal Baitha",
+          "party": "Swatantra Samaj Party",
+          "votes": 1564,
+          "votes_percentage": 1.1
+        }
+      ]
+    }
+  }
+}

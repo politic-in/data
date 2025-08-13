@@ -1,0 +1,45 @@
+{
+  "state": "Goa",
+  "year": "2009",
+  "summary_stats": {
+    "total_electors_state": 1020794,
+    "total_votes_polled_state": 564631,
+    "turnout_percentage_state": 55.3,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "North Goa",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Goa",
+      "winning_candidate": "Shripad Yesso Naik",
+      "winning_party": "Bharatiya Janta Party",
+      "total_electors_ac": 486983,
+      "total_votes_ac": 292408,
+      "poll_percentage_ac": 0.0,
+      "margin": 6353,
+      "margin_percentage": 2.2,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2009/goa/north-goa/7283/51/15"
+    },
+    {
+      "ac_name": "South Goa",
+      "ac_no": 2,
+      "ac_type": "GEN",
+      "district": "Goa",
+      "winning_candidate": "Cosme Francisco Caitano Sardinha",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 533811,
+      "total_votes_ac": 272223,
+      "poll_percentage_ac": 0.0,
+      "margin": 12516,
+      "margin_percentage": 4.6,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2009/goa/south-goa/7284/51/15"
+    }
+  ]
+}

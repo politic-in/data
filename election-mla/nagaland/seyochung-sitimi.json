@@ -1,0 +1,43 @@
+{
+  "state": "Nagaland",
+  "constituency": "Seyochung Sitimi",
+  "district": "Kiphire",
+  "ac_type": "ST",
+  "results": {
+    "2013": {
+      "poll_date": "23 February 2013",
+      "counting_date": "28 February 2013",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 22132,
+        "total_votes_polled": 21696,
+        "turnout_percentage": 98.0,
+        "margin_votes": 3399,
+        "margin_percentage": 15.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shri. C. Kipili Sangtam",
+          "party": "Naga Peoples Front",
+          "votes": 12507,
+          "votes_percentage": 57.7
+        },
+        {
+          "position": 2,
+          "name": "Shri. Tsasepi Sangtam",
+          "party": "Indian National Congress",
+          "votes": 9108,
+          "votes_percentage": 42.0
+        },
+        {
+          "position": 3,
+          "name": "Shri. Lingko Sangtam",
+          "party": "Bharatiya Janta Party",
+          "votes": 81,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

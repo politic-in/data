@@ -1,0 +1,71 @@
+{
+  "state": "West Bengal",
+  "constituency": "MALDAHA (SC)",
+  "district": "Maldah",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 210073,
+        "total_votes_polled": 180280,
+        "turnout_percentage": 86.9,
+        "margin_votes": 33309,
+        "margin_percentage": 18.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bhupendra Nath Halder",
+          "party": "Indian National Congress",
+          "votes": 88243,
+          "votes_percentage": 49.0
+        },
+        {
+          "position": 2,
+          "name": "Dulal Sarkar (BABLA)",
+          "party": "All India Trinamool Congress",
+          "votes": 54934,
+          "votes_percentage": 30.5
+        },
+        {
+          "position": 3,
+          "name": "Gopal Chandra Saha",
+          "party": "Bharatiya Janta Party",
+          "votes": 29111,
+          "votes_percentage": 16.2
+        },
+        {
+          "position": 4,
+          "name": "Swapan Sarkar",
+          "party": "Jharkhand Disom Party",
+          "votes": 2703,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Pappu Chandra Barman",
+          "party": "Bahujan Mukti Party",
+          "votes": 1967,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Madhumoy Sarkar",
+          "party": "Independent",
+          "votes": 1944,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 7,
+          "name": "Anirban Sarkar",
+          "party": "Bahujan Samaj Party",
+          "votes": 1378,
+          "votes_percentage": 0.8
+        }
+      ]
+    }
+  }
+}

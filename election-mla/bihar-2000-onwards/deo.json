@@ -1,0 +1,150 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "DEO",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "2005": {
+      "poll_date": "18 October 2005",
+      "counting_date": "21 November 2005",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 199369,
+        "total_votes_polled": 89444,
+        "turnout_percentage": 44.9,
+        "total_valid_votes": 89443,
+        "total_valid_votes_percentage": 44.9,
+        "margin_votes": 835,
+        "margin_percentage": 0.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Renu Devi",
+          "party": "Janata Dal (United)",
+          "votes": 32417,
+          "votes_percentage": 36.2
+        },
+        {
+          "position": 2,
+          "name": "Suresh Paswan",
+          "party": "Rashtriya Janata Dal",
+          "votes": 31582,
+          "votes_percentage": 35.3
+        },
+        {
+          "position": 3,
+          "name": "Kusum Devi",
+          "party": "Lok Jan Shakti Party",
+          "votes": 11113,
+          "votes_percentage": 12.4
+        },
+        {
+          "position": 4,
+          "name": "Ram Pravesh Bhuiyan",
+          "party": "Bahujan Samaj Party",
+          "votes": 7247,
+          "votes_percentage": 8.1
+        },
+        {
+          "position": 5,
+          "name": "Dhananjay Paswan",
+          "party": "Independent",
+          "votes": 2526,
+          "votes_percentage": 2.8
+        },
+        {
+          "position": 6,
+          "name": "Binod Paswan",
+          "party": "Apna Dal",
+          "votes": 2306,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 7,
+          "name": "Shankar Ram",
+          "party": "Indian Justice Party",
+          "votes": 2252,
+          "votes_percentage": 2.5
+        }
+      ]
+    },
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 175064,
+        "total_votes_polled": 93691,
+        "turnout_percentage": 53.5,
+        "margin_votes": 3888,
+        "margin_percentage": 4.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Suresh Paswan",
+          "party": "Rashtriya Janata Dal",
+          "votes": 40660,
+          "votes_percentage": 44.1
+        },
+        {
+          "position": 2,
+          "name": "Dil Keshwar Ram",
+          "party": "Indian National Congress",
+          "votes": 36772,
+          "votes_percentage": 39.9
+        },
+        {
+          "position": 3,
+          "name": "Pankaj Kumar",
+          "party": "Bihar People's Party",
+          "votes": 7806,
+          "votes_percentage": 8.5
+        },
+        {
+          "position": 4,
+          "name": "Tramendra Kumar",
+          "party": "Independent",
+          "votes": 2261,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 5,
+          "name": "Shankar Ram",
+          "party": "Bahujan Samaj Party",
+          "votes": 1612,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 6,
+          "name": "Lakshuman Ram",
+          "party": "Independent",
+          "votes": 1259,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 7,
+          "name": "Chhathan Ram",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 928,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 8,
+          "name": "Raghuni Ram Shastri",
+          "party": "Shoshit Samaj Dal (AKHIL BAHARATIYA)",
+          "votes": 566,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 9,
+          "name": "Ram Charitra Paswan",
+          "party": "Independent",
+          "votes": 400,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

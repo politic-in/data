@@ -1,0 +1,48 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "MUZAFFARPUR CUM DARBHANGA",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 716634,
+        "total_votes_polled": 318538,
+        "turnout_percentage": 44.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rajeshwar Patel",
+          "party": "Indian National Congress",
+          "votes": 152490,
+          "votes_percentage": 47.9
+        },
+        {
+          "position": 1,
+          "name": "Rameshwar Sahu",
+          "party": "Indian National Congress",
+          "votes": 0,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 3,
+          "name": "Ram Chander Sharma",
+          "party": "Socialist Party",
+          "votes": 122895,
+          "votes_percentage": 38.6
+        },
+        {
+          "position": 4,
+          "name": "Umeshwar Chandra Pras",
+          "party": "Independent",
+          "votes": 43153,
+          "votes_percentage": 13.5
+        }
+      ]
+    }
+  }
+}

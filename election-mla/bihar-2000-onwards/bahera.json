@@ -1,0 +1,150 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "BAHERA",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2005": {
+      "poll_date": "13 November 2005",
+      "counting_date": "21 November 2005",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 196358,
+        "total_votes_polled": 86936,
+        "turnout_percentage": 44.3,
+        "total_valid_votes": 86936,
+        "total_valid_votes_percentage": 44.3,
+        "margin_votes": 7814,
+        "margin_percentage": 9.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Abdul Bari Siddiqui",
+          "party": "Rashtriya Janata Dal",
+          "votes": 38910,
+          "votes_percentage": 44.8
+        },
+        {
+          "position": 2,
+          "name": "Ram Narayan Thakur",
+          "party": "Bharatiya Janta Party",
+          "votes": 31096,
+          "votes_percentage": 35.8
+        },
+        {
+          "position": 3,
+          "name": "S.M. Zafar Imam",
+          "party": "Lok Jan Shakti Party",
+          "votes": 10119,
+          "votes_percentage": 11.6
+        },
+        {
+          "position": 4,
+          "name": "Vishnudev Ram",
+          "party": "Indian Justice Party",
+          "votes": 2805,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 5,
+          "name": "Binod Yadav",
+          "party": "Rashtravadi Janata Party",
+          "votes": 2453,
+          "votes_percentage": 2.8
+        },
+        {
+          "position": 6,
+          "name": "Binod Kumar Ram",
+          "party": "Bahujan Samaj Party",
+          "votes": 1553,
+          "votes_percentage": 1.8
+        }
+      ]
+    },
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 172244,
+        "total_votes_polled": 122283,
+        "turnout_percentage": 71.0,
+        "margin_votes": 30713,
+        "margin_percentage": 25.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Abdul Bari Siddiqui",
+          "party": "Rashtriya Janata Dal",
+          "votes": 60395,
+          "votes_percentage": 50.2
+        },
+        {
+          "position": 2,
+          "name": "Harish Chandra Jha",
+          "party": "Bharatiya Janta Party",
+          "votes": 29682,
+          "votes_percentage": 24.7
+        },
+        {
+          "position": 3,
+          "name": "Mahendra Jha Azad",
+          "party": "Independent",
+          "votes": 22016,
+          "votes_percentage": 18.3
+        },
+        {
+          "position": 4,
+          "name": "Ram Kumar Jha",
+          "party": "Communist Party Of India",
+          "votes": 3525,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 5,
+          "name": "Sitaram Choudhary",
+          "party": "Indian National Congress",
+          "votes": 2939,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 6,
+          "name": "Sabiullah",
+          "party": "Samajwadi Party",
+          "votes": 560,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Sachchi Bibi",
+          "party": "Nationalist Congress Party",
+          "votes": 486,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Gulam Rasul",
+          "party": "Independent",
+          "votes": 260,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Md. Abubakar Rizvi",
+          "party": "Bahujan Samaj Party",
+          "votes": 242,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Kamlesh Jha",
+          "party": "Independent",
+          "votes": 217,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

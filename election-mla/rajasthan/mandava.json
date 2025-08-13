@@ -1,0 +1,71 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Mandava",
+  "district": "Jhunjhunun",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 218035,
+        "total_votes_polled": 164536,
+        "turnout_percentage": 75.9,
+        "margin_votes": 2346,
+        "margin_percentage": 1.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Narendra Kumar",
+          "party": "Bharatiya Janta Party",
+          "votes": 80599,
+          "votes_percentage": 49.0
+        },
+        {
+          "position": 2,
+          "name": "Kum. Rita  Choudhary",
+          "party": "Indian National Congress",
+          "votes": 78253,
+          "votes_percentage": 47.6
+        },
+        {
+          "position": 3,
+          "name": "Anwar Ali Khan",
+          "party": "Bahujan Samaj Party",
+          "votes": 3228,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 4,
+          "name": "Mahendra Kumar Dhayal",
+          "party": "Abhinav Rajasthan Party",
+          "votes": 720,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 5,
+          "name": "Jagdeep",
+          "party": "Independent",
+          "votes": 642,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Shubhakaran Singh",
+          "party": "Aam Aadmi Party",
+          "votes": 577,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Narendra Singh",
+          "party": "Independent",
+          "votes": 517,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

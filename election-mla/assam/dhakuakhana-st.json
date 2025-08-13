@@ -1,0 +1,71 @@
+{
+  "state": "Assam",
+  "constituency": "Dhakuakhana (ST)",
+  "district": "Lakhimpur",
+  "ac_type": "ST",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 174228,
+        "total_votes_polled": 145961,
+        "turnout_percentage": 84.4,
+        "margin_votes": 24542,
+        "margin_percentage": 16.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Naba Kumar Doley",
+          "party": "Bharatiya Janta Party",
+          "votes": 81556,
+          "votes_percentage": 55.9
+        },
+        {
+          "position": 2,
+          "name": "Bharat Chandra Narah",
+          "party": "Indian National Congress",
+          "votes": 57014,
+          "votes_percentage": 39.1
+        },
+        {
+          "position": 3,
+          "name": "Lakhi Nath Sonowal",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 2270,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 4,
+          "name": "Dilip Kumar Chowdhury",
+          "party": "Independent",
+          "votes": 2032,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 5,
+          "name": "Bhumi Ranjan Doley",
+          "party": "Independent",
+          "votes": 1855,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 6,
+          "name": "Dr Rajendra Nath Pegu",
+          "party": "Liberal Democratic Party",
+          "votes": 812,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Jutika Doley",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 422,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

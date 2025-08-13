@@ -1,0 +1,57 @@
+{
+  "state": "West Bengal",
+  "constituency": "BARDHAMAN UTTAR (SC)",
+  "district": "Barddhaman",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 244718,
+        "total_votes_polled": 213532,
+        "turnout_percentage": 88.7,
+        "margin_votes": 11505,
+        "margin_percentage": 5.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nisith Kumar Malik",
+          "party": "All India Trinamool Congress",
+          "votes": 102886,
+          "votes_percentage": 48.2
+        },
+        {
+          "position": 2,
+          "name": "Aparna Saha",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 91381,
+          "votes_percentage": 42.8
+        },
+        {
+          "position": 3,
+          "name": "Prasanta Saha",
+          "party": "Bharatiya Janta Party",
+          "votes": 15275,
+          "votes_percentage": 7.2
+        },
+        {
+          "position": 4,
+          "name": "Tarun Kanti Majhi",
+          "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+          "votes": 2275,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Mahadev Malik",
+          "party": "Bahujan Samaj Party",
+          "votes": 1715,
+          "votes_percentage": 0.8
+        }
+      ]
+    }
+  }
+}

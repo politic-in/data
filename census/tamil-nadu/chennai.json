@@ -1,0 +1,105 @@
+{
+  "district": "Chennai",
+  "state": "Tamil Nadu",
+  "census_year": 2011,
+  "source": "https://www.census2011.co.in/census/district/21-chennai.html",
+  "population": {
+    "total": 4646732,
+    "male": 2335844,
+    "female": 2310888,
+    "sex_ratio": 989
+  },
+  "area_distribution": {
+    "urban": {
+      "percentage_of_total_population": 100.0,
+      "total_population": 4646732,
+      "male": 2335844,
+      "female": 2310888,
+      "sex_ratio": 989,
+      "child_population_0_6": {
+        "total": 459324,
+        "male": 235519,
+        "female": 223805,
+        "sex_ratio": 950,
+        "percentage_of_urban_population": 9.88
+      },
+      "literacy": {
+        "rate": 90.18,
+        "male_rate": 93.7,
+        "female_rate": 86.64,
+        "total_literates": 3776276
+      }
+    },
+    "rural": {
+      "percentage_of_total_population": 0.0,
+      "total_population": 0,
+      "male": 0,
+      "female": 0,
+      "sex_ratio": null,
+      "child_population_0_6": {
+        "total": 0,
+        "male": 0,
+        "female": 0,
+        "sex_ratio": null,
+        "percentage_of_rural_population": 0.0
+      },
+      "literacy": {
+        "rate": 0.0,
+        "male_rate": 0.0,
+        "female_rate": 0.0,
+        "total_literates": 0
+      }
+    }
+  },
+  "age_groups": {
+    "children_0_6_years": {
+      "total": 459324,
+      "male": 235519,
+      "female": 223805,
+      "sex_ratio": 950,
+      "percentage_of_total_population": 9.88
+    }
+  },
+  "literacy_overall_district": {
+    "rate": 90.18,
+    "male_rate": 93.7,
+    "female_rate": 86.64,
+    "total_literates": 3776276
+  },
+  "religion_distribution": {
+    "hindu": {
+      "percentage": 80.73,
+      "population": 3751322
+    },
+    "muslim": {
+      "percentage": 9.45,
+      "population": 439270
+    },
+    "christian": {
+      "percentage": 7.72,
+      "population": 358662
+    },
+    "sikh": {
+      "percentage": 0.06,
+      "population": 2851
+    },
+    "buddhist": {
+      "percentage": 0.06,
+      "population": 2804
+    },
+    "jain": {
+      "percentage": 1.11,
+      "population": 51708
+    },
+    "other_religions": {
+      "percentage": 0.04,
+      "population": 1759
+    },
+    "not_stated": {
+      "percentage": 0.83,
+      "population": 38356
+    }
+  },
+  "scheduled_caste_sc_population": null,
+  "scheduled_tribe_st_population": null
+}

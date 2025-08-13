@@ -1,0 +1,57 @@
+{
+  "state": "Maharashtra",
+  "constituency": "Saoner",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 106310,
+        "total_votes_polled": 56654,
+        "turnout_percentage": 53.3,
+        "margin_votes": 6751,
+        "margin_percentage": 11.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Naik Ramji Chiman",
+          "party": "Indian National Congress (I)",
+          "votes": 28932,
+          "votes_percentage": 52.1
+        },
+        {
+          "position": 2,
+          "name": "Ingoke Vithalrao Kisan",
+          "party": "Indian National Congress (U)",
+          "votes": 22181,
+          "votes_percentage": 40.0
+        },
+        {
+          "position": 3,
+          "name": "Lodhi Gajendra Umashankar",
+          "party": "Republican Party Of India",
+          "votes": 2602,
+          "votes_percentage": 4.7
+        },
+        {
+          "position": 4,
+          "name": "Lambghare Narottam Bapurao",
+          "party": "Independent",
+          "votes": 1161,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 5,
+          "name": "Bagde Sheshrao Tohluji",
+          "party": "Independent",
+          "votes": 629,
+          "votes_percentage": 1.1
+        }
+      ]
+    }
+  }
+}

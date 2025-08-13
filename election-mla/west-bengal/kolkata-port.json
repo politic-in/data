@@ -1,0 +1,92 @@
+{
+  "state": "West Bengal",
+  "constituency": "Kolkata Port",
+  "district": "Kolkata",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 223154,
+        "total_votes_polled": 151083,
+        "turnout_percentage": 68.3,
+        "margin_votes": 68554,
+        "margin_percentage": 45.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Firhad Hakim",
+          "party": "All India Trinamool Congress",
+          "votes": 105543,
+          "votes_percentage": 69.9
+        },
+        {
+          "position": 2,
+          "name": "Awadh Kishore Gupta",
+          "party": "Bharatiya Janta Party",
+          "votes": 36989,
+          "votes_percentage": 24.5
+        },
+        {
+          "position": 3,
+          "name": "Md Mukhtar",
+          "party": "Indian National Congress",
+          "votes": 5590,
+          "votes_percentage": 3.7
+        },
+        {
+          "position": 4,
+          "name": "Sanjay Dey",
+          "party": "Independent",
+          "votes": 1139,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 5,
+          "name": "Khan Sarfaraz",
+          "party": "Bahujan Samaj Party",
+          "votes": 748,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Kalpana Chohan",
+          "party": "Independent",
+          "votes": 428,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "Sk Jayed Hossain",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 180,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "Manjay Kumar Roy",
+          "party": "Janata Dal (United)",
+          "votes": 175,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Jay Prakash Shaw",
+          "party": "Independent",
+          "votes": 165,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Biswajit Halder",
+          "party": "Independent",
+          "votes": 126,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

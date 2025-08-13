@@ -1,0 +1,106 @@
+{
+  "state": "West Bengal",
+  "constituency": "Labpur",
+  "district": "Birbhum",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 230036,
+        "total_votes_polled": 208970,
+        "turnout_percentage": 92.2,
+        "margin_votes": 17975,
+        "margin_percentage": 8.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Abhijit Sinha (RANA)",
+          "party": "All India Trinamool Congress",
+          "votes": 108423,
+          "votes_percentage": 51.9
+        },
+        {
+          "position": 2,
+          "name": "Biswajit Mondal",
+          "party": "Bharatiya Janta Party",
+          "votes": 90448,
+          "votes_percentage": 43.3
+        },
+        {
+          "position": 3,
+          "name": "Syed Mahfuzul Karim",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 6479,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 4,
+          "name": "Islam Monirul",
+          "party": "Independent",
+          "votes": 1992,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Murmu Sunil",
+          "party": "Bahujan Samaj Party",
+          "votes": 922,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Bahadur Ghosh",
+          "party": "Purvanchal Mahapanchayat",
+          "votes": 411,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Tapas Mondal",
+          "party": "Amra Bangalee",
+          "votes": 295,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 217506,
+        "total_votes_polled": 189476,
+        "turnout_percentage": 88.7,
+        "margin_votes": 30313,
+        "margin_percentage": 16.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Islam Monirul",
+          "party": "All India Trinamool Congress",
+          "votes": 101138,
+          "votes_percentage": 53.4
+        },
+        {
+          "position": 2,
+          "name": "Syed Mahfuzul Karim (MAHFUZ)",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 70825,
+          "votes_percentage": 37.4
+        },
+        {
+          "position": 3,
+          "name": "Nirmal Chandra Mandal",
+          "party": "Bharatiya Janta Party",
+          "votes": 17513,
+          "votes_percentage": 9.2
+        }
+      ]
+    }
+  }
+}

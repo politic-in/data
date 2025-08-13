@@ -1,0 +1,85 @@
+{
+  "state": "West Bengal",
+  "constituency": "HABIBPUR (ST)",
+  "district": "Maldah",
+  "ac_type": "ST",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 221857,
+        "total_votes_polled": 180614,
+        "turnout_percentage": 83.1,
+        "margin_votes": 2512,
+        "margin_percentage": 1.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Khagen Murmu",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 64095,
+          "votes_percentage": 35.5
+        },
+        {
+          "position": 2,
+          "name": "Amal Kisku",
+          "party": "All India Trinamool Congress",
+          "votes": 61583,
+          "votes_percentage": 34.1
+        },
+        {
+          "position": 3,
+          "name": "Prodip Baskey",
+          "party": "Bharatiya Janta Party",
+          "votes": 41656,
+          "votes_percentage": 23.1
+        },
+        {
+          "position": 4,
+          "name": "Mandal Mardi",
+          "party": "Independent",
+          "votes": 2918,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 5,
+          "name": "Subin Hansda",
+          "party": "Bahujan Mukti Party",
+          "votes": 2780,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 6,
+          "name": "Mandal Soren",
+          "party": "Independent",
+          "votes": 2757,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 7,
+          "name": "Lakshiram Baske",
+          "party": "Samajwadi Party",
+          "votes": 2510,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 8,
+          "name": "Pradeep Murmu",
+          "party": "Bahujan Samaj Party",
+          "votes": 1567,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 9,
+          "name": "Shibananda Saren",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 748,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

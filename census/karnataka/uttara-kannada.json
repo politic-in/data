@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 73330,
+        "male": 76785,
+        "percentage_of_total_population": 10.45,
+        "percentage_of_total_population_calculated": 10.45,
+        "percentage_of_total_population_stated": 10.45,
+        "sex_ratio": 955,
+        "total": 150115
+    },
+    "literacy": {
+        "female_literacy_rate": 78.39,
+        "female_literate": 499807,
+        "male_literacy_rate": 89.63,
+        "male_literate": 582099,
+        "rate_percentage": 84.06,
+        "total_literate": 1081906
+    },
+    "population": {
+        "female": 710913,
+        "male": 726256,
+        "sex_ratio": 979,
+        "total": 1437169
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.89,
+            "population": 12804
+        },
+        "Christian": {
+            "percentage": 3.1,
+            "population": 44530
+        },
+        "Hindu": {
+            "percentage": 82.61,
+            "population": 1187306
+        },
+        "Jain": {
+            "percentage": 0.25,
+            "population": 3624
+        },
+        "Muslims": {
+            "percentage": 13.08,
+            "population": 187974
+        },
+        "Not Stated": {
+            "percentage": 0.04,
+            "population": 562
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 64
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 305
+        }
+    },
+    "rural": {
+        "child_population_female": 52187,
+        "child_population_male": 54554,
+        "child_population_percentage": 10.48,
+        "child_population_percentage_calculated": 10.48,
+        "child_population_percentage_stated": 10.48,
+        "child_population_total": 106741,
+        "child_sex_ratio": 957,
+        "female": 503278,
+        "literacy_rate_female": 74.87,
+        "literacy_rate_male": 87.63,
+        "literacy_rate_percentage": 81.31,
+        "literate_female": 337710,
+        "literate_male": 403419,
+        "literate_total": 741129,
+        "male": 514910,
+        "percentage_population": 70.85,
+        "population": 1018188,
+        "sex_ratio": 977
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/269-uttara-kannada.html",
+    "urban": {
+        "child_population_female": 21134,
+        "child_population_male": 22240,
+        "child_population_percentage": 10.35,
+        "child_population_percentage_calculated": 10.35,
+        "child_population_percentage_stated": 10.35,
+        "child_population_total": 43374,
+        "child_sex_ratio": 950,
+        "female": 207635,
+        "literacy_rate_female": 86.91,
+        "literacy_rate_male": 94.49,
+        "literacy_rate_percentage": 90.73,
+        "literate_female": 162097,
+        "literate_male": 178680,
+        "literate_total": 340777,
+        "male": 211346,
+        "percentage_population": 29.15,
+        "population": 418981,
+        "sex_ratio": 982
+    }
+}

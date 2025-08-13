@@ -1,0 +1,50 @@
+{
+  "state": "Jammu & Kashmir",
+  "constituency": "BUDHAL(ST)",
+  "district": "Rajouri",
+  "ac_type": "GEN",
+  "results": {
+    "2024": {
+      "poll_date": "08 October 2024",
+      "counting_date": "08 October 2024",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 95071,
+        "total_votes_polled": 67560,
+        "turnout_percentage": 71.9,
+        "margin_votes": 18908,
+        "margin_percentage": 28.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Javaid Iqbal",
+          "party": "Jammu & Kashmir National Conference",
+          "votes": 42043,
+          "votes_percentage": 61.5
+        },
+        {
+          "position": 2,
+          "name": "Chowdhary Zulfkar Ali",
+          "party": "Bharatiya Janta Party",
+          "votes": 23135,
+          "votes_percentage": 33.8
+        },
+        {
+          "position": 3,
+          "name": "Guftar Ahmed",
+          "party": "Jammu & Kashmir Peoples Democratic Party",
+          "votes": 1885,
+          "votes_percentage": 2.8
+        },
+        {
+          "position": 5,
+          "name": "Abdul Rashid",
+          "party": "Bahujan Samaj Party",
+          "votes": 497,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

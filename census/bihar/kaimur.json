@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 145171,
+        "male": 154110,
+        "percentage_of_total_population": 18.4,
+        "percentage_of_total_population_calculated": 18.4,
+        "percentage_of_total_population_stated": 18.4,
+        "sex_ratio": 942,
+        "total": 299281
+    },
+    "literacy": {
+        "female_literacy_rate": 58.4,
+        "female_literate": 370353,
+        "male_literacy_rate": 79.37,
+        "male_literate": 549923,
+        "rate_percentage": 69.34,
+        "total_literate": 920276
+    },
+    "population": {
+        "female": 779378,
+        "male": 847006,
+        "sex_ratio": 920,
+        "total": 1626384
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.47,
+            "population": 7707
+        },
+        "Christian": {
+            "percentage": 0.09,
+            "population": 1407
+        },
+        "Hindu": {
+            "percentage": 89.54,
+            "population": 1456229
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 129
+        },
+        "Muslims": {
+            "percentage": 9.55,
+            "population": 155283
+        },
+        "Not Stated": {
+            "percentage": 0.23,
+            "population": 3799
+        },
+        "Others": {
+            "percentage": 0.09,
+            "population": 1534
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 296
+        }
+    },
+    "rural": {
+        "child_population_female": 140582,
+        "child_population_male": 149070,
+        "child_population_percentage": 18.56,
+        "child_population_percentage_calculated": 18.56,
+        "child_population_percentage_stated": 18.56,
+        "child_population_total": 289652,
+        "child_sex_ratio": 943,
+        "female": 748515,
+        "literacy_rate_female": 57.62,
+        "literacy_rate_male": 78.97,
+        "literacy_rate_percentage": 68.76,
+        "literate_female": 350320,
+        "literate_male": 523725,
+        "literate_total": 874045,
+        "male": 812298,
+        "percentage_population": 95.97,
+        "population": 1560813,
+        "sex_ratio": 921
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/85-kaimur.html",
+    "urban": {
+        "child_population_female": 4594,
+        "child_population_male": 5035,
+        "child_population_percentage": 14.68,
+        "child_population_percentage_calculated": 14.68,
+        "child_population_percentage_stated": 14.68,
+        "child_population_total": 9629,
+        "child_sex_ratio": 912,
+        "female": 30863,
+        "literacy_rate_female": 76.26,
+        "literacy_rate_male": 88.29,
+        "literacy_rate_percentage": 82.64,
+        "literate_female": 20033,
+        "literate_male": 26198,
+        "literate_total": 46231,
+        "male": 34708,
+        "percentage_population": 4.03,
+        "population": 65571,
+        "sex_ratio": 889
+    }
+}

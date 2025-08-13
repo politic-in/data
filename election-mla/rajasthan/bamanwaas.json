@@ -1,0 +1,78 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Bamanwaas",
+  "district": "Sawai Madhopur",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 221369,
+        "total_votes_polled": 139371,
+        "turnout_percentage": 63.8,
+        "margin_votes": 38513,
+        "margin_percentage": 27.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Indra",
+          "party": "Indian National Congress",
+          "votes": 73656,
+          "votes_percentage": 52.9
+        },
+        {
+          "position": 2,
+          "name": "Nawal Kishore Meena",
+          "party": "Independent",
+          "votes": 35143,
+          "votes_percentage": 25.2
+        },
+        {
+          "position": 3,
+          "name": "Rajendra",
+          "party": "Bharatiya Janta Party",
+          "votes": 25076,
+          "votes_percentage": 18.0
+        },
+        {
+          "position": 4,
+          "name": "Manturi",
+          "party": "Bahujan Samaj Party",
+          "votes": 1853,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 5,
+          "name": "Rajesh",
+          "party": "Aam Aadmi Party",
+          "votes": 1751,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 6,
+          "name": "Antima",
+          "party": "Bharatiya Rashtravadi Samanta Party",
+          "votes": 726,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Makkhan",
+          "party": "Independent",
+          "votes": 639,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Shyam Lal",
+          "party": "Independent",
+          "votes": 527,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

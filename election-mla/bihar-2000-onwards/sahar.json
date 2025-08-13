@@ -1,0 +1,129 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "SAHAR",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "2005": {
+      "poll_date": "18 October 2005",
+      "counting_date": "21 November 2005",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 200574,
+        "total_votes_polled": 85656,
+        "turnout_percentage": 42.7,
+        "total_valid_votes": 85654,
+        "total_valid_votes_percentage": 42.7,
+        "margin_votes": 19151,
+        "margin_percentage": 22.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ram Naresh Ram",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 40868,
+          "votes_percentage": 47.7
+        },
+        {
+          "position": 2,
+          "name": "Jyoti",
+          "party": "Indian National Congress",
+          "votes": 21717,
+          "votes_percentage": 25.4
+        },
+        {
+          "position": 3,
+          "name": "Shiwesh Kumar",
+          "party": "Bharatiya Janta Party",
+          "votes": 20303,
+          "votes_percentage": 23.7
+        },
+        {
+          "position": 4,
+          "name": "Binod Kumar  Ram",
+          "party": "Independent",
+          "votes": 2766,
+          "votes_percentage": 3.2
+        }
+      ]
+    },
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 176977,
+        "total_votes_polled": 93797,
+        "turnout_percentage": 53.0,
+        "margin_votes": 20520,
+        "margin_percentage": 21.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ram Naresh Ram",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 43290,
+          "votes_percentage": 46.7
+        },
+        {
+          "position": 2,
+          "name": "Shankuntala Devi",
+          "party": "Bharatiya Janta Party",
+          "votes": 22770,
+          "votes_percentage": 24.6
+        },
+        {
+          "position": 3,
+          "name": "Suresh Paswan",
+          "party": "Rashtriya Janata Dal",
+          "votes": 16458,
+          "votes_percentage": 17.8
+        },
+        {
+          "position": 4,
+          "name": "Shrimati Jyoti",
+          "party": "Indian National Congress",
+          "votes": 8276,
+          "votes_percentage": 8.9
+        },
+        {
+          "position": 5,
+          "name": "Anita Bharti",
+          "party": "Bhartiya Jana Congress (Rashtriya)",
+          "votes": 856,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Sushila Devi",
+          "party": "Bahujan Samaj Party",
+          "votes": 356,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Daroga Ram",
+          "party": "Independent",
+          "votes": 323,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Sharda Devi",
+          "party": "Rashtriya Kisan Party",
+          "votes": 161,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Vijay Ram",
+          "party": "Independent",
+          "votes": 141,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

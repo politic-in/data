@@ -1,0 +1,57 @@
+{
+  "state": "Tripura",
+  "constituency": "Bamutia (SC)",
+  "district": "West Tripura",
+  "ac_type": "SC",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 42374,
+        "total_votes_polled": 39923,
+        "turnout_percentage": 95.0,
+        "margin_votes": 972,
+        "margin_percentage": 2.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Krishnadhan Das",
+          "party": "Bharatiya Janta Party",
+          "votes": 20014,
+          "votes_percentage": 50.1
+        },
+        {
+          "position": 2,
+          "name": "Haricharan Sarkar",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 19042,
+          "votes_percentage": 47.7
+        },
+        {
+          "position": 3,
+          "name": "Swapanananda Das",
+          "party": "Indian National Congress",
+          "votes": 402,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Bimal Das",
+          "party": "Amra Bangalee",
+          "votes": 276,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Babul Bairagi",
+          "party": "Independent",
+          "votes": 189,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

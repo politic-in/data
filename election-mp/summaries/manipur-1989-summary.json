@@ -1,0 +1,45 @@
+{
+  "state": "Manipur",
+  "year": "1989",
+  "summary_stats": {
+    "total_electors_state": 1219514,
+    "total_votes_polled_state": 875158,
+    "turnout_percentage_state": 71.8,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Inner Manipur",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Manipur",
+      "winning_candidate": "N.Tombi Singh",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 602611,
+      "total_votes_ac": 397804,
+      "poll_percentage_ac": 0.0,
+      "margin": 7551,
+      "margin_percentage": 1.9,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1989/manipur/inner-manipur/4232/24/9"
+    },
+    {
+      "ac_name": "Outer Manipur",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Manipur",
+      "winning_candidate": "Meijinlung Kamson",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 616903,
+      "total_votes_ac": 477354,
+      "poll_percentage_ac": 0.0,
+      "margin": 125065,
+      "margin_percentage": 26.2,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1989/manipur/outer-manipur/4233/24/9"
+    }
+  ]
+}

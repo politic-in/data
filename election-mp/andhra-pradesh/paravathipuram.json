@@ -1,0 +1,43 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "PARAVATHIPURAM",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 517345,
+        "total_votes_polled": 267804,
+        "turnout_percentage": 51.8,
+        "margin_votes": 152128,
+        "margin_percentage": 56.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Biddika Satyannarayana",
+          "party": "Indian National Congress",
+          "votes": 190975,
+          "votes_percentage": 71.3
+        },
+        {
+          "position": 2,
+          "name": "Narasimharo Viswasarai",
+          "party": "Swatantra",
+          "votes": 38847,
+          "votes_percentage": 14.5
+        },
+        {
+          "position": 3,
+          "name": "Biddiki Lakshminarayana",
+          "party": "Communist Party Of India",
+          "votes": 28877,
+          "votes_percentage": 10.8
+        }
+      ]
+    }
+  }
+}

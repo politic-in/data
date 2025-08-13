@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 27550,
+        "male": 28461,
+        "percentage_of_total_population": 14.81,
+        "percentage_of_total_population_calculated": 14.81,
+        "percentage_of_total_population_stated": 14.81,
+        "sex_ratio": 968,
+        "total": 56011
+    },
+    "literacy": {
+        "female_literacy_rate": 79.79,
+        "female_literate": 124574,
+        "male_literacy_rate": 91.31,
+        "male_literate": 151643,
+        "rate_percentage": 85.72,
+        "total_literate": 276217
+    },
+    "population": {
+        "female": 183686,
+        "male": 194544,
+        "sex_ratio": 944,
+        "total": 378230
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 10.34,
+            "population": 39120
+        },
+        "Christian": {
+            "percentage": 6.07,
+            "population": 22940
+        },
+        "Hindu": {
+            "percentage": 81.2,
+            "population": 307120
+        },
+        "Jain": {
+            "percentage": 0.02,
+            "population": 85
+        },
+        "Muslims": {
+            "percentage": 2.18,
+            "population": 8256
+        },
+        "Not Stated": {
+            "percentage": 0.09,
+            "population": 328
+        },
+        "Others": {
+            "percentage": 0.05,
+            "population": 206
+        },
+        "Sikh": {
+            "percentage": 0.05,
+            "population": 175
+        }
+    },
+    "rural": {
+        "child_population_female": 25375,
+        "child_population_male": 26196,
+        "child_population_percentage": 15.27,
+        "child_population_percentage_calculated": 15.27,
+        "child_population_percentage_stated": 15.27,
+        "child_population_total": 51571,
+        "child_sex_ratio": 969,
+        "female": 163958,
+        "literacy_rate_female": 78.06,
+        "literacy_rate_male": 90.56,
+        "literacy_rate_percentage": 84.5,
+        "literate_female": 108178,
+        "literate_male": 133640,
+        "literate_total": 241818,
+        "male": 173773,
+        "percentage_population": 89.29,
+        "population": 337731,
+        "sex_ratio": 944
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/459-dhalai.html",
+    "urban": {
+        "child_population_female": 2176,
+        "child_population_male": 2264,
+        "child_population_percentage": 10.96,
+        "child_population_percentage_calculated": 10.96,
+        "child_population_percentage_stated": 10.96,
+        "child_population_total": 4440,
+        "child_sex_ratio": 961,
+        "female": 19728,
+        "literacy_rate_female": 93.41,
+        "literacy_rate_male": 97.28,
+        "literacy_rate_percentage": 95.4,
+        "literate_female": 16396,
+        "literate_male": 18003,
+        "literate_total": 34399,
+        "male": 20771,
+        "percentage_population": 10.71,
+        "population": 40499,
+        "sex_ratio": 950
+    }
+}

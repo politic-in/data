@@ -1,0 +1,71 @@
+{
+  "state": "West Bengal",
+  "constituency": "SANDESHKHALI (ST)",
+  "district": "North Twenty Four Parganas",
+  "ac_type": "ST",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 214421,
+        "total_votes_polled": 184567,
+        "turnout_percentage": 87.5,
+        "margin_votes": 38190,
+        "margin_percentage": 20.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sukumar Mahata",
+          "party": "All India Trinamool Congress",
+          "votes": 96556,
+          "votes_percentage": 52.3
+        },
+        {
+          "position": 2,
+          "name": "Nirapada Sardar",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 58366,
+          "votes_percentage": 31.6
+        },
+        {
+          "position": 3,
+          "name": "Sukumar Sardar",
+          "party": "Bharatiya Janta Party",
+          "votes": 23841,
+          "votes_percentage": 12.9
+        },
+        {
+          "position": 4,
+          "name": "Manib Sardar",
+          "party": "Amra Bangalee",
+          "votes": 1890,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Ramkrishna Munda (SARDAR)",
+          "party": "Bahujan Samaj Party",
+          "votes": 1686,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Krishna Pada Munda",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1218,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Harish Chandra Sardar",
+          "party": "Independent",
+          "votes": 1010,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 129626,
+        "male": 131867,
+        "percentage_of_total_population": 17.41,
+        "percentage_of_total_population_calculated": 17.41,
+        "percentage_of_total_population_stated": 17.41,
+        "sex_ratio": 983,
+        "total": 261493
+    },
+    "literacy": {
+        "female_literacy_rate": 46.25,
+        "female_literate": 288288,
+        "male_literacy_rate": 71.13,
+        "male_literate": 439273,
+        "rate_percentage": 58.63,
+        "total_literate": 727561
+    },
+    "population": {
+        "female": 752953,
+        "male": 749385,
+        "sex_ratio": 1005,
+        "total": 1502338
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.03,
+            "population": 389
+        },
+        "Christian": {
+            "percentage": 5.83,
+            "population": 87587
+        },
+        "Hindu": {
+            "percentage": 28.22,
+            "population": 423937
+        },
+        "Jain": {
+            "percentage": 0.0,
+            "population": 52
+        },
+        "Muslims": {
+            "percentage": 2.54,
+            "population": 38103
+        },
+        "Not Stated": {
+            "percentage": 0.36,
+            "population": 5460
+        },
+        "Others": {
+            "percentage": 62.96,
+            "population": 945864
+        },
+        "Sikh": {
+            "percentage": 0.06,
+            "population": 946
+        }
+    },
+    "rural": {
+        "child_population_female": 116214,
+        "child_population_male": 117879,
+        "child_population_percentage": 18.23,
+        "child_population_percentage_calculated": 18.23,
+        "child_population_percentage_stated": 18.23,
+        "child_population_total": 234093,
+        "child_sex_ratio": 986,
+        "female": 646647,
+        "literacy_rate_female": 41.19,
+        "literacy_rate_male": 67.71,
+        "literacy_rate_percentage": 54.31,
+        "literate_female": 218459,
+        "literate_male": 351945,
+        "literate_total": 570404,
+        "male": 637657,
+        "percentage_population": 85.49,
+        "population": 1284304,
+        "sex_ratio": 1014
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/110-pashchimi-singhbhum.html",
+    "urban": {
+        "child_population_female": 13443,
+        "child_population_male": 13957,
+        "child_population_percentage": 12.57,
+        "child_population_percentage_calculated": 12.57,
+        "child_population_percentage_stated": 12.57,
+        "child_population_total": 27400,
+        "child_sex_ratio": 963,
+        "female": 106306,
+        "literacy_rate_female": 75.2,
+        "literacy_rate_male": 89.32,
+        "literacy_rate_percentage": 82.44,
+        "literate_female": 69829,
+        "literate_male": 87328,
+        "literate_total": 157157,
+        "male": 111728,
+        "percentage_population": 14.51,
+        "population": 218034,
+        "sex_ratio": 951
+    }
+}

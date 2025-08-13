@@ -1,0 +1,71 @@
+{
+  "state": "Madhya Pradesh [2000 Onwards]",
+  "constituency": "Bhinsdehi",
+  "district": "Betul",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 223408,
+        "total_votes_polled": 192801,
+        "turnout_percentage": 89.9,
+        "margin_votes": 30880,
+        "margin_percentage": 16.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dharmu Singh Sirsam",
+          "party": "Indian National Congress",
+          "votes": 104592,
+          "votes_percentage": 54.3
+        },
+        {
+          "position": 2,
+          "name": "Mahendra Singh Chouhan",
+          "party": "Bharatiya Janta Party",
+          "votes": 73712,
+          "votes_percentage": 38.2
+        },
+        {
+          "position": 3,
+          "name": "Sevaram Ewaney",
+          "party": "Gondvana Gantantra Party",
+          "votes": 5693,
+          "votes_percentage": 3.0
+        },
+        {
+          "position": 4,
+          "name": "Narbadi Uikey",
+          "party": "Bahujan Samaj Party",
+          "votes": 3128,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 5,
+          "name": "Rangilal Meshram",
+          "party": "Bahujan Mukti Party",
+          "votes": 2410,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 6,
+          "name": "Yogendra Singh Chouhan",
+          "party": "Independent",
+          "votes": 1951,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 7,
+          "name": "Sunil Kawde",
+          "party": "Aam Aadmi Party",
+          "votes": 1315,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

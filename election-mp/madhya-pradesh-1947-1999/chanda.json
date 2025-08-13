@@ -1,0 +1,41 @@
+{
+  "state": "Madhya Pradesh [1947   1999]",
+  "constituency": "CHANDA",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 368225,
+        "total_votes_polled": 230336,
+        "turnout_percentage": 62.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mulla Abdullabhai Taherali",
+          "party": "Indian National Congress",
+          "votes": 142277,
+          "votes_percentage": 61.8
+        },
+        {
+          "position": 2,
+          "name": "Govindrao Nilkanthrao Hastak",
+          "party": "Socialist Party",
+          "votes": 55148,
+          "votes_percentage": 23.9
+        },
+        {
+          "position": 3,
+          "name": "Ranshah Bapu-Gangshah Bapu Sayyam",
+          "party": "Akhil Bharatiya Ram Rajya Parishad",
+          "votes": 32911,
+          "votes_percentage": 14.3
+        }
+      ]
+    }
+  }
+}

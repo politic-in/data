@@ -1,0 +1,148 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/politic-in/data/schemas/census.schema.json",
+  "title": "Census Data Schema",
+  "description": "Schema for validating census demographic data",
+  "type": "object",
+  "required": [
+    "population",
+    "literacy"
+  ],
+  "properties": {
+    "child_population": {
+      "type": "object",
+      "required": ["female", "male", "total", "sex_ratio"],
+      "properties": {
+        "female": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Female child population"
+        },
+        "male": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Male child population"
+        },
+        "total": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Total child population"
+        },
+        "sex_ratio": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Sex ratio (females per 1000 males)"
+        },
+        "percentage_of_total_population": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100,
+          "description": "Child population as percentage of total"
+        },
+        "percentage_of_total_population_calculated": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100
+        },
+        "percentage_of_total_population_stated": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100
+        }
+      },
+      "additionalProperties": false
+    },
+    "literacy": {
+      "type": "object",
+      "required": ["total_literate"],
+      "properties": {
+        "female_literacy_rate": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100,
+          "description": "Female literacy rate percentage"
+        },
+        "female_literate": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Number of literate females"
+        },
+        "male_literacy_rate": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100,
+          "description": "Male literacy rate percentage"
+        },
+        "male_literate": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Number of literate males"
+        },
+        "rate_percentage": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100,
+          "description": "Overall literacy rate percentage"
+        },
+        "total_literate": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Total literate population"
+        }
+      },
+      "additionalProperties": false
+    },
+    "population": {
+      "type": "object",
+      "required": ["female", "male", "total"],
+      "properties": {
+        "female": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Female population"
+        },
+        "male": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Male population"
+        },
+        "sex_ratio": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Sex ratio (females per 1000 males)"
+        },
+        "total": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Total population"
+        }
+      },
+      "additionalProperties": false
+    },
+    "religion": {
+      "type": "object",
+      "patternProperties": {
+        "^[A-Za-z_]+$": {
+          "type": "object",
+          "required": ["percentage", "population"],
+          "properties": {
+            "percentage": {
+              "type": "number",
+              "minimum": 0,
+              "maximum": 100,
+              "description": "Percentage of total population"
+            },
+            "population": {
+              "type": "integer",
+              "minimum": 0,
+              "description": "Population count"
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": true
+}

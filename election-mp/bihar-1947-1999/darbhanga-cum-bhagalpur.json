@@ -1,0 +1,34 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "DARBHANGA CUM BHAGALPUR",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 331476,
+        "total_votes_polled": 146291,
+        "turnout_percentage": 44.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Lalit Narayan Misra",
+          "party": "Indian National Congress",
+          "votes": 94414,
+          "votes_percentage": 64.5
+        },
+        {
+          "position": 2,
+          "name": "Tapeshwari Mandal",
+          "party": "Socialist Party",
+          "votes": 51877,
+          "votes_percentage": 35.5
+        }
+      ]
+    }
+  }
+}

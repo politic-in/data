@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 10171,
+        "male": 10474,
+        "percentage_of_total_population": 16.42,
+        "percentage_of_total_population_calculated": 16.42,
+        "percentage_of_total_population_stated": 16.42,
+        "sex_ratio": 971,
+        "total": 20645
+    },
+    "literacy": {
+        "female_literacy_rate": 94.59,
+        "female_literate": 49362,
+        "male_literacy_rate": 97.21,
+        "male_literate": 51440,
+        "rate_percentage": 95.91,
+        "total_literate": 100802
+    },
+    "population": {
+        "female": 62357,
+        "male": 63388,
+        "sex_ratio": 984,
+        "total": 125745
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.12,
+            "population": 151
+        },
+        "Christian": {
+            "percentage": 98.17,
+            "population": 123446
+        },
+        "Hindu": {
+            "percentage": 0.85,
+            "population": 1075
+        },
+        "Jain": {
+            "percentage": 0.04,
+            "population": 45
+        },
+        "Muslims": {
+            "percentage": 0.56,
+            "population": 699
+        },
+        "Not Stated": {
+            "percentage": 0.1,
+            "population": 126
+        },
+        "Others": {
+            "percentage": 0.15,
+            "population": 194
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 9
+        }
+    },
+    "rural": {
+        "child_population_female": 6521,
+        "child_population_male": 6735,
+        "child_population_percentage": 17.17,
+        "child_population_percentage_calculated": 17.17,
+        "child_population_percentage_stated": 17.17,
+        "child_population_total": 13256,
+        "child_sex_ratio": 968,
+        "female": 38106,
+        "literacy_rate_female": 93.85,
+        "literacy_rate_male": 96.93,
+        "literacy_rate_percentage": 95.41,
+        "literate_female": 29642,
+        "literate_male": 31380,
+        "literate_total": 61022,
+        "male": 39110,
+        "percentage_population": 61.41,
+        "population": 77216,
+        "sex_ratio": 974
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/389-champhai.html",
+    "urban": {
+        "child_population_female": 3650,
+        "child_population_male": 3739,
+        "child_population_percentage": 15.23,
+        "child_population_percentage_calculated": 15.23,
+        "child_population_percentage_stated": 15.23,
+        "child_population_total": 7389,
+        "child_sex_ratio": 976,
+        "female": 24251,
+        "literacy_rate_female": 95.72,
+        "literacy_rate_male": 97.67,
+        "literacy_rate_percentage": 96.69,
+        "literate_female": 19720,
+        "literate_male": 20060,
+        "literate_total": 39780,
+        "male": 24278,
+        "percentage_population": 38.59,
+        "population": 48529,
+        "sex_ratio": 999
+    }
+}

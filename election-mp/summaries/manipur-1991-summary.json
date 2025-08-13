@@ -1,0 +1,45 @@
+{
+  "state": "Manipur",
+  "year": "1991",
+  "summary_stats": {
+    "total_electors_state": 1232149,
+    "total_votes_polled_state": 858194,
+    "turnout_percentage_state": 69.7,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Inner Manipur",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Manipur",
+      "winning_candidate": "Yamnam Yaima",
+      "winning_party": "Manipur Peoples Party",
+      "total_electors_ac": 611503,
+      "total_votes_ac": 375908,
+      "poll_percentage_ac": 0.0,
+      "margin": 21097,
+      "margin_percentage": 5.6,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1991/manipur/inner-manipur/4767/24/10"
+    },
+    {
+      "ac_name": "Outer Manipur",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Manipur",
+      "winning_candidate": "Meijinlung Kamson",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 620646,
+      "total_votes_ac": 482286,
+      "poll_percentage_ac": 0.0,
+      "margin": 19369,
+      "margin_percentage": 4.0,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1991/manipur/outer-manipur/4768/24/10"
+    }
+  ]
+}

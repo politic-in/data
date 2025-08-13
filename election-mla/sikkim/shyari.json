@@ -1,0 +1,124 @@
+{
+  "state": "Sikkim",
+  "constituency": "Shyari",
+  "district": "East",
+  "ac_type": "BL",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 15843,
+        "total_votes_polled": 12090,
+        "turnout_percentage": 77.1,
+        "margin_votes": 1356,
+        "margin_percentage": 11.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kunga Nima Lepcha",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 6638,
+          "votes_percentage": 54.9
+        },
+        {
+          "position": 2,
+          "name": "Karma Wangdi Bhutia",
+          "party": "Sikkim Democratic Front",
+          "votes": 5282,
+          "votes_percentage": 43.7
+        },
+        {
+          "position": 3,
+          "name": "Chewang Dorjee Bhutia",
+          "party": "Indian National Congress",
+          "votes": 170,
+          "votes_percentage": 1.4
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "12 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 12604,
+        "total_votes_polled": 10194,
+        "turnout_percentage": 80.9,
+        "total_valid_votes": 10054,
+        "total_valid_votes_percentage": 79.8,
+        "margin_votes": 736,
+        "margin_percentage": 7.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kunga Nima Lepcha",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 5324,
+          "votes_percentage": 53.0
+        },
+        {
+          "position": 2,
+          "name": "Karma Tempo Namgyal Gyaltsen",
+          "party": "Sikkim Democratic Front",
+          "votes": 4588,
+          "votes_percentage": 45.6
+        },
+        {
+          "position": 3,
+          "name": "Samdup Dorjee Lama",
+          "party": "Indian National Congress",
+          "votes": 142,
+          "votes_percentage": 1.4
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "30 April 2009",
+      "counting_date": "05 June 2009",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 9779,
+        "total_votes_polled": 7971,
+        "turnout_percentage": 81.5,
+        "total_valid_votes": 7707,
+        "total_valid_votes_percentage": 78.8,
+        "margin_votes": 2281,
+        "margin_percentage": 28.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Karma Tempo Namgyalgyaltsen",
+          "party": "Sikkim Democratic Front",
+          "votes": 5034,
+          "votes_percentage": 63.2
+        },
+        {
+          "position": 2,
+          "name": "Kunga Nima Lepcha",
+          "party": "Indian National Congress",
+          "votes": 2753,
+          "votes_percentage": 34.5
+        },
+        {
+          "position": 3,
+          "name": "Karma Tsh. Sherpa",
+          "party": "Sikkim Gorkha Prajatantric Party",
+          "votes": 97,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 4,
+          "name": "Ang Tshering Bhutia",
+          "party": "Sikkim Himali Rajya Parishad",
+          "votes": 87,
+          "votes_percentage": 1.1
+        }
+      ]
+    }
+  }
+}

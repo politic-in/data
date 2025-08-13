@@ -1,0 +1,50 @@
+{
+  "state": "Tripura",
+  "constituency": "Nalchar (SC)",
+  "district": "West Tripura",
+  "ac_type": "SC",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 41474,
+        "total_votes_polled": 38895,
+        "turnout_percentage": 94.6,
+        "margin_votes": 451,
+        "margin_percentage": 1.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Subhash Chandra Das",
+          "party": "Bharatiya Janta Party",
+          "votes": 19261,
+          "votes_percentage": 49.5
+        },
+        {
+          "position": 2,
+          "name": "Tapan Chandra Das",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 18810,
+          "votes_percentage": 48.4
+        },
+        {
+          "position": 3,
+          "name": "Rakesh Das",
+          "party": "Indian National Congress",
+          "votes": 594,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Ashutosh Das",
+          "party": "Amra Bangalee",
+          "votes": 230,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

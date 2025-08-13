@@ -1,0 +1,43 @@
+{
+  "state": "Maharashtra",
+  "constituency": "Ealabad",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 113228,
+        "total_votes_polled": 75330,
+        "turnout_percentage": 66.5,
+        "margin_votes": 12668,
+        "margin_percentage": 16.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Patil Pratibha Devising",
+          "party": "Indian National Congress (I)",
+          "votes": 35382,
+          "votes_percentage": 48.0
+        },
+        {
+          "position": 2,
+          "name": "Patil Pralhadrao Eknathrao",
+          "party": "Indian National Congress (U)",
+          "votes": 22714,
+          "votes_percentage": 30.8
+        },
+        {
+          "position": 3,
+          "name": "Ashok Devidas Phadke",
+          "party": "Bharatiya Janta Party",
+          "votes": 15595,
+          "votes_percentage": 21.2
+        }
+      ]
+    }
+  }
+}

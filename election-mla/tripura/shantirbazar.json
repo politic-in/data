@@ -1,0 +1,50 @@
+{
+  "state": "Tripura",
+  "constituency": "SHANTIRBAZAR",
+  "district": "South Tripura",
+  "ac_type": "ST",
+  "results": {
+    "2013": {
+      "poll_date": "14 February 2013",
+      "counting_date": "28 February 2013",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 41569,
+        "total_votes_polled": 39341,
+        "turnout_percentage": 94.6,
+        "margin_votes": 3756,
+        "margin_percentage": 9.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Manindra Reang",
+          "party": "Communist Party Of India",
+          "votes": 20798,
+          "votes_percentage": 52.9
+        },
+        {
+          "position": 2,
+          "name": "Gouri Sankar Reang",
+          "party": "Indian National Congress",
+          "votes": 17042,
+          "votes_percentage": 43.3
+        },
+        {
+          "position": 3,
+          "name": "Rana Kishore Reang",
+          "party": "Indigenous People's Front Of Tripura",
+          "votes": 888,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 4,
+          "name": "Parikshit Debbarma",
+          "party": "Bharatiya Janta Party",
+          "votes": 613,
+          "votes_percentage": 1.6
+        }
+      ]
+    }
+  }
+}

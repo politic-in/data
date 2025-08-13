@@ -1,0 +1,120 @@
+{
+  "state": "Karnataka",
+  "constituency": "Kapu",
+  "district": "Udupi",
+  "ac_type": "GEN",
+  "results": {
+    "2023": {
+      "poll_date": "10 May 2023",
+      "counting_date": "10 May 2023",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 189002,
+        "total_votes_polled": 150550,
+        "turnout_percentage": 80.1,
+        "margin_votes": 13004,
+        "margin_percentage": 8.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gurme Suresh Shetty",
+          "party": "Bharatiya Janta Party",
+          "votes": 80559,
+          "votes_percentage": 53.2
+        },
+        {
+          "position": 2,
+          "name": "Vinay Kumar Sorake",
+          "party": "Indian National Congress",
+          "votes": 67555,
+          "votes_percentage": 44.6
+        },
+        {
+          "position": 3,
+          "name": "Mohammed Haneef",
+          "party": "Social Democratic Party Of India",
+          "votes": 1616,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 4,
+          "name": "Sabina Samad",
+          "party": "Janata Dal (Secular)",
+          "votes": 568,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 5,
+          "name": "S.R.Lobo",
+          "party": "Aam Aadmi Party",
+          "votes": 252,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2008": {
+      "poll_date": "16 May 2008",
+      "counting_date": "25 May 2008",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 138057,
+        "total_votes_polled": 98653,
+        "turnout_percentage": 71.5,
+        "margin_votes": 967,
+        "margin_percentage": 1.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Lalaji R. Mendon",
+          "party": "Bharatiya Janta Party",
+          "votes": 45961,
+          "votes_percentage": 46.6
+        },
+        {
+          "position": 2,
+          "name": "Vasantha V. Salian",
+          "party": "Indian National Congress",
+          "votes": 44994,
+          "votes_percentage": 45.6
+        },
+        {
+          "position": 3,
+          "name": "Leeladhara Shetty",
+          "party": "Janata Dal (Secular)",
+          "votes": 3341,
+          "votes_percentage": 3.4
+        },
+        {
+          "position": 4,
+          "name": "Nagesh Rao",
+          "party": "Independent",
+          "votes": 2030,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 5,
+          "name": "Stevan John Menezes",
+          "party": "Bahujan Samaj Party",
+          "votes": 1109,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Gururaj Bhat Alias Surya",
+          "party": "Independent",
+          "votes": 680,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Karunakar Prabhu",
+          "party": "Samajwadi Party",
+          "votes": 538,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

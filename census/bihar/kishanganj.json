@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 170900,
+        "male": 176004,
+        "percentage_of_total_population": 20.52,
+        "percentage_of_total_population_calculated": 20.52,
+        "percentage_of_total_population_stated": 20.52,
+        "sex_ratio": 971,
+        "total": 346904
+    },
+    "literacy": {
+        "female_literacy_rate": 46.76,
+        "female_literate": 305135,
+        "male_literacy_rate": 63.66,
+        "male_literate": 439921,
+        "rate_percentage": 55.46,
+        "total_literate": 745056
+    },
+    "population": {
+        "female": 823430,
+        "male": 866970,
+        "sex_ratio": 950,
+        "total": 1690400
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 183
+        },
+        "Christian": {
+            "percentage": 0.34,
+            "population": 5783
+        },
+        "Hindu": {
+            "percentage": 31.43,
+            "population": 531236
+        },
+        "Jain": {
+            "percentage": 0.09,
+            "population": 1476
+        },
+        "Muslims": {
+            "percentage": 67.98,
+            "population": 1149095
+        },
+        "Not Stated": {
+            "percentage": 0.13,
+            "population": 2201
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 28
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 398
+        }
+    },
+    "rural": {
+        "child_population_female": 157747,
+        "child_population_male": 162319,
+        "child_population_percentage": 20.93,
+        "child_population_percentage_calculated": 20.93,
+        "child_population_percentage_stated": 20.93,
+        "child_population_total": 320066,
+        "child_sex_ratio": 972,
+        "female": 745959,
+        "literacy_rate_female": 44.74,
+        "literacy_rate_male": 62.21,
+        "literacy_rate_percentage": 53.71,
+        "literate_female": 263156,
+        "literate_male": 386310,
+        "literate_total": 649466,
+        "male": 783318,
+        "percentage_population": 90.47,
+        "population": 1529277,
+        "sex_ratio": 952
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/62-kishanganj.html",
+    "urban": {
+        "child_population_female": 13195,
+        "child_population_male": 13643,
+        "child_population_percentage": 16.66,
+        "child_population_percentage_calculated": 16.66,
+        "child_population_percentage_stated": 16.66,
+        "child_population_total": 26838,
+        "child_sex_ratio": 967,
+        "female": 77471,
+        "literacy_rate_female": 65.31,
+        "literacy_rate_male": 76.58,
+        "literacy_rate_percentage": 71.18,
+        "literate_female": 41979,
+        "literate_male": 53611,
+        "literate_total": 95590,
+        "male": 83652,
+        "percentage_population": 9.53,
+        "population": 161123,
+        "sex_ratio": 926
+    }
+}

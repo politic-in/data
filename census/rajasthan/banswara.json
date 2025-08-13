@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 157091,
+        "male": 168192,
+        "percentage_of_total_population": 18.1,
+        "percentage_of_total_population_calculated": 18.1,
+        "percentage_of_total_population_stated": 18.1,
+        "sex_ratio": 934,
+        "total": 325283
+    },
+    "literacy": {
+        "female_literacy_rate": 43.06,
+        "female_literate": 315489,
+        "male_literacy_rate": 69.48,
+        "male_literate": 513854,
+        "rate_percentage": 56.33,
+        "total_literate": 829343
+    },
+    "population": {
+        "female": 889731,
+        "male": 907754,
+        "sex_ratio": 980,
+        "total": 1797485
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 138
+        },
+        "Christian": {
+            "percentage": 1.24,
+            "population": 22250
+        },
+        "Hindu": {
+            "percentage": 94.65,
+            "population": 1701234
+        },
+        "Jain": {
+            "percentage": 1.26,
+            "population": 22613
+        },
+        "Muslims": {
+            "percentage": 2.72,
+            "population": 48834
+        },
+        "Not Stated": {
+            "percentage": 0.1,
+            "population": 1880
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 109
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 427
+        }
+    },
+    "rural": {
+        "child_population_female": 149792,
+        "child_population_male": 159861,
+        "child_population_percentage": 18.54,
+        "child_population_percentage_calculated": 18.54,
+        "child_population_percentage_stated": 18.54,
+        "child_population_total": 309653,
+        "child_sex_ratio": 937,
+        "female": 827097,
+        "literacy_rate_female": 40.1,
+        "literacy_rate_male": 67.7,
+        "literacy_rate_percentage": 53.96,
+        "literate_female": 271605,
+        "literate_male": 462325,
+        "literate_total": 733930,
+        "male": 842767,
+        "percentage_population": 92.9,
+        "population": 1669864,
+        "sex_ratio": 981
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/450-banswara.html",
+    "urban": {
+        "child_population_female": 7266,
+        "child_population_male": 8364,
+        "child_population_percentage": 12.25,
+        "child_population_percentage_calculated": 12.25,
+        "child_population_percentage_stated": 12.25,
+        "child_population_total": 15630,
+        "child_sex_ratio": 869,
+        "female": 62634,
+        "literacy_rate_female": 79.26,
+        "literacy_rate_male": 91.0,
+        "literacy_rate_percentage": 85.2,
+        "literate_female": 43884,
+        "literate_male": 51529,
+        "literate_total": 95413,
+        "male": 64987,
+        "percentage_population": 7.1,
+        "population": 127621,
+        "sex_ratio": 964
+    }
+}

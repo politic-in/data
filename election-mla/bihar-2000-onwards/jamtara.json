@@ -1,0 +1,71 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "Jamtara",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 167935,
+        "total_votes_polled": 107586,
+        "turnout_percentage": 64.1,
+        "margin_votes": 8264,
+        "margin_percentage": 7.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Furkan Ansari",
+          "party": "Indian National Congress",
+          "votes": 42002,
+          "votes_percentage": 39.5
+        },
+        {
+          "position": 2,
+          "name": "Bishnu Prasad Bhaiya",
+          "party": "Bharatiya Janta Party",
+          "votes": 33738,
+          "votes_percentage": 31.7
+        },
+        {
+          "position": 3,
+          "name": "Shyam Lal Hembram",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 23541,
+          "votes_percentage": 22.1
+        },
+        {
+          "position": 4,
+          "name": "Jay Prakash Mandal",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 3578,
+          "votes_percentage": 3.4
+        },
+        {
+          "position": 5,
+          "name": "Chintamani Mandal",
+          "party": "Communist Party Of India",
+          "votes": 1984,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 6,
+          "name": "Asit Kumar Mandal",
+          "party": "Samajwadi Party",
+          "votes": 861,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 7,
+          "name": "Shiv Shankar Lal Murmu",
+          "party": "Independent",
+          "votes": 667,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

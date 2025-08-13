@@ -1,0 +1,43 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Daksing-taliha",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "1984": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 11119,
+        "total_votes_polled": 8650,
+        "turnout_percentage": 77.8,
+        "margin_votes": 660,
+        "margin_percentage": 7.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Punji Mara",
+          "party": "Indian National Congress",
+          "votes": 3504,
+          "votes_percentage": 43.1
+        },
+        {
+          "position": 2,
+          "name": "Tara Payeng",
+          "party": "Bharatiya Janta Party",
+          "votes": 2844,
+          "votes_percentage": 35.0
+        },
+        {
+          "position": 3,
+          "name": "Tache Nalo",
+          "party": "Independent",
+          "votes": 1790,
+          "votes_percentage": 22.0
+        }
+      ]
+    }
+  }
+}

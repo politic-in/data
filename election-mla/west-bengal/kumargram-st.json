@@ -1,0 +1,64 @@
+{
+  "state": "West Bengal",
+  "constituency": "KUMARGRAM (ST)",
+  "district": "Jalpaiguri",
+  "ac_type": "ST",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 241451,
+        "total_votes_polled": 202532,
+        "turnout_percentage": 86.3,
+        "margin_votes": 6153,
+        "margin_percentage": 3.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "James Kujur",
+          "party": "All India Trinamool Congress",
+          "votes": 77668,
+          "votes_percentage": 38.4
+        },
+        {
+          "position": 2,
+          "name": "Manoj Kumar Oraon",
+          "party": "Revolutionary Socialist Party",
+          "votes": 71515,
+          "votes_percentage": 35.3
+        },
+        {
+          "position": 3,
+          "name": "Leos Kujur",
+          "party": "Bharatiya Janta Party",
+          "votes": 45137,
+          "votes_percentage": 22.3
+        },
+        {
+          "position": 4,
+          "name": "Vinay Kr. Minj",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 3296,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 5,
+          "name": "Eliash Narjinary",
+          "party": "Bahujan Samaj Party",
+          "votes": 2737,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 6,
+          "name": "Ram Oraon",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 2179,
+          "votes_percentage": 1.1
+        }
+      ]
+    }
+  }
+}

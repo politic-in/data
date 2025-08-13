@@ -1,0 +1,71 @@
+{
+  "state": "Delhi [1977 Onwards]",
+  "constituency": "Tughlaqabad",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 71489,
+        "total_votes_polled": 37918,
+        "turnout_percentage": 53.0,
+        "margin_votes": 4432,
+        "margin_percentage": 11.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Prem Singh",
+          "party": "Indian National Congress",
+          "votes": 17059,
+          "votes_percentage": 47.1
+        },
+        {
+          "position": 2,
+          "name": "Mitter Sain",
+          "party": "Janta Party",
+          "votes": 12627,
+          "votes_percentage": 34.9
+        },
+        {
+          "position": 3,
+          "name": "S.C. Khairalia",
+          "party": "Independent",
+          "votes": 2915,
+          "votes_percentage": 8.1
+        },
+        {
+          "position": 4,
+          "name": "Mohan Lal",
+          "party": "Independent",
+          "votes": 1999,
+          "votes_percentage": 5.5
+        },
+        {
+          "position": 5,
+          "name": "Madan Lal",
+          "party": "Independent",
+          "votes": 867,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 6,
+          "name": "G.R. Vidyarathi",
+          "party": "Independent",
+          "votes": 537,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 7,
+          "name": "Dorai Swamy",
+          "party": "Independent",
+          "votes": 229,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

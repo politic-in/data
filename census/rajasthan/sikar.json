@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 174314,
+        "male": 205560,
+        "percentage_of_total_population": 14.19,
+        "percentage_of_total_population_calculated": 14.19,
+        "percentage_of_total_population_stated": 14.19,
+        "sex_ratio": 848,
+        "total": 379874
+    },
+    "literacy": {
+        "female_literacy_rate": 58.23,
+        "female_literate": 656842,
+        "male_literacy_rate": 85.11,
+        "male_literate": 995275,
+        "rate_percentage": 71.91,
+        "total_literate": 1652117
+    },
+    "population": {
+        "female": 1302343,
+        "male": 1374990,
+        "sex_ratio": 947,
+        "total": 2677333
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 177
+        },
+        "Christian": {
+            "percentage": 0.04,
+            "population": 1122
+        },
+        "Hindu": {
+            "percentage": 87.48,
+            "population": 2342076
+        },
+        "Jain": {
+            "percentage": 0.15,
+            "population": 4050
+        },
+        "Muslims": {
+            "percentage": 12.24,
+            "population": 327583
+        },
+        "Not Stated": {
+            "percentage": 0.07,
+            "population": 1954
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 15
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 356
+        }
+    },
+    "rural": {
+        "child_population_female": 133415,
+        "child_population_male": 158317,
+        "child_population_percentage": 14.28,
+        "child_population_percentage_calculated": 14.28,
+        "child_population_percentage_stated": 14.28,
+        "child_population_total": 291732,
+        "child_sex_ratio": 843,
+        "female": 995958,
+        "literacy_rate_female": 56.35,
+        "literacy_rate_male": 84.89,
+        "literacy_rate_percentage": 70.84,
+        "literate_female": 486052,
+        "literate_male": 754783,
+        "literate_total": 1240835,
+        "male": 1047469,
+        "percentage_population": 76.32,
+        "population": 2043427,
+        "sex_ratio": 951
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/436-sikar.html",
+    "urban": {
+        "child_population_female": 40870,
+        "child_population_male": 47272,
+        "child_population_percentage": 13.9,
+        "child_population_percentage_calculated": 13.9,
+        "child_population_percentage_stated": 13.9,
+        "child_population_total": 88142,
+        "child_sex_ratio": 865,
+        "female": 306385,
+        "literacy_rate_female": 64.32,
+        "literacy_rate_male": 85.81,
+        "literacy_rate_percentage": 75.36,
+        "literate_female": 170790,
+        "literate_male": 240492,
+        "literate_total": 411282,
+        "male": 327521,
+        "percentage_population": 23.68,
+        "population": 633906,
+        "sex_ratio": 935
+    }
+}

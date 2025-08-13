@@ -1,0 +1,50 @@
+{
+  "state": "Mizoram",
+  "constituency": "AIZAWLWESTIII",
+  "district": "Aizawl",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 20574,
+        "total_votes_polled": 16763,
+        "turnout_percentage": 81.8,
+        "margin_votes": 1026,
+        "margin_percentage": 6.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "V.L. Zaithanzama",
+          "party": "Independent",
+          "votes": 6934,
+          "votes_percentage": 41.4
+        },
+        {
+          "position": 2,
+          "name": "Vanlalzawma",
+          "party": "Mizo National Front",
+          "votes": 5908,
+          "votes_percentage": 35.2
+        },
+        {
+          "position": 3,
+          "name": "Dr. C.T. Tluanga",
+          "party": "Indian National Congress",
+          "votes": 3521,
+          "votes_percentage": 21.0
+        },
+        {
+          "position": 4,
+          "name": "R Lalzamliana",
+          "party": "Bharatiya Janta Party",
+          "votes": 400,
+          "votes_percentage": 2.4
+        }
+      ]
+    }
+  }
+}

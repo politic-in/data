@@ -1,0 +1,50 @@
+{
+  "state": "Tripura",
+  "constituency": "Ramchandraghat (ST)",
+  "district": "West Tripura",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 39067,
+        "total_votes_polled": 35644,
+        "turnout_percentage": 92.2,
+        "margin_votes": 4235,
+        "margin_percentage": 11.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Prasanta Debbarma",
+          "party": "Indigenous People's Front Of Tripura",
+          "votes": 19439,
+          "votes_percentage": 54.5
+        },
+        {
+          "position": 2,
+          "name": "Padma Kumar Deb Barma",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 15204,
+          "votes_percentage": 42.7
+        },
+        {
+          "position": 3,
+          "name": "Animesh Debbarma",
+          "party": "Independent",
+          "votes": 603,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 4,
+          "name": "Tarani Debbarma",
+          "party": "Indian National Congress",
+          "votes": 398,
+          "votes_percentage": 1.1
+        }
+      ]
+    }
+  }
+}

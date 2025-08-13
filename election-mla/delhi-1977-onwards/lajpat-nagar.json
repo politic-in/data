@@ -1,0 +1,92 @@
+{
+  "state": "Delhi [1977 Onwards]",
+  "constituency": "Lajpat Nagar",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1983": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 55851,
+        "total_votes_polled": 29417,
+        "turnout_percentage": 52.7,
+        "margin_votes": 1465,
+        "margin_percentage": 5.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ram Lal Verma",
+          "party": "Bharatiya Janta Party",
+          "votes": 14967,
+          "votes_percentage": 51.8
+        },
+        {
+          "position": 2,
+          "name": "Padam Sharma",
+          "party": "Indian National Congress",
+          "votes": 13502,
+          "votes_percentage": 46.7
+        },
+        {
+          "position": 3,
+          "name": "Pradeep Kumar Gupta",
+          "party": "Independent",
+          "votes": 139,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 4,
+          "name": "Narinder Avasthi",
+          "party": "Independent",
+          "votes": 118,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 5,
+          "name": "Ravindra Nath Pathak",
+          "party": "Independent",
+          "votes": 88,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 6,
+          "name": "Kuldeep Singh",
+          "party": "Independent",
+          "votes": 78,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 47362,
+        "total_votes_polled": 26067,
+        "turnout_percentage": 55.0,
+        "margin_votes": 9076,
+        "margin_percentage": 34.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ram Lal Verma",
+          "party": "Janta Party",
+          "votes": 17292,
+          "votes_percentage": 67.8
+        },
+        {
+          "position": 2,
+          "name": "Raghu Nath Kapur",
+          "party": "Indian National Congress",
+          "votes": 8216,
+          "votes_percentage": 32.2
+        }
+      ]
+    }
+  }
+}

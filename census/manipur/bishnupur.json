@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 15109,
+        "male": 16194,
+        "percentage_of_total_population": 13.19,
+        "percentage_of_total_population_calculated": 13.19,
+        "percentage_of_total_population_stated": 13.19,
+        "sex_ratio": 933,
+        "total": 31303
+    },
+    "literacy": {
+        "female_literacy_rate": 66.68,
+        "female_literate": 69020,
+        "male_literacy_rate": 85.11,
+        "male_literate": 87313,
+        "rate_percentage": 75.85,
+        "total_literate": 156333
+    },
+    "population": {
+        "female": 118617,
+        "male": 118782,
+        "sex_ratio": 999,
+        "total": 237399
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.03,
+            "population": 76
+        },
+        "Christian": {
+            "percentage": 1.8,
+            "population": 4264
+        },
+        "Hindu": {
+            "percentage": 73.76,
+            "population": 175102
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 16
+        },
+        "Muslims": {
+            "percentage": 7.87,
+            "population": 18691
+        },
+        "Not Stated": {
+            "percentage": 0.31,
+            "population": 737
+        },
+        "Others": {
+            "percentage": 16.2,
+            "population": 38457
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 56
+        }
+    },
+    "rural": {
+        "child_population_female": 9721,
+        "child_population_male": 10388,
+        "child_population_percentage": 13.42,
+        "child_population_percentage_calculated": 13.42,
+        "child_population_percentage_stated": 13.42,
+        "child_population_total": 20109,
+        "child_sex_ratio": 936,
+        "female": 74723,
+        "literacy_rate_female": 63.89,
+        "literacy_rate_male": 83.4,
+        "literacy_rate_percentage": 73.63,
+        "literate_female": 41527,
+        "literate_male": 54031,
+        "literate_total": 95558,
+        "male": 75171,
+        "percentage_population": 63.14,
+        "population": 149894,
+        "sex_ratio": 994
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/373-bishnupur.html",
+    "urban": {
+        "child_population_female": 5390,
+        "child_population_male": 5804,
+        "child_population_percentage": 12.79,
+        "child_population_percentage_calculated": 12.79,
+        "child_population_percentage_stated": 12.79,
+        "child_population_total": 11194,
+        "child_sex_ratio": 929,
+        "female": 43894,
+        "literacy_rate_female": 71.4,
+        "literacy_rate_male": 88.03,
+        "literacy_rate_percentage": 79.64,
+        "literate_female": 27493,
+        "literate_male": 33282,
+        "literate_total": 60775,
+        "male": 43611,
+        "percentage_population": 36.86,
+        "population": 87505,
+        "sex_ratio": 1006
+    }
+}

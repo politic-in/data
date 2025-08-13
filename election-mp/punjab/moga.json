@@ -1,0 +1,36 @@
+{
+  "state": "Punjab",
+  "constituency": "MOGA",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 459407,
+        "total_votes_polled": 323060,
+        "turnout_percentage": 70.3,
+        "margin_votes": 30457,
+        "margin_percentage": 9.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Buta Singh",
+          "party": "Akali Dal",
+          "votes": 171081,
+          "votes_percentage": 53.0
+        },
+        {
+          "position": 2,
+          "name": "Chanan Singh",
+          "party": "Indian National Congress",
+          "votes": 140624,
+          "votes_percentage": 43.5
+        }
+      ]
+    }
+  }
+}

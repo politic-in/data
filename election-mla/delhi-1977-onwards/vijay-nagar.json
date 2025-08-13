@@ -1,0 +1,92 @@
+{
+  "state": "Delhi [1977 Onwards]",
+  "constituency": "Vijay Nagar",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1983": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 35375,
+        "total_votes_polled": 25650,
+        "turnout_percentage": 72.5,
+        "margin_votes": 3312,
+        "margin_percentage": 12.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chander Amrit",
+          "party": "Indian National Congress",
+          "votes": 13745,
+          "votes_percentage": 55.0
+        },
+        {
+          "position": 2,
+          "name": "Prashant Vedlankar",
+          "party": "Bharatiya Janta Party",
+          "votes": 10433,
+          "votes_percentage": 41.8
+        },
+        {
+          "position": 3,
+          "name": "Ramnath Guglani",
+          "party": "Janta Party",
+          "votes": 664,
+          "votes_percentage": 2.7
+        },
+        {
+          "position": 4,
+          "name": "Virender Paul",
+          "party": "Independent",
+          "votes": 85,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 5,
+          "name": "Gurcharan Singh Dhillon",
+          "party": "Independent",
+          "votes": 49,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 37824,
+        "total_votes_polled": 21468,
+        "turnout_percentage": 56.8,
+        "margin_votes": 3296,
+        "margin_percentage": 15.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Prashant Kumar",
+          "party": "Janta Party",
+          "votes": 12044,
+          "votes_percentage": 57.2
+        },
+        {
+          "position": 2,
+          "name": "Chander Amrit",
+          "party": "Indian National Congress",
+          "votes": 8748,
+          "votes_percentage": 41.6
+        },
+        {
+          "position": 3,
+          "name": "Mohinder Singh",
+          "party": "Independent",
+          "votes": 250,
+          "votes_percentage": 1.2
+        }
+      ]
+    }
+  }
+}

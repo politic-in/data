@@ -1,0 +1,41 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "SARAN NORTH",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 370681,
+        "total_votes_polled": 111627,
+        "turnout_percentage": 30.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jhulan Sinha",
+          "party": "Indian National Congress",
+          "votes": 68062,
+          "votes_percentage": 61.0
+        },
+        {
+          "position": 2,
+          "name": "Vidyabhushan Shukla",
+          "party": "Independent",
+          "votes": 23125,
+          "votes_percentage": 20.7
+        },
+        {
+          "position": 3,
+          "name": "Dharmadeo Verma",
+          "party": "Socialist Party",
+          "votes": 20440,
+          "votes_percentage": 18.3
+        }
+      ]
+    }
+  }
+}

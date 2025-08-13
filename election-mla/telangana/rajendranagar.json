@@ -1,0 +1,570 @@
+{
+  "state": "Telangana",
+  "constituency": "Rajendranagar",
+  "district": "Rangareddi",
+  "ac_type": "GEN",
+  "results": {
+    "2023": {
+      "poll_date": "17 November 2023",
+      "counting_date": "03 December 2023",
+      "total_contestants": 25,
+      "aggregate": {
+        "total_electors": 1164056,
+        "total_votes_polled": 326361,
+        "turnout_percentage": 28.2,
+        "margin_votes": 32096,
+        "margin_percentage": 9.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "T. Prakash Goud",
+          "party": "Bharat Rashtra Samithi",
+          "votes": 121734,
+          "votes_percentage": 37.1
+        },
+        {
+          "position": 2,
+          "name": "Thokala Srinivas Reddy",
+          "party": "Bharatiya Janta Party",
+          "votes": 89638,
+          "votes_percentage": 27.3
+        },
+        {
+          "position": 3,
+          "name": "Kasturi Narender",
+          "party": "Indian National Congress",
+          "votes": 82057,
+          "votes_percentage": 25.0
+        },
+        {
+          "position": 4,
+          "name": "Mandagiri Swamy Yadav",
+          "party": "All India Majlis-E-Ittehadul Muslimeen",
+          "votes": 25670,
+          "votes_percentage": 7.8
+        },
+        {
+          "position": 5,
+          "name": "Rachamalla Jaisimha",
+          "party": "Bahujan Samaj Party",
+          "votes": 1265,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Karre Srinivas",
+          "party": "Independent",
+          "votes": 795,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Nallagoppula Harish Goud",
+          "party": "Marxist Communist Party Of India (United)",
+          "votes": 719,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "Mohammed Nawaz",
+          "party": "Desh Janhit Party",
+          "votes": 677,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Srinivas Jennumahanthi",
+          "party": "Revolutionary Communist Party Of India  (Rasik Bhatt)",
+          "votes": 614,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "B.Ramulu Yadav",
+          "party": "All India Forward Bloc",
+          "votes": 572,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Syed Aijaz Hussaini",
+          "party": "Prabuddha Republican Party",
+          "votes": 352,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Mohd Abdul Aziz",
+          "party": "Navarang Congress Party",
+          "votes": 311,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Kolukuri Srinivas Reddy",
+          "party": "Independent",
+          "votes": 246,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Mahesh V",
+          "party": "Pyramid Party Of India",
+          "votes": 226,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Thotla Raghavender",
+          "party": "Dharma Samaj Party",
+          "votes": 169,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "Hema Jilloju",
+          "party": "Independent",
+          "votes": 153,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 17,
+          "name": "D Gopal Dandotikar",
+          "party": "Vidhyarthula Rajakiya Party",
+          "votes": 152,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 18,
+          "name": "Palamakula Madhu",
+          "party": "India Praja Bandhu Party",
+          "votes": 149,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 20,
+          "name": "Ponugoti Bhavani",
+          "party": "Jai Maha Bharath Party",
+          "votes": 136,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 19,
+          "name": "Mohammed Abdul Azeem",
+          "party": "Independent",
+          "votes": 136,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 21,
+          "name": "Gurrampally Kerith Kumari",
+          "party": "Bahujan Mukti Party",
+          "votes": 130,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 22,
+          "name": "Mohammed Iqbal",
+          "party": "Independent",
+          "votes": 127,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 23,
+          "name": "Mohd Amer",
+          "party": "Rashtriya Janmorcha",
+          "votes": 118,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 24,
+          "name": "Govind",
+          "party": "Independent",
+          "votes": 117,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 25,
+          "name": "Kandivanam Raju Mallesh Goud",
+          "party": "Independent",
+          "votes": 98,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 26,
+      "aggregate": {
+        "total_electors": 407413,
+        "total_votes_polled": 249205,
+        "turnout_percentage": 61.6,
+        "margin_votes": 58373,
+        "margin_percentage": 23.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tolkanti Prakash Goud",
+          "party": "Telangana Rashtra Samithi",
+          "votes": 108964,
+          "votes_percentage": 43.7
+        },
+        {
+          "position": 2,
+          "name": "Ganesh Renukuntla",
+          "party": "Telugu Desam",
+          "votes": 50591,
+          "votes_percentage": 20.3
+        },
+        {
+          "position": 3,
+          "name": "Mirza Rahmat Baig",
+          "party": "All India Majlis-E-Ittehadul Muslimeen",
+          "votes": 46547,
+          "votes_percentage": 18.7
+        },
+        {
+          "position": 4,
+          "name": "Baddam Bal Reddy",
+          "party": "Bharatiya Janta Party",
+          "votes": 19627,
+          "votes_percentage": 7.9
+        },
+        {
+          "position": 5,
+          "name": "Thokala Srinivas Reddy",
+          "party": "All India Forward Bloc",
+          "votes": 13084,
+          "votes_percentage": 5.3
+        },
+        {
+          "position": 6,
+          "name": "Gangani Mahender",
+          "party": "Bahujan Samaj Party",
+          "votes": 1562,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Srilatha",
+          "party": "Independent",
+          "votes": 1023,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Dr. Aluka Srinivas Rao",
+          "party": "Nationalist Congress Party",
+          "votes": 894,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Pustakala Babu Rao",
+          "party": "Independent",
+          "votes": 788,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Madapathi Mukesh",
+          "party": "Independent",
+          "votes": 723,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 11,
+          "name": "Vaddera Mahesh",
+          "party": "Pyramid Party Of India",
+          "votes": 719,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 12,
+          "name": "Gudidevini Raghavendra Swamy Goud",
+          "party": "Bahujana Left Party",
+          "votes": 715,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 13,
+          "name": "Peteru Devender",
+          "party": "Independent",
+          "votes": 543,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 14,
+          "name": "Azeem Mohd.",
+          "party": "Independent",
+          "votes": 537,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 15,
+          "name": "Sadiq Bin Salam",
+          "party": "Aam Aadmi Party",
+          "votes": 420,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 16,
+          "name": "Mohammed Nawaz",
+          "party": "Ambedkar National Congress",
+          "votes": 330,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 17,
+          "name": "Aeela Narsing Rao",
+          "party": "Shiv Sena",
+          "votes": 326,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 18,
+          "name": "Bandi Dhanraj",
+          "party": "India Praja Bandhu Party",
+          "votes": 311,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 19,
+          "name": "G Navaneetha",
+          "party": "Independent",
+          "votes": 253,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 20,
+          "name": "Santhosh U.",
+          "party": "Jai Bharath Jena Sena Party",
+          "votes": 248,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 21,
+          "name": "Ganesh Kumar Kashamoni",
+          "party": "Independent",
+          "votes": 214,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 22,
+          "name": "Pediripati Shekar Goud",
+          "party": "Jai Maha Bharath Party",
+          "votes": 182,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 23,
+          "name": "T Venkat Rao",
+          "party": "Independent",
+          "votes": 172,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 24,
+          "name": "Bodlapati Srinivasa Rao",
+          "party": "Independent",
+          "votes": 150,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 25,
+          "name": "Mohammed Salahuddin Sohhail",
+          "party": "Independent",
+          "votes": 143,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 26,
+          "name": "Rama Rao Salgare",
+          "party": "Independent",
+          "votes": 139,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "30 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 23,
+      "aggregate": {
+        "total_electors": 387232,
+        "total_votes_polled": 229586,
+        "turnout_percentage": 59.3,
+        "total_valid_votes": 228250,
+        "total_valid_votes_percentage": 58.9,
+        "margin_votes": 25881,
+        "margin_percentage": 11.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tolkanti Prakash Goud",
+          "party": "Telugu Desam",
+          "votes": 77843,
+          "votes_percentage": 34.1
+        },
+        {
+          "position": 2,
+          "name": "Gnaneshwar",
+          "party": "Indian National Congress",
+          "votes": 51962,
+          "votes_percentage": 22.8
+        },
+        {
+          "position": 3,
+          "name": "Zakeer Hussain Javid",
+          "party": "All India Majlis-E-Ittehadul Muslimoon",
+          "votes": 49053,
+          "votes_percentage": 21.5
+        },
+        {
+          "position": 4,
+          "name": "A. Swarnalatha Bheemarjun  Reddy",
+          "party": "Telangana Rashtra Samithi",
+          "votes": 29870,
+          "votes_percentage": 13.1
+        },
+        {
+          "position": 5,
+          "name": "Mujataba Ahmed Syed",
+          "party": "Yuvajana Sramika Rythu Congress Party",
+          "votes": 6028,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 6,
+          "name": "Kotha Solkar Reddy",
+          "party": "Lok Satta Party",
+          "votes": 2191,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 7,
+          "name": "Pendyala Narsing Rao",
+          "party": "Independent",
+          "votes": 1801,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 8,
+          "name": "Chalasani Vishnu Murthy",
+          "party": "Bahujan Samaj Party",
+          "votes": 1511,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 9,
+          "name": "A.Narsing Rao",
+          "party": "Independent",
+          "votes": 1507,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 10,
+          "name": "Vundavalli  Prameela",
+          "party": "Aam Aadmi Party",
+          "votes": 1257,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 11,
+          "name": "Ch. Raja Shekar",
+          "party": "Independent",
+          "votes": 839,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 12,
+          "name": "Khaja Gayasuddin",
+          "party": "Independent",
+          "votes": 584,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 13,
+          "name": "Vanam  Narender",
+          "party": "Pyramid Party Of India",
+          "votes": 548,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 14,
+          "name": "Brahmanulapally Balaraj Mudiraj",
+          "party": "Independent",
+          "votes": 521,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 15,
+          "name": "P.Joshua Suresh Kumar",
+          "party": "Indian Christian Secular Party",
+          "votes": 488,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 16,
+          "name": "Musab Hussain",
+          "party": "Independent",
+          "votes": 381,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 17,
+          "name": "Syed Shafiullah Quadri",
+          "party": "Welfare Party Of India",
+          "votes": 361,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 18,
+          "name": "Syed Omer",
+          "party": "Jai Samaikyandhra Party",
+          "votes": 336,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 19,
+          "name": "Manne Lakshman Kumar",
+          "party": "Jan Sangh Party",
+          "votes": 278,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 20,
+          "name": "Haji Amiroddin",
+          "party": "Independent",
+          "votes": 259,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 21,
+          "name": "Sabhapati Goverdhan Sabhapati",
+          "party": "Ekta Samaj Party",
+          "votes": 228,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 22,
+          "name": "Azizunnisa Begum",
+          "party": "Indian Minorities Political Party",
+          "votes": 221,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 23,
+          "name": "K. Harinadh",
+          "party": "Independent",
+          "votes": 183,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

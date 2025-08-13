@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 52828,
+        "male": 62816,
+        "percentage_of_total_population": 11.63,
+        "percentage_of_total_population_calculated": 11.63,
+        "percentage_of_total_population_stated": 11.63,
+        "sex_ratio": 841,
+        "total": 115644
+    },
+    "literacy": {
+        "female_literacy_rate": 79.18,
+        "female_literate": 326631,
+        "male_literacy_rate": 87.89,
+        "male_literate": 409944,
+        "rate_percentage": 83.8,
+        "total_literate": 736575
+    },
+    "population": {
+        "female": 465375,
+        "male": 529253,
+        "sex_ratio": 879,
+        "total": 994628
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.03,
+            "population": 257
+        },
+        "Christian": {
+            "percentage": 0.54,
+            "population": 5342
+        },
+        "Hindu": {
+            "percentage": 47.88,
+            "population": 476276
+        },
+        "Jain": {
+            "percentage": 0.13,
+            "population": 1257
+        },
+        "Muslims": {
+            "percentage": 2.96,
+            "population": 29488
+        },
+        "Not Stated": {
+            "percentage": 0.29,
+            "population": 2861
+        },
+        "Others": {
+            "percentage": 0.02,
+            "population": 239
+        },
+        "Sikh": {
+            "percentage": 48.15,
+            "population": 478908
+        }
+    },
+    "rural": {
+        "child_population_female": 23895,
+        "child_population_male": 29111,
+        "child_population_percentage": 11.78,
+        "child_population_percentage_calculated": 11.78,
+        "child_population_percentage_stated": 11.78,
+        "child_population_total": 53006,
+        "child_sex_ratio": 821,
+        "female": 209033,
+        "literacy_rate_female": 72.94,
+        "literacy_rate_male": 84.26,
+        "literacy_rate_percentage": 78.98,
+        "literate_female": 135036,
+        "literate_male": 178533,
+        "literate_total": 313569,
+        "male": 240984,
+        "percentage_population": 45.24,
+        "population": 450017,
+        "sex_ratio": 867
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/605-mohali.html",
+    "urban": {
+        "child_population_female": 28941,
+        "child_population_male": 33697,
+        "child_population_percentage": 11.5,
+        "child_population_percentage_calculated": 11.5,
+        "child_population_percentage_stated": 11.5,
+        "child_population_total": 62638,
+        "child_sex_ratio": 859,
+        "female": 256342,
+        "literacy_rate_female": 84.25,
+        "literacy_rate_male": 90.9,
+        "literacy_rate_percentage": 87.77,
+        "literate_female": 191595,
+        "literate_male": 231411,
+        "literate_total": 423006,
+        "male": 288269,
+        "percentage_population": 54.76,
+        "population": 544611,
+        "sex_ratio": 889
+    }
+}

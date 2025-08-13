@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 57102,
+        "male": 60746,
+        "percentage_of_total_population": 11.32,
+        "percentage_of_total_population_calculated": 11.32,
+        "percentage_of_total_population_stated": 11.32,
+        "sex_ratio": 940,
+        "total": 117848
+    },
+    "literacy": {
+        "female_literacy_rate": 67.93,
+        "female_literate": 310499,
+        "male_literacy_rate": 84.35,
+        "male_literate": 393192,
+        "rate_percentage": 76.22,
+        "total_literate": 703691
+    },
+    "population": {
+        "female": 514222,
+        "male": 526877,
+        "sex_ratio": 976,
+        "total": 1041099
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.03,
+            "population": 310
+        },
+        "Christian": {
+            "percentage": 4.86,
+            "population": 50637
+        },
+        "Hindu": {
+            "percentage": 92.61,
+            "population": 964188
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 86
+        },
+        "Muslims": {
+            "percentage": 1.93,
+            "population": 20120
+        },
+        "Not Stated": {
+            "percentage": 0.21,
+            "population": 2135
+        },
+        "Others": {
+            "percentage": 0.11,
+            "population": 1117
+        },
+        "Sikh": {
+            "percentage": 0.24,
+            "population": 2506
+        }
+    },
+    "rural": {
+        "child_population_female": 41238,
+        "child_population_male": 43170,
+        "child_population_percentage": 11.52,
+        "child_population_percentage_calculated": 11.52,
+        "child_population_percentage_stated": 11.52,
+        "child_population_total": 84408,
+        "child_sex_ratio": 955,
+        "female": 364314,
+        "literacy_rate_female": 63.35,
+        "literacy_rate_male": 81.78,
+        "literacy_rate_percentage": 72.6,
+        "literate_female": 204669,
+        "literate_male": 266228,
+        "literate_total": 470897,
+        "male": 368692,
+        "percentage_population": 70.41,
+        "population": 733006,
+        "sex_ratio": 988
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/396-sambalpur.html",
+    "urban": {
+        "child_population_female": 15866,
+        "child_population_male": 17574,
+        "child_population_percentage": 10.85,
+        "child_population_percentage_calculated": 10.85,
+        "child_population_percentage_stated": 10.85,
+        "child_population_total": 33440,
+        "child_sex_ratio": 903,
+        "female": 149908,
+        "literacy_rate_female": 78.95,
+        "literacy_rate_male": 90.29,
+        "literacy_rate_percentage": 84.76,
+        "literate_female": 105830,
+        "literate_male": 126964,
+        "literate_total": 232794,
+        "male": 158185,
+        "percentage_population": 29.59,
+        "population": 308093,
+        "sex_ratio": 948
+    }
+}

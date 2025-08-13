@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 50787,
+        "male": 53460,
+        "percentage_of_total_population": 15.19,
+        "percentage_of_total_population_calculated": 15.19,
+        "percentage_of_total_population_stated": 15.19,
+        "sex_ratio": 950,
+        "total": 104247
+    },
+    "literacy": {
+        "female_literacy_rate": 65.21,
+        "female_literate": 185267,
+        "male_literacy_rate": 79.84,
+        "male_literate": 237761,
+        "rate_percentage": 72.7,
+        "total_literate": 423028
+    },
+    "population": {
+        "female": 334884,
+        "male": 351249,
+        "sex_ratio": 953,
+        "total": 686133
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.13,
+            "population": 911
+        },
+        "Christian": {
+            "percentage": 1.27,
+            "population": 8711
+        },
+        "Hindu": {
+            "percentage": 95.47,
+            "population": 655052
+        },
+        "Jain": {
+            "percentage": 0.02,
+            "population": 167
+        },
+        "Muslims": {
+            "percentage": 1.96,
+            "population": 13475
+        },
+        "Not Stated": {
+            "percentage": 0.18,
+            "population": 1205
+        },
+        "Others": {
+            "percentage": 0.92,
+            "population": 6315
+        },
+        "Sikh": {
+            "percentage": 0.04,
+            "population": 297
+        }
+    },
+    "rural": {
+        "child_population_female": 47950,
+        "child_population_male": 50402,
+        "child_population_percentage": 15.42,
+        "child_population_percentage_calculated": 15.42,
+        "child_population_percentage_stated": 15.42,
+        "child_population_total": 98352,
+        "child_sex_ratio": 951,
+        "female": 311570,
+        "literacy_rate_female": 64.12,
+        "literacy_rate_male": 79.16,
+        "literacy_rate_percentage": 71.81,
+        "literate_female": 169030,
+        "literate_male": 218382,
+        "literate_total": 387412,
+        "male": 326278,
+        "percentage_population": 92.96,
+        "population": 637848,
+        "sex_ratio": 955
+    },
+    "sc_st_error": "Failed to parse SC/ST data from auto-found URL: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3D%2522Dhemaji%2Bdistrict%2522%2B%2522Assam%2522%2BSC%2BST%2Bpopulation%2Bsite%253Acensusindia.gov.in%2BOR%2Bsite%253Acensusindia.co.in&ec=GAZAAQ",
+    "source_census2011": "https://www.census2011.co.in/census/district/147-dhemaji.html",
+    "urban": {
+        "child_population_female": 2840,
+        "child_population_male": 3055,
+        "child_population_percentage": 12.21,
+        "child_population_percentage_calculated": 12.21,
+        "child_population_percentage_stated": 12.21,
+        "child_population_total": 5895,
+        "child_sex_ratio": 930,
+        "female": 23314,
+        "literacy_rate_female": 79.31,
+        "literacy_rate_male": 88.42,
+        "literacy_rate_percentage": 84.02,
+        "literate_female": 16237,
+        "literate_male": 19379,
+        "literate_total": 35616,
+        "male": 24971,
+        "percentage_population": 7.04,
+        "population": 48285,
+        "sex_ratio": 934
+    }
+}

@@ -1,0 +1,41 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "CHAILBASSA",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 376306,
+        "total_votes_polled": 178206,
+        "turnout_percentage": 47.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kanu Ram Deogam",
+          "party": "Jharkhand Party",
+          "votes": 136609,
+          "votes_percentage": 76.7
+        },
+        {
+          "position": 2,
+          "name": "Purno Chandra Birua",
+          "party": "Independent",
+          "votes": 24818,
+          "votes_percentage": 13.9
+        },
+        {
+          "position": 3,
+          "name": "Lachman Manjhi",
+          "party": "Independent",
+          "votes": 16779,
+          "votes_percentage": 9.4
+        }
+      ]
+    }
+  }
+}

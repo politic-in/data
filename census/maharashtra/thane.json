@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 637361,
+        "male": 689785,
+        "percentage_of_total_population": 12.0,
+        "percentage_of_total_population_calculated": 12.0,
+        "percentage_of_total_population_stated": 12.0,
+        "sex_ratio": 924,
+        "total": 1327146
+    },
+    "literacy": {
+        "female_literacy_rate": 79.77,
+        "female_literate": 3635765,
+        "male_literacy_rate": 88.72,
+        "male_literate": 4591396,
+        "rate_percentage": 84.53,
+        "total_literate": 8227161
+    },
+    "population": {
+        "female": 5195070,
+        "male": 5865078,
+        "sex_ratio": 886,
+        "total": 11060148
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 4.07,
+            "population": 449617
+        },
+        "Christian": {
+            "percentage": 2.54,
+            "population": 280700
+        },
+        "Hindu": {
+            "percentage": 78.81,
+            "population": 8716055
+        },
+        "Jain": {
+            "percentage": 1.56,
+            "population": 172052
+        },
+        "Muslims": {
+            "percentage": 12.26,
+            "population": 1355630
+        },
+        "Not Stated": {
+            "percentage": 0.34,
+            "population": 37083
+        },
+        "Others": {
+            "percentage": 0.09,
+            "population": 9862
+        },
+        "Sikh": {
+            "percentage": 0.35,
+            "population": 39149
+        }
+    },
+    "rural": {
+        "child_population_female": 178519,
+        "child_population_male": 185687,
+        "child_population_percentage": 14.31,
+        "child_population_percentage_calculated": 14.31,
+        "child_population_percentage_stated": 14.31,
+        "child_population_total": 364206,
+        "child_sex_ratio": 961,
+        "female": 1245334,
+        "literacy_rate_female": 61.54,
+        "literacy_rate_male": 79.27,
+        "literacy_rate_percentage": 70.6,
+        "literate_female": 656475,
+        "literate_male": 883410,
+        "literate_total": 1539885,
+        "male": 1300136,
+        "percentage_population": 23.01,
+        "population": 2545470,
+        "sex_ratio": 958
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/355-thane.html",
+    "urban": {
+        "child_population_female": 458962,
+        "child_population_male": 503978,
+        "child_population_percentage": 11.31,
+        "child_population_percentage_calculated": 11.31,
+        "child_population_percentage_stated": 11.31,
+        "child_population_total": 962940,
+        "child_sex_ratio": 911,
+        "female": 3949736,
+        "literacy_rate_female": 85.35,
+        "literacy_rate_male": 91.31,
+        "literacy_rate_percentage": 88.55,
+        "literate_female": 2979290,
+        "literate_male": 3707986,
+        "literate_total": 6687276,
+        "male": 4564942,
+        "percentage_population": 76.99,
+        "population": 8514678,
+        "sex_ratio": 865
+    }
+}

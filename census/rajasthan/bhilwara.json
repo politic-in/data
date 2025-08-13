@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 174088,
+        "male": 187595,
+        "percentage_of_total_population": 15.02,
+        "percentage_of_total_population_calculated": 15.02,
+        "percentage_of_total_population_stated": 15.02,
+        "sex_ratio": 928,
+        "total": 361683
+    },
+    "literacy": {
+        "female_literacy_rate": 47.21,
+        "female_literate": 478544,
+        "male_literacy_rate": 75.27,
+        "male_literate": 777582,
+        "rate_percentage": 61.37,
+        "total_literate": 1256126
+    },
+    "population": {
+        "female": 1187787,
+        "male": 1220736,
+        "sex_ratio": 973,
+        "total": 2408523
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 183
+        },
+        "Christian": {
+            "percentage": 0.08,
+            "population": 1978
+        },
+        "Hindu": {
+            "percentage": 92.37,
+            "population": 2224839
+        },
+        "Jain": {
+            "percentage": 1.46,
+            "population": 35149
+        },
+        "Muslims": {
+            "percentage": 5.91,
+            "population": 142427
+        },
+        "Not Stated": {
+            "percentage": 0.1,
+            "population": 2419
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 60
+        },
+        "Sikh": {
+            "percentage": 0.06,
+            "population": 1468
+        }
+    },
+    "rural": {
+        "child_population_female": 141992,
+        "child_population_male": 152140,
+        "child_population_percentage": 15.51,
+        "child_population_percentage_calculated": 15.51,
+        "child_population_percentage_stated": 15.51,
+        "child_population_total": 294132,
+        "child_sex_ratio": 933,
+        "female": 940491,
+        "literacy_rate_female": 40.58,
+        "literacy_rate_male": 71.32,
+        "literacy_rate_percentage": 56.0,
+        "literate_female": 324042,
+        "literate_male": 572895,
+        "literate_total": 896937,
+        "male": 955378,
+        "percentage_population": 78.72,
+        "population": 1895869,
+        "sex_ratio": 984
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/447-bhilwara.html",
+    "urban": {
+        "child_population_female": 32074,
+        "child_population_male": 35477,
+        "child_population_percentage": 13.18,
+        "child_population_percentage_calculated": 13.18,
+        "child_population_percentage_stated": 13.18,
+        "child_population_total": 67551,
+        "child_sex_ratio": 904,
+        "female": 247296,
+        "literacy_rate_female": 71.79,
+        "literacy_rate_male": 89.04,
+        "literacy_rate_percentage": 80.7,
+        "literate_female": 154502,
+        "literate_male": 204687,
+        "literate_total": 359189,
+        "male": 265358,
+        "percentage_population": 21.28,
+        "population": 512654,
+        "sex_ratio": 932
+    }
+}

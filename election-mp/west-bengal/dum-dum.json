@@ -1,0 +1,890 @@
+{
+  "state": "West Bengal",
+  "constituency": "Dum Dum",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2024": {
+      "poll_date": "19 April 2024",
+      "counting_date": "01 June 2024",
+      "total_contestants": 14,
+      "aggregate": {
+        "total_electors": 1699656,
+        "total_votes_polled": 1260046,
+        "turnout_percentage": 74.1,
+        "margin_votes": 70660,
+        "margin_percentage": 5.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sougata Ray",
+          "party": "All India Trinamool Congress",
+          "votes": 528579,
+          "votes_percentage": 41.9
+        },
+        {
+          "position": 2,
+          "name": "Silbhadra Datta",
+          "party": "Bharatiya Janta Party",
+          "votes": 457919,
+          "votes_percentage": 36.3
+        },
+        {
+          "position": 3,
+          "name": "Sujan Chakraborty",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 240784,
+          "votes_percentage": 19.1
+        },
+        {
+          "position": 4,
+          "name": "Shekh Imanur Rahman",
+          "party": "Independent",
+          "votes": 6411,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "Swaminath Kori",
+          "party": "Bahujan Samaj Party",
+          "votes": 3766,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 6,
+          "name": "Hirak Sinha",
+          "party": "Independent",
+          "votes": 3147,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Banamali Panda",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1739,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "Dulu Dey",
+          "party": "Independent",
+          "votes": 1694,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Manika Mukherjee",
+          "party": "Bharatiya Nyay-Adhikar Raksha Party",
+          "votes": 1237,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Santanu Mandal",
+          "party": "Democratic Socialist Party Of India",
+          "votes": 885,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Tridib Bhunia",
+          "party": "Independent",
+          "votes": 772,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Gouri Biswas",
+          "party": "Independent",
+          "votes": 701,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Subrata Bhowmik",
+          "party": "Mera Bharat Mahan Party",
+          "votes": 604,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 14,
+          "name": "Hari Pada Biswas",
+          "party": "Mulnibasi Party Of India",
+          "votes": 474,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 12,
+      "aggregate": {
+        "total_electors": 1699710,
+        "total_votes_polled": 1204660,
+        "turnout_percentage": 71.7,
+        "margin_votes": 53002,
+        "margin_percentage": 4.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sougata Ray",
+          "party": "All India Trinamool Congress",
+          "votes": 512062,
+          "votes_percentage": 42.5
+        },
+        {
+          "position": 2,
+          "name": "Samik Bhattacharya",
+          "party": "Bharatiya Janta Party",
+          "votes": 459060,
+          "votes_percentage": 38.1
+        },
+        {
+          "position": 3,
+          "name": "Nepaldeb Bhattacharya",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 167590,
+          "votes_percentage": 13.9
+        },
+        {
+          "position": 4,
+          "name": "Saurav Saha",
+          "party": "Indian National Congress",
+          "votes": 29097,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 5,
+          "name": "Naresh Chandra Barui",
+          "party": "Bahujan Samaj Party",
+          "votes": 4974,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Shankar Das",
+          "party": "Communist Party Of India (Marxist-Leninist) Red Star",
+          "votes": 4379,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Satya Brata Bandyopadhyay",
+          "party": "Rashtriya Janadhikar Suraksha Party",
+          "votes": 2964,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "Tarun Kumar Das",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 2437,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Indranil Banerjee",
+          "party": "Shiv Sena",
+          "votes": 2395,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Subir Das",
+          "party": "New Democratic Party Of India",
+          "votes": 2320,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Jhuma Saha",
+          "party": "Party For Democratic Socialism",
+          "votes": 1705,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Amit Sengupta",
+          "party": "Rashtriya Janasachetan Party (R.J.P.)",
+          "votes": 1186,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "12 May 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 1405981,
+        "total_votes_polled": 1132644,
+        "turnout_percentage": 80.6,
+        "margin_votes": 154934,
+        "margin_percentage": 13.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Saugata Roy",
+          "party": "All India Trinamool Congress",
+          "votes": 483244,
+          "votes_percentage": 42.7
+        },
+        {
+          "position": 2,
+          "name": "Asim Kumar Dasgupta",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 328310,
+          "votes_percentage": 29.0
+        },
+        {
+          "position": 3,
+          "name": "Tapan Sikdar",
+          "party": "Bharatiya Janta Party",
+          "votes": 254819,
+          "votes_percentage": 22.5
+        },
+        {
+          "position": 4,
+          "name": "Dhananjay (SHAKTI) MOITRA",
+          "party": "Indian National Congress",
+          "votes": 34116,
+          "votes_percentage": 3.0
+        },
+        {
+          "position": 5,
+          "name": "Ashok Kundu",
+          "party": "Party For Democratic Socialism",
+          "votes": 4823,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Narendra Nath Ghosh (NAREN GHOSH)",
+          "party": "Bahujan Samaj Party",
+          "votes": 4077,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Sukha Ranjan Banik",
+          "party": "Independent",
+          "votes": 3256,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Satyabrata Bandyopadhyay",
+          "party": "Rashtriya Janadhikar Suraksha Party",
+          "votes": 1618,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Sikha Sen Roy",
+          "party": "Communist Party Of India (Marxist-Leninist) Red Star",
+          "votes": 1544,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 1212220,
+        "total_votes_polled": 976769,
+        "turnout_percentage": 80.6,
+        "margin_votes": 20478,
+        "margin_percentage": 2.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sougata Ray",
+          "party": "All India Trinamool Congress",
+          "votes": 458988,
+          "votes_percentage": 47.0
+        },
+        {
+          "position": 2,
+          "name": "Amitava Nandy",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 438510,
+          "votes_percentage": 44.9
+        },
+        {
+          "position": 3,
+          "name": "Tapan Sikdar",
+          "party": "Bharatiya Janta Party",
+          "votes": 55679,
+          "votes_percentage": 5.7
+        },
+        {
+          "position": 4,
+          "name": "Dulal Chandra Das",
+          "party": "Bahujan Samaj Party",
+          "votes": 9065,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Sunil Pal",
+          "party": "Independent",
+          "votes": 8177,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Sanatan Ray Chaudhuri",
+          "party": "Lok Jan Shakti Party",
+          "votes": 5265,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "2004": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 1543705,
+        "total_votes_polled": 1245065,
+        "turnout_percentage": 80.7,
+        "margin_votes": 98252,
+        "margin_percentage": 7.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Amitava Nandy",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 619325,
+          "votes_percentage": 49.7
+        },
+        {
+          "position": 2,
+          "name": "Tapan Sikdar",
+          "party": "Bharatiya Janta Party",
+          "votes": 521073,
+          "votes_percentage": 41.9
+        },
+        {
+          "position": 3,
+          "name": "Tapas Majumder",
+          "party": "Indian National Congress",
+          "votes": 76854,
+          "votes_percentage": 6.2
+        },
+        {
+          "position": 4,
+          "name": "Subhankar Nag",
+          "party": "Independent",
+          "votes": 10352,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 5,
+          "name": "Goutam Das",
+          "party": "Bahujan Samaj Party",
+          "votes": 9882,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Krishnendu Goswami",
+          "party": "Samajwadi Party",
+          "votes": 4358,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Ahindra Basu",
+          "party": "Independent",
+          "votes": 3704,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Adhikary Binoy",
+          "party": "Independent",
+          "votes": 2812,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "1999": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 1598044,
+        "total_votes_polled": 1209926,
+        "turnout_percentage": 75.7,
+        "margin_votes": 134561,
+        "margin_percentage": 11.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tapan Sikdar",
+          "party": "Bharatiya Janta Party",
+          "votes": 614471,
+          "votes_percentage": 50.8
+        },
+        {
+          "position": 2,
+          "name": "Anil Bhattacharya",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 479910,
+          "votes_percentage": 39.7
+        },
+        {
+          "position": 3,
+          "name": "Ramesh Bhattacharjee",
+          "party": "Indian National Congress",
+          "votes": 85648,
+          "votes_percentage": 7.1
+        },
+        {
+          "position": 4,
+          "name": "Bimal Krishna  Biswas",
+          "party": "Bahujan Samaj Party",
+          "votes": 4848,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 5,
+          "name": "Manas Chakraborty",
+          "party": "Independent",
+          "votes": 1862,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 6,
+          "name": "Suryya Ray",
+          "party": "Nationalist Congress Party",
+          "votes": 1658,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 7,
+          "name": "Prabir Ghosal",
+          "party": "Independent",
+          "votes": 956,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "Ajit Nandi",
+          "party": "Independent",
+          "votes": 945,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Saikat  Nayak",
+          "party": "Independent",
+          "votes": 816,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1998": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 1559854,
+        "total_votes_polled": 1262384,
+        "turnout_percentage": 80.9,
+        "margin_votes": 137405,
+        "margin_percentage": 10.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tapan Sikdar",
+          "party": "Bharatiya Janta Party",
+          "votes": 631383,
+          "votes_percentage": 50.0
+        },
+        {
+          "position": 2,
+          "name": "Nirmal Kanti Chatterjee",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 493978,
+          "votes_percentage": 39.1
+        },
+        {
+          "position": 3,
+          "name": "Pradyut Guha",
+          "party": "Indian National Congress",
+          "votes": 111078,
+          "votes_percentage": 8.8
+        },
+        {
+          "position": 4,
+          "name": "Jaihind Ram",
+          "party": "Bahujan Samaj Party",
+          "votes": 3524,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 5,
+          "name": "Aloke Das",
+          "party": "Independent",
+          "votes": 2951,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 6,
+          "name": "Gobinda Dey",
+          "party": "Independent",
+          "votes": 1164,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 7,
+          "name": "Milonkanti Choudhuri",
+          "party": "Republican Party Of India",
+          "votes": 763,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "Prabir Ghosal",
+          "party": "Independent",
+          "votes": 355,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 9,
+          "name": "Tarun Srivastava",
+          "party": "Independent",
+          "votes": 285,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "1996": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 1544506,
+        "total_votes_polled": 1252429,
+        "turnout_percentage": 81.1,
+        "margin_votes": 58291,
+        "margin_percentage": 4.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nirmal Kanti Chatterjee",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 580455,
+          "votes_percentage": 46.3
+        },
+        {
+          "position": 2,
+          "name": "Ashutosh Laha",
+          "party": "Indian National Congress",
+          "votes": 522164,
+          "votes_percentage": 41.7
+        },
+        {
+          "position": 3,
+          "name": "Dibakar Kundu",
+          "party": "Bharatiya Janta Party",
+          "votes": 107501,
+          "votes_percentage": 8.6
+        },
+        {
+          "position": 4,
+          "name": "Surendra Nath Biswas",
+          "party": "Bahujan Samaj Party",
+          "votes": 6457,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "Ashoke Deb Chowdhury",
+          "party": "Independent",
+          "votes": 4858,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Milon Kanti Choudhari",
+          "party": "Independent",
+          "votes": 2218,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Jhoton Roy",
+          "party": "Independent",
+          "votes": 1068,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1991": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 1324332,
+        "total_votes_polled": 989892,
+        "turnout_percentage": 74.8,
+        "margin_votes": 104865,
+        "margin_percentage": 10.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nirmal Kanti Chatterjee",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 446564,
+          "votes_percentage": 45.1
+        },
+        {
+          "position": 2,
+          "name": "Lal Bahadur Singh",
+          "party": "Indian National Congress",
+          "votes": 341699,
+          "votes_percentage": 34.5
+        },
+        {
+          "position": 3,
+          "name": "Monohar (AICH BISWASRI)",
+          "party": "Bharatiya Janta Party",
+          "votes": 163070,
+          "votes_percentage": 16.5
+        },
+        {
+          "position": 4,
+          "name": "Jai Hind Ram",
+          "party": "Bahujan Samaj Party",
+          "votes": 6121,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 5,
+          "name": "Tilak Ganguly",
+          "party": "Jharkhand Party",
+          "votes": 4857,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Uday Sankar Ghosh",
+          "party": "Akhil Bharatiya Jan Sangh",
+          "votes": 3427,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "Ramji Sharma",
+          "party": "Doordarshi Party",
+          "votes": 2044,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "Pradip Chakroborty",
+          "party": "Independent",
+          "votes": 1186,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1989": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 1297758,
+        "total_votes_polled": 1027270,
+        "turnout_percentage": 79.2,
+        "margin_votes": 117004,
+        "margin_percentage": 11.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nirmal Kanti Chatterjee",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 556139,
+          "votes_percentage": 54.1
+        },
+        {
+          "position": 2,
+          "name": "Asutosh Law",
+          "party": "Indian National Congress",
+          "votes": 439135,
+          "votes_percentage": 42.7
+        },
+        {
+          "position": 3,
+          "name": "Chitta Ranjan Biswas",
+          "party": "Independent",
+          "votes": 10766,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 4,
+          "name": "Shikary Dhobey",
+          "party": "Doordarshi Party",
+          "votes": 2383,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "1984": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 1005879,
+        "total_votes_polled": 778814,
+        "turnout_percentage": 77.4,
+        "margin_votes": 2703,
+        "margin_percentage": 0.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Asutosh Law",
+          "party": "Indian National Congress",
+          "votes": 381984,
+          "votes_percentage": 49.0
+        },
+        {
+          "position": 2,
+          "name": "Niren Ghosh",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 379281,
+          "votes_percentage": 48.7
+        }
+      ]
+    },
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 902611,
+        "total_votes_polled": 616483,
+        "turnout_percentage": 68.3,
+        "margin_votes": 165672,
+        "margin_percentage": 26.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Niren Ghosh",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 368214,
+          "votes_percentage": 59.7
+        },
+        {
+          "position": 2,
+          "name": "Barid Baran Das",
+          "party": "Indian National Congress (I)",
+          "votes": 202542,
+          "votes_percentage": 32.9
+        },
+        {
+          "position": 3,
+          "name": "Kalyan Brata Roy",
+          "party": "Janta Party",
+          "votes": 19400,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 4,
+          "name": "Salil Biswas",
+          "party": "Indian National Congress (U)",
+          "votes": 4692,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 5,
+          "name": "Ramprit Gond",
+          "party": "Republican Party Of India",
+          "votes": 3081,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Aniruddha Bera",
+          "party": "Independent",
+          "votes": 1890,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "Sahabir Prasad Shaw",
+          "party": "Independent",
+          "votes": 1404,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "Swapan Dutta",
+          "party": "Independent",
+          "votes": 927,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Karuna Nidhan Roy",
+          "party": "Independent",
+          "votes": 767,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 698781,
+        "total_votes_polled": 431362,
+        "turnout_percentage": 61.7,
+        "margin_votes": 21780,
+        "margin_percentage": 5.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Asoke Krishna Dutt",
+          "party": "Bharatiya Lok Dal",
+          "votes": 215766,
+          "votes_percentage": 50.0
+        },
+        {
+          "position": 2,
+          "name": "Indrajit Gupta",
+          "party": "Communist Party Of India",
+          "votes": 193986,
+          "votes_percentage": 45.0
+        },
+        {
+          "position": 3,
+          "name": "Baidyanath Ghosh",
+          "party": "Independent",
+          "votes": 12254,
+          "votes_percentage": 2.8
+        }
+      ]
+    }
+  }
+}

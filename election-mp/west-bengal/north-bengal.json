@@ -1,0 +1,76 @@
+{
+  "state": "West Bengal",
+  "constituency": "NORTH BENGAL",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 931845,
+        "total_votes_polled": 862056,
+        "turnout_percentage": 30.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Upendra Nath Barman",
+          "party": "Indian National Congress",
+          "votes": 177618,
+          "votes_percentage": 20.6
+        },
+        {
+          "position": 1,
+          "name": "Birendra Nath Katham",
+          "party": "Indian National Congress",
+          "votes": 163604,
+          "votes_percentage": 19.0
+        },
+        {
+          "position": 1,
+          "name": "Amiya Kanta Basu",
+          "party": "Indian National Congress",
+          "votes": 158620,
+          "votes_percentage": 18.4
+        },
+        {
+          "position": 4,
+          "name": "Himanshu Kumar Neogi",
+          "party": "Independent",
+          "votes": 86973,
+          "votes_percentage": 10.1
+        },
+        {
+          "position": 5,
+          "name": "Upendra Narayan Das",
+          "party": "Forward Bloc (Ruikar Group)",
+          "votes": 77203,
+          "votes_percentage": 9.0
+        },
+        {
+          "position": 6,
+          "name": "L. R. Josse",
+          "party": "Independent",
+          "votes": 71510,
+          "votes_percentage": 8.3
+        },
+        {
+          "position": 7,
+          "name": "Ganga Ram Uraon",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 67181,
+          "votes_percentage": 7.8
+        },
+        {
+          "position": 8,
+          "name": "Nagendra Nath Mahalanobish",
+          "party": "Independent",
+          "votes": 59347,
+          "votes_percentage": 6.9
+        }
+      ]
+    }
+  }
+}

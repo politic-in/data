@@ -1,0 +1,50 @@
+{
+  "state": "Mizoram",
+  "constituency": "AIZAWLSOUTHII",
+  "district": "Aizawl",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 23018,
+        "total_votes_polled": 19418,
+        "turnout_percentage": 84.6,
+        "margin_votes": 179,
+        "margin_percentage": 0.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Lalchhuanthanga",
+          "party": "Independent",
+          "votes": 7294,
+          "votes_percentage": 37.6
+        },
+        {
+          "position": 2,
+          "name": "Denghmingthanga",
+          "party": "Mizo National Front",
+          "votes": 7115,
+          "votes_percentage": 36.6
+        },
+        {
+          "position": 3,
+          "name": "Lt. Col. Zosangzuala",
+          "party": "Indian National Congress",
+          "votes": 4836,
+          "votes_percentage": 24.9
+        },
+        {
+          "position": 4,
+          "name": "R Lalchhuanawmi",
+          "party": "Independent",
+          "votes": 173,
+          "votes_percentage": 0.9
+        }
+      ]
+    }
+  }
+}

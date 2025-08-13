@@ -1,0 +1,55 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "MUZAFARPUR EAST",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 298268,
+        "total_votes_polled": 139632,
+        "turnout_percentage": 46.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Awadeshwar Pd. Sinha",
+          "party": "Indian National Congress",
+          "votes": 67220,
+          "votes_percentage": 48.1
+        },
+        {
+          "position": 2,
+          "name": "Ram Janam Ojha",
+          "party": "Socialist Party",
+          "votes": 43975,
+          "votes_percentage": 31.5
+        },
+        {
+          "position": 3,
+          "name": "Parmanand Kejriwal",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 11520,
+          "votes_percentage": 8.3
+        },
+        {
+          "position": 4,
+          "name": "Shri Krishna Pd. Chowdhry",
+          "party": "Independent",
+          "votes": 10641,
+          "votes_percentage": 7.6
+        },
+        {
+          "position": 5,
+          "name": "Ram Sunder Trivedi",
+          "party": "Independent",
+          "votes": 6276,
+          "votes_percentage": 4.5
+        }
+      ]
+    }
+  }
+}

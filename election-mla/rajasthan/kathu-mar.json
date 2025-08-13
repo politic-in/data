@@ -1,0 +1,92 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Kathu mar",
+  "district": "Alwar",
+  "ac_type": "SC",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 205113,
+        "total_votes_polled": 144551,
+        "turnout_percentage": 71.0,
+        "margin_votes": 14168,
+        "margin_percentage": 9.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Babulal",
+          "party": "Indian National Congress",
+          "votes": 54110,
+          "votes_percentage": 37.4
+        },
+        {
+          "position": 2,
+          "name": "Babulal Manager",
+          "party": "Bharatiya Janta Party",
+          "votes": 39942,
+          "votes_percentage": 27.6
+        },
+        {
+          "position": 3,
+          "name": "Ramesh Khinchi",
+          "party": "Independent",
+          "votes": 32916,
+          "votes_percentage": 22.8
+        },
+        {
+          "position": 4,
+          "name": "Narsee Kumar Kirad",
+          "party": "Rashtriya Loktantrik Party",
+          "votes": 10846,
+          "votes_percentage": 7.5
+        },
+        {
+          "position": 5,
+          "name": "Iswar Singh",
+          "party": "Bahujan Samaj Party",
+          "votes": 2332,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 6,
+          "name": "Roop Narain Nagar",
+          "party": "Independent",
+          "votes": 1626,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 7,
+          "name": "Babulal",
+          "party": "Independent",
+          "votes": 1304,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 8,
+          "name": "Monu Ram Koli",
+          "party": "Bharatiya Rashtravadi Samanta Party",
+          "votes": 628,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Girvar Singh",
+          "party": "Bharatiya Yuva Shakti",
+          "votes": 615,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 10,
+          "name": "Vinod",
+          "party": "Ambedkarite Party Of India",
+          "votes": 232,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

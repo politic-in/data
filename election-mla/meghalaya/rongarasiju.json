@@ -1,0 +1,57 @@
+{
+  "state": "Meghalaya",
+  "constituency": "RONGARASIJU",
+  "district": "South Garo Hills",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 29492,
+        "total_votes_polled": 25008,
+        "turnout_percentage": 86.2,
+        "margin_votes": 1108,
+        "margin_percentage": 4.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rakkam A. Sangma",
+          "party": "National People's Party",
+          "votes": 8108,
+          "votes_percentage": 32.4
+        },
+        {
+          "position": 2,
+          "name": "Rophul S. Marak",
+          "party": "Independent",
+          "votes": 7000,
+          "votes_percentage": 28.0
+        },
+        {
+          "position": 3,
+          "name": "Francis Pondit R. Sangma",
+          "party": "Indian National Congress",
+          "votes": 6073,
+          "votes_percentage": 24.3
+        },
+        {
+          "position": 4,
+          "name": "Augustine R. Marak",
+          "party": "Garo National Council",
+          "votes": 3387,
+          "votes_percentage": 13.5
+        },
+        {
+          "position": 5,
+          "name": "Rangrick R. Sangma",
+          "party": "All India Trinamool Congress",
+          "votes": 440,
+          "votes_percentage": 1.8
+        }
+      ]
+    }
+  }
+}

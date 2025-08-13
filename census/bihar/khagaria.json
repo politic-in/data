@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 163891,
+        "male": 176989,
+        "percentage_of_total_population": 20.45,
+        "percentage_of_total_population_calculated": 20.45,
+        "percentage_of_total_population_stated": 20.45,
+        "sex_ratio": 926,
+        "total": 340880
+    },
+    "literacy": {
+        "female_literacy_rate": 49.56,
+        "female_literate": 306875,
+        "male_literacy_rate": 65.25,
+        "male_literate": 461153,
+        "rate_percentage": 57.92,
+        "total_literate": 768028
+    },
+    "population": {
+        "female": 783100,
+        "male": 883786,
+        "sex_ratio": 886,
+        "total": 1666886
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.0,
+            "population": 79
+        },
+        "Christian": {
+            "percentage": 0.08,
+            "population": 1253
+        },
+        "Hindu": {
+            "percentage": 89.21,
+            "population": 1486989
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 86
+        },
+        "Muslims": {
+            "percentage": 10.53,
+            "population": 175588
+        },
+        "Not Stated": {
+            "percentage": 0.16,
+            "population": 2633
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 115
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 143
+        }
+    },
+    "rural": {
+        "child_population_female": 157064,
+        "child_population_male": 169610,
+        "child_population_percentage": 20.68,
+        "child_population_percentage_calculated": 20.68,
+        "child_population_percentage_stated": 20.68,
+        "child_population_total": 326674,
+        "child_sex_ratio": 926,
+        "female": 742446,
+        "literacy_rate_female": 48.3,
+        "literacy_rate_male": 64.3,
+        "literacy_rate_percentage": 56.82,
+        "literate_female": 282744,
+        "literate_male": 429300,
+        "literate_total": 712044,
+        "male": 837281,
+        "percentage_population": 94.77,
+        "population": 1579727,
+        "sex_ratio": 887
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/75-khagaria.html",
+    "urban": {
+        "child_population_female": 6809,
+        "child_population_male": 7397,
+        "child_population_percentage": 16.3,
+        "child_population_percentage_calculated": 16.3,
+        "child_population_percentage_stated": 16.3,
+        "child_population_total": 14206,
+        "child_sex_ratio": 921,
+        "female": 40654,
+        "literacy_rate_female": 71.3,
+        "literacy_rate_male": 81.45,
+        "literacy_rate_percentage": 76.74,
+        "literate_female": 24131,
+        "literate_male": 31853,
+        "literate_total": 55984,
+        "male": 46505,
+        "percentage_population": 5.23,
+        "population": 87159,
+        "sex_ratio": 874
+    }
+}

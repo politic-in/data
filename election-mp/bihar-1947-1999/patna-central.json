@@ -1,0 +1,55 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "PATNA CENTRAL",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 236799,
+        "total_votes_polled": 131506,
+        "turnout_percentage": 55.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kailash Pati Sinha",
+          "party": "Indian National Congress",
+          "votes": 66982,
+          "votes_percentage": 50.9
+        },
+        {
+          "position": 2,
+          "name": "Chandrika Singh",
+          "party": "Independent",
+          "votes": 20581,
+          "votes_percentage": 15.7
+        },
+        {
+          "position": 3,
+          "name": "Bodh Narayan Prasad",
+          "party": "Akhil Bharatiya Hindu Mahasabha",
+          "votes": 19225,
+          "votes_percentage": 14.6
+        },
+        {
+          "position": 4,
+          "name": "Nageshwar Prasad",
+          "party": "Socialist Party",
+          "votes": 17851,
+          "votes_percentage": 13.6
+        },
+        {
+          "position": 5,
+          "name": "Chandra Maula Prasad",
+          "party": "Independent",
+          "votes": 6867,
+          "votes_percentage": 5.2
+        }
+      ]
+    }
+  }
+}

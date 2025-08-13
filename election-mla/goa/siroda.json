@@ -1,0 +1,563 @@
+{
+  "state": "Goa",
+  "constituency": "Siroda",
+  "district": "North Goa",
+  "ac_type": "GEN",
+  "results": {
+    "2022": {
+      "poll_date": "14 February 2022",
+      "counting_date": "10 March 2022",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 29674,
+        "total_votes_polled": 24799,
+        "turnout_percentage": 84.4,
+        "margin_votes": 2174,
+        "margin_percentage": 8.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Subhash Shirodkar",
+          "party": "Bharatiya Janta Party",
+          "votes": 8307,
+          "votes_percentage": 33.5
+        },
+        {
+          "position": 2,
+          "name": "Mahadev Naik",
+          "party": "Aam Aadmi Party",
+          "votes": 6133,
+          "votes_percentage": 24.7
+        },
+        {
+          "position": 3,
+          "name": "Shailesh Naik",
+          "party": "Revolutionary Goans Party",
+          "votes": 5063,
+          "votes_percentage": 20.4
+        },
+        {
+          "position": 4,
+          "name": "Sanket Naik Mule",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 2397,
+          "votes_percentage": 9.7
+        },
+        {
+          "position": 5,
+          "name": "Tukaram Borkar",
+          "party": "Indian National Congress",
+          "votes": 1953,
+          "votes_percentage": 7.9
+        },
+        {
+          "position": 6,
+          "name": "Subhash Prabhudesai",
+          "party": "Nationalist Congress Party",
+          "votes": 576,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 7,
+          "name": "Snehalo Gracias",
+          "party": "Independent",
+          "votes": 186,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 8,
+          "name": "Mukesh Naik",
+          "party": "Sambhaji Brigade Party",
+          "votes": 184,
+          "votes_percentage": 0.7
+        }
+      ]
+    },
+    "2017": {
+      "poll_date": "04 February 2017",
+      "counting_date": "11 March 2017",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 28265,
+        "total_votes_polled": 24430,
+        "turnout_percentage": 168.5,
+        "margin_votes": 4870,
+        "margin_percentage": 19.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Subhash Ankush Shirodkar",
+          "party": "Indian National Congress",
+          "votes": 11156,
+          "votes_percentage": 45.3
+        },
+        {
+          "position": 2,
+          "name": "Mahadev Narayan Naik",
+          "party": "Bharatiya Janta Party",
+          "votes": 6286,
+          "votes_percentage": 25.5
+        },
+        {
+          "position": 3,
+          "name": "Abhay Ramchandra Prabhu",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 5815,
+          "votes_percentage": 23.6
+        },
+        {
+          "position": 4,
+          "name": "Molu Anand Velip",
+          "party": "Aam Aadmi Party",
+          "votes": 586,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 5,
+          "name": "Nilesh Govind Gaonkar",
+          "party": "Independent",
+          "votes": 447,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 6,
+          "name": "Diya Chandrakant Shetkar",
+          "party": "Independent",
+          "votes": 140,
+          "votes_percentage": 0.6
+        }
+      ]
+    },
+    "2012": {
+      "poll_date": "03 March 2012",
+      "counting_date": "06 March 2012",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 26030,
+        "total_votes_polled": 22984,
+        "turnout_percentage": 88.3,
+        "total_valid_votes": 22679,
+        "total_valid_votes_percentage": 87.1,
+        "margin_votes": 2262,
+        "margin_percentage": 9.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mahadev Narayan Naik",
+          "party": "Bharatiya Janta Party",
+          "votes": 12216,
+          "votes_percentage": 53.2
+        },
+        {
+          "position": 2,
+          "name": "Subhash Ankush Shirodkar",
+          "party": "Indian National Congress",
+          "votes": 9954,
+          "votes_percentage": 43.3
+        },
+        {
+          "position": 3,
+          "name": "Vishwas Prabhudesai",
+          "party": "Independent",
+          "votes": 422,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 4,
+          "name": "Shaila Shenvi Borkar",
+          "party": "All India Trinamool Congress",
+          "votes": 230,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Savio Fernandes",
+          "party": "Samajwadi Party",
+          "votes": 162,
+          "votes_percentage": 0.7
+        }
+      ]
+    },
+    "2007": {
+      "poll_date": "02 June 2007",
+      "counting_date": "05 June 2007",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 25791,
+        "total_votes_polled": 19964,
+        "turnout_percentage": 77.4,
+        "margin_votes": 249,
+        "margin_percentage": 1.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mahadev Naik",
+          "party": "Bharatiya Janta Party",
+          "votes": 9725,
+          "votes_percentage": 48.9
+        },
+        {
+          "position": 2,
+          "name": "Shirodkar Subhash Ankush",
+          "party": "Indian National Congress",
+          "votes": 9476,
+          "votes_percentage": 47.6
+        },
+        {
+          "position": 3,
+          "name": "Khedekar  Yeshwant  Uttam",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 701,
+          "votes_percentage": 3.5
+        }
+      ]
+    },
+    "2002": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 23958,
+        "total_votes_polled": 18781,
+        "turnout_percentage": 78.4,
+        "margin_votes": 1135,
+        "margin_percentage": 6.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Subhash Ankush Shirodkar",
+          "party": "Indian National Congress",
+          "votes": 9738,
+          "votes_percentage": 51.9
+        },
+        {
+          "position": 2,
+          "name": "Prabhu Vishwanath Tukaram",
+          "party": "Bharatiya Janta Party",
+          "votes": 8603,
+          "votes_percentage": 45.9
+        },
+        {
+          "position": 3,
+          "name": "Shirodkar Rohidas Baburao",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 414,
+          "votes_percentage": 2.2
+        }
+      ]
+    },
+    "1999": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 22275,
+        "total_votes_polled": 16898,
+        "turnout_percentage": 75.9,
+        "margin_votes": 3209,
+        "margin_percentage": 19.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shirodkar Subhash Ankush",
+          "party": "Indian National Congress",
+          "votes": 9548,
+          "votes_percentage": 56.6
+        },
+        {
+          "position": 2,
+          "name": "Naik Manohar Gopal",
+          "party": "Bharatiya Janta Party",
+          "votes": 6339,
+          "votes_percentage": 37.6
+        },
+        {
+          "position": 3,
+          "name": "Gaonkar Babuso Savlo",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 995,
+          "votes_percentage": 5.9
+        }
+      ]
+    },
+    "1994": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 21151,
+        "total_votes_polled": 16830,
+        "turnout_percentage": 79.6,
+        "margin_votes": 103,
+        "margin_percentage": 0.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shirodkar Subhash Ankush",
+          "party": "Indian National Congress",
+          "votes": 6257,
+          "votes_percentage": 37.7
+        },
+        {
+          "position": 2,
+          "name": "Naik Manohar Gopal",
+          "party": "Bharatiya Janta Party",
+          "votes": 6154,
+          "votes_percentage": 37.0
+        },
+        {
+          "position": 3,
+          "name": "Gudino Alexinho Menino",
+          "party": "Independent",
+          "votes": 3254,
+          "votes_percentage": 19.6
+        },
+        {
+          "position": 4,
+          "name": "Shirodkar Rohidas Baburao",
+          "party": "Independent",
+          "votes": 392,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 5,
+          "name": "Naik Rama Babuso",
+          "party": "United Goans Democratic Party",
+          "votes": 272,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 6,
+          "name": "Tendulkar Satish Morari",
+          "party": "Independent",
+          "votes": 190,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 7,
+          "name": "Alemao Gabrial Salvador",
+          "party": "Independent",
+          "votes": 55,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Borkar Rohidas Surya",
+          "party": "Bahujan Samaj Party",
+          "votes": 47,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "1989": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 19154,
+        "total_votes_polled": 14622,
+        "turnout_percentage": 76.3,
+        "margin_votes": 285,
+        "margin_percentage": 1.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sirodkar Subhas Ankush",
+          "party": "Indian National Congress",
+          "votes": 6046,
+          "votes_percentage": 42.2
+        },
+        {
+          "position": 2,
+          "name": "Naik Ramdas Topyo",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 5761,
+          "votes_percentage": 40.2
+        },
+        {
+          "position": 3,
+          "name": "Rohidas Baburao Shirodkar",
+          "party": "Independent",
+          "votes": 1039,
+          "votes_percentage": 7.3
+        },
+        {
+          "position": 4,
+          "name": "Gudinho Joaquim Joao",
+          "party": "Independent",
+          "votes": 522,
+          "votes_percentage": 3.6
+        },
+        {
+          "position": 5,
+          "name": "Naik Mhalu Gangaram",
+          "party": "Independent",
+          "votes": 387,
+          "votes_percentage": 2.7
+        },
+        {
+          "position": 6,
+          "name": "Atmaram Shambhu Naik Prataprao Sardessai",
+          "party": "Independent",
+          "votes": 207,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 7,
+          "name": "Naik Umesh Noru",
+          "party": "Independent",
+          "votes": 167,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 8,
+          "name": "Pereira Mathew Milagries",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 105,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 9,
+          "name": "Borkar Yoganand Poma",
+          "party": "Shiv Sena",
+          "votes": 63,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 10,
+          "name": "Diniz Joaquim David",
+          "party": "Independent",
+          "votes": 36,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "1984": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 19385,
+        "total_votes_polled": 14357,
+        "turnout_percentage": 74.1,
+        "margin_votes": 3620,
+        "margin_percentage": 25.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shirodker Subhash Ankush",
+          "party": "Indian National Congress",
+          "votes": 6722,
+          "votes_percentage": 48.5
+        },
+        {
+          "position": 2,
+          "name": "Shirodkar Jaikrishna Putu",
+          "party": "Independent",
+          "votes": 3102,
+          "votes_percentage": 22.4
+        },
+        {
+          "position": 3,
+          "name": "Naik Gajanan Tilu",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 2487,
+          "votes_percentage": 17.9
+        },
+        {
+          "position": 4,
+          "name": "D'costa Agnel Sebastiao",
+          "party": "Independent",
+          "votes": 792,
+          "votes_percentage": 5.7
+        },
+        {
+          "position": 5,
+          "name": "Naik Laxman Bhiki",
+          "party": "Independent",
+          "votes": 344,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 6,
+          "name": "Shet Shirodkar",
+          "party": "Bharatiya Janta Party",
+          "votes": 328,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 7,
+          "name": "Fernandes Francisco",
+          "party": "Independent",
+          "votes": 44,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Naik Avadhur Atmaram",
+          "party": "Independent",
+          "votes": 42,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 16104,
+        "total_votes_polled": 10325,
+        "turnout_percentage": 64.1,
+        "margin_votes": 2976,
+        "margin_percentage": 28.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Naik Jayakrishna Putu",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 5964,
+          "votes_percentage": 58.6
+        },
+        {
+          "position": 2,
+          "name": "Shirodhar Vassanta Shankar",
+          "party": "Indian National Congress",
+          "votes": 2988,
+          "votes_percentage": 29.4
+        },
+        {
+          "position": 3,
+          "name": "Ramnathkar Savita Ratanji",
+          "party": "Janta Party",
+          "votes": 983,
+          "votes_percentage": 9.7
+        },
+        {
+          "position": 4,
+          "name": "Naik Narayan Pandurang",
+          "party": "Independent",
+          "votes": 207,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 5,
+          "name": "Vasudev Anant Pednekar",
+          "party": "Independent",
+          "votes": 31,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

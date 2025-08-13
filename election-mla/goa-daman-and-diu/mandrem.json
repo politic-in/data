@@ -1,0 +1,43 @@
+{
+  "state": "Goa, Daman And Diu",
+  "constituency": "Mandrem",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 15712,
+        "total_votes_polled": 11592,
+        "turnout_percentage": 73.8,
+        "margin_votes": 402,
+        "margin_percentage": 3.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Khalap Ramakant Dattaram",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 5703,
+          "votes_percentage": 50.7
+        },
+        {
+          "position": 2,
+          "name": "Parab Gopal Atmaram",
+          "party": "Indian National Congress (I)",
+          "votes": 5301,
+          "votes_percentage": 47.2
+        },
+        {
+          "position": 3,
+          "name": "Telang Vishnu Shankar",
+          "party": "Janta Party",
+          "votes": 238,
+          "votes_percentage": 2.1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "state": "Madhya Pradesh [2000 Onwards]",
+  "constituency": "Chachaura",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2003": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 154879,
+        "total_votes_polled": 93088,
+        "turnout_percentage": 60.1,
+        "margin_votes": 3006,
+        "margin_percentage": 3.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shivnarayan Meena",
+          "party": "Indian National Congress",
+          "votes": 46070,
+          "votes_percentage": 49.8
+        },
+        {
+          "position": 2,
+          "name": "Ram Narayan Lodha",
+          "party": "Bharatiya Janta Party",
+          "votes": 43064,
+          "votes_percentage": 46.5
+        },
+        {
+          "position": 3,
+          "name": "Pooja Bai Kinnar",
+          "party": "Independent",
+          "votes": 3399,
+          "votes_percentage": 3.7
+        }
+      ]
+    }
+  }
+}

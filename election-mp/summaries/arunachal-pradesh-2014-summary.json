@@ -1,0 +1,45 @@
+{
+  "state": "Arunachal Pradesh",
+  "year": "2014",
+  "summary_stats": {
+    "total_electors_state": 759387,
+    "total_votes_polled_state": 596956,
+    "turnout_percentage_state": 78.6,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Arunachal East",
+      "ac_no": 2,
+      "ac_type": "GEN",
+      "district": "Arunachal Pradesh",
+      "winning_candidate": "Ninong Ering",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 312872,
+      "total_votes_ac": 261291,
+      "poll_percentage_ac": 0.0,
+      "margin": 12478,
+      "margin_percentage": 4.8,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2014/arunachal-pradesh/arunachal-east/7810/41/16"
+    },
+    {
+      "ac_name": "Arunachal West",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Arunachal Pradesh",
+      "winning_candidate": "Kiren Rijiju",
+      "winning_party": "Bharatiya Janta Party",
+      "total_electors_ac": 446515,
+      "total_votes_ac": 335665,
+      "poll_percentage_ac": 0.0,
+      "margin": 41738,
+      "margin_percentage": 12.4,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2014/arunachal-pradesh/arunachal-west/7809/41/16"
+    }
+  ]
+}

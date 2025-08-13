@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 8240,
+        "male": 8947,
+        "percentage_of_total_population": 11.92,
+        "percentage_of_total_population_calculated": 11.92,
+        "percentage_of_total_population_stated": 11.92,
+        "sex_ratio": 921,
+        "total": 17187
+    },
+    "literacy": {
+        "female_literacy_rate": 63.96,
+        "female_literate": 39249,
+        "male_literacy_rate": 77.78,
+        "male_literate": 51053,
+        "rate_percentage": 71.11,
+        "total_literate": 90302
+    },
+    "population": {
+        "female": 69603,
+        "male": 74579,
+        "sex_ratio": 933,
+        "total": 144182
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.28,
+            "population": 400
+        },
+        "Christian": {
+            "percentage": 89.5,
+            "population": 129049
+        },
+        "Hindu": {
+            "percentage": 7.5,
+            "population": 10810
+        },
+        "Jain": {
+            "percentage": 0.04,
+            "population": 59
+        },
+        "Muslims": {
+            "percentage": 2.14,
+            "population": 3086
+        },
+        "Not Stated": {
+            "percentage": 0.2,
+            "population": 288
+        },
+        "Others": {
+            "percentage": 0.25,
+            "population": 354
+        },
+        "Sikh": {
+            "percentage": 0.09,
+            "population": 136
+        }
+    },
+    "rural": {
+        "child_population_female": 7023,
+        "child_population_male": 7707,
+        "child_population_percentage": 11.57,
+        "child_population_percentage_calculated": 11.57,
+        "child_population_percentage_stated": 11.57,
+        "child_population_total": 14730,
+        "child_sex_ratio": 911,
+        "female": 61426,
+        "literacy_rate_female": 64.1,
+        "literacy_rate_male": 77.56,
+        "literacy_rate_percentage": 71.06,
+        "literate_female": 34874,
+        "literate_male": 45143,
+        "literate_total": 80017,
+        "male": 65909,
+        "percentage_population": 88.32,
+        "population": 127335,
+        "sex_ratio": 932
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/378-chandel.html",
+    "urban": {
+        "child_population_female": 1219,
+        "child_population_male": 1238,
+        "child_population_percentage": 14.58,
+        "child_population_percentage_calculated": 14.58,
+        "child_population_percentage_stated": 14.58,
+        "child_population_total": 2457,
+        "child_sex_ratio": 985,
+        "female": 8177,
+        "literacy_rate_female": 62.88,
+        "literacy_rate_male": 79.52,
+        "literacy_rate_percentage": 71.47,
+        "literate_female": 4375,
+        "literate_male": 5910,
+        "literate_total": 10285,
+        "male": 8670,
+        "percentage_population": 11.68,
+        "population": 16847,
+        "sex_ratio": 943
+    }
+}

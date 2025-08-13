@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 172327,
+        "male": 179507,
+        "percentage_of_total_population": 13.96,
+        "percentage_of_total_population_calculated": 13.96,
+        "percentage_of_total_population_stated": 13.96,
+        "sex_ratio": 960,
+        "total": 351834
+    },
+    "literacy": {
+        "female_literacy_rate": 52.71,
+        "female_literate": 575226,
+        "male_literacy_rate": 73.76,
+        "male_literate": 794171,
+        "rate_percentage": 63.17,
+        "total_literate": 1369397
+    },
+    "population": {
+        "female": 1263525,
+        "male": 1256213,
+        "sex_ratio": 1006,
+        "total": 2519738
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 162
+        },
+        "Christian": {
+            "percentage": 0.6,
+            "population": 15008
+        },
+        "Hindu": {
+            "percentage": 83.86,
+            "population": 2113079
+        },
+        "Jain": {
+            "percentage": 0.0,
+            "population": 109
+        },
+        "Muslims": {
+            "percentage": 1.34,
+            "population": 33706
+        },
+        "Not Stated": {
+            "percentage": 0.21,
+            "population": 5299
+        },
+        "Others": {
+            "percentage": 13.96,
+            "population": 351714
+        },
+        "Sikh": {
+            "percentage": 0.03,
+            "population": 661
+        }
+    },
+    "rural": {
+        "child_population_female": 163055,
+        "child_population_male": 169322,
+        "child_population_percentage": 14.28,
+        "child_population_percentage_calculated": 14.28,
+        "child_population_percentage_stated": 14.28,
+        "child_population_total": 332377,
+        "child_sex_ratio": 963,
+        "female": 1169266,
+        "literacy_rate_female": 50.34,
+        "literacy_rate_male": 72.24,
+        "literacy_rate_percentage": 61.19,
+        "literate_female": 506515,
+        "literate_male": 713913,
+        "literate_total": 1220428,
+        "male": 1157576,
+        "percentage_population": 92.34,
+        "population": 2326842,
+        "sex_ratio": 1010
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/400-mayurbhanj.html",
+    "urban": {
+        "child_population_female": 9243,
+        "child_population_male": 10214,
+        "child_population_percentage": 10.09,
+        "child_population_percentage_calculated": 10.09,
+        "child_population_percentage_stated": 10.09,
+        "child_population_total": 19457,
+        "child_sex_ratio": 905,
+        "female": 94259,
+        "literacy_rate_female": 80.82,
+        "literacy_rate_male": 90.77,
+        "literacy_rate_percentage": 85.89,
+        "literate_female": 68711,
+        "literate_male": 80258,
+        "literate_total": 148969,
+        "male": 98637,
+        "percentage_population": 7.66,
+        "population": 192896,
+        "sex_ratio": 956
+    }
+}

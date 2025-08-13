@@ -1,0 +1,130 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "RANCHI WEST",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 421139,
+        "total_votes_polled": 211113,
+        "turnout_percentage": 50.1,
+        "margin_votes": 50878,
+        "margin_percentage": 24.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jaipal Singh",
+          "party": "Jharkhand Party",
+          "votes": 103310,
+          "votes_percentage": 48.9
+        },
+        {
+          "position": 2,
+          "name": "Joseph Tigga",
+          "party": "Swatantra",
+          "votes": 52432,
+          "votes_percentage": 24.8
+        },
+        {
+          "position": 3,
+          "name": "Lal Singh Munri",
+          "party": "Indian National Congress",
+          "votes": 40828,
+          "votes_percentage": 19.3
+        }
+      ]
+    },
+    "1957": {
+      "poll_date": "25 February 1957",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 386903,
+        "total_votes_polled": 231027,
+        "turnout_percentage": 59.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jaipal Singh",
+          "party": "Jharkhand Party",
+          "votes": 139197,
+          "votes_percentage": 60.3
+        },
+        {
+          "position": 2,
+          "name": "Khrist Pyare Karketta",
+          "party": "Indian National Congress",
+          "votes": 58315,
+          "votes_percentage": 25.2
+        },
+        {
+          "position": 3,
+          "name": "Joseph Tiga",
+          "party": "Independent",
+          "votes": 13838,
+          "votes_percentage": 6.0
+        },
+        {
+          "position": 4,
+          "name": "Ignece Kharia",
+          "party": "Independent",
+          "votes": 11765,
+          "votes_percentage": 5.1
+        },
+        {
+          "position": 5,
+          "name": "Junas Surin",
+          "party": "Independent",
+          "votes": 7912,
+          "votes_percentage": 3.4
+        },
+        {
+          "position": 6,
+          "name": "Theodar Suren",
+          "party": "Independent",
+          "votes": 0,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 367835,
+        "total_votes_polled": 228856,
+        "turnout_percentage": 62.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jaipal Singh",
+          "party": "Jharkhand Party",
+          "votes": 139275,
+          "votes_percentage": 60.9
+        },
+        {
+          "position": 2,
+          "name": "Jagannath Singh Manki",
+          "party": "Indian National Congress",
+          "votes": 73169,
+          "votes_percentage": 32.0
+        },
+        {
+          "position": 3,
+          "name": "Biseshwar Khalko",
+          "party": "Chota Nagpur Santhal Parganas Janta Party",
+          "votes": 16412,
+          "votes_percentage": 7.2
+        }
+      ]
+    }
+  }
+}

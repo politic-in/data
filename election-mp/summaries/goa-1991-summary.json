@@ -1,0 +1,45 @@
+{
+  "state": "Goa",
+  "year": "1991",
+  "summary_stats": {
+    "total_electors_state": 754319,
+    "total_votes_polled_state": 319727,
+    "turnout_percentage_state": 42.4,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Mormugao",
+      "ac_no": 2,
+      "ac_type": "GEN",
+      "district": "Goa",
+      "winning_candidate": "Falerio Edurado Martinho",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 409086,
+      "total_votes_ac": 164919,
+      "poll_percentage_ac": 0.0,
+      "margin": 59238,
+      "margin_percentage": 35.9,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1991/goa/mormugao/4590/51/10"
+    },
+    {
+      "ac_name": "Panaji",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Goa",
+      "winning_candidate": "Prabhu Zantye Harish Narayan",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 345233,
+      "total_votes_ac": 154808,
+      "poll_percentage_ac": 0.0,
+      "margin": 57444,
+      "margin_percentage": 37.1,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1991/goa/panaji/4589/51/10"
+    }
+  ]
+}

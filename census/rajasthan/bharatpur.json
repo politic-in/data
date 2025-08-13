@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 202797,
+        "male": 233368,
+        "percentage_of_total_population": 17.11,
+        "percentage_of_total_population_calculated": 17.11,
+        "percentage_of_total_population_stated": 17.11,
+        "sex_ratio": 869,
+        "total": 436165
+    },
+    "literacy": {
+        "female_literacy_rate": 54.24,
+        "female_literate": 536959,
+        "male_literacy_rate": 84.1,
+        "male_literate": 943910,
+        "rate_percentage": 70.11,
+        "total_literate": 1480869
+    },
+    "population": {
+        "female": 1192736,
+        "male": 1355726,
+        "sex_ratio": 880,
+        "total": 2548462
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.04,
+            "population": 899
+        },
+        "Christian": {
+            "percentage": 0.06,
+            "population": 1576
+        },
+        "Hindu": {
+            "percentage": 84.09,
+            "population": 2143046
+        },
+        "Jain": {
+            "percentage": 0.23,
+            "population": 5758
+        },
+        "Muslims": {
+            "percentage": 14.57,
+            "population": 371286
+        },
+        "Not Stated": {
+            "percentage": 0.1,
+            "population": 2423
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 18
+        },
+        "Sikh": {
+            "percentage": 0.92,
+            "population": 23456
+        }
+    },
+    "rural": {
+        "child_population_female": 171617,
+        "child_population_male": 196675,
+        "child_population_percentage": 17.94,
+        "child_population_percentage_calculated": 17.94,
+        "child_population_percentage_stated": 17.94,
+        "child_population_total": 368292,
+        "child_sex_ratio": 873,
+        "female": 960006,
+        "literacy_rate_female": 50.53,
+        "literacy_rate_male": 83.09,
+        "literacy_rate_percentage": 67.85,
+        "literate_female": 398360,
+        "literate_male": 745044,
+        "literate_total": 1143404,
+        "male": 1093357,
+        "percentage_population": 80.57,
+        "population": 2053363,
+        "sex_ratio": 878
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/430-bharatpur.html",
+    "urban": {
+        "child_population_female": 31225,
+        "child_population_male": 36648,
+        "child_population_percentage": 13.71,
+        "child_population_percentage_calculated": 13.71,
+        "child_population_percentage_stated": 13.71,
+        "child_population_total": 67873,
+        "child_sex_ratio": 852,
+        "female": 232730,
+        "literacy_rate_female": 68.78,
+        "literacy_rate_male": 88.1,
+        "literacy_rate_percentage": 78.99,
+        "literate_female": 138599,
+        "literate_male": 198866,
+        "literate_total": 337465,
+        "male": 262369,
+        "percentage_population": 19.43,
+        "population": 495099,
+        "sex_ratio": 887
+    }
+}

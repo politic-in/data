@@ -1,0 +1,918 @@
+{
+  "state": "Tamil Nadu",
+  "constituency": "Krishnagiri",
+  "district": "Krishnagiri",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "06 April 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 15,
+      "aggregate": {
+        "total_electors": 256172,
+        "total_votes_polled": 209811,
+        "turnout_percentage": 82.6,
+        "margin_votes": 794,
+        "margin_percentage": 0.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ashokkumar.K",
+          "party": "All India Anna Dravida Munnetra Kazhagam",
+          "votes": 96050,
+          "votes_percentage": 45.8
+        },
+        {
+          "position": 2,
+          "name": "Senguttuvan.T",
+          "party": "Dravida Munetra Kazhagam",
+          "votes": 95256,
+          "votes_percentage": 45.4
+        },
+        {
+          "position": 3,
+          "name": "Nirandari.V",
+          "party": "Naam Tamilar Katchi",
+          "votes": 11137,
+          "votes_percentage": 5.3
+        },
+        {
+          "position": 4,
+          "name": "Ravishankar.R.K",
+          "party": "Makkal Needhi Maiam",
+          "votes": 3455,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 5,
+          "name": "Chandramohan.K.M",
+          "party": "Nationalist Congress Party",
+          "votes": 1088,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Ameenulla",
+          "party": "All India Majlis-E-Ittehadul Muslimeen",
+          "votes": 858,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Tamilselvan.S",
+          "party": "Bahujan Samaj Party",
+          "votes": 488,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "Sakthi.K",
+          "party": "Independent",
+          "votes": 418,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Sivan.C",
+          "party": "Independent",
+          "votes": 318,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Gopinath.M",
+          "party": "Independent",
+          "votes": 232,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Vijayakumar.R",
+          "party": "Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi",
+          "votes": 137,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Sasikumar.K.S",
+          "party": "Anna Puratchi Thalaivar Amma Dravida Munnetra Kazhagam",
+          "votes": 129,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Tvs Gandhi",
+          "party": "Independent",
+          "votes": 97,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Ruthramani.T",
+          "party": "Desiya Makkal Sakthi Katchi",
+          "votes": 89,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 15,
+          "name": "Kumaresan.M",
+          "party": "Independent",
+          "votes": 59,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "2016": {
+      "poll_date": "16 May 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 19,
+      "aggregate": {
+        "total_electors": 244487,
+        "total_votes_polled": 198237,
+        "turnout_percentage": 81.8,
+        "margin_votes": 4891,
+        "margin_percentage": 2.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Senguttuvan.T",
+          "party": "Dravida Munetra Kazhagam",
+          "votes": 87637,
+          "votes_percentage": 44.2
+        },
+        {
+          "position": 2,
+          "name": "Govindaraj",
+          "party": "All India Anna Dravida Munnetra Kazhagam",
+          "votes": 82746,
+          "votes_percentage": 41.7
+        },
+        {
+          "position": 3,
+          "name": "Kumar.S",
+          "party": "Pattali Makkal Katchi",
+          "votes": 15736,
+          "votes_percentage": 7.9
+        },
+        {
+          "position": 4,
+          "name": "Jayaprakash.R",
+          "party": "Tamil Maanila Congress  (Moopanar)",
+          "votes": 4199,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 5,
+          "name": "Manager",
+          "party": "Independent",
+          "votes": 1195,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Chandramohan.K.M",
+          "party": "Nationalist Congress Party",
+          "votes": 1151,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Latha.G",
+          "party": "Independent",
+          "votes": 1082,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "Ponn.Parthiban",
+          "party": "Naam Tamilar Katchi",
+          "votes": 986,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 9,
+          "name": "Arunkowtham",
+          "party": "Indiya Jananayaka Katchi",
+          "votes": 886,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 10,
+          "name": "Velu.K",
+          "party": "Independent",
+          "votes": 663,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 11,
+          "name": "Sivaraj.M.K",
+          "party": "Independent",
+          "votes": 415,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Pandian@pandia Prabhu.P",
+          "party": "Independent",
+          "votes": 291,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 13,
+          "name": "Gandhi.T.V.S",
+          "party": "Independent",
+          "votes": 258,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Vadivel",
+          "party": "Independent",
+          "votes": 198,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Venkatesh.K.C",
+          "party": "United Communist Party Of India",
+          "votes": 194,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "Mubarak.B",
+          "party": "All India Majlis-E-Ittehadul Muslimoon",
+          "votes": 172,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 17,
+          "name": "Vajravel.G",
+          "party": "Kongunadu Makkal Desia Katchi",
+          "votes": 167,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 18,
+          "name": "Sankar.K",
+          "party": "Ulzaipali Makkal Katchy",
+          "votes": 158,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 19,
+          "name": "Sigamani.K.N",
+          "party": "Puratchikara Thozilalar Katchi",
+          "votes": 103,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "13 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 201912,
+        "total_votes_polled": 160379,
+        "turnout_percentage": 79.4,
+        "margin_votes": 29097,
+        "margin_percentage": 18.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "K.P.Munusamy",
+          "party": "All India Anna Dravida Munnetra Kazhagam",
+          "votes": 89776,
+          "votes_percentage": 56.0
+        },
+        {
+          "position": 2,
+          "name": "Syed Ghiyas Ul Haq",
+          "party": "Indian National Congress",
+          "votes": 60679,
+          "votes_percentage": 37.8
+        },
+        {
+          "position": 3,
+          "name": "Kotteswaran",
+          "party": "Bharatiya Janta Party",
+          "votes": 3025,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 4,
+          "name": "R.Raja,",
+          "party": "Ulzaipali Makkal Katchy",
+          "votes": 2357,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Latha.G.",
+          "party": "Independent",
+          "votes": 1561,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Srinivasan .V.",
+          "party": "Independent",
+          "votes": 777,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Tamilselvan.K.",
+          "party": "Independent",
+          "votes": 725,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Agakrishnamurthy",
+          "party": "Independent",
+          "votes": 540,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Chandramohan .K.M.",
+          "party": "Independent",
+          "votes": 489,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Arjunan.M.",
+          "party": "Independent",
+          "votes": 450,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2006": {
+      "poll_date": "05 August 2006",
+      "counting_date": "05 November 2006",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 197095,
+        "total_votes_polled": 140275,
+        "turnout_percentage": 71.2,
+        "margin_votes": 18195,
+        "margin_percentage": 13.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Senguttuvan T",
+          "party": "Dravida Munetra Kazhagam",
+          "votes": 69068,
+          "votes_percentage": 49.2
+        },
+        {
+          "position": 2,
+          "name": "Govindaraj V",
+          "party": "All India Anna Dravida Munnetra Kazhagam",
+          "votes": 50873,
+          "votes_percentage": 36.3
+        },
+        {
+          "position": 3,
+          "name": "Govindaraj R",
+          "party": "Desiya Murpokku Dravida Kazhagam",
+          "votes": 10894,
+          "votes_percentage": 7.8
+        },
+        {
+          "position": 4,
+          "name": "Davit P",
+          "party": "Nationalist Congress Party",
+          "votes": 1913,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 5,
+          "name": "Raju V",
+          "party": "Independent",
+          "votes": 1841,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 6,
+          "name": "Abimannan C",
+          "party": "Bahujan Samaj Party",
+          "votes": 1672,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 7,
+          "name": "Ramesh S",
+          "party": "Independent",
+          "votes": 1100,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 8,
+          "name": "Chennaiyan C",
+          "party": "Independent",
+          "votes": 938,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 9,
+          "name": "Munavaribegum S",
+          "party": "Bharatiya Janta Party",
+          "votes": 812,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 10,
+          "name": "Krishnamoorthy Rao V.M.",
+          "party": "Independent",
+          "votes": 594,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 11,
+          "name": "Guru Rajan M R",
+          "party": "United Communist Party Of India",
+          "votes": 566,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "2001": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 193656,
+        "total_votes_polled": 115243,
+        "turnout_percentage": 59.5,
+        "margin_votes": 21773,
+        "margin_percentage": 18.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Govindarasu V.",
+          "party": "All India Anna Dravida Munnetra Kazhagam",
+          "votes": 65197,
+          "votes_percentage": 56.6
+        },
+        {
+          "position": 2,
+          "name": "T.Senguttuvan",
+          "party": "Dravida Munetra Kazhagam",
+          "votes": 43424,
+          "votes_percentage": 37.7
+        },
+        {
+          "position": 3,
+          "name": "P.Jayaseelan",
+          "party": "Independent",
+          "votes": 2861,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 4,
+          "name": "K.R.Pandian",
+          "party": "Marumalarchi Dravida Munnetra Kazhagam",
+          "votes": 2093,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 5,
+          "name": "M.Krishnamurthy",
+          "party": "Independent",
+          "votes": 938,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "M.Arumugasubramani",
+          "party": "Independent",
+          "votes": 690,
+          "votes_percentage": 0.6
+        }
+      ]
+    },
+    "1996": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 16,
+      "aggregate": {
+        "total_electors": 173839,
+        "total_votes_polled": 112982,
+        "turnout_percentage": 65.0,
+        "margin_votes": 35611,
+        "margin_percentage": 31.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kanchana Kamalanathan",
+          "party": "Dravida Munetra Kazhagam",
+          "votes": 67849,
+          "votes_percentage": 64.1
+        },
+        {
+          "position": 2,
+          "name": "Kathavarayan, K.P.",
+          "party": "All India Anna Dravida Munnetra Kazhagam",
+          "votes": 32238,
+          "votes_percentage": 30.5
+        },
+        {
+          "position": 3,
+          "name": "Pandiyan, K.R.",
+          "party": "Marumalarchi Dravida Munnetra Kazhagam",
+          "votes": 1850,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 4,
+          "name": "Thirupathi, C.R.",
+          "party": "All India Indira Congress (TIWARI)",
+          "votes": 1182,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Sathiq, Y.",
+          "party": "Independent",
+          "votes": 592,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Seshagiri, R.",
+          "party": "Independent",
+          "votes": 535,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Nedunchelian, S.C.",
+          "party": "Bharatiya Janta Party",
+          "votes": 449,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Shafiullah, S.",
+          "party": "Independent",
+          "votes": 247,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Gnanasekaran, T.P.",
+          "party": "Independent",
+          "votes": 169,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Mahendiran, V.P.",
+          "party": "Independent",
+          "votes": 146,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Boobalan, K.M.",
+          "party": "Independent",
+          "votes": 130,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Balakrishnan, S.",
+          "party": "Independent",
+          "votes": 123,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Ameerjan, Z.",
+          "party": "Independent",
+          "votes": 121,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Rameshbabu, S.",
+          "party": "Independent",
+          "votes": 87,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Varadan, S.K.",
+          "party": "Independent",
+          "votes": 58,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "Murugesan",
+          "party": "Independent",
+          "votes": 53,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1991": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 155585,
+        "total_votes_polled": 96861,
+        "turnout_percentage": 62.3,
+        "margin_votes": 39968,
+        "margin_percentage": 41.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Munivektatappan K.",
+          "party": "All India Anna Dravida Munnetra Kazhagam",
+          "votes": 63729,
+          "votes_percentage": 69.9
+        },
+        {
+          "position": 2,
+          "name": "Musta Ahmed T.H.",
+          "party": "Dravida Munetra Kazhagam",
+          "votes": 23761,
+          "votes_percentage": 26.1
+        },
+        {
+          "position": 3,
+          "name": "Rukkumani Ammal M.",
+          "party": "Bharatiya Janta Party",
+          "votes": 1511,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 4,
+          "name": "Kanmani K.C.",
+          "party": "Pattali Makkal Katchi",
+          "votes": 991,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Ravi S.",
+          "party": "Jharkhand Party",
+          "votes": 603,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Murugesan M.",
+          "party": "Independent",
+          "votes": 550,
+          "votes_percentage": 0.6
+        }
+      ]
+    },
+    "1989": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 136299,
+        "total_votes_polled": 93102,
+        "turnout_percentage": 68.3,
+        "margin_votes": 13986,
+        "margin_percentage": 15.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kanchana, K.",
+          "party": "Dravida Munetra Kazhagam",
+          "votes": 35042,
+          "votes_percentage": 39.3
+        },
+        {
+          "position": 2,
+          "name": "Krishnan, K.C.",
+          "party": "All India Anna Dravida Munnetra Kazhagam(JAYALALITA GROUP)",
+          "votes": 21056,
+          "votes_percentage": 23.6
+        },
+        {
+          "position": 3,
+          "name": "Barakathunnisa",
+          "party": "Indian National Congress",
+          "votes": 20663,
+          "votes_percentage": 23.2
+        },
+        {
+          "position": 4,
+          "name": "Chinnarasu, K.R.",
+          "party": "All India Anna Dravida Munnetra Kazhagam(JANAKI RAMACHANDRAN)",
+          "votes": 9331,
+          "votes_percentage": 10.5
+        },
+        {
+          "position": 5,
+          "name": "Krishnappa, J.C.",
+          "party": "Independent",
+          "votes": 1854,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 6,
+          "name": "Thimminaidu",
+          "party": "Independent",
+          "votes": 307,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "Narasimman, S.",
+          "party": "Independent",
+          "votes": 285,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Saravanan",
+          "party": "Independent",
+          "votes": 282,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Munisamy, C.",
+          "party": "Independent",
+          "votes": 206,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Murugesan, M.",
+          "party": "Independent",
+          "votes": 182,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "1984": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 116726,
+        "total_votes_polled": 80179,
+        "turnout_percentage": 68.7,
+        "margin_votes": 11015,
+        "margin_percentage": 13.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chinnaraju K.R.",
+          "party": "All India Anna Dravida Munnetra Kazhagam",
+          "votes": 40585,
+          "votes_percentage": 54.8
+        },
+        {
+          "position": 2,
+          "name": "Kanchana",
+          "party": "Dravida Munetra Kazhagam",
+          "votes": 29570,
+          "votes_percentage": 40.0
+        },
+        {
+          "position": 3,
+          "name": "K.O. Periyannan",
+          "party": "Independent",
+          "votes": 2676,
+          "votes_percentage": 3.6
+        },
+        {
+          "position": 4,
+          "name": "Angappan K.",
+          "party": "Independent",
+          "votes": 574,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 5,
+          "name": "M.Jinadhattan",
+          "party": "Independent",
+          "votes": 344,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Venkatesan B.V.",
+          "party": "Independent",
+          "votes": 268,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 106266,
+        "total_votes_polled": 57662,
+        "turnout_percentage": 54.3,
+        "margin_votes": 1797,
+        "margin_percentage": 3.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chinnarasu, K. R",
+          "party": "All India Anna Dravida Munnetra Kazhagam",
+          "votes": 28020,
+          "votes_percentage": 49.8
+        },
+        {
+          "position": 2,
+          "name": "Kamalanathan, M",
+          "party": "Dravida Munetra Kazhagam",
+          "votes": 26223,
+          "votes_percentage": 46.6
+        },
+        {
+          "position": 3,
+          "name": "Krishnamurthy, S",
+          "party": "Janata Party (JP)",
+          "votes": 1901,
+          "votes_percentage": 3.4
+        },
+        {
+          "position": 4,
+          "name": "Fairoz Basha, P.M.",
+          "party": "Independent",
+          "votes": 183,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 93875,
+        "total_votes_polled": 54146,
+        "turnout_percentage": 57.7,
+        "margin_votes": 4712,
+        "margin_percentage": 8.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "K.R. Chinarassu",
+          "party": "All India Anna Dravida Munnetra Kazhagam",
+          "votes": 17178,
+          "votes_percentage": 32.7
+        },
+        {
+          "position": 2,
+          "name": "T. M. Thiruppathy",
+          "party": "Janta Party",
+          "votes": 12466,
+          "votes_percentage": 23.7
+        },
+        {
+          "position": 3,
+          "name": "P.M. Muniswamy Gounder",
+          "party": "Indian National Congress",
+          "votes": 11667,
+          "votes_percentage": 22.2
+        },
+        {
+          "position": 4,
+          "name": "M.M. Karamathullah",
+          "party": "Dravida Munetra Kazhagam",
+          "votes": 9429,
+          "votes_percentage": 17.9
+        },
+        {
+          "position": 5,
+          "name": "C. Munnuswamy",
+          "party": "Independent",
+          "votes": 1860,
+          "votes_percentage": 3.5
+        }
+      ]
+    }
+  }
+}

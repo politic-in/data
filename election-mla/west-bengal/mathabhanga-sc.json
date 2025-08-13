@@ -1,0 +1,71 @@
+{
+  "state": "West Bengal",
+  "constituency": "MATHABHANGA (SC)",
+  "district": "Koch Bihar",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 229392,
+        "total_votes_polled": 198405,
+        "turnout_percentage": 87.4,
+        "margin_votes": 31918,
+        "margin_percentage": 16.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Binay Krishna Barman",
+          "party": "All India Trinamool Congress",
+          "votes": 96383,
+          "votes_percentage": 48.6
+        },
+        {
+          "position": 2,
+          "name": "Khagen Chandra Barman",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 64465,
+          "votes_percentage": 32.5
+        },
+        {
+          "position": 3,
+          "name": "Sushil Barman",
+          "party": "Bharatiya Janta Party",
+          "votes": 31258,
+          "votes_percentage": 15.8
+        },
+        {
+          "position": 5,
+          "name": "Harekrishna Sarkar",
+          "party": "Independent",
+          "votes": 1353,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Piyari Mohon Barman",
+          "party": "Independent",
+          "votes": 1120,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Nayan Chand Barman",
+          "party": "Amra Bangalee",
+          "votes": 1038,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Manjula Roy",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1029,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

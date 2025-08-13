@@ -1,0 +1,57 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Nyapin Palim",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1984": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 10795,
+        "total_votes_polled": 8645,
+        "turnout_percentage": 80.1,
+        "margin_votes": 429,
+        "margin_percentage": 5.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tadar Tang",
+          "party": "Indian National Congress",
+          "votes": 3265,
+          "votes_percentage": 41.1
+        },
+        {
+          "position": 2,
+          "name": "Kamen Ringu",
+          "party": "Peoples Party Of Arunachal",
+          "votes": 2836,
+          "votes_percentage": 35.7
+        },
+        {
+          "position": 3,
+          "name": "Dozang Taging",
+          "party": "Independent",
+          "votes": 1371,
+          "votes_percentage": 17.2
+        },
+        {
+          "position": 4,
+          "name": "Tai Punung",
+          "party": "Independent",
+          "votes": 380,
+          "votes_percentage": 4.8
+        },
+        {
+          "position": 5,
+          "name": "Takio Sonia",
+          "party": "Janta Party",
+          "votes": 101,
+          "votes_percentage": 1.3
+        }
+      ]
+    }
+  }
+}

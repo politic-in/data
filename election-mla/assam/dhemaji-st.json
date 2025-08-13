@@ -1,0 +1,85 @@
+{
+  "state": "Assam",
+  "constituency": "Dhemaji (ST)",
+  "district": "Dhemaji",
+  "ac_type": "ST",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 210865,
+        "total_votes_polled": 168743,
+        "turnout_percentage": 80.7,
+        "margin_votes": 19121,
+        "margin_percentage": 11.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pradan Baruah",
+          "party": "Bharatiya Janta Party",
+          "votes": 69592,
+          "votes_percentage": 41.2
+        },
+        {
+          "position": 2,
+          "name": "Sumitra Doley Patir",
+          "party": "Indian National Congress",
+          "votes": 50471,
+          "votes_percentage": 29.9
+        },
+        {
+          "position": 3,
+          "name": "Paramananda Chayengia",
+          "party": "Independent",
+          "votes": 21874,
+          "votes_percentage": 13.0
+        },
+        {
+          "position": 4,
+          "name": "Sailen Sonowal",
+          "party": "Independent",
+          "votes": 16548,
+          "votes_percentage": 9.8
+        },
+        {
+          "position": 5,
+          "name": "Gandheswar Borah",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 3830,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 6,
+          "name": "Kiranban Deori",
+          "party": "Liberal Democratic Party",
+          "votes": 2456,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 7,
+          "name": "Rajkumar Doley",
+          "party": "Independent",
+          "votes": 2173,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 8,
+          "name": "Durgeswar Patir",
+          "party": "Lok Jan Shakti Party",
+          "votes": 1275,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 9,
+          "name": "Hem Kanta Miri",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 524,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

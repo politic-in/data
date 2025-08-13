@@ -1,0 +1,69 @@
+{
+  "state": "Tripura",
+  "constituency": "TRIPURA",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1957": {
+      "poll_date": "25 February 1957",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 432902,
+        "total_votes_polled": 550338,
+        "turnout_percentage": 63.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Deb Barma Bangshi",
+          "party": "Indian National Congress",
+          "votes": 133078,
+          "votes_percentage": 24.2
+        },
+        {
+          "position": 1,
+          "name": "Deb Dasaratha",
+          "party": "Communist Party Of India",
+          "votes": 128624,
+          "votes_percentage": 23.4
+        },
+        {
+          "position": 3,
+          "name": "Singh Umesh Lal",
+          "party": "Indian National Congress",
+          "votes": 120163,
+          "votes_percentage": 21.8
+        },
+        {
+          "position": 4,
+          "name": "Dutta Birendra",
+          "party": "Communist Party Of India",
+          "votes": 119798,
+          "votes_percentage": 21.8
+        },
+        {
+          "position": 5,
+          "name": "Choudhury Jogendra Kumar",
+          "party": "Independent",
+          "votes": 25227,
+          "votes_percentage": 4.6
+        },
+        {
+          "position": 6,
+          "name": "Deb Barma Lalit Mohan",
+          "party": "Independent",
+          "votes": 15806,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 7,
+          "name": "Chakma Sneha Kumar",
+          "party": "Independent",
+          "votes": 7642,
+          "votes_percentage": 1.4
+        }
+      ]
+    }
+  }
+}

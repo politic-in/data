@@ -1,0 +1,134 @@
+{
+  "state": "West Bengal",
+  "constituency": "Harischandrapur",
+  "district": "Maldah",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 238558,
+        "total_votes_polled": 202141,
+        "turnout_percentage": 85.2,
+        "margin_votes": 77473,
+        "margin_percentage": 38.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tajmul Hossain",
+          "party": "All India Trinamool Congress",
+          "votes": 122527,
+          "votes_percentage": 60.6
+        },
+        {
+          "position": 2,
+          "name": "Md. Matibur Rahaman",
+          "party": "Bharatiya Janta Party",
+          "votes": 45054,
+          "votes_percentage": 22.3
+        },
+        {
+          "position": 3,
+          "name": "Alam Mostaque",
+          "party": "Indian National Congress",
+          "votes": 29396,
+          "votes_percentage": 14.5
+        },
+        {
+          "position": 4,
+          "name": "Md Oliur Rahaman",
+          "party": "Independent",
+          "votes": 1473,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Ram Bilas Mandal",
+          "party": "Bahujan Samaj Party",
+          "votes": 1305,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Alam Md Rafiqul",
+          "party": "All India Forward Bloc",
+          "votes": 1285,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Musaraf Hossain",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 629,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Subrata Das",
+          "party": "Independent",
+          "votes": 472,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 160561,
+        "total_votes_polled": 134263,
+        "turnout_percentage": 83.6,
+        "margin_votes": 2441,
+        "margin_percentage": 1.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tajmul Hossain",
+          "party": "All India Forward Bloc",
+          "votes": 62019,
+          "votes_percentage": 46.2
+        },
+        {
+          "position": 2,
+          "name": "Alam Mostaque",
+          "party": "Indian National Congress",
+          "votes": 59578,
+          "votes_percentage": 44.4
+        },
+        {
+          "position": 3,
+          "name": "Rina Saha",
+          "party": "Bharatiya Janta Party",
+          "votes": 6033,
+          "votes_percentage": 4.5
+        },
+        {
+          "position": 4,
+          "name": "Efrajul Hoque",
+          "party": "Bahujan Samaj Party",
+          "votes": 3876,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 5,
+          "name": "Monowara Begam",
+          "party": "Independent",
+          "votes": 1815,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 6,
+          "name": "Gouri Sankar Kedia",
+          "party": "Independent",
+          "votes": 942,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

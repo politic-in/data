@@ -1,0 +1,121 @@
+{
+  "district": "Tirunelveli",
+  "state": "Tamil Nadu",
+  "data_source": {
+    "primary": "https://www.census2011.co.in/census/district/50-tirunelveli.html",
+    "secondary_sc_st": "https://www.censusindia.co.in/district/tirunelveli-district-tamil-nadu-628"
+  },
+  "overall_population": {
+    "total_population": 3077233,
+    "male_population": 1520912,
+    "female_population": 1556321,
+    "sex_ratio": 1023
+  },
+  "urban_rural_distribution": {
+    "urban": {
+      "percentage": 49.4,
+      "total_population": 1520229,
+      "male_population": 752184,
+      "female_population": 768045,
+      "sex_ratio": 1021,
+      "child_population": {
+        "total": 154323,
+        "male": 78804,
+        "female": 75519,
+        "sex_ratio": 958,
+        "percentage_of_urban_population": 10.15
+      },
+      "literacy": {
+        "rate_percentage": 85.9,
+        "total_literate": 1173345,
+        "male_literate": 617731,
+        "female_literate": 555614,
+        "male_literacy_rate": 91.74,
+        "female_literacy_rate": 80.23
+      }
+    },
+    "rural": {
+      "percentage": 50.6,
+      "total_population": 1557004,
+      "male_population": 768728,
+      "female_population": 788276,
+      "sex_ratio": 1025,
+      "child_population": {
+        "total": 167364,
+        "male": 85353,
+        "female": 82011,
+        "sex_ratio": 961,
+        "percentage_of_rural_population": 10.75
+      },
+      "literacy": {
+        "rate_percentage": 79.17,
+        "total_literate": 1100112,
+        "male_literate": 592979,
+        "female_literate": 507133,
+        "male_literacy_rate": 86.77,
+        "female_literacy_rate": 71.8
+      }
+    }
+  },
+  "child_population_0_6": {
+    "total": 321687,
+    "male": 164157,
+    "female": 157530,
+    "sex_ratio": 960,
+    "percentage_of_total_population": 10.45
+  },
+  "literacy_overall": {
+    "rate_percentage": 82.5,
+    "total_literate": 2273457,
+    "male_literate": 1210710,
+    "female_literate": 1062747,
+    "male_literacy_rate": 89.24,
+    "female_literacy_rate": 75.98
+  },
+  "religion_distribution": {
+    "hindu": {
+      "percentage": 78.83,
+      "population": 2425630
+    },
+    "muslim": {
+      "percentage": 9.86,
+      "population": 303368
+    },
+    "christian": {
+      "percentage": 11.12,
+      "population": 342254
+    },
+    "sikh": {
+      "percentage": 0.01,
+      "population": 268
+    },
+    "buddhist": {
+      "percentage": 0.01,
+      "population": 373
+    },
+    "jain": {
+      "percentage": 0.0,
+      "population": 144
+    },
+    "others": {
+      "percentage": 0.01,
+      "population": 450
+    },
+    "not_stated": {
+      "percentage": 0.15,
+      "population": 4746
+    }
+  },
+  "scheduled_caste_population": {
+    "total": 569714,
+    "percentage_of_total_population": 18.5,
+    "male": 279570,
+    "female": 290144
+  },
+  "scheduled_tribe_population": {
+    "total": 10270,
+    "percentage_of_total_population": 0.3,
+    "male": 5109,
+    "female": 5161
+  }
+}

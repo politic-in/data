@@ -1,0 +1,64 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "Manika",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 133838,
+        "total_votes_polled": 45966,
+        "turnout_percentage": 34.3,
+        "margin_votes": 4769,
+        "margin_percentage": 10.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Yamuna Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 16674,
+          "votes_percentage": 37.1
+        },
+        {
+          "position": 2,
+          "name": "Ramchandra Singh",
+          "party": "Rashtriya Janata Dal",
+          "votes": 11905,
+          "votes_percentage": 26.5
+        },
+        {
+          "position": 3,
+          "name": "Rajeshwar Singh",
+          "party": "Indian National Congress",
+          "votes": 7239,
+          "votes_percentage": 16.1
+        },
+        {
+          "position": 4,
+          "name": "Jai Prakash Miz",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 6477,
+          "votes_percentage": 14.4
+        },
+        {
+          "position": 5,
+          "name": "Vinod Kumar Bhagat",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 1799,
+          "votes_percentage": 4.0
+        },
+        {
+          "position": 6,
+          "name": "Nirmal Lakra",
+          "party": "Bahujan Samaj Party",
+          "votes": 911,
+          "votes_percentage": 2.0
+        }
+      ]
+    }
+  }
+}

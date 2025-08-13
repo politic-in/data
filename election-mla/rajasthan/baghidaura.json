@@ -1,0 +1,71 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Baghidaura",
+  "district": "Banswara",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 230277,
+        "total_votes_polled": 192281,
+        "turnout_percentage": 85.9,
+        "margin_votes": 21310,
+        "margin_percentage": 11.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mahendrajeet Singh Malviya",
+          "party": "Indian National Congress",
+          "votes": 97638,
+          "votes_percentage": 50.8
+        },
+        {
+          "position": 2,
+          "name": "Khemraj Garasiya",
+          "party": "Bharatiya Janta Party",
+          "votes": 76328,
+          "votes_percentage": 39.7
+        },
+        {
+          "position": 3,
+          "name": "Kamalkant Katara",
+          "party": "Bhartiya Tribal Party",
+          "votes": 9538,
+          "votes_percentage": 5.0
+        },
+        {
+          "position": 4,
+          "name": "Ratan",
+          "party": "Bahujan Samaj Party",
+          "votes": 3309,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 5,
+          "name": "Jahu",
+          "party": "Independent",
+          "votes": 2837,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 6,
+          "name": "Kamalkishor Pargi",
+          "party": "Independent",
+          "votes": 1364,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Valaram",
+          "party": "Janata Dal (United)",
+          "votes": 1267,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

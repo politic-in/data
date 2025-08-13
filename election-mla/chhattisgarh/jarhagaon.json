@@ -1,0 +1,57 @@
+{
+  "state": "Chhattisgarh",
+  "constituency": "Jarhagaon",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "2003": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 135797,
+        "total_votes_polled": 91421,
+        "turnout_percentage": 67.3,
+        "margin_votes": 11985,
+        "margin_percentage": 13.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Churawan Mangeshkar",
+          "party": "Indian National Congress",
+          "votes": 46744,
+          "votes_percentage": 51.1
+        },
+        {
+          "position": 2,
+          "name": "Chouwadas Khandekar",
+          "party": "Bharatiya Janta Party",
+          "votes": 34759,
+          "votes_percentage": 38.0
+        },
+        {
+          "position": 3,
+          "name": "Shakuntala Mire",
+          "party": "Bahujan Samaj Party",
+          "votes": 3938,
+          "votes_percentage": 4.3
+        },
+        {
+          "position": 4,
+          "name": "Rukhmani",
+          "party": "Samajwadi Party",
+          "votes": 3044,
+          "votes_percentage": 3.3
+        },
+        {
+          "position": 5,
+          "name": "Ramkaushal Sonwani",
+          "party": "Nationalist Congress Party",
+          "votes": 2936,
+          "votes_percentage": 3.2
+        }
+      ]
+    }
+  }
+}

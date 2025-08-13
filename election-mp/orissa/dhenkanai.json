@@ -1,0 +1,34 @@
+{
+  "state": "Orissa",
+  "constituency": "DHENKANAI",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1957": {
+      "poll_date": "25 February 1957",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 414908,
+        "total_votes_polled": 167688,
+        "turnout_percentage": 40.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Surendra Mohanty",
+          "party": "Ganatantra Parishad",
+          "votes": 92142,
+          "votes_percentage": 54.9
+        },
+        {
+          "position": 2,
+          "name": "Braja Kishore Dhal",
+          "party": "Indian National Congress",
+          "votes": 75546,
+          "votes_percentage": 45.1
+        }
+      ]
+    }
+  }
+}

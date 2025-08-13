@@ -1,0 +1,169 @@
+{
+  "state": "West Bengal",
+  "constituency": "Tehatta",
+  "district": "Nadia",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 244793,
+        "total_votes_polled": 216373,
+        "turnout_percentage": 89.1,
+        "margin_votes": 6915,
+        "margin_percentage": 3.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tapas Kumar Saha",
+          "party": "All India Trinamool Congress",
+          "votes": 97848,
+          "votes_percentage": 45.2
+        },
+        {
+          "position": 2,
+          "name": "Ashutosh Paul",
+          "party": "Bharatiya Janta Party",
+          "votes": 90933,
+          "votes_percentage": 42.0
+        },
+        {
+          "position": 3,
+          "name": "Subodh Chandra Biswas",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 23239,
+          "votes_percentage": 10.7
+        },
+        {
+          "position": 4,
+          "name": "Tarak Nath Biswas",
+          "party": "Bahujan Samaj Party",
+          "votes": 1876,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Rabindranath Halder",
+          "party": "Independent",
+          "votes": 1439,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Surya Biswas",
+          "party": "Purvanchal Mahapanchayat",
+          "votes": 638,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "Chiranjit Sardar",
+          "party": "Independent",
+          "votes": 400,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 229264,
+        "total_votes_polled": 197616,
+        "turnout_percentage": 86.8,
+        "margin_votes": 17396,
+        "margin_percentage": 8.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gouri Sankar Dutta",
+          "party": "All India Trinamool Congress",
+          "votes": 97611,
+          "votes_percentage": 49.4
+        },
+        {
+          "position": 2,
+          "name": "Ranjit Kumar Mandal",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 80215,
+          "votes_percentage": 40.6
+        },
+        {
+          "position": 3,
+          "name": "Arjun Kumar Biswas",
+          "party": "Bharatiya Janta Party",
+          "votes": 16809,
+          "votes_percentage": 8.5
+        },
+        {
+          "position": 4,
+          "name": "Arabinda Biswas",
+          "party": "Bahujan Samaj Party",
+          "votes": 1918,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Sherful Ansary",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1063,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 199457,
+        "total_votes_polled": 176345,
+        "turnout_percentage": 88.4,
+        "margin_votes": 19197,
+        "margin_percentage": 10.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ranjit Kumar Mandal",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 75445,
+          "votes_percentage": 42.8
+        },
+        {
+          "position": 2,
+          "name": "Tapas Kumar Saha",
+          "party": "Independent",
+          "votes": 56248,
+          "votes_percentage": 31.9
+        },
+        {
+          "position": 3,
+          "name": "Gouri Sankar Dutta",
+          "party": "All India Trinamool Congress",
+          "votes": 35127,
+          "votes_percentage": 19.9
+        },
+        {
+          "position": 4,
+          "name": "Ashutosh Paul",
+          "party": "Bharatiya Janta Party",
+          "votes": 7067,
+          "votes_percentage": 4.0
+        },
+        {
+          "position": 5,
+          "name": "Tapan Bala",
+          "party": "Bahujan Samaj Party",
+          "votes": 2458,
+          "votes_percentage": 1.4
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 17275,
+        "male": 18515,
+        "percentage_of_total_population": 18.2,
+        "percentage_of_total_population_calculated": 18.2,
+        "percentage_of_total_population_stated": 18.2,
+        "sex_ratio": 933,
+        "total": 35790
+    },
+    "literacy": {
+        "female_literacy_rate": 69.59,
+        "female_literate": 53858,
+        "male_literacy_rate": 76.31,
+        "male_literate": 63653,
+        "rate_percentage": 73.08,
+        "total_literate": 117511
+    },
+    "population": {
+        "female": 94663,
+        "male": 101933,
+        "sex_ratio": 929,
+        "total": 196596
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.29,
+            "population": 572
+        },
+        "Christian": {
+            "percentage": 97.59,
+            "population": 191864
+        },
+        "Hindu": {
+            "percentage": 1.52,
+            "population": 2979
+        },
+        "Jain": {
+            "percentage": 0.0,
+            "population": 5
+        },
+        "Muslims": {
+            "percentage": 0.54,
+            "population": 1052
+        },
+        "Not Stated": {
+            "percentage": 0.05,
+            "population": 96
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 1
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 27
+        }
+    },
+    "rural": {
+        "child_population_female": 14465,
+        "child_population_male": 15596,
+        "child_population_percentage": 18.81,
+        "child_population_percentage_calculated": 18.81,
+        "child_population_percentage_stated": 18.81,
+        "child_population_total": 30061,
+        "child_sex_ratio": 927,
+        "female": 77360,
+        "literacy_rate_female": 64.93,
+        "literacy_rate_male": 71.95,
+        "literacy_rate_percentage": 68.55,
+        "literate_female": 40839,
+        "literate_male": 48113,
+        "literate_total": 88952,
+        "male": 82462,
+        "percentage_population": 81.29,
+        "population": 159822,
+        "sex_ratio": 938
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/614-tuensang.html",
+    "urban": {
+        "child_population_female": 2809,
+        "child_population_male": 2920,
+        "child_population_percentage": 15.58,
+        "child_population_percentage_calculated": 15.58,
+        "child_population_percentage_stated": 15.58,
+        "child_population_total": 5729,
+        "child_sex_ratio": 962,
+        "female": 17303,
+        "literacy_rate_female": 89.82,
+        "literacy_rate_male": 93.89,
+        "literacy_rate_percentage": 91.99,
+        "literate_female": 13019,
+        "literate_male": 15540,
+        "literate_total": 28559,
+        "male": 19471,
+        "percentage_population": 18.71,
+        "population": 36774,
+        "sex_ratio": 889
+    }
+}

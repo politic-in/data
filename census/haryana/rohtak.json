@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 58270,
+        "male": 71060,
+        "percentage_of_total_population": 12.19,
+        "percentage_of_total_population_calculated": 12.19,
+        "percentage_of_total_population_stated": 12.19,
+        "sex_ratio": 820,
+        "total": 129330
+    },
+    "literacy": {
+        "female_literacy_rate": 71.72,
+        "female_literate": 311557,
+        "male_literacy_rate": 87.65,
+        "male_literate": 436025,
+        "rate_percentage": 80.22,
+        "total_literate": 747582
+    },
+    "population": {
+        "female": 492725,
+        "male": 568479,
+        "sex_ratio": 867,
+        "total": 1061204
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 200
+        },
+        "Christian": {
+            "percentage": 0.07,
+            "population": 732
+        },
+        "Hindu": {
+            "percentage": 98.37,
+            "population": 1043887
+        },
+        "Jain": {
+            "percentage": 0.33,
+            "population": 3491
+        },
+        "Muslims": {
+            "percentage": 0.77,
+            "population": 8185
+        },
+        "Not Stated": {
+            "percentage": 0.07,
+            "population": 769
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 24
+        },
+        "Sikh": {
+            "percentage": 0.37,
+            "population": 3916
+        }
+    },
+    "rural": {
+        "child_population_female": 35102,
+        "child_population_male": 42691,
+        "child_population_percentage": 12.65,
+        "child_population_percentage_calculated": 12.65,
+        "child_population_percentage_stated": 12.65,
+        "child_population_total": 77793,
+        "child_sex_ratio": 822,
+        "female": 283006,
+        "literacy_rate_female": 66.08,
+        "literacy_rate_male": 86.01,
+        "literacy_rate_percentage": 76.81,
+        "literate_female": 163817,
+        "literate_male": 248850,
+        "literate_total": 412667,
+        "male": 332034,
+        "percentage_population": 57.96,
+        "population": 615040,
+        "sex_ratio": 852
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/221-rohtak.html",
+    "urban": {
+        "child_population_female": 23187,
+        "child_population_male": 28350,
+        "child_population_percentage": 11.55,
+        "child_population_percentage_calculated": 11.55,
+        "child_population_percentage_stated": 11.55,
+        "child_population_total": 51537,
+        "child_sex_ratio": 818,
+        "female": 209719,
+        "literacy_rate_female": 79.2,
+        "literacy_rate_male": 89.95,
+        "literacy_rate_percentage": 84.87,
+        "literate_female": 147740,
+        "literate_male": 187175,
+        "literate_total": 334915,
+        "male": 236445,
+        "percentage_population": 42.04,
+        "population": 446164,
+        "sex_ratio": 887
+    }
+}

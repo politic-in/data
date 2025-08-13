@@ -1,0 +1,45 @@
+{
+  "state": "Goa",
+  "year": "2014",
+  "summary_stats": {
+    "total_electors_state": 1060777,
+    "total_votes_polled_state": 817000,
+    "turnout_percentage_state": 77.0,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "North Goa",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Goa",
+      "winning_candidate": "Shripad Yesso Naik",
+      "winning_party": "Bharatiya Janta Party",
+      "total_electors_ac": 515441,
+      "total_votes_ac": 406631,
+      "poll_percentage_ac": 0.0,
+      "margin": 105599,
+      "margin_percentage": 26.0,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2014/goa/north-goa/7865/51/16"
+    },
+    {
+      "ac_name": "South Goa",
+      "ac_no": 2,
+      "ac_type": "GEN",
+      "district": "Goa",
+      "winning_candidate": "Adv. Narendra Keshav Sawaikar",
+      "winning_party": "Bharatiya Janta Party",
+      "total_electors_ac": 545336,
+      "total_votes_ac": 410369,
+      "poll_percentage_ac": 0.0,
+      "margin": 32330,
+      "margin_percentage": 7.9,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2014/goa/south-goa/7866/51/16"
+    }
+  ]
+}

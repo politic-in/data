@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 57280,
+        "male": 59112,
+        "percentage_of_total_population": 15.75,
+        "percentage_of_total_population_calculated": 15.75,
+        "percentage_of_total_population_stated": 15.75,
+        "sex_ratio": 969,
+        "total": 116392
+    },
+    "literacy": {
+        "female_literacy_rate": 64.43,
+        "female_literate": 196964,
+        "male_literacy_rate": 74.87,
+        "male_literate": 237114,
+        "rate_percentage": 69.74,
+        "total_literate": 434078
+    },
+    "population": {
+        "female": 362986,
+        "male": 375818,
+        "sex_ratio": 966,
+        "total": 738804
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.03,
+            "population": 236
+        },
+        "Christian": {
+            "percentage": 0.8,
+            "population": 5924
+        },
+        "Hindu": {
+            "percentage": 48.61,
+            "population": 359145
+        },
+        "Jain": {
+            "percentage": 0.12,
+            "population": 871
+        },
+        "Muslims": {
+            "percentage": 50.22,
+            "population": 371033
+        },
+        "Not Stated": {
+            "percentage": 0.16,
+            "population": 1202
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 9
+        },
+        "Sikh": {
+            "percentage": 0.05,
+            "population": 384
+        }
+    },
+    "rural": {
+        "child_population_female": 51915,
+        "child_population_male": 53336,
+        "child_population_percentage": 16.73,
+        "child_population_percentage_calculated": 16.73,
+        "child_population_percentage_stated": 16.73,
+        "child_population_total": 105251,
+        "child_sex_ratio": 973,
+        "female": 309208,
+        "literacy_rate_female": 60.91,
+        "literacy_rate_male": 71.74,
+        "literacy_rate_percentage": 66.42,
+        "literate_female": 156711,
+        "literate_male": 191158,
+        "literate_total": 347869,
+        "male": 319786,
+        "percentage_population": 85.14,
+        "population": 628994,
+        "sex_ratio": 967
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/143-bongaigaon.html",
+    "urban": {
+        "child_population_female": 5378,
+        "child_population_male": 5763,
+        "child_population_percentage": 10.15,
+        "child_population_percentage_calculated": 10.15,
+        "child_population_percentage_stated": 10.15,
+        "child_population_total": 11141,
+        "child_sex_ratio": 933,
+        "female": 53778,
+        "literacy_rate_female": 83.17,
+        "literacy_rate_male": 91.42,
+        "literacy_rate_percentage": 87.37,
+        "literate_female": 40253,
+        "literate_male": 45956,
+        "literate_total": 86209,
+        "male": 56032,
+        "percentage_population": 14.86,
+        "population": 109810,
+        "sex_ratio": 960
+    }
+}

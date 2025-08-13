@@ -1,0 +1,85 @@
+{
+  "state": "Maharashtra",
+  "constituency": "Nasik",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 148113,
+        "total_votes_polled": 72097,
+        "turnout_percentage": 48.7,
+        "margin_votes": 2767,
+        "margin_percentage": 3.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Wavare Shantaram Kondaji",
+          "party": "Independent",
+          "votes": 24900,
+          "votes_percentage": 35.0
+        },
+        {
+          "position": 2,
+          "name": "Kathe Ganpatrao Pundalik",
+          "party": "Bharatiya Janta Party",
+          "votes": 22133,
+          "votes_percentage": 31.1
+        },
+        {
+          "position": 3,
+          "name": "Chhajed Jayprakash Jitmal",
+          "party": "Indian National Congress (I)",
+          "votes": 18802,
+          "votes_percentage": 26.4
+        },
+        {
+          "position": 4,
+          "name": "Upadhaya Vasant Ganesh",
+          "party": "Janata Party (JP)",
+          "votes": 4846,
+          "votes_percentage": 6.8
+        },
+        {
+          "position": 5,
+          "name": "Dixit Ramesh Vishwanath",
+          "party": "Independent",
+          "votes": 141,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 6,
+          "name": "Sanghavi Shantilal Meghraj",
+          "party": "Independent",
+          "votes": 105,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Patil Keshavrao Gulabrao",
+          "party": "Independent",
+          "votes": 103,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "Prabhune Anant Ramrao",
+          "party": "Independent",
+          "votes": 56,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Wagh Dattaji Trimbak",
+          "party": "Independent",
+          "votes": 55,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

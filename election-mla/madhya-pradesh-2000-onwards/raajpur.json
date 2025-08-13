@@ -1,0 +1,57 @@
+{
+  "state": "Madhya Pradesh [2000 Onwards]",
+  "constituency": "Raajpur",
+  "district": "Barwani",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 222683,
+        "total_votes_polled": 174818,
+        "turnout_percentage": 80.0,
+        "margin_votes": 932,
+        "margin_percentage": 0.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bala Bachchan",
+          "party": "Indian National Congress",
+          "votes": 85513,
+          "votes_percentage": 48.9
+        },
+        {
+          "position": 2,
+          "name": "Antersingh Devisingh Patel",
+          "party": "Bharatiya Janta Party",
+          "votes": 84581,
+          "votes_percentage": 48.4
+        },
+        {
+          "position": 3,
+          "name": "Vijay Chouhan",
+          "party": "Communist Party Of India",
+          "votes": 2411,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 4,
+          "name": "Umrawsingh Baghel",
+          "party": "Aam Aadmi Party",
+          "votes": 1510,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Vinit Sengar",
+          "party": "Bahujan Samaj Party",
+          "votes": 803,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

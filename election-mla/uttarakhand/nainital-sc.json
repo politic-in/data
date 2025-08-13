@@ -1,0 +1,56 @@
+{
+  "state": "Uttarakhand",
+  "constituency": "NAINITAL (SC)",
+  "district": "Nainital",
+  "ac_type": "SC",
+  "results": {
+    "2022": {
+      "poll_date": "14 February 2022",
+      "counting_date": "10 March 2022",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_votes_polled": 60182,
+        "turnout_percentage": 0.0,
+        "margin_votes": 7881,
+        "margin_percentage": 13.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sarita Arya",
+          "party": "Bharatiya Janta Party",
+          "votes": 31770,
+          "votes_percentage": 52.8
+        },
+        {
+          "position": 2,
+          "name": "Sanjeev Arya",
+          "party": "Indian National Congress",
+          "votes": 23889,
+          "votes_percentage": 39.7
+        },
+        {
+          "position": 3,
+          "name": "Hem Chandra Arya",
+          "party": "Aam Aadmi Party",
+          "votes": 2789,
+          "votes_percentage": 4.6
+        },
+        {
+          "position": 4,
+          "name": "Om Prakash",
+          "party": "Uttarakhand Kranti Dal",
+          "votes": 904,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Rajkamal Sonkar",
+          "party": "Bahujan Samaj Party",
+          "votes": 830,
+          "votes_percentage": 1.4
+        }
+      ]
+    }
+  }
+}

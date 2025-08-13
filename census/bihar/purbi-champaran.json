@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 491501,
+        "male": 526796,
+        "percentage_of_total_population": 19.97,
+        "percentage_of_total_population_calculated": 19.97,
+        "percentage_of_total_population_stated": 19.97,
+        "sex_ratio": 933,
+        "total": 1018297
+    },
+    "literacy": {
+        "female_literacy_rate": 45.12,
+        "female_literate": 869354,
+        "male_literacy_rate": 65.34,
+        "male_literate": 1407603,
+        "rate_percentage": 55.79,
+        "total_literate": 2276957
+    },
+    "population": {
+        "female": 2418162,
+        "male": 2681209,
+        "sex_ratio": 902,
+        "total": 5099371
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 878
+        },
+        "Christian": {
+            "percentage": 0.1,
+            "population": 4865
+        },
+        "Hindu": {
+            "percentage": 80.14,
+            "population": 4086453
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 464
+        },
+        "Muslims": {
+            "percentage": 19.42,
+            "population": 990349
+        },
+        "Not Stated": {
+            "percentage": 0.31,
+            "population": 15590
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 104
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 668
+        }
+    },
+    "rural": {
+        "child_population_female": 458603,
+        "child_population_male": 491036,
+        "child_population_percentage": 20.21,
+        "child_population_percentage_calculated": 20.21,
+        "child_population_percentage_stated": 20.21,
+        "child_population_total": 949639,
+        "child_sex_ratio": 934,
+        "female": 2229847,
+        "literacy_rate_female": 43.41,
+        "literacy_rate_male": 64.23,
+        "literacy_rate_percentage": 54.39,
+        "literate_female": 768880,
+        "literate_male": 1269900,
+        "literate_total": 2038780,
+        "male": 2468181,
+        "percentage_population": 92.13,
+        "population": 4698028,
+        "sex_ratio": 903
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/56-purbi-champaran.html",
+    "urban": {
+        "child_population_female": 32859,
+        "child_population_male": 35799,
+        "child_population_percentage": 17.11,
+        "child_population_percentage_calculated": 17.11,
+        "child_population_percentage_stated": 17.11,
+        "child_population_total": 68658,
+        "child_sex_ratio": 918,
+        "female": 188315,
+        "literacy_rate_female": 64.63,
+        "literacy_rate_male": 77.7,
+        "literacy_rate_percentage": 71.59,
+        "literate_female": 100474,
+        "literate_male": 137703,
+        "literate_total": 238177,
+        "male": 213028,
+        "percentage_population": 7.87,
+        "population": 401343,
+        "sex_ratio": 884
+    }
+}

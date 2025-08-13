@@ -1,0 +1,101 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Vijayawada Central",
+  "district": "Krishna",
+  "ac_type": "GEN",
+  "results": {
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 223822,
+        "total_votes_polled": 158267,
+        "turnout_percentage": 70.7,
+        "total_valid_votes": 158192,
+        "total_valid_votes_percentage": 70.7,
+        "margin_votes": 848,
+        "margin_percentage": 0.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Malladi Vishnu",
+          "party": "Indian National Congress",
+          "votes": 52426,
+          "votes_percentage": 33.1
+        },
+        {
+          "position": 2,
+          "name": "Vangaveeti Radhakrishna",
+          "party": "Praja Rajyam Party",
+          "votes": 51578,
+          "votes_percentage": 32.6
+        },
+        {
+          "position": 3,
+          "name": "Chigurupati Babu Rao",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 38273,
+          "votes_percentage": 24.2
+        },
+        {
+          "position": 4,
+          "name": "Gnanamba Maddi",
+          "party": "Lok Satta Party",
+          "votes": 6967,
+          "votes_percentage": 4.4
+        },
+        {
+          "position": 5,
+          "name": "Srinivasaraju Vuppalapati",
+          "party": "Bharatiya Janta Party",
+          "votes": 3146,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 6,
+          "name": "Nandeti Vijaya Prem Kumar",
+          "party": "Bahujan Samaj Party",
+          "votes": 1575,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 7,
+          "name": "Arza Panduranga Rao",
+          "party": "Independent",
+          "votes": 1284,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 8,
+          "name": "Mukharji Bellapu",
+          "party": "Pyramid Party Of India",
+          "votes": 1128,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 9,
+          "name": "Boddu Balavardhi Raju",
+          "party": "Independent",
+          "votes": 840,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 10,
+          "name": "Dendukuri Konda Raju",
+          "party": "Independent",
+          "votes": 516,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 11,
+          "name": "Manne Mary Leela",
+          "party": "Trilinga Praja Pragati Party",
+          "votes": 459,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

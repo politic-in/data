@@ -1,0 +1,57 @@
+{
+  "state": "Meghalaya",
+  "constituency": "SOUTHSHILLONG",
+  "district": "East Khasi Hills",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 31638,
+        "total_votes_polled": 22147,
+        "turnout_percentage": 71.2,
+        "margin_votes": 5097,
+        "margin_percentage": 23.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sanbor Shullai",
+          "party": "Bharatiya Janta Party",
+          "votes": 11204,
+          "votes_percentage": 50.6
+        },
+        {
+          "position": 2,
+          "name": "Manas Chaudhuri",
+          "party": "Indian National Congress",
+          "votes": 6107,
+          "votes_percentage": 27.6
+        },
+        {
+          "position": 3,
+          "name": "Sounder Strong Cajee",
+          "party": "National People's Party",
+          "votes": 3604,
+          "votes_percentage": 16.3
+        },
+        {
+          "position": 4,
+          "name": "Vikash Gupta",
+          "party": "Nationalist Congress Party",
+          "votes": 1085,
+          "votes_percentage": 4.9
+        },
+        {
+          "position": 6,
+          "name": "Moon Lyngdoh",
+          "party": "Independent",
+          "votes": 147,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 11718,
+        "male": 12695,
+        "percentage_of_total_population": 13.27,
+        "percentage_of_total_population_calculated": 13.27,
+        "percentage_of_total_population_stated": 13.27,
+        "sex_ratio": 923,
+        "total": 24413
+    },
+    "literacy": {
+        "female_literacy_rate": 76.95,
+        "female_literate": 59681,
+        "male_literacy_rate": 85.52,
+        "male_literate": 70148,
+        "rate_percentage": 81.35,
+        "total_literate": 129829
+    },
+    "population": {
+        "female": 89280,
+        "male": 94718,
+        "sex_ratio": 943,
+        "total": 183998
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.35,
+            "population": 635
+        },
+        "Christian": {
+            "percentage": 94.63,
+            "population": 174112
+        },
+        "Hindu": {
+            "percentage": 4.1,
+            "population": 7553
+        },
+        "Jain": {
+            "percentage": 0.04,
+            "population": 70
+        },
+        "Muslims": {
+            "percentage": 0.61,
+            "population": 1115
+        },
+        "Not Stated": {
+            "percentage": 0.2,
+            "population": 373
+        },
+        "Others": {
+            "percentage": 0.02,
+            "population": 32
+        },
+        "Sikh": {
+            "percentage": 0.06,
+            "population": 108
+        }
+    },
+    "rural": {
+        "child_population_female": 10090,
+        "child_population_male": 10960,
+        "child_population_percentage": 13.42,
+        "child_population_percentage_calculated": 13.42,
+        "child_population_percentage_stated": 13.42,
+        "child_population_total": 21050,
+        "child_sex_ratio": 921,
+        "female": 76010,
+        "literacy_rate_female": 75.34,
+        "literacy_rate_male": 84.45,
+        "literacy_rate_percentage": 80.03,
+        "literate_female": 49666,
+        "literate_male": 58978,
+        "literate_total": 108644,
+        "male": 80801,
+        "percentage_population": 85.22,
+        "population": 156811,
+        "sex_ratio": 941
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/377-ukhrul.html",
+    "urban": {
+        "child_population_female": 1630,
+        "child_population_male": 1733,
+        "child_population_percentage": 12.37,
+        "child_population_percentage_calculated": 12.37,
+        "child_population_percentage_stated": 12.37,
+        "child_population_total": 3363,
+        "child_sex_ratio": 941,
+        "female": 13270,
+        "literacy_rate_female": 86.04,
+        "literacy_rate_male": 91.68,
+        "literacy_rate_percentage": 88.92,
+        "literate_female": 10015,
+        "literate_male": 11170,
+        "literate_total": 21185,
+        "male": 13917,
+        "percentage_population": 14.78,
+        "population": 27187,
+        "sex_ratio": 954
+    }
+}

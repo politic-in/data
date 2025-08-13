@@ -1,0 +1,64 @@
+{
+  "state": "West Bengal",
+  "constituency": "BISHNUPUR (SC)",
+  "district": "South  Twenty Four Parganas",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 247670,
+        "total_votes_polled": 202191,
+        "turnout_percentage": 82.6,
+        "margin_votes": 30630,
+        "margin_percentage": 15.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dilip Mondal",
+          "party": "All India Trinamool Congress",
+          "votes": 107129,
+          "votes_percentage": 53.0
+        },
+        {
+          "position": 2,
+          "name": "Aloke Sardar",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 76499,
+          "votes_percentage": 37.8
+        },
+        {
+          "position": 3,
+          "name": "Shyamaprasad Halder",
+          "party": "Bharatiya Janta Party",
+          "votes": 14264,
+          "votes_percentage": 7.1
+        },
+        {
+          "position": 4,
+          "name": "Dipankar Gayen",
+          "party": "Bahujan Samaj Party",
+          "votes": 1594,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 5,
+          "name": "Samar Kr. Biswas",
+          "party": "Independent",
+          "votes": 1502,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Uttam Kumar Halder",
+          "party": "Party For Democratic Socialism",
+          "votes": 1203,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "state": "Assam",
+  "constituency": "AUTONOMOUS DISTRICTS",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 418700,
+        "total_votes_polled": 183301,
+        "turnout_percentage": 43.8,
+        "margin_votes": 31544,
+        "margin_percentage": 17.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "G. G. Swell",
+          "party": "All Party Hill Leaders Conference",
+          "votes": 90772,
+          "votes_percentage": 49.5
+        },
+        {
+          "position": 2,
+          "name": "Hopingstone Lyngdoh",
+          "party": "Independent",
+          "votes": 59228,
+          "votes_percentage": 32.3
+        },
+        {
+          "position": 3,
+          "name": "Bapuram Singnar",
+          "party": "Independent",
+          "votes": 27140,
+          "votes_percentage": 14.8
+        }
+      ]
+    },
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 320132,
+        "total_votes_polled": 153235,
+        "turnout_percentage": 47.9,
+        "margin_votes": 35149,
+        "margin_percentage": 22.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gilbert G. Swell",
+          "party": "Hill Leaders Conference",
+          "votes": 91850,
+          "votes_percentage": 59.9
+        },
+        {
+          "position": 2,
+          "name": "Jetlie E. Tariang",
+          "party": "Indian National Congress",
+          "votes": 56701,
+          "votes_percentage": 37.0
+        }
+      ]
+    },
+    "1957": {
+      "poll_date": "25 February 1957",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 393735,
+        "total_votes_polled": 117177,
+        "turnout_percentage": 29.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Hynniewta, Hoover",
+          "party": "Independent",
+          "votes": 58428,
+          "votes_percentage": 49.9
+        },
+        {
+          "position": 2,
+          "name": "Swell, G. Gilbert",
+          "party": "Indian National Congress",
+          "votes": 40580,
+          "votes_percentage": 34.6
+        },
+        {
+          "position": 3,
+          "name": "Basan, Liong Donaldson",
+          "party": "Independent",
+          "votes": 18169,
+          "votes_percentage": 15.5
+        }
+      ]
+    },
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 360630,
+        "total_votes_polled": 109663,
+        "turnout_percentage": 30.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bonily Khongmen",
+          "party": "Indian National Congress",
+          "votes": 59326,
+          "votes_percentage": 54.1
+        },
+        {
+          "position": 2,
+          "name": "Wilson Reade",
+          "party": "Khasi-Jaintia Durbar",
+          "votes": 32987,
+          "votes_percentage": 30.1
+        },
+        {
+          "position": 3,
+          "name": "Llong Donaldson Basan",
+          "party": "Hill People Party",
+          "votes": 17350,
+          "votes_percentage": 15.8
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "CHAMPARAN EAST",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 327728,
+        "total_votes_polled": 138767,
+        "turnout_percentage": 42.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Syed Mahmood",
+          "party": "Indian National Congress",
+          "votes": 69144,
+          "votes_percentage": 49.8
+        },
+        {
+          "position": 2,
+          "name": "Jai Gopal Sinha",
+          "party": "Socialist Party",
+          "votes": 46962,
+          "votes_percentage": 33.8
+        },
+        {
+          "position": 3,
+          "name": "Sant Prasad Sinha",
+          "party": "Forward Bloc (Marxist Group)",
+          "votes": 22661,
+          "votes_percentage": 16.3
+        }
+      ]
+    }
+  }
+}

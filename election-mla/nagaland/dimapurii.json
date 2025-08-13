@@ -1,0 +1,43 @@
+{
+  "state": "Nagaland",
+  "constituency": "DIMAPURII",
+  "district": "Dimapur",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 51843,
+        "total_votes_polled": 38156,
+        "turnout_percentage": 74.6,
+        "margin_votes": 6939,
+        "margin_percentage": 18.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Moatoshi Longkumer",
+          "party": "Naga Peoples Front",
+          "votes": 21942,
+          "votes_percentage": 57.5
+        },
+        {
+          "position": 2,
+          "name": "Supulebten",
+          "party": "Nationalist Democratic Progressive Party",
+          "votes": 15003,
+          "votes_percentage": 39.3
+        },
+        {
+          "position": 3,
+          "name": "Dr. S. Amos Lkr",
+          "party": "Aam Aadmi Party",
+          "votes": 1211,
+          "votes_percentage": 3.2
+        }
+      ]
+    }
+  }
+}

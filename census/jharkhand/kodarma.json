@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 64456,
+        "male": 67919,
+        "percentage_of_total_population": 18.48,
+        "percentage_of_total_population_calculated": 18.48,
+        "percentage_of_total_population_stated": 18.48,
+        "sex_ratio": 949,
+        "total": 132375
+    },
+    "literacy": {
+        "female_literacy_rate": 53.23,
+        "female_literate": 151469,
+        "male_literacy_rate": 79.78,
+        "male_literate": 238780,
+        "rate_percentage": 66.84,
+        "total_literate": 390249
+    },
+    "population": {
+        "female": 349037,
+        "male": 367222,
+        "sex_ratio": 950,
+        "total": 716259
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.0,
+            "population": 32
+        },
+        "Christian": {
+            "percentage": 0.17,
+            "population": 1221
+        },
+        "Hindu": {
+            "percentage": 84.49,
+            "population": 605138
+        },
+        "Jain": {
+            "percentage": 0.14,
+            "population": 980
+        },
+        "Muslims": {
+            "percentage": 14.94,
+            "population": 107018
+        },
+        "Not Stated": {
+            "percentage": 0.09,
+            "population": 657
+        },
+        "Others": {
+            "percentage": 0.04,
+            "population": 269
+        },
+        "Sikh": {
+            "percentage": 0.13,
+            "population": 944
+        }
+    },
+    "rural": {
+        "child_population_female": 53731,
+        "child_population_male": 56294,
+        "child_population_percentage": 19.13,
+        "child_population_percentage_calculated": 19.13,
+        "child_population_percentage_stated": 19.13,
+        "child_population_total": 110025,
+        "child_sex_ratio": 954,
+        "female": 281418,
+        "literacy_rate_female": 49.03,
+        "literacy_rate_male": 77.75,
+        "literacy_rate_percentage": 63.69,
+        "literate_female": 111636,
+        "literate_male": 184511,
+        "literate_total": 296147,
+        "male": 293595,
+        "percentage_population": 80.28,
+        "population": 575013,
+        "sex_ratio": 959
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/105-kodarma.html",
+    "urban": {
+        "child_population_female": 10728,
+        "child_population_male": 11622,
+        "child_population_percentage": 15.82,
+        "child_population_percentage_calculated": 15.82,
+        "child_population_percentage_stated": 15.82,
+        "child_population_total": 22350,
+        "child_sex_ratio": 923,
+        "female": 67619,
+        "literacy_rate_female": 70.02,
+        "literacy_rate_male": 87.52,
+        "literacy_rate_percentage": 79.15,
+        "literate_female": 39833,
+        "literate_male": 54269,
+        "literate_total": 94102,
+        "male": 73627,
+        "percentage_population": 19.72,
+        "population": 141246,
+        "sex_ratio": 918
+    }
+}

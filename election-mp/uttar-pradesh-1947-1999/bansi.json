@@ -1,0 +1,50 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "BANSI",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 398156,
+        "total_votes_polled": 195944,
+        "turnout_percentage": 49.2,
+        "margin_votes": 52755,
+        "margin_percentage": 26.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sheo Narain",
+          "party": "Indian National Congress",
+          "votes": 97816,
+          "votes_percentage": 49.9
+        },
+        {
+          "position": 2,
+          "name": "Har Nath Prasad",
+          "party": "Swatantra",
+          "votes": 45061,
+          "votes_percentage": 23.0
+        },
+        {
+          "position": 3,
+          "name": "Ram Piarey",
+          "party": "Jan Sangh",
+          "votes": 38148,
+          "votes_percentage": 19.5
+        },
+        {
+          "position": 4,
+          "name": "Triloki Nath",
+          "party": "Socialist",
+          "votes": 6379,
+          "votes_percentage": 3.3
+        }
+      ]
+    }
+  }
+}

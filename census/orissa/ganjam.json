@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 199949,
+        "male": 220209,
+        "percentage_of_total_population": 11.91,
+        "percentage_of_total_population_calculated": 11.91,
+        "percentage_of_total_population_stated": 11.91,
+        "sex_ratio": 908,
+        "total": 420158
+    },
+    "literacy": {
+        "female_literacy_rate": 61.13,
+        "female_literate": 947398,
+        "male_literacy_rate": 80.99,
+        "male_literate": 1262652,
+        "rate_percentage": 71.09,
+        "total_literate": 2210050
+    },
+    "population": {
+        "female": 1749813,
+        "male": 1779218,
+        "sex_ratio": 983,
+        "total": 3529031
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.0,
+            "population": 174
+        },
+        "Christian": {
+            "percentage": 0.68,
+            "population": 23975
+        },
+        "Hindu": {
+            "percentage": 98.78,
+            "population": 3486059
+        },
+        "Jain": {
+            "percentage": 0.0,
+            "population": 170
+        },
+        "Muslims": {
+            "percentage": 0.38,
+            "population": 13315
+        },
+        "Not Stated": {
+            "percentage": 0.13,
+            "population": 4672
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 76
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 590
+        }
+    },
+    "rural": {
+        "child_population_female": 162913,
+        "child_population_male": 179550,
+        "child_population_percentage": 12.4,
+        "child_population_percentage_calculated": 12.4,
+        "child_population_percentage_stated": 12.4,
+        "child_population_total": 342463,
+        "child_sex_ratio": 907,
+        "female": 1377394,
+        "literacy_rate_female": 56.77,
+        "literacy_rate_male": 78.54,
+        "literacy_rate_percentage": 67.61,
+        "literate_female": 689438,
+        "literate_male": 945712,
+        "literate_total": 1635150,
+        "male": 1383636,
+        "percentage_population": 78.24,
+        "population": 2761030,
+        "sex_ratio": 995
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/412-ganjam.html",
+    "urban": {
+        "child_population_female": 37086,
+        "child_population_male": 40609,
+        "child_population_percentage": 10.12,
+        "child_population_percentage_calculated": 10.12,
+        "child_population_percentage_stated": 10.12,
+        "child_population_total": 77695,
+        "child_sex_ratio": 913,
+        "female": 372419,
+        "literacy_rate_female": 76.93,
+        "literacy_rate_male": 89.29,
+        "literacy_rate_percentage": 83.28,
+        "literate_female": 257960,
+        "literate_male": 316940,
+        "literate_total": 574900,
+        "male": 395582,
+        "percentage_population": 21.76,
+        "population": 768001,
+        "sex_ratio": 941
+    }
+}

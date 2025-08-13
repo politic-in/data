@@ -1,0 +1,57 @@
+{
+  "state": "Mizoram",
+  "constituency": "Kolasit",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 8726,
+        "total_votes_polled": 5161,
+        "turnout_percentage": 59.2,
+        "margin_votes": 819,
+        "margin_percentage": 15.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chawngkunga",
+          "party": "Peoples Conference",
+          "votes": 2155,
+          "votes_percentage": 42.2
+        },
+        {
+          "position": 2,
+          "name": "K.L. Rochama",
+          "party": "Independent",
+          "votes": 1336,
+          "votes_percentage": 26.2
+        },
+        {
+          "position": 3,
+          "name": "Lawmthanga",
+          "party": "Independent",
+          "votes": 783,
+          "votes_percentage": 15.3
+        },
+        {
+          "position": 4,
+          "name": "Vanlalngaia",
+          "party": "Independent",
+          "votes": 734,
+          "votes_percentage": 14.4
+        },
+        {
+          "position": 5,
+          "name": "Dengzika",
+          "party": "Independent",
+          "votes": 97,
+          "votes_percentage": 1.9
+        }
+      ]
+    }
+  }
+}

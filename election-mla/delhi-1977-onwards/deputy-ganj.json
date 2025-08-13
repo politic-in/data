@@ -1,0 +1,85 @@
+{
+  "state": "Delhi [1977 Onwards]",
+  "constituency": "Deputy Ganj",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1983": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 33041,
+        "total_votes_polled": 25121,
+        "turnout_percentage": 76.0,
+        "margin_votes": 307,
+        "margin_percentage": 1.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Satish Saxena",
+          "party": "Indian National Congress",
+          "votes": 12082,
+          "votes_percentage": 49.4
+        },
+        {
+          "position": 2,
+          "name": "Shayama Charan Gupta",
+          "party": "Bharatiya Janta Party",
+          "votes": 11775,
+          "votes_percentage": 48.1
+        },
+        {
+          "position": 3,
+          "name": "Nagim Chand",
+          "party": "Independent",
+          "votes": 481,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 4,
+          "name": "Viswa  Nath Sharma",
+          "party": "Independent",
+          "votes": 128,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 41218,
+        "total_votes_polled": 24621,
+        "turnout_percentage": 59.7,
+        "margin_votes": 4373,
+        "margin_percentage": 17.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shyam Chanran Gupta",
+          "party": "Janta Party",
+          "votes": 14165,
+          "votes_percentage": 58.6
+        },
+        {
+          "position": 2,
+          "name": "Har Sarup",
+          "party": "Indian National Congress",
+          "votes": 9792,
+          "votes_percentage": 40.5
+        },
+        {
+          "position": 3,
+          "name": "Vishav Nath Khanna",
+          "party": "Akhil Bharat Hindu Maha Sabha",
+          "votes": 238,
+          "votes_percentage": 1.0
+        }
+      ]
+    }
+  }
+}

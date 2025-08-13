@@ -1,0 +1,36 @@
+{
+  "state": "Kerala",
+  "constituency": "MUVATTPUZHA",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 500735,
+        "total_votes_polled": 321367,
+        "turnout_percentage": 64.2,
+        "margin_votes": 38137,
+        "margin_percentage": 11.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "C. M. Stephen",
+          "party": "Indian National Congress",
+          "votes": 178244,
+          "votes_percentage": 55.5
+        },
+        {
+          "position": 2,
+          "name": "George Joseph (MUNDAKAL BABY)",
+          "party": "Independent",
+          "votes": 140107,
+          "votes_percentage": 43.6
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "KUMARKHAND",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "2005": {
+      "poll_date": "13 November 2005",
+      "counting_date": "21 November 2005",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 187727,
+        "total_votes_polled": 71471,
+        "turnout_percentage": 38.1,
+        "total_valid_votes": 71471,
+        "total_valid_votes_percentage": 38.1,
+        "margin_votes": 1978,
+        "margin_percentage": 2.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ramesh Rishidev",
+          "party": "Janata Dal (United)",
+          "votes": 32198,
+          "votes_percentage": 45.1
+        },
+        {
+          "position": 2,
+          "name": "Amit Kumar Bharti",
+          "party": "Rashtriya Janata Dal",
+          "votes": 30220,
+          "votes_percentage": 42.3
+        },
+        {
+          "position": 3,
+          "name": "Hari Wallav Paswan",
+          "party": "Lok Jan Shakti Party",
+          "votes": 5735,
+          "votes_percentage": 8.0
+        },
+        {
+          "position": 4,
+          "name": "Shivnarayan Sada",
+          "party": "Independent",
+          "votes": 3318,
+          "votes_percentage": 4.6
+        }
+      ]
+    },
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 155120,
+        "total_votes_polled": 108710,
+        "turnout_percentage": 70.1,
+        "margin_votes": 32455,
+        "margin_percentage": 29.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bhupendra Rishideo",
+          "party": "Rashtriya Janata Dal",
+          "votes": 65553,
+          "votes_percentage": 61.0
+        },
+        {
+          "position": 2,
+          "name": "Amit Kumar Bharti",
+          "party": "Janata Dal (United)",
+          "votes": 33098,
+          "votes_percentage": 30.8
+        },
+        {
+          "position": 3,
+          "name": "Domi Ram",
+          "party": "Indian National Congress",
+          "votes": 7302,
+          "votes_percentage": 6.8
+        },
+        {
+          "position": 4,
+          "name": "Ramdeo Rishideo",
+          "party": "Independent",
+          "votes": 777,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Gugal Paswan",
+          "party": "Nationalist Congress Party",
+          "votes": 672,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

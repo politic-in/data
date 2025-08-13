@@ -1,0 +1,106 @@
+{
+  "state": "Meghalaya",
+  "constituency": "MAWKYNREW",
+  "district": "East Khasi Hills",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 31164,
+        "total_votes_polled": 26567,
+        "turnout_percentage": 85.7,
+        "margin_votes": 509,
+        "margin_percentage": 1.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Banteidor Lyngdoh",
+          "party": "Peoples Democratic Front",
+          "votes": 8519,
+          "votes_percentage": 32.1
+        },
+        {
+          "position": 2,
+          "name": "Martle N Mukhim",
+          "party": "Hill State People's Democratic Party",
+          "votes": 8010,
+          "votes_percentage": 30.2
+        },
+        {
+          "position": 3,
+          "name": "Remington Pyngrope",
+          "party": "National People's Party",
+          "votes": 5508,
+          "votes_percentage": 20.7
+        },
+        {
+          "position": 4,
+          "name": "Olet Kharsohnoh",
+          "party": "Indian National Congress",
+          "votes": 3945,
+          "votes_percentage": 14.8
+        },
+        {
+          "position": 5,
+          "name": "Lamborskhem Kharpuri",
+          "party": "Khun Hynnieutrip National Awakaning Movement",
+          "votes": 364,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 6,
+          "name": "Dwin Singh Lynshiang",
+          "party": "Independent",
+          "votes": 221,
+          "votes_percentage": 0.8
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "23 February 2013",
+      "counting_date": "28 February 2013",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 25912,
+        "total_votes_polled": 23900,
+        "turnout_percentage": 92.2,
+        "margin_votes": 437,
+        "margin_percentage": 1.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Remington Pyngrope",
+          "party": "United Democratic Party",
+          "votes": 6513,
+          "votes_percentage": 27.3
+        },
+        {
+          "position": 2,
+          "name": "Banteidor Lyngdoh",
+          "party": "Independent",
+          "votes": 6076,
+          "votes_percentage": 25.4
+        },
+        {
+          "position": 3,
+          "name": "Martle N. Mukhim",
+          "party": "Meghalaya Democratic Party",
+          "votes": 5879,
+          "votes_percentage": 24.6
+        },
+        {
+          "position": 4,
+          "name": "Drosing K. Khongjoh",
+          "party": "Indian National Congress",
+          "votes": 5432,
+          "votes_percentage": 22.7
+        }
+      ]
+    }
+  }
+}

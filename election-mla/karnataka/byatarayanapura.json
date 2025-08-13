@@ -1,0 +1,540 @@
+{
+  "state": "Karnataka",
+  "constituency": "Byatarayanapura",
+  "district": "Bangalore",
+  "ac_type": "GEN",
+  "results": {
+    "2023": {
+      "poll_date": "10 May 2023",
+      "counting_date": "10 May 2023",
+      "total_contestants": 17,
+      "aggregate": {
+        "total_electors": 508676,
+        "total_votes_polled": 291891,
+        "turnout_percentage": 57.9,
+        "margin_votes": 38204,
+        "margin_percentage": 13.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Krishna Byregowda",
+          "party": "Indian National Congress",
+          "votes": 160182,
+          "votes_percentage": 54.4
+        },
+        {
+          "position": 2,
+          "name": "Thammesh Gowda H C",
+          "party": "Bharatiya Janta Party",
+          "votes": 121978,
+          "votes_percentage": 41.5
+        },
+        {
+          "position": 3,
+          "name": "Nagaraj Gowda P",
+          "party": "Janata Dal (Secular)",
+          "votes": 4365,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 4,
+          "name": "Raheem K.R. Halli",
+          "party": "Uttama Prajaakeeya Party",
+          "votes": 1490,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "Girish K",
+          "party": "Aam Aadmi Party",
+          "votes": 1271,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Ramesh M",
+          "party": "Independent",
+          "votes": 587,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Venkatramu K V",
+          "party": "Independent",
+          "votes": 553,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "Pratap R",
+          "party": "Karnataka Rashtra Samithi",
+          "votes": 315,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Brigadier Ravi Muniswamy",
+          "party": "Sarvajanika Adarsha Sena",
+          "votes": 307,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Sampoorna Gowda",
+          "party": "Samajwadi Party",
+          "votes": 175,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "T Dasappa",
+          "party": "Independent",
+          "votes": 131,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 12,
+          "name": "Ranjitha N",
+          "party": "Akhil Bharat Hindu Mahasabha",
+          "votes": 120,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 13,
+          "name": "Nazir Ahmed",
+          "party": "Indian Labour Party (Ambedkar Phule)",
+          "votes": 110,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 14,
+          "name": "Kalid Khan",
+          "party": "Independent",
+          "votes": 104,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 15,
+          "name": "Nagaraja G",
+          "party": "Independent",
+          "votes": 93,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 16,
+          "name": "Manjunatha Chari K",
+          "party": "Rashtriya Janahita Party",
+          "votes": 64,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 17,
+          "name": "Maqsood Ahmed",
+          "party": "Navarang Congress Party",
+          "votes": 46,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "2018": {
+      "poll_date": "12 May 2018",
+      "counting_date": "11 June 2018",
+      "total_contestants": 19,
+      "aggregate": {
+        "total_electors": 419587,
+        "total_votes_polled": 251555,
+        "turnout_percentage": 60.5,
+        "margin_votes": 5671,
+        "margin_percentage": 2.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Krishna Byregowda",
+          "party": "Indian National Congress",
+          "votes": 114964,
+          "votes_percentage": 45.7
+        },
+        {
+          "position": 2,
+          "name": "A Ravi",
+          "party": "Bharatiya Janta Party",
+          "votes": 109293,
+          "votes_percentage": 43.5
+        },
+        {
+          "position": 3,
+          "name": "Chandra T G",
+          "party": "Janata Dal (Secular)",
+          "votes": 22490,
+          "votes_percentage": 8.9
+        },
+        {
+          "position": 4,
+          "name": "M Ramesh",
+          "party": "Independent",
+          "votes": 860,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 5,
+          "name": "K Ramesh",
+          "party": "Independent",
+          "votes": 688,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 6,
+          "name": "Ezaz Pasha",
+          "party": "Ambedkar National Congress",
+          "votes": 556,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Ravi Padasalagi",
+          "party": "Independent",
+          "votes": 554,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "D Ravikumar",
+          "party": "Independent",
+          "votes": 339,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Shaik Wasim Ahmed",
+          "party": "Bhaarateeya Janashakthi Congress",
+          "votes": 304,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Jeelani Fathima",
+          "party": "All India Mahila Empowerment Party",
+          "votes": 290,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Basavaraj Madivalar",
+          "party": "Independent",
+          "votes": 236,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "J Mahendranathan",
+          "party": "Independent",
+          "votes": 206,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Narendra Kumar",
+          "party": "Independent",
+          "votes": 172,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Sheshagiri K",
+          "party": "Republican Sena",
+          "votes": 136,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Ramesha R",
+          "party": "Rashtriya Manav Vikas Party",
+          "votes": 111,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 16,
+          "name": "T S Prathap Kumar",
+          "party": "Independent",
+          "votes": 102,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 17,
+          "name": "Nazir Ahmed",
+          "party": "Independent",
+          "votes": 98,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 18,
+          "name": "Sayed Suhel Basha",
+          "party": "Dr. Ambedkar People's Party",
+          "votes": 80,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 19,
+          "name": "Abdul Khadeer",
+          "party": "Independent",
+          "votes": 76,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "05 May 2013",
+      "counting_date": "08 May 2013",
+      "total_contestants": 16,
+      "aggregate": {
+        "total_electors": 330366,
+        "total_votes_polled": 208322,
+        "turnout_percentage": 63.1,
+        "margin_votes": 32400,
+        "margin_percentage": 15.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Krishna Byre Gowda",
+          "party": "Indian National Congress",
+          "votes": 96125,
+          "votes_percentage": 46.1
+        },
+        {
+          "position": 2,
+          "name": "A.Ravi",
+          "party": "Bharatiya Janta Party",
+          "votes": 63725,
+          "votes_percentage": 30.6
+        },
+        {
+          "position": 3,
+          "name": "Hanumante Gowda",
+          "party": "Janata Dal (Secular)",
+          "votes": 41360,
+          "votes_percentage": 19.9
+        },
+        {
+          "position": 4,
+          "name": "K.Manjunath",
+          "party": "Karnataka Jantha Paksha",
+          "votes": 1781,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Yogaiyah.V.C",
+          "party": "Lok Satta Party",
+          "votes": 1268,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Hanumanthe Gowda",
+          "party": "Independent",
+          "votes": 908,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "A.Byregowda",
+          "party": "Independent",
+          "votes": 569,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Ezaz Pasha",
+          "party": "Ambedkar National Congress",
+          "votes": 523,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Sadiq Basha",
+          "party": "Independent",
+          "votes": 497,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Nagaraja.M",
+          "party": "Independent",
+          "votes": 321,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "S.Vinayak Subramaniya @ S.Vinayaka Subramani",
+          "party": "Badavara Shramikara Raitara Congress Party",
+          "votes": 302,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Shantha Kumari",
+          "party": "Mahila Pradhana Paksha",
+          "votes": 275,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Ansar Pasha",
+          "party": "Independent",
+          "votes": 200,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "D.Devraj",
+          "party": "Independent",
+          "votes": 178,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "K.Sridhar",
+          "party": "Ambedkar Janatha Party",
+          "votes": 148,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "Abdul Khadeer",
+          "party": "Independent",
+          "votes": 142,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2008": {
+      "poll_date": "16 May 2008",
+      "counting_date": "25 May 2008",
+      "total_contestants": 16,
+      "aggregate": {
+        "total_electors": 265952,
+        "total_votes_polled": 141782,
+        "turnout_percentage": 53.3,
+        "margin_votes": 9352,
+        "margin_percentage": 6.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Krishna Byregowda",
+          "party": "Indian National Congress",
+          "votes": 60979,
+          "votes_percentage": 43.0
+        },
+        {
+          "position": 2,
+          "name": "A Ravi",
+          "party": "Bharatiya Janta Party",
+          "votes": 51627,
+          "votes_percentage": 36.4
+        },
+        {
+          "position": 3,
+          "name": "C Narayanaswamy",
+          "party": "Janata Dal (Secular)",
+          "votes": 21598,
+          "votes_percentage": 15.2
+        },
+        {
+          "position": 4,
+          "name": "P Appaiah",
+          "party": "Bahujan Samaj Party",
+          "votes": 3728,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 5,
+          "name": "Syed Mohammed Rafi",
+          "party": "Independent",
+          "votes": 724,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Ipthikar Ali Bhutto",
+          "party": "Ambedkar National Congress",
+          "votes": 640,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "A Ravi",
+          "party": "Independent",
+          "votes": 439,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Venu H R",
+          "party": "Independent",
+          "votes": 340,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Srinivas",
+          "party": "Independent",
+          "votes": 317,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Mahesh",
+          "party": "Independent",
+          "votes": 293,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "C Raju",
+          "party": "Independent",
+          "votes": 292,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "M Venkatesh",
+          "party": "Bharatiya Praja Paksha",
+          "votes": 281,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 13,
+          "name": "Mohammed Rizwanulla Shariff",
+          "party": "Tippu Sultan National Republic Party",
+          "votes": 164,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Venkataramana Hegde",
+          "party": "Lok Jan Shakti Party",
+          "votes": 130,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Gowsefeer Khan",
+          "party": "Independent",
+          "votes": 121,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "B A Uday Kumar",
+          "party": "Independent",
+          "votes": 109,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

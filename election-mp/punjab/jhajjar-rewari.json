@@ -1,0 +1,55 @@
+{
+  "state": "Punjab",
+  "constituency": "JHAJJAR REWARI",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 382413,
+        "total_votes_polled": 246224,
+        "turnout_percentage": 64.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ghamandi Lal",
+          "party": "Indian National Congress",
+          "votes": 102435,
+          "votes_percentage": 41.6
+        },
+        {
+          "position": 2,
+          "name": "Partap Singh",
+          "party": "Zamindar Party",
+          "votes": 98503,
+          "votes_percentage": 40.0
+        },
+        {
+          "position": 3,
+          "name": "Shamsher Singh",
+          "party": "Socialist Party",
+          "votes": 28596,
+          "votes_percentage": 11.6
+        },
+        {
+          "position": 4,
+          "name": "Nihal Chand",
+          "party": "Independent",
+          "votes": 11048,
+          "votes_percentage": 4.5
+        },
+        {
+          "position": 5,
+          "name": "Lal Singh",
+          "party": "Independent",
+          "votes": 5642,
+          "votes_percentage": 2.3
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "state": "Himachal Pradesh",
+  "constituency": "Sri Naina Deviji",
+  "district": "Bilaspur",
+  "ac_type": "GEN",
+  "results": {
+    "2012": {
+      "poll_date": "",
+      "counting_date": "20 December 2012",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 61477,
+        "total_votes_polled": 50581,
+        "turnout_percentage": 82.3,
+        "margin_votes": 1385,
+        "margin_percentage": 2.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sh. Randhir Sharma",
+          "party": "Bharatiya Janta Party",
+          "votes": 24598,
+          "votes_percentage": 48.6
+        },
+        {
+          "position": 2,
+          "name": "Ram Lal Thakur",
+          "party": "Indian National Congress",
+          "votes": 23213,
+          "votes_percentage": 45.9
+        },
+        {
+          "position": 3,
+          "name": "Krishan Kumar",
+          "party": "Communist Party Of India",
+          "votes": 1117,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 4,
+          "name": "Sh. Hoshiar Singh",
+          "party": "Independent",
+          "votes": 805,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 5,
+          "name": "Sh. Puran Chand Bhatia",
+          "party": "Independent",
+          "votes": 508,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Bhola Ram",
+          "party": "Bahujan Samaj Party",
+          "votes": 340,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

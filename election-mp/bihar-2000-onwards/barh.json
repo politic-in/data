@@ -1,0 +1,78 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "Barh",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2004": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 1242851,
+        "total_votes_polled": 864069,
+        "turnout_percentage": 69.5,
+        "margin_votes": 37688,
+        "margin_percentage": 4.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Vijay Krishna",
+          "party": "Rashtriya Janata Dal",
+          "votes": 426856,
+          "votes_percentage": 49.4
+        },
+        {
+          "position": 2,
+          "name": "Nitish Kumar",
+          "party": "Janata Dal (United)",
+          "votes": 389168,
+          "votes_percentage": 45.0
+        },
+        {
+          "position": 3,
+          "name": "Anandi Mahto",
+          "party": "Bahujan Samaj Party",
+          "votes": 16240,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 4,
+          "name": "Mithilesh Yadav",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 12940,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Satendra Kumar Singh",
+          "party": "Independent",
+          "votes": 7983,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Sarbind Kumar",
+          "party": "Independent",
+          "votes": 4810,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Indra Kumar Singh Chandapuri",
+          "party": "Samajwadi Party",
+          "votes": 4563,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Sanjay Kumar",
+          "party": "Rashtriya Lok Dal",
+          "votes": 1542,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

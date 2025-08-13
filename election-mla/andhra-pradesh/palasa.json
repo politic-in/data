@@ -1,0 +1,80 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Palasa",
+  "district": "Srikakulam",
+  "ac_type": "GEN",
+  "results": {
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 160605,
+        "total_votes_polled": 118473,
+        "turnout_percentage": 73.8,
+        "total_valid_votes": 118288,
+        "total_valid_votes_percentage": 73.7,
+        "margin_votes": 6814,
+        "margin_percentage": 5.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Juttu Jagannaikulu",
+          "party": "Indian National Congress",
+          "votes": 47931,
+          "votes_percentage": 40.5
+        },
+        {
+          "position": 2,
+          "name": "Gowthu Syamasundarasivaji",
+          "party": "Telugu Desam",
+          "votes": 41117,
+          "votes_percentage": 34.8
+        },
+        {
+          "position": 3,
+          "name": "Vanka Nageswararao",
+          "party": "Praja Rajyam Party",
+          "votes": 22213,
+          "votes_percentage": 18.8
+        },
+        {
+          "position": 4,
+          "name": "Pulari Krishna Yadav",
+          "party": "Bharatiya Janta Party",
+          "votes": 2047,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 5,
+          "name": "Kancharana (Majji) Sudha Bala",
+          "party": "Lok Satta Party",
+          "votes": 1401,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 6,
+          "name": "Gopi Sankar Kikkara",
+          "party": "Independent",
+          "votes": 1301,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 7,
+          "name": "Maddela Rama Rao",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 1140,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 8,
+          "name": "Kaddala Nageswara Rao",
+          "party": "Bharatheeya Sadharma Samsthapana Party",
+          "votes": 1138,
+          "votes_percentage": 1.0
+        }
+      ]
+    }
+  }
+}

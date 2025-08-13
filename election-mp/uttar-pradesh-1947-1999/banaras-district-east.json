@@ -1,0 +1,55 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "BANARAS DISTRICT (EAST)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 372480,
+        "total_votes_polled": 153123,
+        "turnout_percentage": 41.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tribhuan Narain Singh",
+          "party": "Indian National Congress",
+          "votes": 65446,
+          "votes_percentage": 42.7
+        },
+        {
+          "position": 2,
+          "name": "Ranjit Singh",
+          "party": "Independent",
+          "votes": 27731,
+          "votes_percentage": 18.1
+        },
+        {
+          "position": 3,
+          "name": "Prabhu Narain Singh",
+          "party": "Socialist Party",
+          "votes": 27165,
+          "votes_percentage": 17.7
+        },
+        {
+          "position": 4,
+          "name": "Ch. Sahdeo Singh",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 17241,
+          "votes_percentage": 11.3
+        },
+        {
+          "position": 5,
+          "name": "Nagesh Upadhyaya",
+          "party": "Akhil Bharatiya Ram Rajya Parishad",
+          "votes": 15540,
+          "votes_percentage": 10.1
+        }
+      ]
+    }
+  }
+}

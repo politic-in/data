@@ -1,0 +1,101 @@
+{
+  "state": "Uttarakhand",
+  "constituency": "Karnprayag",
+  "district": "Chamoli",
+  "ac_type": "GEN",
+  "results": {
+    "2012": {
+      "poll_date": "30 January 2012",
+      "counting_date": "03 June 2012",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 83807,
+        "total_votes_polled": 48941,
+        "turnout_percentage": 58.4,
+        "total_valid_votes": 47053,
+        "total_valid_votes_percentage": 56.1,
+        "margin_votes": 227,
+        "margin_percentage": 0.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ansuya Prasad Maikhuri",
+          "party": "Indian National Congress",
+          "votes": 11147,
+          "votes_percentage": 22.8
+        },
+        {
+          "position": 2,
+          "name": "Surendra Singh Negi",
+          "party": "Independent",
+          "votes": 10920,
+          "votes_percentage": 22.3
+        },
+        {
+          "position": 3,
+          "name": "Harish Pujari",
+          "party": "Bharatiya Janta Party",
+          "votes": 8343,
+          "votes_percentage": 17.1
+        },
+        {
+          "position": 4,
+          "name": "Anil Nautiyal",
+          "party": "Independent",
+          "votes": 6631,
+          "votes_percentage": 13.6
+        },
+        {
+          "position": 5,
+          "name": "Awatar Singh",
+          "party": "Independent",
+          "votes": 3576,
+          "votes_percentage": 7.3
+        },
+        {
+          "position": 6,
+          "name": "Neelam Chandra",
+          "party": "Independent",
+          "votes": 3093,
+          "votes_percentage": 6.3
+        },
+        {
+          "position": 7,
+          "name": "Arun Maithani",
+          "party": "Independent",
+          "votes": 1802,
+          "votes_percentage": 3.7
+        },
+        {
+          "position": 8,
+          "name": "Vijayesh Nawani",
+          "party": "Uttarakhand Raksha Morcha",
+          "votes": 1543,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 9,
+          "name": "Chatur Singh Negi",
+          "party": "Uttarakhand Kranti Dal(P)",
+          "votes": 738,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 10,
+          "name": "Indresh Maikhuri",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 632,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 11,
+          "name": "Dhumi Lal",
+          "party": "Bahujan Samaj Party",
+          "votes": 516,
+          "votes_percentage": 1.1
+        }
+      ]
+    }
+  }
+}

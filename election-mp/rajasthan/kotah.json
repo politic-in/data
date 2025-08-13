@@ -1,0 +1,97 @@
+{
+  "state": "Rajasthan",
+  "constituency": "KOTAH",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 469930,
+        "total_votes_polled": 211026,
+        "turnout_percentage": 44.9,
+        "margin_votes": 13705,
+        "margin_percentage": 6.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Unkar Lal",
+          "party": "Jan Sangh",
+          "votes": 96421,
+          "votes_percentage": 45.7
+        },
+        {
+          "position": 2,
+          "name": "Onkar Lal",
+          "party": "Indian National Congress",
+          "votes": 82716,
+          "votes_percentage": 39.2
+        },
+        {
+          "position": 3,
+          "name": "Anandi Devi",
+          "party": "Socialist",
+          "votes": 25016,
+          "votes_percentage": 11.9
+        }
+      ]
+    },
+    "1957": {
+      "poll_date": "25 February 1957",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 773929,
+        "total_votes_polled": 488581,
+        "turnout_percentage": 31.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nemi Chandra Kasliwal",
+          "party": "Indian National Congress",
+          "votes": 145794,
+          "votes_percentage": 29.8
+        },
+        {
+          "position": 1,
+          "name": "Onkar Lal, S/o Jamna Lal",
+          "party": "Indian National Congress",
+          "votes": 119995,
+          "votes_percentage": 24.6
+        },
+        {
+          "position": 3,
+          "name": "Shridhar Lal",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 72555,
+          "votes_percentage": 14.9
+        },
+        {
+          "position": 4,
+          "name": "Ram Nath",
+          "party": "Independent",
+          "votes": 55804,
+          "votes_percentage": 11.4
+        },
+        {
+          "position": 5,
+          "name": "Onkar Lal, S/o Kishan Lal",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 52006,
+          "votes_percentage": 10.6
+        },
+        {
+          "position": 6,
+          "name": "Chand Mal",
+          "party": "Independent",
+          "votes": 42427,
+          "votes_percentage": 8.7
+        }
+      ]
+    }
+  }
+}

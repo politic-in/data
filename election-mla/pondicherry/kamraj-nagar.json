@@ -1,0 +1,85 @@
+{
+  "state": "Pondicherry",
+  "constituency": "Kamraj Nagar",
+  "district": "Puducherry",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "06 April 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 35324,
+        "total_votes_polled": 29083,
+        "turnout_percentage": 84.2,
+        "margin_votes": 7229,
+        "margin_percentage": 24.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "A. Johnkumar",
+          "party": "Bharatiya Janta Party",
+          "votes": 16687,
+          "votes_percentage": 57.4
+        },
+        {
+          "position": 2,
+          "name": "M.O.H.F. Shajahan",
+          "party": "Indian National Congress",
+          "votes": 9458,
+          "votes_percentage": 32.5
+        },
+        {
+          "position": 3,
+          "name": "N. Sharmila Begum",
+          "party": "Naam Tamilar Katchi",
+          "votes": 1982,
+          "votes_percentage": 6.8
+        },
+        {
+          "position": 4,
+          "name": "L. Munisamy",
+          "party": "Amma Makkal Munnettra Kazagam",
+          "votes": 446,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Anandaraj",
+          "party": "Independent",
+          "votes": 121,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "N. Nadarajan @ Selva",
+          "party": "Desiya Murpokku Dravida Kazhagam",
+          "votes": 119,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Vpr. Selvam",
+          "party": "Independent",
+          "votes": 115,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Siva. Ilango",
+          "party": "Independent",
+          "votes": 85,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "S. Sagayaraj",
+          "party": "Independent",
+          "votes": 70,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

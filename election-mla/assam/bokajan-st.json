@@ -1,0 +1,64 @@
+{
+  "state": "Assam",
+  "constituency": "Bokajan (ST)",
+  "district": "Karbi Anglong",
+  "ac_type": "ST",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 129677,
+        "total_votes_polled": 105012,
+        "turnout_percentage": 82.6,
+        "margin_votes": 4744,
+        "margin_percentage": 4.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Numal Momin",
+          "party": "Bharatiya Janta Party",
+          "votes": 40170,
+          "votes_percentage": 38.3
+        },
+        {
+          "position": 2,
+          "name": "Klengdoon Engti",
+          "party": "Indian National Congress",
+          "votes": 35426,
+          "votes_percentage": 33.7
+        },
+        {
+          "position": 3,
+          "name": "Jagat Sing Engti",
+          "party": "Independent",
+          "votes": 25388,
+          "votes_percentage": 24.2
+        },
+        {
+          "position": 4,
+          "name": "Daniel Momin",
+          "party": "National People's Party",
+          "votes": 1628,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 5,
+          "name": "Sanjay Kemprai",
+          "party": "Independent",
+          "votes": 1441,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 6,
+          "name": "Bikha Tokbi",
+          "party": "Jan Congress Party",
+          "votes": 959,
+          "votes_percentage": 0.9
+        }
+      ]
+    }
+  }
+}

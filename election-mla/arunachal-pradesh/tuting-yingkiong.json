@@ -1,0 +1,166 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Tuting Yingkiong",
+  "district": "Upper Siang",
+  "ac_type": "ST",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 12265,
+        "total_votes_polled": 10319,
+        "turnout_percentage": 84.5,
+        "margin_votes": 1609,
+        "margin_percentage": 15.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Alo Libang",
+          "party": "Bharatiya Janta Party",
+          "votes": 5800,
+          "votes_percentage": 56.2
+        },
+        {
+          "position": 2,
+          "name": "Gegong Apang",
+          "party": "Janata Dal (Secular)",
+          "votes": 4191,
+          "votes_percentage": 40.6
+        },
+        {
+          "position": 3,
+          "name": "Tsepa Wangchuk Khamba",
+          "party": "People's Party Of Arunachal",
+          "votes": 328,
+          "votes_percentage": 3.2
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "09 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 11317,
+        "total_votes_polled": 9381,
+        "turnout_percentage": 82.9,
+        "total_valid_votes": 9304,
+        "total_valid_votes_percentage": 82.2,
+        "margin_votes": 364,
+        "margin_percentage": 3.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Alo Libang",
+          "party": "Indian National Congress",
+          "votes": 4834,
+          "votes_percentage": 52.0
+        },
+        {
+          "position": 2,
+          "name": "Gegong Apang",
+          "party": "Bharatiya Janta Party",
+          "votes": 4470,
+          "votes_percentage": 48.0
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "13 October 2009",
+      "counting_date": "22 October 2009",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 10712,
+        "total_votes_polled": 9019,
+        "turnout_percentage": 84.2,
+        "total_valid_votes": 8638,
+        "total_valid_votes_percentage": 80.6,
+        "margin_votes": 1370,
+        "margin_percentage": 15.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Alo Libang",
+          "party": "Nationalist Congress Party",
+          "votes": 4827,
+          "votes_percentage": 53.5
+        },
+        {
+          "position": 2,
+          "name": "Gegong Apang",
+          "party": "Indian National Congress",
+          "votes": 3457,
+          "votes_percentage": 38.3
+        },
+        {
+          "position": 3,
+          "name": "Katan Komboh",
+          "party": "Bharatiya Janta Party",
+          "votes": 735,
+          "votes_percentage": 8.2
+        }
+      ]
+    },
+    "2004": {
+      "poll_date": "10 July 2004",
+      "counting_date": "10 October 2004",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 11062,
+        "total_votes_polled": 7940,
+        "turnout_percentage": 0.7,
+        "margin_votes": 4632,
+        "margin_percentage": 58.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gegong  Apang",
+          "party": "Indian National Congress",
+          "votes": 6286,
+          "votes_percentage": 79.2
+        },
+        {
+          "position": 2,
+          "name": "Ojing  Komboh",
+          "party": "Bharatiya Janta Party",
+          "votes": 1654,
+          "votes_percentage": 20.8
+        }
+      ]
+    },
+    "1990": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 9630,
+        "total_votes_polled": 7977,
+        "turnout_percentage": 82.8,
+        "margin_votes": 4859,
+        "margin_percentage": 60.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gegong Apang",
+          "party": "Indian National Congress",
+          "votes": 6346,
+          "votes_percentage": 81.0
+        },
+        {
+          "position": 2,
+          "name": "Bani Danggen",
+          "party": "Janata Dal",
+          "votes": 1487,
+          "votes_percentage": 19.0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "state": "West Bengal",
+  "constituency": "Chandannagar",
+  "district": "Hugli",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 223152,
+        "total_votes_polled": 179155,
+        "turnout_percentage": 81.6,
+        "margin_votes": 31029,
+        "margin_percentage": 17.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Indranil Sen",
+          "party": "All India Trinamool Congress",
+          "votes": 86778,
+          "votes_percentage": 48.4
+        },
+        {
+          "position": 2,
+          "name": "Deepanjan Kumar Guha",
+          "party": "Bharatiya Janta Party",
+          "votes": 55749,
+          "votes_percentage": 31.1
+        },
+        {
+          "position": 3,
+          "name": "Gautam Sarkar",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 33702,
+          "votes_percentage": 18.8
+        },
+        {
+          "position": 4,
+          "name": "Ratan Kumar Chatterjee (R.K.C)",
+          "party": "Independent",
+          "votes": 1184,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Uday Veer Choudhury",
+          "party": "Independent",
+          "votes": 538,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 6,
+          "name": "Subrata Dey",
+          "party": "Independent",
+          "votes": 532,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "Tandra Bhattacharjee (TANDRADI)",
+          "party": "Independent",
+          "votes": 365,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "Praloy Mukherjee",
+          "party": "Independent",
+          "votes": 307,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "PUPARI",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 569060,
+        "total_votes_polled": 345346,
+        "turnout_percentage": 60.7,
+        "margin_votes": 78978,
+        "margin_percentage": 22.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "S. P. Sahu",
+          "party": "Indian National Congress",
+          "votes": 128966,
+          "votes_percentage": 37.3
+        },
+        {
+          "position": 2,
+          "name": "K. P. Singh",
+          "party": "Swatantra",
+          "votes": 49988,
+          "votes_percentage": 14.5
+        },
+        {
+          "position": 3,
+          "name": "Shardamal",
+          "party": "Samyukta Socialist Party",
+          "votes": 43227,
+          "votes_percentage": 12.5
+        },
+        {
+          "position": 4,
+          "name": "R.Rai",
+          "party": "Independent",
+          "votes": 40795,
+          "votes_percentage": 11.8
+        },
+        {
+          "position": 5,
+          "name": "N. P. Singh",
+          "party": "Praja Socialist Party",
+          "votes": 35953,
+          "votes_percentage": 10.4
+        },
+        {
+          "position": 6,
+          "name": "R. P. Singh",
+          "party": "Bhartiya Jan Sangh",
+          "votes": 32853,
+          "votes_percentage": 9.5
+        }
+      ]
+    }
+  }
+}

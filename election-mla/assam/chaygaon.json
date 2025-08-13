@@ -1,0 +1,540 @@
+{
+  "state": "Assam",
+  "constituency": "Chaygaon",
+  "district": "Kamrup",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 177428,
+        "total_votes_polled": 165162,
+        "turnout_percentage": 93.9,
+        "margin_votes": 28044,
+        "margin_percentage": 17.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rekibuddin Ahmed",
+          "party": "Indian National Congress",
+          "votes": 93864,
+          "votes_percentage": 56.8
+        },
+        {
+          "position": 2,
+          "name": "Dr. Kamala Kanta Kalita",
+          "party": "Asom Gana Parisad",
+          "votes": 65820,
+          "votes_percentage": 39.9
+        },
+        {
+          "position": 3,
+          "name": "Debajit Adhikari",
+          "party": "Assam Jatiya Parishad",
+          "votes": 2481,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 4,
+          "name": "Dr. Faruk Ahmed Bhuyan",
+          "party": "Independent",
+          "votes": 834,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "Shyamal Dutta",
+          "party": "Bharatiya Gana Parishad",
+          "votes": 690,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Azmal Hoque",
+          "party": "Independent",
+          "votes": 578,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Noimuddin Ahmed",
+          "party": "Independent",
+          "votes": 535,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Nurul Islam",
+          "party": "Rashtriya Lok Samta Party",
+          "votes": 360,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 160183,
+        "total_votes_polled": 143810,
+        "turnout_percentage": 90.8,
+        "margin_votes": 7821,
+        "margin_percentage": 5.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rekibuddin Ahmed",
+          "party": "Indian National Congress",
+          "votes": 72211,
+          "votes_percentage": 50.2
+        },
+        {
+          "position": 2,
+          "name": "Dr. Kamala Kanta Kalita",
+          "party": "Asom Gana Parisad",
+          "votes": 64390,
+          "votes_percentage": 44.8
+        },
+        {
+          "position": 3,
+          "name": "Derajuddin Ahmed",
+          "party": "All India United Democratic Front",
+          "votes": 4984,
+          "votes_percentage": 3.5
+        },
+        {
+          "position": 4,
+          "name": "Beckniur K. Marak",
+          "party": "Independent",
+          "votes": 2225,
+          "votes_percentage": 1.6
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "04 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 140137,
+        "total_votes_polled": 118206,
+        "turnout_percentage": 84.4,
+        "margin_votes": 15593,
+        "margin_percentage": 13.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rekibuddin Ahmed",
+          "party": "Indian National Congress",
+          "votes": 64307,
+          "votes_percentage": 54.4
+        },
+        {
+          "position": 2,
+          "name": "Dr. Kamala Kalita",
+          "party": "Asom Gana Parisad",
+          "votes": 48714,
+          "votes_percentage": 41.2
+        },
+        {
+          "position": 3,
+          "name": "Aminul Haque",
+          "party": "All India United Democratic Front",
+          "votes": 3118,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 4,
+          "name": "Robin Nath",
+          "party": "Bharatiya Janta Party",
+          "votes": 2067,
+          "votes_percentage": 1.8
+        }
+      ]
+    },
+    "2006": {
+      "poll_date": "04 March 2006",
+      "counting_date": "05 November 2006",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 136772,
+        "total_votes_polled": 113867,
+        "turnout_percentage": 83.3,
+        "margin_votes": 18295,
+        "margin_percentage": 16.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr. Kamala Kanta Kalita",
+          "party": "Asom Gana Parisad",
+          "votes": 62113,
+          "votes_percentage": 54.6
+        },
+        {
+          "position": 2,
+          "name": "Rekibuddin Ahmed",
+          "party": "Indian National Congress",
+          "votes": 43818,
+          "votes_percentage": 38.5
+        },
+        {
+          "position": 3,
+          "name": "Imran Hussain",
+          "party": "Assam United Democratic Front",
+          "votes": 4701,
+          "votes_percentage": 4.1
+        },
+        {
+          "position": 4,
+          "name": "Jiten Saloi",
+          "party": "Bharatiya Janta Party",
+          "votes": 1693,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Balen Medhi",
+          "party": "Asom Gana Parishad Pragtisheel",
+          "votes": 1542,
+          "votes_percentage": 1.4
+        }
+      ]
+    },
+    "2001": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 110955,
+        "total_votes_polled": 89172,
+        "turnout_percentage": 80.4,
+        "margin_votes": 13193,
+        "margin_percentage": 14.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rana Goswami",
+          "party": "Indian National Congress",
+          "votes": 50675,
+          "votes_percentage": 57.5
+        },
+        {
+          "position": 2,
+          "name": "Dr. Kamala Kanta Kalita",
+          "party": "Asom Gana Parisad",
+          "votes": 37482,
+          "votes_percentage": 42.5
+        }
+      ]
+    },
+    "1996": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 97504,
+        "total_votes_polled": 80320,
+        "turnout_percentage": 82.4,
+        "margin_votes": 4106,
+        "margin_percentage": 5.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kamala Kanta Kalita",
+          "party": "Asom Gana Parisad",
+          "votes": 39103,
+          "votes_percentage": 50.1
+        },
+        {
+          "position": 2,
+          "name": "Imran Shah",
+          "party": "Indian National Congress",
+          "votes": 34997,
+          "votes_percentage": 44.8
+        },
+        {
+          "position": 3,
+          "name": "Mohibullah",
+          "party": "Bharatiya Janta Party",
+          "votes": 1710,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 4,
+          "name": "Shabyashali Rabha",
+          "party": "Independent",
+          "votes": 1586,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 5,
+          "name": "Sailen Borah",
+          "party": "All India Indira Congress (TIWARI)",
+          "votes": 504,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Wazed Ali",
+          "party": "Independent",
+          "votes": 209,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "1991": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 88300,
+        "total_votes_polled": 70328,
+        "turnout_percentage": 79.7,
+        "margin_votes": 6393,
+        "margin_percentage": 9.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kamala Kalita",
+          "party": "Asom Gana Parisad",
+          "votes": 19345,
+          "votes_percentage": 28.9
+        },
+        {
+          "position": 2,
+          "name": "Joy Kumar Jain",
+          "party": "Indian National Congress",
+          "votes": 12952,
+          "votes_percentage": 19.3
+        },
+        {
+          "position": 3,
+          "name": "Rudra Kumar Choudhury",
+          "party": "Janata Dal",
+          "votes": 10443,
+          "votes_percentage": 15.6
+        },
+        {
+          "position": 4,
+          "name": "Sabya Sachi Rabha",
+          "party": "United Reservation Movement Council Of Assam",
+          "votes": 9927,
+          "votes_percentage": 14.8
+        },
+        {
+          "position": 5,
+          "name": "Rana Goswami",
+          "party": "Independent",
+          "votes": 9562,
+          "votes_percentage": 14.3
+        },
+        {
+          "position": 6,
+          "name": "Jiten Saloi",
+          "party": "Natun Asom Gana Parishad",
+          "votes": 3373,
+          "votes_percentage": 5.0
+        },
+        {
+          "position": 7,
+          "name": "Golam Mortaza Ahmed",
+          "party": "Independent",
+          "votes": 599,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 8,
+          "name": "Hali Rabha",
+          "party": "Real Communist Party Of India",
+          "votes": 488,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 9,
+          "name": "Majahrul Latif",
+          "party": "Independent",
+          "votes": 187,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Mahesh Das",
+          "party": "Jharkhand Party",
+          "votes": 128,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "1985": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 70708,
+        "total_votes_polled": 62410,
+        "turnout_percentage": 88.3,
+        "margin_votes": 9698,
+        "margin_percentage": 15.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kamla Kalita",
+          "party": "Independent",
+          "votes": 32751,
+          "votes_percentage": 53.5
+        },
+        {
+          "position": 2,
+          "name": "Abdul Qayyum Al Aman",
+          "party": "Independent",
+          "votes": 23053,
+          "votes_percentage": 37.6
+        },
+        {
+          "position": 3,
+          "name": "Harendra Nath Talukdar",
+          "party": "Indian National Congress",
+          "votes": 4042,
+          "votes_percentage": 6.6
+        },
+        {
+          "position": 4,
+          "name": "Gobinda Ch. Rabha",
+          "party": "Independent",
+          "votes": 883,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 5,
+          "name": "Surendra Kalita",
+          "party": "Independent",
+          "votes": 342,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "A.N.Akram Hussain",
+          "party": "Indian Congress (SOCIALIST)",
+          "votes": 105,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Harme Prabha Kalita",
+          "party": "Independent",
+          "votes": 82,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1983": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 64493,
+        "total_votes_polled": 17130,
+        "turnout_percentage": 26.6,
+        "margin_votes": 1888,
+        "margin_percentage": 11.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Harendra Nath Talukdar",
+          "party": "Indian National Congress",
+          "votes": 9122,
+          "votes_percentage": 55.5
+        },
+        {
+          "position": 2,
+          "name": "Motlib Ali",
+          "party": "Independent",
+          "votes": 7234,
+          "votes_percentage": 44.0
+        },
+        {
+          "position": 3,
+          "name": "Shah Jahan Ali",
+          "party": "Independent",
+          "votes": 90,
+          "votes_percentage": 0.6
+        }
+      ]
+    },
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 61589,
+        "total_votes_polled": 43061,
+        "turnout_percentage": 69.9,
+        "margin_votes": 1934,
+        "margin_percentage": 4.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "A. N. Akram Hussain",
+          "party": "Indian National Congress (I)",
+          "votes": 13712,
+          "votes_percentage": 32.6
+        },
+        {
+          "position": 2,
+          "name": "Narbada Choudhury",
+          "party": "Janta Party",
+          "votes": 11778,
+          "votes_percentage": 28.0
+        },
+        {
+          "position": 3,
+          "name": "Matlab Ali",
+          "party": "Indian National Congress",
+          "votes": 6216,
+          "votes_percentage": 14.8
+        },
+        {
+          "position": 4,
+          "name": "Jnanendra Dewan",
+          "party": "Independent",
+          "votes": 5221,
+          "votes_percentage": 12.4
+        },
+        {
+          "position": 5,
+          "name": "Nalini Choudhury",
+          "party": "Independent",
+          "votes": 2610,
+          "votes_percentage": 6.2
+        },
+        {
+          "position": 6,
+          "name": "Kameswar Das",
+          "party": "Independent",
+          "votes": 1547,
+          "votes_percentage": 3.7
+        },
+        {
+          "position": 7,
+          "name": "Hattem Ali Choudhury",
+          "party": "Independent",
+          "votes": 1025,
+          "votes_percentage": 2.4
+        }
+      ]
+    }
+  }
+}

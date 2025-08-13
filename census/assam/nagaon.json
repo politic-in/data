@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 225755,
+        "male": 234185,
+        "percentage_of_total_population": 16.29,
+        "percentage_of_total_population_calculated": 16.29,
+        "percentage_of_total_population_stated": 16.29,
+        "sex_ratio": 964,
+        "total": 459940
+    },
+    "literacy": {
+        "female_literacy_rate": 68.07,
+        "female_literate": 788866,
+        "male_literacy_rate": 76.51,
+        "male_literate": 921850,
+        "rate_percentage": 72.37,
+        "total_literate": 1710716
+    },
+    "population": {
+        "female": 1384656,
+        "male": 1439112,
+        "sex_ratio": 962,
+        "total": 2823768
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.04,
+            "population": 1073
+        },
+        "Christian": {
+            "percentage": 0.95,
+            "population": 26844
+        },
+        "Hindu": {
+            "percentage": 43.39,
+            "population": 1225246
+        },
+        "Jain": {
+            "percentage": 0.04,
+            "population": 1162
+        },
+        "Muslims": {
+            "percentage": 55.36,
+            "population": 1563203
+        },
+        "Not Stated": {
+            "percentage": 0.11,
+            "population": 3143
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 61
+        },
+        "Sikh": {
+            "percentage": 0.11,
+            "population": 3036
+        }
+    },
+    "rural": {
+        "child_population_female": 206565,
+        "child_population_male": 214248,
+        "child_population_percentage": 17.15,
+        "child_population_percentage_calculated": 17.15,
+        "child_population_percentage_stated": 17.15,
+        "child_population_total": 420813,
+        "child_sex_ratio": 964,
+        "female": 1203249,
+        "literacy_rate_female": 65.52,
+        "literacy_rate_male": 74.22,
+        "literacy_rate_percentage": 69.96,
+        "literate_female": 652983,
+        "literate_male": 769517,
+        "literate_total": 1422500,
+        "male": 1250985,
+        "percentage_population": 86.91,
+        "population": 2454234,
+        "sex_ratio": 962
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/162-nagaon.html",
+    "urban": {
+        "child_population_female": 19172,
+        "child_population_male": 19955,
+        "child_population_percentage": 10.59,
+        "child_population_percentage_calculated": 10.59,
+        "child_population_percentage_stated": 10.59,
+        "child_population_total": 39127,
+        "child_sex_ratio": 961,
+        "female": 181407,
+        "literacy_rate_female": 83.76,
+        "literacy_rate_male": 90.58,
+        "literacy_rate_percentage": 87.23,
+        "literate_female": 135883,
+        "literate_male": 152333,
+        "literate_total": 288216,
+        "male": 188127,
+        "percentage_population": 13.09,
+        "population": 369534,
+        "sex_ratio": 964
+    }
+}

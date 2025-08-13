@@ -1,0 +1,101 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Bahadurpura",
+  "district": "Hyderabad",
+  "ac_type": "GEN",
+  "results": {
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 189361,
+        "total_votes_polled": 92469,
+        "turnout_percentage": 48.8,
+        "total_valid_votes": 92454,
+        "total_valid_votes_percentage": 48.8,
+        "margin_votes": 56735,
+        "margin_percentage": 61.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mohd. Moazam Khan",
+          "party": "All India Majlis-E-Ittehadul Muslimoon",
+          "votes": 65453,
+          "votes_percentage": 70.8
+        },
+        {
+          "position": 2,
+          "name": "Mir Ahmed Ali",
+          "party": "Communist Party Of India",
+          "votes": 8718,
+          "votes_percentage": 9.4
+        },
+        {
+          "position": 3,
+          "name": "Syed Raza Hussain Azad",
+          "party": "Indian National Congress",
+          "votes": 7246,
+          "votes_percentage": 7.8
+        },
+        {
+          "position": 4,
+          "name": "Mohd.Sirajuddin",
+          "party": "Bharatiya Janta Party",
+          "votes": 5067,
+          "votes_percentage": 5.5
+        },
+        {
+          "position": 5,
+          "name": "Syed Yonus Deashmuk",
+          "party": "Praja Rajyam Party",
+          "votes": 2993,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 6,
+          "name": "Mohd.Ghouse Quadri",
+          "party": "Samajwadi Party",
+          "votes": 1324,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 7,
+          "name": "Robert Irudaya Raj",
+          "party": "Independent",
+          "votes": 593,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "V. Vamshidar",
+          "party": "Bahujan Samaj Party",
+          "votes": 335,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Rafia Khanam",
+          "party": "Independent",
+          "votes": 289,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Azizunnisa Begum",
+          "party": "Independent",
+          "votes": 257,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 11,
+          "name": "Mohd.Habeeb Khan",
+          "party": "Independent",
+          "votes": 179,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

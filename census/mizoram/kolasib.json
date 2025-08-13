@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 6673,
+        "male": 6809,
+        "percentage_of_total_population": 16.06,
+        "percentage_of_total_population_calculated": 16.06,
+        "percentage_of_total_population_stated": 16.06,
+        "sex_ratio": 980,
+        "total": 13482
+    },
+    "literacy": {
+        "female_literacy_rate": 92.38,
+        "female_literate": 31748,
+        "male_literacy_rate": 94.57,
+        "male_literate": 34147,
+        "rate_percentage": 93.5,
+        "total_literate": 65895
+    },
+    "population": {
+        "female": 41037,
+        "male": 42918,
+        "sex_ratio": 956,
+        "total": 83955
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.13,
+            "population": 108
+        },
+        "Christian": {
+            "percentage": 89.58,
+            "population": 75210
+        },
+        "Hindu": {
+            "percentage": 4.76,
+            "population": 4000
+        },
+        "Jain": {
+            "percentage": 0.0,
+            "population": 2
+        },
+        "Muslims": {
+            "percentage": 5.27,
+            "population": 4426
+        },
+        "Not Stated": {
+            "percentage": 0.18,
+            "population": 147
+        },
+        "Others": {
+            "percentage": 0.05,
+            "population": 46
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 16
+        }
+    },
+    "rural": {
+        "child_population_female": 3294,
+        "child_population_male": 3387,
+        "child_population_percentage": 18.02,
+        "child_population_percentage_calculated": 18.02,
+        "child_population_percentage_stated": 18.02,
+        "child_population_total": 6681,
+        "child_sex_ratio": 973,
+        "female": 17980,
+        "literacy_rate_female": 87.72,
+        "literacy_rate_male": 91.58,
+        "literacy_rate_percentage": 89.72,
+        "literate_female": 12883,
+        "literate_male": 14387,
+        "literate_total": 27270,
+        "male": 19097,
+        "percentage_population": 44.16,
+        "population": 37077,
+        "sex_ratio": 942
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/387-kolasib.html",
+    "urban": {
+        "child_population_female": 3378,
+        "child_population_male": 3423,
+        "child_population_percentage": 14.51,
+        "child_population_percentage_calculated": 14.51,
+        "child_population_percentage_stated": 14.51,
+        "child_population_total": 6801,
+        "child_sex_ratio": 987,
+        "female": 23057,
+        "literacy_rate_female": 95.86,
+        "literacy_rate_male": 96.87,
+        "literacy_rate_percentage": 96.38,
+        "literate_female": 18865,
+        "literate_male": 19760,
+        "literate_total": 38625,
+        "male": 23821,
+        "percentage_population": 55.84,
+        "population": 46878,
+        "sex_ratio": 968
+    }
+}

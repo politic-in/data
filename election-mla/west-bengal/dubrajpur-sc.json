@@ -1,0 +1,57 @@
+{
+  "state": "West Bengal",
+  "constituency": "DUBRAJPUR (SC)",
+  "district": "Birbhum",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 215828,
+        "total_votes_polled": 178700,
+        "turnout_percentage": 84.5,
+        "margin_votes": 39894,
+        "margin_percentage": 22.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chandra Naresh  Bauri",
+          "party": "All India Trinamool Congress",
+          "votes": 94309,
+          "votes_percentage": 52.8
+        },
+        {
+          "position": 2,
+          "name": "Bijoy Bagdi",
+          "party": "All India Forward Bloc",
+          "votes": 54415,
+          "votes_percentage": 30.5
+        },
+        {
+          "position": 3,
+          "name": "Ramprasad Das",
+          "party": "Bharatiya Janta Party",
+          "votes": 25258,
+          "votes_percentage": 14.1
+        },
+        {
+          "position": 4,
+          "name": "Khagen Das",
+          "party": "Bahujan Mukti Party",
+          "votes": 2906,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 5,
+          "name": "Biswanath Bauri",
+          "party": "Independent",
+          "votes": 1812,
+          "votes_percentage": 1.0
+        }
+      ]
+    }
+  }
+}

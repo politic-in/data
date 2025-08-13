@@ -1,0 +1,829 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Secunderabad",
+  "district": "Hyderabad",
+  "ac_type": "GEN",
+  "results": {
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 18,
+      "aggregate": {
+        "total_electors": 206944,
+        "total_votes_polled": 124084,
+        "turnout_percentage": 60.0,
+        "total_valid_votes": 124070,
+        "total_valid_votes_percentage": 60.0,
+        "margin_votes": 4395,
+        "margin_percentage": 3.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jayasudha Kapoor",
+          "party": "Indian National Congress",
+          "votes": 45063,
+          "votes_percentage": 36.3
+        },
+        {
+          "position": 2,
+          "name": "Talasani Srinivas Yadav",
+          "party": "Telugu Desam",
+          "votes": 40668,
+          "votes_percentage": 32.8
+        },
+        {
+          "position": 3,
+          "name": "Mekala Saranga Pani",
+          "party": "Praja Rajyam Party",
+          "votes": 18666,
+          "votes_percentage": 15.0
+        },
+        {
+          "position": 4,
+          "name": "Akula Maharani",
+          "party": "Lok Satta Party",
+          "votes": 9287,
+          "votes_percentage": 7.5
+        },
+        {
+          "position": 5,
+          "name": "Shanigarapu Ramesh Chakra",
+          "party": "Bharatiya Janta Party",
+          "votes": 6599,
+          "votes_percentage": 5.3
+        },
+        {
+          "position": 6,
+          "name": "Md.Riyazuddin",
+          "party": "Independent",
+          "votes": 815,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "S.Yellanna",
+          "party": "Bahujan Samaj Party",
+          "votes": 568,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Karra Kashi Vishwanatham",
+          "party": "Independent",
+          "votes": 436,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "A.Sathi Reddy",
+          "party": "Independent",
+          "votes": 381,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Bommakanti Padma",
+          "party": "Pyramid Party Of India",
+          "votes": 323,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 11,
+          "name": "K.Raja Yellaiah Madiga",
+          "party": "Trilinga Praja Pragati Party",
+          "votes": 297,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Tupran Vijaya Kumar",
+          "party": "Independent",
+          "votes": 251,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 13,
+          "name": "Neelam Srinivas Mudiraj",
+          "party": "Independent",
+          "votes": 223,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 14,
+          "name": "Chikka Devadas",
+          "party": "Kranti Kari Jai Hind Sena",
+          "votes": 130,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Rama Krishna Reddy Gujjula",
+          "party": "Samata Party",
+          "votes": 118,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "K.Krishnaveni",
+          "party": "Independent",
+          "votes": 95,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 17,
+          "name": "Gunti Sushanth Kumar",
+          "party": "Independent",
+          "votes": 79,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 18,
+          "name": "Jagadeshwar M.",
+          "party": "Independent",
+          "votes": 71,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2004": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 226953,
+        "total_votes_polled": 117881,
+        "turnout_percentage": 51.9,
+        "margin_votes": 3067,
+        "margin_percentage": 2.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "T.Padma Rao",
+          "party": "Telangana Rashtra Samithi",
+          "votes": 56997,
+          "votes_percentage": 48.4
+        },
+        {
+          "position": 2,
+          "name": "Talasani Srinivas Yadav",
+          "party": "Telugu Desam",
+          "votes": 53930,
+          "votes_percentage": 45.8
+        },
+        {
+          "position": 3,
+          "name": "S. Yellanna",
+          "party": "Bahujan Samaj Party",
+          "votes": 3357,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 4,
+          "name": "B.V. Krishna Reddy",
+          "party": "Pyramid Party Of India",
+          "votes": 1314,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Neelam Srinivas Mudiraj",
+          "party": "Mudiraj Rashtriya Samithi",
+          "votes": 1065,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Mohd. Amin Bhojani",
+          "party": "Independent",
+          "votes": 716,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "V.K. Prasad",
+          "party": "Independent",
+          "votes": 508,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "1999": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 236843,
+        "total_votes_polled": 129190,
+        "turnout_percentage": 54.6,
+        "margin_votes": 37523,
+        "margin_percentage": 29.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Talasani Srinivas Yadav",
+          "party": "Telugu Desam",
+          "votes": 79130,
+          "votes_percentage": 61.3
+        },
+        {
+          "position": 2,
+          "name": "Smt.Mary Ravindranath",
+          "party": "Indian National Congress",
+          "votes": 41607,
+          "votes_percentage": 32.2
+        },
+        {
+          "position": 3,
+          "name": "Gandham Guru Murthy",
+          "party": "Ntr Telugu Desam Party (LAKSHMI PARVATHI)",
+          "votes": 3004,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 4,
+          "name": "B Hanumanth Rao",
+          "party": "Anna Telugu Desam Party",
+          "votes": 2057,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 5,
+          "name": "K Shanker",
+          "party": "Janata Dal (Secular)",
+          "votes": 946,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "A Sathi Reddy",
+          "party": "Independent",
+          "votes": 768,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Kum. Godavari Shanthi Devi",
+          "party": "Independent",
+          "votes": 666,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "A R Raju",
+          "party": "Shiv Sena",
+          "votes": 404,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Smt. Shalini Balaji",
+          "party": "Pyramid Party Of India",
+          "votes": 336,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "S Shiva Kumar",
+          "party": "Ajeya Bharat Party",
+          "votes": 270,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "1994": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 16,
+      "aggregate": {
+        "total_electors": 187177,
+        "total_votes_polled": 97496,
+        "turnout_percentage": 52.1,
+        "margin_votes": 20461,
+        "margin_percentage": 21.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Talasani Srinivas Yadav",
+          "party": "Telugu Desam",
+          "votes": 45358,
+          "votes_percentage": 47.3
+        },
+        {
+          "position": 2,
+          "name": "Mary Ravindranath",
+          "party": "Indian National Congress",
+          "votes": 24897,
+          "votes_percentage": 26.0
+        },
+        {
+          "position": 3,
+          "name": "Karunakar G.R.",
+          "party": "Bharatiya Janta Party",
+          "votes": 18741,
+          "votes_percentage": 19.5
+        },
+        {
+          "position": 4,
+          "name": "Geetanjali Naragoni",
+          "party": "Bahujan Samaj Party",
+          "votes": 2237,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 5,
+          "name": "Syed Zahuruddin",
+          "party": "Allindia Majlis-E Ithehad-Ul-Mulimeen",
+          "votes": 2233,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 6,
+          "name": "Mechineni Kishan Rao",
+          "party": "Independent",
+          "votes": 714,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Chaitanya A.V.K.",
+          "party": "Samata Party",
+          "votes": 682,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 8,
+          "name": "K.K. Viswanatham",
+          "party": "Independent",
+          "votes": 199,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Kumar M.B.",
+          "party": "Independent",
+          "votes": 173,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Lingam K.M.",
+          "party": "Independent",
+          "votes": 157,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Ashok Kumar",
+          "party": "Independent",
+          "votes": 123,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "(KUM) RACHEL",
+          "party": "Independent",
+          "votes": 123,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "B.N. Yogender Rao",
+          "party": "Independent",
+          "votes": 110,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Bharat Kumar",
+          "party": "Independent",
+          "votes": 89,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "K. Rama Kishan",
+          "party": "Independent",
+          "votes": 41,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 16,
+          "name": "A. Venkateshwar Rao",
+          "party": "Independent",
+          "votes": 31,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "1989": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 16,
+      "aggregate": {
+        "total_electors": 163864,
+        "total_votes_polled": 90194,
+        "turnout_percentage": 55.0,
+        "margin_votes": 11561,
+        "margin_percentage": 12.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mary Ravindra Nath",
+          "party": "Indian National Congress",
+          "votes": 45700,
+          "votes_percentage": 52.7
+        },
+        {
+          "position": 2,
+          "name": "Alladi Raj Kumar",
+          "party": "Telugu Desam",
+          "votes": 34139,
+          "votes_percentage": 39.4
+        },
+        {
+          "position": 3,
+          "name": "Anjaiah",
+          "party": "Allindia Majlis-E Ithehad-Ul-Mulimeen",
+          "votes": 3634,
+          "votes_percentage": 4.2
+        },
+        {
+          "position": 4,
+          "name": "Y. Ramesh Kumar",
+          "party": "Marxist Communist Partyof India (SRIVASTAVA)",
+          "votes": 954,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "D. Jagadiswar",
+          "party": "Janata Party (JP)",
+          "votes": 622,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "P. Sudhaker",
+          "party": "Independent",
+          "votes": 434,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Bhashar Benny",
+          "party": "Bahujan Samaj Party",
+          "votes": 281,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Sree Ram",
+          "party": "Independent",
+          "votes": 172,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "K. Ganesh Rao",
+          "party": "Independent",
+          "votes": 160,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "A. Sudershan",
+          "party": "Independent",
+          "votes": 125,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "J. Laxmi Narayana",
+          "party": "Independent",
+          "votes": 124,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "K. Ram Chander",
+          "party": "Independent",
+          "votes": 119,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "K.K. Viswanatam",
+          "party": "Independent",
+          "votes": 82,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Zailuddin",
+          "party": "Independent",
+          "votes": 67,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Nazir Khan",
+          "party": "All India Dalit Muslim Minorities Suraksha Mahasangh",
+          "votes": 47,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "Swamy T. S. Deve Anand",
+          "party": "Independent",
+          "votes": 38,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "1985": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 136545,
+        "total_votes_polled": 71025,
+        "turnout_percentage": 52.0,
+        "margin_votes": 19797,
+        "margin_percentage": 27.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Alladi P. Raj Kumar",
+          "party": "Telugu Desam",
+          "votes": 41241,
+          "votes_percentage": 59.2
+        },
+        {
+          "position": 2,
+          "name": "Gouri Shanker",
+          "party": "Indian National Congress",
+          "votes": 21444,
+          "votes_percentage": 30.8
+        },
+        {
+          "position": 3,
+          "name": "T. Anna Shiva Lingam",
+          "party": "Independent",
+          "votes": 5662,
+          "votes_percentage": 8.1
+        },
+        {
+          "position": 4,
+          "name": "P. Anjiah",
+          "party": "Independent",
+          "votes": 342,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "Kameshwar Rao",
+          "party": "Independent",
+          "votes": 305,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "K. Jagan Mohan Rao",
+          "party": "Independent",
+          "votes": 292,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "V. R. Lokanadham Gaud",
+          "party": "Independent",
+          "votes": 143,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "S. Devasahayam",
+          "party": "Independent",
+          "votes": 105,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "T, Sathyanarayana Gaud",
+          "party": "Independent",
+          "votes": 69,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "B. Komariah",
+          "party": "Independent",
+          "votes": 68,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Swamy T.S. Devanand",
+          "party": "Independent",
+          "votes": 26,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "1983": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 15,
+      "aggregate": {
+        "total_electors": 135072,
+        "total_votes_polled": 70489,
+        "turnout_percentage": 52.2,
+        "margin_votes": 17941,
+        "margin_percentage": 25.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "M. Krishna Rao",
+          "party": "Independent",
+          "votes": 33069,
+          "votes_percentage": 48.1
+        },
+        {
+          "position": 2,
+          "name": "K. Keshava Rao",
+          "party": "Indian National Congress",
+          "votes": 15128,
+          "votes_percentage": 22.0
+        },
+        {
+          "position": 3,
+          "name": "M. Satyanarayana",
+          "party": "Bharatiya Janta Party",
+          "votes": 7256,
+          "votes_percentage": 10.6
+        },
+        {
+          "position": 4,
+          "name": "G. M. Anjaiah",
+          "party": "Independent",
+          "votes": 4602,
+          "votes_percentage": 6.7
+        },
+        {
+          "position": 5,
+          "name": "D. Jahangir Khan",
+          "party": "Independent",
+          "votes": 2783,
+          "votes_percentage": 4.1
+        },
+        {
+          "position": 6,
+          "name": "P. J. Suri",
+          "party": "Janta Party",
+          "votes": 2016,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 7,
+          "name": "Katikala Narsinga Rao",
+          "party": "Independent",
+          "votes": 1229,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 8,
+          "name": "V. Ethirajulu",
+          "party": "Independent",
+          "votes": 706,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 9,
+          "name": "R. Keshav Rao",
+          "party": "Independent",
+          "votes": 565,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 10,
+          "name": "N. Mohanan",
+          "party": "Independent",
+          "votes": 360,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 11,
+          "name": "Jagdishwar",
+          "party": "Independent",
+          "votes": 348,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 12,
+          "name": "A. Krishna Rao",
+          "party": "Independent",
+          "votes": 268,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 13,
+          "name": "Dasharath N.",
+          "party": "Independent",
+          "votes": 232,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 14,
+          "name": "P. Anjiah",
+          "party": "Independent",
+          "votes": 105,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 15,
+          "name": "M. Sojee",
+          "party": "Independent",
+          "votes": 91,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 93706,
+        "total_votes_polled": 57565,
+        "turnout_percentage": 61.4,
+        "margin_votes": 8152,
+        "margin_percentage": 14.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "L. Narayana",
+          "party": "Janta Party",
+          "votes": 21946,
+          "votes_percentage": 39.0
+        },
+        {
+          "position": 2,
+          "name": "T. D. Gowri Shanker",
+          "party": "Indian National Congress (I)",
+          "votes": 13794,
+          "votes_percentage": 24.5
+        },
+        {
+          "position": 3,
+          "name": "K. Konda Reddy",
+          "party": "Indian National Congress",
+          "votes": 11258,
+          "votes_percentage": 20.0
+        },
+        {
+          "position": 4,
+          "name": "G. M. Anjaiah",
+          "party": "Independent",
+          "votes": 7542,
+          "votes_percentage": 13.4
+        },
+        {
+          "position": 5,
+          "name": "Nawab Mahmood Khan",
+          "party": "Independent",
+          "votes": 1166,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 6,
+          "name": "P. Rajkumar",
+          "party": "Independent",
+          "votes": 233,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "V. K. Ranga Nayakulu",
+          "party": "Independent",
+          "votes": 148,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Richard Raghavaiah",
+          "party": "Independent",
+          "votes": 121,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

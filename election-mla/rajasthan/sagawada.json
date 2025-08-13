@@ -1,0 +1,64 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Sagawada",
+  "district": "Dungarpur",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 235625,
+        "total_votes_polled": 170576,
+        "turnout_percentage": 73.8,
+        "margin_votes": 4582,
+        "margin_percentage": 2.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ramprasad",
+          "party": "Bhartiya Tribal Party",
+          "votes": 58406,
+          "votes_percentage": 34.2
+        },
+        {
+          "position": 2,
+          "name": "Shankarlal",
+          "party": "Bharatiya Janta Party",
+          "votes": 53824,
+          "votes_percentage": 31.6
+        },
+        {
+          "position": 3,
+          "name": "Surendra Kumar",
+          "party": "Indian National Congress",
+          "votes": 41852,
+          "votes_percentage": 24.5
+        },
+        {
+          "position": 4,
+          "name": "Anita",
+          "party": "Independent",
+          "votes": 10140,
+          "votes_percentage": 5.9
+        },
+        {
+          "position": 5,
+          "name": "Dalji",
+          "party": "Bahujan Samaj Party",
+          "votes": 4173,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 6,
+          "name": "Man Singh",
+          "party": "Independent",
+          "votes": 2181,
+          "votes_percentage": 1.3
+        }
+      ]
+    }
+  }
+}

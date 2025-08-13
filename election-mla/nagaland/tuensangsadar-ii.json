@@ -1,0 +1,50 @@
+{
+  "state": "Nagaland",
+  "constituency": "TUENSANGSADAR-II",
+  "district": "Tuensang",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 15040,
+        "total_votes_polled": 13406,
+        "turnout_percentage": 89.4,
+        "margin_votes": 1799,
+        "margin_percentage": 13.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kejong Chang",
+          "party": "Naga Peoples Front",
+          "votes": 6204,
+          "votes_percentage": 46.3
+        },
+        {
+          "position": 2,
+          "name": "H Zungkum Chang",
+          "party": "Nationalist Congress Party",
+          "votes": 4405,
+          "votes_percentage": 32.9
+        },
+        {
+          "position": 3,
+          "name": "Rhakila",
+          "party": "Bharatiya Janta Party",
+          "votes": 2749,
+          "votes_percentage": 20.5
+        },
+        {
+          "position": 4,
+          "name": "H. Wongto Chang",
+          "party": "National People's Party",
+          "votes": 48,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

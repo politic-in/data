@@ -1,0 +1,50 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Sikaraay",
+  "district": "Dausa",
+  "ac_type": "SC",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 237426,
+        "total_votes_polled": 167031,
+        "turnout_percentage": 71.2,
+        "margin_votes": 33783,
+        "margin_percentage": 20.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mamta Bhupesh",
+          "party": "Indian National Congress",
+          "votes": 96454,
+          "votes_percentage": 57.8
+        },
+        {
+          "position": 2,
+          "name": "Vikram Bansiwal",
+          "party": "Bharatiya Janta Party",
+          "votes": 62671,
+          "votes_percentage": 37.5
+        },
+        {
+          "position": 3,
+          "name": "Phaili Ram",
+          "party": "Bahujan Samaj Party",
+          "votes": 5670,
+          "votes_percentage": 3.4
+        },
+        {
+          "position": 4,
+          "name": "Geeta Verma",
+          "party": "Bharat Vahini Party",
+          "votes": 2236,
+          "votes_percentage": 1.3
+        }
+      ]
+    }
+  }
+}

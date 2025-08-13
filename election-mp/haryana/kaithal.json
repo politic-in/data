@@ -1,0 +1,127 @@
+{
+  "state": "Haryana",
+  "constituency": "KAITHAL",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 519031,
+        "total_votes_polled": 351635,
+        "turnout_percentage": 67.8,
+        "margin_votes": 25538,
+        "margin_percentage": 7.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gulzari Lal Nanda",
+          "party": "Indian National Congress",
+          "votes": 155000,
+          "votes_percentage": 44.1
+        },
+        {
+          "position": 2,
+          "name": "Inder Singh",
+          "party": "Indian National Congress (ORGANISATION)",
+          "votes": 129462,
+          "votes_percentage": 36.8
+        },
+        {
+          "position": 3,
+          "name": "Nanu Mal",
+          "party": "Independent",
+          "votes": 18952,
+          "votes_percentage": 5.4
+        },
+        {
+          "position": 4,
+          "name": "Bishan Singh",
+          "party": "Independent",
+          "votes": 13077,
+          "votes_percentage": 3.7
+        },
+        {
+          "position": 5,
+          "name": "Jagjit Singh Rohloo",
+          "party": "Bharatiya Kranti Dal",
+          "votes": 10995,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 6,
+          "name": "Krishn Kumar",
+          "party": "Forward Bloc",
+          "votes": 6604,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 7,
+          "name": "Surta",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 3817,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 8,
+          "name": "Madan Gopal Mittal",
+          "party": "Praja Socialist Party",
+          "votes": 3300,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 9,
+          "name": "Sukhwant Singh",
+          "party": "Independent",
+          "votes": 1491,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 484420,
+        "total_votes_polled": 372708,
+        "turnout_percentage": 76.9,
+        "margin_votes": 27010,
+        "margin_percentage": 7.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "G.L. Nanda",
+          "party": "Indian National Congress",
+          "votes": 180770,
+          "votes_percentage": 48.5
+        },
+        {
+          "position": 2,
+          "name": "I. Singh",
+          "party": "Swatantra",
+          "votes": 153760,
+          "votes_percentage": 41.3
+        },
+        {
+          "position": 3,
+          "name": "T. Nath",
+          "party": "Independent",
+          "votes": 17345,
+          "votes_percentage": 4.7
+        },
+        {
+          "position": 4,
+          "name": "T. Singh",
+          "party": "Independent",
+          "votes": 5816,
+          "votes_percentage": 1.6
+        }
+      ]
+    }
+  }
+}

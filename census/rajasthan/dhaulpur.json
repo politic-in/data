@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 100428,
+        "male": 117185,
+        "percentage_of_total_population": 18.04,
+        "percentage_of_total_population_calculated": 18.04,
+        "percentage_of_total_population_stated": 18.04,
+        "sex_ratio": 857,
+        "total": 217613
+    },
+    "literacy": {
+        "female_literacy_rate": 54.67,
+        "female_literate": 247377,
+        "male_literacy_rate": 81.22,
+        "male_literate": 435721,
+        "rate_percentage": 69.08,
+        "total_literate": 683098
+    },
+    "population": {
+        "female": 552869,
+        "male": 653647,
+        "sex_ratio": 846,
+        "total": 1206516
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 92
+        },
+        "Christian": {
+            "percentage": 0.06,
+            "population": 688
+        },
+        "Hindu": {
+            "percentage": 93.45,
+            "population": 1127520
+        },
+        "Jain": {
+            "percentage": 0.23,
+            "population": 2739
+        },
+        "Muslims": {
+            "percentage": 5.99,
+            "population": 72258
+        },
+        "Not Stated": {
+            "percentage": 0.15,
+            "population": 1842
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 21
+        },
+        "Sikh": {
+            "percentage": 0.11,
+            "population": 1356
+        }
+    },
+    "rural": {
+        "child_population_female": 83110,
+        "child_population_male": 96615,
+        "child_population_percentage": 18.74,
+        "child_population_percentage_calculated": 18.74,
+        "child_population_percentage_stated": 18.74,
+        "child_population_total": 179725,
+        "child_sex_ratio": 860,
+        "female": 438136,
+        "literacy_rate_female": 52.42,
+        "literacy_rate_male": 81.21,
+        "literacy_rate_percentage": 68.1,
+        "literate_female": 186099,
+        "literate_male": 344607,
+        "literate_total": 530706,
+        "male": 520930,
+        "percentage_population": 79.49,
+        "population": 959066,
+        "sex_ratio": 841
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/431-dhaulpur.html",
+    "urban": {
+        "child_population_female": 17305,
+        "child_population_male": 20583,
+        "child_population_percentage": 15.31,
+        "child_population_percentage_calculated": 15.31,
+        "child_population_percentage_stated": 15.31,
+        "child_population_total": 37888,
+        "child_sex_ratio": 841,
+        "female": 114733,
+        "literacy_rate_female": 62.9,
+        "literacy_rate_male": 81.25,
+        "literacy_rate_percentage": 72.72,
+        "literate_female": 61278,
+        "literate_male": 91114,
+        "literate_total": 152392,
+        "male": 132717,
+        "percentage_population": 20.51,
+        "population": 247450,
+        "sex_ratio": 864
+    }
+}

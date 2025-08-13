@@ -1,0 +1,85 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "Chapra",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2004": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 1164917,
+        "total_votes_polled": 446031,
+        "turnout_percentage": 38.3,
+        "margin_votes": 60423,
+        "margin_percentage": 13.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Lalu Prasad",
+          "party": "Rashtriya Janata Dal",
+          "votes": 228882,
+          "votes_percentage": 51.3
+        },
+        {
+          "position": 2,
+          "name": "Rajeev Pratap Rudy",
+          "party": "Bharatiya Janta Party",
+          "votes": 168459,
+          "votes_percentage": 37.8
+        },
+        {
+          "position": 3,
+          "name": "Abhay Raj Kishor Rai",
+          "party": "Bahujan Samaj Party",
+          "votes": 12322,
+          "votes_percentage": 2.8
+        },
+        {
+          "position": 4,
+          "name": "Brajesh Kumar",
+          "party": "Independent",
+          "votes": 10753,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 5,
+          "name": "Bachchu Prasad",
+          "party": "Samajwadi Party",
+          "votes": 8910,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 6,
+          "name": "Narendra Kumar Singh",
+          "party": "Independent",
+          "votes": 5775,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 7,
+          "name": "Manoranjan Kumar Srivastava",
+          "party": "Independent",
+          "votes": 5264,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 8,
+          "name": "Kamala Saran",
+          "party": "Independent",
+          "votes": 3187,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 9,
+          "name": "Rajeshwar Singh",
+          "party": "Apna Dal",
+          "votes": 2549,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

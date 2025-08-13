@@ -1,0 +1,48 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "GARHWAL DISTT (EAST) CUM MORADABAD DISTT (NORTH EAST)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 347009,
+        "total_votes_polled": 96529,
+        "turnout_percentage": 27.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bhaktadarsh",
+          "party": "Indian National Congress",
+          "votes": 65994,
+          "votes_percentage": 68.4
+        },
+        {
+          "position": 2,
+          "name": "Pratap Sing",
+          "party": "Socialist Party",
+          "votes": 20664,
+          "votes_percentage": 21.4
+        },
+        {
+          "position": 3,
+          "name": "Ghana Nand",
+          "party": "Akhil Bharatiya Hindu Mahasabha",
+          "votes": 6511,
+          "votes_percentage": 6.7
+        },
+        {
+          "position": 4,
+          "name": "Sakla Nand",
+          "party": "Independent",
+          "votes": 3360,
+          "votes_percentage": 3.5
+        }
+      ]
+    }
+  }
+}

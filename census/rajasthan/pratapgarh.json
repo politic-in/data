@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 72650,
+        "male": 77868,
+        "percentage_of_total_population": 17.34,
+        "percentage_of_total_population_calculated": 17.34,
+        "percentage_of_total_population_stated": 17.34,
+        "sex_ratio": 933,
+        "total": 150518
+    },
+    "literacy": {
+        "female_literacy_rate": 42.35,
+        "female_literate": 151393,
+        "male_literacy_rate": 69.5,
+        "male_literate": 250122,
+        "rate_percentage": 55.97,
+        "total_literate": 401515
+    },
+    "population": {
+        "female": 430104,
+        "male": 437744,
+        "sex_ratio": 983,
+        "total": 867848
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.0,
+            "population": 32
+        },
+        "Christian": {
+            "percentage": 0.04,
+            "population": 358
+        },
+        "Hindu": {
+            "percentage": 95.33,
+            "population": 827293
+        },
+        "Jain": {
+            "percentage": 1.62,
+            "population": 14077
+        },
+        "Muslims": {
+            "percentage": 2.95,
+            "population": 25597
+        },
+        "Not Stated": {
+            "percentage": 0.05,
+            "population": 392
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 27
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 72
+        }
+    },
+    "rural": {
+        "child_population_female": 68514,
+        "child_population_male": 73237,
+        "child_population_percentage": 17.81,
+        "child_population_percentage_calculated": 17.81,
+        "child_population_percentage_stated": 17.81,
+        "child_population_total": 141751,
+        "child_sex_ratio": 936,
+        "female": 394870,
+        "literacy_rate_female": 39.04,
+        "literacy_rate_male": 67.29,
+        "literacy_rate_percentage": 53.2,
+        "literate_female": 127411,
+        "literate_male": 220661,
+        "literate_total": 348072,
+        "male": 401171,
+        "percentage_population": 91.73,
+        "population": 796041,
+        "sex_ratio": 984
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/456-pratapgarh.html",
+    "urban": {
+        "child_population_female": 4148,
+        "child_population_male": 4619,
+        "child_population_percentage": 12.21,
+        "child_population_percentage_calculated": 12.21,
+        "child_population_percentage_stated": 12.21,
+        "child_population_total": 8767,
+        "child_sex_ratio": 898,
+        "female": 35234,
+        "literacy_rate_female": 77.15,
+        "literacy_rate_male": 92.2,
+        "literacy_rate_percentage": 84.78,
+        "literate_female": 23982,
+        "literate_male": 29461,
+        "literate_total": 53443,
+        "male": 36573,
+        "percentage_population": 8.27,
+        "population": 71807,
+        "sex_ratio": 963
+    }
+}

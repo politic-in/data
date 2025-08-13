@@ -1,0 +1,87 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Secunderabad Cantt.",
+  "district": "Hyderabad",
+  "ac_type": "SC",
+  "results": {
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 202930,
+        "total_votes_polled": 110270,
+        "turnout_percentage": 54.3,
+        "total_valid_votes": 110257,
+        "total_valid_votes_percentage": 54.3,
+        "margin_votes": 4183,
+        "margin_percentage": 3.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr.P.Shanker Rao",
+          "party": "Indian National Congress",
+          "votes": 36853,
+          "votes_percentage": 33.4
+        },
+        {
+          "position": 2,
+          "name": "G.Sayanna",
+          "party": "Telugu Desam",
+          "votes": 32670,
+          "votes_percentage": 29.6
+        },
+        {
+          "position": 3,
+          "name": "Narra Ravi Kumar",
+          "party": "Praja Rajyam Party",
+          "votes": 19351,
+          "votes_percentage": 17.6
+        },
+        {
+          "position": 4,
+          "name": "V.R.Vijaya Rama Raju",
+          "party": "Lok Satta Party",
+          "votes": 9665,
+          "votes_percentage": 8.8
+        },
+        {
+          "position": 5,
+          "name": "K.Ramulu",
+          "party": "Bharatiya Janta Party",
+          "votes": 7584,
+          "votes_percentage": 6.9
+        },
+        {
+          "position": 6,
+          "name": "Ravula Anjaiah",
+          "party": "Bahujan Samaj Party",
+          "votes": 2363,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 7,
+          "name": "D.B.Devender",
+          "party": "Independent",
+          "votes": 846,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 8,
+          "name": "Ragati Sathyam Maadiga",
+          "party": "Trilinga Praja Pragati Party",
+          "votes": 607,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 9,
+          "name": "M.J.Ramu",
+          "party": "Samajwadi Party",
+          "votes": 318,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

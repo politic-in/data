@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 138229,
+        "male": 145504,
+        "percentage_of_total_population": 14.71,
+        "percentage_of_total_population_calculated": 14.71,
+        "percentage_of_total_population_stated": 14.71,
+        "sex_ratio": 950,
+        "total": 283733
+    },
+    "literacy": {
+        "female_literacy_rate": 48.73,
+        "female_literate": 402556,
+        "male_literacy_rate": 70.47,
+        "male_literate": 577213,
+        "rate_percentage": 59.56,
+        "total_literate": 979769
+    },
+    "population": {
+        "female": 964301,
+        "male": 964511,
+        "sex_ratio": 1000,
+        "total": 1928812
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.12,
+            "population": 2265
+        },
+        "Christian": {
+            "percentage": 0.54,
+            "population": 10394
+        },
+        "Hindu": {
+            "percentage": 84.72,
+            "population": 1634062
+        },
+        "Jain": {
+            "percentage": 0.22,
+            "population": 4156
+        },
+        "Muslims": {
+            "percentage": 14.1,
+            "population": 272022
+        },
+        "Not Stated": {
+            "percentage": 0.28,
+            "population": 5346
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 29
+        },
+        "Sikh": {
+            "percentage": 0.03,
+            "population": 538
+        }
+    },
+    "rural": {
+        "child_population_female": 107133,
+        "child_population_male": 112671,
+        "child_population_percentage": 15.28,
+        "child_population_percentage_calculated": 15.28,
+        "child_population_percentage_stated": 15.28,
+        "child_population_total": 219804,
+        "child_sex_ratio": 951,
+        "female": 720492,
+        "literacy_rate_female": 42.37,
+        "literacy_rate_male": 66.01,
+        "literacy_rate_percentage": 54.11,
+        "literate_female": 259853,
+        "literate_male": 399587,
+        "literate_total": 659440,
+        "male": 717972,
+        "percentage_population": 74.58,
+        "population": 1438464,
+        "sex_ratio": 1004
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/264-raichur.html",
+    "urban": {
+        "child_population_female": 31132,
+        "child_population_male": 32797,
+        "child_population_percentage": 13.04,
+        "child_population_percentage_calculated": 13.04,
+        "child_population_percentage_stated": 13.04,
+        "child_population_total": 63929,
+        "child_sex_ratio": 949,
+        "female": 243809,
+        "literacy_rate_female": 67.1,
+        "literacy_rate_male": 83.1,
+        "literacy_rate_percentage": 75.12,
+        "literate_female": 142703,
+        "literate_male": 177626,
+        "literate_total": 320329,
+        "male": 246539,
+        "percentage_population": 25.42,
+        "population": 490348,
+        "sex_ratio": 989
+    }
+}

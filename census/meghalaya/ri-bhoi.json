@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 25795,
+        "male": 27067,
+        "percentage_of_total_population": 20.42,
+        "percentage_of_total_population_calculated": 20.42,
+        "percentage_of_total_population_stated": 20.42,
+        "sex_ratio": 953,
+        "total": 52862
+    },
+    "literacy": {
+        "female_literacy_rate": 74.49,
+        "female_literate": 74882,
+        "male_literacy_rate": 76.79,
+        "male_literate": 80977,
+        "rate_percentage": 75.67,
+        "total_literate": 155859
+    },
+    "population": {
+        "female": 126309,
+        "male": 132531,
+        "sex_ratio": 953,
+        "total": 258840
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.17,
+            "population": 428
+        },
+        "Christian": {
+            "percentage": 84.42,
+            "population": 218508
+        },
+        "Hindu": {
+            "percentage": 11.96,
+            "population": 30945
+        },
+        "Jain": {
+            "percentage": 0.02,
+            "population": 49
+        },
+        "Muslims": {
+            "percentage": 0.71,
+            "population": 1838
+        },
+        "Not Stated": {
+            "percentage": 0.23,
+            "population": 598
+        },
+        "Others": {
+            "percentage": 2.44,
+            "population": 6308
+        },
+        "Sikh": {
+            "percentage": 0.06,
+            "population": 166
+        }
+    },
+    "rural": {
+        "child_population_female": 23764,
+        "child_population_male": 24963,
+        "child_population_percentage": 20.86,
+        "child_population_percentage_calculated": 20.86,
+        "child_population_percentage_stated": 20.86,
+        "child_population_total": 48727,
+        "child_sex_ratio": 952,
+        "female": 114882,
+        "literacy_rate_female": 73.68,
+        "literacy_rate_male": 75.4,
+        "literacy_rate_percentage": 74.55,
+        "literate_female": 67135,
+        "literate_male": 70682,
+        "literate_total": 137817,
+        "male": 118705,
+        "percentage_population": 90.24,
+        "population": 233587,
+        "sex_ratio": 968
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/383-ri-bhoi.html",
+    "urban": {
+        "child_population_female": 2024,
+        "child_population_male": 2111,
+        "child_population_percentage": 16.37,
+        "child_population_percentage_calculated": 16.37,
+        "child_population_percentage_stated": 16.37,
+        "child_population_total": 4135,
+        "child_sex_ratio": 959,
+        "female": 11427,
+        "literacy_rate_female": 82.39,
+        "literacy_rate_male": 87.88,
+        "literacy_rate_percentage": 85.43,
+        "literate_female": 7747,
+        "literate_male": 10295,
+        "literate_total": 18042,
+        "male": 13826,
+        "percentage_population": 9.76,
+        "population": 25253,
+        "sex_ratio": 826
+    }
+}

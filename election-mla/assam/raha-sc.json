@@ -1,0 +1,43 @@
+{
+  "state": "Assam",
+  "constituency": "Raha (SC)",
+  "district": "Nagaon",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 188650,
+        "total_votes_polled": 159575,
+        "turnout_percentage": 85.7,
+        "margin_votes": 33074,
+        "margin_percentage": 20.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dimbeswar Das",
+          "party": "Bharatiya Janta Party",
+          "votes": 76941,
+          "votes_percentage": 48.2
+        },
+        {
+          "position": 2,
+          "name": "Sashi Kanta Das",
+          "party": "Indian National Congress",
+          "votes": 43867,
+          "votes_percentage": 27.5
+        },
+        {
+          "position": 3,
+          "name": "Guneswar Das",
+          "party": "All India United Democratic Front",
+          "votes": 38767,
+          "votes_percentage": 24.3
+        }
+      ]
+    }
+  }
+}

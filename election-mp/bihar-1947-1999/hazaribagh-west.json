@@ -1,0 +1,41 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "HAZARIBAGH WEST",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 332278,
+        "total_votes_polled": 118881,
+        "turnout_percentage": 35.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ram Narayan Singh",
+          "party": "Chota Nagpur Santhal Parganas Janta Party",
+          "votes": 67824,
+          "votes_percentage": 57.1
+        },
+        {
+          "position": 2,
+          "name": "Jhani Ram",
+          "party": "Indian National Congress",
+          "votes": 42183,
+          "votes_percentage": 35.5
+        },
+        {
+          "position": 3,
+          "name": "Sheo Mangal Prasad",
+          "party": "Socialist Party",
+          "votes": 8874,
+          "votes_percentage": 7.5
+        }
+      ]
+    }
+  }
+}

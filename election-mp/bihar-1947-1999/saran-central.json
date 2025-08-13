@@ -1,0 +1,41 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "SARAN CENTRAL",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 358504,
+        "total_votes_polled": 121823,
+        "turnout_percentage": 34.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mahendra Nath Singh",
+          "party": "Indian National Congress",
+          "votes": 67011,
+          "votes_percentage": 55.0
+        },
+        {
+          "position": 2,
+          "name": "Sukdeo Prasad",
+          "party": "Socialist Party",
+          "votes": 28144,
+          "votes_percentage": 23.1
+        },
+        {
+          "position": 3,
+          "name": "Mahamaya Prasad Sinha",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 26668,
+          "votes_percentage": 21.9
+        }
+      ]
+    }
+  }
+}

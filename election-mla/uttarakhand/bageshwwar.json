@@ -1,0 +1,77 @@
+{
+  "state": "Uttarakhand",
+  "constituency": "BAGESHWWAR",
+  "district": "Bageshwar",
+  "ac_type": "SC",
+  "results": {
+    "2022": {
+      "poll_date": "14 February 2022",
+      "counting_date": "10 March 2022",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_votes_polled": 73807,
+        "turnout_percentage": 0.0,
+        "margin_votes": 12141,
+        "margin_percentage": 16.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chandan Ram Dass",
+          "party": "Bharatiya Janta Party",
+          "votes": 32211,
+          "votes_percentage": 43.6
+        },
+        {
+          "position": 2,
+          "name": "Ranjeet Das",
+          "party": "Indian National Congress",
+          "votes": 20070,
+          "votes_percentage": 27.2
+        },
+        {
+          "position": 3,
+          "name": "Basant Kumar",
+          "party": "Aam Aadmi Party",
+          "votes": 16109,
+          "votes_percentage": 21.8
+        },
+        {
+          "position": 4,
+          "name": "Bharav Nath Tamta",
+          "party": "Independent",
+          "votes": 1877,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 5,
+          "name": "Balkrishna",
+          "party": "Independent",
+          "votes": 1512,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 6,
+          "name": "Dinesh Ram",
+          "party": "Independent",
+          "votes": 798,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 7,
+          "name": "Om Prakash",
+          "party": "Bahujan Samaj Party",
+          "votes": 722,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 8,
+          "name": "Laxmi Devi",
+          "party": "Samajwadi Party",
+          "votes": 508,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

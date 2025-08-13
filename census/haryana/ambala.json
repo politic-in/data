@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 57143,
+        "male": 70546,
+        "percentage_of_total_population": 11.32,
+        "percentage_of_total_population_calculated": 11.32,
+        "percentage_of_total_population_stated": 11.32,
+        "sex_ratio": 810,
+        "total": 127689
+    },
+    "literacy": {
+        "female_literacy_rate": 75.5,
+        "female_literate": 356737,
+        "male_literacy_rate": 87.34,
+        "male_literate": 461288,
+        "rate_percentage": 81.75,
+        "total_literate": 818025
+    },
+    "population": {
+        "female": 529647,
+        "male": 598703,
+        "sex_ratio": 885,
+        "total": 1128350
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.03,
+            "population": 381
+        },
+        "Christian": {
+            "percentage": 0.33,
+            "population": 3705
+        },
+        "Hindu": {
+            "percentage": 84.65,
+            "population": 955096
+        },
+        "Jain": {
+            "percentage": 0.43,
+            "population": 4845
+        },
+        "Muslims": {
+            "percentage": 1.96,
+            "population": 22143
+        },
+        "Not Stated": {
+            "percentage": 0.34,
+            "population": 3868
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 110
+        },
+        "Sikh": {
+            "percentage": 12.25,
+            "population": 138202
+        }
+    },
+    "rural": {
+        "child_population_female": 32958,
+        "child_population_male": 41467,
+        "child_population_percentage": 11.86,
+        "child_population_percentage_calculated": 11.86,
+        "child_population_percentage_stated": 11.86,
+        "child_population_total": 74425,
+        "child_sex_ratio": 795,
+        "female": 295873,
+        "literacy_rate_female": 69.36,
+        "literacy_rate_male": 84.17,
+        "literacy_rate_percentage": 77.13,
+        "literate_female": 182360,
+        "literate_male": 244282,
+        "literate_total": 426642,
+        "male": 331703,
+        "percentage_population": 55.62,
+        "population": 627576,
+        "sex_ratio": 892
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/209-ambala.html",
+    "urban": {
+        "child_population_female": 24190,
+        "child_population_male": 29074,
+        "child_population_percentage": 10.64,
+        "child_population_percentage_calculated": 10.64,
+        "child_population_percentage_stated": 10.64,
+        "child_population_total": 53264,
+        "child_sex_ratio": 832,
+        "female": 233774,
+        "literacy_rate_female": 83.2,
+        "literacy_rate_male": 91.21,
+        "literacy_rate_percentage": 87.46,
+        "literate_female": 174377,
+        "literate_male": 217006,
+        "literate_total": 391383,
+        "male": 267000,
+        "percentage_population": 44.38,
+        "population": 500774,
+        "sex_ratio": 876
+    }
+}

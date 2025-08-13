@@ -1,0 +1,105 @@
+{
+  "district": "Kancheepuram",
+  "state": "Tamil Nadu",
+  "census_year": 2011,
+  "source": "https://www.census2011.co.in/census/district/22-kancheepuram.html",
+  "population": {
+    "total": 3998252,
+    "male": 2012958,
+    "female": 1985294,
+    "sex_ratio": 986
+  },
+  "area_distribution": {
+    "urban": {
+      "percentage_of_total_population": 63.49,
+      "total_population": 2538336,
+      "male": 1277979,
+      "female": 1260357,
+      "sex_ratio": 986,
+      "child_population_0_6": {
+        "total": 272948,
+        "male": 139442,
+        "female": 133506,
+        "sex_ratio": 957,
+        "percentage_of_urban_population": 10.75
+      },
+      "literacy": {
+        "rate": 89.39,
+        "male_rate": 93.49,
+        "female_rate": 85.24,
+        "total_literates": 2025004
+      }
+    },
+    "rural": {
+      "percentage_of_total_population": 36.51,
+      "total_population": 1459916,
+      "male": 734979,
+      "female": 724937,
+      "sex_ratio": 986,
+      "child_population_0_6": {
+        "total": 158626,
+        "male": 80899,
+        "female": 77727,
+        "sex_ratio": 961,
+        "percentage_of_rural_population": 10.87
+      },
+      "literacy": {
+        "rate": 75.95,
+        "male_rate": 83.63,
+        "female_rate": 68.2,
+        "total_literates": 988378
+      }
+    }
+  },
+  "age_groups": {
+    "children_0_6_years": {
+      "total": 431574,
+      "male": 220341,
+      "female": 211233,
+      "sex_ratio": 959,
+      "percentage_of_total_population": 10.79
+    }
+  },
+  "literacy_overall_district": {
+    "rate": 84.49,
+    "male_rate": 89.89,
+    "female_rate": 79.02,
+    "total_literates": 3013382
+  },
+  "religion_distribution": {
+    "hindu": {
+      "percentage": 88.47,
+      "population": 3537399
+    },
+    "muslim": {
+      "percentage": 4.35,
+      "population": 173785
+    },
+    "christian": {
+      "percentage": 6.42,
+      "population": 256762
+    },
+    "sikh": {
+      "percentage": 0.04,
+      "population": 1620
+    },
+    "buddhist": {
+      "percentage": 0.02,
+      "population": 990
+    },
+    "jain": {
+      "percentage": 0.12,
+      "population": 4962
+    },
+    "other_religions": {
+      "percentage": 0.02,
+      "population": 756
+    },
+    "not_stated": {
+      "percentage": 0.55,
+      "population": 21978
+    }
+  },
+  "scheduled_caste_sc_population": null,
+  "scheduled_tribe_st_population": null
+}

@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 50474,
+        "male": 52686,
+        "percentage_of_total_population": 8.76,
+        "percentage_of_total_population_calculated": 8.76,
+        "percentage_of_total_population_stated": 8.76,
+        "sex_ratio": 958,
+        "total": 103160
+    },
+    "literacy": {
+        "female_literacy_rate": 81.58,
+        "female_literate": 460725,
+        "male_literacy_rate": 91.41,
+        "male_literate": 465704,
+        "rate_percentage": 86.24,
+        "total_literate": 926429
+    },
+    "population": {
+        "female": 615230,
+        "male": 562131,
+        "sex_ratio": 1094,
+        "total": 1177361
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 161
+        },
+        "Christian": {
+            "percentage": 5.59,
+            "population": 65838
+        },
+        "Hindu": {
+            "percentage": 85.72,
+            "population": 1009179
+        },
+        "Jain": {
+            "percentage": 0.39,
+            "population": 4534
+        },
+        "Muslims": {
+            "percentage": 8.22,
+            "population": 96740
+        },
+        "Not Stated": {
+            "percentage": 0.04,
+            "population": 522
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 155
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 232
+        }
+    },
+    "rural": {
+        "child_population_female": 36391,
+        "child_population_male": 37902,
+        "child_population_percentage": 8.81,
+        "child_population_percentage_calculated": 8.81,
+        "child_population_percentage_stated": 8.81,
+        "child_population_total": 74293,
+        "child_sex_ratio": 960,
+        "female": 444453,
+        "literacy_rate_female": 78.65,
+        "literacy_rate_male": 89.85,
+        "literacy_rate_percentage": 83.91,
+        "literate_female": 320937,
+        "literate_male": 324309,
+        "literate_total": 645246,
+        "male": 398847,
+        "percentage_population": 71.63,
+        "population": 843300,
+        "sex_ratio": 1114
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/268-udupi.html",
+    "urban": {
+        "child_population_female": 14080,
+        "child_population_male": 14787,
+        "child_population_percentage": 8.64,
+        "child_population_percentage_calculated": 8.64,
+        "child_population_percentage_stated": 8.64,
+        "child_population_total": 28867,
+        "child_sex_ratio": 952,
+        "female": 170777,
+        "literacy_rate_female": 89.21,
+        "literacy_rate_male": 95.22,
+        "literacy_rate_percentage": 92.13,
+        "literate_female": 139788,
+        "literate_male": 141395,
+        "literate_total": 281183,
+        "male": 163284,
+        "percentage_population": 28.37,
+        "population": 334061,
+        "sex_ratio": 1046
+    }
+}

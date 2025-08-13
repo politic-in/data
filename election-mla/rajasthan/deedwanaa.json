@@ -1,0 +1,85 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Deedwanaa",
+  "district": "Nagaur",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 228431,
+        "total_votes_polled": 164505,
+        "turnout_percentage": 72.7,
+        "margin_votes": 40602,
+        "margin_percentage": 24.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chetan Singh Choudhary",
+          "party": "Indian National Congress",
+          "votes": 92981,
+          "votes_percentage": 56.5
+        },
+        {
+          "position": 2,
+          "name": "Jitendra Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 52379,
+          "votes_percentage": 31.8
+        },
+        {
+          "position": 3,
+          "name": "Hakeem Khan",
+          "party": "Aam Aadmi Party",
+          "votes": 7177,
+          "votes_percentage": 4.4
+        },
+        {
+          "position": 4,
+          "name": "Raju Ram",
+          "party": "Independent",
+          "votes": 3339,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 5,
+          "name": "Mangej Singh",
+          "party": "Independent",
+          "votes": 3101,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 6,
+          "name": "Ganesha Ram",
+          "party": "Bahujan Samaj Party",
+          "votes": 2748,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 7,
+          "name": "Sher Singh",
+          "party": "Independent",
+          "votes": 1499,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 8,
+          "name": "Laxminiwas",
+          "party": "Dalit Soshit Pichhara Varg Adhikar Dal",
+          "votes": 984,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 9,
+          "name": "Gopal Ram",
+          "party": "Independent",
+          "votes": 297,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

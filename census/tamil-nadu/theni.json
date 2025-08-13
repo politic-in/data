@@ -1,0 +1,113 @@
+{
+  "district": "Theni",
+  "state": "Tamil Nadu",
+  "data_source": {
+    "primary": "https://www.census2011.co.in/census/district/46-theni.html",
+    "sc_st": "https://www.censusindia.co.in/district/theni-district-tamil-nadu-624"
+  },
+  "population": {
+    "total": 1245899,
+    "male": 625683,
+    "female": 620216,
+    "sex_ratio": 991
+  },
+  "child_population": {
+    "total_0_6_years": 119661,
+    "male_0_6_years": 61873,
+    "female_0_6_years": 57788,
+    "sex_ratio_0_6_years": 934,
+    "percentage_of_total_population_0_6_years": 9.6
+  },
+  "literacy": {
+    "rate_percentage": 77.26,
+    "total_literate": 870080,
+    "male_literate": 479403,
+    "female_literate": 390677,
+    "male_literacy_rate_percentage": 85.03,
+    "female_literacy_rate_percentage": 69.46
+  },
+  "urban_population": {
+    "percentage_of_total_population": 53.82,
+    "population": 670481,
+    "male": 334803,
+    "female": 335678,
+    "sex_ratio": 1003,
+    "child_population_0_6_years": 63164,
+    "child_male_0_6_years": 32597,
+    "child_female_0_6_years": 30567,
+    "child_sex_ratio_0_6_years": 938,
+    "child_percentage_of_urban_population_0_6_years": 9.42,
+    "literacy_rate_percentage": 81.25,
+    "literate": 493430,
+    "male_literate": 265833,
+    "female_literate": 227597,
+    "male_literacy_rate_percentage": 87.96,
+    "female_literacy_rate_percentage": 74.59
+  },
+  "rural_population": {
+    "percentage_of_total_population": 46.18,
+    "population": 575418,
+    "male": 290880,
+    "female": 284538,
+    "sex_ratio": 978,
+    "child_population_0_6_years": 56497,
+    "child_male_0_6_years": 29276,
+    "child_female_0_6_years": 27221,
+    "child_sex_ratio_0_6_years": 930,
+    "child_percentage_of_rural_population_0_6_years": 9.82,
+    "literacy_rate_percentage": 72.58,
+    "literate": 376650,
+    "male_literate": 213570,
+    "female_literate": 163080,
+    "male_literacy_rate_percentage": 81.64,
+    "female_literacy_rate_percentage": 63.38
+  },
+  "religion_distribution": {
+    "hindu": {
+      "percentage": 92.22,
+      "population": 1148990
+    },
+    "muslim": {
+      "percentage": 4.56,
+      "population": 56751
+    },
+    "christian": {
+      "percentage": 3.02,
+      "population": 37574
+    },
+    "sikh": {
+      "percentage": 0.01,
+      "population": 152
+    },
+    "buddhist": {
+      "percentage": 0.01,
+      "population": 79
+    },
+    "jain": {
+      "percentage": 0.0,
+      "population": 28
+    },
+    "others": {
+      "percentage": 0.01,
+      "population": 74
+    },
+    "not_stated": {
+      "percentage": 0.18,
+      "population": 2251
+    }
+  },
+  "sc_st_population": {
+    "scheduled_caste": {
+      "total": 258200,
+      "percentage_of_total_population": 20.7,
+      "male": 129900,
+      "female": 128300
+    },
+    "scheduled_tribe": {
+      "total": 1835,
+      "percentage_of_total_population": 0.1,
+      "male": 954,
+      "female": 881
+    }
+  }
+}

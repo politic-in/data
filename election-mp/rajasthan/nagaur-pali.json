@@ -1,0 +1,48 @@
+{
+  "state": "Rajasthan",
+  "constituency": "NAGAUR PALI",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 383209,
+        "total_votes_polled": 200411,
+        "turnout_percentage": 52.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gajadhar",
+          "party": "Independent",
+          "votes": 94105,
+          "votes_percentage": 47.0
+        },
+        {
+          "position": 2,
+          "name": "Pittie Govinglal",
+          "party": "Indian National Congress",
+          "votes": 79640,
+          "votes_percentage": 39.7
+        },
+        {
+          "position": 3,
+          "name": "Badri Dan",
+          "party": "Independent",
+          "votes": 17460,
+          "votes_percentage": 8.7
+        },
+        {
+          "position": 4,
+          "name": "Ram Karan",
+          "party": "Independent",
+          "votes": 9206,
+          "votes_percentage": 4.6
+        }
+      ]
+    }
+  }
+}

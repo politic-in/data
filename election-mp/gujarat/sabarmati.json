@@ -1,0 +1,43 @@
+{
+  "state": "Gujarat",
+  "constituency": "SABARMATI",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 454460,
+        "total_votes_polled": 274322,
+        "turnout_percentage": 60.4,
+        "margin_votes": 44211,
+        "margin_percentage": 16.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Muldas Bhudardas Vaishya",
+          "party": "Indian National Congress",
+          "votes": 128242,
+          "votes_percentage": 46.7
+        },
+        {
+          "position": 2,
+          "name": "Gulabray Hiralal Maraya",
+          "party": "Swatantra",
+          "votes": 84031,
+          "votes_percentage": 30.6
+        },
+        {
+          "position": 3,
+          "name": "Karshandas Ukabhai Parmar",
+          "party": "Republican Party",
+          "votes": 47308,
+          "votes_percentage": 17.2
+        }
+      ]
+    }
+  }
+}

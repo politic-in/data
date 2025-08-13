@@ -1,0 +1,575 @@
+{
+  "state": "Chhattisgarh",
+  "constituency": "Bemetara",
+  "district": "Durg",
+  "ac_type": "GEN",
+  "results": {
+    "2023": {
+      "poll_date": "07 November 2023",
+      "counting_date": "03 December 2023",
+      "total_contestants": 18,
+      "aggregate": {
+        "total_electors": 494404,
+        "total_votes_polled": 196533,
+        "turnout_percentage": 39.9,
+        "margin_votes": 9134,
+        "margin_percentage": 4.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dipesh Sahu",
+          "party": "Bharatiya Janta Party",
+          "votes": 97731,
+          "votes_percentage": 49.6
+        },
+        {
+          "position": 2,
+          "name": "Ashish Chhabda",
+          "party": "Indian National Congress",
+          "votes": 88597,
+          "votes_percentage": 45.0
+        },
+        {
+          "position": 3,
+          "name": "Rohit Sinha",
+          "party": "Independent",
+          "votes": 2880,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 4,
+          "name": "Jitendra Navarange",
+          "party": "Independent",
+          "votes": 2165,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Sushil Koshle",
+          "party": "Independent",
+          "votes": 1040,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Sanjeev Agrawal",
+          "party": "Independent",
+          "votes": 702,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Pramod Kumar Sahu",
+          "party": "Aam Aadmi Party",
+          "votes": 697,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Rukhmani Nishad",
+          "party": "Johar Chhattisgarh Party",
+          "votes": 588,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Sukhdev Tandan",
+          "party": "Rashtriya Jansabha Party",
+          "votes": 556,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Arjunsingh Thakur",
+          "party": "Independent",
+          "votes": 485,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 11,
+          "name": "Bahal Singh Verma",
+          "party": "Janta Congress Chhattisgarh (J)",
+          "votes": 246,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Til Bai",
+          "party": "Rashtravadi Bharat Party",
+          "votes": 140,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Advocate Prasoon Shukla",
+          "party": "Azad Janata Party",
+          "votes": 135,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Bhuneshwar Gan",
+          "party": "Sarvadharam Party (MADHYA PRADESH)",
+          "votes": 131,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Umashankar Yadav",
+          "party": "Gondvana Gantantra Party",
+          "votes": 126,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "Girdhari Lal Dewangan",
+          "party": "Samajwadi Party",
+          "votes": 119,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 17,
+          "name": "Gopal Kurrey",
+          "party": "Baliraja Party",
+          "votes": 108,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 18,
+          "name": "Chandrabhan Sahu",
+          "party": "Bhartiya Shakti Chetna Party",
+          "votes": 87,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "2018": {
+      "poll_date": "20 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 15,
+      "aggregate": {
+        "total_electors": 220225,
+        "total_votes_polled": 169018,
+        "turnout_percentage": 78.5,
+        "margin_votes": 25131,
+        "margin_percentage": 14.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ashish Kumar Chhabra",
+          "party": "Indian National Congress",
+          "votes": 74914,
+          "votes_percentage": 44.3
+        },
+        {
+          "position": 2,
+          "name": "Awadhesh Singh Chandel",
+          "party": "Bharatiya Janta Party",
+          "votes": 49783,
+          "votes_percentage": 29.5
+        },
+        {
+          "position": 3,
+          "name": "Yogesh Tiwari",
+          "party": "Janta Congress Chhattisgarh (J)",
+          "votes": 28332,
+          "votes_percentage": 16.8
+        },
+        {
+          "position": 4,
+          "name": "Sanjeev Agrawal",
+          "party": "Independent",
+          "votes": 4374,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 5,
+          "name": "Sohan Lal Nishad",
+          "party": "Nirbal Indian Shoshit Hamara Aam Dal",
+          "votes": 4275,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 6,
+          "name": "Churaman Singh Sahu",
+          "party": "Janata Dal (United)",
+          "votes": 1713,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 7,
+          "name": "Anjor Dhas Mahant",
+          "party": "Independent",
+          "votes": 1332,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 8,
+          "name": "Ramchand Sahu",
+          "party": "Independent",
+          "votes": 969,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 9,
+          "name": "Dauram Chouhan",
+          "party": "Shiv Sena",
+          "votes": 638,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 10,
+          "name": "Saiyad Faruque Ali",
+          "party": "Aam Aadmi Party",
+          "votes": 613,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 11,
+          "name": "Yashwant Sitaram Sahu",
+          "party": "Bhartiya Shakti Chetna Party",
+          "votes": 526,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 12,
+          "name": "Rajesh Dubey",
+          "party": "Independent",
+          "votes": 469,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 13,
+          "name": "Manmohan Thakur",
+          "party": "Independent",
+          "votes": 375,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 14,
+          "name": "Bhuneshwar Satnami",
+          "party": "Independent",
+          "votes": 362,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 15,
+          "name": "Baldau Prasad Siware",
+          "party": "Ambedkarite Party Of India",
+          "votes": 343,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "19 November 2013",
+      "counting_date": "08 December 2013",
+      "total_contestants": 17,
+      "aggregate": {
+        "total_electors": 197174,
+        "total_votes_polled": 154518,
+        "turnout_percentage": 79.6,
+        "margin_votes": 15114,
+        "margin_percentage": 9.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Awadhesh Singh Chandel",
+          "party": "Bharatiya Janta Party",
+          "votes": 74162,
+          "votes_percentage": 48.0
+        },
+        {
+          "position": 2,
+          "name": "Tamradhwaj Sahu",
+          "party": "Indian National Congress",
+          "votes": 59048,
+          "votes_percentage": 38.2
+        },
+        {
+          "position": 3,
+          "name": "Shiv Kumar Sahu",
+          "party": "Independent",
+          "votes": 5731,
+          "votes_percentage": 3.7
+        },
+        {
+          "position": 4,
+          "name": "Jeevan Sahu",
+          "party": "Chattisgarh Swabhiman Manch",
+          "votes": 3823,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 5,
+          "name": "Laxmi Narayan Sahu",
+          "party": "Independent",
+          "votes": 2930,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 6,
+          "name": "Sanjay Mishra",
+          "party": "Independent",
+          "votes": 2421,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 7,
+          "name": "Bahal Singh Verma",
+          "party": "Bahujan Samaj Party",
+          "votes": 1549,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 8,
+          "name": "Chandra Kumar Sonwani",
+          "party": "Independent",
+          "votes": 1254,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 9,
+          "name": "Mohit Kumar Panday",
+          "party": "Independent",
+          "votes": 862,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 10,
+          "name": "Jirendra Nishad",
+          "party": "Gondvana Gantantra Party",
+          "votes": 632,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 11,
+          "name": "Santosh Kumar Patil",
+          "party": "Samajwadi Party",
+          "votes": 538,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 12,
+          "name": "Vishnu Koshle",
+          "party": "Bahujan Samaj Mukti Morcha",
+          "votes": 362,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 13,
+          "name": "Guru Dada Lokesh Mahraj",
+          "party": "Azad Janata Party",
+          "votes": 294,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 14,
+          "name": "Rohit Sinha",
+          "party": "National People's Party",
+          "votes": 243,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 15,
+          "name": "Prabha Devi Patel",
+          "party": "Bharatiya Bahujan Party",
+          "votes": 238,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 16,
+          "name": "Dukhit Ram",
+          "party": "Lok Jan Shakti Party",
+          "votes": 224,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 17,
+          "name": "Manoj Dubey",
+          "party": "Akhil Bhartiya Gondwana Party",
+          "votes": 207,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2008": {
+      "poll_date": "20 November 2008",
+      "counting_date": "08 December 2008",
+      "total_contestants": 12,
+      "aggregate": {
+        "total_electors": 175712,
+        "total_votes_polled": 122551,
+        "turnout_percentage": 69.8,
+        "margin_votes": 6473,
+        "margin_percentage": 5.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tamradhwaj Sahu",
+          "party": "Indian National Congress",
+          "votes": 57082,
+          "votes_percentage": 46.6
+        },
+        {
+          "position": 2,
+          "name": "Awadhesh Singh Chandel",
+          "party": "Bharatiya Janta Party",
+          "votes": 50609,
+          "votes_percentage": 41.3
+        },
+        {
+          "position": 3,
+          "name": "Snehlata Nayak",
+          "party": "Independent",
+          "votes": 5965,
+          "votes_percentage": 4.9
+        },
+        {
+          "position": 4,
+          "name": "Sati Anusuiya Thakur",
+          "party": "Independent",
+          "votes": 2532,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 5,
+          "name": "Rajesh Dubey",
+          "party": "Bahujan Samaj Party",
+          "votes": 1810,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 6,
+          "name": "Dhananjay Singh Parihar",
+          "party": "Shiv Sena",
+          "votes": 1205,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 7,
+          "name": "Ramesh Kumar Verma",
+          "party": "Independent",
+          "votes": 892,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 8,
+          "name": "Rohit Kumar Verma",
+          "party": "Independent",
+          "votes": 680,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 9,
+          "name": "Janaklal Verma",
+          "party": "Chhattisgarh Vikas Party",
+          "votes": 471,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 10,
+          "name": "Guruwa Bai",
+          "party": "Independent",
+          "votes": 450,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 11,
+          "name": "Baldau Prasad Siware",
+          "party": "Independent",
+          "votes": 446,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 12,
+          "name": "Sanjay Tiwari",
+          "party": "Bharatiya Jan Shakti",
+          "votes": 409,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2003": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 134914,
+        "total_votes_polled": 91187,
+        "turnout_percentage": 67.6,
+        "margin_votes": 12242,
+        "margin_percentage": 13.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr. Chetan Verma",
+          "party": "Indian National Congress",
+          "votes": 39830,
+          "votes_percentage": 43.7
+        },
+        {
+          "position": 2,
+          "name": "Sharda Mahesh Tiwari",
+          "party": "Bharatiya Janta Party",
+          "votes": 27588,
+          "votes_percentage": 30.3
+        },
+        {
+          "position": 3,
+          "name": "Devdatta Singh Verma",
+          "party": "Nationalist Congress Party",
+          "votes": 9361,
+          "votes_percentage": 10.3
+        },
+        {
+          "position": 4,
+          "name": "Dhananjay Singh Parihar",
+          "party": "Independent",
+          "votes": 4298,
+          "votes_percentage": 4.7
+        },
+        {
+          "position": 5,
+          "name": "Bedan Lal Gendre",
+          "party": "Bahujan Samaj Party",
+          "votes": 4021,
+          "votes_percentage": 4.4
+        },
+        {
+          "position": 6,
+          "name": "Tiku Ram Nishad",
+          "party": "Jai Prakash Janata Dal",
+          "votes": 2871,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 7,
+          "name": "Tekram Koushaley",
+          "party": "Independent",
+          "votes": 1382,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 8,
+          "name": "Bal Ram Tandan",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 996,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 9,
+          "name": "Manish Kumar Chhabara",
+          "party": "Janata Dal (United)",
+          "votes": 778,
+          "votes_percentage": 0.9
+        }
+      ]
+    }
+  }
+}

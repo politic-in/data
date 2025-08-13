@@ -1,0 +1,64 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Tuting-Yinkgkiong",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "1999": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 10677,
+        "total_votes_polled": 7780,
+        "turnout_percentage": 72.9,
+        "margin_votes": 1613,
+        "margin_percentage": 20.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gegong Apang",
+          "party": "Arunachal Congress",
+          "votes": 4591,
+          "votes_percentage": 60.7
+        },
+        {
+          "position": 2,
+          "name": "Anong Jongkey",
+          "party": "Indian National Congress",
+          "votes": 2978,
+          "votes_percentage": 39.3
+        }
+      ]
+    },
+    "1995": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 9228,
+        "total_votes_polled": 7868,
+        "turnout_percentage": 85.3,
+        "margin_votes": 4671,
+        "margin_percentage": 59.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gegong Apang",
+          "party": "Indian National Congress",
+          "votes": 6189,
+          "votes_percentage": 80.3
+        },
+        {
+          "position": 2,
+          "name": "Oteng Jongkey",
+          "party": "Janata Dal",
+          "votes": 1518,
+          "votes_percentage": 19.7
+        }
+      ]
+    }
+  }
+}

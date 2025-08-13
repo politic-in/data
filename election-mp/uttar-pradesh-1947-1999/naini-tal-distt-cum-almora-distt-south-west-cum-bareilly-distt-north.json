@@ -1,0 +1,34 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "NAINI TAL DISTT CUM ALMORA DISTT (SOUTH WEST) CUM BAREILLY DISTT (NORTH)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 341976,
+        "total_votes_polled": 129142,
+        "turnout_percentage": 37.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "C. D. Pande",
+          "party": "Indian National Congress",
+          "votes": 73314,
+          "votes_percentage": 56.8
+        },
+        {
+          "position": 2,
+          "name": "Dan Singh",
+          "party": "Socialist Party",
+          "votes": 54828,
+          "votes_percentage": 42.5
+        }
+      ]
+    }
+  }
+}

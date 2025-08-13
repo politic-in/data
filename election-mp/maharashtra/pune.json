@@ -1,0 +1,2444 @@
+{
+  "state": "Maharashtra",
+  "constituency": "Pune",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2024": {
+      "poll_date": "19 April 2024",
+      "counting_date": "01 June 2024",
+      "total_contestants": 35,
+      "aggregate": {
+        "total_electors": 2061276,
+        "total_votes_polled": 1104572,
+        "turnout_percentage": 53.6,
+        "margin_votes": 123038,
+        "margin_percentage": 11.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Murlidhar Mohol",
+          "party": "Bharatiya Janta Party",
+          "votes": 584728,
+          "votes_percentage": 52.9
+        },
+        {
+          "position": 2,
+          "name": "Dhangekar Ravindra Hemraj",
+          "party": "Indian National Congress",
+          "votes": 461690,
+          "votes_percentage": 41.8
+        },
+        {
+          "position": 3,
+          "name": "Vasant (TATYA) MORE",
+          "party": "Vanchit Bahujan Aaghadi",
+          "votes": 32012,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 4,
+          "name": "Ranpise Prashant Dadaram",
+          "party": "Bahujan Samaj Party",
+          "votes": 3974,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 5,
+          "name": "Chormale Sandip Sopan",
+          "party": "Independent",
+          "votes": 1645,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 6,
+          "name": "Gorakh Narayan Ghodke",
+          "party": "Independent",
+          "votes": 1451,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 7,
+          "name": "Kiran Laxman Raykar",
+          "party": "Independent",
+          "votes": 1052,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "Anis Arashid Sundake",
+          "party": "All India Majlis-E-Ittehadul Muslimeen",
+          "votes": 860,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Sachin Dattatray Dhankude",
+          "party": "Independent",
+          "votes": 789,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Yuvraj Chandrakant Limbole",
+          "party": "Right To Recall Party",
+          "votes": 698,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Dr. Devyani Pandit",
+          "party": "Independent",
+          "votes": 650,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Narendra Dnyaneshwar Pawtekar",
+          "party": "Independent",
+          "votes": 534,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 13,
+          "name": "Sagar Sambhaji Pore",
+          "party": "Independent",
+          "votes": 515,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 14,
+          "name": "Suresh Dnyanoba Patil",
+          "party": "Sainik Samaj Party",
+          "votes": 437,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 15,
+          "name": "Ambore Manjunath Maruti",
+          "party": "Independent",
+          "votes": 433,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 16,
+          "name": "Ashwini Pratibha Khairnar",
+          "party": "Independent",
+          "votes": 415,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 17,
+          "name": "Vijay Vinayak Jagtap",
+          "party": "Independent",
+          "votes": 382,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 18,
+          "name": "Hemant Baburav Kolekar Alias Hemant Patil",
+          "party": "Apni Prajahit Party",
+          "votes": 375,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 19,
+          "name": "Manoj Laxman Vetal",
+          "party": "Bhim Sena",
+          "votes": 352,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 20,
+          "name": "Neeraj Sunil Kamthan",
+          "party": "Hindu Samaj Party",
+          "votes": 351,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 21,
+          "name": "Kamble Milind",
+          "party": "Bahujan Samaj Party (AMBEDKAR)",
+          "votes": 347,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 22,
+          "name": "Chandrakant Parmeshwar Sawant",
+          "party": "Independent",
+          "votes": 314,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 23,
+          "name": "Shabbir Sajjanbhai Tamboli",
+          "party": "Independent",
+          "votes": 313,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 24,
+          "name": "Sanjay Laxman Kendale",
+          "party": "Independent",
+          "votes": 311,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 25,
+          "name": "Johnson Vasant Kolhapure",
+          "party": "Independent",
+          "votes": 305,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 26,
+          "name": "Adv. Yogesh Makane",
+          "party": "Independent",
+          "votes": 299,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 27,
+          "name": "Subroto Roy",
+          "party": "Ekam Sanatan Bharat Dal",
+          "votes": 294,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 28,
+          "name": "Dr. Balasaheb Arjun Pol",
+          "party": "Independent",
+          "votes": 259,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 29,
+          "name": "Vijayalaxmi Shrikant Sindagi",
+          "party": "Rashtriya Maratha Party",
+          "votes": 240,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 30,
+          "name": "Mahesh Dashrath Mhaske",
+          "party": "Independent",
+          "votes": 231,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 31,
+          "name": "Yabes Alias Amol Shamuvel Tujare",
+          "party": "Independent",
+          "votes": 223,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 32,
+          "name": "Vijay Pandurangrao Deshmukh (DABADGAONKAR)",
+          "party": "Independent",
+          "votes": 185,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 33,
+          "name": "Baba Salim Sayyed",
+          "party": "Independent",
+          "votes": 164,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 34,
+          "name": "Bagban Saleem Abdul Razzaque",
+          "party": "Independent",
+          "votes": 146,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 35,
+          "name": "Znyosho Vijayprakash",
+          "party": "Independent",
+          "votes": 138,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 31,
+      "aggregate": {
+        "total_electors": 1997594,
+        "total_votes_polled": 1035236,
+        "turnout_percentage": 52.4,
+        "margin_votes": 324628,
+        "margin_percentage": 31.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Girish Bhalchandra Bapat",
+          "party": "Bharatiya Janta Party",
+          "votes": 632835,
+          "votes_percentage": 61.1
+        },
+        {
+          "position": 2,
+          "name": "Mohan Joshi",
+          "party": "Indian National Congress",
+          "votes": 308207,
+          "votes_percentage": 29.8
+        },
+        {
+          "position": 3,
+          "name": "Anil Narayan Jadhav",
+          "party": "Vanchit Bahujan Aaghadi",
+          "votes": 64793,
+          "votes_percentage": 6.3
+        },
+        {
+          "position": 4,
+          "name": "Uttam Pandurang Shinde",
+          "party": "Bahujan Samaj Party",
+          "votes": 4792,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "Anand Prakash Vanjape",
+          "party": "Independent",
+          "votes": 1343,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 6,
+          "name": "Suhas Popat Gajarmal",
+          "party": "Rashtriya Janshakti Party (Secular)",
+          "votes": 1117,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 7,
+          "name": "Amol Jayraj Shinde",
+          "party": "Hum Bhartiya Party",
+          "votes": 959,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "Rajesh Surendrakumar Agarwal",
+          "party": "Hamari Apni Party",
+          "votes": 847,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Balasaheb Misal Patil",
+          "party": "Bahujan Mukti Party",
+          "votes": 780,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Johnson Vasant Kolhapure",
+          "party": "Independent",
+          "votes": 647,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Amol Alias Yabes S. Tujare",
+          "party": "Independent",
+          "votes": 624,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Sayyad Raj Faiyaz",
+          "party": "Bhartiya Kisan Party",
+          "votes": 601,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Jafar Khursid Choudhari",
+          "party": "Independent",
+          "votes": 554,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Adv. Ramesh Devaram Dharmavat",
+          "party": "People’s Union Party",
+          "votes": 547,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Adv. Kumar Devba Kalel Patil",
+          "party": "Independent",
+          "votes": 525,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "Sim Khirid",
+          "party": "Bahujan Maha Party",
+          "votes": 487,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 17,
+          "name": "Adv. Mahesh Gajendragadkar",
+          "party": "Swarna Bharat Party",
+          "votes": 446,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 18,
+          "name": "Kshirsagar Kanchan Devdas",
+          "party": "Independent",
+          "votes": 441,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 19,
+          "name": "Rahul Vishwas Joshi",
+          "party": "Independent",
+          "votes": 426,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 20,
+          "name": "Prof. Nalawade Hanmant Mahadeo",
+          "party": "Ambedkarite Party Of India",
+          "votes": 383,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 21,
+          "name": "Chincholikar Jayant Eknath",
+          "party": "Bahujan Republican Socialist Party",
+          "votes": 343,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 22,
+          "name": "Javed Shabbir Sayyed",
+          "party": "Independent",
+          "votes": 339,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 23,
+          "name": "Krupal Paluskar",
+          "party": "Prabuddha Republican Party",
+          "votes": 333,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 24,
+          "name": "Sanjay Baburao Jadhav",
+          "party": "Independent",
+          "votes": 309,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 25,
+          "name": "Znyosho Vijayprakash",
+          "party": "Independent",
+          "votes": 298,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 26,
+          "name": "Hemant Baburao Kolekar Patil Alias Hemant Patil",
+          "party": "Independent",
+          "votes": 265,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 27,
+          "name": "Vijay Laxaman Saroade",
+          "party": "Independent",
+          "votes": 230,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 28,
+          "name": "Nikhil Umesh Zingade",
+          "party": "Bharatiya Praja Surajya Paksha",
+          "votes": 225,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 29,
+          "name": "Rakesh Prabhakar Chavan",
+          "party": "Independent",
+          "votes": 207,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 30,
+          "name": "Ravindra Bansiram Mahapure",
+          "party": "Independent",
+          "votes": 171,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 31,
+          "name": "Sawant Chandrakant Parmeshwar",
+          "party": "Independent",
+          "votes": 161,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "17 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 29,
+      "aggregate": {
+        "total_electors": 1835836,
+        "total_votes_polled": 993274,
+        "turnout_percentage": 54.1,
+        "margin_votes": 315769,
+        "margin_percentage": 31.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Anil Shirole",
+          "party": "Bharatiya Janta Party",
+          "votes": 569825,
+          "votes_percentage": 57.4
+        },
+        {
+          "position": 2,
+          "name": "Dr.Vishwajeet Patangrao Kadam",
+          "party": "Indian National Congress",
+          "votes": 254056,
+          "votes_percentage": 25.6
+        },
+        {
+          "position": 3,
+          "name": "Deepak Natharam Paigude",
+          "party": "Maharashtra Navnirman Sena",
+          "votes": 93502,
+          "votes_percentage": 9.4
+        },
+        {
+          "position": 4,
+          "name": "Ware Subhash Shankarrao",
+          "party": "Aam Aadmi Party",
+          "votes": 28657,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 5,
+          "name": "Imtiyaz Peerzade",
+          "party": "Bahujan Samaj Party",
+          "votes": 14727,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 6,
+          "name": "Arun Bhatia",
+          "party": "Peoples Guardian",
+          "votes": 7222,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Dambale Rahul Dharma",
+          "party": "Independent",
+          "votes": 2259,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "Colonel Jayantrao Chitale",
+          "party": "Independent",
+          "votes": 1884,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Nana Kshirsagar",
+          "party": "Bharipa Bahujan Mahasangh",
+          "votes": 1797,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Col Suresh Patil (RTD)",
+          "party": "Bahujan Mukti Party",
+          "votes": 1324,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Devkule Bibhishan Jagannath",
+          "party": "Independent",
+          "votes": 1230,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Saiyyad Afser Ibrahim",
+          "party": "Samajwadi Party",
+          "votes": 1131,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Manchak Trimbakrao Karale",
+          "party": "Independent",
+          "votes": 1028,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Shivaji Pandurang Adhav",
+          "party": "Independent",
+          "votes": 868,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Nilesh Dhanave",
+          "party": "Independent",
+          "votes": 840,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "Dinesh Pandurang Pawar",
+          "party": "Independent",
+          "votes": 692,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 17,
+          "name": "Sushama Pandurang Gaikwad",
+          "party": "Independent",
+          "votes": 590,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 18,
+          "name": "Ashapak Shaikh",
+          "party": "Independent",
+          "votes": 585,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 19,
+          "name": "Santosh Pawar",
+          "party": "Independent",
+          "votes": 565,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 20,
+          "name": "Bansode Chayya Tukaram",
+          "party": "Independent",
+          "votes": 512,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 21,
+          "name": "Umesh Bhujang Masankhamb",
+          "party": "Independent",
+          "votes": 494,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 22,
+          "name": "Sanjay Laxman Padwal",
+          "party": "Bhartiya Navjawan Sena (Paksha)",
+          "votes": 477,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 23,
+          "name": "Yadav Gangadhar Nathu",
+          "party": "Independent",
+          "votes": 455,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 24,
+          "name": "Khirid Simkumar Bhagwan",
+          "party": "Independent",
+          "votes": 380,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 25,
+          "name": "Rupali Tamboli",
+          "party": "Independent",
+          "votes": 378,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 26,
+          "name": "Shashikant Bhikaji Owhal",
+          "party": "Independent",
+          "votes": 359,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 27,
+          "name": "Azam Vakil Maniyar",
+          "party": "Independent",
+          "votes": 353,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 28,
+          "name": "Ajay Vasant Paithankar",
+          "party": "Independent",
+          "votes": 343,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 29,
+          "name": "Vijay Laxman Sarode",
+          "party": "Independent",
+          "votes": 303,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 36,
+      "aggregate": {
+        "total_electors": 1806953,
+        "total_votes_polled": 734482,
+        "turnout_percentage": 40.7,
+        "margin_votes": 25701,
+        "margin_percentage": 3.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kalmadi Suresh",
+          "party": "Indian National Congress",
+          "votes": 279973,
+          "votes_percentage": 38.1
+        },
+        {
+          "position": 2,
+          "name": "Anil Shirole",
+          "party": "Bharatiya Janta Party",
+          "votes": 254272,
+          "votes_percentage": 34.6
+        },
+        {
+          "position": 3,
+          "name": "Shirole Ranjeet Shrikant",
+          "party": "Maharashtra Navnirman Sena",
+          "votes": 75930,
+          "votes_percentage": 10.3
+        },
+        {
+          "position": 4,
+          "name": "D S K Alias D.S.Kulkarni",
+          "party": "Bahujan Samaj Party",
+          "votes": 62981,
+          "votes_percentage": 8.6
+        },
+        {
+          "position": 5,
+          "name": "Arun Bhatia",
+          "party": "Peoples Guardian",
+          "votes": 30340,
+          "votes_percentage": 4.1
+        },
+        {
+          "position": 6,
+          "name": "Khan Amanulla Mohmod Al",
+          "party": "Independent",
+          "votes": 3088,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Gulab Tatya Waghmode",
+          "party": "Bharipa Bahujan Mahasangh",
+          "votes": 2354,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Kamtam Iswar Sambhayya",
+          "party": "Independent",
+          "votes": 2224,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Vikram Narendra Boke",
+          "party": "Independent",
+          "votes": 2172,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Balu Alias Anil Shirole",
+          "party": "Independent",
+          "votes": 2158,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 11,
+          "name": "Kulkarni Kaustubh Shashikant",
+          "party": "Independent",
+          "votes": 2013,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 12,
+          "name": "Sangharsh Arun Apte",
+          "party": "Prabuddha Republican Party",
+          "votes": 1417,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 13,
+          "name": "Tatya Alias Narayan Shankar Wambhire",
+          "party": "Independent",
+          "votes": 1130,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 14,
+          "name": "Rajendra Bhagat Alias Jitu Bhai",
+          "party": "Independent",
+          "votes": 890,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Khan Nissar Taj Ahmad",
+          "party": "Independent",
+          "votes": 829,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "Bagade Sachin Maruti",
+          "party": "Independent",
+          "votes": 803,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 17,
+          "name": "Vinod Anand Sinh",
+          "party": "Proutist Sarva Samaj Party",
+          "votes": 802,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 18,
+          "name": "Shinde Rajendra Baburao",
+          "party": "Independent",
+          "votes": 801,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 19,
+          "name": "Savita Hajare",
+          "party": "Pyramid Party Of India",
+          "votes": 747,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 20,
+          "name": "Ashok Ganpat Palkhe Alias Sutar",
+          "party": "Independent",
+          "votes": 708,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 21,
+          "name": "Dattatraya Ganesh Talgeri",
+          "party": "Independent",
+          "votes": 695,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 22,
+          "name": "Choure Vilas Chintaman",
+          "party": "Independent",
+          "votes": 693,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 23,
+          "name": "Santosh Alias Somnath Kalu Pawar",
+          "party": "Independent",
+          "votes": 659,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 24,
+          "name": "Adagale Bhausaheb Ramchandra",
+          "party": "Independent",
+          "votes": 645,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 25,
+          "name": "Bhagwat Raghunath Kamble",
+          "party": "Independent",
+          "votes": 628,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 26,
+          "name": "Bagban Javed Kasim",
+          "party": "Indian Union Muslim League",
+          "votes": 606,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 27,
+          "name": "Shaikh Altaf Karim",
+          "party": "Independent",
+          "votes": 595,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 28,
+          "name": "Sardesai Kishorkumar Raghunath",
+          "party": "Independent",
+          "votes": 587,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 29,
+          "name": "Choudhari Sunil Gulabrao",
+          "party": "Independent",
+          "votes": 569,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 30,
+          "name": "Tamboli Shabbir Sajjanbhai",
+          "party": "Independent",
+          "votes": 561,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 31,
+          "name": "Ajay Vasant Paithankar",
+          "party": "Independent",
+          "votes": 534,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 32,
+          "name": "Bharat Manohar Gavali",
+          "party": "Independent",
+          "votes": 518,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 33,
+          "name": "P. K. Chavan",
+          "party": "Independent",
+          "votes": 503,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 34,
+          "name": "Adv.Subhash Narhar Godse",
+          "party": "Independent",
+          "votes": 476,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 35,
+          "name": "Vikramaditya Omprakash Dhiman",
+          "party": "Rashtriya Samaj Paksha",
+          "votes": 451,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 36,
+          "name": "Shrikant Madhusudan Jagtap",
+          "party": "Independent",
+          "votes": 289,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "2004": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 22,
+      "aggregate": {
+        "total_electors": 1608614,
+        "total_votes_polled": 768826,
+        "turnout_percentage": 47.8,
+        "margin_votes": 73176,
+        "margin_percentage": 9.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kalmadi Suresh",
+          "party": "Indian National Congress",
+          "votes": 373774,
+          "votes_percentage": 48.6
+        },
+        {
+          "position": 2,
+          "name": "Pradip Trimbak Rawat",
+          "party": "Bharatiya Janta Party",
+          "votes": 300598,
+          "votes_percentage": 39.1
+        },
+        {
+          "position": 3,
+          "name": "Arun Bhatia",
+          "party": "Independent",
+          "votes": 60237,
+          "votes_percentage": 7.8
+        },
+        {
+          "position": 4,
+          "name": "Gaikwad Jayawnt Dharmaji",
+          "party": "Bahujan Samaj Party",
+          "votes": 9101,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 5,
+          "name": "Jadhav Ganesh Devram",
+          "party": "Bharipa Bahujan Mahasangh",
+          "votes": 5321,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Jagdale Shankarrao Ramchandra",
+          "party": "Independent",
+          "votes": 4679,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Thyagarajan Benedic",
+          "party": "Independent",
+          "votes": 3350,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Prof. Anandrao Bhanudas Dadas",
+          "party": "Rashtriya Samaj Paksha",
+          "votes": 2418,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Rawat Pramila",
+          "party": "Independent",
+          "votes": 1616,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Sarode Arun Kondiba",
+          "party": "Independent",
+          "votes": 967,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Anwar Ismail Bagwan",
+          "party": "Independent",
+          "votes": 844,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Chavan Popatrao Kisanrao",
+          "party": "Independent",
+          "votes": 801,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Gaikwad Vitthal Baburao",
+          "party": "Independent",
+          "votes": 795,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Rajiv Deshpande",
+          "party": "Hindu Ekta Andolan Party",
+          "votes": 620,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Kamble Sadanand Bhimrao",
+          "party": "Independent",
+          "votes": 619,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "Shinde Sachin Nana",
+          "party": "Independent",
+          "votes": 592,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 17,
+          "name": "Prof. Tribhuvan Sampat",
+          "party": "Indian Justice Party",
+          "votes": 511,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 18,
+          "name": "Kanchwala Nuruddin Altaf Hussein",
+          "party": "Independent",
+          "votes": 500,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 19,
+          "name": "Adagale Bhau Ramchandra",
+          "party": "Independent",
+          "votes": 485,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 20,
+          "name": "Nitin Dattatraya Jagtap",
+          "party": "Independent",
+          "votes": 475,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 21,
+          "name": "Amte Vinod Ramchandra",
+          "party": "Independent",
+          "votes": 461,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 22,
+          "name": "Shaikh Ibrahim Husain",
+          "party": "Independent",
+          "votes": 254,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "1999": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 14,
+      "aggregate": {
+        "total_electors": 1435101,
+        "total_votes_polled": 749454,
+        "turnout_percentage": 52.2,
+        "margin_votes": 91285,
+        "margin_percentage": 12.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pradeep Rawat",
+          "party": "Bharatiya Janta Party",
+          "votes": 304955,
+          "votes_percentage": 40.7
+        },
+        {
+          "position": 2,
+          "name": "Joshi Mohan",
+          "party": "Indian National Congress",
+          "votes": 213670,
+          "votes_percentage": 28.5
+        },
+        {
+          "position": 3,
+          "name": "Tupe Vithal Baburao",
+          "party": "Nationalist Congress Party",
+          "votes": 198738,
+          "votes_percentage": 26.5
+        },
+        {
+          "position": 4,
+          "name": "L D Bhosale",
+          "party": "Independent",
+          "votes": 4399,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 5,
+          "name": "Professor Ram Kodre",
+          "party": "Bahujan Samaj Party",
+          "votes": 3836,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Colonel Jayantrao Chitale",
+          "party": "Independent",
+          "votes": 1925,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "Tamboli Shabbir Sajjanbhai",
+          "party": "Independent",
+          "votes": 1423,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "Ishwar Sambhayya Kamtam",
+          "party": "Independent",
+          "votes": 1277,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Yashwantrao Chavan",
+          "party": "Independent",
+          "votes": 825,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Advocate Subhash Narhar Godse",
+          "party": "Independent",
+          "votes": 450,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Ashok Ganpat Palkhe Alias Sutar",
+          "party": "Independent",
+          "votes": 349,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 12,
+          "name": "P K Chavan",
+          "party": "Independent",
+          "votes": 320,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 13,
+          "name": "Shankarrao Ramchandra Jagdale",
+          "party": "Independent",
+          "votes": 268,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 14,
+          "name": "Subodh Laxman Yadav",
+          "party": "Independent",
+          "votes": 219,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "1998": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 15,
+      "aggregate": {
+        "total_electors": 1392818,
+        "total_votes_polled": 830072,
+        "turnout_percentage": 59.6,
+        "margin_votes": 93218,
+        "margin_percentage": 11.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tupe Vitthal  Baburao",
+          "party": "Indian National Congress",
+          "votes": 434915,
+          "votes_percentage": 52.4
+        },
+        {
+          "position": 2,
+          "name": "Kalmadi Suresh",
+          "party": "Independent",
+          "votes": 341697,
+          "votes_percentage": 41.2
+        },
+        {
+          "position": 3,
+          "name": "Avinash Dharmadhikari",
+          "party": "Independent",
+          "votes": 34219,
+          "votes_percentage": 4.1
+        },
+        {
+          "position": 4,
+          "name": "Col.Suresh Patil",
+          "party": "Independent",
+          "votes": 4421,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "Thorat Chandrakant Pilaji",
+          "party": "Bahujan Samaj Party",
+          "votes": 2897,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 6,
+          "name": "Chandrakant Laxman Malvade",
+          "party": "Independent",
+          "votes": 1300,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Narayan Morukonde",
+          "party": "Independent",
+          "votes": 1013,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "Adv. Godse Subhash Narhar",
+          "party": "Independent",
+          "votes": 927,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Dhasal Namdeo Laxman",
+          "party": "Independent",
+          "votes": 454,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Bhai Alias Adv. Vivek Shravan Chavan",
+          "party": "Akhil Bharatiya Bhrastachar Normoolan Sena",
+          "votes": 396,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 11,
+          "name": "Nagesh Baburao Dahiwal",
+          "party": "Independent",
+          "votes": 351,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 12,
+          "name": "Kedari Dilip",
+          "party": "Independent",
+          "votes": 341,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 13,
+          "name": "Yashwantrao Sonba Chavan",
+          "party": "Independent",
+          "votes": 333,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 14,
+          "name": "Jagdale Shankarrao Ramchandra",
+          "party": "Independent",
+          "votes": 304,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 15,
+          "name": "Chavan P.K.",
+          "party": "Independent",
+          "votes": 225,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "1996": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 44,
+      "aggregate": {
+        "total_electors": 1364999,
+        "total_votes_polled": 778102,
+        "turnout_percentage": 57.0,
+        "margin_votes": 86995,
+        "margin_percentage": 11.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Suresh Kalmadi",
+          "party": "Indian National Congress",
+          "votes": 390778,
+          "votes_percentage": 50.2
+        },
+        {
+          "position": 2,
+          "name": "Girish Bapat",
+          "party": "Bharatiya Janta Party",
+          "votes": 303783,
+          "votes_percentage": 39.0
+        },
+        {
+          "position": 3,
+          "name": "Dhasal Namdev Laxman",
+          "party": "Republican Party Of India",
+          "votes": 56185,
+          "votes_percentage": 7.2
+        },
+        {
+          "position": 4,
+          "name": "Nana Budhiwant",
+          "party": "All India Indira Congress (TIWARI)",
+          "votes": 2618,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 5,
+          "name": "Jayantrao Chitale",
+          "party": "Independent",
+          "votes": 1880,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 6,
+          "name": "Dalal Sammad Nadim",
+          "party": "Indian Congress (SOCIALIST)",
+          "votes": 1637,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Nitin Kunjir",
+          "party": "Satya Marg Party",
+          "votes": 1557,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "Bokadia Shantilal Bhagawandas",
+          "party": "Bharatiya Kranti Sena",
+          "votes": 1439,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Dattatraya Raghunath More",
+          "party": "Independent",
+          "votes": 997,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Bhima Bapu Balshankar",
+          "party": "Independent",
+          "votes": 993,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Shaikh Mohamed Sharif Ismail",
+          "party": "Independent",
+          "votes": 903,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Prashant Alias Bhai Potphode",
+          "party": "Independent",
+          "votes": 659,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Ibrahim Hussen Tamboli",
+          "party": "Independent",
+          "votes": 650,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Kadam Vilas Jaysing",
+          "party": "Independent",
+          "votes": 471,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Jagdale Shankarrao Ramchandra",
+          "party": "Independent",
+          "votes": 396,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "Omprakash Khatake (K.OMPRAKASH)",
+          "party": "Akhil Bharatiya Bhrastachar Normoolan Sena",
+          "votes": 394,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 17,
+          "name": "Punjabrao Ramrao Jadhav",
+          "party": "Independent",
+          "votes": 390,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 18,
+          "name": "Godse Subhash Narhar",
+          "party": "Independent",
+          "votes": 349,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 19,
+          "name": "Suresh Dnyanoba Patil",
+          "party": "Independent",
+          "votes": 324,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 20,
+          "name": "Ashok Ganpat Palkhe",
+          "party": "Independent",
+          "votes": 321,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 21,
+          "name": "Anna Alias Virkar Jaganath Ramchandra",
+          "party": "Independent",
+          "votes": 300,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 22,
+          "name": "Prabhakar Dattatraya Bendre",
+          "party": "Independent",
+          "votes": 295,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 23,
+          "name": "Dinesh Kisanrao Fuge",
+          "party": "Independent",
+          "votes": 286,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 24,
+          "name": "Wadikar Vidyadhar Bhagwan",
+          "party": "Independent",
+          "votes": 272,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 25,
+          "name": "Kishore Bhimrao Patil",
+          "party": "Independent",
+          "votes": 265,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 26,
+          "name": "Ravindra Jagannath Kashid",
+          "party": "Independent",
+          "votes": 263,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 27,
+          "name": "Masole Rajendra Dattoba",
+          "party": "Independent",
+          "votes": 251,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 28,
+          "name": "Khare Vivek Ramchandra",
+          "party": "Independent",
+          "votes": 216,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 29,
+          "name": "Anil Doshi",
+          "party": "Independent",
+          "votes": 206,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 30,
+          "name": "Dilip Kedari",
+          "party": "Independent",
+          "votes": 203,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 30,
+          "name": "Ishwar Sambayya Kamtam",
+          "party": "Independent",
+          "votes": 203,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 32,
+          "name": "Suryakant Limbanna Kore",
+          "party": "Independent",
+          "votes": 195,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 33,
+          "name": "Shakil Sundake Ahmad",
+          "party": "Independent",
+          "votes": 193,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 34,
+          "name": "Sharad Gopalrao Kulkarni",
+          "party": "Independent",
+          "votes": 181,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 34,
+          "name": "Dhavade Mahindra Nivruti",
+          "party": "Independent",
+          "votes": 181,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 36,
+          "name": "Kawedia Indrakumar Mangilal",
+          "party": "Independent",
+          "votes": 180,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 37,
+          "name": "Rajendrakaur Johal",
+          "party": "Political Party Of National Management Service",
+          "votes": 173,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 38,
+          "name": "Kekan Shivaji Uttam",
+          "party": "Independent",
+          "votes": 169,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 39,
+          "name": "Vishnu Shridhar Thakur",
+          "party": "Independent",
+          "votes": 133,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 40,
+          "name": "Shivange Ramling Shankarappa",
+          "party": "Independent",
+          "votes": 128,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 41,
+          "name": "Shinde Umesh Madhukar",
+          "party": "Independent",
+          "votes": 100,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 42,
+          "name": "Khanase Devram Sitaram",
+          "party": "Independent",
+          "votes": 83,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 43,
+          "name": "Harisangam Shrikrishna Ranganath",
+          "party": "Independent",
+          "votes": 81,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 44,
+          "name": "Vadake Prabhakar Dattatraya",
+          "party": "Independent",
+          "votes": 75,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "1991": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 36,
+      "aggregate": {
+        "total_electors": 1184618,
+        "total_votes_polled": 570624,
+        "turnout_percentage": 48.2,
+        "margin_votes": 16938,
+        "margin_percentage": 3.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Anna Joshi",
+          "party": "Bharatiya Janta Party",
+          "votes": 250272,
+          "votes_percentage": 43.9
+        },
+        {
+          "position": 2,
+          "name": "Gadgil Vitthalrao Narhar",
+          "party": "Indian National Congress",
+          "votes": 233334,
+          "votes_percentage": 40.9
+        },
+        {
+          "position": 3,
+          "name": "Kakade Sambhajirao Sahebrao",
+          "party": "Janata Dal",
+          "votes": 72377,
+          "votes_percentage": 12.7
+        },
+        {
+          "position": 4,
+          "name": "Kamble Yashwant Maruti",
+          "party": "Bahujan Samaj Party",
+          "votes": 2780,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "Khedekar Khanderao Sakharam",
+          "party": "Independent",
+          "votes": 825,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 6,
+          "name": "Kokare Vijay Mahadeo",
+          "party": "Independent",
+          "votes": 564,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 7,
+          "name": "P.K. Chavan",
+          "party": "Independent",
+          "votes": 507,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "Agarwal Surajbhan Sidhram",
+          "party": "Independent",
+          "votes": 445,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Kumbhar Ramcharan Bikanu",
+          "party": "Doordarshi Party",
+          "votes": 421,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Gandhi Champalal Chhogalal",
+          "party": "Independent",
+          "votes": 388,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Pawar Satish Dattaraya",
+          "party": "Independent",
+          "votes": 352,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Chavan Chandrakant Narayan",
+          "party": "Independent",
+          "votes": 254,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 13,
+          "name": "Telwade Devidas Dhondiba",
+          "party": "Independent",
+          "votes": 252,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 14,
+          "name": "Savane Laxman Sambhu",
+          "party": "Independent",
+          "votes": 229,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 15,
+          "name": "Shaikh Abdul Kadar Sharif",
+          "party": "Independent",
+          "votes": 223,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 16,
+          "name": "Sabale Laxman Malhari",
+          "party": "Independent",
+          "votes": 210,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 17,
+          "name": "Dayama Mukumd Madanlal",
+          "party": "Independent",
+          "votes": 209,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 18,
+          "name": "Virkar Jagannath Ramchandra",
+          "party": "Jan Parishad",
+          "votes": 203,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 19,
+          "name": "Gokhale Digambar Balkrishna",
+          "party": "Independent",
+          "votes": 187,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 20,
+          "name": "Jagdale Shankarrao Ramchandra",
+          "party": "Independent",
+          "votes": 181,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 21,
+          "name": "Tiparkar Tukaram Shankar",
+          "party": "Independent",
+          "votes": 180,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 22,
+          "name": "Badekar Bhujang Waman",
+          "party": "Republican Presidium Party Of India",
+          "votes": 164,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 23,
+          "name": "Kamtam Ishwar Sambhayya",
+          "party": "Independent",
+          "votes": 153,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 24,
+          "name": "Kekan Shivaji Uttam",
+          "party": "Independent",
+          "votes": 141,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 25,
+          "name": "Dasani Kantilal Jivraj",
+          "party": "Independent",
+          "votes": 134,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 26,
+          "name": "Kadam Vilas Jayasingh",
+          "party": "Independent",
+          "votes": 124,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 27,
+          "name": "Bhosale Sunil Marutirao",
+          "party": "Independent",
+          "votes": 117,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 28,
+          "name": "Admane Shriram Dashrath",
+          "party": "Independent",
+          "votes": 113,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 29,
+          "name": "Jadhav Dattatraya Kisan",
+          "party": "Independent",
+          "votes": 112,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 30,
+          "name": "Walecha Jagdish Bhimsen",
+          "party": "Independent",
+          "votes": 110,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 31,
+          "name": "Sapakal Damodar Sakharam",
+          "party": "Independent",
+          "votes": 106,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 32,
+          "name": "Honrao Vaijanath Digambar",
+          "party": "Independent",
+          "votes": 104,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 33,
+          "name": "Subhash Narhar Godase",
+          "party": "Independent",
+          "votes": 83,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 34,
+          "name": "Kashid Arjun Pandurang",
+          "party": "Independent",
+          "votes": 63,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 35,
+          "name": "Kodre Vasant Dattatraya",
+          "party": "Independent",
+          "votes": 57,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 36,
+          "name": "Tamboli Raju Hussain",
+          "party": "Independent",
+          "votes": 53,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "1989": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 18,
+      "aggregate": {
+        "total_electors": 1070901,
+        "total_votes_polled": 687651,
+        "turnout_percentage": 64.2,
+        "margin_votes": 8181,
+        "margin_percentage": 1.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gadgil Vitthalaro Narhar",
+          "party": "Indian National Congress",
+          "votes": 296051,
+          "votes_percentage": 43.1
+        },
+        {
+          "position": 2,
+          "name": "Anna Joshi",
+          "party": "Bharatiya Janta Party",
+          "votes": 287870,
+          "votes_percentage": 41.9
+        },
+        {
+          "position": 3,
+          "name": "Atur Sangtani",
+          "party": "Janata Dal",
+          "votes": 57837,
+          "votes_percentage": 8.4
+        },
+        {
+          "position": 4,
+          "name": "Gaikwad Jaidev Maruti",
+          "party": "Republican Party Of India",
+          "votes": 25825,
+          "votes_percentage": 3.8
+        },
+        {
+          "position": 5,
+          "name": "Kulkarni Sudhir Jairam",
+          "party": "Independent",
+          "votes": 2489,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Abhang Sitaram Dnyaneshwar",
+          "party": "Bahujan Samaj Party",
+          "votes": 1438,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Honrao Vijayanath Digamber",
+          "party": "Independent",
+          "votes": 1321,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "Aggarwal Surajbhan Sindhram",
+          "party": "Independent",
+          "votes": 824,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Ramapure Baburao Shivram",
+          "party": "Independent",
+          "votes": 814,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Yunus A.Gaffar Mulla",
+          "party": "Independent",
+          "votes": 801,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Ishwar Sambayya Kamtam",
+          "party": "Independent",
+          "votes": 611,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Gaud Tarachand Sundar",
+          "party": "Doordarshi Party",
+          "votes": 600,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Kodra Vasant Dattatraya",
+          "party": "Independent",
+          "votes": 569,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Godse Subhash Nahar",
+          "party": "Independent",
+          "votes": 485,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Katke Dattatraya Kondiba",
+          "party": "Independent",
+          "votes": 478,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "More Machindra Kisan",
+          "party": "Independent",
+          "votes": 440,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 17,
+          "name": "Barne Subhash Vishnupant",
+          "party": "Independent",
+          "votes": 247,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 18,
+          "name": "Virkar Jagannth Ramchandra",
+          "party": "Independent",
+          "votes": 158,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "1984": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 21,
+      "aggregate": {
+        "total_electors": 788975,
+        "total_votes_polled": 523706,
+        "turnout_percentage": 66.4,
+        "margin_votes": 198354,
+        "margin_percentage": 37.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gadil Vithalrao Narhari",
+          "party": "Indian National Congress",
+          "votes": 311278,
+          "votes_percentage": 59.4
+        },
+        {
+          "position": 2,
+          "name": "Jagannath Rao Joshi",
+          "party": "Bharatiya Janta Party",
+          "votes": 112924,
+          "votes_percentage": 21.6
+        },
+        {
+          "position": 3,
+          "name": "Mohan Dharia",
+          "party": "Janta Party",
+          "votes": 53182,
+          "votes_percentage": 10.2
+        },
+        {
+          "position": 4,
+          "name": "Gaikwad Jaideo Maruti",
+          "party": "Independent",
+          "votes": 20796,
+          "votes_percentage": 4.0
+        },
+        {
+          "position": 5,
+          "name": "Vishal Gujarathi",
+          "party": "Lok Dal",
+          "votes": 4989,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Anant Vishwanath Phule",
+          "party": "Independent",
+          "votes": 3556,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Gandhi Chambalal Chhogalal",
+          "party": "Independent",
+          "votes": 2345,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Gaikwad Shankar Deoram",
+          "party": "Independent",
+          "votes": 1732,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Kodre Vasantrao Duttattraya",
+          "party": "Independent",
+          "votes": 653,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Shaikh Karimuddin Niijamuddin",
+          "party": "Independent",
+          "votes": 606,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Salthana Victor Fransis",
+          "party": "Independent",
+          "votes": 526,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Kanoojiya Krishnakumar",
+          "party": "Independent",
+          "votes": 511,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Agarwal Surajmal Sidram",
+          "party": "Independent",
+          "votes": 410,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Satish Parekh",
+          "party": "Independent",
+          "votes": 403,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Ramkrishna Zende",
+          "party": "Independent",
+          "votes": 313,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "Vinod Harshi Shaha Alias Donga",
+          "party": "Independent",
+          "votes": 275,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 17,
+          "name": "Popatlal Nandial Gandhi",
+          "party": "Independent",
+          "votes": 269,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 18,
+          "name": "Prataprao Ganpartao Deshmukh",
+          "party": "Independent",
+          "votes": 257,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 19,
+          "name": "Honrao Somnath Balshed",
+          "party": "Independent",
+          "votes": 206,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 20,
+          "name": "Porwal Deodatta Champalal",
+          "party": "Independent",
+          "votes": 167,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 21,
+          "name": "Deshpande Bachatwale Vishnu Shankar",
+          "party": "Independent",
+          "votes": 143,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 14,
+      "aggregate": {
+        "total_electors": 741735,
+        "total_votes_polled": 429276,
+        "turnout_percentage": 57.9,
+        "margin_votes": 28830,
+        "margin_percentage": 6.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gadgil Vitthal Narhar",
+          "party": "Indian National Congress (I)",
+          "votes": 215161,
+          "votes_percentage": 50.1
+        },
+        {
+          "position": 2,
+          "name": "Nana Sahib Goray",
+          "party": "Janta Party",
+          "votes": 186331,
+          "votes_percentage": 43.4
+        },
+        {
+          "position": 3,
+          "name": "More Shyamkant Damodar",
+          "party": "Janta Party (SECULAR)",
+          "votes": 9356,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 4,
+          "name": "Vatkar Baburao Pandurang",
+          "party": "Independent",
+          "votes": 3279,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 5,
+          "name": "Shewale M. D.",
+          "party": "Republican Party Of India",
+          "votes": 3176,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Raj Salve",
+          "party": "Independent",
+          "votes": 2022,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Punjabrao Jadhav",
+          "party": "Independent",
+          "votes": 857,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "Mamasahib Date",
+          "party": "Independent",
+          "votes": 716,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Nalwade Rajrang Tatyaba",
+          "party": "Independent",
+          "votes": 646,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Gandhi Champalal Chogalal",
+          "party": "Independent",
+          "votes": 531,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Lonkar Mohan Sopan",
+          "party": "Independent",
+          "votes": 456,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Honrao Somnath Balshet",
+          "party": "Independent",
+          "votes": 347,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Ramkrishan Zende",
+          "party": "Independent",
+          "votes": 298,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Shripad Gopalrao Chandurkar",
+          "party": "Independent",
+          "votes": 257,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 606601,
+        "total_votes_polled": 382043,
+        "turnout_percentage": 63.0,
+        "margin_votes": 48167,
+        "margin_percentage": 12.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mohan Dharia",
+          "party": "Bharatiya Lok Dal",
+          "votes": 209922,
+          "votes_percentage": 54.9
+        },
+        {
+          "position": 2,
+          "name": "Vasant Thorat",
+          "party": "Indian National Congress",
+          "votes": 161755,
+          "votes_percentage": 42.3
+        },
+        {
+          "position": 3,
+          "name": "Murthy H. S. N.",
+          "party": "Independent",
+          "votes": 1624,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 4,
+          "name": "Zende Ramkrishna Sopanrao",
+          "party": "Independent",
+          "votes": 1263,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 5,
+          "name": "Chatterji Rupmaya Ashwinikumar",
+          "party": "Independent",
+          "votes": 1185,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 6,
+          "name": "Gandhi Champalal Chhogalal",
+          "party": "Independent",
+          "votes": 508,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 7,
+          "name": "Honrao Somnath Balshet",
+          "party": "Independent",
+          "votes": 409,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

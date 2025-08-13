@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 245975,
+        "male": 286684,
+        "percentage_of_total_population": 14.39,
+        "percentage_of_total_population_calculated": 14.39,
+        "percentage_of_total_population_stated": 14.39,
+        "sex_ratio": 858,
+        "total": 532659
+    },
+    "literacy": {
+        "female_literacy_rate": 70.08,
+        "female_literate": 1072901,
+        "male_literacy_rate": 87.37,
+        "male_literate": 1430936,
+        "rate_percentage": 79.02,
+        "total_literate": 2503837
+    },
+    "population": {
+        "female": 1776813,
+        "male": 1924469,
+        "sex_ratio": 923,
+        "total": 3701282
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 8.35,
+            "population": 309093
+        },
+        "Christian": {
+            "percentage": 0.43,
+            "population": 15991
+        },
+        "Hindu": {
+            "percentage": 68.77,
+            "population": 2545438
+        },
+        "Jain": {
+            "percentage": 0.84,
+            "population": 30981
+        },
+        "Muslims": {
+            "percentage": 21.25,
+            "population": 786677
+        },
+        "Not Stated": {
+            "percentage": 0.19,
+            "population": 6955
+        },
+        "Others": {
+            "percentage": 0.03,
+            "population": 1005
+        },
+        "Sikh": {
+            "percentage": 0.14,
+            "population": 5142
+        }
+    },
+    "rural": {
+        "child_population_female": 140854,
+        "child_population_male": 165510,
+        "child_population_percentage": 14.72,
+        "child_population_percentage_calculated": 14.72,
+        "child_population_percentage_stated": 14.72,
+        "child_population_total": 306364,
+        "child_sex_ratio": 851,
+        "female": 999287,
+        "literacy_rate_female": 61.15,
+        "literacy_rate_male": 83.86,
+        "literacy_rate_percentage": 72.87,
+        "literate_female": 524919,
+        "literate_male": 768411,
+        "literate_total": 1293330,
+        "male": 1081825,
+        "percentage_population": 56.23,
+        "population": 2081112,
+        "sex_ratio": 924
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/353-aurangabad.html",
+    "urban": {
+        "child_population_female": 105084,
+        "child_population_male": 121211,
+        "child_population_percentage": 13.97,
+        "child_population_percentage_calculated": 13.97,
+        "child_population_percentage_stated": 13.97,
+        "child_population_total": 226295,
+        "child_sex_ratio": 867,
+        "female": 777526,
+        "literacy_rate_female": 81.49,
+        "literacy_rate_male": 91.83,
+        "literacy_rate_percentage": 86.84,
+        "literate_female": 547982,
+        "literate_male": 662525,
+        "literate_total": 1210507,
+        "male": 842644,
+        "percentage_population": 43.77,
+        "population": 1620170,
+        "sex_ratio": 923
+    }
+}

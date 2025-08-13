@@ -1,0 +1,64 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Manoharthana",
+  "district": "Jhalawar",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 236853,
+        "total_votes_polled": 203257,
+        "turnout_percentage": 87.1,
+        "margin_votes": 21869,
+        "margin_percentage": 10.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Govind Prasad",
+          "party": "Bharatiya Janta Party",
+          "votes": 110215,
+          "votes_percentage": 54.2
+        },
+        {
+          "position": 2,
+          "name": "Kailash Chand",
+          "party": "Indian National Congress",
+          "votes": 88346,
+          "votes_percentage": 43.5
+        },
+        {
+          "position": 3,
+          "name": "Chandr Singh",
+          "party": "Bahujan Samaj Party",
+          "votes": 1793,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 4,
+          "name": "Manisha Meena",
+          "party": "Independent",
+          "votes": 1479,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Abid Ahmed",
+          "party": "Rashtriya Jankranti Party",
+          "votes": 749,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Harishankar",
+          "party": "Bharatiya Rashtravadi Samanta Party",
+          "votes": 675,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

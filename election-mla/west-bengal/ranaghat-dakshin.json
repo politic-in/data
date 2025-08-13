@@ -1,0 +1,106 @@
+{
+  "state": "West Bengal",
+  "constituency": "Ranaghat Dakshin",
+  "district": "Nadia",
+  "ac_type": "SC",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 274684,
+        "total_votes_polled": 240110,
+        "turnout_percentage": 88.0,
+        "margin_votes": 16515,
+        "margin_percentage": 6.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mukut Mani Adhikari",
+          "party": "Bharatiya Janta Party",
+          "votes": 119260,
+          "votes_percentage": 49.7
+        },
+        {
+          "position": 2,
+          "name": "Barnali Dey Roy",
+          "party": "All India Trinamool Congress",
+          "votes": 102745,
+          "votes_percentage": 42.8
+        },
+        {
+          "position": 3,
+          "name": "Rama Biswas",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 15124,
+          "votes_percentage": 6.3
+        },
+        {
+          "position": 4,
+          "name": "Prasanta Biswas",
+          "party": "Bahujan Samaj Party",
+          "votes": 1666,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Nanigopal Mistri",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1315,
+          "votes_percentage": 0.6
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 222418,
+        "total_votes_polled": 194083,
+        "turnout_percentage": 87.3,
+        "margin_votes": 19608,
+        "margin_percentage": 10.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Abir Ranjan Biswas",
+          "party": "All India Trinamool Congress",
+          "votes": 99432,
+          "votes_percentage": 51.2
+        },
+        {
+          "position": 2,
+          "name": "Aloke Kumar Das",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 79824,
+          "votes_percentage": 41.1
+        },
+        {
+          "position": 3,
+          "name": "Benoy Bhusan Roy",
+          "party": "Bharatiya Janta Party",
+          "votes": 8934,
+          "votes_percentage": 4.6
+        },
+        {
+          "position": 4,
+          "name": "Prashanta Biswas",
+          "party": "Bahujan Samaj Party",
+          "votes": 2951,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Chaitanya Barai",
+          "party": "Nirjatita Samaj Biplabi Party",
+          "votes": 2942,
+          "votes_percentage": 1.5
+        }
+      ]
+    }
+  }
+}

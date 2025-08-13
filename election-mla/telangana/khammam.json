@@ -1,0 +1,542 @@
+{
+  "state": "Telangana",
+  "constituency": "Khammam",
+  "district": "Khammam",
+  "ac_type": "GEN",
+  "results": {
+    "2023": {
+      "poll_date": "17 November 2023",
+      "counting_date": "03 December 2023",
+      "total_contestants": 32,
+      "aggregate": {
+        "total_electors": 646123,
+        "total_votes_polled": 234299,
+        "turnout_percentage": 36.6,
+        "margin_votes": 49381,
+        "margin_percentage": 21.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tummala Nageswara Rao",
+          "party": "Indian National Congress",
+          "votes": 136016,
+          "votes_percentage": 57.6
+        },
+        {
+          "position": 2,
+          "name": "Ajay Kumar Puvvada",
+          "party": "Bharat Rashtra Samithi",
+          "votes": 86635,
+          "votes_percentage": 36.7
+        },
+        {
+          "position": 3,
+          "name": "Miriyala Ramakrishna",
+          "party": "Janasena Party",
+          "votes": 4040,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 4,
+          "name": "Yarra Srikanth",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 1940,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 5,
+          "name": "Anthoni Suresh",
+          "party": "Independent",
+          "votes": 1176,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Ajaya Kumar Annabathula",
+          "party": "Independent",
+          "votes": 997,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Sreenivas Rao Ayitgani",
+          "party": "Bahujan Samaj Party",
+          "votes": 619,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Inapanuri Durga",
+          "party": "Independent",
+          "votes": 527,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Sunil Yechu",
+          "party": "Vidhyarthula Rajakiya Party",
+          "votes": 362,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Kukkala Nagamani",
+          "party": "Alliance Of Democratic Reforms Party",
+          "votes": 272,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Seema Rambabu",
+          "party": "Independent",
+          "votes": 264,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Banala Laxmana Chary",
+          "party": "Independent",
+          "votes": 229,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Shabnam",
+          "party": "Republican Party Of India (A)",
+          "votes": 152,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Ramavajhala Ravi Kumar",
+          "party": "Independent",
+          "votes": 134,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Sailaja Katepalli",
+          "party": "Pyramid Party Of India",
+          "votes": 132,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "Kukkala Ajay Hardik",
+          "party": "Independent",
+          "votes": 102,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 17,
+          "name": "Palvancha Ramarao",
+          "party": "All India Forward Bloc",
+          "votes": 83,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 18,
+          "name": "Vikas Mandhadapu",
+          "party": "Yuga Thulasi Party",
+          "votes": 69,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 19,
+          "name": "Gurram Satyanarayana",
+          "party": "Independent",
+          "votes": 66,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 20,
+          "name": "Gunti Nagaraju",
+          "party": "Independent",
+          "votes": 54,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 22,
+          "name": "Ramala Swarupa",
+          "party": "Indian Believers Party (IBP)",
+          "votes": 51,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 21,
+          "name": "Likki Krishna Rao",
+          "party": "Bahujana Left Party",
+          "votes": 51,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 24,
+          "name": "Gudikandula Satyanarayana",
+          "party": "Independent",
+          "votes": 45,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 23,
+          "name": "Raice Anwar",
+          "party": "Independent",
+          "votes": 45,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 25,
+          "name": "Rodda Shivaiah",
+          "party": "Dalita Bahujana Party",
+          "votes": 44,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 26,
+          "name": "Bathula Nagesh",
+          "party": "Bahujan Republican Socialist Party",
+          "votes": 39,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 27,
+          "name": "Nakirikanti Suresh Kumar",
+          "party": "Independent",
+          "votes": 34,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 28,
+          "name": "Nazima Begum",
+          "party": "Independent",
+          "votes": 31,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 29,
+          "name": "Marakapudi Srinivasulu",
+          "party": "Independent",
+          "votes": 25,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 31,
+          "name": "Banoth Prasad",
+          "party": "Independent",
+          "votes": 22,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 30,
+          "name": "Mutyam Arjun Raju",
+          "party": "Independent",
+          "votes": 22,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 32,
+          "name": "Jameel Shaik",
+          "party": "Independent",
+          "votes": 21,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 13,
+      "aggregate": {
+        "total_electors": 261069,
+        "total_votes_polled": 202915,
+        "turnout_percentage": 79.1,
+        "margin_votes": 10991,
+        "margin_percentage": 5.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ajay Kumar Puvvada",
+          "party": "Telangana Rashtra Samithi",
+          "votes": 102760,
+          "votes_percentage": 50.6
+        },
+        {
+          "position": 2,
+          "name": "Nama Nageswara Rao",
+          "party": "Telugu Desam",
+          "votes": 91769,
+          "votes_percentage": 45.2
+        },
+        {
+          "position": 3,
+          "name": "Vuppala Sarada",
+          "party": "Bharatiya Janta Party",
+          "votes": 2325,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 4,
+          "name": "Anwar Raice",
+          "party": "Independent",
+          "votes": 2016,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Palvancha Rama Rao",
+          "party": "Bahujana Left Party",
+          "votes": 1091,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Abdul Kareem Shaik",
+          "party": "Bahujan Samaj Party",
+          "votes": 1023,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Rallabandi Narsimha Chary",
+          "party": "Independent",
+          "votes": 562,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Kasina Anandaprasad",
+          "party": "Pyramid Party Of India",
+          "votes": 387,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Rapolu Kiran Kumar",
+          "party": "Independent",
+          "votes": 282,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Sk. Jameel",
+          "party": "Independent",
+          "votes": 252,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Yechu Sunil",
+          "party": "Independent",
+          "votes": 185,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Apparao Pattipati",
+          "party": "Independent",
+          "votes": 150,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Tumati Madhu",
+          "party": "Independent",
+          "votes": 113,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "30 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 25,
+      "aggregate": {
+        "total_electors": 264024,
+        "total_votes_polled": 185349,
+        "turnout_percentage": 70.2,
+        "total_valid_votes": 183947,
+        "total_valid_votes_percentage": 69.7,
+        "margin_votes": 5609,
+        "margin_percentage": 3.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ajay Kumar Puvvada",
+          "party": "Indian National Congress",
+          "votes": 70251,
+          "votes_percentage": 38.2
+        },
+        {
+          "position": 2,
+          "name": "Thummala Nageswar Rao",
+          "party": "Telugu Desam",
+          "votes": 64642,
+          "votes_percentage": 35.1
+        },
+        {
+          "position": 3,
+          "name": "Kurakula Nagabhushaiah",
+          "party": "Yuvajana Sramika Rythu Congress Party",
+          "votes": 24969,
+          "votes_percentage": 13.6
+        },
+        {
+          "position": 4,
+          "name": "R.J.C Krishna @ Gundala Krishna",
+          "party": "Telangana Rashtra Samithi",
+          "votes": 14003,
+          "votes_percentage": 7.6
+        },
+        {
+          "position": 5,
+          "name": "Ravi Maruth Popuri",
+          "party": "Lok Satta Party",
+          "votes": 4420,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 6,
+          "name": "Mohammed Asad",
+          "party": "Aam Aadmi Party",
+          "votes": 687,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Karnati Harish Saxena",
+          "party": "Pyramid Party Of India",
+          "votes": 655,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Abdul Kareem Shaik",
+          "party": "Bahujan Samaj Party",
+          "votes": 598,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Thumati Madhu",
+          "party": "Independent",
+          "votes": 489,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Domala Mery",
+          "party": "Independent",
+          "votes": 394,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Thurikepalli Vara Prasada Rao",
+          "party": "Independent",
+          "votes": 364,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Maddisetti Yerrappa",
+          "party": "Independent",
+          "votes": 346,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 13,
+          "name": "Palakurthi Krishna",
+          "party": "Independent",
+          "votes": 289,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 14,
+          "name": "Yakubmiya Mohammed",
+          "party": "Welfare Party Of India",
+          "votes": 279,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 15,
+          "name": "Komma Narsaiah",
+          "party": "Independent",
+          "votes": 248,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "Nerella Srinivas@nerella Srinivasa Rao",
+          "party": "Gareeb Aadmi Party",
+          "votes": 237,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 17,
+          "name": "Chebrolu Uma Sri",
+          "party": "Independent",
+          "votes": 207,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 18,
+          "name": "Praneeth Chaitanya Bathula",
+          "party": "Independent",
+          "votes": 150,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 19,
+          "name": "Cherala Jalendhar",
+          "party": "Independent",
+          "votes": 136,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 20,
+          "name": "Banoth Mangilal Naik",
+          "party": "Independent",
+          "votes": 135,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 21,
+          "name": "Mende Srinivasa Rao",
+          "party": "Independent",
+          "votes": 113,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 22,
+          "name": "Akarapu Vijaya Pal",
+          "party": "Independent",
+          "votes": 109,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 23,
+          "name": "Lingala Ravi Kumar",
+          "party": "Independent",
+          "votes": 79,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 24,
+          "name": "Miriyala Nagaraju",
+          "party": "Independent",
+          "votes": 77,
+          "votes_percentage": 0.0
+        },
+        {
+          "position": 25,
+          "name": "Akkirala Venkateswarlu @ Manishapal",
+          "party": "Independent",
+          "votes": 70,
+          "votes_percentage": 0.0
+        }
+      ]
+    }
+  }
+}

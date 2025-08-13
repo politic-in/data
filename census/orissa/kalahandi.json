@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 108840,
+        "male": 113730,
+        "percentage_of_total_population": 14.11,
+        "percentage_of_total_population_calculated": 14.11,
+        "percentage_of_total_population_stated": 14.11,
+        "sex_ratio": 957,
+        "total": 222570
+    },
+    "literacy": {
+        "female_literacy_rate": 46.68,
+        "female_literate": 317859,
+        "male_literacy_rate": 71.9,
+        "male_literate": 484177,
+        "rate_percentage": 59.22,
+        "total_literate": 802036
+    },
+    "population": {
+        "female": 789768,
+        "male": 787101,
+        "sex_ratio": 1003,
+        "total": 1576869
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 175
+        },
+        "Christian": {
+            "percentage": 0.71,
+            "population": 11160
+        },
+        "Hindu": {
+            "percentage": 98.64,
+            "population": 1555367
+        },
+        "Jain": {
+            "percentage": 0.08,
+            "population": 1225
+        },
+        "Muslims": {
+            "percentage": 0.32,
+            "population": 4975
+        },
+        "Not Stated": {
+            "percentage": 0.19,
+            "population": 2951
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 220
+        },
+        "Sikh": {
+            "percentage": 0.05,
+            "population": 796
+        }
+    },
+    "rural": {
+        "child_population_female": 102220,
+        "child_population_male": 106543,
+        "child_population_percentage": 14.35,
+        "child_population_percentage_calculated": 14.35,
+        "child_population_percentage_stated": 14.35,
+        "child_population_total": 208763,
+        "child_sex_ratio": 959,
+        "female": 730236,
+        "literacy_rate_female": 44.34,
+        "literacy_rate_male": 70.43,
+        "literacy_rate_percentage": 57.28,
+        "literate_female": 278432,
+        "literate_male": 435330,
+        "literate_total": 713762,
+        "male": 724646,
+        "percentage_population": 92.26,
+        "population": 1454882,
+        "sex_ratio": 1008
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/419-kalahandi.html",
+    "urban": {
+        "child_population_female": 6624,
+        "child_population_male": 7183,
+        "child_population_percentage": 11.32,
+        "child_population_percentage_calculated": 11.32,
+        "child_population_percentage_stated": 11.32,
+        "child_population_total": 13807,
+        "child_sex_ratio": 922,
+        "female": 59532,
+        "literacy_rate_female": 74.52,
+        "literacy_rate_male": 88.38,
+        "literacy_rate_percentage": 81.6,
+        "literate_female": 39427,
+        "literate_male": 48847,
+        "literate_total": 88274,
+        "male": 62455,
+        "percentage_population": 7.74,
+        "population": 121987,
+        "sex_ratio": 953
+    }
+}

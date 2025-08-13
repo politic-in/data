@@ -1,0 +1,80 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Araku Valley",
+  "district": "Visakhapatnam",
+  "ac_type": "ST",
+  "results": {
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 196861,
+        "total_votes_polled": 120459,
+        "turnout_percentage": 61.2,
+        "total_valid_votes": 120384,
+        "total_valid_votes_percentage": 61.2,
+        "margin_votes": 402,
+        "margin_percentage": 0.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Siveri Soma",
+          "party": "Telugu Desam",
+          "votes": 34959,
+          "votes_percentage": 29.0
+        },
+        {
+          "position": 2,
+          "name": "Vanjangi Kanthamma",
+          "party": "Indian National Congress",
+          "votes": 34557,
+          "votes_percentage": 28.7
+        },
+        {
+          "position": 3,
+          "name": "Gangadhara Swamy Setti",
+          "party": "Independent",
+          "votes": 19165,
+          "votes_percentage": 15.9
+        },
+        {
+          "position": 4,
+          "name": "Pangi Raja Rao",
+          "party": "Bahujan Samaj Party",
+          "votes": 13302,
+          "votes_percentage": 11.1
+        },
+        {
+          "position": 5,
+          "name": "Mandi Jayavathi",
+          "party": "Praja Rajyam Party",
+          "votes": 8101,
+          "votes_percentage": 6.7
+        },
+        {
+          "position": 6,
+          "name": "Raghunadh Samardi",
+          "party": "Bharatiya Janta Party",
+          "votes": 3920,
+          "votes_percentage": 3.3
+        },
+        {
+          "position": 7,
+          "name": "Baka Manikyamma",
+          "party": "Lok Satta Party",
+          "votes": 3464,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 8,
+          "name": "Kumbha Ravibabu",
+          "party": "Independent",
+          "votes": 2916,
+          "votes_percentage": 2.4
+        }
+      ]
+    }
+  }
+}

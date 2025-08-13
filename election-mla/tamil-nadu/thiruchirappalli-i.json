@@ -1,0 +1,57 @@
+{
+  "state": "Tamil Nadu",
+  "constituency": "Thiruchirappalli-I",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 116787,
+        "total_votes_polled": 66313,
+        "turnout_percentage": 56.8,
+        "margin_votes": 2311,
+        "margin_percentage": 3.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "C. Manickam",
+          "party": "All India Anna Dravida Munnetra Kazhagam",
+          "votes": 21908,
+          "votes_percentage": 33.3
+        },
+        {
+          "position": 2,
+          "name": "A.V. Krishnamurthy",
+          "party": "Dravida Munetra Kazhagam",
+          "votes": 19597,
+          "votes_percentage": 29.8
+        },
+        {
+          "position": 3,
+          "name": "R. Subbian",
+          "party": "Janta Party",
+          "votes": 14350,
+          "votes_percentage": 21.8
+        },
+        {
+          "position": 4,
+          "name": "M. Palaniyandy",
+          "party": "Indian National Congress",
+          "votes": 9759,
+          "votes_percentage": 14.8
+        },
+        {
+          "position": 5,
+          "name": "Raja Alias N.A. Waheed",
+          "party": "Independent",
+          "votes": 191,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

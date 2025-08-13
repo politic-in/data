@@ -1,0 +1,71 @@
+{
+  "state": "West Bengal",
+  "constituency": "PHANSIDEWA (ST)",
+  "district": "Darjiling",
+  "ac_type": "ST",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 205478,
+        "total_votes_polled": 178651,
+        "turnout_percentage": 88.2,
+        "margin_votes": 7074,
+        "margin_percentage": 4.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sunil Chandra Tirkey",
+          "party": "Indian National Congress",
+          "votes": 73158,
+          "votes_percentage": 41.0
+        },
+        {
+          "position": 2,
+          "name": "Carolus Lakra",
+          "party": "All India Trinamool Congress",
+          "votes": 66084,
+          "votes_percentage": 37.0
+        },
+        {
+          "position": 3,
+          "name": "Durga Murmu",
+          "party": "Bharatiya Janta Party",
+          "votes": 32894,
+          "votes_percentage": 18.4
+        },
+        {
+          "position": 4,
+          "name": "Jemshan Tirkey",
+          "party": "Independent",
+          "votes": 2072,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 5,
+          "name": "Lalu Oraon",
+          "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+          "votes": 1596,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Bikash Birju",
+          "party": "Bahujan Mukti Party",
+          "votes": 1474,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 7,
+          "name": "Sushil Lakra",
+          "party": "Independent",
+          "votes": 1373,
+          "votes_percentage": 0.8
+        }
+      ]
+    }
+  }
+}

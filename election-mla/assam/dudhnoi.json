@@ -1,0 +1,141 @@
+{
+  "state": "Assam",
+  "constituency": "Dudhnoi",
+  "district": "Goalpara",
+  "ac_type": "ST",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 196503,
+        "total_votes_polled": 179388,
+        "turnout_percentage": 92.0,
+        "margin_votes": 1276,
+        "margin_percentage": 0.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jadab Swargiary",
+          "party": "Indian National Congress",
+          "votes": 78551,
+          "votes_percentage": 43.8
+        },
+        {
+          "position": 2,
+          "name": "Shyamjit Rabha",
+          "party": "Bharatiya Janta Party",
+          "votes": 77275,
+          "votes_percentage": 43.1
+        },
+        {
+          "position": 3,
+          "name": "Dipak Kumar Rabha",
+          "party": "Independent",
+          "votes": 16487,
+          "votes_percentage": 9.2
+        },
+        {
+          "position": 4,
+          "name": "Borjit Boro",
+          "party": "Voters Party  International",
+          "votes": 2462,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 5,
+          "name": "Batsrang G. Momin",
+          "party": "Independent",
+          "votes": 1475,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Diganta  Kumar  Rabha",
+          "party": "Janata Dal (United)",
+          "votes": 1270,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Manoj Kumar Basumatary (MUNITION)",
+          "party": "National People's Party",
+          "votes": 1190,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 8,
+          "name": "Anil Rabha",
+          "party": "Independent",
+          "votes": 678,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "04 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 151884,
+        "total_votes_polled": 125609,
+        "turnout_percentage": 82.7,
+        "margin_votes": 6017,
+        "margin_percentage": 4.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sib Charan Basumatary",
+          "party": "Indian National Congress",
+          "votes": 46890,
+          "votes_percentage": 37.3
+        },
+        {
+          "position": 2,
+          "name": "Diganta Kumar Rava",
+          "party": "Asom Gana Parisad",
+          "votes": 40873,
+          "votes_percentage": 32.5
+        },
+        {
+          "position": 3,
+          "name": "Florence G. Momin",
+          "party": "All India United Democratic Front",
+          "votes": 21003,
+          "votes_percentage": 16.7
+        },
+        {
+          "position": 4,
+          "name": "Bali Ram Boro",
+          "party": "Bharatiya Janta Party",
+          "votes": 10445,
+          "votes_percentage": 8.3
+        },
+        {
+          "position": 5,
+          "name": "Rama Kanta Khakhalary",
+          "party": "All India Trinamool Congress",
+          "votes": 3480,
+          "votes_percentage": 2.8
+        },
+        {
+          "position": 6,
+          "name": "Kaushalya Chaudhury Khakhalary",
+          "party": "Nationalist Congress Party",
+          "votes": 1597,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 7,
+          "name": "Bhupendra Rava",
+          "party": "Communist Party Of India",
+          "votes": 1321,
+          "votes_percentage": 1.1
+        }
+      ]
+    }
+  }
+}

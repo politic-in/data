@@ -1,0 +1,677 @@
+{
+  "state": "Jharkhand",
+  "constituency": "Ranchi",
+  "district": "Ranchi",
+  "ac_type": "GEN",
+  "results": {
+    "2024": {
+      "poll_date": "20 November 2024",
+      "counting_date": "23 November 2024",
+      "total_contestants": 18,
+      "aggregate": {
+        "total_electors": 379008,
+        "total_votes_polled": 198127,
+        "turnout_percentage": 52.5,
+        "margin_votes": 21949,
+        "margin_percentage": 11.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chandreshwar Prasad Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 107290,
+          "votes_percentage": 53.9
+        },
+        {
+          "position": 2,
+          "name": "Mahua Maji",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 85341,
+          "votes_percentage": 42.9
+        },
+        {
+          "position": 3,
+          "name": "Mahtab Alam",
+          "party": "All India Majlis-E-Ittehadul Muslimeen",
+          "votes": 934,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "Uttam Yadav",
+          "party": "Independent",
+          "votes": 776,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Pawan Kumar Choudhary",
+          "party": "Independent",
+          "votes": 631,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "Raj Kishor Mahto",
+          "party": "Jharkhand Loktantrik Krantikari Morcha",
+          "votes": 500,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Abhay Pratap Singh",
+          "party": "Bahujan Samaj Party",
+          "votes": 492,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Kumar Abhishek Dubey",
+          "party": "Rashtriya Jaihind Party",
+          "votes": 434,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Rani Kumari",
+          "party": "Independent",
+          "votes": 402,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Priyanka Kumari",
+          "party": "Independent",
+          "votes": 247,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Samir Kumar Singh",
+          "party": "Independent",
+          "votes": 222,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Vivek Krishna",
+          "party": "Independent",
+          "votes": 159,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Gautam Ram",
+          "party": "Peoples Party Of India (Democratic)",
+          "votes": 155,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Navindra Kumar Bharti",
+          "party": "Independent",
+          "votes": 140,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "Ayush Ranjan",
+          "party": "Independent",
+          "votes": 120,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 17,
+          "name": "Imtesham Ali",
+          "party": "Independent",
+          "votes": 107,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 18,
+          "name": "Alok Kumar",
+          "party": "Independent",
+          "votes": 102,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 19,
+          "name": "Sujit Kumar Barnwal",
+          "party": "Right To Recall Party",
+          "votes": 75,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "2020": {
+      "poll_date": "08 February 2020",
+      "counting_date": "11 February 2020",
+      "total_contestants": 12,
+      "aggregate": {
+        "total_electors": 327171,
+        "total_votes_polled": 168431,
+        "turnout_percentage": 55.1,
+        "margin_votes": 5904,
+        "margin_percentage": 3.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chandreshwar Prasad Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 79646,
+          "votes_percentage": 47.3
+        },
+        {
+          "position": 2,
+          "name": "Mahua Maji",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 73742,
+          "votes_percentage": 43.8
+        },
+        {
+          "position": 3,
+          "name": "Pawan Kumar Sharma",
+          "party": "Independent",
+          "votes": 6479,
+          "votes_percentage": 3.9
+        },
+        {
+          "position": 4,
+          "name": "Barsha Gari",
+          "party": "Ajsu Party",
+          "votes": 2603,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 5,
+          "name": "Sunil Kumar Gupta",
+          "party": "Jharkhand Vikas Morcha (Prajatantrik)",
+          "votes": 1973,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 6,
+          "name": "Sanjay Sahay",
+          "party": "Janata Dal (United)",
+          "votes": 895,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Rajan Kumar Singh",
+          "party": "Aam Aadmi Party",
+          "votes": 834,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Iftekhar Hassan Alias Nadeem Khan",
+          "party": "Independent",
+          "votes": 692,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Rajesh Kumar Pandey",
+          "party": "All India Trinamool Congress",
+          "votes": 598,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 10,
+          "name": "Neha Soni",
+          "party": "Bahujan Samaj Party",
+          "votes": 563,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 11,
+          "name": "Dinesh Soni",
+          "party": "Lok Jan Shakti Party",
+          "votes": 241,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Jyoti Bhengra",
+          "party": "Rashtriya Mahila Party",
+          "votes": 165,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "20 December 2014",
+      "counting_date": "24 December 2014",
+      "total_contestants": 17,
+      "aggregate": {
+        "total_electors": 305859,
+        "total_votes_polled": 148737,
+        "turnout_percentage": 48.6,
+        "total_valid_votes": 148020,
+        "total_valid_votes_percentage": 48.4,
+        "margin_votes": 58863,
+        "margin_percentage": 39.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chandreshwar Prasad Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 95760,
+          "votes_percentage": 64.4
+        },
+        {
+          "position": 2,
+          "name": "Mahua Maji",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 36897,
+          "votes_percentage": 24.8
+        },
+        {
+          "position": 3,
+          "name": "Surendra Singh",
+          "party": "Indian National Congress",
+          "votes": 7935,
+          "votes_percentage": 5.3
+        },
+        {
+          "position": 4,
+          "name": "Rajiv Ranjan Mishra",
+          "party": "Jharkhand Vikas Morcha (Prajatantrik)",
+          "votes": 2622,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 5,
+          "name": "Rajesh Kumar",
+          "party": "Independent",
+          "votes": 1057,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Iftekhar Hassan Alias Nadeem Khan",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 621,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Birendra Kumar Jaiswal",
+          "party": "Independent",
+          "votes": 515,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Abid Akhtar",
+          "party": "Indian Union Muslim League",
+          "votes": 509,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Mahfooz Alam",
+          "party": "Bahujan Samaj Party",
+          "votes": 481,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Md. Sahid",
+          "party": "Samajwadi Party",
+          "votes": 464,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 11,
+          "name": "Kumari Rakhi",
+          "party": "Independent",
+          "votes": 238,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Javed Salim",
+          "party": "Navjawan Sangharsh Morcha",
+          "votes": 191,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Mustak Quraishi",
+          "party": "Socialist Party (India)",
+          "votes": 177,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Mohammad Tauseef Ali  Ahsan",
+          "party": "Communist Party Of India (Marxist-Leninist) Red Star",
+          "votes": 160,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Nishant Kumar",
+          "party": "Independent",
+          "votes": 152,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "J.P. Mahto",
+          "party": "Lok Jan Vikas Morcha",
+          "votes": 135,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 17,
+          "name": "Yugeshwar Marar \"deen\"",
+          "party": "Jharkhand Vikas Dal",
+          "votes": 106,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "25 November 2009",
+      "counting_date": "23 December 2009",
+      "total_contestants": 18,
+      "aggregate": {
+        "total_electors": 353461,
+        "total_votes_polled": 116328,
+        "turnout_percentage": 32.9,
+        "total_valid_votes": 116326,
+        "total_valid_votes_percentage": 32.9,
+        "margin_votes": 27111,
+        "margin_percentage": 23.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chandreshwar Prasad Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 66161,
+          "votes_percentage": 56.9
+        },
+        {
+          "position": 2,
+          "name": "Pradeep Tulsyan",
+          "party": "Indian National Congress",
+          "votes": 39050,
+          "votes_percentage": 33.6
+        },
+        {
+          "position": 3,
+          "name": "Md. Sharfuddin",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 5174,
+          "votes_percentage": 4.5
+        },
+        {
+          "position": 4,
+          "name": "Rakesh Kumar Singh",
+          "party": "Ajsu Party",
+          "votes": 1968,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 5,
+          "name": "Jamil Aktar",
+          "party": "Independent",
+          "votes": 922,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Krishna Mohan Singh",
+          "party": "Lok Jan Shakti Party",
+          "votes": 603,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Leelawati Gupta",
+          "party": "Independent",
+          "votes": 498,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Rajesh Kumar",
+          "party": "Independent",
+          "votes": 361,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Sazzad Ali",
+          "party": "Jharkhand Janadikhar Party",
+          "votes": 310,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Sushil Kumar Narsaria",
+          "party": "Independent",
+          "votes": 244,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Mansoor Alam",
+          "party": "Independent",
+          "votes": 184,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Shiva Prasad Agrawal",
+          "party": "Akhil Bartiya Manav Seva Dal",
+          "votes": 156,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Ramesh Bharati",
+          "party": "Independent",
+          "votes": 151,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Jawed Akhtar",
+          "party": "Independent",
+          "votes": 149,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Ranjit Singh",
+          "party": "Bharatiya Rashtravadi Samanta Party",
+          "votes": 138,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "Ajay Kumar Khaitan",
+          "party": "Independent",
+          "votes": 89,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 17,
+          "name": "Surendra Kumar Suman",
+          "party": "Lok Jan Vikas Morcha",
+          "votes": 86,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 18,
+          "name": "Agam Lal Mahto",
+          "party": "Independent",
+          "votes": 84,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2005": {
+      "poll_date": "02 March 2005",
+      "counting_date": "27 February 2005",
+      "total_contestants": 20,
+      "aggregate": {
+        "total_electors": 285034,
+        "total_votes_polled": 143936,
+        "turnout_percentage": 50.5,
+        "margin_votes": 26120,
+        "margin_percentage": 18.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chandreshwar Prasad Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 74239,
+          "votes_percentage": 51.6
+        },
+        {
+          "position": 2,
+          "name": "Gopal Prasad Sahu",
+          "party": "Indian National Congress",
+          "votes": 48119,
+          "votes_percentage": 33.4
+        },
+        {
+          "position": 3,
+          "name": "Krishna Yadav",
+          "party": "Rashtriya Janata Dal",
+          "votes": 11370,
+          "votes_percentage": 7.9
+        },
+        {
+          "position": 4,
+          "name": "Ramesh Singh Alias Ram Singh",
+          "party": "Independent",
+          "votes": 2588,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 5,
+          "name": "Mansoor Alam",
+          "party": "Bahujan Samaj Party",
+          "votes": 1250,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Srimanim Belkhas Kujur",
+          "party": "Independent",
+          "votes": 988,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Barun Kumar Saha",
+          "party": "All India Trinamool Congress",
+          "votes": 836,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "Ramesh Bharti",
+          "party": "Independent",
+          "votes": 652,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 9,
+          "name": "Kumod Kumar Verma",
+          "party": "United Goans Democratic Party",
+          "votes": 588,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 10,
+          "name": "Rani Kumari",
+          "party": "Lok Jan Shakti Party",
+          "votes": 537,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 11,
+          "name": "Imran Hassan",
+          "party": "Jharkhand Vikas Dal",
+          "votes": 519,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 12,
+          "name": "Kaushal Kishore",
+          "party": "Independent",
+          "votes": 389,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 13,
+          "name": "Pushpa Toppo",
+          "party": "Independent",
+          "votes": 362,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 14,
+          "name": "Pandey Himansu Nath Ray",
+          "party": "Independent",
+          "votes": 360,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 15,
+          "name": "Anand Kuamr Jaiswal",
+          "party": "Independent",
+          "votes": 294,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 16,
+          "name": "Rajesh Kumar",
+          "party": "Independent",
+          "votes": 235,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 17,
+          "name": "Shamim Ansari",
+          "party": "Jharkhand Party",
+          "votes": 195,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 18,
+          "name": "Vijay Kumar",
+          "party": "Jharkhand Ki Krantikari Party",
+          "votes": 151,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 19,
+          "name": "Sita Ram Sahu",
+          "party": "Independent",
+          "votes": 133,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 20,
+          "name": "Pradip Kumar Sahu",
+          "party": "Sadan Vikas Party",
+          "votes": 131,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

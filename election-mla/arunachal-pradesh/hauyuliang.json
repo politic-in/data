@@ -1,0 +1,71 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Hauyuliang",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "1999": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 10022,
+        "total_votes_polled": 8144,
+        "turnout_percentage": 81.3,
+        "margin_votes": 6212,
+        "margin_percentage": 76.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kalikho Pul",
+          "party": "Indian National Congress",
+          "votes": 6778,
+          "votes_percentage": 86.2
+        },
+        {
+          "position": 2,
+          "name": "Khuje Drai",
+          "party": "Bharatiya Janta Party",
+          "votes": 566,
+          "votes_percentage": 7.2
+        },
+        {
+          "position": 3,
+          "name": "Chandolum Chira",
+          "party": "Arunachal Congress",
+          "votes": 521,
+          "votes_percentage": 6.6
+        }
+      ]
+    },
+    "1995": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 9160,
+        "total_votes_polled": 7969,
+        "turnout_percentage": 87.0,
+        "margin_votes": 2698,
+        "margin_percentage": 33.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kalikho Pul",
+          "party": "Indian National Congress",
+          "votes": 5261,
+          "votes_percentage": 67.2
+        },
+        {
+          "position": 2,
+          "name": "Khapriso Krong",
+          "party": "Janata Dal",
+          "votes": 2563,
+          "votes_percentage": 32.8
+        }
+      ]
+    }
+  }
+}

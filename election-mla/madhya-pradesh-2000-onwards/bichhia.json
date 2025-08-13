@@ -1,0 +1,57 @@
+{
+  "state": "Madhya Pradesh [2000 Onwards]",
+  "constituency": "Bichhia",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "2003": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 141308,
+        "total_votes_polled": 101931,
+        "turnout_percentage": 72.1,
+        "margin_votes": 6916,
+        "margin_percentage": 6.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pandit Singh Dhurwey",
+          "party": "Bharatiya Janta Party",
+          "votes": 34815,
+          "votes_percentage": 34.2
+        },
+        {
+          "position": 2,
+          "name": "Kamal Singh Maravi",
+          "party": "Gondvana Gantantra Party",
+          "votes": 27899,
+          "votes_percentage": 27.4
+        },
+        {
+          "position": 3,
+          "name": "Tulsiram Dhumketi",
+          "party": "Indian National Congress",
+          "votes": 26575,
+          "votes_percentage": 26.1
+        },
+        {
+          "position": 4,
+          "name": "Bihari Lal Dhurwe",
+          "party": "Nationalist Congress Party",
+          "votes": 7449,
+          "votes_percentage": 7.3
+        },
+        {
+          "position": 5,
+          "name": "Sahdev Singh Tekam",
+          "party": "Independent",
+          "votes": 5105,
+          "votes_percentage": 5.0
+        }
+      ]
+    }
+  }
+}

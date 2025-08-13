@@ -1,0 +1,43 @@
+{
+  "state": "Goa",
+  "constituency": "Loutulim",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2007": {
+      "poll_date": "02 June 2007",
+      "counting_date": "05 June 2007",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 22626,
+        "total_votes_polled": 14869,
+        "turnout_percentage": 65.7,
+        "margin_votes": 1541,
+        "margin_percentage": 10.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Aleixo Seqeira",
+          "party": "Indian National Congress",
+          "votes": 6435,
+          "votes_percentage": 43.3
+        },
+        {
+          "position": 2,
+          "name": "Fernandes Piedade Remegio (REMY)",
+          "party": "Save Goa Front",
+          "votes": 4894,
+          "votes_percentage": 32.9
+        },
+        {
+          "position": 3,
+          "name": "Dourado Pausilipo Eviaco Estivao",
+          "party": "Independent",
+          "votes": 3534,
+          "votes_percentage": 23.8
+        }
+      ]
+    }
+  }
+}

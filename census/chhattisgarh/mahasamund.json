@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 66235,
+        "male": 68213,
+        "percentage_of_total_population": 13.02,
+        "percentage_of_total_population_calculated": 13.02,
+        "percentage_of_total_population_stated": 13.02,
+        "sex_ratio": 971,
+        "total": 134448
+    },
+    "literacy": {
+        "female_literacy_rate": 60.25,
+        "female_literate": 273874,
+        "male_literacy_rate": 82.05,
+        "male_literate": 364089,
+        "rate_percentage": 71.02,
+        "total_literate": 637963
+    },
+    "population": {
+        "female": 520787,
+        "male": 511967,
+        "sex_ratio": 1017,
+        "total": 1032754
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.05,
+            "population": 521
+        },
+        "Christian": {
+            "percentage": 0.51,
+            "population": 5284
+        },
+        "Hindu": {
+            "percentage": 97.61,
+            "population": 1008061
+        },
+        "Jain": {
+            "percentage": 0.14,
+            "population": 1495
+        },
+        "Muslims": {
+            "percentage": 1.22,
+            "population": 12570
+        },
+        "Not Stated": {
+            "percentage": 0.05,
+            "population": 465
+        },
+        "Others": {
+            "percentage": 0.14,
+            "population": 1417
+        },
+        "Sikh": {
+            "percentage": 0.28,
+            "population": 2941
+        }
+    },
+    "rural": {
+        "child_population_female": 58841,
+        "child_population_male": 60428,
+        "child_population_percentage": 13.07,
+        "child_population_percentage_calculated": 13.07,
+        "child_population_percentage_stated": 13.07,
+        "child_population_total": 119269,
+        "child_sex_ratio": 974,
+        "female": 460911,
+        "literacy_rate_female": 58.42,
+        "literacy_rate_male": 81.06,
+        "literacy_rate_percentage": 69.59,
+        "literate_female": 234896,
+        "literate_male": 317171,
+        "literate_total": 552067,
+        "male": 451691,
+        "percentage_population": 88.37,
+        "population": 912602,
+        "sex_ratio": 1020
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/496-mahasamund.html",
+    "urban": {
+        "child_population_female": 7400,
+        "child_population_male": 7779,
+        "child_population_percentage": 12.63,
+        "child_population_percentage_calculated": 12.63,
+        "child_population_percentage_stated": 12.63,
+        "child_population_total": 15179,
+        "child_sex_ratio": 951,
+        "female": 59876,
+        "literacy_rate_female": 74.28,
+        "literacy_rate_male": 89.37,
+        "literacy_rate_percentage": 81.83,
+        "literate_female": 38978,
+        "literate_male": 46918,
+        "literate_total": 85896,
+        "male": 60276,
+        "percentage_population": 11.63,
+        "population": 120152,
+        "sex_ratio": 993
+    }
+}

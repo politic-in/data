@@ -1,0 +1,194 @@
+{
+  "state": "Sikkim",
+  "constituency": "West pendam",
+  "district": "East",
+  "ac_type": "SC",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 14984,
+        "total_votes_polled": 11600,
+        "turnout_percentage": 78.0,
+        "margin_votes": 898,
+        "margin_percentage": 7.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "L .B Das",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 5799,
+          "votes_percentage": 50.0
+        },
+        {
+          "position": 2,
+          "name": "Gopal Baraily",
+          "party": "Sikkim Democratic Front",
+          "votes": 4901,
+          "votes_percentage": 42.3
+        },
+        {
+          "position": 3,
+          "name": "Birendra Pourali",
+          "party": "Bharatiya Janta Party",
+          "votes": 597,
+          "votes_percentage": 5.2
+        },
+        {
+          "position": 4,
+          "name": "Binod Darjee",
+          "party": "Indian National Congress",
+          "votes": 101,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Santosh Bardewa",
+          "party": "Independent",
+          "votes": 64,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Indra Kr Suji",
+          "party": "Hamro Sikkim Party",
+          "votes": 60,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Bikash Darjee",
+          "party": "Independent",
+          "votes": 47,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Sonam Darjee",
+          "party": "Sikkim Republican Party",
+          "votes": 31,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "12 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 12399,
+        "total_votes_polled": 10261,
+        "turnout_percentage": 82.8,
+        "total_valid_votes": 10148,
+        "total_valid_votes_percentage": 81.8,
+        "margin_votes": 920,
+        "margin_percentage": 9.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gopal Baraily",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 5382,
+          "votes_percentage": 53.0
+        },
+        {
+          "position": 2,
+          "name": "K. K. Thatal",
+          "party": "Sikkim Democratic Front",
+          "votes": 4462,
+          "votes_percentage": 44.0
+        },
+        {
+          "position": 3,
+          "name": "Amar Lohar",
+          "party": "Bharatiya Janta Party",
+          "votes": 157,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 4,
+          "name": "Ranjeet Gazmer",
+          "party": "Indian National Congress",
+          "votes": 74,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Mohan Lall Thatal(DARJEE)",
+          "party": "All India Trinamool Congress",
+          "votes": 73,
+          "votes_percentage": 0.7
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "30 April 2009",
+      "counting_date": "05 June 2009",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 9350,
+        "total_votes_polled": 7755,
+        "turnout_percentage": 82.9,
+        "total_valid_votes": 7639,
+        "total_valid_votes_percentage": 81.7,
+        "margin_votes": 1063,
+        "margin_percentage": 13.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Neeru Sewa",
+          "party": "Sikkim Democratic Front",
+          "votes": 4151,
+          "votes_percentage": 53.5
+        },
+        {
+          "position": 2,
+          "name": "Jagdish Cintury",
+          "party": "Indian National Congress",
+          "votes": 3088,
+          "votes_percentage": 39.8
+        },
+        {
+          "position": 3,
+          "name": "S.K. Bardewa",
+          "party": "Bharatiya Janta Party",
+          "votes": 212,
+          "votes_percentage": 2.7
+        },
+        {
+          "position": 4,
+          "name": "Tika Ghatani",
+          "party": "Sikkim Gorkha Prajatantric Party",
+          "votes": 116,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Tek Bahadur Thatal",
+          "party": "Sikkim Himali Rajya Parishad",
+          "votes": 73,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Nandalal Darjee",
+          "party": "Independent",
+          "votes": 71,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 7,
+          "name": "Jit Man Darjee",
+          "party": "Nationalist Congress Party",
+          "votes": 44,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "state": "Uttarakhand",
+  "constituency": "SOMESHWAR(SC)",
+  "district": "Almora",
+  "ac_type": "SC",
+  "results": {
+    "2022": {
+      "poll_date": "14 February 2022",
+      "counting_date": "10 March 2022",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_votes_polled": 49218,
+        "turnout_percentage": 0.0,
+        "margin_votes": 5293,
+        "margin_percentage": 10.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rekha Arya",
+          "party": "Bharatiya Janta Party",
+          "votes": 26161,
+          "votes_percentage": 53.2
+        },
+        {
+          "position": 2,
+          "name": "Rajendra Barakoti",
+          "party": "Indian National Congress",
+          "votes": 20868,
+          "votes_percentage": 42.4
+        },
+        {
+          "position": 3,
+          "name": "Madhubala",
+          "party": "Independent",
+          "votes": 735,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 4,
+          "name": "Harish Chandra",
+          "party": "Aam Aadmi Party",
+          "votes": 588,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 5,
+          "name": "Kiran Arya",
+          "party": "Uttarakhand Parivartan Party",
+          "votes": 426,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Govind Lal",
+          "party": "Independent",
+          "votes": 195,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Dinesh Chandra",
+          "party": "Peoples Party Of India (Democratic)",
+          "votes": 155,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Balwant Arya",
+          "party": "Samajwadi Party",
+          "votes": 90,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

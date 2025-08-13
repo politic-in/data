@@ -1,0 +1,106 @@
+{
+  "state": "Goa",
+  "constituency": "Rivona",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1984": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 16049,
+        "total_votes_polled": 11953,
+        "turnout_percentage": 74.5,
+        "margin_votes": 959,
+        "margin_percentage": 8.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Velip Prakash Shankar",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 4644,
+          "votes_percentage": 40.3
+        },
+        {
+          "position": 2,
+          "name": "Phal Dessai Sahnkar",
+          "party": "Indian National Congress",
+          "votes": 3685,
+          "votes_percentage": 32.0
+        },
+        {
+          "position": 3,
+          "name": "Fal Dessai Dinanath Purshotam",
+          "party": "Independent",
+          "votes": 1910,
+          "votes_percentage": 16.6
+        },
+        {
+          "position": 4,
+          "name": "Sawant Dessai Raghoba Pokko",
+          "party": "Bharatiya Janta Party",
+          "votes": 660,
+          "votes_percentage": 5.7
+        },
+        {
+          "position": 5,
+          "name": "Gaonkar Gurguro Gurko",
+          "party": "Independent",
+          "votes": 622,
+          "votes_percentage": 5.4
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 13078,
+        "total_votes_polled": 8796,
+        "turnout_percentage": 67.3,
+        "margin_votes": 1071,
+        "margin_percentage": 12.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dessai Dilkush Fotu",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 3442,
+          "votes_percentage": 40.3
+        },
+        {
+          "position": 2,
+          "name": "Desai Molu Ganaba",
+          "party": "Indian National Congress",
+          "votes": 2371,
+          "votes_percentage": 27.7
+        },
+        {
+          "position": 3,
+          "name": "Velip Candrakant Deu",
+          "party": "Independent",
+          "votes": 1932,
+          "votes_percentage": 22.6
+        },
+        {
+          "position": 4,
+          "name": "Dessai Sushema Shaba",
+          "party": "Janta Party",
+          "votes": 617,
+          "votes_percentage": 7.2
+        },
+        {
+          "position": 5,
+          "name": "Kurtikar Dulo Chimlo",
+          "party": "Independent",
+          "votes": 190,
+          "votes_percentage": 2.2
+        }
+      ]
+    }
+  }
+}

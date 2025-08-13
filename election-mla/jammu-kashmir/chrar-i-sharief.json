@@ -1,0 +1,80 @@
+{
+  "state": "Jammu & Kashmir",
+  "constituency": "Chrar-i-sharief",
+  "district": "Badgam",
+  "ac_type": "GEN",
+  "results": {
+    "2014": {
+      "poll_date": "20 December 2014",
+      "counting_date": "24 December 2014",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 78348,
+        "total_votes_polled": 64600,
+        "turnout_percentage": 82.5,
+        "total_valid_votes": 64237,
+        "total_valid_votes_percentage": 82.0,
+        "margin_votes": 5167,
+        "margin_percentage": 8.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ghulam Nabi Lone",
+          "party": "Jammu & Kashmir Peoples Democratic Party",
+          "votes": 32849,
+          "votes_percentage": 50.9
+        },
+        {
+          "position": 2,
+          "name": "Abdul Rahim Rather",
+          "party": "Jammu & Kashmir National Conference",
+          "votes": 27682,
+          "votes_percentage": 42.9
+        },
+        {
+          "position": 3,
+          "name": "Zahid Hussain",
+          "party": "Indian National Congress",
+          "votes": 922,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 4,
+          "name": "Ghulam Mohamad Chopan",
+          "party": "Bharatiya Janta Party",
+          "votes": 845,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 5,
+          "name": "Mohammad Lateef Lone",
+          "party": "Jammu & Kashmir People Conference",
+          "votes": 727,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Showkat Ahmad Raina",
+          "party": "Independent",
+          "votes": 579,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 7,
+          "name": "Nazir Ahmad Rather",
+          "party": "Independent",
+          "votes": 362,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "Mushtaq Ahmad Baba",
+          "party": "All J & K Kisan Majdoor Party",
+          "votes": 271,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

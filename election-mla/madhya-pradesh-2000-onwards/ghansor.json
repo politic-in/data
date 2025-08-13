@@ -1,0 +1,50 @@
+{
+  "state": "Madhya Pradesh [2000 Onwards]",
+  "constituency": "Ghansor",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "2003": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 142290,
+        "total_votes_polled": 111502,
+        "turnout_percentage": 78.4,
+        "margin_votes": 25643,
+        "margin_percentage": 23.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ram Gulam Uikey",
+          "party": "Gondvana Gantantra Party",
+          "votes": 55389,
+          "votes_percentage": 49.7
+        },
+        {
+          "position": 2,
+          "name": "Ashok Tekam",
+          "party": "Bharatiya Janta Party",
+          "votes": 29746,
+          "votes_percentage": 26.7
+        },
+        {
+          "position": 3,
+          "name": "Urmila Singh",
+          "party": "Indian National Congress",
+          "votes": 23160,
+          "votes_percentage": 20.8
+        },
+        {
+          "position": 4,
+          "name": "Ghoor Singh Sallam",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 3207,
+          "votes_percentage": 2.9
+        }
+      ]
+    }
+  }
+}

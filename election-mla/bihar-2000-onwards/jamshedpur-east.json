@@ -1,0 +1,85 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "Jamshedpur East",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 219997,
+        "total_votes_polled": 111099,
+        "turnout_percentage": 50.5,
+        "margin_votes": 47963,
+        "margin_percentage": 43.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Raghubar Das",
+          "party": "Bharatiya Janta Party",
+          "votes": 70358,
+          "votes_percentage": 63.9
+        },
+        {
+          "position": 2,
+          "name": "K.P. Singh",
+          "party": "Indian National Congress",
+          "votes": 22395,
+          "votes_percentage": 20.3
+        },
+        {
+          "position": 3,
+          "name": "Radhe Prasad Yadav",
+          "party": "Rashtriya Janata Dal",
+          "votes": 9785,
+          "votes_percentage": 8.9
+        },
+        {
+          "position": 4,
+          "name": "Shailendra Singh",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 4854,
+          "votes_percentage": 4.4
+        },
+        {
+          "position": 5,
+          "name": "Shankar Dayal Singh",
+          "party": "Communist Party Of India",
+          "votes": 1818,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 6,
+          "name": "Bhogendra Mishra",
+          "party": "Bhartiya Jana Congress (Rashtriya)",
+          "votes": 540,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Byas Prasad Shahi",
+          "party": "Shiv Sena",
+          "votes": 224,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "Haladhar Soren",
+          "party": "Independent",
+          "votes": 80,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Phatik Chandra Ganguli",
+          "party": "Independent",
+          "votes": 55,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

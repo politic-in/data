@@ -1,0 +1,50 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "Sidhaur",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 114930,
+        "total_votes_polled": 40427,
+        "turnout_percentage": 35.2,
+        "margin_votes": 18395,
+        "margin_percentage": 45.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ram Sagar",
+          "party": "Janta Party",
+          "votes": 27147,
+          "votes_percentage": 68.3
+        },
+        {
+          "position": 2,
+          "name": "Anand Prakash",
+          "party": "Indian National Congress",
+          "votes": 8752,
+          "votes_percentage": 22.0
+        },
+        {
+          "position": 3,
+          "name": "Sheo Kailash",
+          "party": "Independent",
+          "votes": 3264,
+          "votes_percentage": 8.2
+        },
+        {
+          "position": 4,
+          "name": "Surendra Pal Singh",
+          "party": "Independent",
+          "votes": 602,
+          "votes_percentage": 1.5
+        }
+      ]
+    }
+  }
+}

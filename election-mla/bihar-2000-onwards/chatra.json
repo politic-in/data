@@ -1,0 +1,64 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "Chatra",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 207453,
+        "total_votes_polled": 77535,
+        "turnout_percentage": 37.4,
+        "margin_votes": 6495,
+        "margin_percentage": 8.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Satyanand Bhokata",
+          "party": "Bharatiya Janta Party",
+          "votes": 34177,
+          "votes_percentage": 45.2
+        },
+        {
+          "position": 2,
+          "name": "Janardan Paswan",
+          "party": "Rashtriya Janata Dal",
+          "votes": 27682,
+          "votes_percentage": 36.6
+        },
+        {
+          "position": 3,
+          "name": "Badri Ram",
+          "party": "Indian National Congress",
+          "votes": 9791,
+          "votes_percentage": 12.9
+        },
+        {
+          "position": 4,
+          "name": "Vinesh Das",
+          "party": "Independent",
+          "votes": 2942,
+          "votes_percentage": 3.9
+        },
+        {
+          "position": 5,
+          "name": "Bhim Choudhary",
+          "party": "Independent",
+          "votes": 588,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Vinay Paswan",
+          "party": "Bahujan Samaj Party",
+          "votes": 465,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

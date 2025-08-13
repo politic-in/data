@@ -1,0 +1,100 @@
+{
+    "child_population": {
+        "female": 6023,
+        "male": 6737,
+        "percentage_of_total_population": 8.99,
+        "percentage_of_total_population_calculated": 8.99,
+        "percentage_of_total_population_stated": 8.99,
+        "sex_ratio": 894,
+        "total": 12760
+    },
+    "literacy": {
+        "female_literacy_rate": 83.56,
+        "female_literate": 48501,
+        "male_literacy_rate": 92.24,
+        "male_literate": 65678,
+        "rate_percentage": 88.34,
+        "total_literate": 114179
+    },
+    "population": {
+        "female": 64062,
+        "male": 77942,
+        "sex_ratio": 822,
+        "total": 142004
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.22,
+            "population": 312
+        },
+        "Christian": {
+            "percentage": 3.42,
+            "population": 4852
+        },
+        "Hindu": {
+            "percentage": 87.66,
+            "population": 124482
+        },
+        "Jain": {
+            "percentage": 0.48,
+            "population": 679
+        },
+        "Muslims": {
+            "percentage": 5.97,
+            "population": 8480
+        },
+        "Not Stated": {
+            "percentage": 0.14,
+            "population": 200
+        },
+        "Others": {
+            "percentage": 0.05,
+            "population": 66
+        },
+        "Sikh": {
+            "percentage": 2.07,
+            "population": 2933
+        }
+    },
+    "rural": {
+        "child_population_female": 0,
+        "child_population_male": 0,
+        "child_population_percentage": 0.0,
+        "child_population_percentage_stated": 0.0,
+        "child_population_total": 0,
+        "child_sex_ratio": 0,
+        "female": 0,
+        "literacy_rate_female": 0.0,
+        "literacy_rate_male": 0.0,
+        "literacy_rate_percentage": 0.0,
+        "literate_female": 0,
+        "literate_male": 0,
+        "literate_total": 0,
+        "male": 0,
+        "percentage_population": 0.0,
+        "population": 0,
+        "sex_ratio": 0
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/172-new-delhi.html",
+    "urban": {
+        "child_population_female": 6022,
+        "child_population_male": 6738,
+        "child_population_percentage": 8.99,
+        "child_population_percentage_calculated": 8.99,
+        "child_population_percentage_stated": 8.99,
+        "child_population_total": 12760,
+        "child_sex_ratio": 894,
+        "female": 64062,
+        "literacy_rate_female": 83.56,
+        "literacy_rate_male": 92.24,
+        "literacy_rate_percentage": 88.34,
+        "literate_female": 48501,
+        "literate_male": 65678,
+        "literate_total": 114179,
+        "male": 77942,
+        "percentage_population": 100.0,
+        "population": 142004,
+        "sex_ratio": 822
+    }
+}

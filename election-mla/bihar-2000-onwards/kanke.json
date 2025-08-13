@@ -1,0 +1,85 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "Kanke",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 216280,
+        "total_votes_polled": 91967,
+        "turnout_percentage": 42.5,
+        "margin_votes": 17391,
+        "margin_percentage": 18.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ram Chandra Nayak",
+          "party": "Bharatiya Janta Party",
+          "votes": 41994,
+          "votes_percentage": 46.2
+        },
+        {
+          "position": 2,
+          "name": "Samri Lal",
+          "party": "Rashtriya Janata Dal",
+          "votes": 24603,
+          "votes_percentage": 27.1
+        },
+        {
+          "position": 3,
+          "name": "Vikram Jai Kishore",
+          "party": "Indian National Congress",
+          "votes": 11679,
+          "votes_percentage": 12.8
+        },
+        {
+          "position": 4,
+          "name": "Vindhyachal Ram",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 4372,
+          "votes_percentage": 4.8
+        },
+        {
+          "position": 5,
+          "name": "Hari Ram",
+          "party": "Nationalist Congress Party",
+          "votes": 4187,
+          "votes_percentage": 4.6
+        },
+        {
+          "position": 6,
+          "name": "Chuni Lal Nayak",
+          "party": "Communist Party Of India",
+          "votes": 2314,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 7,
+          "name": "Sarjeev Mirdha",
+          "party": "Samajwadi Party",
+          "votes": 649,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 8,
+          "name": "Chandrika Prasad Paswan",
+          "party": "Independent",
+          "votes": 574,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 9,
+          "name": "Ramchandra Ram",
+          "party": "Independent",
+          "votes": 565,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

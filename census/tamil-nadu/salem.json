@@ -1,0 +1,105 @@
+{
+  "district": "Salem",
+  "state": "Tamil Nadu",
+  "census_year": 2011,
+  "source": "https://www.census2011.co.in/census/district/28-salem.html",
+  "population": {
+    "total": 3482056,
+    "male": 1781571,
+    "female": 1700485,
+    "sex_ratio": 954
+  },
+  "area_distribution": {
+    "urban": {
+      "percentage_of_total_population": 50.95,
+      "total_population": 1774122,
+      "male": 898297,
+      "female": 875825,
+      "sex_ratio": 975,
+      "child_population_0_6": {
+        "total": 171539,
+        "male": 88651,
+        "female": 82888,
+        "sex_ratio": 935,
+        "percentage_of_urban_population": 9.67
+      },
+      "literacy": {
+        "rate": 79.67,
+        "male_rate": 85.79,
+        "female_rate": 73.43,
+        "total_literates": 1276801
+      }
+    },
+    "rural": {
+      "percentage_of_total_population": 49.05,
+      "total_population": 1707934,
+      "male": 883274,
+      "female": 824660,
+      "sex_ratio": 934,
+      "child_population_0_6": {
+        "total": 173421,
+        "male": 91351,
+        "female": 82070,
+        "sex_ratio": 898,
+        "percentage_of_rural_population": 10.15
+      },
+      "literacy": {
+        "rate": 65.74,
+        "male_rate": 74.57,
+        "female_rate": 56.32,
+        "total_literates": 1008761
+      }
+    }
+  },
+  "age_groups": {
+    "children_0_6_years": {
+      "total": 344960,
+      "male": 180002,
+      "female": 164958,
+      "sex_ratio": 916,
+      "percentage_of_total_population": 9.91
+    }
+  },
+  "literacy_overall_district": {
+    "rate": 72.86,
+    "male_rate": 80.24,
+    "female_rate": 65.15,
+    "total_literates": 2285562
+  },
+  "religion_distribution": {
+    "hindu": {
+      "percentage": 95.53,
+      "population": 3326357
+    },
+    "muslim": {
+      "percentage": 2.74,
+      "population": 95487
+    },
+    "christian": {
+      "percentage": 1.55,
+      "population": 53841
+    },
+    "sikh": {
+      "percentage": 0.01,
+      "population": 412
+    },
+    "buddhist": {
+      "percentage": 0.005,
+      "population": 174
+    },
+    "jain": {
+      "percentage": 0.03,
+      "population": 992
+    },
+    "other_religions": {
+      "percentage": 0.01,
+      "population": 246
+    },
+    "not_stated": {
+      "percentage": 0.13,
+      "population": 4547
+    }
+  },
+  "scheduled_caste_sc_population": null,
+  "scheduled_tribe_st_population": null
+}

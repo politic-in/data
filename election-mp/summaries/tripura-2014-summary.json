@@ -1,0 +1,45 @@
+{
+  "state": "Tripura",
+  "year": "2014",
+  "summary_stats": {
+    "total_electors_state": 2388819,
+    "total_votes_polled_state": 2023859,
+    "turnout_percentage_state": 84.7,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Tripura East",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Tripura",
+      "winning_candidate": "Jitendra Choudhury",
+      "winning_party": "Communist Party Of India (MARXIST)",
+      "total_electors_ac": 1140269,
+      "total_votes_ac": 951110,
+      "poll_percentage_ac": 0.0,
+      "margin": 484358,
+      "margin_percentage": 50.9,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2014/tripura/tripura-east/8140/25/16"
+    },
+    {
+      "ac_name": "Tripura West",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Tripura",
+      "winning_candidate": "Sankar Prasad Datta",
+      "winning_party": "Communist Party Of India (MARXIST)",
+      "total_electors_ac": 1248550,
+      "total_votes_ac": 1072749,
+      "poll_percentage_ac": 0.0,
+      "margin": 503486,
+      "margin_percentage": 46.9,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2014/tripura/tripura-west/8139/25/16"
+    }
+  ]
+}

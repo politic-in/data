@@ -1,0 +1,120 @@
+{
+  "state": "Himachal Pradesh",
+  "constituency": "KASAULI(SC)",
+  "district": "Solan",
+  "ac_type": "SC",
+  "results": {
+    "2022": {
+      "poll_date": "12 November 2022",
+      "counting_date": "08 December 2022",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 66981,
+        "total_votes_polled": 53777,
+        "turnout_percentage": 80.8,
+        "margin_votes": 6768,
+        "margin_percentage": 12.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Vinod Sultanpuri",
+          "party": "Indian National Congress",
+          "votes": 28200,
+          "votes_percentage": 52.1
+        },
+        {
+          "position": 2,
+          "name": "Rajiv Saizal",
+          "party": "Bharatiya Janta Party",
+          "votes": 21432,
+          "votes_percentage": 39.6
+        },
+        {
+          "position": 3,
+          "name": "Harmel Singh",
+          "party": "Aam Aadmi Party",
+          "votes": 1809,
+          "votes_percentage": 3.3
+        },
+        {
+          "position": 4,
+          "name": "Rajeev Kumar Kaundel",
+          "party": "Rashtriya Devbhumi Party",
+          "votes": 1677,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 5,
+          "name": "Om Prakash",
+          "party": "Independent",
+          "votes": 331,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Rajinder",
+          "party": "Himachal Jan Kranti Party",
+          "votes": 211,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Ram Rattan",
+          "party": "Bahujan Samaj Party",
+          "votes": 117,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2017": {
+      "poll_date": "09 November 2017",
+      "counting_date": "18 December 2017",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 61878,
+        "total_votes_polled": 48172,
+        "turnout_percentage": 78.7,
+        "margin_votes": 442,
+        "margin_percentage": 0.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rajiv Saizal",
+          "party": "Bharatiya Janta Party",
+          "votes": 23656,
+          "votes_percentage": 49.1
+        },
+        {
+          "position": 2,
+          "name": "Vinod Sultanpuri",
+          "party": "Indian National Congress",
+          "votes": 23214,
+          "votes_percentage": 48.2
+        },
+        {
+          "position": 3,
+          "name": "Virender Kumar Kashyap",
+          "party": "Communist Party Of India",
+          "votes": 652,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 4,
+          "name": "Rajeev Kumar Kaundal",
+          "party": "Independent",
+          "votes": 329,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Keshav Kumar",
+          "party": "Swabhiman Party",
+          "votes": 321,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

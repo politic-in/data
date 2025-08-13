@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 60953,
+        "male": 64433,
+        "percentage_of_total_population": 10.0,
+        "percentage_of_total_population_calculated": 10.0,
+        "percentage_of_total_population_stated": 10.0,
+        "sex_ratio": 946,
+        "total": 125386
+    },
+    "literacy": {
+        "female_literacy_rate": 85.07,
+        "female_literate": 463964,
+        "male_literacy_rate": 92.13,
+        "male_literate": 537227,
+        "rate_percentage": 88.71,
+        "total_literate": 1001191
+    },
+    "population": {
+        "female": 606353,
+        "male": 647585,
+        "sex_ratio": 936,
+        "total": 1253938
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.13,
+            "population": 1627
+        },
+        "Christian": {
+            "percentage": 1.5,
+            "population": 18810
+        },
+        "Hindu": {
+            "percentage": 84.89,
+            "population": 1064412
+        },
+        "Jain": {
+            "percentage": 0.74,
+            "population": 9250
+        },
+        "Muslims": {
+            "percentage": 12.05,
+            "population": 151071
+        },
+        "Not Stated": {
+            "percentage": 0.39,
+            "population": 4919
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 170
+        },
+        "Sikh": {
+            "percentage": 0.29,
+            "population": 3679
+        }
+    },
+    "rural": {
+        "child_population_female": 13527,
+        "child_population_male": 13806,
+        "child_population_percentage": 12.6,
+        "child_population_percentage_calculated": 12.6,
+        "child_population_percentage_stated": 12.6,
+        "child_population_total": 27333,
+        "child_sex_ratio": 980,
+        "female": 105865,
+        "literacy_rate_female": 70.22,
+        "literacy_rate_male": 82.36,
+        "literacy_rate_percentage": 76.45,
+        "literate_female": 64838,
+        "literate_male": 80103,
+        "literate_total": 144941,
+        "male": 111062,
+        "percentage_population": 17.3,
+        "population": 216927,
+        "sex_ratio": 953
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/156-kamrup-metropolitan.html",
+    "urban": {
+        "child_population_female": 47415,
+        "child_population_male": 50638,
+        "child_population_percentage": 9.46,
+        "child_population_percentage_calculated": 9.46,
+        "child_population_percentage_stated": 9.46,
+        "child_population_total": 98053,
+        "child_sex_ratio": 936,
+        "female": 500488,
+        "literacy_rate_female": 88.09,
+        "literacy_rate_male": 94.08,
+        "literacy_rate_percentage": 91.19,
+        "literate_female": 399126,
+        "literate_male": 457124,
+        "literate_total": 856250,
+        "male": 536523,
+        "percentage_population": 82.7,
+        "population": 1037011,
+        "sex_ratio": 933
+    }
+}

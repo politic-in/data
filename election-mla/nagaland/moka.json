@@ -1,0 +1,325 @@
+{
+  "state": "Nagaland",
+  "constituency": "MOKA",
+  "district": "Mon",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 16125,
+        "total_votes_polled": 15220,
+        "turnout_percentage": 94.6,
+        "margin_votes": 148,
+        "margin_percentage": 1.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "E. E. Pangteang",
+          "party": "Naga Peoples Front",
+          "votes": 7684,
+          "votes_percentage": 50.5
+        },
+        {
+          "position": 2,
+          "name": "K. Kiko Konyak",
+          "party": "Nationalist Democratic Progressive Party",
+          "votes": 7536,
+          "votes_percentage": 49.5
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "23 February 2013",
+      "counting_date": "28 February 2013",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 17062,
+        "total_votes_polled": 16473,
+        "turnout_percentage": 96.6,
+        "margin_votes": 5281,
+        "margin_percentage": 32.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "E.E. Pangteang",
+          "party": "Naga Peoples Front",
+          "votes": 10877,
+          "votes_percentage": 66.0
+        },
+        {
+          "position": 2,
+          "name": "Longang",
+          "party": "Indian National Congress",
+          "votes": 5596,
+          "votes_percentage": 34.0
+        }
+      ]
+    },
+    "2008": {
+      "poll_date": "05 March 2008",
+      "counting_date": "08 March 2008",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 16429,
+        "total_votes_polled": 15585,
+        "turnout_percentage": 94.9,
+        "margin_votes": 2066,
+        "margin_percentage": 13.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "E.E. Pangteang",
+          "party": "Nagaland Peoples Front",
+          "votes": 8256,
+          "votes_percentage": 53.0
+        },
+        {
+          "position": 2,
+          "name": "A. Nyiamnyei",
+          "party": "Indian National Congress",
+          "votes": 6190,
+          "votes_percentage": 39.7
+        },
+        {
+          "position": 3,
+          "name": "K. Kiko",
+          "party": "Bharatiya Janta Party",
+          "votes": 1139,
+          "votes_percentage": 7.3
+        }
+      ]
+    },
+    "2003": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 12936,
+        "total_votes_polled": 12862,
+        "turnout_percentage": 99.4,
+        "margin_votes": 1555,
+        "margin_percentage": 12.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shri: E.E. Pangteang",
+          "party": "Nagaland Peoples Front",
+          "votes": 5837,
+          "votes_percentage": 46.1
+        },
+        {
+          "position": 2,
+          "name": "Shri: A. Nyiamnyei",
+          "party": "Indian National Congress",
+          "votes": 4282,
+          "votes_percentage": 33.8
+        },
+        {
+          "position": 3,
+          "name": "Shri: P. Longang",
+          "party": "Nationalist Democratic Movement",
+          "votes": 2554,
+          "votes_percentage": 20.2
+        }
+      ]
+    },
+    "1998": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 1,
+      "aggregate": {
+        "total_electors": 11921,
+        "total_votes_polled": 0,
+        "turnout_percentage": 0.0,
+        "total_valid_votes": 0,
+        "total_valid_votes_percentage": 0.0,
+        "margin_votes": 0,
+        "margin_percentage": 0.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nyiamnyei Konyak",
+          "party": "Indian National Congress",
+          "votes": 0,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "1993": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 12250,
+        "total_votes_polled": 12198,
+        "turnout_percentage": 99.6,
+        "margin_votes": 1204,
+        "margin_percentage": 9.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "A. Naymnyei",
+          "party": "Indian National Congress",
+          "votes": 6684,
+          "votes_percentage": 55.0
+        },
+        {
+          "position": 2,
+          "name": "E. E. Pangteang",
+          "party": "Nagaland Peoples Council",
+          "votes": 5480,
+          "votes_percentage": 45.1
+        }
+      ]
+    },
+    "1989": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 8375,
+        "total_votes_polled": 8281,
+        "turnout_percentage": 98.9,
+        "margin_votes": 1895,
+        "margin_percentage": 22.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "K. Kiko",
+          "party": "Indian National Congress",
+          "votes": 5064,
+          "votes_percentage": 61.5
+        },
+        {
+          "position": 2,
+          "name": "Nyamnyei",
+          "party": "Nagaland Peoples Council",
+          "votes": 3169,
+          "votes_percentage": 38.5
+        }
+      ]
+    },
+    "1987": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 8374,
+        "total_votes_polled": 8282,
+        "turnout_percentage": 98.9,
+        "margin_votes": 179,
+        "margin_percentage": 2.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "A. Nyamnyei",
+          "party": "Indian National Congress",
+          "votes": 3017,
+          "votes_percentage": 36.5
+        },
+        {
+          "position": 2,
+          "name": "K. Kiko Konyak",
+          "party": "Independent",
+          "votes": 2838,
+          "votes_percentage": 34.3
+        },
+        {
+          "position": 3,
+          "name": "E. E. Pangteang Konyak",
+          "party": "Naga National Democratic Party",
+          "votes": 2419,
+          "votes_percentage": 29.2
+        }
+      ]
+    },
+    "1982": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 7599,
+        "total_votes_polled": 6815,
+        "turnout_percentage": 89.7,
+        "margin_votes": 811,
+        "margin_percentage": 11.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "A. Niamnyei Konyak",
+          "party": "Naga National Democratic Party",
+          "votes": 2724,
+          "votes_percentage": 40.5
+        },
+        {
+          "position": 2,
+          "name": "Kiko Konyak",
+          "party": "Independent",
+          "votes": 1913,
+          "votes_percentage": 28.4
+        },
+        {
+          "position": 3,
+          "name": "Engopangtiang Konyak",
+          "party": "Independent",
+          "votes": 1511,
+          "votes_percentage": 22.4
+        },
+        {
+          "position": 4,
+          "name": "Awang Manwal",
+          "party": "Indian National Congress",
+          "votes": 586,
+          "votes_percentage": 8.7
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 5571,
+        "total_votes_polled": 4983,
+        "turnout_percentage": 89.5,
+        "margin_votes": 699,
+        "margin_percentage": 14.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Manwai Awang",
+          "party": "Independent",
+          "votes": 2304,
+          "votes_percentage": 47.4
+        },
+        {
+          "position": 2,
+          "name": "Pangtiang",
+          "party": "United Democratic Front",
+          "votes": 1605,
+          "votes_percentage": 33.0
+        },
+        {
+          "position": 3,
+          "name": "Nemnei Konyak",
+          "party": "National Convention Of Nagaland",
+          "votes": 951,
+          "votes_percentage": 19.6
+        }
+      ]
+    }
+  }
+}

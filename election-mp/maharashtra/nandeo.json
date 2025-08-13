@@ -1,0 +1,50 @@
+{
+  "state": "Maharashtra",
+  "constituency": "NANDEO",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 555017,
+        "total_votes_polled": 305704,
+        "turnout_percentage": 55.1,
+        "margin_votes": 48005,
+        "margin_percentage": 15.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "V. B. Tarodekar",
+          "party": "Indian National Congress",
+          "votes": 147868,
+          "votes_percentage": 48.4
+        },
+        {
+          "position": 2,
+          "name": "Y. R. Athwale",
+          "party": "Republican Party Of India",
+          "votes": 99863,
+          "votes_percentage": 32.7
+        },
+        {
+          "position": 3,
+          "name": "G. Waghmare",
+          "party": "Independent",
+          "votes": 24229,
+          "votes_percentage": 7.9
+        },
+        {
+          "position": 4,
+          "name": "L. T. Gangjewar",
+          "party": "Bhartiya Jan Sangh",
+          "votes": 17583,
+          "votes_percentage": 5.8
+        }
+      ]
+    }
+  }
+}

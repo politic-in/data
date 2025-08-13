@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 83401,
+        "male": 89487,
+        "percentage_of_total_population": 10.18,
+        "percentage_of_total_population_calculated": 10.18,
+        "percentage_of_total_population_stated": 10.18,
+        "sex_ratio": 932,
+        "total": 172888
+    },
+    "literacy": {
+        "female_literacy_rate": 78.28,
+        "female_literate": 587082,
+        "male_literacy_rate": 90.85,
+        "male_literate": 704857,
+        "rate_percentage": 84.67,
+        "total_literate": 1291939
+    },
+    "population": {
+        "female": 833350,
+        "male": 865380,
+        "sex_ratio": 963,
+        "total": 1698730
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 243
+        },
+        "Christian": {
+            "percentage": 0.25,
+            "population": 4239
+        },
+        "Hindu": {
+            "percentage": 96.83,
+            "population": 1644905
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 94
+        },
+        "Muslims": {
+            "percentage": 2.71,
+            "population": 46094
+        },
+        "Not Stated": {
+            "percentage": 0.16,
+            "population": 2660
+        },
+        "Others": {
+            "percentage": 0.02,
+            "population": 302
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 193
+        }
+    },
+    "rural": {
+        "child_population_female": 71420,
+        "child_population_male": 76563,
+        "child_population_percentage": 10.32,
+        "child_population_percentage_calculated": 10.32,
+        "child_population_percentage_stated": 10.32,
+        "child_population_total": 147983,
+        "child_sex_ratio": 933,
+        "female": 705587,
+        "literacy_rate_female": 77.32,
+        "literacy_rate_male": 90.82,
+        "literacy_rate_percentage": 84.16,
+        "literate_female": 490352,
+        "literate_male": 591850,
+        "literate_total": 1082202,
+        "male": 728213,
+        "percentage_population": 84.4,
+        "population": 1433800,
+        "sex_ratio": 969
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/411-puri.html",
+    "urban": {
+        "child_population_female": 11972,
+        "child_population_male": 12933,
+        "child_population_percentage": 9.4,
+        "child_population_percentage_calculated": 9.4,
+        "child_population_percentage_stated": 9.4,
+        "child_population_total": 24905,
+        "child_sex_ratio": 926,
+        "female": 127763,
+        "literacy_rate_female": 83.54,
+        "literacy_rate_male": 90.96,
+        "literacy_rate_percentage": 87.38,
+        "literate_female": 96730,
+        "literate_male": 113007,
+        "literate_total": 209737,
+        "male": 137167,
+        "percentage_population": 15.6,
+        "population": 264930,
+        "sex_ratio": 931
+    }
+}

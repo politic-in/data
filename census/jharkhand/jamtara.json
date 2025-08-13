@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 63955,
+        "male": 67038,
+        "percentage_of_total_population": 16.56,
+        "percentage_of_total_population_calculated": 16.56,
+        "percentage_of_total_population_stated": 16.56,
+        "sex_ratio": 954,
+        "total": 130993
+    },
+    "literacy": {
+        "female_literacy_rate": 52.15,
+        "female_literate": 168052,
+        "male_literacy_rate": 76.46,
+        "male_literate": 258260,
+        "rate_percentage": 64.59,
+        "total_literate": 426312
+    },
+    "population": {
+        "female": 386212,
+        "male": 404830,
+        "sex_ratio": 954,
+        "total": 791042
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 118
+        },
+        "Christian": {
+            "percentage": 0.56,
+            "population": 4419
+        },
+        "Hindu": {
+            "percentage": 69.6,
+            "population": 550560
+        },
+        "Jain": {
+            "percentage": 0.1,
+            "population": 783
+        },
+        "Muslims": {
+            "percentage": 20.78,
+            "population": 164406
+        },
+        "Not Stated": {
+            "percentage": 0.21,
+            "population": 1672
+        },
+        "Others": {
+            "percentage": 8.67,
+            "population": 68564
+        },
+        "Sikh": {
+            "percentage": 0.07,
+            "population": 520
+        }
+    },
+    "rural": {
+        "child_population_female": 59269,
+        "child_population_male": 61975,
+        "child_population_percentage": 16.95,
+        "child_population_percentage_calculated": 16.95,
+        "child_population_percentage_stated": 16.95,
+        "child_population_total": 121244,
+        "child_sex_ratio": 956,
+        "female": 350253,
+        "literacy_rate_female": 49.66,
+        "literacy_rate_male": 74.99,
+        "literacy_rate_percentage": 62.58,
+        "literate_female": 144499,
+        "literate_male": 227285,
+        "literate_total": 371784,
+        "male": 365043,
+        "percentage_population": 90.42,
+        "population": 715296,
+        "sex_ratio": 959
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/103-jamtara.html",
+    "urban": {
+        "child_population_female": 4673,
+        "child_population_male": 5076,
+        "child_population_percentage": 12.87,
+        "child_population_percentage_calculated": 12.87,
+        "child_population_percentage_stated": 12.87,
+        "child_population_total": 9749,
+        "child_sex_ratio": 921,
+        "female": 35959,
+        "literacy_rate_female": 75.28,
+        "literacy_rate_male": 89.24,
+        "literacy_rate_percentage": 82.62,
+        "literate_female": 23553,
+        "literate_male": 30975,
+        "literate_total": 54528,
+        "male": 39787,
+        "percentage_population": 9.58,
+        "population": 75746,
+        "sex_ratio": 904
+    }
+}

@@ -1,0 +1,45 @@
+{
+  "state": "Meghalaya",
+  "year": "1989",
+  "summary_stats": {
+    "total_electors_state": 937860,
+    "total_votes_polled_state": 486967,
+    "turnout_percentage_state": 51.9,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Shillong",
+      "ac_no": 1,
+      "ac_type": "ST",
+      "district": "Meghalaya",
+      "winning_candidate": "Peter G.Marbaning",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 585754,
+      "total_votes_ac": 298613,
+      "poll_percentage_ac": 0.0,
+      "margin": 13285,
+      "margin_percentage": 4.4,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1989/meghalaya/shillong/4234/44/9"
+    },
+    {
+      "ac_name": "Tura",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Meghalaya",
+      "winning_candidate": "Sanford Marak",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 352106,
+      "total_votes_ac": 188354,
+      "poll_percentage_ac": 0.0,
+      "margin": 60878,
+      "margin_percentage": 32.3,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1989/meghalaya/tura/4235/44/9"
+    }
+  ]
+}

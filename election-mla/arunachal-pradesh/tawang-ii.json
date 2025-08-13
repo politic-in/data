@@ -1,0 +1,99 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Tawang Ii",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1984": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 6421,
+        "total_votes_polled": 5145,
+        "turnout_percentage": 80.1,
+        "margin_votes": 1400,
+        "margin_percentage": 27.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tsering Tashi",
+          "party": "Indian National Congress",
+          "votes": 3139,
+          "votes_percentage": 64.4
+        },
+        {
+          "position": 2,
+          "name": "Tsering Chuki",
+          "party": "Peoples Party Of Arunachal",
+          "votes": 1739,
+          "votes_percentage": 35.7
+        }
+      ]
+    },
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 5156,
+        "total_votes_polled": 4207,
+        "turnout_percentage": 81.6,
+        "margin_votes": 14,
+        "margin_percentage": 0.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tsering Tashi",
+          "party": "Peoples Party Of Arunachal",
+          "votes": 1900,
+          "votes_percentage": 48.2
+        },
+        {
+          "position": 2,
+          "name": "Tashi Khandu",
+          "party": "Indian National Congress (I)",
+          "votes": 1886,
+          "votes_percentage": 47.8
+        },
+        {
+          "position": 3,
+          "name": "Pema Droga",
+          "party": "Independent",
+          "votes": 158,
+          "votes_percentage": 4.0
+        }
+      ]
+    },
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 4650,
+        "total_votes_polled": 3577,
+        "turnout_percentage": 76.9,
+        "margin_votes": 238,
+        "margin_percentage": 6.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tashi Khandu",
+          "party": "Independent",
+          "votes": 1874,
+          "votes_percentage": 53.4
+        },
+        {
+          "position": 2,
+          "name": "Tsering Tashi",
+          "party": "Janta Party",
+          "votes": 1636,
+          "votes_percentage": 46.6
+        }
+      ]
+    }
+  }
+}

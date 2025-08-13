@@ -1,0 +1,71 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Du garpur",
+  "district": "Dungarpur",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 223555,
+        "total_votes_polled": 158178,
+        "turnout_percentage": 72.9,
+        "margin_votes": 27898,
+        "margin_percentage": 17.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ganesh Ghogra",
+          "party": "Indian National Congress",
+          "votes": 75482,
+          "votes_percentage": 47.7
+        },
+        {
+          "position": 2,
+          "name": "Madhavlal Varahat",
+          "party": "Bharatiya Janta Party",
+          "votes": 47584,
+          "votes_percentage": 30.1
+        },
+        {
+          "position": 3,
+          "name": "Velaram",
+          "party": "Bhartiya Tribal Party",
+          "votes": 13004,
+          "votes_percentage": 8.2
+        },
+        {
+          "position": 4,
+          "name": "Devendra Katara",
+          "party": "Independent",
+          "votes": 8633,
+          "votes_percentage": 5.5
+        },
+        {
+          "position": 5,
+          "name": "Gotamlal",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 7644,
+          "votes_percentage": 4.8
+        },
+        {
+          "position": 6,
+          "name": "Amrutlal",
+          "party": "Bahujan Samaj Party",
+          "votes": 3464,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 7,
+          "name": "Maya",
+          "party": "All India Hindustan Congress Party",
+          "votes": 2367,
+          "votes_percentage": 1.5
+        }
+      ]
+    }
+  }
+}

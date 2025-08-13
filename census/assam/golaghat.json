@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 66126,
+        "male": 68667,
+        "percentage_of_total_population": 12.63,
+        "percentage_of_total_population_calculated": 12.63,
+        "percentage_of_total_population_stated": 12.63,
+        "sex_ratio": 963,
+        "total": 134793
+    },
+    "literacy": {
+        "female_literacy_rate": 71.09,
+        "female_literate": 325289,
+        "male_literacy_rate": 83.56,
+        "male_literate": 396475,
+        "rate_percentage": 77.43,
+        "total_literate": 721764
+    },
+    "population": {
+        "female": 523727,
+        "male": 543161,
+        "sex_ratio": 964,
+        "total": 1066888
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.36,
+            "population": 3863
+        },
+        "Christian": {
+            "percentage": 4.74,
+            "population": 50582
+        },
+        "Hindu": {
+            "percentage": 85.99,
+            "population": 917426
+        },
+        "Jain": {
+            "percentage": 0.05,
+            "population": 530
+        },
+        "Muslims": {
+            "percentage": 8.46,
+            "population": 90312
+        },
+        "Not Stated": {
+            "percentage": 0.16,
+            "population": 1697
+        },
+        "Others": {
+            "percentage": 0.13,
+            "population": 1347
+        },
+        "Sikh": {
+            "percentage": 0.11,
+            "population": 1131
+        }
+    },
+    "rural": {
+        "child_population_female": 61469,
+        "child_population_male": 63651,
+        "child_population_percentage": 12.91,
+        "child_population_percentage_calculated": 12.91,
+        "child_population_percentage_stated": 12.91,
+        "child_population_total": 125120,
+        "child_sex_ratio": 966,
+        "female": 476027,
+        "literacy_rate_female": 69.22,
+        "literacy_rate_male": 82.44,
+        "literacy_rate_percentage": 75.94,
+        "literate_female": 286939,
+        "literate_male": 354039,
+        "literate_total": 640978,
+        "male": 493125,
+        "percentage_population": 90.84,
+        "population": 969152,
+        "sex_ratio": 965
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/152-golaghat.html",
+    "urban": {
+        "child_population_female": 4662,
+        "child_population_male": 5011,
+        "child_population_percentage": 9.9,
+        "child_population_percentage_calculated": 9.9,
+        "child_population_percentage_stated": 9.9,
+        "child_population_total": 9673,
+        "child_sex_ratio": 930,
+        "female": 47700,
+        "literacy_rate_female": 89.11,
+        "literacy_rate_male": 94.25,
+        "literacy_rate_percentage": 91.74,
+        "literate_female": 38350,
+        "literate_male": 42436,
+        "literate_total": 80786,
+        "male": 50036,
+        "percentage_population": 9.16,
+        "population": 97736,
+        "sex_ratio": 953
+    }
+}

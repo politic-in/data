@@ -1,0 +1,48 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "CHAMPARAN",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1957": {
+      "poll_date": "25 February 1957",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 679590,
+        "total_votes_polled": 484364,
+        "turnout_percentage": 35.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bipin Behari Verma",
+          "party": "Indian National Congress",
+          "votes": 187843,
+          "votes_percentage": 38.8
+        },
+        {
+          "position": 1,
+          "name": "Bhola Raut",
+          "party": "Indian National Congress",
+          "votes": 148132,
+          "votes_percentage": 30.6
+        },
+        {
+          "position": 3,
+          "name": "Satrughna Ram",
+          "party": "Praja Socialist Party",
+          "votes": 85500,
+          "votes_percentage": 17.7
+        },
+        {
+          "position": 4,
+          "name": "Jaya Gopal Pd. Singh",
+          "party": "Praja Socialist Party",
+          "votes": 62889,
+          "votes_percentage": 13.0
+        }
+      ]
+    }
+  }
+}

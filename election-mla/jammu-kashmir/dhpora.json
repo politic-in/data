@@ -1,0 +1,64 @@
+{
+  "state": "Jammu & Kashmir",
+  "constituency": "D.H.PORA",
+  "district": "Kulgam",
+  "ac_type": "GEN",
+  "results": {
+    "2024": {
+      "poll_date": "08 October 2024",
+      "counting_date": "08 October 2024",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 99031,
+        "total_votes_polled": 66130,
+        "turnout_percentage": 69.2,
+        "margin_votes": 17449,
+        "margin_percentage": 26.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sakeena Masood",
+          "party": "Jammu & Kashmir National Conference",
+          "votes": 36623,
+          "votes_percentage": 53.5
+        },
+        {
+          "position": 2,
+          "name": "Gulzar Ahmad Dar",
+          "party": "Jammu & Kashmir Peoples Democratic Party",
+          "votes": 19174,
+          "votes_percentage": 28.0
+        },
+        {
+          "position": 3,
+          "name": "Mohd Arif Dar",
+          "party": "Independent",
+          "votes": 4054,
+          "votes_percentage": 5.9
+        },
+        {
+          "position": 4,
+          "name": "Abdul Majeed Padder",
+          "party": "Jammu And Kashmir Apni Party",
+          "votes": 2974,
+          "votes_percentage": 4.3
+        },
+        {
+          "position": 5,
+          "name": "Mohammad Ayub Matoo",
+          "party": "Janata Dal (United)",
+          "votes": 2620,
+          "votes_percentage": 3.8
+        },
+        {
+          "position": 7,
+          "name": "Sajad Ahmad Dar",
+          "party": "Independent",
+          "votes": 685,
+          "votes_percentage": 1.0
+        }
+      ]
+    }
+  }
+}

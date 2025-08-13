@@ -1,0 +1,43 @@
+{
+  "state": "Tripura",
+  "constituency": "CHAWMANU",
+  "district": "Dhalai",
+  "ac_type": "ST",
+  "results": {
+    "2013": {
+      "poll_date": "14 February 2013",
+      "counting_date": "28 February 2013",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 34629,
+        "total_votes_polled": 31241,
+        "turnout_percentage": 90.2,
+        "margin_votes": 1495,
+        "margin_percentage": 4.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nirajoy Tripura",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 15870,
+          "votes_percentage": 50.8
+        },
+        {
+          "position": 2,
+          "name": "Zaidami Tripura",
+          "party": "Indian National Congress",
+          "votes": 14375,
+          "votes_percentage": 46.0
+        },
+        {
+          "position": 3,
+          "name": "Amal Basu Chakma",
+          "party": "Samajwadi Party",
+          "votes": 996,
+          "votes_percentage": 3.2
+        }
+      ]
+    }
+  }
+}

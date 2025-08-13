@@ -1,0 +1,119 @@
+{
+  "district_name": "Thanjavur",
+  "state_name": "Tamil Nadu",
+  "data_source": {
+    "primary_census_data": "https://www.census2011.co.in/census/district/42-thanjavur.html",
+    "sc_st_data": "https://www.censusindia.co.in/district/thanjavur-district-tamil-nadu-620"
+  },
+  "total_population": {
+    "total": 2405890,
+    "male": 1182416,
+    "female": 1223474,
+    "sex_ratio": 1035
+  },
+  "child_population_0_6_years": {
+    "total": 238598,
+    "male": 121949,
+    "female": 116649,
+    "child_sex_ratio": 957,
+    "percentage_of_total_population": 9.92
+  },
+  "literacy": {
+    "total_literate": 1790998,
+    "male_literate": 944264,
+    "female_literate": 846734,
+    "literacy_rate_percentage": 82.64,
+    "male_literacy_rate_percentage": 89.04,
+    "female_literacy_rate_percentage": 76.5
+  },
+  "urban_population": {
+    "percentage_of_total_population": 35.39,
+    "total": 851359,
+    "male": 417239,
+    "female": 434120,
+    "sex_ratio": 1040,
+    "child_population_0_6_years": {
+      "total": 82141,
+      "male": 41939,
+      "female": 40202,
+      "child_sex_ratio": 959,
+      "percentage_of_urban_population": 9.65
+    },
+    "literacy": {
+      "total_literate": 686012,
+      "male_literate": 351086,
+      "female_literate": 334926,
+      "literacy_rate_percentage": 89.18,
+      "male_literacy_rate_percentage": 93.55,
+      "female_literacy_rate_percentage": 85.02
+    }
+  },
+  "rural_population": {
+    "percentage_of_total_population": 64.61,
+    "total": 1554531,
+    "male": 765177,
+    "female": 789354,
+    "sex_ratio": 1032,
+    "child_population_0_6_years": {
+      "total": 156457,
+      "male": 80010,
+      "female": 76447,
+      "child_sex_ratio": 955,
+      "percentage_of_rural_population": 10.06
+    },
+    "literacy": {
+      "total_literate": 1104986,
+      "male_literate": 593178,
+      "female_literate": 511808,
+      "literacy_rate_percentage": 79.04,
+      "male_literacy_rate_percentage": 86.57,
+      "female_literacy_rate_percentage": 71.79
+    }
+  },
+  "religion_wise_population": {
+    "hindu": {
+      "population": 2075870,
+      "percentage": 86.28
+    },
+    "muslim": {
+      "population": 190814,
+      "percentage": 7.93
+    },
+    "christian": {
+      "population": 133971,
+      "percentage": 5.57
+    },
+    "sikh": {
+      "population": 231,
+      "percentage": 0.01
+    },
+    "buddhist": {
+      "population": 795,
+      "percentage": 0.03
+    },
+    "jain": {
+      "population": 1256,
+      "percentage": 0.05
+    },
+    "other_religions": {
+      "population": 148,
+      "percentage": 0.01
+    },
+    "not_stated": {
+      "population": 2805,
+      "percentage": 0.12
+    }
+  },
+  "scheduled_caste_population": {
+    "total": 455062,
+    "male": 225859,
+    "female": 229203,
+    "percentage_of_total_population": 18.9
+  },
+  "scheduled_tribe_population": {
+    "total": 3561,
+    "male": 1739,
+    "female": 1822,
+    "percentage_of_total_population": 0.1
+  }
+}

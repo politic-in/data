@@ -1,0 +1,773 @@
+{
+  "state": "Orissa",
+  "constituency": "Berhampur",
+  "district": "Ganjam",
+  "ac_type": "GEN",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 211189,
+        "total_votes_polled": 117816,
+        "turnout_percentage": 56.3,
+        "margin_votes": 35484,
+        "margin_percentage": 30.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bikram Kumar Panda",
+          "party": "Biju Janata Dal",
+          "votes": 68113,
+          "votes_percentage": 57.8
+        },
+        {
+          "position": 2,
+          "name": "Kanhu Charan Pati",
+          "party": "Bharatiya Janta Party",
+          "votes": 32629,
+          "votes_percentage": 27.7
+        },
+        {
+          "position": 3,
+          "name": "Siva Shankar Das",
+          "party": "Independent",
+          "votes": 9821,
+          "votes_percentage": 8.3
+        },
+        {
+          "position": 4,
+          "name": "Lingaraj Choudhury",
+          "party": "Indian National Congress",
+          "votes": 5381,
+          "votes_percentage": 4.6
+        },
+        {
+          "position": 5,
+          "name": "Ashok Kumar Sahoo",
+          "party": "Bahujan Samaj Party",
+          "votes": 459,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Abani Kumar Gaya",
+          "party": "Independent",
+          "votes": 332,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "Sumit Patro",
+          "party": "Independent",
+          "votes": 304,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Sibani Sankar Mishra",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 274,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Jeebano Patro",
+          "party": "Independent",
+          "votes": 273,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Gobinda Chandra Sahu",
+          "party": "Ambedkar National Congress",
+          "votes": 230,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "10 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 13,
+      "aggregate": {
+        "total_electors": 183059,
+        "total_votes_polled": 114155,
+        "turnout_percentage": 62.4,
+        "total_valid_votes": 113126,
+        "total_valid_votes_percentage": 61.8,
+        "margin_votes": 1039,
+        "margin_percentage": 0.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ramesh Chandra Chyau Patnaik",
+          "party": "Biju Janata Dal",
+          "votes": 43211,
+          "votes_percentage": 38.2
+        },
+        {
+          "position": 2,
+          "name": "Bikram Kumar Panda",
+          "party": "Indian National Congress",
+          "votes": 42172,
+          "votes_percentage": 37.3
+        },
+        {
+          "position": 3,
+          "name": "Siva Shankar Dash",
+          "party": "Bharatiya Janta Party",
+          "votes": 24092,
+          "votes_percentage": 21.3
+        },
+        {
+          "position": 4,
+          "name": "Ramesh Chandra Patra",
+          "party": "Aam Aadmi Party",
+          "votes": 970,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "M. Ananda Rao Achary",
+          "party": "All India Trinamool Congress",
+          "votes": 524,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Basanta Nanda",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 481,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Ramesha Chandra Behera",
+          "party": "Bahujan Samaj Party",
+          "votes": 470,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Satish Kumar Nayak",
+          "party": "Independent",
+          "votes": 245,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Pramila Tripathy",
+          "party": "Independent",
+          "votes": 231,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Pabitra Mohan Misra",
+          "party": "Aama Odisha Party",
+          "votes": 200,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Daka Bishoyi",
+          "party": "Independent",
+          "votes": 194,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Khalli Sahu",
+          "party": "Samata Kranti Dal",
+          "votes": 180,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 13,
+          "name": "Bipin Bihari Dash",
+          "party": "Jan Morcha",
+          "votes": 156,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 170830,
+        "total_votes_polled": 82279,
+        "turnout_percentage": 48.2,
+        "margin_votes": 3844,
+        "margin_percentage": 4.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr.Ramesh Chandra Chyau Patnaik",
+          "party": "Biju Janata Dal",
+          "votes": 38407,
+          "votes_percentage": 46.6
+        },
+        {
+          "position": 2,
+          "name": "Bikram Kumar Panda",
+          "party": "Indian National Congress",
+          "votes": 34563,
+          "votes_percentage": 42.0
+        },
+        {
+          "position": 3,
+          "name": "Rama Chandra Panda",
+          "party": "Bharatiya Janta Party",
+          "votes": 6515,
+          "votes_percentage": 7.9
+        },
+        {
+          "position": 4,
+          "name": "Ashoka Kumar Panda",
+          "party": "Bahujan Samaj Party",
+          "votes": 1174,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 5,
+          "name": "Samir Ranjan Pattnaik",
+          "party": "Independent",
+          "votes": 421,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Dr. Ramahari Khandualo",
+          "party": "Independent",
+          "votes": 345,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Saroj Kimar Patnaik",
+          "party": "Samajwadi Party",
+          "votes": 309,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Susanta Panda",
+          "party": "Samruddha Odisha",
+          "votes": 287,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Shyam Sundar Patnaik",
+          "party": "Independent",
+          "votes": 258,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2004": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 218853,
+        "total_votes_polled": 114790,
+        "turnout_percentage": 52.5,
+        "margin_votes": 2655,
+        "margin_percentage": 2.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr. Ramesh Chandra Chyau Patnaik",
+          "party": "Biju Janata Dal",
+          "votes": 48281,
+          "votes_percentage": 42.3
+        },
+        {
+          "position": 2,
+          "name": "Bikram Kumar Panda",
+          "party": "Indian National Congress",
+          "votes": 45626,
+          "votes_percentage": 40.0
+        },
+        {
+          "position": 3,
+          "name": "Alekha Choudhury",
+          "party": "Independent",
+          "votes": 15965,
+          "votes_percentage": 14.0
+        },
+        {
+          "position": 4,
+          "name": "Khalli Sahu",
+          "party": "Samajwadi Party",
+          "votes": 1436,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 5,
+          "name": "Susant Kumar Sabat",
+          "party": "Independent",
+          "votes": 1433,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 6,
+          "name": "Prabhat Kumar Mohanty",
+          "party": "Independent",
+          "votes": 1343,
+          "votes_percentage": 1.2
+        }
+      ]
+    },
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 221626,
+        "total_votes_polled": 102462,
+        "turnout_percentage": 46.2,
+        "margin_votes": 19861,
+        "margin_percentage": 19.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr. Ramesh Chandra Chyau Patnaik",
+          "party": "Biju Janata Dal",
+          "votes": 51243,
+          "votes_percentage": 50.6
+        },
+        {
+          "position": 2,
+          "name": "Chandra Sekhar Sahu (Gosaninuagam)",
+          "party": "Independent",
+          "votes": 31382,
+          "votes_percentage": 31.0
+        },
+        {
+          "position": 3,
+          "name": "Bikram Kumar Panda",
+          "party": "Indian National Congress",
+          "votes": 14720,
+          "votes_percentage": 14.5
+        },
+        {
+          "position": 4,
+          "name": "Ali Kishor Patnaik",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 3501,
+          "votes_percentage": 3.5
+        },
+        {
+          "position": 5,
+          "name": "Chandra Sekhar Sahu ( Nimakhandi)",
+          "party": "Independent",
+          "votes": 318,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 6,
+          "name": "Judhistira Sahu",
+          "party": "Independent",
+          "votes": 189,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "1995": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 13,
+      "aggregate": {
+        "total_electors": 189736,
+        "total_votes_polled": 115565,
+        "turnout_percentage": 60.9,
+        "margin_votes": 4223,
+        "margin_percentage": 3.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ramesh Chandra Chyau Patnaik",
+          "party": "Janata Dal",
+          "votes": 47912,
+          "votes_percentage": 42.4
+        },
+        {
+          "position": 2,
+          "name": "Alekha Choudhury",
+          "party": "Indian National Congress",
+          "votes": 43689,
+          "votes_percentage": 38.7
+        },
+        {
+          "position": 3,
+          "name": "Santosh Mahapatra",
+          "party": "Independent",
+          "votes": 7183,
+          "votes_percentage": 6.4
+        },
+        {
+          "position": 4,
+          "name": "Rajendra Prasad Sahu",
+          "party": "Samajwadi Janata Party (RASHTRIYA)",
+          "votes": 5940,
+          "votes_percentage": 5.3
+        },
+        {
+          "position": 5,
+          "name": "Bala Krushna Choudhury",
+          "party": "Bharatiya Janta Party",
+          "votes": 4979,
+          "votes_percentage": 4.4
+        },
+        {
+          "position": 6,
+          "name": "Laxmi Narayan Patnaik",
+          "party": "Proutist Sarva Samaj Samiti",
+          "votes": 831,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Trimula Kumar Reddy",
+          "party": "Independent",
+          "votes": 536,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "K. Shyam Babu Subudhi",
+          "party": "Independent",
+          "votes": 433,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Subas Chandra Rout",
+          "party": "Independent",
+          "votes": 376,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Devendra Prasad Patra",
+          "party": "Independent",
+          "votes": 361,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 11,
+          "name": "P.S.N. Rao",
+          "party": "Independent",
+          "votes": 346,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 12,
+          "name": "Trinath Panda",
+          "party": "Independent",
+          "votes": 178,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 13,
+          "name": "Ram Chandra Sahu Ratna Behera",
+          "party": "Independent",
+          "votes": 173,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "1990": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 157908,
+        "total_votes_polled": 75998,
+        "turnout_percentage": 48.1,
+        "margin_votes": 27355,
+        "margin_percentage": 36.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Binayak Mahapatra",
+          "party": "Janata Dal",
+          "votes": 48576,
+          "votes_percentage": 64.8
+        },
+        {
+          "position": 2,
+          "name": "Rama Chandra Rath",
+          "party": "Indian National Congress",
+          "votes": 21221,
+          "votes_percentage": 28.3
+        },
+        {
+          "position": 3,
+          "name": "Rama Krishna Padhi",
+          "party": "Bharatiya Janta Party",
+          "votes": 3367,
+          "votes_percentage": 4.5
+        },
+        {
+          "position": 4,
+          "name": "Mahamad Salim",
+          "party": "Janata Party (JP)",
+          "votes": 1217,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 5,
+          "name": "Durga Prasad Padhi",
+          "party": "Independent",
+          "votes": 133,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 6,
+          "name": "Siva Prasada Misra",
+          "party": "Independent",
+          "votes": 128,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Khalli Sahu",
+          "party": "Independent",
+          "votes": 106,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "K. Syambabu Subudhi",
+          "party": "Independent",
+          "votes": 92,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Rama Chandra Sahu",
+          "party": "Independent",
+          "votes": 86,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1985": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 111750,
+        "total_votes_polled": 52916,
+        "turnout_percentage": 47.4,
+        "margin_votes": 9182,
+        "margin_percentage": 17.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sibasankar Sahani",
+          "party": "Indian National Congress",
+          "votes": 26670,
+          "votes_percentage": 51.4
+        },
+        {
+          "position": 2,
+          "name": "Binayak Mohapatra",
+          "party": "Independent",
+          "votes": 17488,
+          "votes_percentage": 33.7
+        },
+        {
+          "position": 3,
+          "name": "Alikishor Patnayak",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 3779,
+          "votes_percentage": 7.3
+        },
+        {
+          "position": 4,
+          "name": "Khali Sahu",
+          "party": "Independent",
+          "votes": 1828,
+          "votes_percentage": 3.5
+        },
+        {
+          "position": 5,
+          "name": "Satish Kumar Patrao",
+          "party": "Bharatiya Janta Party",
+          "votes": 1026,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 6,
+          "name": "Balaji Sahu",
+          "party": "Independent",
+          "votes": 609,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 7,
+          "name": "Rama Chandra Sahu",
+          "party": "Independent",
+          "votes": 273,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Kasinath Mohapatro",
+          "party": "Independent",
+          "votes": 238,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 105683,
+        "total_votes_polled": 44370,
+        "turnout_percentage": 42.0,
+        "margin_votes": 16955,
+        "margin_percentage": 38.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Krushna Charan Patnaik",
+          "party": "Indian National Congress (I)",
+          "votes": 28762,
+          "votes_percentage": 66.3
+        },
+        {
+          "position": 2,
+          "name": "Binayak Acharya",
+          "party": "Indian National Congress (U)",
+          "votes": 11807,
+          "votes_percentage": 27.2
+        },
+        {
+          "position": 3,
+          "name": "Satish Kumar Patra",
+          "party": "Independent",
+          "votes": 1390,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 4,
+          "name": "Balaji Sahu",
+          "party": "Independent",
+          "votes": 951,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 5,
+          "name": "Harikrushna Sahu",
+          "party": "Independent",
+          "votes": 272,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Aswani Kumar Nayak",
+          "party": "All India Forward Bloc",
+          "votes": 194,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 91271,
+        "total_votes_polled": 45535,
+        "turnout_percentage": 49.9,
+        "margin_votes": 10324,
+        "margin_percentage": 22.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ratnamanjari Debi",
+          "party": "Independent",
+          "votes": 21210,
+          "votes_percentage": 47.8
+        },
+        {
+          "position": 2,
+          "name": "Binayak Acharya",
+          "party": "Indian National Congress",
+          "votes": 10886,
+          "votes_percentage": 24.5
+        },
+        {
+          "position": 3,
+          "name": "Damodhar Patra",
+          "party": "Janta Party",
+          "votes": 5154,
+          "votes_percentage": 11.6
+        },
+        {
+          "position": 4,
+          "name": "Bhagban Saha",
+          "party": "Communist Party Of India",
+          "votes": 3815,
+          "votes_percentage": 8.6
+        },
+        {
+          "position": 5,
+          "name": "Bhaskar Patra",
+          "party": "Independent",
+          "votes": 2159,
+          "votes_percentage": 4.9
+        },
+        {
+          "position": 6,
+          "name": "Bipin Bihari Misra",
+          "party": "Independent",
+          "votes": 570,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 7,
+          "name": "Balaji Saha",
+          "party": "Independent",
+          "votes": 258,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "Harish Chandra Subudhi",
+          "party": "Independent",
+          "votes": 164,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Harikrishna Sahu",
+          "party": "Independent",
+          "votes": 138,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

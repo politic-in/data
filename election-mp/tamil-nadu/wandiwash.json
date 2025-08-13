@@ -1,0 +1,85 @@
+{
+  "state": "Tamil Nadu",
+  "constituency": "Wandiwash",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 685987,
+        "total_votes_polled": 470355,
+        "turnout_percentage": 68.6,
+        "margin_votes": 81132,
+        "margin_percentage": 17.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Venugopal Gounder",
+          "party": "All India Anna Dravida Munnetra Kazhagam",
+          "votes": 267930,
+          "votes_percentage": 57.0
+        },
+        {
+          "position": 2,
+          "name": "Durai Murugan",
+          "party": "Dravida Munetra Kazhagam",
+          "votes": 186798,
+          "votes_percentage": 39.7
+        },
+        {
+          "position": 3,
+          "name": "Jagadeva Gounder N.",
+          "party": "Independent",
+          "votes": 4010,
+          "votes_percentage": 0.9
+        }
+      ]
+    },
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 539245,
+        "total_votes_polled": 411640,
+        "turnout_percentage": 76.3,
+        "margin_votes": 87955,
+        "margin_percentage": 21.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "G. Viswanathan",
+          "party": "Dravida Munetra Kazhagam",
+          "votes": 230003,
+          "votes_percentage": 55.9
+        },
+        {
+          "position": 2,
+          "name": "A. Krishnaswamy",
+          "party": "Indian National Congress (ORGANISATION)",
+          "votes": 142048,
+          "votes_percentage": 34.5
+        },
+        {
+          "position": 3,
+          "name": "Maniazhilan",
+          "party": "Independent",
+          "votes": 25114,
+          "votes_percentage": 6.1
+        },
+        {
+          "position": 4,
+          "name": "J. P. Ganesa Mudaliar",
+          "party": "Independent",
+          "votes": 2897,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

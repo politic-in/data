@@ -1,0 +1,48 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "DEHRA DUN DISTT CUM BIJNOR DISTT (NORTH WEST) CUM\nSAHARANPUR DISTRICT (WEST)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 373627,
+        "total_votes_polled": 191655,
+        "turnout_percentage": 51.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mahavir Tyagi",
+          "party": "Indian National Congress",
+          "votes": 122141,
+          "votes_percentage": 63.7
+        },
+        {
+          "position": 2,
+          "name": "J.R. Goyal",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 26472,
+          "votes_percentage": 13.8
+        },
+        {
+          "position": 3,
+          "name": "H. D. Benerji",
+          "party": "Independent",
+          "votes": 26365,
+          "votes_percentage": 13.8
+        },
+        {
+          "position": 4,
+          "name": "Ram Kishan Verma",
+          "party": "Socialist Party",
+          "votes": 16677,
+          "votes_percentage": 8.7
+        }
+      ]
+    }
+  }
+}

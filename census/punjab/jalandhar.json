@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 105543,
+        "male": 120759,
+        "percentage_of_total_population": 10.32,
+        "percentage_of_total_population_calculated": 10.32,
+        "percentage_of_total_population_stated": 10.32,
+        "sex_ratio": 874,
+        "total": 226302
+    },
+    "literacy": {
+        "female_literacy_rate": 78.48,
+        "female_literate": 739956,
+        "male_literacy_rate": 86.15,
+        "male_literate": 882581,
+        "rate_percentage": 82.48,
+        "total_literate": 1622537
+    },
+    "population": {
+        "female": 1048379,
+        "male": 1145211,
+        "sex_ratio": 915,
+        "total": 2193590
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.52,
+            "population": 11385
+        },
+        "Christian": {
+            "percentage": 1.19,
+            "population": 26016
+        },
+        "Hindu": {
+            "percentage": 63.56,
+            "population": 1394329
+        },
+        "Jain": {
+            "percentage": 0.18,
+            "population": 4011
+        },
+        "Muslims": {
+            "percentage": 1.38,
+            "population": 30233
+        },
+        "Not Stated": {
+            "percentage": 0.39,
+            "population": 8448
+        },
+        "Others": {
+            "percentage": 0.04,
+            "population": 805
+        },
+        "Sikh": {
+            "percentage": 32.75,
+            "population": 718363
+        }
+    },
+    "rural": {
+        "child_population_female": 49383,
+        "child_population_male": 55813,
+        "child_population_percentage": 10.19,
+        "child_population_percentage_calculated": 10.19,
+        "child_population_percentage_stated": 10.19,
+        "child_population_total": 105196,
+        "child_sex_ratio": 885,
+        "female": 503629,
+        "literacy_rate_female": 73.81,
+        "literacy_rate_male": 83.06,
+        "literacy_rate_percentage": 78.53,
+        "literate_female": 335267,
+        "literate_male": 392867,
+        "literate_total": 728134,
+        "male": 528790,
+        "percentage_population": 47.07,
+        "population": 1032419,
+        "sex_ratio": 952
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/590-jalandhar.html",
+    "urban": {
+        "child_population_female": 56179,
+        "child_population_male": 64927,
+        "child_population_percentage": 10.43,
+        "child_population_percentage_calculated": 10.43,
+        "child_population_percentage_stated": 10.43,
+        "child_population_total": 121106,
+        "child_sex_ratio": 865,
+        "female": 544750,
+        "literacy_rate_female": 82.83,
+        "literacy_rate_male": 88.8,
+        "literacy_rate_percentage": 85.99,
+        "literate_female": 404689,
+        "literate_male": 489714,
+        "literate_total": 894403,
+        "male": 616421,
+        "percentage_population": 52.93,
+        "population": 1161171,
+        "sex_ratio": 884
+    }
+}

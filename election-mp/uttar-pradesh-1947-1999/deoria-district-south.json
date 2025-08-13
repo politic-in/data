@@ -1,0 +1,48 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "DEORIA DISTRICT (SOUTH)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 356039,
+        "total_votes_polled": 119616,
+        "turnout_percentage": 33.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sarayu",
+          "party": "Indian National Congress",
+          "votes": 53530,
+          "votes_percentage": 44.8
+        },
+        {
+          "position": 2,
+          "name": "Bishwa Nath",
+          "party": "Socialist Party",
+          "votes": 37160,
+          "votes_percentage": 31.1
+        },
+        {
+          "position": 3,
+          "name": "Ram Najar Singh",
+          "party": "Akhil Bharatiya Ram Rajya Parishad",
+          "votes": 22031,
+          "votes_percentage": 18.4
+        },
+        {
+          "position": 4,
+          "name": "Hari Swaroop Jauhari",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 6895,
+          "votes_percentage": 5.8
+        }
+      ]
+    }
+  }
+}

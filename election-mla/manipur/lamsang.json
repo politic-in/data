@@ -1,0 +1,542 @@
+{
+  "state": "Manipur",
+  "constituency": "Lamsang",
+  "district": "Imphal West",
+  "ac_type": "GEN",
+  "results": {
+    "2022": {
+      "poll_date": "28 February 2022",
+      "counting_date": "10 March 2022",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 34004,
+        "total_votes_polled": 31770,
+        "turnout_percentage": 93.4,
+        "margin_votes": 400,
+        "margin_percentage": 1.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sorokhaibam Rajen Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 15185,
+          "votes_percentage": 48.1
+        },
+        {
+          "position": 2,
+          "name": "Pukhrambam Sumati Devi",
+          "party": "National People's Party",
+          "votes": 14785,
+          "votes_percentage": 46.9
+        },
+        {
+          "position": 3,
+          "name": "Arambam Karamjit Singh",
+          "party": "Independent",
+          "votes": 733,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 4,
+          "name": "Khundrakpam Kanba Meitei",
+          "party": "Janata Dal (United)",
+          "votes": 616,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 5,
+          "name": "Likmabam Manibabu Singh",
+          "party": "Indian National Congress",
+          "votes": 241,
+          "votes_percentage": 0.8
+        }
+      ]
+    },
+    "2017": {
+      "poll_date": "04 February 2017",
+      "counting_date": "11 March 2017",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 30267,
+        "total_votes_polled": 27862,
+        "turnout_percentage": 92.6,
+        "margin_votes": 1280,
+        "margin_percentage": 4.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sorokhaibam Rajen Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 12593,
+          "votes_percentage": 44.9
+        },
+        {
+          "position": 2,
+          "name": "Wangkheimayum Brajabidhu Singh",
+          "party": "Indian National Congress",
+          "votes": 11313,
+          "votes_percentage": 40.4
+        },
+        {
+          "position": 3,
+          "name": "Phijam Pakchao Singh",
+          "party": "North East India Development Party",
+          "votes": 3956,
+          "votes_percentage": 14.1
+        }
+      ]
+    },
+    "2012": {
+      "poll_date": "28 January 2012",
+      "counting_date": "03 June 2012",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 27347,
+        "total_votes_polled": 24896,
+        "turnout_percentage": 91.0,
+        "total_valid_votes": 24784,
+        "total_valid_votes_percentage": 90.6,
+        "margin_votes": 3144,
+        "margin_percentage": 12.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Wangkheimayum Brajabidhu Singh",
+          "party": "Indian National Congress",
+          "votes": 10053,
+          "votes_percentage": 40.4
+        },
+        {
+          "position": 2,
+          "name": "Sorokhaibam Rajen Singh",
+          "party": "Nationalist Congress Party",
+          "votes": 6909,
+          "votes_percentage": 27.8
+        },
+        {
+          "position": 3,
+          "name": "Pakchao Phijam",
+          "party": "Communist Party Of India",
+          "votes": 6500,
+          "votes_percentage": 26.1
+        },
+        {
+          "position": 4,
+          "name": "Khundrakpam Kanba Meitei",
+          "party": "Manipur State Congress Party",
+          "votes": 736,
+          "votes_percentage": 3.0
+        },
+        {
+          "position": 5,
+          "name": "Khoirom Raghumani Singh",
+          "party": "All India Trinamool Congress",
+          "votes": 418,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 6,
+          "name": "Priyokumar Phijam",
+          "party": "Bharatiya Janta Party",
+          "votes": 280,
+          "votes_percentage": 1.1
+        }
+      ]
+    },
+    "2007": {
+      "poll_date": "23 February 2007",
+      "counting_date": "27 February 2007",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 27465,
+        "total_votes_polled": 25092,
+        "turnout_percentage": 91.4,
+        "margin_votes": 1844,
+        "margin_percentage": 7.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Wangkheimayum Brajabidhu",
+          "party": "Indian National Congress",
+          "votes": 13468,
+          "votes_percentage": 53.7
+        },
+        {
+          "position": 2,
+          "name": "Sorokhaibam Rajen Singh",
+          "party": "Mahabharat Peples Party",
+          "votes": 11624,
+          "votes_percentage": 46.3
+        }
+      ]
+    },
+    "2002": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 23936,
+        "total_votes_polled": 21803,
+        "turnout_percentage": 91.1,
+        "margin_votes": 2280,
+        "margin_percentage": 10.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Wangkheimayum Brajabidhu Singh",
+          "party": "Indian National Congress",
+          "votes": 11859,
+          "votes_percentage": 54.8
+        },
+        {
+          "position": 2,
+          "name": "Sorokhaibam Rajen Singh",
+          "party": "Federal Party Of Manipur",
+          "votes": 9579,
+          "votes_percentage": 44.3
+        },
+        {
+          "position": 3,
+          "name": "Thoudam Nabachandra Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 155,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 4,
+          "name": "Rajkumar Gambhir Singh",
+          "party": "Manipur National Conference",
+          "votes": 46,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 22167,
+        "total_votes_polled": 20208,
+        "turnout_percentage": 91.2,
+        "margin_votes": 162,
+        "margin_percentage": 0.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sorokhaibam Rajen Singh",
+          "party": "Manipur State Congress Party",
+          "votes": 6840,
+          "votes_percentage": 34.2
+        },
+        {
+          "position": 2,
+          "name": "Wangkheimayum Brajabidhu Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 6678,
+          "votes_percentage": 33.4
+        },
+        {
+          "position": 3,
+          "name": "Khomdram Robindro Singh",
+          "party": "Indian National Congress",
+          "votes": 3353,
+          "votes_percentage": 16.8
+        },
+        {
+          "position": 4,
+          "name": "Arambam Kumar Singh",
+          "party": "Janata Dal (United)",
+          "votes": 1051,
+          "votes_percentage": 5.3
+        },
+        {
+          "position": 5,
+          "name": "Phuritsabam Shyamo Singh",
+          "party": "Janata Dal (Secular)",
+          "votes": 786,
+          "votes_percentage": 3.9
+        },
+        {
+          "position": 6,
+          "name": "Anoubam Chidananda Sharma",
+          "party": "Mahabharat Peples Party",
+          "votes": 644,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 7,
+          "name": "Waikhom Priyokumar Singh",
+          "party": "Federal Party Of Manipur",
+          "votes": 388,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 8,
+          "name": "Thokchom Inaocha Singh",
+          "party": "Nationalist Congress Party",
+          "votes": 135,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 8,
+          "name": "Mongjam Guno",
+          "party": "Independent",
+          "votes": 135,
+          "votes_percentage": 0.7
+        }
+      ]
+    },
+    "1995": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 20163,
+        "total_votes_polled": 19127,
+        "turnout_percentage": 94.9,
+        "margin_votes": 327,
+        "margin_percentage": 1.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sorokhaibam Rajen Singh",
+          "party": "Indian National Congress",
+          "votes": 4184,
+          "votes_percentage": 22.1
+        },
+        {
+          "position": 2,
+          "name": "Wangkheimayum Brajabidhu Singh",
+          "party": "Independent",
+          "votes": 3857,
+          "votes_percentage": 20.4
+        },
+        {
+          "position": 3,
+          "name": "Phuritsabam Shyamo Singh",
+          "party": "Independent",
+          "votes": 3167,
+          "votes_percentage": 16.8
+        },
+        {
+          "position": 4,
+          "name": "Dr. Haobam Borobabu Singh",
+          "party": "Independent",
+          "votes": 2849,
+          "votes_percentage": 15.1
+        },
+        {
+          "position": 5,
+          "name": "Mutum Ruhini Devi",
+          "party": "Mahabharat Peples Party",
+          "votes": 2361,
+          "votes_percentage": 12.5
+        },
+        {
+          "position": 6,
+          "name": "Khungdongbam Jugeshor",
+          "party": "Communist Party Of India",
+          "votes": 2049,
+          "votes_percentage": 10.8
+        },
+        {
+          "position": 7,
+          "name": "Thoudam Nabachandra Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 297,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 8,
+          "name": "R.K. Gambhir Singh",
+          "party": "Janata Dal",
+          "votes": 145,
+          "votes_percentage": 0.8
+        }
+      ]
+    },
+    "1990": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 18727,
+        "total_votes_polled": 17126,
+        "turnout_percentage": 91.5,
+        "margin_votes": 459,
+        "margin_percentage": 2.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Deven",
+          "party": "Mahabharat Peples Party",
+          "votes": 5454,
+          "votes_percentage": 32.0
+        },
+        {
+          "position": 2,
+          "name": "Ph. Sagar Singh",
+          "party": "Janata Dal",
+          "votes": 4995,
+          "votes_percentage": 29.3
+        },
+        {
+          "position": 3,
+          "name": "H. Kwaklei",
+          "party": "Communist Party Of India",
+          "votes": 2886,
+          "votes_percentage": 16.9
+        },
+        {
+          "position": 4,
+          "name": "N. Manihar",
+          "party": "Bharatiya Janta Party",
+          "votes": 1977,
+          "votes_percentage": 11.6
+        },
+        {
+          "position": 5,
+          "name": "Th. Manihar",
+          "party": "Indian National Congress",
+          "votes": 1721,
+          "votes_percentage": 10.1
+        }
+      ]
+    },
+    "1984": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 16325,
+        "total_votes_polled": 14599,
+        "turnout_percentage": 89.4,
+        "margin_votes": 2922,
+        "margin_percentage": 20.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mutum Deven",
+          "party": "Independent",
+          "votes": 6181,
+          "votes_percentage": 43.2
+        },
+        {
+          "position": 2,
+          "name": "Phuritsabam Sagor",
+          "party": "Independent",
+          "votes": 3259,
+          "votes_percentage": 22.8
+        },
+        {
+          "position": 3,
+          "name": "Khundongbam Jugeshwor",
+          "party": "Communist Party Of India",
+          "votes": 2746,
+          "votes_percentage": 19.2
+        },
+        {
+          "position": 4,
+          "name": "Ningthoojam Manihar",
+          "party": "Indian National Congress",
+          "votes": 1224,
+          "votes_percentage": 8.6
+        },
+        {
+          "position": 5,
+          "name": "Laishram Shamungou",
+          "party": "Independent",
+          "votes": 895,
+          "votes_percentage": 6.3
+        }
+      ]
+    },
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 14891,
+        "total_votes_polled": 12426,
+        "turnout_percentage": 83.5,
+        "margin_votes": 69,
+        "margin_percentage": 0.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Phuritsabam Sagar Singh",
+          "party": "Independent",
+          "votes": 2329,
+          "votes_percentage": 19.2
+        },
+        {
+          "position": 2,
+          "name": "Khundongbam Jugeshwar",
+          "party": "Communist Party Of India",
+          "votes": 2260,
+          "votes_percentage": 18.6
+        },
+        {
+          "position": 3,
+          "name": "Maibam Angangjao",
+          "party": "Independent",
+          "votes": 1882,
+          "votes_percentage": 15.5
+        },
+        {
+          "position": 4,
+          "name": "Chingangbam Kuber",
+          "party": "Manipur Peoples Party",
+          "votes": 1582,
+          "votes_percentage": 13.0
+        },
+        {
+          "position": 5,
+          "name": "Laishram Shamungou Singh",
+          "party": "Janta Party",
+          "votes": 1503,
+          "votes_percentage": 12.4
+        },
+        {
+          "position": 6,
+          "name": "Th. Indra",
+          "party": "Indian National Congress (I)",
+          "votes": 1400,
+          "votes_percentage": 11.5
+        },
+        {
+          "position": 7,
+          "name": "A. K. Kullachandra",
+          "party": "Indian National Congress (U)",
+          "votes": 1013,
+          "votes_percentage": 8.4
+        },
+        {
+          "position": 8,
+          "name": "Hidangmayum Madhumangol",
+          "party": "Independent",
+          "votes": 96,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 9,
+          "name": "Thiyam Lal Singh",
+          "party": "Independent",
+          "votes": 66,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

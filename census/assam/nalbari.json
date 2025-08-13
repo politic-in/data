@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 46867,
+        "male": 48466,
+        "percentage_of_total_population": 12.35,
+        "percentage_of_total_population_calculated": 12.35,
+        "percentage_of_total_population_stated": 12.35,
+        "sex_ratio": 967,
+        "total": 95333
+    },
+    "literacy": {
+        "female_literacy_rate": 72.57,
+        "female_literate": 238587,
+        "male_literacy_rate": 84.36,
+        "male_literate": 293184,
+        "rate_percentage": 78.63,
+        "total_literate": 531771
+    },
+    "population": {
+        "female": 375633,
+        "male": 396006,
+        "sex_ratio": 949,
+        "total": 771639
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.0,
+            "population": 27
+        },
+        "Christian": {
+            "percentage": 0.06,
+            "population": 429
+        },
+        "Hindu": {
+            "percentage": 63.71,
+            "population": 491582
+        },
+        "Jain": {
+            "percentage": 0.13,
+            "population": 1004
+        },
+        "Muslims": {
+            "percentage": 35.96,
+            "population": 277488
+        },
+        "Not Stated": {
+            "percentage": 0.13,
+            "population": 1038
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 9
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 62
+        }
+    },
+    "rural": {
+        "child_population_female": 43170,
+        "child_population_male": 44589,
+        "child_population_percentage": 12.74,
+        "child_population_percentage_calculated": 12.74,
+        "child_population_percentage_stated": 12.74,
+        "child_population_total": 87759,
+        "child_sex_ratio": 968,
+        "female": 335232,
+        "literacy_rate_female": 70.9,
+        "literacy_rate_male": 83.19,
+        "literacy_rate_percentage": 77.22,
+        "literate_female": 207071,
+        "literate_male": 257140,
+        "literate_total": 464211,
+        "male": 353677,
+        "percentage_population": 89.28,
+        "population": 688909,
+        "sex_ratio": 948
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/163-nalbari.html",
+    "urban": {
+        "child_population_female": 3705,
+        "child_population_male": 3869,
+        "child_population_percentage": 9.16,
+        "child_population_percentage_calculated": 9.16,
+        "child_population_percentage_stated": 9.16,
+        "child_population_total": 7574,
+        "child_sex_ratio": 958,
+        "female": 40401,
+        "literacy_rate_female": 85.88,
+        "literacy_rate_male": 93.72,
+        "literacy_rate_percentage": 89.89,
+        "literate_female": 31516,
+        "literate_male": 36044,
+        "literate_total": 67560,
+        "male": 42329,
+        "percentage_population": 10.72,
+        "population": 82730,
+        "sex_ratio": 954
+    }
+}

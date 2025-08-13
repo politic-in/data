@@ -1,0 +1,512 @@
+{
+  "state": "Assam",
+  "constituency": "Mariani",
+  "district": "Jorhat",
+  "ac_type": "GEN",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 106473,
+        "total_votes_polled": 88935,
+        "turnout_percentage": 85.0,
+        "margin_votes": 1793,
+        "margin_percentage": 2.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rupjyoti Kurmi",
+          "party": "Indian National Congress",
+          "votes": 36701,
+          "votes_percentage": 41.3
+        },
+        {
+          "position": 2,
+          "name": "Alok Kumar Ghosh",
+          "party": "Nationalist Congress Party",
+          "votes": 34908,
+          "votes_percentage": 39.3
+        },
+        {
+          "position": 3,
+          "name": "Dulen Nayak",
+          "party": "Bharatiya Janta Party",
+          "votes": 14602,
+          "votes_percentage": 16.4
+        },
+        {
+          "position": 4,
+          "name": "Jintu Hazarika",
+          "party": "Independent",
+          "votes": 1954,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 5,
+          "name": "Diganta Phukan",
+          "party": "Independent",
+          "votes": 770,
+          "votes_percentage": 0.9
+        }
+      ]
+    },
+    "2006": {
+      "poll_date": "04 March 2006",
+      "counting_date": "05 November 2006",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 104319,
+        "total_votes_polled": 77097,
+        "turnout_percentage": 73.9,
+        "margin_votes": 3017,
+        "margin_percentage": 3.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rupjyoti Kurmi",
+          "party": "Indian National Congress",
+          "votes": 33471,
+          "votes_percentage": 43.4
+        },
+        {
+          "position": 2,
+          "name": "Alak Kumar Ghose",
+          "party": "Nationalist Congress Party",
+          "votes": 30454,
+          "votes_percentage": 39.5
+        },
+        {
+          "position": 3,
+          "name": "Palit Borah",
+          "party": "Bharatiya Janta Party",
+          "votes": 5131,
+          "votes_percentage": 6.7
+        },
+        {
+          "position": 4,
+          "name": "Purna Kanta Phukan",
+          "party": "Communist Party Of India",
+          "votes": 4497,
+          "votes_percentage": 5.8
+        },
+        {
+          "position": 5,
+          "name": "Rajen Churi",
+          "party": "Independent",
+          "votes": 3544,
+          "votes_percentage": 4.6
+        }
+      ]
+    },
+    "2001": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 91366,
+        "total_votes_polled": 63674,
+        "turnout_percentage": 69.7,
+        "margin_votes": 2833,
+        "margin_percentage": 4.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rupam Kurmi",
+          "party": "Indian National Congress",
+          "votes": 23010,
+          "votes_percentage": 37.2
+        },
+        {
+          "position": 2,
+          "name": "Binode Gogoi",
+          "party": "Bharatiya Janta Party",
+          "votes": 20177,
+          "votes_percentage": 32.6
+        },
+        {
+          "position": 3,
+          "name": "Alok Kumar Ghose",
+          "party": "Nationalist Congress Party",
+          "votes": 16198,
+          "votes_percentage": 26.2
+        },
+        {
+          "position": 4,
+          "name": "Rajen Churi",
+          "party": "Independent",
+          "votes": 1098,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 5,
+          "name": "Fazlur Rohman",
+          "party": "Samajwadi Party",
+          "votes": 939,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 6,
+          "name": "Mamoni Rajkumari",
+          "party": "Independent",
+          "votes": 507,
+          "votes_percentage": 0.8
+        }
+      ]
+    },
+    "1996": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 85162,
+        "total_votes_polled": 60482,
+        "turnout_percentage": 71.0,
+        "margin_votes": 5416,
+        "margin_percentage": 9.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rupam Kurmi",
+          "party": "Indian National Congress",
+          "votes": 26566,
+          "votes_percentage": 46.2
+        },
+        {
+          "position": 2,
+          "name": "Bhaba Prasad Bora",
+          "party": "Asom Gana Parisad",
+          "votes": 21150,
+          "votes_percentage": 36.8
+        },
+        {
+          "position": 3,
+          "name": "Tarun Kaman",
+          "party": "Bharatiya Janta Party",
+          "votes": 5408,
+          "votes_percentage": 9.4
+        },
+        {
+          "position": 4,
+          "name": "Indra Nayak",
+          "party": "All India Indira Congress (TIWARI)",
+          "votes": 2054,
+          "votes_percentage": 3.6
+        },
+        {
+          "position": 5,
+          "name": "Deben Ekka",
+          "party": "Independent",
+          "votes": 702,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 6,
+          "name": "Lakheswar Gogoi",
+          "party": "Janata Dal",
+          "votes": 636,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 7,
+          "name": "Sunil Kurmi",
+          "party": "Revolutionary Communist Party Of India (RASIK BHATT)",
+          "votes": 517,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 8,
+          "name": "Mamoni Rajkumari",
+          "party": "Independent",
+          "votes": 514,
+          "votes_percentage": 0.9
+        }
+      ]
+    },
+    "1991": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 16,
+      "aggregate": {
+        "total_electors": 76446,
+        "total_votes_polled": 52944,
+        "turnout_percentage": 69.3,
+        "margin_votes": 15831,
+        "margin_percentage": 29.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rupam Kurmi",
+          "party": "Indian National Congress",
+          "votes": 21508,
+          "votes_percentage": 43.8
+        },
+        {
+          "position": 2,
+          "name": "Dineswar Tasa",
+          "party": "Asom Gana Parisad",
+          "votes": 5677,
+          "votes_percentage": 11.6
+        },
+        {
+          "position": 3,
+          "name": "Achinta Kumar Saikia",
+          "party": "Natun Asom Gana Parishad",
+          "votes": 4670,
+          "votes_percentage": 9.5
+        },
+        {
+          "position": 4,
+          "name": "Nogen Buragohain",
+          "party": "Independent",
+          "votes": 3982,
+          "votes_percentage": 8.1
+        },
+        {
+          "position": 5,
+          "name": "Bhawa Prasad Bora",
+          "party": "Independent",
+          "votes": 3427,
+          "votes_percentage": 7.0
+        },
+        {
+          "position": 6,
+          "name": "Gajen Tanti",
+          "party": "Indian Congress (SOCIALIST- SARAT CHANDRA SINHA)",
+          "votes": 2926,
+          "votes_percentage": 6.0
+        },
+        {
+          "position": 7,
+          "name": "Guna Kanta Barua",
+          "party": "Independent",
+          "votes": 1678,
+          "votes_percentage": 3.4
+        },
+        {
+          "position": 8,
+          "name": "Tarun Kaman",
+          "party": "Independent",
+          "votes": 1470,
+          "votes_percentage": 3.0
+        },
+        {
+          "position": 9,
+          "name": "Purna Phukan",
+          "party": "Independent",
+          "votes": 977,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 10,
+          "name": "Amrit Chetia",
+          "party": "United Reservation Movement Council Of Assam",
+          "votes": 598,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 11,
+          "name": "Golap Saikia",
+          "party": "Independent",
+          "votes": 484,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 12,
+          "name": "Ikram Hussain",
+          "party": "Independent",
+          "votes": 466,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 13,
+          "name": "Chandrika Prasad Barua",
+          "party": "Janata Dal",
+          "votes": 447,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 14,
+          "name": "Pradip Gogoi",
+          "party": "Asom Jatiya Parishad",
+          "votes": 331,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 15,
+          "name": "Onkar Agarwalla",
+          "party": "Independent",
+          "votes": 237,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 16,
+          "name": "Bijoy Krishna Saikia",
+          "party": "Independent",
+          "votes": 199,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "1985": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 64742,
+        "total_votes_polled": 44968,
+        "turnout_percentage": 69.5,
+        "margin_votes": 10003,
+        "margin_percentage": 22.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Naren Tanti",
+          "party": "Independent",
+          "votes": 19809,
+          "votes_percentage": 47.0
+        },
+        {
+          "position": 2,
+          "name": "Siba Buragohain",
+          "party": "Indian National Congress",
+          "votes": 9806,
+          "votes_percentage": 23.3
+        },
+        {
+          "position": 3,
+          "name": "Nagen Buragohain",
+          "party": "Independent",
+          "votes": 9334,
+          "votes_percentage": 22.2
+        },
+        {
+          "position": 4,
+          "name": "Gajen Tanti",
+          "party": "Indian Congress (SOCIALIST)",
+          "votes": 1473,
+          "votes_percentage": 3.5
+        },
+        {
+          "position": 5,
+          "name": "Purna Phukan",
+          "party": "Independent",
+          "votes": 1295,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 6,
+          "name": "Haren Gogoi",
+          "party": "Janta Party",
+          "votes": 254,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Manik Borthakur",
+          "party": "Independent",
+          "votes": 170,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "1983": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 58193,
+        "total_votes_polled": 8006,
+        "turnout_percentage": 13.8,
+        "margin_votes": 2450,
+        "margin_percentage": 30.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Siba Bura Gohain",
+          "party": "Indian National Congress",
+          "votes": 4953,
+          "votes_percentage": 66.4
+        },
+        {
+          "position": 2,
+          "name": "Gajen Tanti",
+          "party": "Indian Congress (SOCIALIST)",
+          "votes": 2503,
+          "votes_percentage": 33.6
+        }
+      ]
+    },
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 55133,
+        "total_votes_polled": 37120,
+        "turnout_percentage": 67.3,
+        "margin_votes": 3480,
+        "margin_percentage": 9.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gajen Tanti",
+          "party": "Indian National Congress",
+          "votes": 12259,
+          "votes_percentage": 34.5
+        },
+        {
+          "position": 2,
+          "name": "Purna Kanta Phukan",
+          "party": "Independent",
+          "votes": 8779,
+          "votes_percentage": 24.7
+        },
+        {
+          "position": 3,
+          "name": "Siba Bhuragohain",
+          "party": "Janta Party",
+          "votes": 7568,
+          "votes_percentage": 21.3
+        },
+        {
+          "position": 4,
+          "name": "Shrimati Rupan Kurmi",
+          "party": "Indian National Congress (I)",
+          "votes": 3213,
+          "votes_percentage": 9.0
+        },
+        {
+          "position": 5,
+          "name": "Debeswar Gogoi",
+          "party": "Independent",
+          "votes": 1495,
+          "votes_percentage": 4.2
+        },
+        {
+          "position": 6,
+          "name": "Dineswar Tasha",
+          "party": "Independent",
+          "votes": 1410,
+          "votes_percentage": 4.0
+        },
+        {
+          "position": 7,
+          "name": "Jogen Buragohain",
+          "party": "Independent",
+          "votes": 827,
+          "votes_percentage": 2.3
+        }
+      ]
+    }
+  }
+}

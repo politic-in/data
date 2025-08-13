@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 53096,
+        "male": 57153,
+        "percentage_of_total_population": 9.7,
+        "percentage_of_total_population_calculated": 9.7,
+        "percentage_of_total_population_stated": 9.7,
+        "sex_ratio": 929,
+        "total": 110249
+    },
+    "literacy": {
+        "female_literacy_rate": 80.63,
+        "female_literate": 407978,
+        "male_literacy_rate": 92.38,
+        "male_literate": 481049,
+        "rate_percentage": 86.59,
+        "total_literate": 889027
+    },
+    "population": {
+        "female": 559106,
+        "male": 577865,
+        "sex_ratio": 968,
+        "total": 1136971
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 74
+        },
+        "Christian": {
+            "percentage": 0.14,
+            "population": 1604
+        },
+        "Hindu": {
+            "percentage": 95.53,
+            "population": 1086140
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 58
+        },
+        "Muslims": {
+            "percentage": 4.13,
+            "population": 46929
+        },
+        "Not Stated": {
+            "percentage": 0.17,
+            "population": 1897
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 63
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 206
+        }
+    },
+    "rural": {
+        "child_population_female": 47434,
+        "child_population_male": 50857,
+        "child_population_percentage": 9.63,
+        "child_population_percentage_calculated": 9.63,
+        "child_population_percentage_stated": 9.63,
+        "child_population_total": 98291,
+        "child_sex_ratio": 933,
+        "female": 504178,
+        "literacy_rate_female": 80.4,
+        "literacy_rate_male": 92.49,
+        "literacy_rate_percentage": 86.51,
+        "literate_female": 367243,
+        "literate_male": 430959,
+        "literate_total": 798202,
+        "male": 516813,
+        "percentage_population": 89.8,
+        "population": 1020991,
+        "sex_ratio": 976
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/404-jagatsinghapur.html",
+    "urban": {
+        "child_population_female": 5660,
+        "child_population_male": 6298,
+        "child_population_percentage": 10.31,
+        "child_population_percentage_calculated": 10.31,
+        "child_population_percentage_stated": 10.31,
+        "child_population_total": 11958,
+        "child_sex_ratio": 899,
+        "female": 54928,
+        "literacy_rate_female": 82.68,
+        "literacy_rate_male": 91.48,
+        "literacy_rate_percentage": 87.31,
+        "literate_female": 40735,
+        "literate_male": 50090,
+        "literate_total": 90825,
+        "male": 61052,
+        "percentage_population": 10.2,
+        "population": 115980,
+        "sex_ratio": 900
+    }
+}

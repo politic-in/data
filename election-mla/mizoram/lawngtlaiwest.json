@@ -1,0 +1,50 @@
+{
+  "state": "Mizoram",
+  "constituency": "LAWNGTLAIWEST",
+  "district": "Lawngtlai",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 25120,
+        "total_votes_polled": 21711,
+        "turnout_percentage": 87.0,
+        "margin_votes": 795,
+        "margin_percentage": 3.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "C. Ngunlianchunga",
+          "party": "Indian National Congress",
+          "votes": 10678,
+          "votes_percentage": 49.2
+        },
+        {
+          "position": 2,
+          "name": "C. Ramhluna",
+          "party": "Mizo National Front",
+          "votes": 9883,
+          "votes_percentage": 45.5
+        },
+        {
+          "position": 3,
+          "name": "J.B. Rualchhinga",
+          "party": "Bharatiya Janta Party",
+          "votes": 973,
+          "votes_percentage": 4.5
+        },
+        {
+          "position": 4,
+          "name": "Vanlalthaa",
+          "party": "Independent",
+          "votes": 177,
+          "votes_percentage": 0.8
+        }
+      ]
+    }
+  }
+}

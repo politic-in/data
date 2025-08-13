@@ -1,0 +1,120 @@
+{
+  "state": "West Bengal",
+  "constituency": "Kalyani",
+  "district": "Nadia",
+  "ac_type": "SC",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 245181,
+        "total_votes_polled": 217761,
+        "turnout_percentage": 89.9,
+        "margin_votes": 2206,
+        "margin_percentage": 1.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ambika Roy",
+          "party": "Bharatiya Janta Party",
+          "votes": 97026,
+          "votes_percentage": 44.6
+        },
+        {
+          "position": 2,
+          "name": "Aniruddha Biswas",
+          "party": "All India Trinamool Congress",
+          "votes": 94820,
+          "votes_percentage": 43.5
+        },
+        {
+          "position": 3,
+          "name": "Sabuj Das",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 22165,
+          "votes_percentage": 10.2
+        },
+        {
+          "position": 4,
+          "name": "Goutam Malo",
+          "party": "Bahujan Samaj Party",
+          "votes": 1661,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 5,
+          "name": "Amit Kumar Das",
+          "party": "Independent",
+          "votes": 957,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Sangram Biswas",
+          "party": "Party For Democratic Socialism",
+          "votes": 673,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "Agniv Hira",
+          "party": "Independent",
+          "votes": 459,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 198770,
+        "total_votes_polled": 179108,
+        "turnout_percentage": 90.1,
+        "margin_votes": 15690,
+        "margin_percentage": 8.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr. Ramendra Nath Biswas",
+          "party": "All India Trinamool Congress",
+          "votes": 92322,
+          "votes_percentage": 51.6
+        },
+        {
+          "position": 2,
+          "name": "Jyotsna Sarkar (SIKDER)",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 76632,
+          "votes_percentage": 42.8
+        },
+        {
+          "position": 3,
+          "name": "Dipali Bharati",
+          "party": "Bharatiya Janta Party",
+          "votes": 4478,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 4,
+          "name": "Mithu Podder",
+          "party": "Party For Democratic Socialism",
+          "votes": 2995,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 5,
+          "name": "Pranita Roy",
+          "party": "Bahujan Samaj Party",
+          "votes": 2681,
+          "votes_percentage": 1.5
+        }
+      ]
+    }
+  }
+}

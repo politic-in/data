@@ -1,0 +1,57 @@
+{
+  "state": "West Bengal",
+  "constituency": "AUSGRAM (SC)",
+  "district": "Barddhaman",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 224595,
+        "total_votes_polled": 193082,
+        "turnout_percentage": 87.7,
+        "margin_votes": 6252,
+        "margin_percentage": 3.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Abhedananda Thander",
+          "party": "All India Trinamool Congress",
+          "votes": 90450,
+          "votes_percentage": 46.9
+        },
+        {
+          "position": 2,
+          "name": "Basudev Mete",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 84198,
+          "votes_percentage": 43.6
+        },
+        {
+          "position": 3,
+          "name": "Sanatan Maji",
+          "party": "Bharatiya Janta Party",
+          "votes": 14686,
+          "votes_percentage": 7.6
+        },
+        {
+          "position": 4,
+          "name": "Kalpana Ankure",
+          "party": "Independent",
+          "votes": 2263,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 5,
+          "name": "Manasa Mete",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1485,
+          "votes_percentage": 0.8
+        }
+      ]
+    }
+  }
+}

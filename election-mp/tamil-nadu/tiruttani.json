@@ -1,0 +1,36 @@
+{
+  "state": "Tamil Nadu",
+  "constituency": "TIRUTTANI",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 565715,
+        "total_votes_polled": 420590,
+        "turnout_percentage": 74.4,
+        "margin_votes": 84105,
+        "margin_percentage": 20.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "O. V. Alagesa Mudaliar",
+          "party": "Indian National Congress",
+          "votes": 241418,
+          "votes_percentage": 57.4
+        },
+        {
+          "position": 2,
+          "name": "P. Ramachandran",
+          "party": "Indian National Congress (ORGANISATION)",
+          "votes": 157313,
+          "votes_percentage": 37.4
+        }
+      ]
+    }
+  }
+}

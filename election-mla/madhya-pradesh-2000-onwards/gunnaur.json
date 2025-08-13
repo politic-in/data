@@ -1,0 +1,50 @@
+{
+  "state": "Madhya Pradesh [2000 Onwards]",
+  "constituency": "Gunnaur",
+  "district": "Panna",
+  "ac_type": "SC",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 207024,
+        "total_votes_polled": 149825,
+        "turnout_percentage": 74.2,
+        "margin_votes": 1984,
+        "margin_percentage": 1.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shivdayal Bagri",
+          "party": "Indian National Congress",
+          "votes": 57658,
+          "votes_percentage": 38.5
+        },
+        {
+          "position": 2,
+          "name": "Rajesh Kumar Verma",
+          "party": "Bharatiya Janta Party",
+          "votes": 55674,
+          "votes_percentage": 37.2
+        },
+        {
+          "position": 3,
+          "name": "Jeevanlal Siddharth",
+          "party": "Bahujan Samaj Party",
+          "votes": 32793,
+          "votes_percentage": 21.9
+        },
+        {
+          "position": 4,
+          "name": "Khilawan Prasad Urf Khillu",
+          "party": "Sapaks Party",
+          "votes": 3700,
+          "votes_percentage": 2.5
+        }
+      ]
+    }
+  }
+}

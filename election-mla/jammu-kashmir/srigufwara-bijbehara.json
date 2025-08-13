@@ -1,0 +1,43 @@
+{
+  "state": "Jammu & Kashmir",
+  "constituency": "SRIGUFWARA-BIJBEHARA",
+  "district": "Anantnag",
+  "ac_type": "GEN",
+  "results": {
+    "2024": {
+      "poll_date": "08 October 2024",
+      "counting_date": "08 October 2024",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 102081,
+        "total_votes_polled": 60544,
+        "turnout_percentage": 60.8,
+        "margin_votes": 9770,
+        "margin_percentage": 16.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bashir Ahmad Shah Veeri",
+          "party": "Jammu & Kashmir National Conference",
+          "votes": 33299,
+          "votes_percentage": 53.6
+        },
+        {
+          "position": 2,
+          "name": "Iltija Mehbooba Mufti",
+          "party": "Jammu & Kashmir Peoples Democratic Party",
+          "votes": 23529,
+          "votes_percentage": 37.9
+        },
+        {
+          "position": 3,
+          "name": "Sofi Yousif",
+          "party": "Bharatiya Janta Party",
+          "votes": 3716,
+          "votes_percentage": 6.0
+        }
+      ]
+    }
+  }
+}

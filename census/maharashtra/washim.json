@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 70499,
+        "male": 81691,
+        "percentage_of_total_population": 12.71,
+        "percentage_of_total_population_calculated": 12.71,
+        "percentage_of_total_population_stated": 12.71,
+        "sex_ratio": 863,
+        "total": 152190
+    },
+    "literacy": {
+        "female_literacy_rate": 75.48,
+        "female_literate": 382214,
+        "male_literacy_rate": 90.55,
+        "male_literate": 487703,
+        "rate_percentage": 83.25,
+        "total_literate": 869917
+    },
+    "population": {
+        "female": 576858,
+        "male": 620302,
+        "sex_ratio": 930,
+        "total": 1197160
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 14.98,
+            "population": 179330
+        },
+        "Christian": {
+            "percentage": 0.14,
+            "population": 1707
+        },
+        "Hindu": {
+            "percentage": 71.83,
+            "population": 859949
+        },
+        "Jain": {
+            "percentage": 0.71,
+            "population": 8476
+        },
+        "Muslims": {
+            "percentage": 11.92,
+            "population": 142672
+        },
+        "Not Stated": {
+            "percentage": 0.34,
+            "population": 4127
+        },
+        "Others": {
+            "percentage": 0.03,
+            "population": 381
+        },
+        "Sikh": {
+            "percentage": 0.04,
+            "population": 518
+        }
+    },
+    "rural": {
+        "child_population_female": 58068,
+        "child_population_male": 67515,
+        "child_population_percentage": 12.74,
+        "child_population_percentage_calculated": 12.74,
+        "child_population_percentage_stated": 12.74,
+        "child_population_total": 125583,
+        "child_sex_ratio": 860,
+        "female": 474020,
+        "literacy_rate_female": 73.63,
+        "literacy_rate_male": 90.16,
+        "literacy_rate_percentage": 82.17,
+        "literate_female": 306272,
+        "literate_male": 400484,
+        "literate_total": 706756,
+        "male": 511727,
+        "percentage_population": 82.34,
+        "population": 985747,
+        "sex_ratio": 926
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/340-washim.html",
+    "urban": {
+        "child_population_female": 12436,
+        "child_population_male": 14171,
+        "child_population_percentage": 12.59,
+        "child_population_percentage_calculated": 12.59,
+        "child_population_percentage_stated": 12.59,
+        "child_population_total": 26607,
+        "child_sex_ratio": 878,
+        "female": 102838,
+        "literacy_rate_female": 84.0,
+        "literacy_rate_male": 92.39,
+        "literacy_rate_percentage": 88.29,
+        "literate_female": 75942,
+        "literate_male": 87219,
+        "literate_total": 163161,
+        "male": 108575,
+        "percentage_population": 17.66,
+        "population": 211413,
+        "sex_ratio": 947
+    }
+}

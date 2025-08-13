@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 77484,
+        "male": 83675,
+        "percentage_of_total_population": 11.19,
+        "percentage_of_total_population_calculated": 11.19,
+        "percentage_of_total_population_stated": 11.19,
+        "sex_ratio": 926,
+        "total": 161159
+    },
+    "literacy": {
+        "female_literacy_rate": 78.96,
+        "female_literate": 509295,
+        "male_literacy_rate": 91.45,
+        "male_literate": 579970,
+        "rate_percentage": 85.15,
+        "total_literate": 1089265
+    },
+    "population": {
+        "female": 722547,
+        "male": 717814,
+        "sex_ratio": 1007,
+        "total": 1440361
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.0,
+            "population": 62
+        },
+        "Christian": {
+            "percentage": 0.1,
+            "population": 1423
+        },
+        "Hindu": {
+            "percentage": 96.28,
+            "population": 1386792
+        },
+        "Jain": {
+            "percentage": 0.0,
+            "population": 52
+        },
+        "Muslims": {
+            "percentage": 3.49,
+            "population": 50247
+        },
+        "Not Stated": {
+            "percentage": 0.11,
+            "population": 1592
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 24
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 169
+        }
+    },
+    "rural": {
+        "child_population_female": 73239,
+        "child_population_male": 78899,
+        "child_population_percentage": 11.21,
+        "child_population_percentage_calculated": 11.21,
+        "child_population_percentage_stated": 11.21,
+        "child_population_total": 152138,
+        "child_sex_ratio": 928,
+        "female": 681774,
+        "literacy_rate_female": 78.67,
+        "literacy_rate_male": 91.38,
+        "literacy_rate_percentage": 84.96,
+        "literate_female": 478726,
+        "literate_male": 544759,
+        "literate_total": 1023485,
+        "male": 675053,
+        "percentage_population": 94.2,
+        "population": 1356827,
+        "sex_ratio": 1010
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/403-kendrapara.html",
+    "urban": {
+        "child_population_female": 4266,
+        "child_population_male": 4755,
+        "child_population_percentage": 10.8,
+        "child_population_percentage_calculated": 10.8,
+        "child_population_percentage_stated": 10.8,
+        "child_population_total": 9021,
+        "child_sex_ratio": 897,
+        "female": 40773,
+        "literacy_rate_female": 83.73,
+        "literacy_rate_male": 92.65,
+        "literacy_rate_percentage": 88.28,
+        "literate_female": 30569,
+        "literate_male": 35211,
+        "literate_total": 65780,
+        "male": 42761,
+        "percentage_population": 5.8,
+        "population": 83534,
+        "sex_ratio": 954
+    }
+}

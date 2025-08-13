@@ -1,0 +1,50 @@
+{
+  "state": "Tripura",
+  "constituency": "Manu (ST)",
+  "district": "South Tripura",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 42785,
+        "total_votes_polled": 39973,
+        "turnout_percentage": 94.6,
+        "margin_votes": 193,
+        "margin_percentage": 0.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pravat Chowdhury",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 19432,
+          "votes_percentage": 48.6
+        },
+        {
+          "position": 2,
+          "name": "Dhananjoy Tripura",
+          "party": "Indigenous People's Front Of Tripura",
+          "votes": 19239,
+          "votes_percentage": 48.1
+        },
+        {
+          "position": 3,
+          "name": "Mongla Mog",
+          "party": "Indian National Congress",
+          "votes": 819,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 5,
+          "name": "Kanchai Mog",
+          "party": "Independent",
+          "votes": 483,
+          "votes_percentage": 1.2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "state": "Delhi [1977 Onwards]",
+  "constituency": "Shadipur",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "1983": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 44467,
+        "total_votes_polled": 20575,
+        "turnout_percentage": 46.3,
+        "margin_votes": 2206,
+        "margin_percentage": 10.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sundervati Naval Pravhakar",
+          "party": "Indian National Congress",
+          "votes": 10444,
+          "votes_percentage": 52.6
+        },
+        {
+          "position": 2,
+          "name": "Om Parkash Bhagat",
+          "party": "Bharatiya Janta Party",
+          "votes": 8238,
+          "votes_percentage": 41.5
+        },
+        {
+          "position": 3,
+          "name": "Giani Ram",
+          "party": "Independent",
+          "votes": 588,
+          "votes_percentage": 3.0
+        },
+        {
+          "position": 4,
+          "name": "Chandu Lal Balmiki",
+          "party": "Independent",
+          "votes": 269,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 5,
+          "name": "Samar Singh Balmiki",
+          "party": "Independent",
+          "votes": 218,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Kharak Singh",
+          "party": "Independent",
+          "votes": 68,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "Suraj Bhan Balmiki",
+          "party": "Independent",
+          "votes": 41,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 31011,
+        "total_votes_polled": 15951,
+        "turnout_percentage": 51.4,
+        "margin_votes": 677,
+        "margin_percentage": 4.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sundervati Naval Prabhakar",
+          "party": "Indian National Congress",
+          "votes": 7379,
+          "votes_percentage": 47.6
+        },
+        {
+          "position": 2,
+          "name": "Om Parkash",
+          "party": "Janta Party",
+          "votes": 6702,
+          "votes_percentage": 43.2
+        },
+        {
+          "position": 3,
+          "name": "Kharak Singh",
+          "party": "Independent",
+          "votes": 1430,
+          "votes_percentage": 9.2
+        }
+      ]
+    }
+  }
+}

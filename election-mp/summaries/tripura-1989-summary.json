@@ -1,0 +1,45 @@
+{
+  "state": "Tripura",
+  "year": "1989",
+  "summary_stats": {
+    "total_electors_state": 1536550,
+    "total_votes_polled_state": 1288985,
+    "turnout_percentage_state": 83.9,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Tripura East",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Tripura",
+      "winning_candidate": "Manikya Bikram Kishore Debbarma Bahadur",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 733910,
+      "total_votes_ac": 600724,
+      "poll_percentage_ac": 0.0,
+      "margin": 8401,
+      "margin_percentage": 1.4,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1989/tripura/tripura-east/4338/25/9"
+    },
+    {
+      "ac_name": "Tripura West",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Tripura",
+      "winning_candidate": "Santosh Mohan Dev",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 802640,
+      "total_votes_ac": 688261,
+      "poll_percentage_ac": 0.0,
+      "margin": 166155,
+      "margin_percentage": 24.1,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1989/tripura/tripura-west/4337/25/9"
+    }
+  ]
+}

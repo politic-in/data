@@ -1,0 +1,48 @@
+{
+  "state": "Madhya Pradesh [1947   1999]",
+  "constituency": "DURG BASTAR",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 394803,
+        "total_votes_polled": 214924,
+        "turnout_percentage": 54.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bhagwati Charan Shukla",
+          "party": "Indian National Congress",
+          "votes": 102666,
+          "votes_percentage": 47.8
+        },
+        {
+          "position": 2,
+          "name": "Hanumanprasad Brahmachari",
+          "party": "Akhil Bharatiya Ram Rajya Parishad",
+          "votes": 48017,
+          "votes_percentage": 22.3
+        },
+        {
+          "position": 3,
+          "name": "Radhe Shyam",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 44498,
+          "votes_percentage": 20.7
+        },
+        {
+          "position": 4,
+          "name": "Sarju Prasad",
+          "party": "Socialist Party",
+          "votes": 19743,
+          "votes_percentage": 9.2
+        }
+      ]
+    }
+  }
+}

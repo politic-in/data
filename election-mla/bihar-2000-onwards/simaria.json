@@ -1,0 +1,64 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "Simaria",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 183625,
+        "total_votes_polled": 48751,
+        "turnout_percentage": 26.6,
+        "margin_votes": 5549,
+        "margin_percentage": 11.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Yogendra Nath Baitha",
+          "party": "Rashtriya Janata Dal",
+          "votes": 19788,
+          "votes_percentage": 41.4
+        },
+        {
+          "position": 2,
+          "name": "Upendra Nath Das",
+          "party": "Bharatiya Janta Party",
+          "votes": 14239,
+          "votes_percentage": 29.8
+        },
+        {
+          "position": 3,
+          "name": "Ram Chandra Ram",
+          "party": "Communist Party Of India",
+          "votes": 11532,
+          "votes_percentage": 24.1
+        },
+        {
+          "position": 4,
+          "name": "Dr. Nand Kishor Prasad",
+          "party": "Indian National Congress",
+          "votes": 2018,
+          "votes_percentage": 4.2
+        },
+        {
+          "position": 5,
+          "name": "Sheo Jagat Ram",
+          "party": "Independent",
+          "votes": 152,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 6,
+          "name": "Basant Prasad Rajak",
+          "party": "Independent",
+          "votes": 95,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

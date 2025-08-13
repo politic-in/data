@@ -1,0 +1,78 @@
+{
+  "state": "Uttarakhand",
+  "constituency": "JWALAPUR(SC)",
+  "district": "Hardwar",
+  "ac_type": "SC",
+  "results": {
+    "2022": {
+      "poll_date": "14 February 2022",
+      "counting_date": "10 March 2022",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 152171,
+        "total_votes_polled": 92263,
+        "turnout_percentage": 61.0,
+        "margin_votes": 13343,
+        "margin_percentage": 14.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Er. Ravi Bahadur",
+          "party": "Indian National Congress",
+          "votes": 42372,
+          "votes_percentage": 45.9
+        },
+        {
+          "position": 2,
+          "name": "Suresh Rathore",
+          "party": "Bharatiya Janta Party",
+          "votes": 29029,
+          "votes_percentage": 31.5
+        },
+        {
+          "position": 3,
+          "name": "Shishpal Singh",
+          "party": "Bahujan Samaj Party",
+          "votes": 14760,
+          "votes_percentage": 16.0
+        },
+        {
+          "position": 4,
+          "name": "S.P.Singh Engineer",
+          "party": "Aazad Samaj Party (Kanshi Ram)",
+          "votes": 4208,
+          "votes_percentage": 4.6
+        },
+        {
+          "position": 5,
+          "name": "Mamta Singh",
+          "party": "Aam Aadmi Party",
+          "votes": 929,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Sanatan Sonker",
+          "party": "Samajwadi Party",
+          "votes": 601,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Goutam",
+          "party": "Loktantrik Janshakti Party",
+          "votes": 206,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "Ravindra Kumar",
+          "party": "Nyay Dharm Sabha",
+          "votes": 158,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

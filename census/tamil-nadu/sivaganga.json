@@ -1,0 +1,118 @@
+{
+  "district_name": "Sivaganga",
+  "source_urls": {
+    "primary_demographics": "https://www.census2011.co.in/census/district/44-sivaganga.html",
+    "sc_st_population": "https://www.censusindia.co.in/district/sivaganga-district-tamil-nadu-622"
+  },
+  "total_population_2011": {
+    "total": 1339101,
+    "male": 668672,
+    "female": 670429,
+    "sex_ratio": 1003
+  },
+  "overall_child_population_0_6_years": {
+    "total": 137235,
+    "male": 70022,
+    "female": 67213,
+    "sex_ratio": 960,
+    "percentage_of_total_population": 10.25
+  },
+  "overall_literacy": {
+    "rate_percentage": 79.85,
+    "total_literate": 959744,
+    "male_literate": 526304,
+    "female_literate": 433440,
+    "male_literacy_rate": 87.92,
+    "female_literacy_rate": 71.85
+  },
+  "urban_distribution": {
+    "percentage_of_total_population": 30.83,
+    "population": 412845,
+    "male": 206462,
+    "female": 206383,
+    "sex_ratio": 1000,
+    "child_population_0_6": {
+      "total": 41672,
+      "male": 21310,
+      "female": 20362,
+      "sex_ratio": 956,
+      "percentage_of_urban_population": 10.09
+    },
+    "literacy": {
+      "rate_percentage": 89.1,
+      "total_literate": 330699,
+      "male_literate": 173397,
+      "female_literate": 157302,
+      "male_literacy_rate": 93.65,
+      "female_literacy_rate": 84.56
+    }
+  },
+  "rural_distribution": {
+    "percentage_of_total_population": 69.17,
+    "population": 926256,
+    "male": 462210,
+    "female": 464046,
+    "sex_ratio": 1004,
+    "child_population_0_6": {
+      "total": 95563,
+      "male": 48712,
+      "female": 46851,
+      "sex_ratio": 962,
+      "percentage_of_rural_population": 10.32
+    },
+    "literacy": {
+      "rate_percentage": 75.73,
+      "total_literate": 629045,
+      "male_literate": 352907,
+      "female_literate": 276138,
+      "male_literacy_rate": 85.35,
+      "female_literacy_rate": 66.19
+    }
+  },
+  "religion_distribution": {
+    "hindu": {
+      "percentage": 88.57,
+      "population": 1186078
+    },
+    "muslim": {
+      "percentage": 5.55,
+      "population": 74310
+    },
+    "christian": {
+      "percentage": 5.64,
+      "population": 75481
+    },
+    "sikh": {
+      "percentage": 0.01,
+      "population": 150
+    },
+    "buddhist": {
+      "percentage": 0.01,
+      "population": 80
+    },
+    "jain": {
+      "percentage": 0.01,
+      "population": 109
+    },
+    "others": {
+      "percentage": 0.0,
+      "population": 24
+    },
+    "not_stated": {
+      "percentage": 0.21,
+      "population": 2869
+    }
+  },
+  "scheduled_caste_sc_population": {
+    "total": 227746,
+    "male": 113599,
+    "female": 114147,
+    "percentage_of_total_population": 17.0
+  },
+  "scheduled_tribe_st_population": {
+    "total": 790,
+    "male": 394,
+    "female": 396,
+    "percentage_of_total_population": 0.1
+  }
+}

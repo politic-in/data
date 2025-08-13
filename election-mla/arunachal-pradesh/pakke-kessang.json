@@ -1,0 +1,152 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Pakke kessang",
+  "district": "East Kameng",
+  "ac_type": "ST",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 7961,
+        "total_votes_polled": 6790,
+        "turnout_percentage": 86.4,
+        "margin_votes": 2222,
+        "margin_percentage": 32.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Biyuram Wahge",
+          "party": "Bharatiya Janta Party",
+          "votes": 4506,
+          "votes_percentage": 66.4
+        },
+        {
+          "position": 2,
+          "name": "Atum Welly",
+          "party": "Indian National Congress",
+          "votes": 2284,
+          "votes_percentage": 33.6
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "09 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 1,
+      "aggregate": {
+        "total_electors": 6904,
+        "total_votes_polled": 0,
+        "turnout_percentage": 0.0,
+        "total_valid_votes": 0,
+        "total_valid_votes_percentage": 0.0,
+        "margin_votes": 0,
+        "margin_percentage": 0.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kameng Dolo",
+          "party": "Indian National Congress",
+          "votes": 0,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "13 October 2009",
+      "counting_date": "22 October 2009",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 6426,
+        "total_votes_polled": 5703,
+        "turnout_percentage": 88.8,
+        "total_valid_votes": 5577,
+        "total_valid_votes_percentage": 86.8,
+        "margin_votes": 67,
+        "margin_percentage": 1.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Atum Welly",
+          "party": "Indian National Congress",
+          "votes": 2885,
+          "votes_percentage": 50.6
+        },
+        {
+          "position": 2,
+          "name": "Techi Hemu",
+          "party": "Nationalist Congress Party",
+          "votes": 2818,
+          "votes_percentage": 49.4
+        }
+      ]
+    },
+    "2004": {
+      "poll_date": "10 July 2004",
+      "counting_date": "10 October 2004",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 6356,
+        "total_votes_polled": 4942,
+        "turnout_percentage": 0.8,
+        "margin_votes": 854,
+        "margin_percentage": 17.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Techi  Hemu",
+          "party": "Bharatiya Janta Party",
+          "votes": 2898,
+          "votes_percentage": 58.6
+        },
+        {
+          "position": 2,
+          "name": "Niani Natung",
+          "party": "Indian National Congress",
+          "votes": 2044,
+          "votes_percentage": 41.4
+        }
+      ]
+    },
+    "1990": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 4462,
+        "total_votes_polled": 3582,
+        "turnout_percentage": 80.3,
+        "margin_votes": 440,
+        "margin_percentage": 12.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dera Natung",
+          "party": "Indian National Congress",
+          "votes": 1680,
+          "votes_percentage": 47.7
+        },
+        {
+          "position": 2,
+          "name": "Natung Tacheng",
+          "party": "Janata Dal",
+          "votes": 1240,
+          "votes_percentage": 35.2
+        },
+        {
+          "position": 3,
+          "name": "Lagu Tayem",
+          "party": "Independent",
+          "votes": 605,
+          "votes_percentage": 17.2
+        }
+      ]
+    }
+  }
+}

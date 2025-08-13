@@ -1,0 +1,64 @@
+{
+  "state": "West Bengal",
+  "constituency": "RANAGHAT UTTAR PURBA (SC)",
+  "district": "Nadia",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 236975,
+        "total_votes_polled": 192033,
+        "turnout_percentage": 81.7,
+        "margin_votes": 14972,
+        "margin_percentage": 7.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Samir Kumar Poddar",
+          "party": "All India Trinamool Congress",
+          "votes": 93215,
+          "votes_percentage": 48.5
+        },
+        {
+          "position": 2,
+          "name": "Babusona Sarkar",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 78243,
+          "votes_percentage": 40.7
+        },
+        {
+          "position": 3,
+          "name": "Nikhil Ranjan Sarkar",
+          "party": "Bharatiya Janta Party",
+          "votes": 15467,
+          "votes_percentage": 8.1
+        },
+        {
+          "position": 4,
+          "name": "Pradip Kumar Sarkar",
+          "party": "Bahujan Samaj Party",
+          "votes": 2301,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 5,
+          "name": "Jagadish Mondal",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1496,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Debadrita Biswas",
+          "party": "New Democratic Party Of India",
+          "votes": 1311,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

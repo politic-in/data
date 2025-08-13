@@ -1,0 +1,533 @@
+{
+  "state": "Gujarat",
+  "constituency": "Jhalod",
+  "district": "Dohad",
+  "ac_type": "ST",
+  "results": {
+    "2022": {
+      "poll_date": "01 December 2022",
+      "counting_date": "08 December 2022",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 271789,
+        "total_votes_polled": 156307,
+        "turnout_percentage": 59.2,
+        "margin_votes": 35222,
+        "margin_percentage": 22.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Maheshbhai Somjibhai Bhuriya",
+          "party": "Bharatiya Janta Party",
+          "votes": 82745,
+          "votes_percentage": 51.4
+        },
+        {
+          "position": 2,
+          "name": "Anilbhai Somabhai Garasiya",
+          "party": "Aam Aadmi Party",
+          "votes": 47523,
+          "votes_percentage": 29.5
+        },
+        {
+          "position": 3,
+          "name": "Miteshbhai Kalabhai Garasiya",
+          "party": "Indian National Congress",
+          "votes": 21996,
+          "votes_percentage": 13.7
+        },
+        {
+          "position": 4,
+          "name": "Mansukhbhai Ratanbhai Katara",
+          "party": "Bhartiya Tribal Party",
+          "votes": 1525,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Harichandra Shashikantbhai Mahida",
+          "party": "Independent",
+          "votes": 1308,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Mohanbhai Parsingbhai Sangada",
+          "party": "Independent",
+          "votes": 1210,
+          "votes_percentage": 0.8
+        }
+      ]
+    },
+    "2017": {
+      "poll_date": "09 December 2017",
+      "counting_date": "18 December 2017",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 220966,
+        "total_votes_polled": 146744,
+        "turnout_percentage": 68.8,
+        "margin_votes": 25410,
+        "margin_percentage": 17.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Katara Bhaveshbhai Babubhai",
+          "party": "Indian National Congress",
+          "votes": 86077,
+          "votes_percentage": 58.7
+        },
+        {
+          "position": 2,
+          "name": "Bhuriya Maheshbhai Somjibhai",
+          "party": "Bharatiya Janta Party",
+          "votes": 60667,
+          "votes_percentage": 41.3
+        }
+      ]
+    },
+    "2012": {
+      "poll_date": "",
+      "counting_date": "20 December 2012",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 194880,
+        "total_votes_polled": 132298,
+        "turnout_percentage": 67.9,
+        "margin_votes": 40073,
+        "margin_percentage": 30.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Garasiya Miteshbhai Kalabhai",
+          "party": "Indian National Congress",
+          "votes": 78077,
+          "votes_percentage": 59.0
+        },
+        {
+          "position": 2,
+          "name": "Vaghela Bhavsingbhai Ditabhai",
+          "party": "Bharatiya Janta Party",
+          "votes": 38004,
+          "votes_percentage": 28.7
+        },
+        {
+          "position": 3,
+          "name": "Sangada Induben Nathubhai",
+          "party": "Independent",
+          "votes": 7371,
+          "votes_percentage": 5.6
+        },
+        {
+          "position": 4,
+          "name": "Damor Chetanbhai Ramsubhai",
+          "party": "Bahujan Samaj Party",
+          "votes": 3904,
+          "votes_percentage": 3.0
+        },
+        {
+          "position": 5,
+          "name": "Parmar Tikubhai Chimanbhai",
+          "party": "Gujarat Parivartan Party",
+          "votes": 3063,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 6,
+          "name": "Pandor Bhimabhai Jalabhai",
+          "party": "Lok Jan Shakti Party",
+          "votes": 1879,
+          "votes_percentage": 1.4
+        }
+      ]
+    },
+    "2007": {
+      "poll_date": "11 December 2007",
+      "counting_date": "23 December 2007",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 221492,
+        "total_votes_polled": 106720,
+        "turnout_percentage": 48.2,
+        "margin_votes": 10785,
+        "margin_percentage": 10.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Machhar Ditabhai Bhimabhai",
+          "party": "Indian National Congress",
+          "votes": 56136,
+          "votes_percentage": 52.6
+        },
+        {
+          "position": 2,
+          "name": "Katara Bhurabhai Jetabhai",
+          "party": "Bharatiya Janta Party",
+          "votes": 45351,
+          "votes_percentage": 42.5
+        },
+        {
+          "position": 3,
+          "name": "Damor Santoshbhai Dulabhai",
+          "party": "Bahujan Samaj Party",
+          "votes": 5233,
+          "votes_percentage": 4.9
+        }
+      ]
+    },
+    "2002": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 202484,
+        "total_votes_polled": 111929,
+        "turnout_percentage": 55.3,
+        "margin_votes": 24457,
+        "margin_percentage": 21.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Katara Bhurabhai Jetabhai",
+          "party": "Bharatiya Janta Party",
+          "votes": 66019,
+          "votes_percentage": 59.0
+        },
+        {
+          "position": 2,
+          "name": "Machhar Ditabhai Bhimabhai",
+          "party": "Indian National Congress",
+          "votes": 41562,
+          "votes_percentage": 37.1
+        },
+        {
+          "position": 3,
+          "name": "Pandor Bhimabhai Jalabhai",
+          "party": "Nationalist Congress Party",
+          "votes": 4348,
+          "votes_percentage": 3.9
+        }
+      ]
+    },
+    "1998": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 158903,
+        "total_votes_polled": 87961,
+        "turnout_percentage": 55.4,
+        "margin_votes": 29017,
+        "margin_percentage": 33.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Machhar Ditabhai Bhimabhai",
+          "party": "Indian National Congress",
+          "votes": 48752,
+          "votes_percentage": 57.6
+        },
+        {
+          "position": 2,
+          "name": "Katara Bhurabhai Jetabhai",
+          "party": "All India Rashtriya Janata Party",
+          "votes": 19735,
+          "votes_percentage": 23.3
+        },
+        {
+          "position": 3,
+          "name": "Vasaiya Mansingbhai Motibhai",
+          "party": "Bharatiya Janta Party",
+          "votes": 12753,
+          "votes_percentage": 15.1
+        },
+        {
+          "position": 4,
+          "name": "Damor Vajabhai Hirabhai",
+          "party": "Janata Dal",
+          "votes": 2799,
+          "votes_percentage": 3.3
+        },
+        {
+          "position": 5,
+          "name": "Katara Singajibhai Jaljibhai",
+          "party": "Samata Party",
+          "votes": 572,
+          "votes_percentage": 0.7
+        }
+      ]
+    },
+    "1995": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 158932,
+        "total_votes_polled": 114385,
+        "turnout_percentage": 72.0,
+        "margin_votes": 12015,
+        "margin_percentage": 10.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Machhar Ditabhai Bhimabhai",
+          "party": "Indian National Congress",
+          "votes": 54967,
+          "votes_percentage": 50.7
+        },
+        {
+          "position": 2,
+          "name": "Katara Bhurabhia Jetabhai",
+          "party": "Bharatiya Janta Party",
+          "votes": 42952,
+          "votes_percentage": 39.6
+        },
+        {
+          "position": 3,
+          "name": "Damor Navalsingbhai Jalabhai",
+          "party": "Janata Dal",
+          "votes": 3620,
+          "votes_percentage": 3.3
+        },
+        {
+          "position": 4,
+          "name": "Palaskachrubhai Rupabhai",
+          "party": "Doordarshi Party",
+          "votes": 2975,
+          "votes_percentage": 2.7
+        },
+        {
+          "position": 5,
+          "name": "Damor Vajabhai Hirabhai",
+          "party": "Independent",
+          "votes": 1823,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 6,
+          "name": "Amaliyar Vajesingbhai Bijiyabhai",
+          "party": "Independent",
+          "votes": 905,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 7,
+          "name": "Pandor Bhimabhai Jalabhai",
+          "party": "Independent",
+          "votes": 723,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 8,
+          "name": "Hathila Jalabhai Chunabhai",
+          "party": "Samajwadi Janata Party (RASHTRIYA)",
+          "votes": 484,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "1990": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 134768,
+        "total_votes_polled": 50693,
+        "turnout_percentage": 37.6,
+        "margin_votes": 12648,
+        "margin_percentage": 25.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Munla Virjibhai Limbabhai",
+          "party": "Indian National Congress",
+          "votes": 25186,
+          "votes_percentage": 51.3
+        },
+        {
+          "position": 2,
+          "name": "Baria Ramsinh Kidiyabhai",
+          "party": "Bharatiya Janta Party",
+          "votes": 12538,
+          "votes_percentage": 25.6
+        },
+        {
+          "position": 3,
+          "name": "Damor Galabhai Manjibhai",
+          "party": "Janata Dal",
+          "votes": 8919,
+          "votes_percentage": 18.2
+        },
+        {
+          "position": 4,
+          "name": "Bhabhor Tersing Motibhai",
+          "party": "Janata Party (JP)",
+          "votes": 745,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Pargi Mansingbhai Pratapbhai",
+          "party": "Doordarshi Party",
+          "votes": 680,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 6,
+          "name": "Pandor Bhimabhai Jalabhai",
+          "party": "Independent",
+          "votes": 436,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 7,
+          "name": "Charpot Chunilal Punjabhai",
+          "party": "Independent",
+          "votes": 281,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "Katara Bhurabhai Jatabhai",
+          "party": "Independent",
+          "votes": 146,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Meda Kapuriben Mavjibhai",
+          "party": "Independent",
+          "votes": 142,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "1985": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 102782,
+        "total_votes_polled": 24738,
+        "turnout_percentage": 24.1,
+        "margin_votes": 13465,
+        "margin_percentage": 54.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Munia Virjibhai Limbabhai",
+          "party": "Indian National Congress",
+          "votes": 17310,
+          "votes_percentage": 72.3
+        },
+        {
+          "position": 2,
+          "name": "Hathilal Titabhai Meghjibhai",
+          "party": "Janta Party",
+          "votes": 3845,
+          "votes_percentage": 16.1
+        },
+        {
+          "position": 3,
+          "name": "Charpot Chunilal Punjabhai",
+          "party": "Bharatiya Janta Party",
+          "votes": 1416,
+          "votes_percentage": 5.9
+        },
+        {
+          "position": 4,
+          "name": "Damor Valabhai Humabhai",
+          "party": "Independent",
+          "votes": 687,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 5,
+          "name": "Mahida Kapuriben Mavjibhai",
+          "party": "Doordarshi Party",
+          "votes": 463,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 6,
+          "name": "Amliar Vajesinhbhai Bijiyabhai",
+          "party": "Independent",
+          "votes": 211,
+          "votes_percentage": 0.9
+        }
+      ]
+    },
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 87958,
+        "total_votes_polled": 19627,
+        "turnout_percentage": 22.3,
+        "margin_votes": 6944,
+        "margin_percentage": 35.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Munia Virjibhai Limbabhai",
+          "party": "Indian National Congress (I)",
+          "votes": 10238,
+          "votes_percentage": 54.2
+        },
+        {
+          "position": 2,
+          "name": "Mahida Shashikant Kanji",
+          "party": "Janata Party (JP)",
+          "votes": 3294,
+          "votes_percentage": 17.4
+        },
+        {
+          "position": 3,
+          "name": "Charpot Chunilal Punjabhai",
+          "party": "Bharatiya Janta Party",
+          "votes": 1408,
+          "votes_percentage": 7.5
+        },
+        {
+          "position": 4,
+          "name": "Taviyad Dalabhai Haklabhai",
+          "party": "Independent",
+          "votes": 1295,
+          "votes_percentage": 6.9
+        },
+        {
+          "position": 5,
+          "name": "Mahida Bharatkumar Kanji",
+          "party": "Indian National Congress (U)",
+          "votes": 969,
+          "votes_percentage": 5.1
+        },
+        {
+          "position": 6,
+          "name": "Bhabhor Lalubhai Jethabhai",
+          "party": "Janata Party (SECULAR) RAJ NARAIN",
+          "votes": 859,
+          "votes_percentage": 4.6
+        },
+        {
+          "position": 7,
+          "name": "Pargi Jitsinh Kaljibhai",
+          "party": "Independent",
+          "votes": 831,
+          "votes_percentage": 4.4
+        }
+      ]
+    }
+  }
+}

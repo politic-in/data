@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 83626,
+        "male": 89059,
+        "percentage_of_total_population": 9.56,
+        "percentage_of_total_population_calculated": 9.56,
+        "percentage_of_total_population_stated": 9.56,
+        "sex_ratio": 939,
+        "total": 172685
+    },
+    "literacy": {
+        "female_literacy_rate": 62.54,
+        "female_literate": 510981,
+        "male_literacy_rate": 78.27,
+        "male_literate": 638668,
+        "rate_percentage": 70.4,
+        "total_literate": 1149649
+    },
+    "population": {
+        "female": 900684,
+        "male": 905085,
+        "sex_ratio": 995,
+        "total": 1805769
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 299
+        },
+        "Christian": {
+            "percentage": 0.47,
+            "population": 8506
+        },
+        "Hindu": {
+            "percentage": 94.85,
+            "population": 1712695
+        },
+        "Jain": {
+            "percentage": 0.2,
+            "population": 3607
+        },
+        "Muslims": {
+            "percentage": 4.31,
+            "population": 77801
+        },
+        "Not Stated": {
+            "percentage": 0.13,
+            "population": 2430
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 109
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 322
+        }
+    },
+    "rural": {
+        "child_population_female": 68266,
+        "child_population_male": 72792,
+        "child_population_percentage": 9.42,
+        "child_population_percentage_calculated": 9.42,
+        "child_population_percentage_stated": 9.42,
+        "child_population_total": 141058,
+        "child_sex_ratio": 938,
+        "female": 746164,
+        "literacy_rate_female": 59.21,
+        "literacy_rate_male": 76.34,
+        "literacy_rate_percentage": 67.78,
+        "literate_female": 401385,
+        "literate_male": 517904,
+        "literate_total": 919289,
+        "male": 751243,
+        "percentage_population": 82.92,
+        "population": 1497407,
+        "sex_ratio": 993
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/262-mandya.html",
+    "urban": {
+        "child_population_female": 15356,
+        "child_population_male": 16271,
+        "child_population_percentage": 10.26,
+        "child_population_percentage_calculated": 10.26,
+        "child_population_percentage_stated": 10.26,
+        "child_population_total": 31627,
+        "child_sex_ratio": 944,
+        "female": 154520,
+        "literacy_rate_female": 78.75,
+        "literacy_rate_male": 87.78,
+        "literacy_rate_percentage": 83.24,
+        "literate_female": 109596,
+        "literate_male": 120764,
+        "literate_total": 230360,
+        "male": 153842,
+        "percentage_population": 17.08,
+        "population": 308362,
+        "sex_ratio": 1004
+    }
+}

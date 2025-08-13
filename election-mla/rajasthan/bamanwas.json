@@ -1,0 +1,568 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Bamanwas",
+  "district": "Sawai Madhopur",
+  "ac_type": "ST",
+  "results": {
+    "2023": {
+      "poll_date": "25 November 2023",
+      "counting_date": "03 December 2023",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 487050,
+        "total_votes_polled": 157154,
+        "turnout_percentage": 32.6,
+        "margin_votes": 7865,
+        "margin_percentage": 5.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Indra",
+          "party": "Indian National Congress",
+          "votes": 80378,
+          "votes_percentage": 50.6
+        },
+        {
+          "position": 2,
+          "name": "Rajendra",
+          "party": "Bharatiya Janta Party",
+          "votes": 72513,
+          "votes_percentage": 45.7
+        },
+        {
+          "position": 3,
+          "name": "Manoj Kumar",
+          "party": "Bahujan Samaj Party",
+          "votes": 1881,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 4,
+          "name": "Vikas",
+          "party": "Independent",
+          "votes": 1750,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Shyam Lal Meena",
+          "party": "Independent",
+          "votes": 632,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "01 December 2013",
+      "counting_date": "08 December 2013",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 189833,
+        "total_votes_polled": 121026,
+        "turnout_percentage": 65.2,
+        "margin_votes": 5662,
+        "margin_percentage": 4.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kunji Lal",
+          "party": "Bharatiya Janta Party",
+          "votes": 45085,
+          "votes_percentage": 37.3
+        },
+        {
+          "position": 2,
+          "name": "Nawal  Kishore",
+          "party": "Indian National Congress",
+          "votes": 39423,
+          "votes_percentage": 32.6
+        },
+        {
+          "position": 3,
+          "name": "Shyam Lal Meena",
+          "party": "National People's Party",
+          "votes": 25759,
+          "votes_percentage": 21.3
+        },
+        {
+          "position": 4,
+          "name": "Rajendra  Kumar  Meena",
+          "party": "Independent",
+          "votes": 3375,
+          "votes_percentage": 2.8
+        },
+        {
+          "position": 5,
+          "name": "Bharat Lal",
+          "party": "Independent",
+          "votes": 3157,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 6,
+          "name": "Ramdhan Meena",
+          "party": "Bahujan Samaj Party",
+          "votes": 1418,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 7,
+          "name": "Santosh",
+          "party": "Bharatiya Yuva Shakti",
+          "votes": 1409,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 8,
+          "name": "Indira",
+          "party": "Independent",
+          "votes": 571,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 9,
+          "name": "Munshi",
+          "party": "National Youth Party",
+          "votes": 506,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 10,
+          "name": "Devi  Lal",
+          "party": "Samajwadi Party",
+          "votes": 323,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2008": {
+      "poll_date": "04 December 2008",
+      "counting_date": "08 December 2008",
+      "total_contestants": 17,
+      "aggregate": {
+        "total_electors": 173086,
+        "total_votes_polled": 103664,
+        "turnout_percentage": 59.9,
+        "margin_votes": 18552,
+        "margin_percentage": 17.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nawalkishor",
+          "party": "Indian National Congress",
+          "votes": 45204,
+          "votes_percentage": 43.6
+        },
+        {
+          "position": 2,
+          "name": "Sampat Lal",
+          "party": "Loktantrik Samajwadi Party",
+          "votes": 26652,
+          "votes_percentage": 25.7
+        },
+        {
+          "position": 3,
+          "name": "Kunji Lal",
+          "party": "Bharatiya Janta Party",
+          "votes": 12772,
+          "votes_percentage": 12.3
+        },
+        {
+          "position": 4,
+          "name": "Amrit Lal",
+          "party": "Bahujan Samaj Party",
+          "votes": 3214,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 5,
+          "name": "Ramkesh",
+          "party": "Independent",
+          "votes": 2543,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 6,
+          "name": "Prem",
+          "party": "Independent",
+          "votes": 2097,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 7,
+          "name": "Girraj",
+          "party": "Independent",
+          "votes": 1908,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 8,
+          "name": "Ramprasad",
+          "party": "Communist Party Of India",
+          "votes": 1769,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 9,
+          "name": "Ramroop",
+          "party": "Independent",
+          "votes": 1588,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 10,
+          "name": "Raghuveer",
+          "party": "Independent",
+          "votes": 1339,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 11,
+          "name": "Harkesh",
+          "party": "Bharatiya Bahujan Party",
+          "votes": 833,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 12,
+          "name": "Rakesh",
+          "party": "Bharatiya Vikash Party",
+          "votes": 809,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 13,
+          "name": "Mithalal Meena",
+          "party": "Independent",
+          "votes": 806,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 14,
+          "name": "Shyamlal",
+          "party": "Nationalist Congress Party",
+          "votes": 631,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 15,
+          "name": "Nandlal",
+          "party": "Independent",
+          "votes": 513,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 16,
+          "name": "Abhinav",
+          "party": "Independent",
+          "votes": 497,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 17,
+          "name": "Kedar",
+          "party": "Independent",
+          "votes": 489,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "2003": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 163552,
+        "total_votes_polled": 98838,
+        "turnout_percentage": 60.4,
+        "margin_votes": 8911,
+        "margin_percentage": 9.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Heera Lal",
+          "party": "Independent",
+          "votes": 39259,
+          "votes_percentage": 39.7
+        },
+        {
+          "position": 2,
+          "name": "Naval Kishore",
+          "party": "Indian National Congress",
+          "votes": 30348,
+          "votes_percentage": 30.7
+        },
+        {
+          "position": 3,
+          "name": "Kunji Lal",
+          "party": "Bharatiya Janta Party",
+          "votes": 22313,
+          "votes_percentage": 22.6
+        },
+        {
+          "position": 4,
+          "name": "Batti Lal Meena",
+          "party": "Bahujan Samaj Party",
+          "votes": 2654,
+          "votes_percentage": 2.7
+        },
+        {
+          "position": 5,
+          "name": "Makhan Lal Meena",
+          "party": "Independent",
+          "votes": 2323,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 6,
+          "name": "Shobha",
+          "party": "Samajwadi Party",
+          "votes": 1039,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 7,
+          "name": "Ranglal",
+          "party": "Independent",
+          "votes": 845,
+          "votes_percentage": 0.9
+        }
+      ]
+    },
+    "1998": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 141021,
+        "total_votes_polled": 93266,
+        "turnout_percentage": 66.1,
+        "margin_votes": 13155,
+        "margin_percentage": 14.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kirodi Lal",
+          "party": "Bharatiya Janta Party",
+          "votes": 40385,
+          "votes_percentage": 43.9
+        },
+        {
+          "position": 2,
+          "name": "Bharat Lal",
+          "party": "Independent",
+          "votes": 27230,
+          "votes_percentage": 29.6
+        },
+        {
+          "position": 3,
+          "name": "Hira Lal",
+          "party": "Indian National Congress",
+          "votes": 21238,
+          "votes_percentage": 23.1
+        },
+        {
+          "position": 4,
+          "name": "Har Sahay",
+          "party": "Independent",
+          "votes": 3083,
+          "votes_percentage": 3.4
+        }
+      ]
+    },
+    "1993": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 141759,
+        "total_votes_polled": 72055,
+        "turnout_percentage": 50.8,
+        "margin_votes": 4350,
+        "margin_percentage": 6.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Heera Lal",
+          "party": "Indian National Congress",
+          "votes": 37083,
+          "votes_percentage": 52.4
+        },
+        {
+          "position": 2,
+          "name": "Suwa Lal",
+          "party": "Bharatiya Janta Party",
+          "votes": 32733,
+          "votes_percentage": 46.3
+        },
+        {
+          "position": 3,
+          "name": "Babu Lal",
+          "party": "Doordarshi Party",
+          "votes": 962,
+          "votes_percentage": 1.4
+        }
+      ]
+    },
+    "1990": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 129543,
+        "total_votes_polled": 84176,
+        "turnout_percentage": 65.0,
+        "margin_votes": 13015,
+        "margin_percentage": 15.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kunji Lal",
+          "party": "Bharatiya Janta Party",
+          "votes": 41262,
+          "votes_percentage": 49.6
+        },
+        {
+          "position": 2,
+          "name": "Hira Lal",
+          "party": "Independent",
+          "votes": 28247,
+          "votes_percentage": 34.0
+        },
+        {
+          "position": 3,
+          "name": "Bachchu Singh Meena",
+          "party": "Indian National Congress",
+          "votes": 13288,
+          "votes_percentage": 16.0
+        },
+        {
+          "position": 4,
+          "name": "Hari Singh",
+          "party": "Independent",
+          "votes": 357,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "1985": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 105231,
+        "total_votes_polled": 60176,
+        "turnout_percentage": 57.2,
+        "margin_votes": 9888,
+        "margin_percentage": 16.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bharat Lal",
+          "party": "Indian National Congress",
+          "votes": 33829,
+          "votes_percentage": 57.0
+        },
+        {
+          "position": 2,
+          "name": "Kunj Lal",
+          "party": "Bharatiya Janta Party",
+          "votes": 23941,
+          "votes_percentage": 40.3
+        },
+        {
+          "position": 3,
+          "name": "Mukut Bihari",
+          "party": "Independent",
+          "votes": 1632,
+          "votes_percentage": 2.8
+        }
+      ]
+    },
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 90061,
+        "total_votes_polled": 51503,
+        "turnout_percentage": 57.2,
+        "margin_votes": 1103,
+        "margin_percentage": 2.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kunji Lal",
+          "party": "Janata Party (JP)",
+          "votes": 25020,
+          "votes_percentage": 49.4
+        },
+        {
+          "position": 2,
+          "name": "Nathu Lal",
+          "party": "Indian National Congress (I)",
+          "votes": 23917,
+          "votes_percentage": 47.2
+        },
+        {
+          "position": 3,
+          "name": "Bajrang Lal",
+          "party": "Independent",
+          "votes": 1016,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 4,
+          "name": "Sonarain",
+          "party": "Independent",
+          "votes": 694,
+          "votes_percentage": 1.4
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 80357,
+        "total_votes_polled": 49910,
+        "turnout_percentage": 62.1,
+        "margin_votes": 5586,
+        "margin_percentage": 11.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kunji Lal",
+          "party": "Janta Party",
+          "votes": 24883,
+          "votes_percentage": 51.0
+        },
+        {
+          "position": 2,
+          "name": "Bharat Lal",
+          "party": "Indian National Congress",
+          "votes": 19297,
+          "votes_percentage": 39.6
+        },
+        {
+          "position": 3,
+          "name": "Ganpat Lal",
+          "party": "Independent",
+          "votes": 4579,
+          "votes_percentage": 9.4
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 201863,
+        "male": 212935,
+        "percentage_of_total_population": 19.5,
+        "percentage_of_total_population_calculated": 19.5,
+        "percentage_of_total_population_stated": 19.5,
+        "sex_ratio": 948,
+        "total": 414798
+    },
+    "literacy": {
+        "female_literacy_rate": 47.65,
+        "female_literate": 408136,
+        "male_literacy_rate": 70.01,
+        "male_literate": 599035,
+        "rate_percentage": 58.82,
+        "total_literate": 1007171
+    },
+    "population": {
+        "female": 1058435,
+        "male": 1068651,
+        "sex_ratio": 990,
+        "total": 2127086
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 260
+        },
+        "Christian": {
+            "percentage": 0.47,
+            "population": 9907
+        },
+        "Hindu": {
+            "percentage": 96.15,
+            "population": 2045243
+        },
+        "Jain": {
+            "percentage": 0.16,
+            "population": 3331
+        },
+        "Muslims": {
+            "percentage": 3.12,
+            "population": 66353
+        },
+        "Not Stated": {
+            "percentage": 0.07,
+            "population": 1385
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 114
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 493
+        }
+    },
+    "rural": {
+        "child_population_female": 188663,
+        "child_population_male": 198501,
+        "child_population_percentage": 20.0,
+        "child_population_percentage_calculated": 20.0,
+        "child_population_percentage_stated": 20.0,
+        "child_population_total": 387164,
+        "child_sex_ratio": 950,
+        "female": 964498,
+        "literacy_rate_female": 44.78,
+        "literacy_rate_male": 67.98,
+        "literacy_rate_percentage": 56.36,
+        "literate_female": 347412,
+        "literate_male": 525140,
+        "literate_total": 872552,
+        "male": 970963,
+        "percentage_population": 90.99,
+        "population": 1935461,
+        "sex_ratio": 993
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/199-dohad.html",
+    "urban": {
+        "child_population_female": 13167,
+        "child_population_male": 14467,
+        "child_population_percentage": 14.42,
+        "child_population_percentage_calculated": 14.42,
+        "child_population_percentage_stated": 14.42,
+        "child_population_total": 27634,
+        "child_sex_ratio": 910,
+        "female": 93937,
+        "literacy_rate_female": 75.18,
+        "literacy_rate_male": 88.79,
+        "literacy_rate_percentage": 82.09,
+        "literate_female": 60724,
+        "literate_male": 73895,
+        "literate_total": 134619,
+        "male": 97688,
+        "percentage_population": 9.01,
+        "population": 191625,
+        "sex_ratio": 962
+    }
+}

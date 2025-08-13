@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 127929,
+        "male": 135231,
+        "percentage_of_total_population": 12.57,
+        "percentage_of_total_population_calculated": 12.57,
+        "percentage_of_total_population_stated": 12.57,
+        "sex_ratio": 946,
+        "total": 263160
+    },
+    "literacy": {
+        "female_literacy_rate": 65.48,
+        "female_literate": 592175,
+        "male_literacy_rate": 81.01,
+        "male_literate": 750147,
+        "rate_percentage": 73.34,
+        "total_literate": 1342322
+    },
+    "population": {
+        "female": 1032290,
+        "male": 1061147,
+        "sex_ratio": 973,
+        "total": 2093437
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.03,
+            "population": 710
+        },
+        "Christian": {
+            "percentage": 18.39,
+            "population": 385011
+        },
+        "Hindu": {
+            "percentage": 73.2,
+            "population": 1532352
+        },
+        "Jain": {
+            "percentage": 0.03,
+            "population": 721
+        },
+        "Muslims": {
+            "percentage": 3.41,
+            "population": 71391
+        },
+        "Not Stated": {
+            "percentage": 0.36,
+            "population": 7553
+        },
+        "Others": {
+            "percentage": 4.3,
+            "population": 89986
+        },
+        "Sikh": {
+            "percentage": 0.27,
+            "population": 5713
+        }
+    },
+    "rural": {
+        "child_population_female": 89190,
+        "child_population_male": 92292,
+        "child_population_percentage": 13.39,
+        "child_population_percentage_calculated": 13.39,
+        "child_population_percentage_stated": 13.39,
+        "child_population_total": 181482,
+        "child_sex_ratio": 966,
+        "female": 679272,
+        "literacy_rate_female": 57.73,
+        "literacy_rate_male": 75.63,
+        "literacy_rate_percentage": 66.63,
+        "literate_female": 340654,
+        "literate_male": 441493,
+        "literate_total": 782147,
+        "male": 676068,
+        "percentage_population": 64.74,
+        "population": 1355340,
+        "sex_ratio": 1005
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/398-sundargarh.html",
+    "urban": {
+        "child_population_female": 38766,
+        "child_population_male": 42912,
+        "child_population_percentage": 11.07,
+        "child_population_percentage_calculated": 11.07,
+        "child_population_percentage_stated": 11.07,
+        "child_population_total": 81678,
+        "child_sex_ratio": 903,
+        "female": 353018,
+        "literacy_rate_female": 80.04,
+        "literacy_rate_male": 90.21,
+        "literacy_rate_percentage": 85.34,
+        "literate_female": 251521,
+        "literate_male": 308654,
+        "literate_total": 560175,
+        "male": 385079,
+        "percentage_population": 35.26,
+        "population": 738097,
+        "sex_ratio": 917
+    }
+}

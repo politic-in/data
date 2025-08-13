@@ -1,0 +1,155 @@
+{
+  "state": "West Bengal",
+  "constituency": "Patashpur",
+  "district": "Purba Medinipur",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 227959,
+        "total_votes_polled": 207966,
+        "turnout_percentage": 91.6,
+        "margin_votes": 9994,
+        "margin_percentage": 4.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Uttam Barik",
+          "party": "All India Trinamool Congress",
+          "votes": 105299,
+          "votes_percentage": 50.6
+        },
+        {
+          "position": 2,
+          "name": "Ambujaksha Mahanti",
+          "party": "Bharatiya Janta Party",
+          "votes": 95305,
+          "votes_percentage": 45.8
+        },
+        {
+          "position": 3,
+          "name": "Saikat Giri",
+          "party": "Communist Party Of India",
+          "votes": 6631,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 4,
+          "name": "Surjyendu Bikash Patra",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 731,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 213143,
+        "total_votes_polled": 188888,
+        "turnout_percentage": 89.1,
+        "margin_votes": 29888,
+        "margin_percentage": 15.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jyotirmoy Kar",
+          "party": "All India Trinamool Congress",
+          "votes": 103567,
+          "votes_percentage": 54.8
+        },
+        {
+          "position": 2,
+          "name": "Makhanlal Nayak",
+          "party": "Communist Party Of India",
+          "votes": 73679,
+          "votes_percentage": 39.0
+        },
+        {
+          "position": 3,
+          "name": "Swapan Kumar Dutta",
+          "party": "Bharatiya Janta Party",
+          "votes": 10193,
+          "votes_percentage": 5.4
+        },
+        {
+          "position": 4,
+          "name": "Surjyendu Bikash Patra",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 765,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 5,
+          "name": "Subrata Guria",
+          "party": "Independent",
+          "votes": 684,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 182774,
+        "total_votes_polled": 169153,
+        "turnout_percentage": 92.6,
+        "margin_votes": 6650,
+        "margin_percentage": 3.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jyotirmoy Kar",
+          "party": "All India Trinamool Congress",
+          "votes": 84452,
+          "votes_percentage": 49.9
+        },
+        {
+          "position": 2,
+          "name": "Makhan Lal Nayak",
+          "party": "Communist Party Of India",
+          "votes": 77802,
+          "votes_percentage": 46.0
+        },
+        {
+          "position": 3,
+          "name": "Ashish Das",
+          "party": "Bharatiya Janta Party",
+          "votes": 4104,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 4,
+          "name": "Mohan Rana",
+          "party": "Independent",
+          "votes": 1113,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Prafulla Kumar Kar",
+          "party": "Independent",
+          "votes": 981,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Bera Shyamapada",
+          "party": "Independent",
+          "votes": 701,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

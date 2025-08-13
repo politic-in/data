@@ -1,0 +1,105 @@
+{
+  "district": "Ariyalur",
+  "state": "Tamil Nadu",
+  "census_year": 2011,
+  "source": "https://www.census2011.co.in/census/district/38-ariyalur.html",
+  "population": {
+    "total": 754894,
+    "male": 374703,
+    "female": 380191,
+    "sex_ratio": 1015
+  },
+  "area_distribution": {
+    "urban": {
+      "percentage_of_total_population": 11.1,
+      "total_population": 83794,
+      "male": 41450,
+      "female": 42344,
+      "sex_ratio": 1022,
+      "child_population_0_6": {
+        "total": 8612,
+        "male": 4502,
+        "female": 4110,
+        "sex_ratio": 913,
+        "percentage_of_urban_population": 10.28
+      },
+      "literacy": {
+        "rate": 81.39,
+        "male_rate": 87.99,
+        "female_rate": 75.01,
+        "total_literates": 61191
+      }
+    },
+    "rural": {
+      "percentage_of_total_population": 88.9,
+      "total_population": 671100,
+      "male": 333253,
+      "female": 337847,
+      "sex_ratio": 1014,
+      "child_population_0_6": {
+        "total": 72575,
+        "male": 38306,
+        "female": 34269,
+        "sex_ratio": 895,
+        "percentage_of_rural_population": 10.81
+      },
+      "literacy": {
+        "rate": 70.07,
+        "male_rate": 80.38,
+        "female_rate": 60.06,
+        "total_literates": 419413
+      }
+    }
+  },
+  "age_groups": {
+    "children_0_6_years": {
+      "total": 81187,
+      "male": 42808,
+      "female": 38379,
+      "sex_ratio": 897,
+      "percentage_of_total_population": 10.75
+    }
+  },
+  "literacy_overall_district": {
+    "rate": 71.34,
+    "male_rate": 81.23,
+    "female_rate": 61.74,
+    "total_literates": 480604
+  },
+  "religion_distribution": {
+    "hindu": {
+      "percentage": 93.84,
+      "population": 708397
+    },
+    "muslim": {
+      "percentage": 1.05,
+      "population": 7942
+    },
+    "christian": {
+      "percentage": 4.95,
+      "population": 37403
+    },
+    "sikh": {
+      "percentage": 0.01,
+      "population": 104
+    },
+    "buddhist": {
+      "percentage": 0.01,
+      "population": 88
+    },
+    "jain": {
+      "percentage": 0.01,
+      "population": 65
+    },
+    "other_religions": {
+      "percentage": 0.01,
+      "population": 42
+    },
+    "not_stated": {
+      "percentage": 0.11,
+      "population": 853
+    }
+  },
+  "scheduled_caste_sc_population": null,
+  "scheduled_tribe_st_population": null
+}

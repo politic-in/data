@@ -1,0 +1,94 @@
+{
+  "state": "Haryana",
+  "constituency": "Shahbad",
+  "district": "Kurukshetra",
+  "ac_type": "SC",
+  "results": {
+    "2009": {
+      "poll_date": "13 October 2009",
+      "counting_date": "22 October 2009",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 124883,
+        "total_votes_polled": 92786,
+        "turnout_percentage": 74.3,
+        "total_valid_votes": 92760,
+        "total_valid_votes_percentage": 74.3,
+        "margin_votes": 3741,
+        "margin_percentage": 4.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Anil Dhantori",
+          "party": "Indian National Congress",
+          "votes": 30843,
+          "votes_percentage": 33.2
+        },
+        {
+          "position": 2,
+          "name": "Jitender Kumar",
+          "party": "Indian National Lok Dal",
+          "votes": 27102,
+          "votes_percentage": 29.2
+        },
+        {
+          "position": 3,
+          "name": "Ram Karan",
+          "party": "Independent",
+          "votes": 14352,
+          "votes_percentage": 15.5
+        },
+        {
+          "position": 4,
+          "name": "Krishan Kumar",
+          "party": "Bharatiya Janta Party",
+          "votes": 10593,
+          "votes_percentage": 11.4
+        },
+        {
+          "position": 5,
+          "name": "Dr. Baldev Singh",
+          "party": "Bahujan Samaj Party",
+          "votes": 6387,
+          "votes_percentage": 6.9
+        },
+        {
+          "position": 6,
+          "name": "Suraj Bhan",
+          "party": "Haryana Janhit Congress (BL)",
+          "votes": 1012,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 7,
+          "name": "Sarup Chand",
+          "party": "Communist Party Of India",
+          "votes": 934,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 8,
+          "name": "Karam Singh",
+          "party": "Independent",
+          "votes": 867,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 9,
+          "name": "Devi Dayal Bhatti",
+          "party": "Independent",
+          "votes": 424,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 10,
+          "name": "Rajesh Kumar",
+          "party": "Bahujan Sangharsh Party (Kanshiram)",
+          "votes": 272,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

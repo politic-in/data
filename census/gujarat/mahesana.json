@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 108762,
+        "male": 129170,
+        "percentage_of_total_population": 11.69,
+        "percentage_of_total_population_calculated": 11.69,
+        "percentage_of_total_population_stated": 11.69,
+        "sex_ratio": 842,
+        "total": 237932
+    },
+    "literacy": {
+        "female_literacy_rate": 75.32,
+        "female_literate": 655146,
+        "male_literacy_rate": 91.39,
+        "male_literate": 847499,
+        "rate_percentage": 83.61,
+        "total_literate": 1502645
+    },
+    "population": {
+        "female": 978544,
+        "male": 1056520,
+        "sex_ratio": 926,
+        "total": 2035064
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 146
+        },
+        "Christian": {
+            "percentage": 0.1,
+            "population": 1954
+        },
+        "Hindu": {
+            "percentage": 92.66,
+            "population": 1885732
+        },
+        "Jain": {
+            "percentage": 0.35,
+            "population": 7087
+        },
+        "Muslims": {
+            "percentage": 6.7,
+            "population": 136431
+        },
+        "Not Stated": {
+            "percentage": 0.13,
+            "population": 2544
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 88
+        },
+        "Sikh": {
+            "percentage": 0.05,
+            "population": 1082
+        }
+    },
+    "rural": {
+        "child_population_female": 84901,
+        "child_population_male": 99073,
+        "child_population_percentage": 12.1,
+        "child_population_percentage_calculated": 12.1,
+        "child_population_percentage_stated": 12.1,
+        "child_population_total": 183974,
+        "child_sex_ratio": 857,
+        "female": 733559,
+        "literacy_rate_female": 72.77,
+        "literacy_rate_male": 90.65,
+        "literacy_rate_percentage": 81.97,
+        "literate_female": 472044,
+        "literate_male": 623765,
+        "literate_total": 1095809,
+        "male": 787175,
+        "percentage_population": 74.73,
+        "population": 1520734,
+        "sex_ratio": 932
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/185-mahesana.html",
+    "urban": {
+        "child_population_female": 23862,
+        "child_population_male": 30096,
+        "child_population_percentage": 10.49,
+        "child_population_percentage_calculated": 10.49,
+        "child_population_percentage_stated": 10.49,
+        "child_population_total": 53958,
+        "child_sex_ratio": 793,
+        "female": 244985,
+        "literacy_rate_female": 82.81,
+        "literacy_rate_male": 93.52,
+        "literacy_rate_percentage": 88.37,
+        "literate_female": 183102,
+        "literate_male": 223734,
+        "literate_total": 406836,
+        "male": 269345,
+        "percentage_population": 25.27,
+        "population": 514330,
+        "sex_ratio": 910
+    }
+}

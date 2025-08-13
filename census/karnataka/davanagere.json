@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 105959,
+        "male": 111772,
+        "percentage_of_total_population": 11.19,
+        "percentage_of_total_population_calculated": 11.19,
+        "percentage_of_total_population_stated": 11.19,
+        "sex_ratio": 948,
+        "total": 217731
+    },
+    "literacy": {
+        "female_literacy_rate": 68.91,
+        "female_literate": 587903,
+        "male_literacy_rate": 82.4,
+        "male_literate": 720637,
+        "rate_percentage": 75.74,
+        "total_literate": 1308540
+    },
+    "population": {
+        "female": 959097,
+        "male": 986400,
+        "sex_ratio": 972,
+        "total": 1945497
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 164
+        },
+        "Christian": {
+            "percentage": 0.28,
+            "population": 5420
+        },
+        "Hindu": {
+            "percentage": 85.25,
+            "population": 1658465
+        },
+        "Jain": {
+            "percentage": 0.33,
+            "population": 6417
+        },
+        "Muslims": {
+            "percentage": 13.66,
+            "population": 265805
+        },
+        "Not Stated": {
+            "percentage": 0.37,
+            "population": 7176
+        },
+        "Others": {
+            "percentage": 0.09,
+            "population": 1743
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 307
+        }
+    },
+    "rural": {
+        "child_population_female": 71819,
+        "child_population_male": 75951,
+        "child_population_percentage": 11.22,
+        "child_population_percentage_calculated": 11.22,
+        "child_population_percentage_stated": 11.22,
+        "child_population_total": 147770,
+        "child_sex_ratio": 946,
+        "female": 648220,
+        "literacy_rate_female": 63.69,
+        "literacy_rate_male": 79.63,
+        "literacy_rate_percentage": 71.77,
+        "literate_female": 367135,
+        "literate_male": 471688,
+        "literate_total": 838823,
+        "male": 668267,
+        "percentage_population": 67.67,
+        "population": 1316487,
+        "sex_ratio": 970
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/253-davanagere.html",
+    "urban": {
+        "child_population_female": 34119,
+        "child_population_male": 35842,
+        "child_population_percentage": 11.12,
+        "child_population_percentage_calculated": 11.12,
+        "child_population_percentage_stated": 11.12,
+        "child_population_total": 69961,
+        "child_sex_ratio": 952,
+        "female": 310877,
+        "literacy_rate_female": 79.77,
+        "literacy_rate_male": 88.19,
+        "literacy_rate_percentage": 84.02,
+        "literate_female": 220768,
+        "literate_male": 248949,
+        "literate_total": 469717,
+        "male": 318133,
+        "percentage_population": 32.33,
+        "population": 629010,
+        "sex_ratio": 977
+    }
+}

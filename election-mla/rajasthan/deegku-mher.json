@@ -1,0 +1,92 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Deegku mher",
+  "district": "Bharatpur",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 229808,
+        "total_votes_polled": 161294,
+        "turnout_percentage": 70.7,
+        "margin_votes": 8218,
+        "margin_percentage": 5.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Vishvendra Singh",
+          "party": "Indian National Congress",
+          "votes": 73730,
+          "votes_percentage": 45.7
+        },
+        {
+          "position": 2,
+          "name": "Dr. Shailesh Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 65512,
+          "votes_percentage": 40.6
+        },
+        {
+          "position": 3,
+          "name": "Pratap Singh Sinsinwar Maharawar",
+          "party": "Bahujan Samaj Party",
+          "votes": 20026,
+          "votes_percentage": 12.4
+        },
+        {
+          "position": 4,
+          "name": "Surendra Singh",
+          "party": "Independent",
+          "votes": 622,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 5,
+          "name": "Chandrapal",
+          "party": "Aam Aadmi Party",
+          "votes": 472,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 6,
+          "name": "Omvati",
+          "party": "Independent",
+          "votes": 416,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "Omprkash",
+          "party": "Independent",
+          "votes": 158,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "Vikram Singh Havaldar",
+          "party": "Khushhal Kisan Party",
+          "votes": 140,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Lokendra Kumar",
+          "party": "Bharatiya Rashtravadi Samanta Party",
+          "votes": 128,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Hariom",
+          "party": "Bharatiya Yuva Shakti",
+          "votes": 90,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

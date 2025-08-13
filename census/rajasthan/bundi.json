@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 75468,
+        "male": 84416,
+        "percentage_of_total_population": 14.39,
+        "percentage_of_total_population_calculated": 14.39,
+        "percentage_of_total_population_stated": 14.39,
+        "sex_ratio": 894,
+        "total": 159884
+    },
+    "literacy": {
+        "female_literacy_rate": 46.55,
+        "female_literate": 213339,
+        "male_literacy_rate": 75.44,
+        "male_literate": 371705,
+        "rate_percentage": 61.52,
+        "total_literate": 585044
+    },
+    "population": {
+        "female": 533746,
+        "male": 577160,
+        "sex_ratio": 925,
+        "total": 1110906
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 144
+        },
+        "Christian": {
+            "percentage": 0.06,
+            "population": 682
+        },
+        "Hindu": {
+            "percentage": 91.61,
+            "population": 1017688
+        },
+        "Jain": {
+            "percentage": 1.21,
+            "population": 13455
+        },
+        "Muslims": {
+            "percentage": 6.0,
+            "population": 66609
+        },
+        "Not Stated": {
+            "percentage": 0.11,
+            "population": 1245
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 24
+        },
+        "Sikh": {
+            "percentage": 1.0,
+            "population": 11059
+        }
+    },
+    "rural": {
+        "child_population_female": 62199,
+        "child_population_male": 69494,
+        "child_population_percentage": 14.83,
+        "child_population_percentage_calculated": 14.83,
+        "child_population_percentage_stated": 14.83,
+        "child_population_total": 131693,
+        "child_sex_ratio": 895,
+        "female": 426471,
+        "literacy_rate_female": 41.16,
+        "literacy_rate_male": 72.3,
+        "literacy_rate_percentage": 57.3,
+        "literate_female": 149946,
+        "literate_male": 283572,
+        "literate_total": 433518,
+        "male": 461734,
+        "percentage_population": 79.95,
+        "population": 888205,
+        "sex_ratio": 924
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/446-bundi.html",
+    "urban": {
+        "child_population_female": 13254,
+        "child_population_male": 14937,
+        "child_population_percentage": 12.66,
+        "child_population_percentage_calculated": 12.66,
+        "child_population_percentage_stated": 12.66,
+        "child_population_total": 28191,
+        "child_sex_ratio": 887,
+        "female": 107275,
+        "literacy_rate_female": 67.42,
+        "literacy_rate_male": 87.7,
+        "literacy_rate_percentage": 77.9,
+        "literate_female": 63393,
+        "literate_male": 88133,
+        "literate_total": 151526,
+        "male": 115426,
+        "percentage_population": 20.05,
+        "population": 222701,
+        "sex_ratio": 929
+    }
+}

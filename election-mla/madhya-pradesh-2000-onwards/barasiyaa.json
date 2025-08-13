@@ -1,0 +1,78 @@
+{
+  "state": "Madhya Pradesh [2000 Onwards]",
+  "constituency": "Barasiyaa",
+  "district": "Bhopal",
+  "ac_type": "SC",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 209372,
+        "total_votes_polled": 161070,
+        "turnout_percentage": 77.8,
+        "margin_votes": 13779,
+        "margin_percentage": 8.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Vishnu Khatri",
+          "party": "Bharatiya Janta Party",
+          "votes": 77814,
+          "votes_percentage": 48.3
+        },
+        {
+          "position": 2,
+          "name": "Jayshree Harikaran",
+          "party": "Indian National Congress",
+          "votes": 64035,
+          "votes_percentage": 39.8
+        },
+        {
+          "position": 3,
+          "name": "Brahamanand Ratnakar \"brahamma Bhaiya\"",
+          "party": "Independent",
+          "votes": 11815,
+          "votes_percentage": 7.3
+        },
+        {
+          "position": 4,
+          "name": "Anita Ahirwar",
+          "party": "Bahujan Samaj Party",
+          "votes": 3199,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 5,
+          "name": "Toran Singh Ahirwar",
+          "party": "Rashtriya Lok Samta Party",
+          "votes": 1540,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Daya Ram Mehar",
+          "party": "Independent",
+          "votes": 1096,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Sardar Sing Chouhan",
+          "party": "Bhartiya Veer Dal",
+          "votes": 871,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Shivnarayan Ahirwar (SHIBBU BHAIYA)",
+          "party": "Aam Aadmi Party",
+          "votes": 700,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

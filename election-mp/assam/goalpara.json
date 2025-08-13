@@ -1,0 +1,97 @@
+{
+  "state": "Assam",
+  "constituency": "GOALPARA",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 429220,
+        "total_votes_polled": 229232,
+        "turnout_percentage": 53.4,
+        "margin_votes": 30434,
+        "margin_percentage": 13.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dharani Dhor Basumotari",
+          "party": "Indian National Congress",
+          "votes": 94209,
+          "votes_percentage": 41.1
+        },
+        {
+          "position": 2,
+          "name": "Bishnu Prasad Rabha",
+          "party": "Communist Party Of India",
+          "votes": 63775,
+          "votes_percentage": 27.8
+        },
+        {
+          "position": 3,
+          "name": "Satish Chandra Basumotari",
+          "party": "Praja Socialist Party",
+          "votes": 60296,
+          "votes_percentage": 26.3
+        }
+      ]
+    },
+    "1957": {
+      "poll_date": "25 February 1957",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 783396,
+        "total_votes_polled": 696041,
+        "turnout_percentage": 44.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Debi, Rani Manjula",
+          "party": "Indian National Congress",
+          "votes": 183974,
+          "votes_percentage": 26.4
+        },
+        {
+          "position": 1,
+          "name": "Basumauari, Dharanidh",
+          "party": "Indian National Congress",
+          "votes": 183774,
+          "votes_percentage": 26.4
+        },
+        {
+          "position": 3,
+          "name": "Datta, Bhabananda",
+          "party": "Communist Party Of India",
+          "votes": 103151,
+          "votes_percentage": 14.8
+        },
+        {
+          "position": 4,
+          "name": "Rabha Bishnu Prasad",
+          "party": "Communist Party Of India",
+          "votes": 98180,
+          "votes_percentage": 14.1
+        },
+        {
+          "position": 5,
+          "name": "Chaudhury, Girish Cha",
+          "party": "Praja Socialist Party",
+          "votes": 65580,
+          "votes_percentage": 9.4
+        },
+        {
+          "position": 6,
+          "name": "Hajoari Mahat Chandra",
+          "party": "Praja Socialist Party",
+          "votes": 61382,
+          "votes_percentage": 8.8
+        }
+      ]
+    }
+  }
+}

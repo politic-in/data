@@ -1,0 +1,64 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Kishangadhbaas",
+  "district": "Alwar",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 224863,
+        "total_votes_polled": 178510,
+        "turnout_percentage": 79.8,
+        "margin_votes": 9916,
+        "margin_percentage": 5.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Deepchand",
+          "party": "Bahujan Samaj Party",
+          "votes": 73799,
+          "votes_percentage": 41.3
+        },
+        {
+          "position": 2,
+          "name": "Ramhet Singh Yadav",
+          "party": "Bharatiya Janta Party",
+          "votes": 63883,
+          "votes_percentage": 35.8
+        },
+        {
+          "position": 3,
+          "name": "Dr. Karan Singh Yadav",
+          "party": "Indian National Congress",
+          "votes": 39033,
+          "votes_percentage": 21.9
+        },
+        {
+          "position": 4,
+          "name": "Jagdish Chandra",
+          "party": "Abhinav Rajasthan Party",
+          "votes": 691,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 5,
+          "name": "Subedin",
+          "party": "Aam Aadmi Party",
+          "votes": 680,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Sahabuddin Khan",
+          "party": "Bharatiya Yuva Shakti",
+          "votes": 424,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

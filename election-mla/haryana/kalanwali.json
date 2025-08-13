@@ -1,0 +1,73 @@
+{
+  "state": "Haryana",
+  "constituency": "Kalanwali",
+  "district": "Sirsa",
+  "ac_type": "SC",
+  "results": {
+    "2009": {
+      "poll_date": "13 October 2009",
+      "counting_date": "22 October 2009",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 138779,
+        "total_votes_polled": 115849,
+        "turnout_percentage": 83.5,
+        "total_valid_votes": 115775,
+        "total_valid_votes_percentage": 83.4,
+        "margin_votes": 12544,
+        "margin_percentage": 10.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Charanjeet Singh",
+          "party": "Shiromani Akali Dal",
+          "votes": 59064,
+          "votes_percentage": 51.0
+        },
+        {
+          "position": 2,
+          "name": "Dr. Sushil Kumar Indora",
+          "party": "Indian National Congress",
+          "votes": 46520,
+          "votes_percentage": 40.2
+        },
+        {
+          "position": 3,
+          "name": "Major Singh",
+          "party": "Bahujan Samaj Party",
+          "votes": 5047,
+          "votes_percentage": 4.4
+        },
+        {
+          "position": 4,
+          "name": "Prof. Rajesh Vaid",
+          "party": "Haryana Janhit Congress (BL)",
+          "votes": 2125,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 5,
+          "name": "Raj Kumar Nagar",
+          "party": "Samajwadi Party",
+          "votes": 1192,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Rattan Lal Bamnia",
+          "party": "Bharatiya Janta Party",
+          "votes": 1136,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 7,
+          "name": "Jasvir Singh",
+          "party": "Independent",
+          "votes": 765,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

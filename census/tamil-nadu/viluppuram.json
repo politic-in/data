@@ -1,0 +1,105 @@
+{
+  "district": "Viluppuram",
+  "state": "Tamil Nadu",
+  "census_year": 2011,
+  "source": "https://www.census2011.co.in/census/district/27-viluppuram.html",
+  "population": {
+    "total": 3458873,
+    "male": 1740819,
+    "female": 1718054,
+    "sex_ratio": 987
+  },
+  "area_distribution": {
+    "urban": {
+      "percentage_of_total_population": 15.01,
+      "total_population": 519088,
+      "male": 259344,
+      "female": 259744,
+      "sex_ratio": 1002,
+      "child_population_0_6": {
+        "total": 56710,
+        "male": 29092,
+        "female": 27618,
+        "sex_ratio": 949,
+        "percentage_of_urban_population": 10.92
+      },
+      "literacy": {
+        "rate": 84.74,
+        "male_rate": 90.71,
+        "female_rate": 78.82,
+        "total_literates": 391833
+      }
+    },
+    "rural": {
+      "percentage_of_total_population": 84.99,
+      "total_population": 2939785,
+      "male": 1481475,
+      "female": 1458310,
+      "sex_ratio": 984,
+      "child_population_0_6": {
+        "total": 347396,
+        "male": 179154,
+        "female": 168242,
+        "sex_ratio": 939,
+        "percentage_of_rural_population": 11.82
+      },
+      "literacy": {
+        "rate": 69.59,
+        "male_rate": 78.75,
+        "female_rate": 60.33,
+        "total_literates": 1803943
+      }
+    }
+  },
+  "age_groups": {
+    "children_0_6_years": {
+      "total": 404106,
+      "male": 208246,
+      "female": 195860,
+      "sex_ratio": 941,
+      "percentage_of_total_population": 11.68
+    }
+  },
+  "literacy_overall_district": {
+    "rate": 71.88,
+    "male_rate": 80.55,
+    "female_rate": 63.15,
+    "total_literates": 2195776
+  },
+  "religion_distribution": {
+    "hindu": {
+      "percentage": 91.79,
+      "population": 3174941
+    },
+    "muslim": {
+      "percentage": 3.87,
+      "population": 133896
+    },
+    "christian": {
+      "percentage": 4.0,
+      "population": 138279
+    },
+    "sikh": {
+      "percentage": 0.01,
+      "population": 325
+    },
+    "buddhist": {
+      "percentage": 0.01,
+      "population": 238
+    },
+    "jain": {
+      "percentage": 0.12,
+      "population": 4032
+    },
+    "other_religions": {
+      "percentage": 0.01,
+      "population": 278
+    },
+    "not_stated": {
+      "percentage": 0.2,
+      "population": 6884
+    }
+  },
+  "scheduled_caste_sc_population": null,
+  "scheduled_tribe_st_population": null
+}

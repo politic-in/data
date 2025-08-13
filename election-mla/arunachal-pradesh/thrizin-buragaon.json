@@ -1,0 +1,36 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Thrizin-buragaon",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "1990": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 5615,
+        "total_votes_polled": 4347,
+        "turnout_percentage": 77.4,
+        "margin_votes": 932,
+        "margin_percentage": 21.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sinam Dususow",
+          "party": "Indian National Congress",
+          "votes": 2578,
+          "votes_percentage": 61.0
+        },
+        {
+          "position": 2,
+          "name": "Nima Tsering Khrime",
+          "party": "Independent",
+          "votes": 1646,
+          "votes_percentage": 39.0
+        }
+      ]
+    }
+  }
+}

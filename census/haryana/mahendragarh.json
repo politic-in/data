@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 48544,
+        "male": 62637,
+        "percentage_of_total_population": 12.06,
+        "percentage_of_total_population_calculated": 12.06,
+        "percentage_of_total_population_stated": 12.06,
+        "sex_ratio": 775,
+        "total": 111181
+    },
+    "literacy": {
+        "female_literacy_rate": 64.57,
+        "female_literate": 249815,
+        "male_literacy_rate": 89.72,
+        "male_literate": 380440,
+        "rate_percentage": 77.72,
+        "total_literate": 630255
+    },
+    "population": {
+        "female": 435423,
+        "male": 486665,
+        "sex_ratio": 895,
+        "total": 922088
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 75
+        },
+        "Christian": {
+            "percentage": 0.03,
+            "population": 301
+        },
+        "Hindu": {
+            "percentage": 99.04,
+            "population": 913251
+        },
+        "Jain": {
+            "percentage": 0.07,
+            "population": 644
+        },
+        "Muslims": {
+            "percentage": 0.61,
+            "population": 5660
+        },
+        "Not Stated": {
+            "percentage": 0.04,
+            "population": 405
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 15
+        },
+        "Sikh": {
+            "percentage": 0.19,
+            "population": 1737
+        }
+    },
+    "rural": {
+        "child_population_female": 41603,
+        "child_population_male": 53778,
+        "child_population_percentage": 12.09,
+        "child_population_percentage_calculated": 12.09,
+        "child_population_percentage_stated": 12.09,
+        "child_population_total": 95381,
+        "child_sex_ratio": 774,
+        "female": 372875,
+        "literacy_rate_female": 63.0,
+        "literacy_rate_male": 89.56,
+        "literacy_rate_percentage": 76.88,
+        "literate_female": 208701,
+        "literate_male": 324741,
+        "literate_total": 533442,
+        "male": 416358,
+        "percentage_population": 85.59,
+        "population": 789233,
+        "sex_ratio": 896
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/223-mahendragarh.html",
+    "urban": {
+        "child_population_female": 6940,
+        "child_population_male": 8860,
+        "child_population_percentage": 11.89,
+        "child_population_percentage_calculated": 11.89,
+        "child_population_percentage_stated": 11.89,
+        "child_population_total": 15800,
+        "child_sex_ratio": 783,
+        "female": 62548,
+        "literacy_rate_female": 73.94,
+        "literacy_rate_male": 90.65,
+        "literacy_rate_percentage": 82.71,
+        "literate_female": 41114,
+        "literate_male": 55699,
+        "literate_total": 96813,
+        "male": 70307,
+        "percentage_population": 14.41,
+        "population": 132855,
+        "sex_ratio": 890
+    }
+}

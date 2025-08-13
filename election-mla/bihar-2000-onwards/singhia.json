@@ -1,0 +1,129 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "SINGHIA",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "2005": {
+      "poll_date": "26 October 2005",
+      "counting_date": "21 November 2005",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 215541,
+        "total_votes_polled": 85076,
+        "turnout_percentage": 39.5,
+        "total_valid_votes": 85076,
+        "total_valid_votes_percentage": 39.5,
+        "margin_votes": 11441,
+        "margin_percentage": 13.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr. Ashok Kumar",
+          "party": "Indian National Congress",
+          "votes": 32764,
+          "votes_percentage": 38.5
+        },
+        {
+          "position": 2,
+          "name": "Ram Sewak Hazari",
+          "party": "Lok Jan Shakti Party",
+          "votes": 21323,
+          "votes_percentage": 25.1
+        },
+        {
+          "position": 3,
+          "name": "Jaiprakash Narayan Paswan",
+          "party": "Janata Dal (United)",
+          "votes": 20744,
+          "votes_percentage": 24.4
+        },
+        {
+          "position": 4,
+          "name": "Ram Bahadur Bharti",
+          "party": "Independent",
+          "votes": 6313,
+          "votes_percentage": 7.4
+        },
+        {
+          "position": 5,
+          "name": "Vinod Bharti",
+          "party": "Bahujan Samaj Party",
+          "votes": 3932,
+          "votes_percentage": 4.6
+        }
+      ]
+    },
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 183527,
+        "total_votes_polled": 111346,
+        "turnout_percentage": 60.7,
+        "margin_votes": 739,
+        "margin_percentage": 0.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr. Ashok Kumar",
+          "party": "Indian National Congress",
+          "votes": 37346,
+          "votes_percentage": 34.0
+        },
+        {
+          "position": 2,
+          "name": "Jagadish Paswan",
+          "party": "Janata Dal (United)",
+          "votes": 36607,
+          "votes_percentage": 33.4
+        },
+        {
+          "position": 3,
+          "name": "Ram Jatan Paswan",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 16154,
+          "votes_percentage": 14.7
+        },
+        {
+          "position": 4,
+          "name": "Kameshwar Hazari",
+          "party": "Communist Party Of India",
+          "votes": 9791,
+          "votes_percentage": 8.9
+        },
+        {
+          "position": 5,
+          "name": "Ram Binod Paswan",
+          "party": "Independent",
+          "votes": 4256,
+          "votes_percentage": 3.9
+        },
+        {
+          "position": 6,
+          "name": "Ram Bahadur Sada",
+          "party": "Bhartiya Jana Congress (Rashtriya)",
+          "votes": 3194,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 7,
+          "name": "Bhageshwar Paswan",
+          "party": "Bahujan Samaj Party",
+          "votes": 1719,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 8,
+          "name": "Dinesh Paswan",
+          "party": "Independent",
+          "votes": 638,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

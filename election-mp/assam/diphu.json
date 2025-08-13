@@ -1,0 +1,57 @@
+{
+  "state": "Assam",
+  "constituency": "Diphu",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "2024": {
+      "poll_date": "19 April 2024",
+      "counting_date": "01 June 2024",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 901032,
+        "total_votes_polled": 682827,
+        "turnout_percentage": 75.8,
+        "margin_votes": 147603,
+        "margin_percentage": 21.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Amarsing Tisso",
+          "party": "Bharatiya Janta Party",
+          "votes": 334620,
+          "votes_percentage": 49.0
+        },
+        {
+          "position": 2,
+          "name": "J. I. Kathar",
+          "party": "Independent",
+          "votes": 187017,
+          "votes_percentage": 27.4
+        },
+        {
+          "position": 3,
+          "name": "Joy Ram Engleng",
+          "party": "Indian National Congress",
+          "votes": 124019,
+          "votes_percentage": 18.2
+        },
+        {
+          "position": 4,
+          "name": "John Barnard Sangma",
+          "party": "Gana Suraksha Party",
+          "votes": 11279,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 5,
+          "name": "Jotson Bey",
+          "party": "Autonomous State Demand Committee",
+          "votes": 9633,
+          "votes_percentage": 1.4
+        }
+      ]
+    }
+  }
+}

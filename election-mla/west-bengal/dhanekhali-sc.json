@@ -1,0 +1,64 @@
+{
+  "state": "West Bengal",
+  "constituency": "DHANEKHALI (SC)",
+  "district": "Hugli",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 249071,
+        "total_votes_polled": 214041,
+        "turnout_percentage": 87.4,
+        "margin_votes": 58644,
+        "margin_percentage": 27.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Asima Patra",
+          "party": "All India Trinamool Congress",
+          "votes": 125298,
+          "votes_percentage": 58.5
+        },
+        {
+          "position": 2,
+          "name": "Pradip Majumdar",
+          "party": "All India Forward Bloc",
+          "votes": 66654,
+          "votes_percentage": 31.1
+        },
+        {
+          "position": 3,
+          "name": "Sasthi Duley",
+          "party": "Bharatiya Janta Party",
+          "votes": 16338,
+          "votes_percentage": 7.6
+        },
+        {
+          "position": 4,
+          "name": "Ashis Halder",
+          "party": "Independent",
+          "votes": 2558,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 5,
+          "name": "Sajal Kumar De",
+          "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+          "votes": 1754,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Pallab Bag",
+          "party": "Jharkhand Disom Party",
+          "votes": 1439,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

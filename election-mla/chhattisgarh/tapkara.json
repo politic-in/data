@@ -1,0 +1,64 @@
+{
+  "state": "Chhattisgarh",
+  "constituency": "Tapkara",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "2003": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 117163,
+        "total_votes_polled": 87158,
+        "turnout_percentage": 74.4,
+        "margin_votes": 13591,
+        "margin_percentage": 15.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bharat Sai",
+          "party": "Bharatiya Janta Party",
+          "votes": 42213,
+          "votes_percentage": 48.4
+        },
+        {
+          "position": 2,
+          "name": "Mohan Sai",
+          "party": "Indian National Congress",
+          "votes": 28622,
+          "votes_percentage": 32.8
+        },
+        {
+          "position": 3,
+          "name": "Jolpholhem",
+          "party": "Independent",
+          "votes": 8284,
+          "votes_percentage": 9.5
+        },
+        {
+          "position": 4,
+          "name": "Theodor",
+          "party": "Bahujan Samaj Party",
+          "votes": 3982,
+          "votes_percentage": 4.6
+        },
+        {
+          "position": 5,
+          "name": "Meghnath Sai",
+          "party": "Nationalist Congress Party",
+          "votes": 2234,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 6,
+          "name": "Parmanand",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 1823,
+          "votes_percentage": 2.1
+        }
+      ]
+    }
+  }
+}

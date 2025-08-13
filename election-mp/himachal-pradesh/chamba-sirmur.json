@@ -1,0 +1,41 @@
+{
+  "state": "Himachal Pradesh",
+  "constituency": "CHAMBA SIRMUR",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 180581,
+        "total_votes_polled": 47812,
+        "turnout_percentage": 26.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "A. R. Sewal",
+          "party": "Indian National Congress",
+          "votes": 28451,
+          "votes_percentage": 59.5
+        },
+        {
+          "position": 2,
+          "name": "H. S. Bam",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 11865,
+          "votes_percentage": 24.8
+        },
+        {
+          "position": 3,
+          "name": "Sahi Ram",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 7496,
+          "votes_percentage": 15.7
+        }
+      ]
+    }
+  }
+}

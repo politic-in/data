@@ -1,0 +1,36 @@
+{
+  "state": "Goa, Daman And Diu",
+  "constituency": "Diu",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 14842,
+        "total_votes_polled": 10972,
+        "turnout_percentage": 73.9,
+        "margin_votes": 1399,
+        "margin_percentage": 12.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Solanki Somji Bhikha",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 6032,
+          "votes_percentage": 56.6
+        },
+        {
+          "position": 2,
+          "name": "Fugro Narayan Shrinivas",
+          "party": "Independent",
+          "votes": 4633,
+          "votes_percentage": 43.4
+        }
+      ]
+    }
+  }
+}

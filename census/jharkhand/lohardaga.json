@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 38233,
+        "male": 39416,
+        "percentage_of_total_population": 16.81,
+        "percentage_of_total_population_calculated": 16.81,
+        "percentage_of_total_population_stated": 16.81,
+        "sex_ratio": 970,
+        "total": 77649
+    },
+    "literacy": {
+        "female_literacy_rate": 57.69,
+        "female_literate": 110139,
+        "male_literacy_rate": 77.41,
+        "male_literate": 149568,
+        "rate_percentage": 67.61,
+        "total_literate": 259707
+    },
+    "population": {
+        "female": 229161,
+        "male": 232629,
+        "sex_ratio": 985,
+        "total": 461790
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 33
+        },
+        "Christian": {
+            "percentage": 3.63,
+            "population": 16770
+        },
+        "Hindu": {
+            "percentage": 24.34,
+            "population": 112378
+        },
+        "Jain": {
+            "percentage": 0.0,
+            "population": 15
+        },
+        "Muslims": {
+            "percentage": 20.57,
+            "population": 95012
+        },
+        "Not Stated": {
+            "percentage": 0.33,
+            "population": 1544
+        },
+        "Others": {
+            "percentage": 51.1,
+            "population": 235987
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 51
+        }
+    },
+    "rural": {
+        "child_population_female": 34459,
+        "child_population_male": 35332,
+        "child_population_percentage": 17.26,
+        "child_population_percentage_calculated": 17.26,
+        "child_population_percentage_stated": 17.26,
+        "child_population_total": 69791,
+        "child_sex_ratio": 975,
+        "female": 201124,
+        "literacy_rate_female": 54.33,
+        "literacy_rate_male": 75.54,
+        "literacy_rate_percentage": 64.98,
+        "literate_female": 90551,
+        "literate_male": 126853,
+        "literate_total": 217404,
+        "male": 203255,
+        "percentage_population": 87.57,
+        "population": 404379,
+        "sex_ratio": 990
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/107-lohardaga.html",
+    "urban": {
+        "child_population_female": 3778,
+        "child_population_male": 4080,
+        "child_population_percentage": 13.69,
+        "child_population_percentage_calculated": 13.69,
+        "child_population_percentage_stated": 13.69,
+        "child_population_total": 7858,
+        "child_sex_ratio": 926,
+        "female": 28037,
+        "literacy_rate_female": 80.75,
+        "literacy_rate_male": 89.8,
+        "literacy_rate_percentage": 85.37,
+        "literate_female": 19588,
+        "literate_male": 22715,
+        "literate_total": 42303,
+        "male": 29374,
+        "percentage_population": 12.43,
+        "population": 57411,
+        "sex_ratio": 954
+    }
+}

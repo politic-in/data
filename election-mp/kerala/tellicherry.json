@@ -1,0 +1,111 @@
+{
+  "state": "Kerala",
+  "constituency": "TELLICHERRY",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 562923,
+        "total_votes_polled": 400335,
+        "turnout_percentage": 71.1,
+        "margin_votes": 39824,
+        "margin_percentage": 9.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "C. K. Chandrappan",
+          "party": "Communist Party Of India",
+          "votes": 204483,
+          "votes_percentage": 51.1
+        },
+        {
+          "position": 2,
+          "name": "Pattiam Gopalan",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 164659,
+          "votes_percentage": 41.1
+        },
+        {
+          "position": 3,
+          "name": "N. Raghavan",
+          "party": "Indian National Congress (ORGANISATION)",
+          "votes": 24365,
+          "votes_percentage": 6.1
+        },
+        {
+          "position": 4,
+          "name": "K. K. Kunhabdulla Haji",
+          "party": "Independent",
+          "votes": 4236,
+          "votes_percentage": 1.1
+        }
+      ]
+    },
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 501672,
+        "total_votes_polled": 375373,
+        "turnout_percentage": 74.8,
+        "margin_votes": 64950,
+        "margin_percentage": 17.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "S. K. Pottekkatt",
+          "party": "Independent",
+          "votes": 216836,
+          "votes_percentage": 57.8
+        },
+        {
+          "position": 2,
+          "name": "K. T. Sukumaran",
+          "party": "Indian National Congress",
+          "votes": 151886,
+          "votes_percentage": 40.5
+        }
+      ]
+    },
+    "1957": {
+      "poll_date": "25 February 1957",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 468639,
+        "total_votes_polled": 296394,
+        "turnout_percentage": 63.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "M. K. Jinachandran",
+          "party": "Indian National Congress",
+          "votes": 110114,
+          "votes_percentage": 37.2
+        },
+        {
+          "position": 2,
+          "name": "Pottekkattu S. K.",
+          "party": "Independent",
+          "votes": 108732,
+          "votes_percentage": 36.7
+        },
+        {
+          "position": 3,
+          "name": "Padmaprabhaundan",
+          "party": "Praja Socialist Party",
+          "votes": 77548,
+          "votes_percentage": 26.2
+        }
+      ]
+    }
+  }
+}

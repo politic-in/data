@@ -1,0 +1,64 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Chauhaton",
+  "district": "Barmer",
+  "ac_type": "SC",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 247074,
+        "total_votes_polled": 195725,
+        "turnout_percentage": 81.4,
+        "margin_votes": 4262,
+        "margin_percentage": 2.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Padmaram",
+          "party": "Indian National Congress",
+          "votes": 83601,
+          "votes_percentage": 42.7
+        },
+        {
+          "position": 2,
+          "name": "Adu Ram Meghwal",
+          "party": "Bharatiya Janta Party",
+          "votes": 79339,
+          "votes_percentage": 40.5
+        },
+        {
+          "position": 3,
+          "name": "Surta Ram Meghwal",
+          "party": "Rashtriya Loktantrik Party",
+          "votes": 24036,
+          "votes_percentage": 12.3
+        },
+        {
+          "position": 4,
+          "name": "Dhoora Ram",
+          "party": "Bharatiya Yuva Shakti",
+          "votes": 3625,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 5,
+          "name": "Ravindra Kumar Meghwal",
+          "party": "Bahujan Samaj Party",
+          "votes": 3314,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 6,
+          "name": "Nainaram",
+          "party": "Aam Aadmi Party",
+          "votes": 1810,
+          "votes_percentage": 0.9
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Kama",
+  "district": "Bharatpur",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 231016,
+        "total_votes_polled": 189751,
+        "turnout_percentage": 82.6,
+        "margin_votes": 39621,
+        "margin_percentage": 20.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Zahida Khan",
+          "party": "Indian National Congress",
+          "votes": 110789,
+          "votes_percentage": 58.4
+        },
+        {
+          "position": 2,
+          "name": "Jawahar Singh Beadham",
+          "party": "Bharatiya Janta Party",
+          "votes": 71168,
+          "votes_percentage": 37.5
+        },
+        {
+          "position": 3,
+          "name": "Ishwari Dayal",
+          "party": "Bahujan Samaj Party",
+          "votes": 3808,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 4,
+          "name": "Maksood Khan",
+          "party": "Independent",
+          "votes": 1907,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Bal Kishan",
+          "party": "Aam Aadmi Party",
+          "votes": 897,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Ramesh Chand Khurana",
+          "party": "Independent",
+          "votes": 503,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "Jaikam Ali",
+          "party": "Independent",
+          "votes": 258,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "Rakesh Kumar",
+          "party": "Loktantrik Janta Dal",
+          "votes": 187,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Anaand Swaroop",
+          "party": "Independent",
+          "votes": 132,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Shyam Sundar Urf Shyam",
+          "party": "Bharatiya Yuva Shakti",
+          "votes": 102,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

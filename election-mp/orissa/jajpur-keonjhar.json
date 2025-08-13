@@ -1,0 +1,62 @@
+{
+  "state": "Orissa",
+  "constituency": "JAJPUR KEONJHAR",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 729056,
+        "total_votes_polled": 457314,
+        "turnout_percentage": 31.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bhubananda Das",
+          "party": "Indian National Congress",
+          "votes": 104114,
+          "votes_percentage": 22.8
+        },
+        {
+          "position": 1,
+          "name": "Lakhmidhar Jena",
+          "party": "All India Gantantra Parishad",
+          "votes": 83529,
+          "votes_percentage": 18.3
+        },
+        {
+          "position": 3,
+          "name": "Adityapratap Singh Deo",
+          "party": "All India Gantantra Parishad",
+          "votes": 82548,
+          "votes_percentage": 18.1
+        },
+        {
+          "position": 4,
+          "name": "Mayadhar Sinha",
+          "party": "Indian National Congress",
+          "votes": 82421,
+          "votes_percentage": 18.0
+        },
+        {
+          "position": 5,
+          "name": "Pitambar Jena",
+          "party": "Socialist Party",
+          "votes": 55441,
+          "votes_percentage": 12.1
+        },
+        {
+          "position": 6,
+          "name": "Harihar Mahanto",
+          "party": "Socialist Party",
+          "votes": 49261,
+          "votes_percentage": 10.8
+        }
+      ]
+    }
+  }
+}

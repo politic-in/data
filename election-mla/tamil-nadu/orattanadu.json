@@ -1,0 +1,106 @@
+{
+  "state": "Tamil Nadu",
+  "constituency": "Orattanadu",
+  "district": "Thanjavur",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "06 April 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 12,
+      "aggregate": {
+        "total_electors": 231555,
+        "total_votes_polled": 190973,
+        "turnout_percentage": 82.9,
+        "margin_votes": 28835,
+        "margin_percentage": 15.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Vaithilingam, R.",
+          "party": "All India Anna Dravida Munnetra Kazhagam",
+          "votes": 90063,
+          "votes_percentage": 47.2
+        },
+        {
+          "position": 2,
+          "name": "Ramchandran, M.",
+          "party": "Dravida Munetra Kazhagam",
+          "votes": 61228,
+          "votes_percentage": 32.1
+        },
+        {
+          "position": 3,
+          "name": "Sekar, M.",
+          "party": "Amma Makkal Munnettra Kazagam",
+          "votes": 26022,
+          "votes_percentage": 13.6
+        },
+        {
+          "position": 4,
+          "name": "Kandhasamy, M.",
+          "party": "Naam Tamilar Katchi",
+          "votes": 9050,
+          "votes_percentage": 4.7
+        },
+        {
+          "position": 5,
+          "name": "Mookkaiyan, V.",
+          "party": "Independent",
+          "votes": 2041,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Rengasamy, G.",
+          "party": "Makkal Needhi Maiam",
+          "votes": 721,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Stalin, R.",
+          "party": "Bahujan Samaj Party",
+          "votes": 550,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Jayasooriyan, T.",
+          "party": "Independent",
+          "votes": 428,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Rengaraj, S.",
+          "party": "Independent",
+          "votes": 319,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Thanraj, R.",
+          "party": "United States Of India Party",
+          "votes": 229,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Arunkumar, K.",
+          "party": "Independent",
+          "votes": 223,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Prabakaran, U.",
+          "party": "Anaithu Makkal Puratchi Katchi",
+          "votes": 99,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

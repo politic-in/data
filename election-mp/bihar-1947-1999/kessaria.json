@@ -1,0 +1,36 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "KESSARIA",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 523959,
+        "total_votes_polled": 246560,
+        "turnout_percentage": 47.1,
+        "margin_votes": 3661,
+        "margin_percentage": 1.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "K. M. Madhukar",
+          "party": "Communist Party Of India",
+          "votes": 120795,
+          "votes_percentage": 49.0
+        },
+        {
+          "position": 2,
+          "name": "B. P. Yadav",
+          "party": "Indian National Congress",
+          "votes": 117134,
+          "votes_percentage": 47.5
+        }
+      ]
+    }
+  }
+}

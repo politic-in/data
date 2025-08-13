@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 61730,
+        "male": 67171,
+        "percentage_of_total_population": 9.91,
+        "percentage_of_total_population_calculated": 9.91,
+        "percentage_of_total_population_stated": 9.91,
+        "sex_ratio": 919,
+        "total": 128901
+    },
+    "literacy": {
+        "female_literacy_rate": 81.81,
+        "female_literate": 466841,
+        "male_literacy_rate": 91.92,
+        "male_literate": 552617,
+        "rate_percentage": 86.99,
+        "total_literate": 1019458
+    },
+    "population": {
+        "female": 632389,
+        "male": 668385,
+        "sex_ratio": 946,
+        "total": 1300774
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 13.49,
+            "population": 175417
+        },
+        "Christian": {
+            "percentage": 0.21,
+            "population": 2696
+        },
+        "Hindu": {
+            "percentage": 81.27,
+            "population": 1057096
+        },
+        "Jain": {
+            "percentage": 0.44,
+            "population": 5663
+        },
+        "Muslims": {
+            "percentage": 4.14,
+            "population": 53854
+        },
+        "Not Stated": {
+            "percentage": 0.13,
+            "population": 1647
+        },
+        "Others": {
+            "percentage": 0.17,
+            "population": 2254
+        },
+        "Sikh": {
+            "percentage": 0.17,
+            "population": 2147
+        }
+    },
+    "rural": {
+        "child_population_female": 42426,
+        "child_population_male": 45798,
+        "child_population_percentage": 10.05,
+        "child_population_percentage_calculated": 10.05,
+        "child_population_percentage_stated": 10.05,
+        "child_population_total": 88224,
+        "child_sex_ratio": 926,
+        "female": 425600,
+        "literacy_rate_female": 78.26,
+        "literacy_rate_male": 89.93,
+        "literacy_rate_percentage": 84.27,
+        "literate_female": 299884,
+        "literate_male": 365198,
+        "literate_total": 665082,
+        "male": 451874,
+        "percentage_population": 67.46,
+        "population": 877474,
+        "sex_ratio": 942
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/342-wardha.html",
+    "urban": {
+        "child_population_female": 19288,
+        "child_population_male": 21389,
+        "child_population_percentage": 9.61,
+        "child_population_percentage_calculated": 9.61,
+        "child_population_percentage_stated": 9.61,
+        "child_population_total": 40677,
+        "child_sex_ratio": 902,
+        "female": 206789,
+        "literacy_rate_female": 89.04,
+        "literacy_rate_male": 96.05,
+        "literacy_rate_percentage": 92.62,
+        "literate_female": 166957,
+        "literate_male": 187419,
+        "literate_total": 354376,
+        "male": 216511,
+        "percentage_population": 32.54,
+        "population": 423300,
+        "sex_ratio": 955
+    }
+}

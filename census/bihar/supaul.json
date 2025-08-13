@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 212379,
+        "male": 224978,
+        "percentage_of_total_population": 19.62,
+        "percentage_of_total_population_calculated": 19.62,
+        "percentage_of_total_population_stated": 19.62,
+        "sex_ratio": 944,
+        "total": 437357
+    },
+    "literacy": {
+        "female_literacy_rate": 44.77,
+        "female_literate": 385611,
+        "male_literacy_rate": 69.62,
+        "male_literate": 647672,
+        "rate_percentage": 57.67,
+        "total_literate": 1033283
+    },
+    "population": {
+        "female": 1073793,
+        "male": 1155283,
+        "sex_ratio": 929,
+        "total": 2229076
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 136
+        },
+        "Christian": {
+            "percentage": 0.17,
+            "population": 3758
+        },
+        "Hindu": {
+            "percentage": 81.2,
+            "population": 1809936
+        },
+        "Jain": {
+            "percentage": 0.02,
+            "population": 546
+        },
+        "Muslims": {
+            "percentage": 18.36,
+            "population": 409251
+        },
+        "Not Stated": {
+            "percentage": 0.23,
+            "population": 5136
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 42
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 271
+        }
+    },
+    "rural": {
+        "child_population_female": 203890,
+        "child_population_male": 215813,
+        "child_population_percentage": 19.76,
+        "child_population_percentage_calculated": 19.76,
+        "child_population_percentage_stated": 19.76,
+        "child_population_total": 419703,
+        "child_sex_ratio": 945,
+        "female": 1024023,
+        "literacy_rate_female": 43.82,
+        "literacy_rate_male": 69.03,
+        "literacy_rate_percentage": 56.89,
+        "literate_female": 359356,
+        "literate_male": 609988,
+        "literate_total": 969344,
+        "male": 1099495,
+        "percentage_population": 95.26,
+        "population": 2123518,
+        "sex_ratio": 931
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/60-supaul.html",
+    "urban": {
+        "child_population_female": 8514,
+        "child_population_male": 9140,
+        "child_population_percentage": 16.72,
+        "child_population_percentage_calculated": 16.72,
+        "child_population_percentage_stated": 16.72,
+        "child_population_total": 17654,
+        "child_sex_ratio": 932,
+        "female": 49770,
+        "literacy_rate_female": 63.64,
+        "literacy_rate_male": 80.78,
+        "literacy_rate_percentage": 72.74,
+        "literate_female": 26255,
+        "literate_male": 37684,
+        "literate_total": 63939,
+        "male": 55788,
+        "percentage_population": 4.74,
+        "population": 105558,
+        "sex_ratio": 892
+    }
+}

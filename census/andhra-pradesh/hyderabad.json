@@ -1,0 +1,100 @@
+{
+    "child_population": {
+        "female": 224024,
+        "male": 245102,
+        "percentage_of_total_population": 11.9,
+        "percentage_of_total_population_calculated": 11.9,
+        "percentage_of_total_population_stated": 11.9,
+        "sex_ratio": 914,
+        "total": 469126
+    },
+    "literacy": {
+        "female_literacy_rate": 79.35,
+        "female_literate": 1349467,
+        "male_literacy_rate": 86.99,
+        "male_literate": 1542688,
+        "rate_percentage": 83.25,
+        "total_literate": 2892155
+    },
+    "population": {
+        "female": 1924748,
+        "male": 2018575,
+        "sex_ratio": 954,
+        "total": 3943323
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.03,
+            "population": 1268
+        },
+        "Christian": {
+            "percentage": 2.22,
+            "population": 87522
+        },
+        "Hindu": {
+            "percentage": 51.89,
+            "population": 2046051
+        },
+        "Jain": {
+            "percentage": 0.5,
+            "population": 19560
+        },
+        "Muslims": {
+            "percentage": 43.45,
+            "population": 1713405
+        },
+        "Not Stated": {
+            "percentage": 1.58,
+            "population": 62142
+        },
+        "Others": {
+            "percentage": 0.05,
+            "population": 1929
+        },
+        "Sikh": {
+            "percentage": 0.29,
+            "population": 11446
+        }
+    },
+    "rural": {
+        "child_population_female": 0,
+        "child_population_male": 0,
+        "child_population_percentage": 0.0,
+        "child_population_percentage_stated": 0.0,
+        "child_population_total": 0,
+        "child_sex_ratio": 0,
+        "female": 0,
+        "literacy_rate_female": 0.0,
+        "literacy_rate_male": 0.0,
+        "literacy_rate_percentage": 0.0,
+        "literate_female": 0,
+        "literate_male": 0,
+        "literate_total": 0,
+        "male": 0,
+        "percentage_population": 0.0,
+        "population": 0,
+        "sex_ratio": 0
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/122-hyderabad.html",
+    "urban": {
+        "child_population_female": 223999,
+        "child_population_male": 245127,
+        "child_population_percentage": 11.9,
+        "child_population_percentage_calculated": 11.9,
+        "child_population_percentage_stated": 11.9,
+        "child_population_total": 469126,
+        "child_sex_ratio": 914,
+        "female": 1924748,
+        "literacy_rate_female": 79.35,
+        "literacy_rate_male": 86.99,
+        "literacy_rate_percentage": 83.25,
+        "literate_female": 1349467,
+        "literate_male": 1542688,
+        "literate_total": 2892155,
+        "male": 2018575,
+        "percentage_population": 100.0,
+        "population": 3943323,
+        "sex_ratio": 954
+    }
+}

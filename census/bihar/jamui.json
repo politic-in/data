@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 158607,
+        "male": 165906,
+        "percentage_of_total_population": 18.43,
+        "percentage_of_total_population_calculated": 18.43,
+        "percentage_of_total_population_stated": 18.43,
+        "sex_ratio": 956,
+        "total": 324513
+    },
+    "literacy": {
+        "female_literacy_rate": 47.28,
+        "female_literate": 324203,
+        "male_literacy_rate": 71.24,
+        "male_literate": 534385,
+        "rate_percentage": 59.79,
+        "total_literate": 858588
+    },
+    "population": {
+        "female": 844341,
+        "male": 916064,
+        "sex_ratio": 922,
+        "total": 1760405
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 159
+        },
+        "Christian": {
+            "percentage": 0.48,
+            "population": 8443
+        },
+        "Hindu": {
+            "percentage": 86.67,
+            "population": 1525746
+        },
+        "Jain": {
+            "percentage": 0.0,
+            "population": 87
+        },
+        "Muslims": {
+            "percentage": 12.36,
+            "population": 217621
+        },
+        "Not Stated": {
+            "percentage": 0.27,
+            "population": 4749
+        },
+        "Others": {
+            "percentage": 0.2,
+            "population": 3438
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 162
+        }
+    },
+    "rural": {
+        "child_population_female": 147261,
+        "child_population_male": 153863,
+        "child_population_percentage": 18.64,
+        "child_population_percentage_calculated": 18.64,
+        "child_population_percentage_stated": 18.64,
+        "child_population_total": 301124,
+        "child_sex_ratio": 957,
+        "female": 775296,
+        "literacy_rate_female": 45.56,
+        "literacy_rate_male": 70.15,
+        "literacy_rate_percentage": 58.4,
+        "literate_female": 286127,
+        "literate_male": 481184,
+        "literate_total": 767311,
+        "male": 839776,
+        "percentage_population": 91.74,
+        "population": 1615072,
+        "sex_ratio": 923
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/90-jamui.html",
+    "urban": {
+        "child_population_female": 11307,
+        "child_population_male": 12082,
+        "child_population_percentage": 16.09,
+        "child_population_percentage_calculated": 16.09,
+        "child_population_percentage_stated": 16.09,
+        "child_population_total": 23389,
+        "child_sex_ratio": 936,
+        "female": 69045,
+        "literacy_rate_female": 65.95,
+        "literacy_rate_male": 82.86,
+        "literacy_rate_percentage": 74.85,
+        "literate_female": 38076,
+        "literate_male": 53201,
+        "literate_total": 91277,
+        "male": 76288,
+        "percentage_population": 8.26,
+        "population": 145333,
+        "sex_ratio": 905
+    }
+}

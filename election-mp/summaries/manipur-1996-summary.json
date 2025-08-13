@@ -1,0 +1,45 @@
+{
+  "state": "Manipur",
+  "year": "1996",
+  "summary_stats": {
+    "total_electors_state": 1290990,
+    "total_votes_polled_state": 968783,
+    "turnout_percentage_state": 75.0,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Inner Manipur",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Manipur",
+      "winning_candidate": "Th. Chaoba",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 626653,
+      "total_votes_ac": 414736,
+      "poll_percentage_ac": 0.0,
+      "margin": 36588,
+      "margin_percentage": 8.8,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1996/manipur/inner-manipur/5309/24/11"
+    },
+    {
+      "ac_name": "Outer Manipur",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Manipur",
+      "winning_candidate": "Meijinlung Kamson",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 664337,
+      "total_votes_ac": 554047,
+      "poll_percentage_ac": 0.0,
+      "margin": 68108,
+      "margin_percentage": 12.3,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1996/manipur/outer-manipur/5310/24/11"
+    }
+  ]
+}

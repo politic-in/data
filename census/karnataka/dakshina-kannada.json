@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 101313,
+        "male": 106984,
+        "percentage_of_total_population": 9.97,
+        "percentage_of_total_population_calculated": 9.97,
+        "percentage_of_total_population_stated": 9.97,
+        "sex_ratio": 947,
+        "total": 208297
+    },
+    "literacy": {
+        "female_literacy_rate": 84.13,
+        "female_literate": 802304,
+        "male_literacy_rate": 93.13,
+        "male_literate": 864019,
+        "rate_percentage": 88.57,
+        "total_literate": 1666323
+    },
+    "population": {
+        "female": 1054935,
+        "male": 1034714,
+        "sex_ratio": 1020,
+        "total": 2089649
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 445
+        },
+        "Christian": {
+            "percentage": 8.2,
+            "population": 171398
+        },
+        "Hindu": {
+            "percentage": 67.18,
+            "population": 1403854
+        },
+        "Jain": {
+            "percentage": 0.5,
+            "population": 10397
+        },
+        "Muslims": {
+            "percentage": 24.02,
+            "population": 501896
+        },
+        "Not Stated": {
+            "percentage": 0.05,
+            "population": 996
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 138
+        },
+        "Sikh": {
+            "percentage": 0.03,
+            "population": 525
+        }
+    },
+    "rural": {
+        "child_population_female": 54144,
+        "child_population_male": 56932,
+        "child_population_percentage": 10.16,
+        "child_population_percentage_calculated": 10.16,
+        "child_population_percentage_stated": 10.16,
+        "child_population_total": 111076,
+        "child_sex_ratio": 951,
+        "female": 552079,
+        "literacy_rate_female": 79.83,
+        "literacy_rate_male": 90.97,
+        "literacy_rate_percentage": 85.33,
+        "literate_female": 397512,
+        "literate_male": 440804,
+        "literate_total": 838316,
+        "male": 541484,
+        "percentage_population": 52.33,
+        "population": 1093563,
+        "sex_ratio": 1020
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/252-dakshina-kannada.html",
+    "urban": {
+        "child_population_female": 47168,
+        "child_population_male": 50053,
+        "child_population_percentage": 9.76,
+        "child_population_percentage_calculated": 9.76,
+        "child_population_percentage_stated": 9.76,
+        "child_population_total": 97221,
+        "child_sex_ratio": 942,
+        "female": 502856,
+        "literacy_rate_female": 88.83,
+        "literacy_rate_male": 95.5,
+        "literacy_rate_percentage": 92.12,
+        "literate_female": 404792,
+        "literate_male": 423215,
+        "literate_total": 828007,
+        "male": 493230,
+        "percentage_population": 47.67,
+        "population": 996086,
+        "sex_ratio": 1020
+    }
+}

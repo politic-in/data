@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 7449,
+        "male": 7966,
+        "percentage_of_total_population": 16.19,
+        "percentage_of_total_population_calculated": 16.19,
+        "percentage_of_total_population_stated": 16.19,
+        "sex_ratio": 935,
+        "total": 15415
+    },
+    "literacy": {
+        "female_literacy_rate": 72.58,
+        "female_literate": 27620,
+        "male_literacy_rate": 82.84,
+        "male_literate": 34584,
+        "rate_percentage": 77.95,
+        "total_literate": 62204
+    },
+    "population": {
+        "female": 45505,
+        "male": 49714,
+        "sex_ratio": 915,
+        "total": 95219
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.48,
+            "population": 459
+        },
+        "Christian": {
+            "percentage": 90.47,
+            "population": 86145
+        },
+        "Hindu": {
+            "percentage": 4.28,
+            "population": 4076
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 10
+        },
+        "Muslims": {
+            "percentage": 1.94,
+            "population": 1850
+        },
+        "Not Stated": {
+            "percentage": 0.18,
+            "population": 171
+        },
+        "Others": {
+            "percentage": 2.62,
+            "population": 2493
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 15
+        }
+    },
+    "rural": {
+        "child_population_female": 6302,
+        "child_population_male": 6835,
+        "child_population_percentage": 16.13,
+        "child_population_percentage_calculated": 16.13,
+        "child_population_percentage_stated": 16.13,
+        "child_population_total": 13137,
+        "child_sex_ratio": 922,
+        "female": 38569,
+        "literacy_rate_female": 71.14,
+        "literacy_rate_male": 81.61,
+        "literacy_rate_percentage": 76.66,
+        "literate_female": 22955,
+        "literate_male": 29400,
+        "literate_total": 52355,
+        "male": 42860,
+        "percentage_population": 85.52,
+        "population": 81429,
+        "sex_ratio": 900
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/618-peren.html",
+    "urban": {
+        "child_population_female": 1146,
+        "child_population_male": 1132,
+        "child_population_percentage": 16.52,
+        "child_population_percentage_calculated": 16.52,
+        "child_population_percentage_stated": 16.52,
+        "child_population_total": 2278,
+        "child_sex_ratio": 1012,
+        "female": 6936,
+        "literacy_rate_female": 80.57,
+        "literacy_rate_male": 90.6,
+        "literacy_rate_percentage": 85.55,
+        "literate_female": 4665,
+        "literate_male": 5184,
+        "literate_total": 9849,
+        "male": 6854,
+        "percentage_population": 14.48,
+        "population": 13790,
+        "sex_ratio": 1012
+    }
+}

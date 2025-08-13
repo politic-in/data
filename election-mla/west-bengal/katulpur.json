@@ -1,0 +1,99 @@
+{
+  "state": "West Bengal",
+  "constituency": "Katulpur",
+  "district": "Bankura",
+  "ac_type": "SC",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 237059,
+        "total_votes_polled": 222267,
+        "turnout_percentage": 94.5,
+        "margin_votes": 11785,
+        "margin_percentage": 5.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Harakali Protiher",
+          "party": "Bharatiya Janta Party",
+          "votes": 106022,
+          "votes_percentage": 47.7
+        },
+        {
+          "position": 2,
+          "name": "Sangeeta Malik",
+          "party": "All India Trinamool Congress",
+          "votes": 94237,
+          "votes_percentage": 42.4
+        },
+        {
+          "position": 3,
+          "name": "Akshay Santra",
+          "party": "Indian National Congress",
+          "votes": 17757,
+          "votes_percentage": 8.0
+        },
+        {
+          "position": 4,
+          "name": "Haru Roy",
+          "party": "Bahujan Samaj Party",
+          "votes": 2519,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Mohan Santra",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1732,
+          "votes_percentage": 0.8
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 190151,
+        "total_votes_polled": 175846,
+        "turnout_percentage": 92.5,
+        "margin_votes": 1433,
+        "margin_percentage": 0.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Khan Soumitra",
+          "party": "Indian National Congress",
+          "votes": 83355,
+          "votes_percentage": 47.4
+        },
+        {
+          "position": 2,
+          "name": "Purnima Bagdi",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 81922,
+          "votes_percentage": 46.6
+        },
+        {
+          "position": 3,
+          "name": "Kotal Tarun",
+          "party": "Bharatiya Janta Party",
+          "votes": 6180,
+          "votes_percentage": 3.5
+        },
+        {
+          "position": 4,
+          "name": "Mohan Santra",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 4389,
+          "votes_percentage": 2.5
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "SULTANPUR DISTRICT (SOUTH)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 362718,
+        "total_votes_polled": 136044,
+        "turnout_percentage": 37.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "B. V. Keskar",
+          "party": "Indian National Congress",
+          "votes": 74242,
+          "votes_percentage": 54.6
+        },
+        {
+          "position": 2,
+          "name": "Ram Sumiran",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 24410,
+          "votes_percentage": 17.9
+        },
+        {
+          "position": 3,
+          "name": "Suraj Bux Singh",
+          "party": "Independent",
+          "votes": 18835,
+          "votes_percentage": 13.8
+        },
+        {
+          "position": 4,
+          "name": "Abdul Wahid",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 18557,
+          "votes_percentage": 13.6
+        }
+      ]
+    }
+  }
+}

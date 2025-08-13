@@ -1,0 +1,48 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "SAMASTIPUR EAST",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 339720,
+        "total_votes_polled": 122946,
+        "turnout_percentage": 36.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Satya Narain Sinha",
+          "party": "Indian National Congress",
+          "votes": 63019,
+          "votes_percentage": 51.3
+        },
+        {
+          "position": 2,
+          "name": "Badri Narain Sinha",
+          "party": "Socialist Party",
+          "votes": 38790,
+          "votes_percentage": 31.6
+        },
+        {
+          "position": 3,
+          "name": "Ram Prakash Sharma",
+          "party": "Independent",
+          "votes": 14477,
+          "votes_percentage": 11.8
+        },
+        {
+          "position": 4,
+          "name": "Phuleshwar Mukhya",
+          "party": "Independent",
+          "votes": 6660,
+          "votes_percentage": 5.4
+        }
+      ]
+    }
+  }
+}

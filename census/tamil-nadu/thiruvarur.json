@@ -1,0 +1,118 @@
+{
+  "district_name": "Thiruvarur",
+  "source_urls": {
+    "primary_demographics": "https://www.census2011.co.in/census/district/41-thiruvarur.html",
+    "sc_st_population": "https://www.censusindia.co.in/district/thiruvarur-district-tamil-nadu-619"
+  },
+  "total_population_2011": {
+    "total": 1264277,
+    "male": 626693,
+    "female": 637584,
+    "sex_ratio": 1017
+  },
+  "overall_child_population_0_6_years": {
+    "total": 121973,
+    "male": 62280,
+    "female": 59693,
+    "sex_ratio": 958,
+    "percentage_of_total_population": 9.65
+  },
+  "overall_literacy": {
+    "rate_percentage": 82.86,
+    "total_literate": 946471,
+    "male_literate": 503085,
+    "female_literate": 443386,
+    "male_literacy_rate": 89.13,
+    "female_literacy_rate": 76.72
+  },
+  "urban_distribution": {
+    "percentage_of_total_population": 20.39,
+    "population": 257795,
+    "male": 126739,
+    "female": 131056,
+    "sex_ratio": 1034,
+    "child_population_0_6": {
+      "total": 25286,
+      "male": 12858,
+      "female": 12428,
+      "sex_ratio": 967,
+      "percentage_of_urban_population": 9.81
+    },
+    "literacy": {
+      "rate_percentage": 89.71,
+      "total_literate": 208584,
+      "male_literate": 106810,
+      "female_literate": 101774,
+      "male_literacy_rate": 93.79,
+      "female_literacy_rate": 85.79
+    }
+  },
+  "rural_distribution": {
+    "percentage_of_total_population": 79.61,
+    "population": 1006482,
+    "male": 499954,
+    "female": 506528,
+    "sex_ratio": 1013,
+    "child_population_0_6": {
+      "total": 96687,
+      "male": 49422,
+      "female": 47265,
+      "sex_ratio": 956,
+      "percentage_of_rural_population": 9.61
+    },
+    "literacy": {
+      "rate_percentage": 81.1,
+      "total_literate": 737887,
+      "male_literate": 396275,
+      "female_literate": 341612,
+      "male_literacy_rate": 87.96,
+      "female_literacy_rate": 74.38
+    }
+  },
+  "religion_distribution": {
+    "hindu": {
+      "percentage": 89.6,
+      "population": 1132785
+    },
+    "muslim": {
+      "percentage": 7.6,
+      "population": 96092
+    },
+    "christian": {
+      "percentage": 2.63,
+      "population": 33192
+    },
+    "sikh": {
+      "percentage": 0.02,
+      "population": 258
+    },
+    "buddhist": {
+      "percentage": 0.01,
+      "population": 151
+    },
+    "jain": {
+      "percentage": 0.02,
+      "population": 279
+    },
+    "others": {
+      "percentage": 0.01,
+      "population": 64
+    },
+    "not_stated": {
+      "percentage": 0.12,
+      "population": 1456
+    }
+  },
+  "scheduled_caste_sc_population": {
+    "total": 430927,
+    "male": 214717,
+    "female": 216210,
+    "percentage_of_total_population": 34.1
+  },
+  "scheduled_tribe_st_population": {
+    "total": 3034,
+    "male": 1466,
+    "female": 1568,
+    "percentage_of_total_population": 0.2
+  }
+}

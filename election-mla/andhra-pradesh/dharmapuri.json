@@ -1,0 +1,66 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Dharmapuri",
+  "district": "Karimnagar",
+  "ac_type": "SC",
+  "results": {
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 193562,
+        "total_votes_polled": 127816,
+        "turnout_percentage": 66.0,
+        "total_valid_votes": 127744,
+        "total_valid_votes_percentage": 66.0,
+        "margin_votes": 1484,
+        "margin_percentage": 1.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Eshwar Koppula",
+          "party": "Telangana Rashtra Samithi",
+          "votes": 45848,
+          "votes_percentage": 35.9
+        },
+        {
+          "position": 2,
+          "name": "Adluri Laxman Kumar",
+          "party": "Indian National Congress",
+          "votes": 44364,
+          "votes_percentage": 34.7
+        },
+        {
+          "position": 3,
+          "name": "Gaddam Rajesh",
+          "party": "Praja Rajyam Party",
+          "votes": 23456,
+          "votes_percentage": 18.4
+        },
+        {
+          "position": 4,
+          "name": "Sogala Kumar",
+          "party": "Bharatiya Janta Party",
+          "votes": 6397,
+          "votes_percentage": 5.0
+        },
+        {
+          "position": 5,
+          "name": "Mokenapally Rajavva",
+          "party": "Independent",
+          "votes": 4088,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 6,
+          "name": "Maddela Ravindar",
+          "party": "Lok Satta Party",
+          "votes": 3591,
+          "votes_percentage": 2.8
+        }
+      ]
+    }
+  }
+}

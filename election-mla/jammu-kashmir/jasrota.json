@@ -1,0 +1,78 @@
+{
+  "state": "Jammu & Kashmir",
+  "constituency": "JASROTA",
+  "district": "Kathua",
+  "ac_type": "GEN",
+  "results": {
+    "2024": {
+      "poll_date": "08 October 2024",
+      "counting_date": "08 October 2024",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 86753,
+        "total_votes_polled": 65312,
+        "turnout_percentage": 75.8,
+        "margin_votes": 12420,
+        "margin_percentage": 19.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rajiv Jasrotia",
+          "party": "Bharatiya Janta Party",
+          "votes": 34157,
+          "votes_percentage": 51.9
+        },
+        {
+          "position": 2,
+          "name": "Brijeshwar Singh",
+          "party": "Independent",
+          "votes": 21737,
+          "votes_percentage": 33.1
+        },
+        {
+          "position": 3,
+          "name": "Raman Kumar",
+          "party": "Bahujan Samaj Party",
+          "votes": 3302,
+          "votes_percentage": 5.0
+        },
+        {
+          "position": 4,
+          "name": "Balbir Singh",
+          "party": "Indian National Congress",
+          "votes": 3219,
+          "votes_percentage": 4.9
+        },
+        {
+          "position": 5,
+          "name": "Amrish Jasrotia",
+          "party": "Independent",
+          "votes": 1755,
+          "votes_percentage": 2.7
+        },
+        {
+          "position": 6,
+          "name": "Jaswinder Singh",
+          "party": "Aazad Samaj Party (Kanshi Ram)",
+          "votes": 926,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 8,
+          "name": "Ganesh Dutt Sharma",
+          "party": "Jammu & Kashmir Peoples Democratic Party",
+          "votes": 112,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Rajesh Kumar",
+          "party": "Shiv Sena (Uddhav Balasaheb Thackrey)",
+          "votes": 104,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "state": "Goa",
+  "constituency": "Diu",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1984": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 16863,
+        "total_votes_polled": 12595,
+        "turnout_percentage": 74.7,
+        "margin_votes": 382,
+        "margin_percentage": 3.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Solanki Shamjibhai Bhikha",
+          "party": "Indian National Congress",
+          "votes": 6109,
+          "votes_percentage": 50.3
+        },
+        {
+          "position": 2,
+          "name": "Fugro Narayan Shrinivass",
+          "party": "Independent",
+          "votes": 5727,
+          "votes_percentage": 47.2
+        },
+        {
+          "position": 3,
+          "name": "Katariya Mohanlal Kanji",
+          "party": "Independent",
+          "votes": 311,
+          "votes_percentage": 2.6
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 13834,
+        "total_votes_polled": 10070,
+        "turnout_percentage": 72.8,
+        "margin_votes": 1957,
+        "margin_percentage": 19.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Fugro Narayan Shrinivas",
+          "party": "Independent",
+          "votes": 5522,
+          "votes_percentage": 56.4
+        },
+        {
+          "position": 2,
+          "name": "Modasia Balubhai Dharsi",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 3565,
+          "votes_percentage": 36.4
+        },
+        {
+          "position": 3,
+          "name": "Bamania Ratila Bhiknabhai",
+          "party": "Janta Party",
+          "votes": 702,
+          "votes_percentage": 7.2
+        }
+      ]
+    }
+  }
+}

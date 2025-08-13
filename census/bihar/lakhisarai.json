@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 90186,
+        "male": 98028,
+        "percentage_of_total_population": 18.8,
+        "percentage_of_total_population_calculated": 18.8,
+        "percentage_of_total_population_stated": 18.8,
+        "sex_ratio": 920,
+        "total": 188214
+    },
+    "literacy": {
+        "female_literacy_rate": 52.57,
+        "female_literate": 202088,
+        "male_literacy_rate": 71.26,
+        "male_literate": 305182,
+        "rate_percentage": 62.42,
+        "total_literate": 507270
+    },
+    "population": {
+        "female": 474567,
+        "male": 526345,
+        "sex_ratio": 902,
+        "total": 1000912
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 52
+        },
+        "Christian": {
+            "percentage": 0.05,
+            "population": 487
+        },
+        "Hindu": {
+            "percentage": 95.55,
+            "population": 956396
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 78
+        },
+        "Muslims": {
+            "percentage": 4.08,
+            "population": 40886
+        },
+        "Not Stated": {
+            "percentage": 0.28,
+            "population": 2821
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 52
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 140
+        }
+    },
+    "rural": {
+        "child_population_female": 78743,
+        "child_population_male": 85124,
+        "child_population_percentage": 19.1,
+        "child_population_percentage_calculated": 19.1,
+        "child_population_percentage_stated": 19.1,
+        "child_population_total": 163867,
+        "child_sex_ratio": 925,
+        "female": 407038,
+        "literacy_rate_female": 50.71,
+        "literacy_rate_male": 70.03,
+        "literacy_rate_percentage": 60.89,
+        "literate_female": 166477,
+        "literate_male": 256145,
+        "literate_total": 422622,
+        "male": 450863,
+        "percentage_population": 85.71,
+        "population": 857901,
+        "sex_ratio": 903
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/79-lakhisarai.html",
+    "urban": {
+        "child_population_female": 11421,
+        "child_population_male": 12926,
+        "child_population_percentage": 17.02,
+        "child_population_percentage_calculated": 17.02,
+        "child_population_percentage_stated": 17.02,
+        "child_population_total": 24347,
+        "child_sex_ratio": 884,
+        "female": 67529,
+        "literacy_rate_female": 63.47,
+        "literacy_rate_male": 78.39,
+        "literacy_rate_percentage": 71.33,
+        "literate_female": 35611,
+        "literate_male": 49037,
+        "literate_total": 84648,
+        "male": 75482,
+        "percentage_population": 14.29,
+        "population": 143011,
+        "sex_ratio": 895
+    }
+}

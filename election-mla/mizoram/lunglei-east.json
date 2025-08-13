@@ -1,0 +1,127 @@
+{
+  "state": "Mizoram",
+  "constituency": "Lunglei East",
+  "district": "Lunglei",
+  "ac_type": "ST",
+  "results": {
+    "2023": {
+      "poll_date": "07 November 2023",
+      "counting_date": "04 December 2023",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 32654,
+        "total_votes_polled": 13536,
+        "turnout_percentage": 41.6,
+        "margin_votes": 1646,
+        "margin_percentage": 12.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Lalrinpuii",
+          "party": "Zoram People’s Movement",
+          "votes": 5641,
+          "votes_percentage": 41.5
+        },
+        {
+          "position": 2,
+          "name": "Joseph Lalhimpuia",
+          "party": "Indian National Congress",
+          "votes": 3995,
+          "votes_percentage": 29.4
+        },
+        {
+          "position": 3,
+          "name": "Lawmawma Tochhawng",
+          "party": "Mizo National Front",
+          "votes": 3818,
+          "votes_percentage": 28.1
+        },
+        {
+          "position": 4,
+          "name": "Lalzuimawia",
+          "party": "Independent",
+          "votes": 82,
+          "votes_percentage": 0.6
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "04 December 2013",
+      "counting_date": "09 December 2013",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 13064,
+        "total_votes_polled": 10784,
+        "turnout_percentage": 83.3,
+        "margin_votes": 1611,
+        "margin_percentage": 14.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Joseph Lalhimpuia",
+          "party": "Indian National Congress",
+          "votes": 5367,
+          "votes_percentage": 49.8
+        },
+        {
+          "position": 2,
+          "name": "Lalrinzuala",
+          "party": "Mizoram People's Conference",
+          "votes": 3756,
+          "votes_percentage": 34.8
+        },
+        {
+          "position": 3,
+          "name": "Pc. Lalduhthlanga",
+          "party": "Zoram Nationalist Party",
+          "votes": 1661,
+          "votes_percentage": 15.4
+        }
+      ]
+    },
+    "2008": {
+      "poll_date": "12 February 2008",
+      "counting_date": "12 August 2008",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 12358,
+        "total_votes_polled": 9795,
+        "turnout_percentage": 79.3,
+        "margin_votes": 423,
+        "margin_percentage": 4.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Joseph Lalhimpuia",
+          "party": "Indian National Congress",
+          "votes": 3898,
+          "votes_percentage": 39.8
+        },
+        {
+          "position": 2,
+          "name": "Samson Zoramthanga",
+          "party": "Mizo National Front",
+          "votes": 3475,
+          "votes_percentage": 35.5
+        },
+        {
+          "position": 3,
+          "name": "H. Lalthansanga",
+          "party": "Independent",
+          "votes": 1765,
+          "votes_percentage": 18.0
+        },
+        {
+          "position": 4,
+          "name": "Vanneia Hnamte",
+          "party": "Zoram Nationalist Party",
+          "votes": 657,
+          "votes_percentage": 6.7
+        }
+      ]
+    }
+  }
+}

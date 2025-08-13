@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 103851,
+        "male": 104060,
+        "percentage_of_total_population": 17.03,
+        "percentage_of_total_population_calculated": 17.03,
+        "percentage_of_total_population_stated": 17.03,
+        "sex_ratio": 998,
+        "total": 207911
+    },
+    "literacy": {
+        "female_literacy_rate": 35.8,
+        "female_literate": 183395,
+        "male_literacy_rate": 57.31,
+        "male_literate": 286984,
+        "rate_percentage": 46.43,
+        "total_literate": 470379
+    },
+    "population": {
+        "female": 616134,
+        "male": 604812,
+        "sex_ratio": 1019,
+        "total": 1220946
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 189
+        },
+        "Christian": {
+            "percentage": 2.63,
+            "population": 32152
+        },
+        "Hindu": {
+            "percentage": 96.48,
+            "population": 1178005
+        },
+        "Jain": {
+            "percentage": 0.03,
+            "population": 325
+        },
+        "Muslims": {
+            "percentage": 0.55,
+            "population": 6753
+        },
+        "Not Stated": {
+            "percentage": 0.27,
+            "population": 3299
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 54
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 169
+        }
+    },
+    "rural": {
+        "child_population_female": 98528,
+        "child_population_male": 98612,
+        "child_population_percentage": 17.39,
+        "child_population_percentage_calculated": 17.39,
+        "child_population_percentage_stated": 17.39,
+        "child_population_total": 197140,
+        "child_sex_ratio": 999,
+        "female": 572550,
+        "literacy_rate_female": 32.98,
+        "literacy_rate_male": 55.01,
+        "literacy_rate_percentage": 43.85,
+        "literate_female": 156314,
+        "literate_male": 254221,
+        "literate_total": 410535,
+        "male": 560771,
+        "percentage_population": 92.82,
+        "population": 1133321,
+        "sex_ratio": 1021
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/421-nabarangapur.html",
+    "urban": {
+        "child_population_female": 5306,
+        "child_population_male": 5465,
+        "child_population_percentage": 12.29,
+        "child_population_percentage_calculated": 12.29,
+        "child_population_percentage_stated": 12.29,
+        "child_population_total": 10771,
+        "child_sex_ratio": 971,
+        "female": 43584,
+        "literacy_rate_female": 70.75,
+        "literacy_rate_male": 84.93,
+        "literacy_rate_percentage": 77.87,
+        "literate_female": 27081,
+        "literate_male": 32763,
+        "literate_total": 59844,
+        "male": 44041,
+        "percentage_population": 7.18,
+        "population": 87625,
+        "sex_ratio": 990
+    }
+}

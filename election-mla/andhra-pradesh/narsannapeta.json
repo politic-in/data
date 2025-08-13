@@ -1,0 +1,87 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Narsannapeta",
+  "district": "Srikakulam",
+  "ac_type": "GEN",
+  "results": {
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 172020,
+        "total_votes_polled": 136923,
+        "turnout_percentage": 79.6,
+        "total_valid_votes": 136713,
+        "total_valid_votes_percentage": 79.5,
+        "margin_votes": 17589,
+        "margin_percentage": 12.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dharmana Krishna Das",
+          "party": "Indian National Congress",
+          "votes": 60426,
+          "votes_percentage": 44.2
+        },
+        {
+          "position": 2,
+          "name": "Baggu Lakshmana Rao",
+          "party": "Telugu Desam",
+          "votes": 42837,
+          "votes_percentage": 31.3
+        },
+        {
+          "position": 3,
+          "name": "Dola Jagan",
+          "party": "Praja Rajyam Party",
+          "votes": 25280,
+          "votes_percentage": 18.5
+        },
+        {
+          "position": 4,
+          "name": "Tulasi Rao Pedada",
+          "party": "Bharatiya Janta Party",
+          "votes": 2651,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 5,
+          "name": "Matta Satish Chakravarthi",
+          "party": "Pyramid Party Of India",
+          "votes": 1363,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Rajakumar Duvvara",
+          "party": "Bahujan Samaj Party",
+          "votes": 1360,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 7,
+          "name": "Telugu Nageswara Rao",
+          "party": "Lok Satta Party",
+          "votes": 1103,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 8,
+          "name": "Menda Sanyasi Rao",
+          "party": "Independent",
+          "votes": 1068,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 9,
+          "name": "Chandra Mouli Jallu",
+          "party": "Independent",
+          "votes": 625,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

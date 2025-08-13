@@ -1,0 +1,71 @@
+{
+  "state": "West Bengal",
+  "constituency": "Bangaon Dakshin",
+  "district": "North Twenty Four Parganas",
+  "ac_type": "SC",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 237404,
+        "total_votes_polled": 206292,
+        "turnout_percentage": 87.5,
+        "margin_votes": 2004,
+        "margin_percentage": 1.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Swapan Majumder",
+          "party": "Bharatiya Janta Party",
+          "votes": 97828,
+          "votes_percentage": 47.4
+        },
+        {
+          "position": 2,
+          "name": "Alo Rani Sarkar",
+          "party": "All India Trinamool Congress",
+          "votes": 95824,
+          "votes_percentage": 46.5
+        },
+        {
+          "position": 3,
+          "name": "Tapas Kumar Biswas",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 10069,
+          "votes_percentage": 4.9
+        },
+        {
+          "position": 4,
+          "name": "Rabindra Nath Barai",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 953,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "Pradip Kumar Sarkar",
+          "party": "Bahujan Samaj Party",
+          "votes": 820,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Aloke Bain",
+          "party": "Independent",
+          "votes": 462,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Sushanta Kumar Sarkar",
+          "party": "Independent",
+          "votes": 336,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

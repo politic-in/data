@@ -1,0 +1,92 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Hawa Mahal",
+  "district": "Jaipur",
+  "ac_type": "GEN",
+  "results": {
+    "2023": {
+      "poll_date": "25 November 2023",
+      "counting_date": "03 December 2023",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 508801,
+        "total_votes_polled": 193710,
+        "turnout_percentage": 38.4,
+        "margin_votes": 974,
+        "margin_percentage": 0.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Balmukundachary",
+          "party": "Bharatiya Janta Party",
+          "votes": 95989,
+          "votes_percentage": 49.2
+        },
+        {
+          "position": 2,
+          "name": "R.R. Tiwari",
+          "party": "Indian National Congress",
+          "votes": 95015,
+          "votes_percentage": 48.7
+        },
+        {
+          "position": 3,
+          "name": "Jameel Ahmed Khan",
+          "party": "All India Majlis-E-Ittehadul Muslimeen",
+          "votes": 588,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 4,
+          "name": "Pappu Qureshi",
+          "party": "Aam Aadmi Party",
+          "votes": 573,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 5,
+          "name": "Surendra Singh",
+          "party": "Republican Party Of India (Athawale)",
+          "votes": 417,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 6,
+          "name": "Anoop",
+          "party": "Aam Aadmi Parivartan Party",
+          "votes": 409,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Yaqub Khan",
+          "party": "Independent",
+          "votes": 247,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "Firozuddin",
+          "party": "Welfare Party Of India",
+          "votes": 190,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Sunil Saini",
+          "party": "Rashtriya Janata Sena",
+          "votes": 142,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Sunita Devi Choudhary",
+          "party": "Lok Janshakti Party(Ram Vilas)",
+          "votes": 140,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

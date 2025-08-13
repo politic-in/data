@@ -1,0 +1,87 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Narayanpet",
+  "district": "Mahbubnagar",
+  "ac_type": "GEN",
+  "results": {
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 185529,
+        "total_votes_polled": 122097,
+        "turnout_percentage": 65.8,
+        "total_valid_votes": 122001,
+        "total_valid_votes_percentage": 65.8,
+        "margin_votes": 12143,
+        "margin_percentage": 9.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Yelkoti Yella Reddy",
+          "party": "Telugu Desam",
+          "votes": 45945,
+          "votes_percentage": 37.7
+        },
+        {
+          "position": 2,
+          "name": "Sugappa",
+          "party": "Indian National Congress",
+          "votes": 33802,
+          "votes_percentage": 27.7
+        },
+        {
+          "position": 3,
+          "name": "Nagurao Namaji",
+          "party": "Bharatiya Janta Party",
+          "votes": 27026,
+          "votes_percentage": 22.2
+        },
+        {
+          "position": 4,
+          "name": "Dr.K. Sai Babu",
+          "party": "Praja Rajyam Party",
+          "votes": 4709,
+          "votes_percentage": 3.9
+        },
+        {
+          "position": 5,
+          "name": "Shasani Ranga Reddy",
+          "party": "Pyramid Party Of India",
+          "votes": 3152,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 6,
+          "name": "B. Ramu",
+          "party": "Independent",
+          "votes": 2331,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 7,
+          "name": "K. Ramulu",
+          "party": "Independent",
+          "votes": 2221,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 8,
+          "name": "A. Srinivas Reddy",
+          "party": "Independent",
+          "votes": 1961,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 9,
+          "name": "J. Srinivasulu",
+          "party": "Trilinga Praja Pragati Party",
+          "votes": 854,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

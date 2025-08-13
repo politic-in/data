@@ -1,0 +1,99 @@
+{
+  "state": "Delhi [1977 Onwards]",
+  "constituency": "Karampura",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1983": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 58362,
+        "total_votes_polled": 42823,
+        "turnout_percentage": 73.4,
+        "margin_votes": 288,
+        "margin_percentage": 0.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "P.K. Chandla",
+          "party": "Bharatiya Janta Party",
+          "votes": 19761,
+          "votes_percentage": 47.7
+        },
+        {
+          "position": 2,
+          "name": "Shadi Ram",
+          "party": "Indian National Congress",
+          "votes": 19473,
+          "votes_percentage": 47.0
+        },
+        {
+          "position": 3,
+          "name": "Shyam Sunder Sobti",
+          "party": "Janta Party",
+          "votes": 1965,
+          "votes_percentage": 4.7
+        },
+        {
+          "position": 4,
+          "name": "J.L. Satyarthi",
+          "party": "Independent",
+          "votes": 217,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 54297,
+        "total_votes_polled": 32248,
+        "turnout_percentage": 59.4,
+        "margin_votes": 2539,
+        "margin_percentage": 7.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Brij Mohan Toofan",
+          "party": "Janta Party",
+          "votes": 15160,
+          "votes_percentage": 48.5
+        },
+        {
+          "position": 2,
+          "name": "Prem Sagar Gupta",
+          "party": "Communist Party Of India",
+          "votes": 12621,
+          "votes_percentage": 40.3
+        },
+        {
+          "position": 3,
+          "name": "Ghanshyam Sinha",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 2238,
+          "votes_percentage": 7.2
+        },
+        {
+          "position": 4,
+          "name": "Sodan Singh",
+          "party": "Independent",
+          "votes": 1079,
+          "votes_percentage": 3.5
+        },
+        {
+          "position": 5,
+          "name": "P.K. Chandla",
+          "party": "Independent",
+          "votes": 190,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

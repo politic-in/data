@@ -1,0 +1,803 @@
+{
+  "state": "Maharashtra",
+  "constituency": "ALIBAG",
+  "district": "Raigarh",
+  "ac_type": "GEN",
+  "results": {
+    "2024": {
+      "poll_date": "20 November 2024",
+      "counting_date": "23 November 2024",
+      "total_contestants": 14,
+      "aggregate": {
+        "total_electors": 306230,
+        "total_votes_polled": 236342,
+        "turnout_percentage": 77.7,
+        "margin_votes": 29565,
+        "margin_percentage": 12.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mahendra Hari Dalvi",
+          "party": "Shiv Sena",
+          "votes": 113599,
+          "votes_percentage": 47.7
+        },
+        {
+          "position": 2,
+          "name": "Chitralekha Nrupal Patil Alias Chiutai",
+          "party": "Peasants And Workers Party Of India",
+          "votes": 84034,
+          "votes_percentage": 35.3
+        },
+        {
+          "position": 3,
+          "name": "Dilip Vitthal Bhoir Alias Chotamshet",
+          "party": "Independent",
+          "votes": 33210,
+          "votes_percentage": 14.0
+        },
+        {
+          "position": 5,
+          "name": "Shrinivas Satyanarayan Mattparti",
+          "party": "Independent",
+          "votes": 1146,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Subhash Alias Pandit Patil",
+          "party": "Independent",
+          "votes": 1077,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Anil Baban Gaikwad",
+          "party": "Bahujan Samaj Party",
+          "votes": 730,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Anand Rangnath Naik",
+          "party": "Independent",
+          "votes": 666,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Ajay Shridhar Mhatre",
+          "party": "Independent",
+          "votes": 439,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Dilip Govind Bhoir",
+          "party": "Independent",
+          "votes": 410,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Mandar Eknath Gavand",
+          "party": "Independent",
+          "votes": 353,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Mahendra Dalvi",
+          "party": "Independent",
+          "votes": 195,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Mahendra Dalvi",
+          "party": "Independent",
+          "votes": 186,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Mahendra Dalvi",
+          "party": "Independent",
+          "votes": 156,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Amar Ravindra Funde",
+          "party": "Independent",
+          "votes": 141,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2019": {
+      "poll_date": "21 October 2019",
+      "counting_date": "24 October 2019",
+      "total_contestants": 13,
+      "aggregate": {
+        "total_electors": 292581,
+        "total_votes_polled": 212512,
+        "turnout_percentage": 73.4,
+        "margin_votes": 32924,
+        "margin_percentage": 15.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mahendra Hari Dalvi",
+          "party": "Shiv Sena",
+          "votes": 111946,
+          "votes_percentage": 52.7
+        },
+        {
+          "position": 2,
+          "name": "Subhash Alias Panditshet Patil",
+          "party": "Peasants And Workers Party Of India",
+          "votes": 79022,
+          "votes_percentage": 37.2
+        },
+        {
+          "position": 3,
+          "name": "Rajendra Madhukar Thakur Alias Rajabhau Thakur",
+          "party": "Independent",
+          "votes": 11891,
+          "votes_percentage": 5.6
+        },
+        {
+          "position": 4,
+          "name": "Ashraf Latif Ghatte",
+          "party": "Independent",
+          "votes": 2920,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 5,
+          "name": "Adv. Thakur Shraddha Mahesh",
+          "party": "Indian National Congress",
+          "votes": 2526,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 6,
+          "name": "Ravikant Ramchandra Perekar",
+          "party": "Vanchit Bahujan Aaghadi",
+          "votes": 1139,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Anil Baban Gaikwad",
+          "party": "Bahujan Samaj Party",
+          "votes": 756,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Chintaman Laxman Patil",
+          "party": "Independent",
+          "votes": 725,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Shrinivas Satyanarayan Mattaparti",
+          "party": "Independent",
+          "votes": 414,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Dinkar Ganpat Khariwle",
+          "party": "Independent",
+          "votes": 366,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Sandeep Bapu Sarang",
+          "party": "Lok Bharati",
+          "votes": 359,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Hemlata Ramnath Patil",
+          "party": "Prahar Janshakti Party",
+          "votes": 303,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Anand Ranganath Naik",
+          "party": "Independent",
+          "votes": 145,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "15 October 2014",
+      "counting_date": "19 October 2014",
+      "total_contestants": 15,
+      "aggregate": {
+        "total_electors": 276861,
+        "total_votes_polled": 202416,
+        "turnout_percentage": 73.7,
+        "total_valid_votes": 200721,
+        "total_valid_votes_percentage": 72.5,
+        "margin_votes": 16094,
+        "margin_percentage": 8.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Subhash Alias Panditshet Patil",
+          "party": "Peasants And Workers Party Of India",
+          "votes": 76959,
+          "votes_percentage": 38.0
+        },
+        {
+          "position": 2,
+          "name": "Dalvi Mahendra Hari",
+          "party": "Shiv Sena",
+          "votes": 60865,
+          "votes_percentage": 30.1
+        },
+        {
+          "position": 3,
+          "name": "Thakur Madhukar Shankar (PAPPA)",
+          "party": "Indian National Congress",
+          "votes": 45853,
+          "votes_percentage": 22.7
+        },
+        {
+          "position": 4,
+          "name": "Kathe Prakash Gopal",
+          "party": "Bharatiya Janta Party",
+          "votes": 6054,
+          "votes_percentage": 3.0
+        },
+        {
+          "position": 5,
+          "name": "Mahesh Harishchandra Mohite",
+          "party": "Nationalist Congress Party",
+          "votes": 3500,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 6,
+          "name": "Dalvi Mahendra Hari",
+          "party": "Janata Dal (United)",
+          "votes": 1219,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Chintaman Laxman Patil",
+          "party": "Independent",
+          "votes": 1107,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "Subhash  Patil",
+          "party": "Independent",
+          "votes": 1062,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 9,
+          "name": "Anil Baban Gaikwad",
+          "party": "Bahujan Samaj Party",
+          "votes": 956,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 10,
+          "name": "Sanjay Kashinath Patil",
+          "party": "Independent",
+          "votes": 759,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 11,
+          "name": "Pandit  Patil",
+          "party": "Independent",
+          "votes": 650,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 12,
+          "name": "Shriniwas Satyanarayan Mattparti",
+          "party": "Bahujan Vikas Aaghadi",
+          "votes": 528,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 13,
+          "name": "Thakur  Madhukar",
+          "party": "Independent",
+          "votes": 484,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 14,
+          "name": "Husanabibi Nainuddin Halade",
+          "party": "Independent",
+          "votes": 379,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 15,
+          "name": "Anand Ranganath Naik",
+          "party": "Independent",
+          "votes": 346,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "13 October 2009",
+      "counting_date": "22 October 2009",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 245991,
+        "total_votes_polled": 173783,
+        "turnout_percentage": 70.7,
+        "total_valid_votes": 173124,
+        "total_valid_votes_percentage": 70.4,
+        "margin_votes": 24148,
+        "margin_percentage": 13.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Meenakshi Prabhakarpatil",
+          "party": "Peasants And Workers Party Of India",
+          "votes": 93173,
+          "votes_percentage": 53.6
+        },
+        {
+          "position": 2,
+          "name": "Thakur Madhukarshankar",
+          "party": "Indian National Congress",
+          "votes": 69025,
+          "votes_percentage": 39.7
+        },
+        {
+          "position": 3,
+          "name": "Rajaram Narayan Patil",
+          "party": "Independent",
+          "votes": 2175,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 4,
+          "name": "Anil Baban Gaikwad",
+          "party": "Bahujan Samaj Party",
+          "votes": 1937,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Sanjay Kashinath Patil",
+          "party": "Independent",
+          "votes": 1683,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Minakshi Prabhakar Patil",
+          "party": "Independent",
+          "votes": 1608,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 7,
+          "name": "Halade Nainuddinjainuddin",
+          "party": "Jan Surajya Shakti",
+          "votes": 1384,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 8,
+          "name": "Subhash Janardan Patil",
+          "party": "Independent",
+          "votes": 1277,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 9,
+          "name": "Minakshi Patil",
+          "party": "Independent",
+          "votes": 810,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 10,
+          "name": "Meenakshi Pruthwirajpatil",
+          "party": "Independent",
+          "votes": 711,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "2004": {
+      "poll_date": "13 October 2004",
+      "counting_date": "16 October 2004",
+      "total_contestants": 14,
+      "aggregate": {
+        "total_electors": 212283,
+        "total_votes_polled": 152135,
+        "turnout_percentage": 71.7,
+        "margin_votes": 5867,
+        "margin_percentage": 3.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Thakur Madhukar Shankar",
+          "party": "Indian National Congress",
+          "votes": 65828,
+          "votes_percentage": 43.3
+        },
+        {
+          "position": 2,
+          "name": "Meenakshi Prabhakar Patil",
+          "party": "Peasants And Workers Party Of India",
+          "votes": 59961,
+          "votes_percentage": 39.4
+        },
+        {
+          "position": 3,
+          "name": "Naresh Datta Rahalkar",
+          "party": "Shiv Sena",
+          "votes": 12972,
+          "votes_percentage": 8.5
+        },
+        {
+          "position": 4,
+          "name": "Sarang Sainath Narayan",
+          "party": "Independent",
+          "votes": 3928,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 5,
+          "name": "Dhumal Santosh Maruti",
+          "party": "Akhil Bharatiya Sena",
+          "votes": 2803,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 6,
+          "name": "Meenakshi Patil",
+          "party": "Independent",
+          "votes": 1393,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 7,
+          "name": "Patil Minakshi Vishnu",
+          "party": "Independent",
+          "votes": 892,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "Meenakshi P. Patil",
+          "party": "Independent",
+          "votes": 866,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 9,
+          "name": "Palkar Surendra Janardan",
+          "party": "Bahujan Samaj Party",
+          "votes": 827,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 10,
+          "name": "Minakshi R. Patil",
+          "party": "Independent",
+          "votes": 661,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 11,
+          "name": "Minakshi Ajit Patil",
+          "party": "Independent",
+          "votes": 547,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 12,
+          "name": "Minakshi N.Patil",
+          "party": "Independent",
+          "votes": 538,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 13,
+          "name": "Madhukar Thakur",
+          "party": "Independent",
+          "votes": 529,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 14,
+          "name": "N. K. Basavayya",
+          "party": "Independent",
+          "votes": 350,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "1999": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 197501,
+        "total_votes_polled": 118776,
+        "turnout_percentage": 60.1,
+        "margin_votes": 17802,
+        "margin_percentage": 15.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Meenakshi Patil",
+          "party": "Peasants And Workers Party Of India",
+          "votes": 53459,
+          "votes_percentage": 47.7
+        },
+        {
+          "position": 2,
+          "name": "Madhu Thakur",
+          "party": "Indian National Congress",
+          "votes": 35657,
+          "votes_percentage": 31.8
+        },
+        {
+          "position": 3,
+          "name": "Mhatre Surendra Moreshwar",
+          "party": "Shiv Sena",
+          "votes": 21659,
+          "votes_percentage": 19.3
+        },
+        {
+          "position": 4,
+          "name": "Bhai Datta Patil",
+          "party": "Independent",
+          "votes": 1226,
+          "votes_percentage": 1.1
+        }
+      ]
+    },
+    "1995": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 187773,
+        "total_votes_polled": 140294,
+        "turnout_percentage": 74.7,
+        "margin_votes": 23189,
+        "margin_percentage": 16.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Meenakshi Patil",
+          "party": "Peasants & Workers Party",
+          "votes": 61569,
+          "votes_percentage": 45.0
+        },
+        {
+          "position": 2,
+          "name": "Kawale Vijay Namdev",
+          "party": "Indian National Congress",
+          "votes": 38380,
+          "votes_percentage": 28.1
+        },
+        {
+          "position": 3,
+          "name": "Parashant B. Patil",
+          "party": "Shiv Sena",
+          "votes": 26378,
+          "votes_percentage": 19.3
+        },
+        {
+          "position": 4,
+          "name": "Dawoor R. Kanuji",
+          "party": "Independent",
+          "votes": 5741,
+          "votes_percentage": 4.2
+        },
+        {
+          "position": 5,
+          "name": "Datta Patil",
+          "party": "Independent",
+          "votes": 2052,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 6,
+          "name": "Arvind W. Kalkarni",
+          "party": "Independent",
+          "votes": 1231,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 7,
+          "name": "Vijay Narayan Kawale",
+          "party": "Independent",
+          "votes": 536,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Patil Madhukar P.",
+          "party": "Samajwadi Janata Party (MAHARASHTRA)",
+          "votes": 432,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Koli Namadev D.",
+          "party": "Independent",
+          "votes": 404,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "1990": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 162875,
+        "total_votes_polled": 117278,
+        "turnout_percentage": 72.0,
+        "margin_votes": 15282,
+        "margin_percentage": 13.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Patil Dattatrey Narayan",
+          "party": "Peasants & Workers Party",
+          "votes": 58878,
+          "votes_percentage": 51.0
+        },
+        {
+          "position": 2,
+          "name": "Kawale Vijay Namdev",
+          "party": "Indian National Congress",
+          "votes": 43596,
+          "votes_percentage": 37.8
+        },
+        {
+          "position": 3,
+          "name": "Arjun Shantaram Patil",
+          "party": "Shiv Sena",
+          "votes": 12316,
+          "votes_percentage": 10.7
+        },
+        {
+          "position": 4,
+          "name": "Ukarade Arun Yashavantrao",
+          "party": "Independent",
+          "votes": 423,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 5,
+          "name": "Singh Ramadhar Gangaprasad",
+          "party": "Doordarshi Party",
+          "votes": 165,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1985": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 124173,
+        "total_votes_polled": 78359,
+        "turnout_percentage": 63.1,
+        "margin_votes": 32252,
+        "margin_percentage": 41.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Datta Patil",
+          "party": "Peasants & Workers Party",
+          "votes": 54368,
+          "votes_percentage": 71.1
+        },
+        {
+          "position": 2,
+          "name": "A. G. (Ravi) Patil",
+          "party": "Indian National Congress",
+          "votes": 22116,
+          "votes_percentage": 28.9
+        }
+      ]
+    },
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 109367,
+        "total_votes_polled": 62593,
+        "turnout_percentage": 57.2,
+        "margin_votes": 21568,
+        "margin_percentage": 34.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Patil Dattatrey Narayan",
+          "party": "Peasants & Workers Party",
+          "votes": 41191,
+          "votes_percentage": 67.7
+        },
+        {
+          "position": 2,
+          "name": "Bhagat Narayan Kanhoba",
+          "party": "Indian National Congress (I)",
+          "votes": 19623,
+          "votes_percentage": 32.3
+        }
+      ]
+    },
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 103524,
+        "total_votes_polled": 74779,
+        "turnout_percentage": 72.2,
+        "margin_votes": 13235,
+        "margin_percentage": 17.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Datta Patil",
+          "party": "Peasants & Workers Party",
+          "votes": 34958,
+          "votes_percentage": 48.2
+        },
+        {
+          "position": 2,
+          "name": "Khanvilkar Datajirao Krishnanarao",
+          "party": "Indian National Congress",
+          "votes": 21723,
+          "votes_percentage": 30.0
+        },
+        {
+          "position": 3,
+          "name": "Patil Madhukar Posu",
+          "party": "Janta Party",
+          "votes": 15811,
+          "votes_percentage": 21.8
+        }
+      ]
+    }
+  }
+}

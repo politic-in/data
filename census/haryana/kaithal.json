@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 63139,
+        "male": 76254,
+        "percentage_of_total_population": 12.98,
+        "percentage_of_total_population_calculated": 12.98,
+        "percentage_of_total_population_stated": 12.98,
+        "sex_ratio": 828,
+        "total": 139393
+    },
+    "literacy": {
+        "female_literacy_rate": 59.24,
+        "female_literate": 260747,
+        "male_literacy_rate": 77.98,
+        "male_literate": 385782,
+        "rate_percentage": 69.15,
+        "total_literate": 646529
+    },
+    "population": {
+        "female": 503301,
+        "male": 571003,
+        "sex_ratio": 881,
+        "total": 1074304
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 265
+        },
+        "Christian": {
+            "percentage": 0.16,
+            "population": 1769
+        },
+        "Hindu": {
+            "percentage": 90.71,
+            "population": 974520
+        },
+        "Jain": {
+            "percentage": 0.03,
+            "population": 351
+        },
+        "Muslims": {
+            "percentage": 0.77,
+            "population": 8232
+        },
+        "Not Stated": {
+            "percentage": 0.14,
+            "population": 1539
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 70
+        },
+        "Sikh": {
+            "percentage": 8.15,
+            "population": 87558
+        }
+    },
+    "rural": {
+        "child_population_female": 50074,
+        "child_population_male": 60425,
+        "child_population_percentage": 13.18,
+        "child_population_percentage_calculated": 13.18,
+        "child_population_percentage_stated": 13.18,
+        "child_population_total": 110499,
+        "child_sex_ratio": 829,
+        "female": 392362,
+        "literacy_rate_female": 56.14,
+        "literacy_rate_male": 76.02,
+        "literacy_rate_percentage": 66.67,
+        "literate_female": 192157,
+        "literate_male": 293066,
+        "literate_total": 485223,
+        "male": 445931,
+        "percentage_population": 78.03,
+        "population": 838293,
+        "sex_ratio": 880
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/212-kaithal.html",
+    "urban": {
+        "child_population_female": 13061,
+        "child_population_male": 15833,
+        "child_population_percentage": 12.24,
+        "child_population_percentage_calculated": 12.24,
+        "child_population_percentage_stated": 12.24,
+        "child_population_total": 28894,
+        "child_sex_ratio": 825,
+        "female": 110939,
+        "literacy_rate_female": 70.08,
+        "literacy_rate_male": 84.87,
+        "literacy_rate_percentage": 77.88,
+        "literate_female": 68590,
+        "literate_male": 92716,
+        "literate_total": 161306,
+        "male": 125072,
+        "percentage_population": 21.97,
+        "population": 236011,
+        "sex_ratio": 887
+    }
+}

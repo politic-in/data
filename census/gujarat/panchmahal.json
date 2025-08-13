@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 174297,
+        "male": 187014,
+        "percentage_of_total_population": 15.11,
+        "percentage_of_total_population_calculated": 15.11,
+        "percentage_of_total_population_stated": 15.11,
+        "sex_ratio": 932,
+        "total": 361311
+    },
+    "literacy": {
+        "female_literacy_rate": 58.89,
+        "female_literate": 582751,
+        "male_literacy_rate": 82.51,
+        "male_literate": 858054,
+        "rate_percentage": 70.99,
+        "total_literate": 1440805
+    },
+    "population": {
+        "female": 1163815,
+        "male": 1226961,
+        "sex_ratio": 949,
+        "total": 2390776
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 337
+        },
+        "Christian": {
+            "percentage": 0.12,
+            "population": 2863
+        },
+        "Hindu": {
+            "percentage": 92.9,
+            "population": 2220974
+        },
+        "Jain": {
+            "percentage": 0.22,
+            "population": 5236
+        },
+        "Muslims": {
+            "percentage": 6.63,
+            "population": 158513
+        },
+        "Not Stated": {
+            "percentage": 0.09,
+            "population": 2060
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 131
+        },
+        "Sikh": {
+            "percentage": 0.03,
+            "population": 662
+        }
+    },
+    "rural": {
+        "child_population_female": 154090,
+        "child_population_male": 164339,
+        "child_population_percentage": 15.49,
+        "child_population_percentage_calculated": 15.49,
+        "child_population_percentage_stated": 15.49,
+        "child_population_total": 318429,
+        "child_sex_ratio": 938,
+        "female": 1002573,
+        "literacy_rate_female": 55.24,
+        "literacy_rate_male": 80.89,
+        "literacy_rate_percentage": 68.36,
+        "literate_female": 468706,
+        "literate_male": 719128,
+        "literate_total": 1187834,
+        "male": 1053376,
+        "percentage_population": 86.0,
+        "population": 2055949,
+        "sex_ratio": 952
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/198-panchmahal.html",
+    "urban": {
+        "child_population_female": 20223,
+        "child_population_male": 22659,
+        "child_population_percentage": 12.81,
+        "child_population_percentage_calculated": 12.81,
+        "child_population_percentage_stated": 12.81,
+        "child_population_total": 42882,
+        "child_sex_ratio": 892,
+        "female": 161242,
+        "literacy_rate_female": 80.87,
+        "literacy_rate_male": 92.05,
+        "literacy_rate_percentage": 86.65,
+        "literate_female": 114045,
+        "literate_male": 138926,
+        "literate_total": 252971,
+        "male": 173585,
+        "percentage_population": 14.0,
+        "population": 334827,
+        "sex_ratio": 929
+    }
+}

@@ -1,0 +1,71 @@
+{
+  "state": "Chhattisgarh",
+  "constituency": "Pallari",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "2003": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 147750,
+        "total_votes_polled": 105863,
+        "turnout_percentage": 71.7,
+        "margin_votes": 2702,
+        "margin_percentage": 2.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr. Shiv Kumar Dahria",
+          "party": "Indian National Congress",
+          "votes": 40814,
+          "votes_percentage": 38.6
+        },
+        {
+          "position": 2,
+          "name": "Durga Prasad Maheshwar",
+          "party": "Bharatiya Janta Party",
+          "votes": 38112,
+          "votes_percentage": 36.0
+        },
+        {
+          "position": 3,
+          "name": "Smt. Gita Gritlahre",
+          "party": "Bahujan Samaj Party",
+          "votes": 13740,
+          "votes_percentage": 13.0
+        },
+        {
+          "position": 4,
+          "name": "Bhisan Gurupanch",
+          "party": "Nationalist Congress Party",
+          "votes": 6440,
+          "votes_percentage": 6.1
+        },
+        {
+          "position": 5,
+          "name": "Mohan Lal Ratnakar",
+          "party": "Independent",
+          "votes": 3056,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 6,
+          "name": "Anand Kumar Bandhe",
+          "party": "Apna Dal",
+          "votes": 2004,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 7,
+          "name": "Dilip Kumar Banjare",
+          "party": "Chhattisgarhi Samaj Party",
+          "votes": 1697,
+          "votes_percentage": 1.6
+        }
+      ]
+    }
+  }
+}

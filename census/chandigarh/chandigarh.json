@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 55905,
+        "male": 63529,
+        "percentage_of_total_population": 11.32,
+        "percentage_of_total_population_calculated": 11.32,
+        "percentage_of_total_population_stated": 11.32,
+        "sex_ratio": 880,
+        "total": 119434
+    },
+    "literacy": {
+        "female_literacy_rate": 81.19,
+        "female_literate": 340092,
+        "male_literacy_rate": 89.99,
+        "male_literate": 465346,
+        "rate_percentage": 86.05,
+        "total_literate": 805438
+    },
+    "population": {
+        "female": 474787,
+        "male": 580663,
+        "sex_ratio": 818,
+        "total": 1055450
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.11,
+            "population": 1160
+        },
+        "Christian": {
+            "percentage": 0.83,
+            "population": 8720
+        },
+        "Hindu": {
+            "percentage": 80.78,
+            "population": 852574
+        },
+        "Jain": {
+            "percentage": 0.19,
+            "population": 1960
+        },
+        "Muslims": {
+            "percentage": 4.87,
+            "population": 51447
+        },
+        "Not Stated": {
+            "percentage": 0.1,
+            "population": 1014
+        },
+        "Others": {
+            "percentage": 0.02,
+            "population": 246
+        },
+        "Sikh": {
+            "percentage": 13.11,
+            "population": 138329
+        }
+    },
+    "rural": {
+        "child_population_female": 1988,
+        "child_population_male": 2282,
+        "child_population_percentage": 14.73,
+        "child_population_percentage_calculated": 14.73,
+        "child_population_percentage_stated": 14.73,
+        "child_population_total": 4270,
+        "child_sex_ratio": 871,
+        "female": 11841,
+        "literacy_rate_female": 73.17,
+        "literacy_rate_male": 85.77,
+        "literacy_rate_percentage": 80.75,
+        "literate_female": 7209,
+        "literate_male": 12752,
+        "literate_total": 19961,
+        "male": 17150,
+        "percentage_population": 2.75,
+        "population": 28991,
+        "sex_ratio": 690
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/117-chandigarh.html",
+    "urban": {
+        "child_population_female": 53910,
+        "child_population_male": 61254,
+        "child_population_percentage": 11.22,
+        "child_population_percentage_calculated": 11.22,
+        "child_population_percentage_stated": 11.22,
+        "child_population_total": 115164,
+        "child_sex_ratio": 880,
+        "female": 462946,
+        "literacy_rate_female": 81.38,
+        "literacy_rate_male": 90.11,
+        "literacy_rate_percentage": 86.19,
+        "literate_female": 332883,
+        "literate_male": 452594,
+        "literate_total": 785477,
+        "male": 563513,
+        "percentage_population": 97.25,
+        "population": 1026459,
+        "sex_ratio": 822
+    }
+}

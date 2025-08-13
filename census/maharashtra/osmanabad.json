@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 96172,
+        "male": 110924,
+        "percentage_of_total_population": 12.49,
+        "percentage_of_total_population_calculated": 12.49,
+        "percentage_of_total_population_stated": 12.49,
+        "sex_ratio": 867,
+        "total": 207096
+    },
+    "literacy": {
+        "female_literacy_rate": 70.51,
+        "female_literate": 493506,
+        "male_literacy_rate": 85.84,
+        "male_literate": 644304,
+        "rate_percentage": 78.44,
+        "total_literate": 1137810
+    },
+    "population": {
+        "female": 796041,
+        "male": 861535,
+        "sex_ratio": 924,
+        "total": 1657576
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 4.35,
+            "population": 134257
+        },
+        "Christian": {
+            "percentage": 2.74,
+            "population": 84555
+        },
+        "Hindu": {
+            "percentage": 60.73,
+            "population": 1873762
+        },
+        "Jain": {
+            "percentage": 5.38,
+            "population": 166000
+        },
+        "Muslims": {
+            "percentage": 25.06,
+            "population": 773173
+        },
+        "Not Stated": {
+            "percentage": 0.29,
+            "population": 9099
+        },
+        "Others": {
+            "percentage": 1.01,
+            "population": 31094
+        },
+        "Sikh": {
+            "percentage": 0.44,
+            "population": 13471
+        }
+    },
+    "rural": {
+        "child_population_female": 79647,
+        "child_population_male": 91913,
+        "child_population_percentage": 12.46,
+        "child_population_percentage_calculated": 12.46,
+        "child_population_percentage_stated": 12.46,
+        "child_population_total": 171560,
+        "child_sex_ratio": 867,
+        "female": 660282,
+        "literacy_rate_female": 68.42,
+        "literacy_rate_male": 84.69,
+        "literacy_rate_percentage": 76.85,
+        "literate_female": 397279,
+        "literate_male": 528743,
+        "literate_total": 926022,
+        "male": 716237,
+        "percentage_population": 83.04,
+        "population": 1376519,
+        "sex_ratio": 922
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/363-osmanabad.html",
+    "urban": {
+        "child_population_female": 16530,
+        "child_population_male": 19006,
+        "child_population_percentage": 12.64,
+        "child_population_percentage_calculated": 12.64,
+        "child_population_percentage_stated": 12.64,
+        "child_population_total": 35536,
+        "child_sex_ratio": 870,
+        "female": 135759,
+        "literacy_rate_female": 80.71,
+        "literacy_rate_male": 91.5,
+        "literacy_rate_percentage": 86.26,
+        "literate_female": 96227,
+        "literate_male": 115561,
+        "literate_total": 211788,
+        "male": 145298,
+        "percentage_population": 16.96,
+        "population": 281057,
+        "sex_ratio": 934
+    }
+}

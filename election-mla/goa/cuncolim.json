@@ -1,0 +1,654 @@
+{
+  "state": "Goa",
+  "constituency": "Cuncolim",
+  "district": "South Goa",
+  "ac_type": "GEN",
+  "results": {
+    "2022": {
+      "poll_date": "14 February 2022",
+      "counting_date": "10 March 2022",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 29522,
+        "total_votes_polled": 22917,
+        "turnout_percentage": 78.3,
+        "margin_votes": 3234,
+        "margin_percentage": 14.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Alemao Yuri",
+          "party": "Indian National Congress",
+          "votes": 9866,
+          "votes_percentage": 43.1
+        },
+        {
+          "position": 2,
+          "name": "Clafasio Dias",
+          "party": "Bharatiya Janta Party",
+          "votes": 6632,
+          "votes_percentage": 28.9
+        },
+        {
+          "position": 3,
+          "name": "Wilson Peter Cardozo",
+          "party": "Revolutionary Goans Party",
+          "votes": 2430,
+          "votes_percentage": 10.6
+        },
+        {
+          "position": 4,
+          "name": "Santosh S. Fal Dessai",
+          "party": "Independent",
+          "votes": 1326,
+          "votes_percentage": 5.8
+        },
+        {
+          "position": 5,
+          "name": "Jorson Piedade Fernandes",
+          "party": "All India Trinamool Congress",
+          "votes": 1282,
+          "votes_percentage": 5.6
+        },
+        {
+          "position": 6,
+          "name": "Prashant Naik",
+          "party": "Aam Aadmi Party",
+          "votes": 906,
+          "votes_percentage": 4.0
+        },
+        {
+          "position": 7,
+          "name": "Sudesh Vinayak Bhise",
+          "party": "Independent",
+          "votes": 312,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 8,
+          "name": "Milagres Gonsalves",
+          "party": "Independent",
+          "votes": 80,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Derick Dias",
+          "party": "Independent",
+          "votes": 50,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Raymond D'cruz",
+          "party": "Independent",
+          "votes": 33,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2017": {
+      "poll_date": "04 February 2017",
+      "counting_date": "11 March 2017",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 29067,
+        "total_votes_polled": 22193,
+        "turnout_percentage": 148.2,
+        "margin_votes": 33,
+        "margin_percentage": 0.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Clafasio Dias",
+          "party": "Indian National Congress",
+          "votes": 6415,
+          "votes_percentage": 28.6
+        },
+        {
+          "position": 2,
+          "name": "Joaquim Alemao",
+          "party": "Independent",
+          "votes": 6382,
+          "votes_percentage": 28.4
+        },
+        {
+          "position": 3,
+          "name": "Subhash Alias Rajan K. Naik",
+          "party": "Bharatiya Janta Party",
+          "votes": 5047,
+          "votes_percentage": 22.5
+        },
+        {
+          "position": 4,
+          "name": "Elvis Gomes",
+          "party": "Aam Aadmi Party",
+          "votes": 3437,
+          "votes_percentage": 15.3
+        },
+        {
+          "position": 5,
+          "name": "John Inacio Monteiro",
+          "party": "Goa Vikas Party",
+          "votes": 488,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 6,
+          "name": "Devendra Dessai",
+          "party": "Shiv Sena",
+          "votes": 313,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 7,
+          "name": "Derick Dias",
+          "party": "Independent",
+          "votes": 111,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "2012": {
+      "poll_date": "03 March 2012",
+      "counting_date": "06 March 2012",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 26764,
+        "total_votes_polled": 20740,
+        "turnout_percentage": 77.5,
+        "total_valid_votes": 20535,
+        "total_valid_votes_percentage": 76.7,
+        "margin_votes": 1313,
+        "margin_percentage": 6.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Subhash Alias Rajan",
+          "party": "Bharatiya Janta Party",
+          "votes": 7738,
+          "votes_percentage": 37.3
+        },
+        {
+          "position": 2,
+          "name": "Alemao Joaquim",
+          "party": "Indian National Congress",
+          "votes": 6425,
+          "votes_percentage": 31.0
+        },
+        {
+          "position": 3,
+          "name": "John Inacio Monteiro",
+          "party": "Independent",
+          "votes": 4830,
+          "votes_percentage": 23.3
+        },
+        {
+          "position": 4,
+          "name": "Milagres Gonsalves",
+          "party": "Independent",
+          "votes": 603,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 5,
+          "name": "Jose Alias Brany Fernandes",
+          "party": "United Goans Democratic Party",
+          "votes": 543,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 6,
+          "name": "Mario Morais",
+          "party": "All India Trinamool Congress",
+          "votes": 325,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 7,
+          "name": "Rony Rodrigues",
+          "party": "Independent",
+          "votes": 191,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 8,
+          "name": "Derick Dias",
+          "party": "Janata Dal (United)",
+          "votes": 85,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "2007": {
+      "poll_date": "02 June 2007",
+      "counting_date": "05 June 2007",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 24150,
+        "total_votes_polled": 15229,
+        "turnout_percentage": 63.1,
+        "margin_votes": 5501,
+        "margin_percentage": 36.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Alemao Joaquim",
+          "party": "Indian National Congress",
+          "votes": 8909,
+          "votes_percentage": 58.6
+        },
+        {
+          "position": 2,
+          "name": "Fernandes Jorson Piedade",
+          "party": "United Goans Democratic Party",
+          "votes": 3408,
+          "votes_percentage": 22.4
+        },
+        {
+          "position": 3,
+          "name": "Gonsalves Milagres Methew",
+          "party": "Bharatiya Janta Party",
+          "votes": 1832,
+          "votes_percentage": 12.1
+        },
+        {
+          "position": 4,
+          "name": "Rodrigues John J.",
+          "party": "Independent",
+          "votes": 758,
+          "votes_percentage": 5.0
+        },
+        {
+          "position": 5,
+          "name": "Jerry Fernandes",
+          "party": "Independent",
+          "votes": 292,
+          "votes_percentage": 1.9
+        }
+      ]
+    },
+    "2002": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 23136,
+        "total_votes_polled": 14450,
+        "turnout_percentage": 62.5,
+        "margin_votes": 2388,
+        "margin_percentage": 16.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Alemao Joaquim Braz",
+          "party": "Indian National Congress",
+          "votes": 6426,
+          "votes_percentage": 44.5
+        },
+        {
+          "position": 2,
+          "name": "D'souza  Arecio Agapito",
+          "party": "Nationalist Congress Party",
+          "votes": 4038,
+          "votes_percentage": 28.0
+        },
+        {
+          "position": 3,
+          "name": "Julio D'silva",
+          "party": "Bharatiya Janta Party",
+          "votes": 2881,
+          "votes_percentage": 19.9
+        },
+        {
+          "position": 4,
+          "name": "Naik Laxman Ganesh",
+          "party": "Independent",
+          "votes": 703,
+          "votes_percentage": 4.9
+        },
+        {
+          "position": 5,
+          "name": "Cardozo Filipinho Bill",
+          "party": "United Goans Democratic Party",
+          "votes": 217,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 6,
+          "name": "Judas Fernandes",
+          "party": "Independent",
+          "votes": 181,
+          "votes_percentage": 1.3
+        }
+      ]
+    },
+    "1999": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 22022,
+        "total_votes_polled": 12486,
+        "turnout_percentage": 56.7,
+        "margin_votes": 2214,
+        "margin_percentage": 17.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Arecio Agapito D Souza",
+          "party": "Indian National Congress",
+          "votes": 5481,
+          "votes_percentage": 43.9
+        },
+        {
+          "position": 2,
+          "name": "D Silva Julio Teodomiro",
+          "party": "Bharatiya Janta Party",
+          "votes": 3267,
+          "votes_percentage": 26.2
+        },
+        {
+          "position": 3,
+          "name": "Coutinho Ronulfo Lawrence Soude Alias Coutinho Ranulfo",
+          "party": "Goa Rajiv Congress Party",
+          "votes": 1398,
+          "votes_percentage": 11.2
+        },
+        {
+          "position": 4,
+          "name": "Ramesh Uttam Desai",
+          "party": "United Goans Democratic Party",
+          "votes": 873,
+          "votes_percentage": 7.0
+        },
+        {
+          "position": 5,
+          "name": "Cardozo Fillipinho Bill John",
+          "party": "Independent",
+          "votes": 842,
+          "votes_percentage": 6.8
+        },
+        {
+          "position": 6,
+          "name": "Desai Ulhas Bhiku",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 615,
+          "votes_percentage": 4.9
+        }
+      ]
+    },
+    "1994": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 20032,
+        "total_votes_polled": 13492,
+        "turnout_percentage": 67.4,
+        "margin_votes": 2385,
+        "margin_percentage": 17.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "D'souza Arecio Agapito",
+          "party": "United Goans Democratic Party",
+          "votes": 5294,
+          "votes_percentage": 39.7
+        },
+        {
+          "position": 2,
+          "name": "Shantaram Laxman Naik",
+          "party": "Indian National Congress",
+          "votes": 2909,
+          "votes_percentage": 21.8
+        },
+        {
+          "position": 3,
+          "name": "Mascarenhas Joseph Miguel",
+          "party": "Independent",
+          "votes": 2362,
+          "votes_percentage": 17.7
+        },
+        {
+          "position": 4,
+          "name": "Dessai Shabu Babani",
+          "party": "Bharatiya Janta Party",
+          "votes": 1620,
+          "votes_percentage": 12.2
+        },
+        {
+          "position": 5,
+          "name": "Bill Cardozo",
+          "party": "Independent",
+          "votes": 911,
+          "votes_percentage": 6.8
+        },
+        {
+          "position": 6,
+          "name": "Cavarlho Santano Francisco",
+          "party": "Bahujan Samaj Party",
+          "votes": 88,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Desai Uttam Dattaram",
+          "party": "Independent",
+          "votes": 56,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Dual Dessai Bhikan Molu",
+          "party": "Independent",
+          "votes": 56,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Antonio Filosio Germano Fernandes",
+          "party": "Independent",
+          "votes": 36,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "1989": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 19089,
+        "total_votes_polled": 13009,
+        "turnout_percentage": 68.2,
+        "margin_votes": 1051,
+        "margin_percentage": 8.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Fernandes Manuel Gregorio",
+          "party": "Indian National Congress",
+          "votes": 4243,
+          "votes_percentage": 33.1
+        },
+        {
+          "position": 2,
+          "name": "Dessai Shebu Babali",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 3192,
+          "votes_percentage": 24.9
+        },
+        {
+          "position": 3,
+          "name": "Mascarenhas Joseph Mingui",
+          "party": "Independent",
+          "votes": 2398,
+          "votes_percentage": 18.7
+        },
+        {
+          "position": 4,
+          "name": "D'souza Arecio Agapito",
+          "party": "Independent",
+          "votes": 2338,
+          "votes_percentage": 18.2
+        },
+        {
+          "position": 5,
+          "name": "Velvatkar Prakash Ramnath",
+          "party": "Independent",
+          "votes": 550,
+          "votes_percentage": 4.3
+        },
+        {
+          "position": 6,
+          "name": "Dessai Yeshwant Fecho",
+          "party": "Independent",
+          "votes": 44,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "Fernandes Miltom Piedade",
+          "party": "Independent",
+          "votes": 29,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "Dessai Ramesh Uttam",
+          "party": "Janata Dal",
+          "votes": 24,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "1984": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 20165,
+        "total_votes_polled": 12948,
+        "turnout_percentage": 64.2,
+        "margin_votes": 2642,
+        "margin_percentage": 20.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Fernandes Manu",
+          "party": "Indian National Congress",
+          "votes": 5535,
+          "votes_percentage": 43.9
+        },
+        {
+          "position": 2,
+          "name": "Naique Dessai Motilal Rogunata",
+          "party": "Independent",
+          "votes": 2893,
+          "votes_percentage": 23.0
+        },
+        {
+          "position": 3,
+          "name": "Rebelo Ferndino Assis",
+          "party": "Janta Party",
+          "votes": 2057,
+          "votes_percentage": 16.3
+        },
+        {
+          "position": 4,
+          "name": "Silva Marcus Sebastiao",
+          "party": "Independent",
+          "votes": 1176,
+          "votes_percentage": 9.3
+        },
+        {
+          "position": 5,
+          "name": "Dessai Dattaram Dev",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 792,
+          "votes_percentage": 6.3
+        },
+        {
+          "position": 6,
+          "name": "Dessa Satish",
+          "party": "Independent",
+          "votes": 145,
+          "votes_percentage": 1.2
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 18605,
+        "total_votes_polled": 10578,
+        "turnout_percentage": 56.9,
+        "margin_votes": 40,
+        "margin_percentage": 0.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rebello Ferdino Assiz",
+          "party": "Janta Party",
+          "votes": 3321,
+          "votes_percentage": 31.8
+        },
+        {
+          "position": 2,
+          "name": "Roque Santana Fernandes",
+          "party": "Indian National Congress",
+          "votes": 3281,
+          "votes_percentage": 31.4
+        },
+        {
+          "position": 3,
+          "name": "Dessai Shabu Babani",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 2643,
+          "votes_percentage": 25.3
+        },
+        {
+          "position": 4,
+          "name": "Sanvardekar Upendra Narencinva",
+          "party": "Independent",
+          "votes": 500,
+          "votes_percentage": 4.8
+        },
+        {
+          "position": 5,
+          "name": "Dessai Soda Shambu",
+          "party": "Independent",
+          "votes": 378,
+          "votes_percentage": 3.6
+        },
+        {
+          "position": 6,
+          "name": "Fernandes Hilario Roque",
+          "party": "Independent",
+          "votes": 300,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 7,
+          "name": "Souza Fatiano Caetano",
+          "party": "Independent",
+          "votes": 18,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

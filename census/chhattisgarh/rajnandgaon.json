@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 104049,
+        "male": 105526,
+        "percentage_of_total_population": 13.63,
+        "percentage_of_total_population_calculated": 13.63,
+        "percentage_of_total_population_stated": 13.63,
+        "sex_ratio": 986,
+        "total": 209575
+    },
+    "literacy": {
+        "female_literacy_rate": 66.7,
+        "female_literate": 447024,
+        "male_literacy_rate": 85.4,
+        "male_literate": 561355,
+        "rate_percentage": 75.96,
+        "total_literate": 1008379
+    },
+    "population": {
+        "female": 774278,
+        "male": 762855,
+        "sex_ratio": 1015,
+        "total": 1537133
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 1.86,
+            "population": 28541
+        },
+        "Christian": {
+            "percentage": 0.34,
+            "population": 5193
+        },
+        "Hindu": {
+            "percentage": 91.06,
+            "population": 1399658
+        },
+        "Jain": {
+            "percentage": 0.53,
+            "population": 8187
+        },
+        "Muslims": {
+            "percentage": 1.54,
+            "population": 23648
+        },
+        "Not Stated": {
+            "percentage": 0.05,
+            "population": 701
+        },
+        "Others": {
+            "percentage": 4.39,
+            "population": 67444
+        },
+        "Sikh": {
+            "percentage": 0.24,
+            "population": 3761
+        }
+    },
+    "rural": {
+        "child_population_female": 88461,
+        "child_population_male": 89103,
+        "child_population_percentage": 14.04,
+        "child_population_percentage_calculated": 14.04,
+        "child_population_percentage_stated": 14.04,
+        "child_population_total": 177564,
+        "child_sex_ratio": 993,
+        "female": 638409,
+        "literacy_rate_female": 63.95,
+        "literacy_rate_male": 84.01,
+        "literacy_rate_percentage": 73.86,
+        "literate_female": 351702,
+        "literate_male": 451224,
+        "literate_total": 802926,
+        "male": 626212,
+        "percentage_population": 82.27,
+        "population": 1264621,
+        "sex_ratio": 1019
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/493-rajnandgaon.html",
+    "urban": {
+        "child_population_female": 15606,
+        "child_population_male": 16405,
+        "child_population_percentage": 11.75,
+        "child_population_percentage_calculated": 11.75,
+        "child_population_percentage_stated": 11.75,
+        "child_population_total": 32011,
+        "child_sex_ratio": 951,
+        "female": 135869,
+        "literacy_rate_female": 79.26,
+        "literacy_rate_male": 91.59,
+        "literacy_rate_percentage": 85.43,
+        "literate_female": 95322,
+        "literate_male": 110131,
+        "literate_total": 205453,
+        "male": 136643,
+        "percentage_population": 17.73,
+        "population": 272512,
+        "sex_ratio": 994
+    }
+}

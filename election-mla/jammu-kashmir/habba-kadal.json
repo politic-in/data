@@ -1,0 +1,101 @@
+{
+  "state": "Jammu & Kashmir",
+  "constituency": "Habba kadal",
+  "district": "Srinagar",
+  "ac_type": "GEN",
+  "results": {
+    "2014": {
+      "poll_date": "20 December 2014",
+      "counting_date": "24 December 2014",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 54852,
+        "total_votes_polled": 11686,
+        "turnout_percentage": 21.3,
+        "total_valid_votes": 11568,
+        "total_valid_votes_percentage": 21.1,
+        "margin_votes": 2359,
+        "margin_percentage": 20.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shamim Firdous",
+          "party": "Jammu & Kashmir National Conference",
+          "votes": 4955,
+          "votes_percentage": 42.4
+        },
+        {
+          "position": 2,
+          "name": "Moti Koul",
+          "party": "Bharatiya Janta Party",
+          "votes": 2596,
+          "votes_percentage": 22.2
+        },
+        {
+          "position": 3,
+          "name": "Zafar Meraj",
+          "party": "Jammu & Kashmir Peoples Democratic Party",
+          "votes": 992,
+          "votes_percentage": 8.5
+        },
+        {
+          "position": 4,
+          "name": "Raman Mattoo",
+          "party": "Indian National Congress",
+          "votes": 973,
+          "votes_percentage": 8.3
+        },
+        {
+          "position": 5,
+          "name": "Sanjay Saraf",
+          "party": "Lok Jan Shakti Party",
+          "votes": 830,
+          "votes_percentage": 7.1
+        },
+        {
+          "position": 6,
+          "name": "Waseem Ahmed Shalla",
+          "party": "Independent",
+          "votes": 508,
+          "votes_percentage": 4.4
+        },
+        {
+          "position": 7,
+          "name": "Nazir Ahmad Gilkar",
+          "party": "Independent",
+          "votes": 261,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 8,
+          "name": "Bilal Ahmad Parra",
+          "party": "Independent",
+          "votes": 211,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 9,
+          "name": "Mohd Muneeb Bhat",
+          "party": "Independent",
+          "votes": 158,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 10,
+          "name": "Parviaz Ah Bhat",
+          "party": "Independent",
+          "votes": 48,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 11,
+          "name": "Zahid Bashir",
+          "party": "Nationalist Congress Party",
+          "votes": 36,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

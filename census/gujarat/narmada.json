@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 37874,
+        "male": 40249,
+        "percentage_of_total_population": 13.23,
+        "percentage_of_total_population_calculated": 13.23,
+        "percentage_of_total_population_stated": 13.23,
+        "sex_ratio": 941,
+        "total": 78123
+    },
+    "literacy": {
+        "female_literacy_rate": 63.09,
+        "female_literate": 158569,
+        "male_literacy_rate": 81.19,
+        "male_literate": 211767,
+        "rate_percentage": 72.31,
+        "total_literate": 370336
+    },
+    "population": {
+        "female": 289211,
+        "male": 301086,
+        "sex_ratio": 961,
+        "total": 590297
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 80
+        },
+        "Christian": {
+            "percentage": 0.75,
+            "population": 4413
+        },
+        "Hindu": {
+            "percentage": 94.84,
+            "population": 559848
+        },
+        "Jain": {
+            "percentage": 0.06,
+            "population": 373
+        },
+        "Muslims": {
+            "percentage": 3.83,
+            "population": 22600
+        },
+        "Not Stated": {
+            "percentage": 0.13,
+            "population": 758
+        },
+        "Others": {
+            "percentage": 0.35,
+            "population": 2078
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 147
+        }
+    },
+    "rural": {
+        "child_population_female": 34931,
+        "child_population_male": 36946,
+        "child_population_percentage": 13.6,
+        "child_population_percentage_calculated": 13.6,
+        "child_population_percentage_stated": 13.6,
+        "child_population_total": 71877,
+        "child_sex_ratio": 945,
+        "female": 259017,
+        "literacy_rate_female": 60.74,
+        "literacy_rate_male": 79.83,
+        "literacy_rate_percentage": 70.46,
+        "literate_female": 136111,
+        "literate_male": 185566,
+        "literate_total": 321677,
+        "male": 269408,
+        "percentage_population": 89.52,
+        "population": 528425,
+        "sex_ratio": 961
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/201-narmada.html",
+    "urban": {
+        "child_population_female": 2942,
+        "child_population_male": 3304,
+        "child_population_percentage": 10.1,
+        "child_population_percentage_calculated": 10.1,
+        "child_population_percentage_stated": 10.1,
+        "child_population_total": 6246,
+        "child_sex_ratio": 890,
+        "female": 30194,
+        "literacy_rate_female": 82.41,
+        "literacy_rate_male": 92.34,
+        "literacy_rate_percentage": 87.48,
+        "literate_female": 22458,
+        "literate_male": 26201,
+        "literate_total": 48659,
+        "male": 31678,
+        "percentage_population": 10.48,
+        "population": 61872,
+        "sex_ratio": 953
+    }
+}

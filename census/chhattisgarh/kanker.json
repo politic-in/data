@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 49493,
+        "male": 50606,
+        "percentage_of_total_population": 13.37,
+        "percentage_of_total_population_calculated": 13.37,
+        "percentage_of_total_population_stated": 13.37,
+        "sex_ratio": 978,
+        "total": 100099
+    },
+    "literacy": {
+        "female_literacy_rate": 60.64,
+        "female_literate": 197744,
+        "male_literacy_rate": 80.03,
+        "male_literate": 258298,
+        "rate_percentage": 70.29,
+        "total_literate": 456042
+    },
+    "population": {
+        "female": 375603,
+        "male": 373338,
+        "sex_ratio": 1006,
+        "total": 748941
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.3,
+            "population": 2213
+        },
+        "Christian": {
+            "percentage": 0.54,
+            "population": 4007
+        },
+        "Hindu": {
+            "percentage": 83.78,
+            "population": 627460
+        },
+        "Jain": {
+            "percentage": 0.14,
+            "population": 1071
+        },
+        "Muslims": {
+            "percentage": 0.81,
+            "population": 6040
+        },
+        "Not Stated": {
+            "percentage": 0.23,
+            "population": 1729
+        },
+        "Others": {
+            "percentage": 14.14,
+            "population": 105869
+        },
+        "Sikh": {
+            "percentage": 0.07,
+            "population": 552
+        }
+    },
+    "rural": {
+        "child_population_female": 45250,
+        "child_population_male": 46191,
+        "child_population_percentage": 13.6,
+        "child_population_percentage_calculated": 13.6,
+        "child_population_percentage_stated": 13.6,
+        "child_population_total": 91441,
+        "child_sex_ratio": 980,
+        "female": 337031,
+        "literacy_rate_female": 58.19,
+        "literacy_rate_male": 78.58,
+        "literacy_rate_percentage": 68.34,
+        "literate_female": 169796,
+        "literate_male": 227063,
+        "literate_total": 396859,
+        "male": 335149,
+        "percentage_population": 89.75,
+        "population": 672180,
+        "sex_ratio": 1006
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/498-kanker.html",
+    "urban": {
+        "child_population_female": 4251,
+        "child_population_male": 4407,
+        "child_population_percentage": 11.28,
+        "child_population_percentage_calculated": 11.28,
+        "child_population_percentage_stated": 11.28,
+        "child_population_total": 8658,
+        "child_sex_ratio": 965,
+        "female": 38572,
+        "literacy_rate_female": 81.43,
+        "literacy_rate_male": 92.46,
+        "literacy_rate_percentage": 86.9,
+        "literate_female": 27948,
+        "literate_male": 31235,
+        "literate_total": 59183,
+        "male": 38189,
+        "percentage_population": 10.25,
+        "population": 76761,
+        "sex_ratio": 1010
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 127471,
+        "male": 154324,
+        "percentage_of_total_population": 11.31,
+        "percentage_of_total_population_calculated": 11.31,
+        "percentage_of_total_population_stated": 11.31,
+        "sex_ratio": 826,
+        "total": 281795
+    },
+    "literacy": {
+        "female_literacy_rate": 71.96,
+        "female_literate": 751789,
+        "male_literacy_rate": 80.15,
+        "male_literate": 932981,
+        "rate_percentage": 76.27,
+        "total_literate": 1684770
+    },
+    "population": {
+        "female": 1172248,
+        "male": 1318408,
+        "sex_ratio": 889,
+        "total": 2490656
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.04,
+            "population": 876
+        },
+        "Christian": {
+            "percentage": 2.18,
+            "population": 54344
+        },
+        "Hindu": {
+            "percentage": 27.74,
+            "population": 690939
+        },
+        "Jain": {
+            "percentage": 0.13,
+            "population": 3152
+        },
+        "Muslims": {
+            "percentage": 0.5,
+            "population": 12502
+        },
+        "Not Stated": {
+            "percentage": 0.44,
+            "population": 10864
+        },
+        "Others": {
+            "percentage": 0.04,
+            "population": 1044
+        },
+        "Sikh": {
+            "percentage": 68.94,
+            "population": 1716935
+        }
+    },
+    "rural": {
+        "child_population_female": 64303,
+        "child_population_male": 77869,
+        "child_population_percentage": 12.3,
+        "child_population_percentage_calculated": 12.3,
+        "child_population_percentage_stated": 12.3,
+        "child_population_total": 142172,
+        "child_sex_ratio": 826,
+        "female": 548779,
+        "literacy_rate_female": 62.63,
+        "literacy_rate_male": 72.92,
+        "literacy_rate_percentage": 68.0,
+        "literate_female": 303412,
+        "literate_male": 386035,
+        "literate_total": 689447,
+        "male": 607266,
+        "percentage_population": 46.42,
+        "population": 1156045,
+        "sex_ratio": 904
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/602-amritsar.html",
+    "urban": {
+        "child_population_female": 63141,
+        "child_population_male": 76482,
+        "child_population_percentage": 10.46,
+        "child_population_percentage_calculated": 10.46,
+        "child_population_percentage_stated": 10.46,
+        "child_population_total": 139623,
+        "child_sex_ratio": 826,
+        "female": 623469,
+        "literacy_rate_female": 80.02,
+        "literacy_rate_male": 86.18,
+        "literacy_rate_percentage": 83.29,
+        "literate_female": 448377,
+        "literate_male": 546946,
+        "literate_total": 995323,
+        "male": 711142,
+        "percentage_population": 53.58,
+        "population": 1334611,
+        "sex_ratio": 877
+    }
+}

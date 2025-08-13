@@ -1,0 +1,106 @@
+{
+  "state": "Karnataka",
+  "constituency": "Yemkanamardi",
+  "district": "Belgaum",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "12 May 2018",
+      "counting_date": "11 June 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 184362,
+        "total_votes_polled": 147830,
+        "turnout_percentage": 81.1,
+        "margin_votes": 2850,
+        "margin_percentage": 1.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Satish. L. Jarkiholi",
+          "party": "Indian National Congress",
+          "votes": 73512,
+          "votes_percentage": 49.7
+        },
+        {
+          "position": 2,
+          "name": "Astagi Maruti Mallappa",
+          "party": "Bharatiya Janta Party",
+          "votes": 70662,
+          "votes_percentage": 47.8
+        },
+        {
+          "position": 3,
+          "name": "Shankar Bharama Gasti",
+          "party": "Janata Dal (Secular)",
+          "votes": 1837,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 4,
+          "name": "Dr: Yalgund Basanaik Naik",
+          "party": "Karnataka Jantha Paksha",
+          "votes": 1299,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Bhimashi Siddappa Naik",
+          "party": "Independent",
+          "votes": 520,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "05 May 2013",
+      "counting_date": "08 May 2013",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 161090,
+        "total_votes_polled": 124560,
+        "turnout_percentage": 77.3,
+        "margin_votes": 24350,
+        "margin_percentage": 19.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Satish Laxmanarao Jarakiholi",
+          "party": "Indian National Congress",
+          "votes": 70726,
+          "votes_percentage": 56.8
+        },
+        {
+          "position": 2,
+          "name": "Astagi Maruti Mallappa",
+          "party": "Bharatiya Janta Party",
+          "votes": 46376,
+          "votes_percentage": 37.2
+        },
+        {
+          "position": 3,
+          "name": "Sanaram Siddappa Naik",
+          "party": "Janata Dal (Secular)",
+          "votes": 3348,
+          "votes_percentage": 2.7
+        },
+        {
+          "position": 4,
+          "name": "Dr. Yalagund Basanaik Naik",
+          "party": "Karnataka Jantha Paksha",
+          "votes": 2129,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 5,
+          "name": "Basavaraj  Siddalingappa  Sayannavar",
+          "party": "Independent",
+          "votes": 1981,
+          "votes_percentage": 1.6
+        }
+      ]
+    }
+  }
+}

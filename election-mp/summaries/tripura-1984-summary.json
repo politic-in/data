@@ -1,0 +1,45 @@
+{
+  "state": "Tripura",
+  "year": "1984",
+  "summary_stats": {
+    "total_electors_state": 1208967,
+    "total_votes_polled_state": 934814,
+    "turnout_percentage_state": 77.3,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Tripura East",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Tripura",
+      "winning_candidate": "Baju Ban Riyan",
+      "winning_party": "Communist Party Of India (MARXIST)",
+      "total_electors_ac": 586885,
+      "total_votes_ac": 448147,
+      "poll_percentage_ac": 0.0,
+      "margin": 41063,
+      "margin_percentage": 9.2,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1984/tripura/tripura-east/3810/25/8"
+    },
+    {
+      "ac_name": "Tripura West",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Tripura",
+      "winning_candidate": "Ajoy Biswas",
+      "winning_party": "Communist Party Of India (MARXIST)",
+      "total_electors_ac": 622082,
+      "total_votes_ac": 486667,
+      "poll_percentage_ac": 0.0,
+      "margin": 3520,
+      "margin_percentage": 0.7,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1984/tripura/tripura-west/3809/25/8"
+    }
+  ]
+}

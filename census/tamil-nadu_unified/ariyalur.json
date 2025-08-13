@@ -1,0 +1,103 @@
+{
+    "district": "Ariyalur",
+    "state": "Tamil Nadu",
+    "source_census2011": "https://www.census2011.co.in/census/district/38-ariyalur.html",
+    "population": {
+        "total": 754894,
+        "male": 374703,
+        "female": 380191,
+        "sex_ratio": 1015
+    },
+    "child_population": {
+        "total": 81187,
+        "male": 42808,
+        "female": 38379,
+        "sex_ratio": 897,
+        "percentage_of_total_population": 10.75,
+        "percentage_of_total_population_calculated": 10.75,
+        "percentage_of_total_population_stated": 10.75
+    },
+    "literacy": {
+        "rate_percentage": 71.34,
+        "male_literacy_rate": 81.23,
+        "female_literacy_rate": 61.74,
+        "total_literate": 480604,
+        "male_literate": 0,
+        "female_literate": 0
+    },
+    "religion": {
+        "Hindu": {
+            "population": 708397,
+            "percentage": 93.84
+        },
+        "Muslims": {
+            "population": 7942,
+            "percentage": 1.05
+        },
+        "Christian": {
+            "population": 37403,
+            "percentage": 4.95
+        },
+        "Sikh": {
+            "population": 104,
+            "percentage": 0.01
+        },
+        "Buddhist": {
+            "population": 88,
+            "percentage": 0.01
+        },
+        "Jain": {
+            "population": 65,
+            "percentage": 0.01
+        },
+        "Others": {
+            "population": 42,
+            "percentage": 0.01
+        },
+        "Not Stated": {
+            "population": 853,
+            "percentage": 0.11
+        }
+    },
+    "rural": {
+        "population": 671100,
+        "male": 333253,
+        "female": 337847,
+        "sex_ratio": 1014,
+        "percentage_population": 88.9,
+        "child_population_total": 72575,
+        "child_population_male": 38306,
+        "child_population_female": 34269,
+        "child_sex_ratio": 895,
+        "child_population_percentage": 10.81,
+        "child_population_percentage_calculated": 10.81,
+        "child_population_percentage_stated": 10.81,
+        "literacy_rate_percentage": 70.07,
+        "literacy_rate_male": 80.38,
+        "literacy_rate_female": 60.06,
+        "literate_total": 419413,
+        "literate_male": 0,
+        "literate_female": 0
+    },
+    "urban": {
+        "population": 83794,
+        "male": 41450,
+        "female": 42344,
+        "sex_ratio": 1022,
+        "percentage_population": 11.1,
+        "child_population_total": 8612,
+        "child_population_male": 4502,
+        "child_population_female": 4110,
+        "child_sex_ratio": 913,
+        "child_population_percentage": 10.28,
+        "child_population_percentage_calculated": 10.28,
+        "child_population_percentage_stated": 10.28,
+        "literacy_rate_percentage": 81.39,
+        "literacy_rate_male": 87.99,
+        "literacy_rate_female": 75.01,
+        "literate_total": 61191,
+        "literate_male": 0,
+        "literate_female": 0
+    },
+    "sc_st_skipped_auto_find_failed": true
+}

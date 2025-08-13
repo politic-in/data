@@ -1,0 +1,64 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Nivai",
+  "district": "Tonk",
+  "ac_type": "SC",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 240714,
+        "total_votes_polled": 171675,
+        "turnout_percentage": 72.3,
+        "margin_votes": 43889,
+        "margin_percentage": 25.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Prashant Bairwa",
+          "party": "Indian National Congress",
+          "votes": 105784,
+          "votes_percentage": 61.6
+        },
+        {
+          "position": 2,
+          "name": "Ram Sahay Verma",
+          "party": "Bharatiya Janta Party",
+          "votes": 61895,
+          "votes_percentage": 36.1
+        },
+        {
+          "position": 3,
+          "name": "Banwari Lal Bairwa",
+          "party": "Bahujan Samaj Party",
+          "votes": 1534,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 4,
+          "name": "Naresh Kumar Atal",
+          "party": "Ambedkarite Party Of India",
+          "votes": 1345,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 5,
+          "name": "Babu Lal Bairwa",
+          "party": "Bhartiya Jan Hitkari Party",
+          "votes": 596,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Pawan Kumar Nawal",
+          "party": "Independent",
+          "votes": 521,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

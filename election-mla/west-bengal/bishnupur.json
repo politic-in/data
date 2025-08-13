@@ -1,0 +1,155 @@
+{
+  "state": "West Bengal",
+  "constituency": "Bishnupur",
+  "district": "Bankura",
+  "ac_type": "SC",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 264604,
+        "total_votes_polled": 235707,
+        "turnout_percentage": 89.8,
+        "margin_votes": 58832,
+        "margin_percentage": 25.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dilip Mondal",
+          "party": "All India Trinamool Congress",
+          "votes": 136509,
+          "votes_percentage": 57.9
+        },
+        {
+          "position": 2,
+          "name": "Agniswar Naskar",
+          "party": "Bharatiya Janta Party",
+          "votes": 77677,
+          "votes_percentage": 33.0
+        },
+        {
+          "position": 3,
+          "name": "Jhuma Kayal",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 17995,
+          "votes_percentage": 7.6
+        },
+        {
+          "position": 4,
+          "name": "Rabindranath Ranjan",
+          "party": "Bahujan Samaj Party",
+          "votes": 2709,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 5,
+          "name": "Uttam Naskar",
+          "party": "Independent",
+          "votes": 817,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 194726,
+        "total_votes_polled": 169969,
+        "turnout_percentage": 89.0,
+        "margin_votes": 891,
+        "margin_percentage": 0.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tushar Kanti Bhattacharya",
+          "party": "Indian National Congress",
+          "votes": 76641,
+          "votes_percentage": 45.1
+        },
+        {
+          "position": 2,
+          "name": "Shyamaprasad Mukherjee",
+          "party": "All India Trinamool Congress",
+          "votes": 75750,
+          "votes_percentage": 44.6
+        },
+        {
+          "position": 3,
+          "name": "Nanda Dulal Banerjee",
+          "party": "Bharatiya Janta Party",
+          "votes": 11254,
+          "votes_percentage": 6.6
+        },
+        {
+          "position": 4,
+          "name": "Shibapada Giri",
+          "party": "Communist Party Of India (Marxist-Leninist) Red Star",
+          "votes": 2433,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 5,
+          "name": "Shashi Bhusan Banerjee",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 2254,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 6,
+          "name": "Sunil Besra",
+          "party": "Bahujan Mukti Party",
+          "votes": 1637,
+          "votes_percentage": 1.0
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 210599,
+        "total_votes_polled": 177890,
+        "turnout_percentage": 84.5,
+        "margin_votes": 9857,
+        "margin_percentage": 5.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shyama Prasad Mukherjee",
+          "party": "All India Trinamool Congress",
+          "votes": 77662,
+          "votes_percentage": 50.3
+        },
+        {
+          "position": 2,
+          "name": "Ghosh Swapan",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 67805,
+          "votes_percentage": 43.9
+        },
+        {
+          "position": 3,
+          "name": "Pankaj Dhar",
+          "party": "Bharatiya Janta Party",
+          "votes": 5223,
+          "votes_percentage": 3.4
+        },
+        {
+          "position": 4,
+          "name": "Purna Chandra Murmu",
+          "party": "Jharkhand Disom Party",
+          "votes": 3716,
+          "votes_percentage": 2.4
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "state": "Telangana",
+  "constituency": "Miryalguda",
+  "district": "Nalgonda",
+  "ac_type": "GEN",
+  "results": {
+    "2014": {
+      "poll_date": "30 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 207157,
+        "total_votes_polled": 165189,
+        "turnout_percentage": 79.7,
+        "total_valid_votes": 164232,
+        "total_valid_votes_percentage": 79.3,
+        "margin_votes": 6054,
+        "margin_percentage": 3.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bhaskar Rao Nallamothu",
+          "party": "Indian National Congress",
+          "votes": 62059,
+          "votes_percentage": 37.8
+        },
+        {
+          "position": 2,
+          "name": "Alugubelli Amarender Reddy",
+          "party": "Telangana Rashtra Samithi",
+          "votes": 56005,
+          "votes_percentage": 34.1
+        },
+        {
+          "position": 3,
+          "name": "Julakanti Ranga Reddy",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 22592,
+          "votes_percentage": 13.8
+        },
+        {
+          "position": 4,
+          "name": "Bantu Venkateshwarlu",
+          "party": "Telugu Desam",
+          "votes": 20758,
+          "votes_percentage": 12.6
+        },
+        {
+          "position": 5,
+          "name": "Dhanavath Lalu",
+          "party": "Independent",
+          "votes": 879,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Marepally Srinivasreddy",
+          "party": "Lok Satta Party",
+          "votes": 878,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Sarikonda Rushikeshwar Raju",
+          "party": "Aam Aadmi Party",
+          "votes": 540,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "D.Hanya",
+          "party": "Independent",
+          "votes": 521,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "state": "Manipur",
+  "year": "2009",
+  "summary_stats": {
+    "total_electors_state": 1736251,
+    "total_votes_polled_state": 1336711,
+    "turnout_percentage_state": 77.0,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Inner Manipur",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Manipur",
+      "winning_candidate": "Dr. Thokchom Meinya",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 826755,
+      "total_votes_ac": 583323,
+      "poll_percentage_ac": 0.0,
+      "margin": 30960,
+      "margin_percentage": 5.3,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2009/manipur/inner-manipur/7456/24/15"
+    },
+    {
+      "ac_name": "Outer Manipur",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Manipur",
+      "winning_candidate": "Thangso Baite",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 909496,
+      "total_votes_ac": 753388,
+      "poll_percentage_ac": 0.0,
+      "margin": 119798,
+      "margin_percentage": 15.9,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2009/manipur/outer-manipur/7457/24/15"
+    }
+  ]
+}

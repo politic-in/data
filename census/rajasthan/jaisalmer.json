@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 60846,
+        "male": 69617,
+        "percentage_of_total_population": 19.47,
+        "percentage_of_total_population_calculated": 19.47,
+        "percentage_of_total_population_stated": 19.47,
+        "sex_ratio": 874,
+        "total": 130463
+    },
+    "literacy": {
+        "female_literacy_rate": 39.71,
+        "female_literate": 98238,
+        "male_literacy_rate": 72.04,
+        "male_literate": 210415,
+        "rate_percentage": 57.22,
+        "total_literate": 308653
+    },
+    "population": {
+        "female": 308211,
+        "male": 361708,
+        "sex_ratio": 852,
+        "total": 669919
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 98
+        },
+        "Christian": {
+            "percentage": 0.13,
+            "population": 874
+        },
+        "Hindu": {
+            "percentage": 74.19,
+            "population": 497045
+        },
+        "Jain": {
+            "percentage": 0.23,
+            "population": 1521
+        },
+        "Muslims": {
+            "percentage": 25.1,
+            "population": 168129
+        },
+        "Not Stated": {
+            "percentage": 0.07,
+            "population": 495
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 34
+        },
+        "Sikh": {
+            "percentage": 0.26,
+            "population": 1723
+        }
+    },
+    "rural": {
+        "child_population_female": 54793,
+        "child_population_male": 62734,
+        "child_population_percentage": 20.23,
+        "child_population_percentage_calculated": 20.23,
+        "child_population_percentage_stated": 20.23,
+        "child_population_total": 117527,
+        "child_sex_ratio": 873,
+        "female": 268447,
+        "literacy_rate_female": 35.54,
+        "literacy_rate_male": 69.42,
+        "literacy_rate_percentage": 53.8,
+        "literate_female": 75936,
+        "literate_male": 173353,
+        "literate_total": 249289,
+        "male": 312447,
+        "percentage_population": 86.71,
+        "population": 580894,
+        "sex_ratio": 859
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/439-jaisalmer.html",
+    "urban": {
+        "child_population_female": 6060,
+        "child_population_male": 6876,
+        "child_population_percentage": 14.53,
+        "child_population_percentage_calculated": 14.53,
+        "child_population_percentage_stated": 14.53,
+        "child_population_total": 12936,
+        "child_sex_ratio": 881,
+        "female": 39764,
+        "literacy_rate_female": 66.17,
+        "literacy_rate_male": 87.44,
+        "literacy_rate_percentage": 78.02,
+        "literate_female": 22302,
+        "literate_male": 37062,
+        "literate_total": 59364,
+        "male": 49261,
+        "percentage_population": 13.29,
+        "population": 89025,
+        "sex_ratio": 807
+    }
+}

@@ -1,0 +1,113 @@
+{
+  "state": "Tripura",
+  "constituency": "Kadamtala-Kurti",
+  "district": "North Tripura",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 41394,
+        "total_votes_polled": 36137,
+        "turnout_percentage": 88.3,
+        "margin_votes": 6882,
+        "margin_percentage": 19.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Islam Uddin",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 20721,
+          "votes_percentage": 57.3
+        },
+        {
+          "position": 2,
+          "name": "Tinku Roy",
+          "party": "Bharatiya Janta Party",
+          "votes": 13839,
+          "votes_percentage": 38.3
+        },
+        {
+          "position": 3,
+          "name": "Giyas Uddin Chowdhury",
+          "party": "Indian National Congress",
+          "votes": 936,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 5,
+          "name": "Rasamay Nath",
+          "party": "All India Trinamool Congress",
+          "votes": 363,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Gopal Krishna Deb",
+          "party": "Amra Bangalee",
+          "votes": 139,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Rahamat Ali",
+          "party": "Independent",
+          "votes": 139,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "14 February 2013",
+      "counting_date": "28 February 2013",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 37276,
+        "total_votes_polled": 34035,
+        "turnout_percentage": 91.3,
+        "margin_votes": 1929,
+        "margin_percentage": 5.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Fayzur Rohaman",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 14514,
+          "votes_percentage": 42.6
+        },
+        {
+          "position": 2,
+          "name": "Abdul Matin Chaudhury",
+          "party": "Indian National Congress",
+          "votes": 12585,
+          "votes_percentage": 37.0
+        },
+        {
+          "position": 3,
+          "name": "Arijit Nath",
+          "party": "Bharatiya Janta Party",
+          "votes": 6070,
+          "votes_percentage": 17.8
+        },
+        {
+          "position": 4,
+          "name": "Abdul Kayum",
+          "party": "Janata Dal (United)",
+          "votes": 487,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 5,
+          "name": "Fazlur Rahaman",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 379,
+          "votes_percentage": 1.1
+        }
+      ]
+    }
+  }
+}

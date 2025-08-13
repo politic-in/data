@@ -1,0 +1,64 @@
+{
+  "state": "West Bengal",
+  "constituency": "CHAKDAH",
+  "district": "Nadia",
+  "ac_type": "GEN",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 222668,
+        "total_votes_polled": 187147,
+        "turnout_percentage": 85.3,
+        "margin_votes": 23653,
+        "margin_percentage": 12.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kar Ratna Ghosh",
+          "party": "All India Trinamool Congress",
+          "votes": 94241,
+          "votes_percentage": 50.4
+        },
+        {
+          "position": 2,
+          "name": "Biswanath Gupta",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 70588,
+          "votes_percentage": 37.7
+        },
+        {
+          "position": 3,
+          "name": "Pradip Kumar Sarkar",
+          "party": "Bharatiya Janta Party",
+          "votes": 16294,
+          "votes_percentage": 8.7
+        },
+        {
+          "position": 4,
+          "name": "Sarnab Bose",
+          "party": "Shiv Sena",
+          "votes": 2579,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 5,
+          "name": "Dhirendra Majumdar",
+          "party": "Bahujan Samaj Party",
+          "votes": 2077,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Ashok Kumar Kundu",
+          "party": "Party For Democratic Socialism",
+          "votes": 1368,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

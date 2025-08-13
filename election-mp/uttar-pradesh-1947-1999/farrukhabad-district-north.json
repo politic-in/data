@@ -1,0 +1,48 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "FARRUKHABAD DISTRICT (NORTH)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 407275,
+        "total_votes_polled": 167836,
+        "turnout_percentage": 41.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mool Chand Dube",
+          "party": "Indian National Congress",
+          "votes": 86024,
+          "votes_percentage": 51.3
+        },
+        {
+          "position": 2,
+          "name": "Tej Narain",
+          "party": "Socialist Party",
+          "votes": 37939,
+          "votes_percentage": 22.6
+        },
+        {
+          "position": 3,
+          "name": "Kedar Nath Singh",
+          "party": "U.P. Praja Party",
+          "votes": 28006,
+          "votes_percentage": 16.7
+        },
+        {
+          "position": 4,
+          "name": "Kunwar Bihari Lal",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 15867,
+          "votes_percentage": 9.5
+        }
+      ]
+    }
+  }
+}

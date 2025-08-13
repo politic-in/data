@@ -1,0 +1,120 @@
+{
+  "district": "Cuddalore",
+  "state": "Tamil Nadu",
+  "census_year": 2011,
+  "source": [
+    "https://www.census2011.co.in/census/district/39-cuddalore.html",
+    "https://www.censusindia.co.in/district/cuddalore-district-tamil-nadu-639"
+  ],
+  "population": {
+    "total": 2605914,
+    "male": 1311697,
+    "female": 1294217,
+    "sex_ratio": 987
+  },
+  "area_distribution": {
+    "urban": {
+      "percentage_of_total_population": 33.97,
+      "total_population": 885189,
+      "male": 442836,
+      "female": 442353,
+      "sex_ratio": 999,
+      "child_population_0_6": {
+        "total": 87249,
+        "male": 45119,
+        "female": 42130,
+        "sex_ratio": 934,
+        "percentage_of_urban_population": 9.86
+      },
+      "literacy": {
+        "rate": 86.38,
+        "male_rate": 91.88,
+        "female_rate": 80.9,
+        "total_literates": 689236
+      }
+    },
+    "rural": {
+      "percentage_of_total_population": 66.03,
+      "total_population": 1720725,
+      "male": 868861,
+      "female": 851864,
+      "sex_ratio": 980,
+      "child_population_0_6": {
+        "total": 192701,
+        "male": 102525,
+        "female": 90176,
+        "sex_ratio": 880,
+        "percentage_of_rural_population": 11.2
+      },
+      "literacy": {
+        "rate": 73.69,
+        "male_rate": 82.85,
+        "female_rate": 64.48,
+        "total_literates": 1126045
+      }
+    }
+  },
+  "age_groups": {
+    "children_0_6_years": {
+      "total": 279950,
+      "male": 147644,
+      "female": 132306,
+      "sex_ratio": 896,
+      "percentage_of_total_population": 10.74
+    }
+  },
+  "literacy_overall_district": {
+    "rate": 78.04,
+    "male_rate": 85.93,
+    "female_rate": 70.14,
+    "total_literates": 1815281
+  },
+  "religion_distribution": {
+    "hindu": {
+      "percentage": 91.78,
+      "population": 2391675
+    },
+    "muslim": {
+      "percentage": 4.75,
+      "population": 123749
+    },
+    "christian": {
+      "percentage": 3.2,
+      "population": 83334
+    },
+    "sikh": {
+      "percentage": 0.02,
+      "population": 401
+    },
+    "buddhist": {
+      "percentage": 0.01,
+      "population": 236
+    },
+    "jain": {
+      "percentage": 0.05,
+      "population": 1280
+    },
+    "other_religions": {
+      "percentage": 0.01,
+      "population": 138
+    },
+    "not_stated": {
+      "percentage": 0.2,
+      "population": 5101
+    }
+  },
+  "social_groups": {
+    "scheduled_caste_sc": {
+      "population": 755793,
+      "percentage": 29.0,
+      "male": 375701,
+      "female": 380092
+    },
+    "scheduled_tribe_st": {
+      "population": 7610,
+      "percentage": 0.29,
+      "male": 3865,
+      "female": 3745
+    }
+  }
+}

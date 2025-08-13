@@ -1,0 +1,64 @@
+{
+  "state": "West Bengal",
+  "constituency": "JAMALPUR (SC)",
+  "district": "Barddhaman",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 216033,
+        "total_votes_polled": 189370,
+        "turnout_percentage": 88.9,
+        "margin_votes": 1423,
+        "margin_percentage": 0.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Samar Hazra",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 85491,
+          "votes_percentage": 45.1
+        },
+        {
+          "position": 2,
+          "name": "Ujjal Pramanick",
+          "party": "All India Trinamool Congress",
+          "votes": 84068,
+          "votes_percentage": 44.4
+        },
+        {
+          "position": 3,
+          "name": "Pallab Kumar Roy",
+          "party": "Bharatiya Janta Party",
+          "votes": 15094,
+          "votes_percentage": 8.0
+        },
+        {
+          "position": 4,
+          "name": "Bankim Santra",
+          "party": "Bahujan Samaj Party",
+          "votes": 1902,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Kishore Kumar Biswas",
+          "party": "Jharkhand Disom Party",
+          "votes": 1424,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Sanat Bhangi",
+          "party": "Independent",
+          "votes": 1391,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+    "district": "Karur",
+    "state": "Tamil Nadu",
+    "source_census2011": "https://www.census2011.co.in/census/district/35-karur.html",
+    "source_secondary": "https://www.censusindia.co.in/district/karur-district-tamil-nadu-613",
+    "population": {
+        "total": 1064493,
+        "male": 528184,
+        "female": 536309,
+        "sex_ratio": 1015
+    },
+    "literacy": {
+        "rate_percentage": 75.6,
+        "male_literacy_rate": 84.54,
+        "female_literacy_rate": 66.86,
+        "total_literate": 727044,
+        "male_literate": 401726,
+        "female_literate": 325318
+    },
+    "religion": {
+        "Hindu": {
+            "population": 993666,
+            "percentage": 93.35
+        },
+        "Muslims": {
+            "population": 53292,
+            "percentage": 5.01
+        },
+        "Christian": {
+            "population": 16483,
+            "percentage": 1.55
+        },
+        "Sikh": {
+            "population": 115,
+            "percentage": 0.01
+        },
+        "Buddhist": {
+            "population": 29,
+            "percentage": 0.0
+        },
+        "Jain": {
+            "population": 7,
+            "percentage": 0.0
+        },
+        "Others": {
+            "population": 79,
+            "percentage": 0.01
+        },
+        "Not Stated": {
+            "population": 822,
+            "percentage": 0.08
+        }
+    },
+    "rural": {
+        "population": 629976,
+        "male": 312628,
+        "female": 317348,
+        "sex_ratio": 1015,
+        "percentage_population": 59.18,
+        "child_population_total": 61264,
+        "child_population_male": 31442,
+        "child_population_female": 29822,
+        "child_sex_ratio": 948,
+        "child_population_percentage": 9.72,
+        "child_population_percentage_calculated": 9.72,
+        "child_population_percentage_stated": 9.72,
+        "literacy_rate_percentage": 69.3,
+        "literacy_rate_male": 79.82,
+        "literacy_rate_female": 59.02,
+        "literate_total": 394134,
+        "literate_male": 224431,
+        "literate_female": 169703
+    },
+    "urban": {
+        "population": 434517,
+        "male": 215556,
+        "female": 218961,
+        "sex_ratio": 1016,
+        "percentage_population": 40.82,
+        "child_population_total": 41467,
+        "child_population_male": 21527,
+        "child_population_female": 19940,
+        "child_sex_ratio": 926,
+        "child_population_percentage": 9.54,
+        "child_population_percentage_calculated": 9.54,
+        "child_population_percentage_stated": 9.54,
+        "literacy_rate_percentage": 84.7,
+        "literacy_rate_male": 91.38,
+        "literacy_rate_female": 78.19,
+        "literate_total": 332910,
+        "literate_male": 177295,
+        "literate_female": 155615
+    },
+    "scheduled_caste": {
+        "total": 221385,
+        "percentage_of_total_population": 20.8,
+        "male": 108809,
+        "female": 112576
+    },
+    "scheduled_tribe": {
+        "total": 575,
+        "percentage_of_total_population": 0.1,
+        "male": 297,
+        "female": 278
+    }
+}

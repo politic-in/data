@@ -1,0 +1,85 @@
+{
+  "state": "West Bengal",
+  "constituency": "Minakhan",
+  "district": "North Twenty Four Parganas",
+  "ac_type": "SC",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 225809,
+        "total_votes_polled": 208412,
+        "turnout_percentage": 94.0,
+        "margin_votes": 55830,
+        "margin_percentage": 26.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Usha Rani Mondal",
+          "party": "All India Trinamool Congress",
+          "votes": 109818,
+          "votes_percentage": 52.7
+        },
+        {
+          "position": 2,
+          "name": "Jayanta Mondal",
+          "party": "Bharatiya Janta Party",
+          "votes": 53988,
+          "votes_percentage": 25.9
+        },
+        {
+          "position": 3,
+          "name": "Pradyut Roy",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 44606,
+          "votes_percentage": 21.4
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 164561,
+        "total_votes_polled": 151102,
+        "turnout_percentage": 91.8,
+        "margin_votes": 7136,
+        "margin_percentage": 4.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Usha Rani Mondal",
+          "party": "All India Trinamool Congress",
+          "votes": 73533,
+          "votes_percentage": 48.7
+        },
+        {
+          "position": 2,
+          "name": "Dilip Roy",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 66397,
+          "votes_percentage": 43.9
+        },
+        {
+          "position": 3,
+          "name": "Bhabesh Patra",
+          "party": "Bharatiya Janta Party",
+          "votes": 8323,
+          "votes_percentage": 5.5
+        },
+        {
+          "position": 4,
+          "name": "Ajit Pramanik",
+          "party": "Independent",
+          "votes": 2849,
+          "votes_percentage": 1.9
+        }
+      ]
+    }
+  }
+}

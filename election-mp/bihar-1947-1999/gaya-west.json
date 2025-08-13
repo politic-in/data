@@ -1,0 +1,41 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "GAYA WEST",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 336977,
+        "total_votes_polled": 141212,
+        "turnout_percentage": 41.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Satyandra Narain Singh",
+          "party": "Indian National Congress",
+          "votes": 54758,
+          "votes_percentage": 38.8
+        },
+        {
+          "position": 2,
+          "name": "Bilash Singh",
+          "party": "Socialist Party",
+          "votes": 49047,
+          "votes_percentage": 34.7
+        },
+        {
+          "position": 3,
+          "name": "Kumar Badri Narayan Singh",
+          "party": "Independent",
+          "votes": 37407,
+          "votes_percentage": 26.5
+        }
+      ]
+    }
+  }
+}

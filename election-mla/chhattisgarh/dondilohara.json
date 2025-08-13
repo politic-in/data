@@ -1,0 +1,127 @@
+{
+  "state": "Chhattisgarh",
+  "constituency": "Dondilohara",
+  "district": "Durg",
+  "ac_type": "ST",
+  "results": {
+    "2023": {
+      "poll_date": "07 November 2023",
+      "counting_date": "03 December 2023",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 443654,
+        "total_votes_polled": 178978,
+        "turnout_percentage": 41.1,
+        "margin_votes": 35579,
+        "margin_percentage": 19.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Anila Bhendia",
+          "party": "Indian National Congress",
+          "votes": 102762,
+          "votes_percentage": 56.4
+        },
+        {
+          "position": 2,
+          "name": "Devlal Thakur",
+          "party": "Bharatiya Janta Party",
+          "votes": 67183,
+          "votes_percentage": 36.9
+        },
+        {
+          "position": 3,
+          "name": "Girwar Singh Thakur",
+          "party": "Hamar Raj Party",
+          "votes": 7793,
+          "votes_percentage": 4.3
+        },
+        {
+          "position": 4,
+          "name": "Ishwar Singh Thakur",
+          "party": "Independent",
+          "votes": 1240,
+          "votes_percentage": 0.7
+        }
+      ]
+    },
+    "2018": {
+      "poll_date": "20 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 205206,
+        "total_votes_polled": 161861,
+        "turnout_percentage": 81.2,
+        "margin_votes": 33103,
+        "margin_percentage": 20.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Anila Bhendia",
+          "party": "Indian National Congress",
+          "votes": 67448,
+          "votes_percentage": 41.7
+        },
+        {
+          "position": 2,
+          "name": "Lal Mahendra Singh Tekam",
+          "party": "Bharatiya Janta Party",
+          "votes": 34345,
+          "votes_percentage": 21.2
+        },
+        {
+          "position": 3,
+          "name": "Dev Lal Thakur",
+          "party": "Independent",
+          "votes": 21360,
+          "votes_percentage": 13.2
+        },
+        {
+          "position": 4,
+          "name": "Janak Lal Thakur",
+          "party": "Independent",
+          "votes": 19242,
+          "votes_percentage": 11.9
+        },
+        {
+          "position": 5,
+          "name": "Rajesh Churendra",
+          "party": "Janta Congress Chhattisgarh (J)",
+          "votes": 13929,
+          "votes_percentage": 8.6
+        },
+        {
+          "position": 6,
+          "name": "Hiteshwari Kothari",
+          "party": "Independent",
+          "votes": 1902,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 7,
+          "name": "Mahesh Kumar Koreti",
+          "party": "Ambedkarite Party Of India",
+          "votes": 1279,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 8,
+          "name": "Ramesh Kumar Churendra",
+          "party": "Swabhiman Party",
+          "votes": 1256,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 9,
+          "name": "Yugal Kishor Ratre",
+          "party": "Aam Aadmi Party",
+          "votes": 1100,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

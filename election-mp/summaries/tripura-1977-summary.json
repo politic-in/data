@@ -1,0 +1,45 @@
+{
+  "state": "Tripura",
+  "year": "1977",
+  "summary_stats": {
+    "total_electors_state": 866056,
+    "total_votes_polled_state": 606833,
+    "turnout_percentage_state": 70.1,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Tripura East",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Tripura",
+      "winning_candidate": "Kirit Bikram Kishore Deb Barma",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 435113,
+      "total_votes_ac": 291091,
+      "poll_percentage_ac": 0.0,
+      "margin": 13183,
+      "margin_percentage": 4.5,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1977/tripura/tripura-east/2739/25/6"
+    },
+    {
+      "ac_name": "Tripura West",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Tripura",
+      "winning_candidate": "Sachindralal Singha",
+      "winning_party": "Bharatiya Lok Dal",
+      "total_electors_ac": 430943,
+      "total_votes_ac": 315742,
+      "poll_percentage_ac": 0.0,
+      "margin": 5047,
+      "margin_percentage": 1.6,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1977/tripura/tripura-west/2738/25/6"
+    }
+  ]
+}

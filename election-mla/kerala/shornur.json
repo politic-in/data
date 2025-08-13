@@ -1,0 +1,134 @@
+{
+  "state": "Kerala",
+  "constituency": "SHORNUR",
+  "district": "Palakkad",
+  "ac_type": "GEN",
+  "results": {
+    "2016": {
+      "poll_date": "16 May 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 184226,
+        "total_votes_polled": 140862,
+        "turnout_percentage": 76.9,
+        "margin_votes": 24547,
+        "margin_percentage": 17.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "P.K.Sasi",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 66165,
+          "votes_percentage": 47.0
+        },
+        {
+          "position": 2,
+          "name": "C.Sangeetha",
+          "party": "Indian National Congress",
+          "votes": 41618,
+          "votes_percentage": 29.6
+        },
+        {
+          "position": 3,
+          "name": "V.P.Chandran",
+          "party": "Bharath Dharma Jana Sena",
+          "votes": 28836,
+          "votes_percentage": 20.5
+        },
+        {
+          "position": 4,
+          "name": "M Saidalavi",
+          "party": "Social Democratic Party Of India",
+          "votes": 1246,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Harish Muhammed",
+          "party": "Independent",
+          "votes": 882,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Anandan K K",
+          "party": "Bahujan Samaj Party",
+          "votes": 764,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "A.Radhakrishnan",
+          "party": "Independent",
+          "votes": 697,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "P.K.Anumon",
+          "party": "Shiv Sena",
+          "votes": 407,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Moindeensha Moloor",
+          "party": "Independent",
+          "votes": 247,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "13 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 163885,
+        "total_votes_polled": 120260,
+        "turnout_percentage": 73.4,
+        "margin_votes": 13493,
+        "margin_percentage": 11.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "K.S.Saleekha",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 59616,
+          "votes_percentage": 49.6
+        },
+        {
+          "position": 2,
+          "name": "Santha Jayaram",
+          "party": "Indian National Congress",
+          "votes": 46123,
+          "votes_percentage": 38.4
+        },
+        {
+          "position": 3,
+          "name": "V.B.Muralidharan",
+          "party": "Bharatiya Janta Party",
+          "votes": 10562,
+          "votes_percentage": 8.8
+        },
+        {
+          "position": 4,
+          "name": "Khalid.A",
+          "party": "Social Democratic Party Of India",
+          "votes": 3065,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 5,
+          "name": "M.C.Velayudhan",
+          "party": "Bahujan Samaj Party",
+          "votes": 894,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 153514,
+        "male": 164892,
+        "percentage_of_total_population": 14.62,
+        "percentage_of_total_population_calculated": 14.62,
+        "percentage_of_total_population_stated": 14.62,
+        "sex_ratio": 931,
+        "total": 318406
+    },
+    "literacy": {
+        "female_literacy_rate": 56.72,
+        "female_literate": 517702,
+        "male_literacy_rate": 77.21,
+        "male_literate": 730566,
+        "rate_percentage": 67.15,
+        "total_literate": 1248268
+    },
+    "population": {
+        "female": 1066309,
+        "male": 1111022,
+        "sex_ratio": 960,
+        "total": 2177331
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 374
+        },
+        "Christian": {
+            "percentage": 0.11,
+            "population": 2433
+        },
+        "Hindu": {
+            "percentage": 82.07,
+            "population": 1786830
+        },
+        "Jain": {
+            "percentage": 0.4,
+            "population": 8665
+        },
+        "Muslims": {
+            "percentage": 16.97,
+            "population": 369588
+        },
+        "Not Stated": {
+            "percentage": 0.39,
+            "population": 8384
+        },
+        "Others": {
+            "percentage": 0.02,
+            "population": 499
+        },
+        "Sikh": {
+            "percentage": 0.03,
+            "population": 558
+        }
+    },
+    "rural": {
+        "child_population_female": 121591,
+        "child_population_male": 130258,
+        "child_population_percentage": 15.03,
+        "child_population_percentage_calculated": 15.03,
+        "child_population_percentage_stated": 15.03,
+        "child_population_total": 251849,
+        "child_sex_ratio": 933,
+        "female": 817791,
+        "literacy_rate_female": 51.1,
+        "literacy_rate_male": 74.03,
+        "literacy_rate_percentage": 62.81,
+        "literate_female": 355732,
+        "literate_male": 538400,
+        "literate_total": 894132,
+        "male": 857562,
+        "percentage_population": 76.95,
+        "population": 1675353,
+        "sex_ratio": 954
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/247-bijapur.html",
+    "urban": {
+        "child_population_female": 31959,
+        "child_population_male": 34598,
+        "child_population_percentage": 13.26,
+        "child_population_percentage_calculated": 13.26,
+        "child_population_percentage_stated": 13.26,
+        "child_population_total": 66557,
+        "child_sex_ratio": 924,
+        "female": 248518,
+        "literacy_rate_female": 74.79,
+        "literacy_rate_male": 87.8,
+        "literacy_rate_percentage": 81.33,
+        "literate_female": 161970,
+        "literate_male": 192166,
+        "literate_total": 354136,
+        "male": 253460,
+        "percentage_population": 23.05,
+        "population": 501978,
+        "sex_ratio": 981
+    }
+}

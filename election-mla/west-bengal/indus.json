@@ -1,0 +1,78 @@
+{
+  "state": "West Bengal",
+  "constituency": "Indus",
+  "district": "Bankura",
+  "ac_type": "SC",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 234967,
+        "total_votes_polled": 215271,
+        "turnout_percentage": 93.0,
+        "margin_votes": 7220,
+        "margin_percentage": 3.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nirmal Kumar Dhara",
+          "party": "Bharatiya Janta Party",
+          "votes": 104936,
+          "votes_percentage": 48.8
+        },
+        {
+          "position": 2,
+          "name": "Runu Mete",
+          "party": "All India Trinamool Congress",
+          "votes": 97716,
+          "votes_percentage": 45.4
+        },
+        {
+          "position": 3,
+          "name": "Nayan Kumar Shill (BAGDI)",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 12619,
+          "votes_percentage": 5.9
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 188746,
+        "total_votes_polled": 174492,
+        "turnout_percentage": 92.5,
+        "margin_votes": 4005,
+        "margin_percentage": 2.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gurupada Mete",
+          "party": "All India Trinamool Congress",
+          "votes": 85589,
+          "votes_percentage": 49.1
+        },
+        {
+          "position": 2,
+          "name": "Santanu Kumar Bora",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 81584,
+          "votes_percentage": 46.8
+        },
+        {
+          "position": 3,
+          "name": "Srikanta Bagdi",
+          "party": "Bharatiya Janta Party",
+          "votes": 7319,
+          "votes_percentage": 4.2
+        }
+      ]
+    }
+  }
+}

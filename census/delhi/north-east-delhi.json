@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 141337,
+        "male": 160610,
+        "percentage_of_total_population": 13.47,
+        "percentage_of_total_population_calculated": 13.47,
+        "percentage_of_total_population_stated": 13.47,
+        "sex_ratio": 880,
+        "total": 301947
+    },
+    "literacy": {
+        "female_literacy_rate": 76.67,
+        "female_literate": 699107,
+        "male_literacy_rate": 88.78,
+        "male_literate": 912481,
+        "rate_percentage": 83.09,
+        "total_literate": 1611588
+    },
+    "population": {
+        "female": 1053199,
+        "male": 1188425,
+        "sex_ratio": 886,
+        "total": 2241624
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.11,
+            "population": 2388
+        },
+        "Christian": {
+            "percentage": 0.41,
+            "population": 9123
+        },
+        "Hindu": {
+            "percentage": 68.22,
+            "population": 1529337
+        },
+        "Jain": {
+            "percentage": 1.1,
+            "population": 24673
+        },
+        "Muslims": {
+            "percentage": 29.34,
+            "population": 657585
+        },
+        "Not Stated": {
+            "percentage": 0.05,
+            "population": 1046
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 48
+        },
+        "Sikh": {
+            "percentage": 0.78,
+            "population": 17424
+        }
+    },
+    "rural": {
+        "child_population_female": 1547,
+        "child_population_male": 1839,
+        "child_population_percentage": 15.73,
+        "child_population_percentage_calculated": 15.73,
+        "child_population_percentage_stated": 15.73,
+        "child_population_total": 3386,
+        "child_sex_ratio": 841,
+        "female": 9809,
+        "literacy_rate_female": 72.02,
+        "literacy_rate_male": 86.19,
+        "literacy_rate_percentage": 79.74,
+        "literate_female": 5950,
+        "literate_male": 8515,
+        "literate_total": 14465,
+        "male": 11718,
+        "percentage_population": 0.96,
+        "population": 21527,
+        "sex_ratio": 837
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/170-north-east-delhi.html",
+    "urban": {
+        "child_population_female": 139817,
+        "child_population_male": 158744,
+        "child_population_percentage": 13.45,
+        "child_population_percentage_calculated": 13.45,
+        "child_population_percentage_stated": 13.45,
+        "child_population_total": 298561,
+        "child_sex_ratio": 881,
+        "female": 1043390,
+        "literacy_rate_female": 76.71,
+        "literacy_rate_male": 88.8,
+        "literacy_rate_percentage": 83.12,
+        "literate_female": 693157,
+        "literate_male": 903966,
+        "literate_total": 1597123,
+        "male": 1176707,
+        "percentage_population": 99.04,
+        "population": 2220097,
+        "sex_ratio": 887
+    }
+}

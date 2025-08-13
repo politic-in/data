@@ -1,0 +1,134 @@
+{
+  "state": "West Bengal",
+  "constituency": "Garbeta",
+  "district": "Paschim Medinipur",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 222891,
+        "total_votes_polled": 204962,
+        "turnout_percentage": 93.2,
+        "margin_votes": 10572,
+        "margin_percentage": 5.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Uttara Singha (Hazra)",
+          "party": "All India Trinamool Congress",
+          "votes": 94928,
+          "votes_percentage": 46.3
+        },
+        {
+          "position": 2,
+          "name": "Madan Ruidas",
+          "party": "Bharatiya Janta Party",
+          "votes": 84356,
+          "votes_percentage": 41.2
+        },
+        {
+          "position": 3,
+          "name": "Ghosh Kumar Tapan",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 23042,
+          "votes_percentage": 11.2
+        },
+        {
+          "position": 4,
+          "name": "Tapas Kumar Mishra",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1803,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Kutubuddin Khan",
+          "party": "Independent",
+          "votes": 833,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 206569,
+        "total_votes_polled": 184368,
+        "turnout_percentage": 90.9,
+        "margin_votes": 61157,
+        "margin_percentage": 33.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ashis Chakraborty (NANTI)",
+          "party": "All India Trinamool Congress",
+          "votes": 110501,
+          "votes_percentage": 59.9
+        },
+        {
+          "position": 2,
+          "name": "Sorforaj Khan",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 49344,
+          "votes_percentage": 26.8
+        },
+        {
+          "position": 3,
+          "name": "Pradip Lodha",
+          "party": "Bharatiya Janta Party",
+          "votes": 22525,
+          "votes_percentage": 12.2
+        },
+        {
+          "position": 4,
+          "name": "Tapas Mishra",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1998,
+          "votes_percentage": 1.1
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 176796,
+        "total_votes_polled": 164757,
+        "turnout_percentage": 93.2,
+        "margin_votes": 15070,
+        "margin_percentage": 9.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ghosh Susanta",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 86047,
+          "votes_percentage": 52.2
+        },
+        {
+          "position": 2,
+          "name": "Hema Choubey",
+          "party": "Indian National Congress",
+          "votes": 70977,
+          "votes_percentage": 43.1
+        },
+        {
+          "position": 3,
+          "name": "Tarak Nath Gan",
+          "party": "Bharatiya Janta Party",
+          "votes": 7733,
+          "votes_percentage": 4.7
+        }
+      ]
+    }
+  }
+}

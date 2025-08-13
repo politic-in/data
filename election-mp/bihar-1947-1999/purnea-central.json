@@ -1,0 +1,48 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "PURNEA CENTRAL",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 357038,
+        "total_votes_polled": 138412,
+        "turnout_percentage": 38.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Phani Gopal Sen Gupta",
+          "party": "Indian National Congress",
+          "votes": 78720,
+          "votes_percentage": 56.9
+        },
+        {
+          "position": 2,
+          "name": "Durga Prasad",
+          "party": "Independent",
+          "votes": 25361,
+          "votes_percentage": 18.3
+        },
+        {
+          "position": 3,
+          "name": "Arunchandra Sinha",
+          "party": "Socialist Party",
+          "votes": 23384,
+          "votes_percentage": 16.9
+        },
+        {
+          "position": 4,
+          "name": "Bishwanath Mukherjee",
+          "party": "Independent",
+          "votes": 10947,
+          "votes_percentage": 7.9
+        }
+      ]
+    }
+  }
+}

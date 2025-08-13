@@ -1,0 +1,71 @@
+{
+  "state": "West Bengal",
+  "constituency": "Krishna Nagar Uttar",
+  "district": "Nadia",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 230150,
+        "total_votes_polled": 199954,
+        "turnout_percentage": 87.7,
+        "margin_votes": 35089,
+        "margin_percentage": 17.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mukul Roy",
+          "party": "Bharatiya Janta Party",
+          "votes": 109357,
+          "votes_percentage": 54.7
+        },
+        {
+          "position": 2,
+          "name": "Koushani Mukherjee",
+          "party": "All India Trinamool Congress",
+          "votes": 74268,
+          "votes_percentage": 37.1
+        },
+        {
+          "position": 3,
+          "name": "Silvi Saha",
+          "party": "Indian National Congress",
+          "votes": 11407,
+          "votes_percentage": 5.7
+        },
+        {
+          "position": 4,
+          "name": "Dipika Pramanik",
+          "party": "Purvanchal Mahapanchayat",
+          "votes": 1460,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Sadhan Kumar Mandal",
+          "party": "Independent",
+          "votes": 1377,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Ashoke Chandra Das",
+          "party": "Bahujan Samaj Party",
+          "votes": 1358,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Joydip Chaudhuri",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 727,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "state": "Delhi [1977 Onwards]",
+  "constituency": "Ajmeri Gate",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1983": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 36294,
+        "total_votes_polled": 22793,
+        "turnout_percentage": 62.8,
+        "margin_votes": 2712,
+        "margin_percentage": 11.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mirza Siddiq Ali",
+          "party": "Janta Party",
+          "votes": 9409,
+          "votes_percentage": 43.0
+        },
+        {
+          "position": 2,
+          "name": "Viad Vidya Rattan",
+          "party": "Bharatiya Janta Party",
+          "votes": 6697,
+          "votes_percentage": 30.6
+        },
+        {
+          "position": 3,
+          "name": "Iqbal Athar Usmani",
+          "party": "Indian National Congress",
+          "votes": 5762,
+          "votes_percentage": 26.4
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 35903,
+        "total_votes_polled": 23307,
+        "turnout_percentage": 64.9,
+        "margin_votes": 2056,
+        "margin_percentage": 8.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sanwal Dass Gupta",
+          "party": "Janta Party",
+          "votes": 10372,
+          "votes_percentage": 45.7
+        },
+        {
+          "position": 2,
+          "name": "Mirza Siddiq Ali",
+          "party": "Indian National Congress",
+          "votes": 8316,
+          "votes_percentage": 36.6
+        },
+        {
+          "position": 3,
+          "name": "Hafiz Shafiqur Rehman",
+          "party": "Independent",
+          "votes": 3055,
+          "votes_percentage": 13.5
+        },
+        {
+          "position": 4,
+          "name": "Anwat Ali Delhvi",
+          "party": "Independent",
+          "votes": 952,
+          "votes_percentage": 4.2
+        }
+      ]
+    }
+  }
+}

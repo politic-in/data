@@ -1,0 +1,57 @@
+{
+  "state": "Mizoram",
+  "constituency": "Suanguilawn",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1979": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 8232,
+        "total_votes_polled": 6584,
+        "turnout_percentage": 80.0,
+        "margin_votes": 139,
+        "margin_percentage": 2.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "F. Malsawma",
+          "party": "Peoples Conference",
+          "votes": 3035,
+          "votes_percentage": 46.4
+        },
+        {
+          "position": 2,
+          "name": "H. Thansanga",
+          "party": "Indian National Congress (I)",
+          "votes": 2896,
+          "votes_percentage": 44.3
+        },
+        {
+          "position": 3,
+          "name": "Hranghnuna",
+          "party": "Independent",
+          "votes": 206,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 3,
+          "name": "R. Zamawia",
+          "party": "Independent",
+          "votes": 206,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 5,
+          "name": "Zakhawla",
+          "party": "Janta Party",
+          "votes": 196,
+          "votes_percentage": 3.0
+        }
+      ]
+    }
+  }
+}

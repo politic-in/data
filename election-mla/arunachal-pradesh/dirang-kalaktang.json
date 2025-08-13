@@ -1,0 +1,80 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Dirang Kalaktang",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 7812,
+        "total_votes_polled": 6165,
+        "turnout_percentage": 78.9,
+        "margin_votes": 1668,
+        "margin_percentage": 27.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nima Tsering Rupa",
+          "party": "Indian National Congress (I)",
+          "votes": 3169,
+          "votes_percentage": 54.4
+        },
+        {
+          "position": 2,
+          "name": "Dorjee Tsering Samphung",
+          "party": "Indian National Congress (U)",
+          "votes": 1501,
+          "votes_percentage": 25.8
+        },
+        {
+          "position": 3,
+          "name": "Lei Kunju Dirang",
+          "party": "Independent",
+          "votes": 895,
+          "votes_percentage": 15.4
+        },
+        {
+          "position": 4,
+          "name": "Lobsang Tsering Dirang",
+          "party": "Independent",
+          "votes": 142,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 5,
+          "name": "Dorjee Tseringh Bomdila",
+          "party": "Peoples Party Of Arunachal",
+          "votes": 118,
+          "votes_percentage": 2.0
+        }
+      ]
+    },
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 1,
+      "aggregate": {
+        "total_electors": 7232,
+        "total_votes_polled": 0,
+        "turnout_percentage": 0.0,
+        "total_valid_votes": 0,
+        "total_valid_votes_percentage": 0.0,
+        "margin_votes": 0,
+        "margin_percentage": 0.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Prem Khandu Thungon (Uncontested)",
+          "party": "Janta Party",
+          "votes": 0,
+          "votes_percentage": 0.0
+        }
+      ]
+    }
+  }
+}

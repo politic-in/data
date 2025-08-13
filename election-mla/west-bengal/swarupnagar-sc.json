@@ -1,0 +1,57 @@
+{
+  "state": "West Bengal",
+  "constituency": "SWARUPNAGAR (SC)",
+  "district": "North Twenty Four Parganas",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 223668,
+        "total_votes_polled": 191245,
+        "turnout_percentage": 86.4,
+        "margin_votes": 11941,
+        "margin_percentage": 6.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bina Mandal",
+          "party": "All India Trinamool Congress",
+          "votes": 93807,
+          "votes_percentage": 49.1
+        },
+        {
+          "position": 2,
+          "name": "Dhiman Sarkar",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 81866,
+          "votes_percentage": 42.8
+        },
+        {
+          "position": 3,
+          "name": "Mihir Kumar Bagchi",
+          "party": "Bharatiya Janta Party",
+          "votes": 12866,
+          "votes_percentage": 6.7
+        },
+        {
+          "position": 4,
+          "name": "Shibani Halder",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1618,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Santosh Kumar Biswas",
+          "party": "Bahujan Samaj Party",
+          "votes": 1088,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

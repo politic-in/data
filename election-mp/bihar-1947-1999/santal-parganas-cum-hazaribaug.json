@@ -1,0 +1,62 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "SANTAL PARGANAS CUM HAZARIBAUG",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 720478,
+        "total_votes_polled": 634118,
+        "turnout_percentage": 44.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ram Raj Jajware",
+          "party": "Indian National Congress",
+          "votes": 158325,
+          "votes_percentage": 25.0
+        },
+        {
+          "position": 1,
+          "name": "Lal Hembrom",
+          "party": "Indian National Congress",
+          "votes": 145155,
+          "votes_percentage": 22.9
+        },
+        {
+          "position": 3,
+          "name": "Bariar Hembrom",
+          "party": "Independent",
+          "votes": 134007,
+          "votes_percentage": 21.1
+        },
+        {
+          "position": 4,
+          "name": "Suresh Chandra Chowdh",
+          "party": "Independent",
+          "votes": 88198,
+          "votes_percentage": 13.9
+        },
+        {
+          "position": 5,
+          "name": "Anilendra Narayan Sin",
+          "party": "Independent",
+          "votes": 55175,
+          "votes_percentage": 8.7
+        },
+        {
+          "position": 6,
+          "name": "Chandra Mauleshwar Si",
+          "party": "Socialist Party",
+          "votes": 53258,
+          "votes_percentage": 8.4
+        }
+      ]
+    }
+  }
+}

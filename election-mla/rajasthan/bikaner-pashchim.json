@@ -1,0 +1,106 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Bikaner pashchim",
+  "district": "Bikaner",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 12,
+      "aggregate": {
+        "total_electors": 202442,
+        "total_votes_polled": 156114,
+        "turnout_percentage": 78.0,
+        "margin_votes": 6190,
+        "margin_percentage": 4.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bulaki Das Kalla",
+          "party": "Indian National Congress",
+          "votes": 75128,
+          "votes_percentage": 48.1
+        },
+        {
+          "position": 2,
+          "name": "Gopal Krishn",
+          "party": "Bharatiya Janta Party",
+          "votes": 68938,
+          "votes_percentage": 44.2
+        },
+        {
+          "position": 3,
+          "name": "Gopal Gahlot",
+          "party": "Independent",
+          "votes": 6563,
+          "votes_percentage": 4.2
+        },
+        {
+          "position": 4,
+          "name": "Narayan Hari",
+          "party": "Bahujan Samaj Party",
+          "votes": 1462,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Narayan",
+          "party": "Independent",
+          "votes": 1007,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Shabnam Bano",
+          "party": "Independent",
+          "votes": 900,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Chetan Prakash Pania",
+          "party": "Abhinav Rajasthan Party",
+          "votes": 884,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "Surendra Singh",
+          "party": "Independent",
+          "votes": 389,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Pukhraj",
+          "party": "Shiv Sena",
+          "votes": 306,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Shiv Shankar Ojha",
+          "party": "Anarakshit Samaj Party",
+          "votes": 216,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Ritesh Kumar",
+          "party": "Aam Aadmi Party",
+          "votes": 205,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Haji Mo.",
+          "party": "Dalit Kranti Dal",
+          "votes": 116,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

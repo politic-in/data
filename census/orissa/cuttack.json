@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 129801,
+        "male": 142015,
+        "percentage_of_total_population": 10.36,
+        "percentage_of_total_population_calculated": 10.36,
+        "percentage_of_total_population_stated": 10.36,
+        "sex_ratio": 914,
+        "total": 271816
+    },
+    "literacy": {
+        "female_literacy_rate": 79.55,
+        "female_literate": 908436,
+        "male_literacy_rate": 91.11,
+        "male_literate": 1103033,
+        "rate_percentage": 85.5,
+        "total_literate": 2011469
+    },
+    "population": {
+        "female": 1271710,
+        "male": 1352760,
+        "sex_ratio": 940,
+        "total": 2624470
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.24,
+            "population": 6276
+        },
+        "Christian": {
+            "percentage": 0.46,
+            "population": 11985
+        },
+        "Hindu": {
+            "percentage": 93.65,
+            "population": 2457729
+        },
+        "Jain": {
+            "percentage": 0.04,
+            "population": 1180
+        },
+        "Muslims": {
+            "percentage": 5.38,
+            "population": 141263
+        },
+        "Not Stated": {
+            "percentage": 0.18,
+            "population": 4843
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 168
+        },
+        "Sikh": {
+            "percentage": 0.04,
+            "population": 1026
+        }
+    },
+    "rural": {
+        "child_population_female": 96544,
+        "child_population_male": 105054,
+        "child_population_percentage": 10.68,
+        "child_population_percentage_calculated": 10.68,
+        "child_population_percentage_stated": 10.68,
+        "child_population_total": 201598,
+        "child_sex_ratio": 919,
+        "female": 917538,
+        "literacy_rate_female": 76.49,
+        "literacy_rate_male": 90.09,
+        "literacy_rate_percentage": 83.47,
+        "literate_female": 627956,
+        "literate_male": 780022,
+        "literate_total": 1407978,
+        "male": 970885,
+        "percentage_population": 71.95,
+        "population": 1888423,
+        "sex_ratio": 945
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/405-cuttack.html",
+    "urban": {
+        "child_population_female": 33235,
+        "child_population_male": 36983,
+        "child_population_percentage": 9.54,
+        "child_population_percentage_calculated": 9.54,
+        "child_population_percentage_stated": 9.54,
+        "child_population_total": 70218,
+        "child_sex_ratio": 899,
+        "female": 354172,
+        "literacy_rate_female": 87.39,
+        "literacy_rate_male": 93.66,
+        "literacy_rate_percentage": 90.64,
+        "literate_female": 280480,
+        "literate_male": 323011,
+        "literate_total": 603491,
+        "male": 381875,
+        "percentage_population": 28.05,
+        "population": 736047,
+        "sex_ratio": 927
+    }
+}

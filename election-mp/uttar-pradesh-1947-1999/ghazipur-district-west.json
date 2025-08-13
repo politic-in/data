@@ -1,0 +1,55 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "GHAZIPUR DISTRICT (WEST)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 392667,
+        "total_votes_polled": 169758,
+        "turnout_percentage": 43.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Har Prasad",
+          "party": "Indian National Congress",
+          "votes": 52809,
+          "votes_percentage": 31.1
+        },
+        {
+          "position": 2,
+          "name": "Vishwanath",
+          "party": "Socialist Party",
+          "votes": 39433,
+          "votes_percentage": 23.2
+        },
+        {
+          "position": 3,
+          "name": "Murli",
+          "party": "Independent",
+          "votes": 33356,
+          "votes_percentage": 19.6
+        },
+        {
+          "position": 4,
+          "name": "Balrup",
+          "party": "Revolutionary Socialist Party",
+          "votes": 22702,
+          "votes_percentage": 13.4
+        },
+        {
+          "position": 5,
+          "name": "Paras Ram Rai",
+          "party": "Independent",
+          "votes": 21458,
+          "votes_percentage": 12.6
+        }
+      ]
+    }
+  }
+}

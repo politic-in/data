@@ -1,0 +1,78 @@
+{
+  "state": "Karnataka",
+  "constituency": "Basavana",
+  "district": "Bijapur",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "12 May 2018",
+      "counting_date": "11 June 2018",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 196389,
+        "total_votes_polled": 145720,
+        "turnout_percentage": 75.1,
+        "margin_votes": 3186,
+        "margin_percentage": 2.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shivanand Patil",
+          "party": "Indian National Congress",
+          "votes": 58647,
+          "votes_percentage": 40.3
+        },
+        {
+          "position": 2,
+          "name": "Somanagouda(APPUGOUDA) B PATIL(MANAGULI)",
+          "party": "Janata Dal (Secular)",
+          "votes": 55461,
+          "votes_percentage": 38.1
+        },
+        {
+          "position": 3,
+          "name": "Sangaraj Desai",
+          "party": "Bharatiya Janta Party",
+          "votes": 25501,
+          "votes_percentage": 17.5
+        },
+        {
+          "position": 4,
+          "name": "Yallappa Basappa Gundakarajagi",
+          "party": "Independent",
+          "votes": 3008,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 5,
+          "name": "Laximbai W/o Shivanand G Patil",
+          "party": "Independent",
+          "votes": 1252,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Alur Ninganna Mallappa",
+          "party": "Jana Samanyara Party (Karnataka)",
+          "votes": 904,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Bhagyashree Shivanand Patil",
+          "party": "Independent",
+          "votes": 492,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Kenganal Mallikarjun Bhimappa",
+          "party": "Swaraj India",
+          "votes": 455,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

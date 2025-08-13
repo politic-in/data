@@ -1,0 +1,624 @@
+{
+  "state": "Karnataka",
+  "constituency": "Sandur",
+  "district": "Bellary",
+  "ac_type": "ST",
+  "results": {
+    "2023": {
+      "poll_date": "10 May 2023",
+      "counting_date": "10 May 2023",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 223311,
+        "total_votes_polled": 171768,
+        "turnout_percentage": 77.4,
+        "margin_votes": 35522,
+        "margin_percentage": 20.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "E. Tukaram",
+          "party": "Indian National Congress",
+          "votes": 85223,
+          "votes_percentage": 49.3
+        },
+        {
+          "position": 2,
+          "name": "Shilpa Raghavendra",
+          "party": "Bharatiya Janta Party",
+          "votes": 49701,
+          "votes_percentage": 28.8
+        },
+        {
+          "position": 3,
+          "name": "K.S. Divakar",
+          "party": "Kalyana Rajya Pragathi Paksha",
+          "votes": 31375,
+          "votes_percentage": 18.2
+        },
+        {
+          "position": 4,
+          "name": "N. Somappa",
+          "party": "Janata Dal (Secular)",
+          "votes": 2617,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Shakuntala Devi Lakshmi Priya",
+          "party": "Bahujan Samaj Party",
+          "votes": 933,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "K.R. Kumaraswamy",
+          "party": "Aam Aadmi Party",
+          "votes": 764,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Geregal Papayya",
+          "party": "Independent",
+          "votes": 593,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Veba Kumari",
+          "party": "Karnataka Rashtra Samithi",
+          "votes": 562,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2018": {
+      "poll_date": "12 May 2018",
+      "counting_date": "11 June 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 209739,
+        "total_votes_polled": 155907,
+        "turnout_percentage": 75.2,
+        "margin_votes": 14010,
+        "margin_percentage": 9.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "E Tukaram",
+          "party": "Indian National Congress",
+          "votes": 78106,
+          "votes_percentage": 50.1
+        },
+        {
+          "position": 2,
+          "name": "D Raghavendra (MANJU)",
+          "party": "Bharatiya Janta Party",
+          "votes": 64096,
+          "votes_percentage": 41.1
+        },
+        {
+          "position": 3,
+          "name": "Bangara Hanumanta",
+          "party": "Independent",
+          "votes": 7191,
+          "votes_percentage": 4.6
+        },
+        {
+          "position": 4,
+          "name": "B Vasanth Kumar",
+          "party": "Janata Dal (Secular)",
+          "votes": 4343,
+          "votes_percentage": 2.8
+        },
+        {
+          "position": 5,
+          "name": "A.Ramanjanappa",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1243,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Chetan.N",
+          "party": "All India Mahila Empowerment Party",
+          "votes": 928,
+          "votes_percentage": 0.6
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "05 May 2013",
+      "counting_date": "08 May 2013",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 171953,
+        "total_votes_polled": 128384,
+        "turnout_percentage": 74.7,
+        "margin_votes": 34631,
+        "margin_percentage": 27.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "E.Tukaram",
+          "party": "Indian National Congress",
+          "votes": 62246,
+          "votes_percentage": 48.5
+        },
+        {
+          "position": 2,
+          "name": "Dhananjaya.R",
+          "party": "Janata Dal (Secular)",
+          "votes": 27615,
+          "votes_percentage": 21.5
+        },
+        {
+          "position": 3,
+          "name": "Chinnabasappa.G",
+          "party": "Badavara Shramikara Raitara Congress Party",
+          "votes": 23359,
+          "votes_percentage": 18.2
+        },
+        {
+          "position": 4,
+          "name": "B.Raviprakash",
+          "party": "Karnataka Jantha Paksha",
+          "votes": 4355,
+          "votes_percentage": 3.4
+        },
+        {
+          "position": 5,
+          "name": "Marenna.E.",
+          "party": "Bharatiya Janta Party",
+          "votes": 3314,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 6,
+          "name": "Hanumantappa",
+          "party": "Communist Party Of India",
+          "votes": 2699,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 7,
+          "name": "P.Pandurangaiah",
+          "party": "Independent",
+          "votes": 1935,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 8,
+          "name": "Shivarama Bhimappa",
+          "party": "Independent",
+          "votes": 1911,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 9,
+          "name": "G.Veeranagouda",
+          "party": "Independent",
+          "votes": 950,
+          "votes_percentage": 0.7
+        }
+      ]
+    },
+    "2008": {
+      "poll_date": "16 May 2008",
+      "counting_date": "25 May 2008",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 138339,
+        "total_votes_polled": 106235,
+        "turnout_percentage": 76.8,
+        "margin_votes": 20719,
+        "margin_percentage": 19.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "E. Tukaram",
+          "party": "Indian National Congress",
+          "votes": 49535,
+          "votes_percentage": 46.6
+        },
+        {
+          "position": 2,
+          "name": "T. Nagaraj",
+          "party": "Bharatiya Janta Party",
+          "votes": 28816,
+          "votes_percentage": 27.1
+        },
+        {
+          "position": 3,
+          "name": "Basavaraj T",
+          "party": "Janata Dal (Secular)",
+          "votes": 16195,
+          "votes_percentage": 15.2
+        },
+        {
+          "position": 4,
+          "name": "B. Jayanna",
+          "party": "Bahujan Samaj Party",
+          "votes": 6019,
+          "votes_percentage": 5.7
+        },
+        {
+          "position": 5,
+          "name": "N. Venkanna",
+          "party": "Independent",
+          "votes": 3702,
+          "votes_percentage": 3.5
+        },
+        {
+          "position": 6,
+          "name": "Venkatesh",
+          "party": "Independent",
+          "votes": 1968,
+          "votes_percentage": 1.9
+        }
+      ]
+    },
+    "2004": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 158530,
+        "total_votes_polled": 116734,
+        "turnout_percentage": 73.6,
+        "margin_votes": 35544,
+        "margin_percentage": 30.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Santhosh S Lad",
+          "party": "Janata Dal (Secular)",
+          "votes": 65600,
+          "votes_percentage": 56.2
+        },
+        {
+          "position": 2,
+          "name": "Venkatarao Ghorpade",
+          "party": "Indian National Congress",
+          "votes": 30056,
+          "votes_percentage": 25.7
+        },
+        {
+          "position": 3,
+          "name": "Prathiba Kotrappa T",
+          "party": "Bharatiya Janta Party",
+          "votes": 8448,
+          "votes_percentage": 7.2
+        },
+        {
+          "position": 4,
+          "name": "Kanthikeya Ghorpade",
+          "party": "Independent",
+          "votes": 4475,
+          "votes_percentage": 3.8
+        },
+        {
+          "position": 5,
+          "name": "Shekar Babu B",
+          "party": "Jharkhand Party",
+          "votes": 1881,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 6,
+          "name": "Raghavendra G",
+          "party": "Kannada Nadu Party",
+          "votes": 1513,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 7,
+          "name": "Jilan Sab N",
+          "party": "Independent",
+          "votes": 1503,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 8,
+          "name": "Rajashekar Goud B",
+          "party": "Independent",
+          "votes": 1448,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 9,
+          "name": "Basappa Nayaka Vk",
+          "party": "Bahujan Samaj Party",
+          "votes": 1080,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 10,
+          "name": "Ramesh Chalavadi",
+          "party": "Independent",
+          "votes": 807,
+          "votes_percentage": 0.7
+        }
+      ]
+    },
+    "1999": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 137099,
+        "total_votes_polled": 96775,
+        "turnout_percentage": 70.6,
+        "margin_votes": 8993,
+        "margin_percentage": 9.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "My Ghorpade",
+          "party": "Indian National Congress",
+          "votes": 47681,
+          "votes_percentage": 53.1
+        },
+        {
+          "position": 2,
+          "name": "Heeroji Lad",
+          "party": "Janata Dal (United)",
+          "votes": 38688,
+          "votes_percentage": 43.1
+        },
+        {
+          "position": 3,
+          "name": "Kurubara Pompanna",
+          "party": "Janata Dal (Secular)",
+          "votes": 1961,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 4,
+          "name": "Gm Raghunath",
+          "party": "Bahujan Samaj Party",
+          "votes": 1547,
+          "votes_percentage": 1.7
+        }
+      ]
+    },
+    "1994": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 119766,
+        "total_votes_polled": 76777,
+        "turnout_percentage": 64.1,
+        "margin_votes": 24379,
+        "margin_percentage": 31.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "M.Y. Ghorpade",
+          "party": "Indian National Congress",
+          "votes": 39176,
+          "votes_percentage": 53.2
+        },
+        {
+          "position": 2,
+          "name": "Sudhakar Hiremath",
+          "party": "Karnataka Congress Party",
+          "votes": 14797,
+          "votes_percentage": 20.1
+        },
+        {
+          "position": 3,
+          "name": "Bhupathi",
+          "party": "Janata Dal",
+          "votes": 12946,
+          "votes_percentage": 17.6
+        },
+        {
+          "position": 4,
+          "name": "Gopinath Rao",
+          "party": "Bharatiya Janta Party",
+          "votes": 5040,
+          "votes_percentage": 6.9
+        },
+        {
+          "position": 5,
+          "name": "Maresha",
+          "party": "Independent",
+          "votes": 1341,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 6,
+          "name": "Upparu Thimmappa",
+          "party": "Independent",
+          "votes": 288,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "1989": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 115694,
+        "total_votes_polled": 78135,
+        "turnout_percentage": 67.5,
+        "margin_votes": 14870,
+        "margin_percentage": 19.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "M. Y. Ghropade",
+          "party": "Indian National Congress",
+          "votes": 42475,
+          "votes_percentage": 58.2
+        },
+        {
+          "position": 2,
+          "name": "Ayyalu Thimmappa",
+          "party": "Janata Dal",
+          "votes": 27605,
+          "votes_percentage": 37.8
+        },
+        {
+          "position": 3,
+          "name": "J. M. Vrushabhendraiah",
+          "party": "Janata Party (JP)",
+          "votes": 1850,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 4,
+          "name": "B. Dharna Naik",
+          "party": "Independent",
+          "votes": 523,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Moolimani Siddappa",
+          "party": "Independent",
+          "votes": 301,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "H. M. Shivanandaiah",
+          "party": "Independent",
+          "votes": 167,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "E. Ambamma",
+          "party": "Independent",
+          "votes": 72,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1985": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 89716,
+        "total_votes_polled": 48821,
+        "turnout_percentage": 54.4,
+        "margin_votes": 10120,
+        "margin_percentage": 20.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "U. Bhupathi",
+          "party": "Janta Party",
+          "votes": 26748,
+          "votes_percentage": 56.2
+        },
+        {
+          "position": 2,
+          "name": "K. S. Veerabhadrappa",
+          "party": "Indian National Congress",
+          "votes": 16628,
+          "votes_percentage": 34.9
+        },
+        {
+          "position": 3,
+          "name": "A. Prakash",
+          "party": "Bharatiya Janta Party",
+          "votes": 3093,
+          "votes_percentage": 6.5
+        },
+        {
+          "position": 4,
+          "name": "K. Basavaraj",
+          "party": "Independent",
+          "votes": 766,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 5,
+          "name": "Revadi Kumaraswamy Setty",
+          "party": "Independent",
+          "votes": 396,
+          "votes_percentage": 0.8
+        }
+      ]
+    },
+    "1983": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 83755,
+        "total_votes_polled": 50035,
+        "turnout_percentage": 59.7,
+        "margin_votes": 13092,
+        "margin_percentage": 26.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Heeroji V. S. Lad",
+          "party": "Indian National Congress",
+          "votes": 30496,
+          "votes_percentage": 63.7
+        },
+        {
+          "position": 2,
+          "name": "Aravind Malebennur",
+          "party": "Communist Party Of India",
+          "votes": 17404,
+          "votes_percentage": 36.3
+        }
+      ]
+    },
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 79364,
+        "total_votes_polled": 52728,
+        "turnout_percentage": 66.4,
+        "margin_votes": 15888,
+        "margin_percentage": 30.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "C. Rudrappa",
+          "party": "Indian National Congress (I)",
+          "votes": 31206,
+          "votes_percentage": 62.2
+        },
+        {
+          "position": 2,
+          "name": "Y. Thimmappa",
+          "party": "Janta Party",
+          "votes": 15318,
+          "votes_percentage": 30.5
+        },
+        {
+          "position": 3,
+          "name": "Heeroji",
+          "party": "Indian National Congress",
+          "votes": 3628,
+          "votes_percentage": 7.2
+        }
+      ]
+    }
+  }
+}

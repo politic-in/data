@@ -1,0 +1,591 @@
+{
+  "state": "Orissa",
+  "constituency": "Phulbani",
+  "district": "Kandhamal",
+  "ac_type": "ST",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 188577,
+        "total_votes_polled": 135212,
+        "turnout_percentage": 72.4,
+        "margin_votes": 24416,
+        "margin_percentage": 18.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Angada Kanhar",
+          "party": "Biju Janata Dal",
+          "votes": 65564,
+          "votes_percentage": 48.5
+        },
+        {
+          "position": 2,
+          "name": "Debanarayan Pradhan",
+          "party": "Bharatiya Janta Party",
+          "votes": 41148,
+          "votes_percentage": 30.4
+        },
+        {
+          "position": 3,
+          "name": "Kishor Chandra Kanhar",
+          "party": "Indian National Congress",
+          "votes": 23317,
+          "votes_percentage": 17.2
+        },
+        {
+          "position": 4,
+          "name": "Premasila Jhankar",
+          "party": "Independent",
+          "votes": 1409,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Nabina Chandra Kanhar",
+          "party": "Independent",
+          "votes": 1366,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Ananta Kanhar",
+          "party": "Independent",
+          "votes": 942,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Krushna Kanhar",
+          "party": "Independent",
+          "votes": 749,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "Jagadish Pradhan",
+          "party": "Independent",
+          "votes": 717,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "10 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 166391,
+        "total_votes_polled": 124922,
+        "turnout_percentage": 75.1,
+        "total_valid_votes": 123338,
+        "total_valid_votes_percentage": 74.1,
+        "margin_votes": 25795,
+        "margin_percentage": 20.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Duguni Kanhar",
+          "party": "Biju Janata Dal",
+          "votes": 58273,
+          "votes_percentage": 47.3
+        },
+        {
+          "position": 2,
+          "name": "Debanarayan Pradhan",
+          "party": "Bharatiya Janta Party",
+          "votes": 32478,
+          "votes_percentage": 26.3
+        },
+        {
+          "position": 3,
+          "name": "Sudarsan Kanhar",
+          "party": "Indian National Congress",
+          "votes": 21510,
+          "votes_percentage": 17.4
+        },
+        {
+          "position": 4,
+          "name": "Ananta Kanhar",
+          "party": "Kalinga Sena",
+          "votes": 3133,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 5,
+          "name": "Durgamadhab Kanhar",
+          "party": "Aama Odisha Party",
+          "votes": 2203,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 6,
+          "name": "Jalandhar Kanhar",
+          "party": "Independent",
+          "votes": 1683,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 7,
+          "name": "Harekrishna Mallick",
+          "party": "Bahujan Samaj Party",
+          "votes": 1535,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 8,
+          "name": "Umesh Prasad Patra",
+          "party": "Aam Aadmi Party",
+          "votes": 1288,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 9,
+          "name": "Purusottam Kanhar",
+          "party": "Odisha Jan Morcha",
+          "votes": 1235,
+          "votes_percentage": 1.0
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 159570,
+        "total_votes_polled": 104076,
+        "turnout_percentage": 65.2,
+        "margin_votes": 8729,
+        "margin_percentage": 8.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Debendra Kanhar",
+          "party": "Biju Janata Dal",
+          "votes": 38092,
+          "votes_percentage": 36.6
+        },
+        {
+          "position": 2,
+          "name": "Debanarayan Pradhan",
+          "party": "Bharatiya Janta Party",
+          "votes": 29363,
+          "votes_percentage": 28.2
+        },
+        {
+          "position": 3,
+          "name": "Jalandhar Kanhar",
+          "party": "Indian National Congress",
+          "votes": 23669,
+          "votes_percentage": 22.7
+        },
+        {
+          "position": 4,
+          "name": "Artatrana Kanhar",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 5816,
+          "votes_percentage": 5.6
+        },
+        {
+          "position": 5,
+          "name": "Lokanath Mallick",
+          "party": "Independent",
+          "votes": 4992,
+          "votes_percentage": 4.8
+        },
+        {
+          "position": 6,
+          "name": "Pradeep Kumar Nayak",
+          "party": "Samajwadi Party",
+          "votes": 2144,
+          "votes_percentage": 2.1
+        }
+      ]
+    },
+    "2004": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 172369,
+        "total_votes_polled": 114862,
+        "turnout_percentage": 66.6,
+        "margin_votes": 16131,
+        "margin_percentage": 14.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Padmanabha Behera",
+          "party": "Biju Janata Dal",
+          "votes": 58074,
+          "votes_percentage": 50.6
+        },
+        {
+          "position": 2,
+          "name": "Radhakanta Digal",
+          "party": "Indian National Congress",
+          "votes": 41943,
+          "votes_percentage": 36.5
+        },
+        {
+          "position": 3,
+          "name": "Sanjit Kumar Mandal",
+          "party": "Independent",
+          "votes": 9074,
+          "votes_percentage": 7.9
+        },
+        {
+          "position": 4,
+          "name": "Bibhu Prasad Nayak",
+          "party": "Bahujan Samaj Party",
+          "votes": 2229,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 5,
+          "name": "Udayanath Sahani",
+          "party": "Independent",
+          "votes": 2122,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 6,
+          "name": "Trinath Majhi",
+          "party": "Independent",
+          "votes": 1431,
+          "votes_percentage": 1.3
+        }
+      ]
+    },
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 165845,
+        "total_votes_polled": 97687,
+        "turnout_percentage": 58.9,
+        "margin_votes": 10469,
+        "margin_percentage": 10.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bishnu Priya Behera",
+          "party": "Biju Janata Dal",
+          "votes": 48466,
+          "votes_percentage": 50.3
+        },
+        {
+          "position": 2,
+          "name": "Abhimanyu Behera",
+          "party": "Indian National Congress",
+          "votes": 37997,
+          "votes_percentage": 39.4
+        },
+        {
+          "position": 3,
+          "name": "Ugresan Nayak",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 5336,
+          "votes_percentage": 5.5
+        },
+        {
+          "position": 4,
+          "name": "Nakul Nayak",
+          "party": "Bahujan Samaj Party",
+          "votes": 2238,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 5,
+          "name": "Ratnakar Digal",
+          "party": "Nationalist Congress Party",
+          "votes": 1594,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 6,
+          "name": "Debendra Behera",
+          "party": "Independent",
+          "votes": 531,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Batakrishna Pradhan",
+          "party": "Bharipa Bahujan Mahasangh",
+          "votes": 294,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "1995": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 146651,
+        "total_votes_polled": 113548,
+        "turnout_percentage": 77.4,
+        "margin_votes": 1836,
+        "margin_percentage": 1.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dasarathi Behera",
+          "party": "Independent",
+          "votes": 40231,
+          "votes_percentage": 36.6
+        },
+        {
+          "position": 2,
+          "name": "Padmanava Behera",
+          "party": "Janata Dal",
+          "votes": 38395,
+          "votes_percentage": 34.9
+        },
+        {
+          "position": 3,
+          "name": "Sakuntala Mahalik",
+          "party": "Indian National Congress",
+          "votes": 16394,
+          "votes_percentage": 14.9
+        },
+        {
+          "position": 4,
+          "name": "Ramabisi Digal",
+          "party": "Independent",
+          "votes": 9608,
+          "votes_percentage": 8.7
+        },
+        {
+          "position": 5,
+          "name": "Raghunath Sethi",
+          "party": "Bharatiya Janta Party",
+          "votes": 3470,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 6,
+          "name": "Baka Digal",
+          "party": "Independent",
+          "votes": 1296,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 7,
+          "name": "Chandra Sekhar Behera",
+          "party": "Independent",
+          "votes": 372,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Rabi Narayan Behera",
+          "party": "Independent",
+          "votes": 197,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "1990": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 136612,
+        "total_votes_polled": 67491,
+        "turnout_percentage": 49.4,
+        "margin_votes": 20125,
+        "margin_percentage": 29.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Padmanava Behera",
+          "party": "Janata Dal",
+          "votes": 42115,
+          "votes_percentage": 64.0
+        },
+        {
+          "position": 2,
+          "name": "Abhimanyu Behera",
+          "party": "Indian National Congress",
+          "votes": 21990,
+          "votes_percentage": 33.4
+        },
+        {
+          "position": 3,
+          "name": "Satya Behera",
+          "party": "Janata Party (JP)",
+          "votes": 990,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 4,
+          "name": "Dillip Kumar Behera",
+          "party": "Independent",
+          "votes": 705,
+          "votes_percentage": 1.1
+        }
+      ]
+    },
+    "1985": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 101483,
+        "total_votes_polled": 38873,
+        "turnout_percentage": 38.3,
+        "margin_votes": 8300,
+        "margin_percentage": 21.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Abhimanyu Behera",
+          "party": "Indian National Congress",
+          "votes": 17572,
+          "votes_percentage": 46.6
+        },
+        {
+          "position": 2,
+          "name": "Sunyabasi Behera",
+          "party": "Janta Party",
+          "votes": 9272,
+          "votes_percentage": 24.6
+        },
+        {
+          "position": 3,
+          "name": "Padmanabha Behera",
+          "party": "Independent",
+          "votes": 8094,
+          "votes_percentage": 21.5
+        },
+        {
+          "position": 4,
+          "name": "Brajamohan Behera",
+          "party": "Bharatiya Janta Party",
+          "votes": 1191,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 5,
+          "name": "Mahadeb Mahananda",
+          "party": "Independent",
+          "votes": 899,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 6,
+          "name": "Inkish Digal",
+          "party": "Independent",
+          "votes": 644,
+          "votes_percentage": 1.7
+        }
+      ]
+    },
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 93682,
+        "total_votes_polled": 27871,
+        "turnout_percentage": 29.8,
+        "margin_votes": 7213,
+        "margin_percentage": 25.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chandra Sekhar Behera",
+          "party": "Indian National Congress (I)",
+          "votes": 16124,
+          "votes_percentage": 60.2
+        },
+        {
+          "position": 2,
+          "name": "Indramani Behera",
+          "party": "Janata Party (SECULAR) - CH. CHARAN SINGH",
+          "votes": 8911,
+          "votes_percentage": 33.3
+        },
+        {
+          "position": 3,
+          "name": "Gangadhar Nayak",
+          "party": "Indian National Congress (U)",
+          "votes": 1160,
+          "votes_percentage": 4.3
+        },
+        {
+          "position": 4,
+          "name": "Thakura Nayak",
+          "party": "Independent",
+          "votes": 463,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 5,
+          "name": "Durjodhar Pradhan",
+          "party": "Independent",
+          "votes": 107,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 86981,
+        "total_votes_polled": 22738,
+        "turnout_percentage": 26.1,
+        "margin_votes": 5332,
+        "margin_percentage": 23.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Prahallad Behera",
+          "party": "Janta Party",
+          "votes": 12525,
+          "votes_percentage": 57.1
+        },
+        {
+          "position": 2,
+          "name": "Chandra Sekhar Behera",
+          "party": "Indian National Congress",
+          "votes": 7193,
+          "votes_percentage": 32.8
+        },
+        {
+          "position": 3,
+          "name": "Bansidhar Behera",
+          "party": "Independent",
+          "votes": 1759,
+          "votes_percentage": 8.0
+        },
+        {
+          "position": 4,
+          "name": "Sahadeb Nayak",
+          "party": "Independent",
+          "votes": 451,
+          "votes_percentage": 2.1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 51835,
+        "male": 53493,
+        "percentage_of_total_population": 9.26,
+        "percentage_of_total_population_calculated": 9.26,
+        "percentage_of_total_population_stated": 9.26,
+        "sex_ratio": 969,
+        "total": 105328
+    },
+    "literacy": {
+        "female_literacy_rate": 73.16,
+        "female_literate": 380088,
+        "male_literacy_rate": 85.41,
+        "male_literate": 438257,
+        "rate_percentage": 79.25,
+        "total_literate": 818345
+    },
+    "population": {
+        "female": 571339,
+        "male": 566622,
+        "sex_ratio": 1008,
+        "total": 1137961
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 109
+        },
+        "Christian": {
+            "percentage": 2.28,
+            "population": 26000
+        },
+        "Hindu": {
+            "percentage": 88.28,
+            "population": 1004553
+        },
+        "Jain": {
+            "percentage": 0.41,
+            "population": 4710
+        },
+        "Muslims": {
+            "percentage": 8.9,
+            "population": 101235
+        },
+        "Not Stated": {
+            "percentage": 0.1,
+            "population": 1168
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 4
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 182
+        }
+    },
+    "rural": {
+        "child_population_female": 40491,
+        "child_population_male": 41714,
+        "child_population_percentage": 9.15,
+        "child_population_percentage_calculated": 9.15,
+        "child_population_percentage_stated": 9.15,
+        "child_population_total": 82205,
+        "child_sex_ratio": 971,
+        "female": 450908,
+        "literacy_rate_female": 70.15,
+        "literacy_rate_male": 83.82,
+        "literacy_rate_percentage": 76.95,
+        "literate_female": 287897,
+        "literate_male": 340186,
+        "literate_total": 628083,
+        "male": 447545,
+        "percentage_population": 78.95,
+        "population": 898453,
+        "sex_ratio": 1008
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/250-chikmagalur.html",
+    "urban": {
+        "child_population_female": 11344,
+        "child_population_male": 11779,
+        "child_population_percentage": 9.65,
+        "child_population_percentage_calculated": 9.65,
+        "child_population_percentage_stated": 9.65,
+        "child_population_total": 23123,
+        "child_sex_ratio": 963,
+        "female": 120431,
+        "literacy_rate_female": 84.51,
+        "literacy_rate_male": 91.4,
+        "literacy_rate_percentage": 87.93,
+        "literate_female": 92191,
+        "literate_male": 98071,
+        "literate_total": 190262,
+        "male": 119077,
+        "percentage_population": 21.05,
+        "population": 239508,
+        "sex_ratio": 1011
+    }
+}

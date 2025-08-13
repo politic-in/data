@@ -1,0 +1,64 @@
+{
+  "state": "Tripura",
+  "constituency": "Chawmanu (ST)",
+  "district": "Dhalai",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 39319,
+        "total_votes_polled": 34509,
+        "turnout_percentage": 88.9,
+        "margin_votes": 3755,
+        "margin_percentage": 10.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sambhu Lal Chakma",
+          "party": "Bharatiya Janta Party",
+          "votes": 18290,
+          "votes_percentage": 53.0
+        },
+        {
+          "position": 2,
+          "name": "Nirajoy Tripura",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 14535,
+          "votes_percentage": 42.1
+        },
+        {
+          "position": 3,
+          "name": "Bihari Baishnab Tripura",
+          "party": "Indigenous Nationalist Party Of Twipra",
+          "votes": 665,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 5,
+          "name": "Ashok Mitra Karbari",
+          "party": "Indian National Congress",
+          "votes": 432,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 6,
+          "name": "Bikash Debbarma",
+          "party": "Tipraland State Party",
+          "votes": 343,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 7,
+          "name": "Asit Debbarma",
+          "party": "Independent",
+          "votes": 244,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

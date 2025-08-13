@@ -1,0 +1,78 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Namsai Chowkham",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1984": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 18772,
+        "total_votes_polled": 14204,
+        "turnout_percentage": 75.7,
+        "margin_votes": 182,
+        "margin_percentage": 1.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "C.P. Namshoom",
+          "party": "Independent",
+          "votes": 5816,
+          "votes_percentage": 43.7
+        },
+        {
+          "position": 2,
+          "name": "Chau Khouk Manpoong",
+          "party": "Indian National Congress",
+          "votes": 5634,
+          "votes_percentage": 42.3
+        },
+        {
+          "position": 3,
+          "name": "Sinai",
+          "party": "Independent",
+          "votes": 1347,
+          "votes_percentage": 10.1
+        },
+        {
+          "position": 4,
+          "name": "G.C. Deori Lapfroo",
+          "party": "Independent",
+          "votes": 509,
+          "votes_percentage": 3.8
+        }
+      ]
+    },
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 15689,
+        "total_votes_polled": 12155,
+        "turnout_percentage": 77.5,
+        "margin_votes": 687,
+        "margin_percentage": 5.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chau Khouk Manpoong",
+          "party": "Peoples Party Of Arunachal",
+          "votes": 6089,
+          "votes_percentage": 53.0
+        },
+        {
+          "position": 2,
+          "name": "Chow Tewa Mien",
+          "party": "Indian National Congress (I)",
+          "votes": 5402,
+          "votes_percentage": 47.0
+        }
+      ]
+    }
+  }
+}

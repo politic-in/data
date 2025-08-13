@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 155423,
+        "male": 175620,
+        "percentage_of_total_population": 12.12,
+        "percentage_of_total_population_calculated": 12.12,
+        "percentage_of_total_population_stated": 12.12,
+        "sex_ratio": 885,
+        "total": 331043
+    },
+    "literacy": {
+        "female_literacy_rate": 80.55,
+        "female_literate": 893366,
+        "male_literacy_rate": 91.73,
+        "male_literate": 1185036,
+        "rate_percentage": 86.57,
+        "total_literate": 2078402
+    },
+    "population": {
+        "female": 1264501,
+        "male": 1467428,
+        "sex_ratio": 862,
+        "total": 2731929
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.14,
+            "population": 3862
+        },
+        "Christian": {
+            "percentage": 1.53,
+            "population": 41880
+        },
+        "Hindu": {
+            "percentage": 78.91,
+            "population": 2155759
+        },
+        "Jain": {
+            "percentage": 0.4,
+            "population": 11020
+        },
+        "Muslims": {
+            "percentage": 16.32,
+            "population": 445914
+        },
+        "Not Stated": {
+            "percentage": 0.12,
+            "population": 3329
+        },
+        "Others": {
+            "percentage": 0.02,
+            "population": 645
+        },
+        "Sikh": {
+            "percentage": 2.54,
+            "population": 69520
+        }
+    },
+    "rural": {
+        "child_population_female": 865,
+        "child_population_male": 932,
+        "child_population_percentage": 14.74,
+        "child_population_percentage_calculated": 14.74,
+        "child_population_percentage_stated": 14.74,
+        "child_population_total": 1797,
+        "child_sex_ratio": 928,
+        "female": 5374,
+        "literacy_rate_female": 68.75,
+        "literacy_rate_male": 85.54,
+        "literacy_rate_percentage": 78.26,
+        "literate_female": 3100,
+        "literate_male": 5036,
+        "literate_total": 8136,
+        "male": 6819,
+        "percentage_population": 0.45,
+        "population": 12193,
+        "sex_ratio": 788
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/176-south-delhi.html",
+    "urban": {
+        "child_population_female": 154586,
+        "child_population_male": 174660,
+        "child_population_percentage": 12.11,
+        "child_population_percentage_calculated": 12.11,
+        "child_population_percentage_stated": 12.11,
+        "child_population_total": 329246,
+        "child_sex_ratio": 885,
+        "female": 1259127,
+        "literacy_rate_female": 80.6,
+        "literacy_rate_male": 91.76,
+        "literacy_rate_percentage": 86.6,
+        "literate_female": 890266,
+        "literate_male": 1180000,
+        "literate_total": 2070266,
+        "male": 1460609,
+        "percentage_population": 99.55,
+        "population": 2719736,
+        "sex_ratio": 862
+    }
+}

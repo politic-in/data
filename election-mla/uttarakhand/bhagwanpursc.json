@@ -1,0 +1,64 @@
+{
+  "state": "Uttarakhand",
+  "constituency": "BHAGWANPUR(SC)",
+  "district": "Hardwar",
+  "ac_type": "SC",
+  "results": {
+    "2022": {
+      "poll_date": "14 February 2022",
+      "counting_date": "10 March 2022",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 144148,
+        "total_votes_polled": 98430,
+        "turnout_percentage": 68.5,
+        "margin_votes": 4811,
+        "margin_percentage": 4.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mamta Rakesh",
+          "party": "Indian National Congress",
+          "votes": 44808,
+          "votes_percentage": 45.5
+        },
+        {
+          "position": 2,
+          "name": "Subodh Rakesh",
+          "party": "Bahujan Samaj Party",
+          "votes": 39997,
+          "votes_percentage": 40.6
+        },
+        {
+          "position": 3,
+          "name": "Satyapal Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 12067,
+          "votes_percentage": 12.3
+        },
+        {
+          "position": 4,
+          "name": "Amrish Kumar",
+          "party": "Aazad Samaj Party (Kanshi Ram)",
+          "votes": 762,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 5,
+          "name": "Prem Singh",
+          "party": "Aam Aadmi Party",
+          "votes": 678,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Sher Singh",
+          "party": "Independent",
+          "votes": 118,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "state": "Madhya Pradesh [1947   1999]",
+  "constituency": "YEOTMAL",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 396935,
+        "total_votes_polled": 221757,
+        "turnout_percentage": 55.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sahadeo Arjun Bharati",
+          "party": "Indian National Congress",
+          "votes": 124376,
+          "votes_percentage": 56.1
+        },
+        {
+          "position": 2,
+          "name": "Ramnarayan Ramgopal Chemadia",
+          "party": "Socialist Party",
+          "votes": 54887,
+          "votes_percentage": 24.8
+        },
+        {
+          "position": 3,
+          "name": "Mahadeo Paikaji Kolhe",
+          "party": "Independent",
+          "votes": 22993,
+          "votes_percentage": 10.4
+        },
+        {
+          "position": 4,
+          "name": "Sanjabrao Baliram Dhote",
+          "party": "S.K. Paksha",
+          "votes": 19501,
+          "votes_percentage": 8.8
+        }
+      ]
+    }
+  }
+}

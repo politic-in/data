@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 70344,
+        "male": 71560,
+        "percentage_of_total_population": 17.25,
+        "percentage_of_total_population_calculated": 17.25,
+        "percentage_of_total_population_stated": 17.25,
+        "sex_ratio": 983,
+        "total": 141904
+    },
+    "literacy": {
+        "female_literacy_rate": 48.71,
+        "female_literate": 165664,
+        "male_literacy_rate": 72.98,
+        "male_literate": 248503,
+        "rate_percentage": 60.85,
+        "total_literate": 414167
+    },
+    "population": {
+        "female": 410468,
+        "male": 412058,
+        "sex_ratio": 996,
+        "total": 822526
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.05,
+            "population": 433
+        },
+        "Christian": {
+            "percentage": 0.12,
+            "population": 980
+        },
+        "Hindu": {
+            "percentage": 94.35,
+            "population": 776013
+        },
+        "Jain": {
+            "percentage": 0.14,
+            "population": 1167
+        },
+        "Muslims": {
+            "percentage": 1.48,
+            "population": 12206
+        },
+        "Not Stated": {
+            "percentage": 0.07,
+            "population": 581
+        },
+        "Others": {
+            "percentage": 3.67,
+            "population": 30222
+        },
+        "Sikh": {
+            "percentage": 0.11,
+            "population": 924
+        }
+    },
+    "rural": {
+        "child_population_female": 64043,
+        "child_population_male": 64914,
+        "child_population_percentage": 17.54,
+        "child_population_percentage_calculated": 17.54,
+        "child_population_percentage_stated": 17.54,
+        "child_population_total": 128957,
+        "child_sex_ratio": 987,
+        "female": 367190,
+        "literacy_rate_female": 46.29,
+        "literacy_rate_male": 71.61,
+        "literacy_rate_percentage": 58.94,
+        "literate_female": 140315,
+        "literate_male": 216986,
+        "literate_total": 357301,
+        "male": 367941,
+        "percentage_population": 89.37,
+        "population": 735131,
+        "sex_ratio": 998
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/492-kabirdham.html",
+    "urban": {
+        "child_population_female": 6290,
+        "child_population_male": 6657,
+        "child_population_percentage": 14.81,
+        "child_population_percentage_calculated": 14.81,
+        "child_population_percentage_stated": 14.81,
+        "child_population_total": 12947,
+        "child_sex_ratio": 945,
+        "female": 43278,
+        "literacy_rate_female": 68.53,
+        "literacy_rate_male": 84.14,
+        "literacy_rate_percentage": 76.38,
+        "literate_female": 25349,
+        "literate_male": 31517,
+        "literate_total": 56866,
+        "male": 44117,
+        "percentage_population": 10.63,
+        "population": 87395,
+        "sex_ratio": 981
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 7665,
+        "male": 7830,
+        "percentage_of_total_population": 17.94,
+        "percentage_of_total_population_calculated": 17.94,
+        "percentage_of_total_population_stated": 17.94,
+        "sex_ratio": 979,
+        "total": 15495
+    },
+    "literacy": {
+        "female_literacy_rate": 80.35,
+        "female_literate": 27214,
+        "male_literacy_rate": 89.13,
+        "male_literate": 32977,
+        "rate_percentage": 84.93,
+        "total_literate": 60191
+    },
+    "population": {
+        "female": 41536,
+        "male": 44828,
+        "sex_ratio": 927,
+        "total": 86364
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 14.27,
+            "population": 12328
+        },
+        "Christian": {
+            "percentage": 80.01,
+            "population": 69104
+        },
+        "Hindu": {
+            "percentage": 3.46,
+            "population": 2989
+        },
+        "Jain": {
+            "percentage": 0.03,
+            "population": 25
+        },
+        "Muslims": {
+            "percentage": 2.06,
+            "population": 1782
+        },
+        "Not Stated": {
+            "percentage": 0.12,
+            "population": 104
+        },
+        "Others": {
+            "percentage": 0.02,
+            "population": 19
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 13
+        }
+    },
+    "rural": {
+        "child_population_female": 6542,
+        "child_population_male": 6650,
+        "child_population_percentage": 18.46,
+        "child_population_percentage_calculated": 18.46,
+        "child_population_percentage_stated": 18.46,
+        "child_population_total": 13192,
+        "child_sex_ratio": 984,
+        "female": 34330,
+        "literacy_rate_female": 77.16,
+        "literacy_rate_male": 87.69,
+        "literacy_rate_percentage": 82.67,
+        "literate_female": 21442,
+        "literate_male": 26732,
+        "literate_total": 48174,
+        "male": 37135,
+        "percentage_population": 82.75,
+        "population": 71465,
+        "sex_ratio": 924
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/386-mamit.html",
+    "urban": {
+        "child_population_female": 1125,
+        "child_population_male": 1178,
+        "child_population_percentage": 15.46,
+        "child_population_percentage_calculated": 15.46,
+        "child_population_percentage_stated": 15.46,
+        "child_population_total": 2303,
+        "child_sex_ratio": 955,
+        "female": 7206,
+        "literacy_rate_female": 94.92,
+        "literacy_rate_male": 95.86,
+        "literacy_rate_percentage": 95.4,
+        "literate_female": 5772,
+        "literate_male": 6245,
+        "literate_total": 12017,
+        "male": 7693,
+        "percentage_population": 17.25,
+        "population": 14899,
+        "sex_ratio": 937
+    }
+}

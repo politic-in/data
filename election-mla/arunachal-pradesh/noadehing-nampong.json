@@ -1,0 +1,50 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Noadehing Nampong",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 4735,
+        "total_votes_polled": 3609,
+        "turnout_percentage": 76.2,
+        "margin_votes": 247,
+        "margin_percentage": 6.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jungpum Jugli",
+          "party": "Peoples Party Of Arunachal",
+          "votes": 1209,
+          "votes_percentage": 34.6
+        },
+        {
+          "position": 2,
+          "name": "Samchom Ngemu",
+          "party": "Independent",
+          "votes": 962,
+          "votes_percentage": 27.5
+        },
+        {
+          "position": 3,
+          "name": "Puyog Tikhar",
+          "party": "Janta Party",
+          "votes": 893,
+          "votes_percentage": 25.5
+        },
+        {
+          "position": 4,
+          "name": "Komkoi Taisam Lungchang",
+          "party": "Independent",
+          "votes": 432,
+          "votes_percentage": 12.4
+        }
+      ]
+    }
+  }
+}

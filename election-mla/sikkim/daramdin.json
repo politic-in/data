@@ -1,0 +1,411 @@
+{
+  "state": "Sikkim",
+  "constituency": "Daramdin",
+  "district": "West",
+  "ac_type": "BL",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 15325,
+        "total_votes_polled": 12594,
+        "turnout_percentage": 82.7,
+        "margin_votes": 336,
+        "margin_percentage": 2.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mingma Norbu Sherpa",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 6219,
+          "votes_percentage": 49.4
+        },
+        {
+          "position": 2,
+          "name": "Pem Norbu Sherpa",
+          "party": "Sikkim Democratic Front",
+          "votes": 5883,
+          "votes_percentage": 46.7
+        },
+        {
+          "position": 3,
+          "name": "Rozer Tasho Lepcha",
+          "party": "Bharatiya Janta Party",
+          "votes": 317,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 4,
+          "name": "Passang Gyalchen Sherpa",
+          "party": "Indian National Congress",
+          "votes": 102,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 5,
+          "name": "Datempa Sherpa",
+          "party": "Sikkim Rajya Manch Party",
+          "votes": 43,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 6,
+          "name": "Sonam Gyatso Sherpa",
+          "party": "Hamro Sikkim Party",
+          "votes": 30,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "12 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 13420,
+        "total_votes_polled": 11387,
+        "turnout_percentage": 84.9,
+        "total_valid_votes": 11202,
+        "total_valid_votes_percentage": 83.5,
+        "margin_votes": 1604,
+        "margin_percentage": 14.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Danorbu Sherpa",
+          "party": "Sikkim Democratic Front",
+          "votes": 6250,
+          "votes_percentage": 55.8
+        },
+        {
+          "position": 2,
+          "name": "Mingma Norbu Sherpa",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 4646,
+          "votes_percentage": 41.5
+        },
+        {
+          "position": 3,
+          "name": "Laden Lepcha",
+          "party": "Indian National Congress",
+          "votes": 306,
+          "votes_percentage": 2.7
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "30 April 2009",
+      "counting_date": "05 June 2009",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 11122,
+        "total_votes_polled": 9435,
+        "turnout_percentage": 84.8,
+        "total_valid_votes": 9235,
+        "total_valid_votes_percentage": 83.0,
+        "margin_votes": 4700,
+        "margin_percentage": 49.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tenzi Sherpa",
+          "party": "Sikkim Democratic Front",
+          "votes": 6507,
+          "votes_percentage": 69.0
+        },
+        {
+          "position": 2,
+          "name": "Pem Nuri Sherpa",
+          "party": "Indian National Congress",
+          "votes": 1807,
+          "votes_percentage": 19.2
+        },
+        {
+          "position": 3,
+          "name": "Laden Lepcha",
+          "party": "Sikkim Himali Rajya Parishad",
+          "votes": 834,
+          "votes_percentage": 8.8
+        },
+        {
+          "position": 4,
+          "name": "Sonam Sherpa",
+          "party": "Sikkim Gorkha Prajatantric Party",
+          "votes": 173,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 5,
+          "name": "Steny Lepcha",
+          "party": "Nationalist Congress Party",
+          "votes": 114,
+          "votes_percentage": 1.2
+        }
+      ]
+    },
+    "2004": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 9248,
+        "total_votes_polled": 7193,
+        "turnout_percentage": 77.8,
+        "margin_votes": 5561,
+        "margin_percentage": 77.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ran Bahadur Subba",
+          "party": "Sikkim Democratic Front",
+          "votes": 6380,
+          "votes_percentage": 87.1
+        },
+        {
+          "position": 2,
+          "name": "Amar Subba",
+          "party": "Indian National Congress",
+          "votes": 819,
+          "votes_percentage": 11.2
+        },
+        {
+          "position": 3,
+          "name": "Pushker Limbu",
+          "party": "Independent",
+          "votes": 123,
+          "votes_percentage": 1.7
+        }
+      ]
+    },
+    "1999": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 8268,
+        "total_votes_polled": 6878,
+        "turnout_percentage": 83.2,
+        "margin_votes": 1662,
+        "margin_percentage": 24.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ran Bahadur Subba",
+          "party": "Sikkim Democratic Front",
+          "votes": 4194,
+          "votes_percentage": 61.9
+        },
+        {
+          "position": 2,
+          "name": "Akar Dhoj Subba",
+          "party": "Sikkim Sangram Parishad",
+          "votes": 2532,
+          "votes_percentage": 37.4
+        },
+        {
+          "position": 3,
+          "name": "Pushker Limbu",
+          "party": "Indian National Congress",
+          "votes": 51,
+          "votes_percentage": 0.8
+        }
+      ]
+    },
+    "1994": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 7448,
+        "total_votes_polled": 6278,
+        "turnout_percentage": 84.3,
+        "margin_votes": 1810,
+        "margin_percentage": 28.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ran Bahadur Subba",
+          "party": "Sikkim Democratic Front",
+          "votes": 3832,
+          "votes_percentage": 62.3
+        },
+        {
+          "position": 2,
+          "name": "Padam Bahadur Gurung",
+          "party": "Sikkim Sangram Parishad",
+          "votes": 2022,
+          "votes_percentage": 32.9
+        },
+        {
+          "position": 3,
+          "name": "Sunita Pradhan",
+          "party": "Independent",
+          "votes": 167,
+          "votes_percentage": 2.7
+        },
+        {
+          "position": 4,
+          "name": "Satish Mohan Pradhan",
+          "party": "Indian National Congress",
+          "votes": 124,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 5,
+          "name": "Chatra Man Limbu",
+          "party": "Independent",
+          "votes": 6,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1989": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 7033,
+        "total_votes_polled": 4965,
+        "turnout_percentage": 70.6,
+        "margin_votes": 2788,
+        "margin_percentage": 56.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Padam Bahadur Gurung",
+          "party": "Sikkim Sangram Parishad",
+          "votes": 3745,
+          "votes_percentage": 77.9
+        },
+        {
+          "position": 2,
+          "name": "Ram Bahadur Limbu",
+          "party": "Indian National Congress",
+          "votes": 957,
+          "votes_percentage": 19.9
+        },
+        {
+          "position": 3,
+          "name": "Passang Sherpa",
+          "party": "Independent",
+          "votes": 75,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 4,
+          "name": "Bom Prasad Subba",
+          "party": "Rising Sun Party",
+          "votes": 28,
+          "votes_percentage": 0.6
+        }
+      ]
+    },
+    "1985": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 5088,
+        "total_votes_polled": 3422,
+        "turnout_percentage": 67.3,
+        "margin_votes": 1080,
+        "margin_percentage": 31.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Padam Bahadur Gurung",
+          "party": "Sikkim Sangram Parishad",
+          "votes": 2131,
+          "votes_percentage": 63.7
+        },
+        {
+          "position": 2,
+          "name": "Ram Bahadur Subba",
+          "party": "Indian National Congress",
+          "votes": 1051,
+          "votes_percentage": 31.4
+        },
+        {
+          "position": 3,
+          "name": "Birkha Singh Subba",
+          "party": "Independent",
+          "votes": 124,
+          "votes_percentage": 3.7
+        },
+        {
+          "position": 4,
+          "name": "Ratan Bahadur Rai",
+          "party": "Independent",
+          "votes": 30,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Bahadur Subba",
+          "party": "Janta Party",
+          "votes": 9,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "1979": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 3723,
+        "total_votes_polled": 2711,
+        "turnout_percentage": 72.8,
+        "margin_votes": 1447,
+        "margin_percentage": 53.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Padam Bahadur Gurung",
+          "party": "Sikkim Janata Parishad",
+          "votes": 1770,
+          "votes_percentage": 68.3
+        },
+        {
+          "position": 2,
+          "name": "Phurba Sangey Sherpa",
+          "party": "Janta Party",
+          "votes": 323,
+          "votes_percentage": 12.5
+        },
+        {
+          "position": 3,
+          "name": "Ram Chandra Sharma",
+          "party": "Sikkim Congress (R)",
+          "votes": 241,
+          "votes_percentage": 9.3
+        },
+        {
+          "position": 4,
+          "name": "Purna Bahadur Subba",
+          "party": "Independent",
+          "votes": 226,
+          "votes_percentage": 8.7
+        },
+        {
+          "position": 5,
+          "name": "Dirga Bahadur Subba",
+          "party": "Sikkim Prajatantra Congress",
+          "votes": 31,
+          "votes_percentage": 1.2
+        }
+      ]
+    }
+  }
+}

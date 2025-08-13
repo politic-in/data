@@ -1,0 +1,78 @@
+{
+  "state": "Maharashtra",
+  "constituency": "Boroeon Manju",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 115909,
+        "total_votes_polled": 73850,
+        "turnout_percentage": 63.7,
+        "margin_votes": 6903,
+        "margin_percentage": 9.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Divekar Arun Vishnu",
+          "party": "Indian National Congress (I)",
+          "votes": 31461,
+          "votes_percentage": 43.7
+        },
+        {
+          "position": 2,
+          "name": "Bhuibhar Mahadeorao Gulabrao",
+          "party": "Independent",
+          "votes": 24558,
+          "votes_percentage": 34.1
+        },
+        {
+          "position": 3,
+          "name": "Deshmukh Vasantrao Wamanrao",
+          "party": "Republican Party Of India",
+          "votes": 12742,
+          "votes_percentage": 17.7
+        },
+        {
+          "position": 4,
+          "name": "Tayade Anil Keshaorao",
+          "party": "Bharatiya Janta Party",
+          "votes": 1507,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 5,
+          "name": "Shrawan Shekoji Ingle",
+          "party": "Independent",
+          "votes": 722,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Shegokar Ramchandra Arjun",
+          "party": "Independent",
+          "votes": 474,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "More Manohar Ratiram",
+          "party": "Independent",
+          "votes": 310,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Ingale Ganesh Bhikaji",
+          "party": "Independent",
+          "votes": 274,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

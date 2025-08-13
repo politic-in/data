@@ -1,0 +1,48 @@
+{
+  "state": "West Bengal",
+  "constituency": "CALCUTTA SOUTH EAST",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 381486,
+        "total_votes_polled": 144614,
+        "turnout_percentage": 37.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Syama Prosad Mookerjee",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 65026,
+          "votes_percentage": 45.0
+        },
+        {
+          "position": 2,
+          "name": "Mriganka Mohan Sur",
+          "party": "Indian National Congress",
+          "votes": 44044,
+          "votes_percentage": 30.5
+        },
+        {
+          "position": 3,
+          "name": "Sadhan Chandra Gupta",
+          "party": "Communist Party Of India",
+          "votes": 32168,
+          "votes_percentage": 22.2
+        },
+        {
+          "position": 4,
+          "name": "Satya Ranjan Bakshi",
+          "party": "Independent",
+          "votes": 3376,
+          "votes_percentage": 2.3
+        }
+      ]
+    }
+  }
+}

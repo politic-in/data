@@ -1,0 +1,55 @@
+{
+  "state": "Madhya Pradesh [1947   1999]",
+  "constituency": "WARDHA",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 390119,
+        "total_votes_polled": 238029,
+        "turnout_percentage": 61.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shrimannarayan Dharamnarayan Agarwal",
+          "party": "Indian National Congress",
+          "votes": 144755,
+          "votes_percentage": 60.8
+        },
+        {
+          "position": 2,
+          "name": "Nilkanth Ramchandra Abhyyankar",
+          "party": "Socialist Party",
+          "votes": 37330,
+          "votes_percentage": 15.7
+        },
+        {
+          "position": 3,
+          "name": "Waman Narsingrao Ghorpade",
+          "party": "S.K. Paksha",
+          "votes": 33896,
+          "votes_percentage": 14.2
+        },
+        {
+          "position": 4,
+          "name": "Baburao Vithobaji Bangade",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 16750,
+          "votes_percentage": 7.0
+        },
+        {
+          "position": 5,
+          "name": "Marotrao Ramji Dadilwar",
+          "party": "Independent",
+          "votes": 5298,
+          "votes_percentage": 2.2
+        }
+      ]
+    }
+  }
+}

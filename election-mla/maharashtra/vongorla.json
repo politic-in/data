@@ -1,0 +1,50 @@
+{
+  "state": "Maharashtra",
+  "constituency": "Vongorla",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 96937,
+        "total_votes_polled": 36146,
+        "turnout_percentage": 37.3,
+        "margin_votes": 612,
+        "margin_percentage": 1.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "S. N. Desai",
+          "party": "Indian National Congress (I)",
+          "votes": 16528,
+          "votes_percentage": 46.7
+        },
+        {
+          "position": 2,
+          "name": "Bali Kinalekar",
+          "party": "Janata Party (JP)",
+          "votes": 15916,
+          "votes_percentage": 45.0
+        },
+        {
+          "position": 3,
+          "name": "Madhukar Balwant Sarnaik",
+          "party": "Independent",
+          "votes": 2128,
+          "votes_percentage": 6.0
+        },
+        {
+          "position": 4,
+          "name": "Vasant Gangavane",
+          "party": "Independent",
+          "votes": 795,
+          "votes_percentage": 2.3
+        }
+      ]
+    }
+  }
+}

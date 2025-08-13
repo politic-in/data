@@ -1,0 +1,71 @@
+{
+  "state": "Maharashtra",
+  "constituency": "Sinndkhedraja",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 112691,
+        "total_votes_polled": 78018,
+        "turnout_percentage": 69.2,
+        "margin_votes": 8566,
+        "margin_percentage": 11.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shingne Bhaskarrao Sampatrao",
+          "party": "Peasants & Workers Party",
+          "votes": 40420,
+          "votes_percentage": 53.0
+        },
+        {
+          "position": 2,
+          "name": "Jaywantrao Kaluji Kharat",
+          "party": "Indian National Congress (I)",
+          "votes": 31854,
+          "votes_percentage": 41.7
+        },
+        {
+          "position": 3,
+          "name": "Ware Ambadas Govind",
+          "party": "Bharatiya Janta Party",
+          "votes": 1447,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 4,
+          "name": "Kharat Trambak Ramrao",
+          "party": "Independent",
+          "votes": 811,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Maske Atmaram Sitaram",
+          "party": "Independent",
+          "votes": 795,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Ghumre Januji Gyanuji",
+          "party": "Republican Party Of India",
+          "votes": 694,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 7,
+          "name": "Lahane Sukhadeo Balaji",
+          "party": "Independent",
+          "votes": 286,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "state": "Uttar Pradesh [2000 Onwards]",
+  "constituency": "MOHAMMADI",
+  "district": "Kheri",
+  "ac_type": "GEN",
+  "results": {
+    "2022": {
+      "poll_date": "10 February 2022",
+      "counting_date": "10 March 2022",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 339421,
+        "total_votes_polled": 230685,
+        "turnout_percentage": 68.5,
+        "margin_votes": 4871,
+        "margin_percentage": 2.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Lokendra Pratap Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 99377,
+          "votes_percentage": 43.1
+        },
+        {
+          "position": 2,
+          "name": "Daud Ahmad",
+          "party": "Samajwadi Party",
+          "votes": 94506,
+          "votes_percentage": 41.0
+        },
+        {
+          "position": 3,
+          "name": "Shakeel Ahmad Siddiqui",
+          "party": "Bahujan Samaj Party",
+          "votes": 31144,
+          "votes_percentage": 13.5
+        },
+        {
+          "position": 4,
+          "name": "Reetu Singh",
+          "party": "Indian National Congress",
+          "votes": 2419,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Ravikant",
+          "party": "Aam Aadmi Party",
+          "votes": 1534,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Anurag M. Sarthi",
+          "party": "Action Party",
+          "votes": 1157,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Roopram",
+          "party": "Independent",
+          "votes": 548,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

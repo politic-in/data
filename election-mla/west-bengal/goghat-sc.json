@@ -1,0 +1,43 @@
+{
+  "state": "West Bengal",
+  "constituency": "GOGHAT (SC)",
+  "district": "Hugli",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 223345,
+        "total_votes_polled": 194039,
+        "turnout_percentage": 88.9,
+        "margin_votes": 30886,
+        "margin_percentage": 15.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Manas Majumdar",
+          "party": "All India Trinamool Congress",
+          "votes": 102958,
+          "votes_percentage": 53.1
+        },
+        {
+          "position": 2,
+          "name": "Biswanath Karak",
+          "party": "All India Forward Bloc",
+          "votes": 72072,
+          "votes_percentage": 37.1
+        },
+        {
+          "position": 3,
+          "name": "Basan Ray",
+          "party": "Bharatiya Janta Party",
+          "votes": 19009,
+          "votes_percentage": 9.8
+        }
+      ]
+    }
+  }
+}

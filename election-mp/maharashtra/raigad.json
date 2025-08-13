@@ -1,0 +1,386 @@
+{
+  "state": "Maharashtra",
+  "constituency": "Raigad",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2024": {
+      "poll_date": "19 April 2024",
+      "counting_date": "01 June 2024",
+      "total_contestants": 13,
+      "aggregate": {
+        "total_electors": 1668372,
+        "total_votes_polled": 1013272,
+        "turnout_percentage": 60.7,
+        "margin_votes": 82784,
+        "margin_percentage": 8.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tatkare Sunil Dattatrey",
+          "party": "Nationalist Congress Party",
+          "votes": 508352,
+          "votes_percentage": 50.2
+        },
+        {
+          "position": 2,
+          "name": "Anant Geete",
+          "party": "Shiv Sena (Uddhav Balasaheb Thackrey)",
+          "votes": 425568,
+          "votes_percentage": 42.0
+        },
+        {
+          "position": 3,
+          "name": "Kumudini Ravindra Chavan",
+          "party": "Vanchit Bahujan Aaghadi",
+          "votes": 19618,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 4,
+          "name": "Shrinivas Satyanarayan Mattaparti",
+          "party": "Independent",
+          "votes": 9394,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Amit Shripal Kawade",
+          "party": "Independent",
+          "votes": 5634,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Anant Baloji Gite",
+          "party": "Independent",
+          "votes": 3515,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "Nitin Jagannath Mayekar",
+          "party": "Independent",
+          "votes": 2560,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Chaule Pandurang Damodar",
+          "party": "Independent",
+          "votes": 2417,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Anant Padma Gite",
+          "party": "Independent",
+          "votes": 2040,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Col Prakashrao Chavan",
+          "party": "Bharatheeya Jawan Kisan Party",
+          "votes": 1939,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Koli Mangesh Padmakar",
+          "party": "Independent",
+          "votes": 1820,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Adv Ajay Upadhye",
+          "party": "Independent",
+          "votes": 1795,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 13,
+          "name": "Anjani Ashwin Kelkar",
+          "party": "Independent",
+          "votes": 1350,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 16,
+      "aggregate": {
+        "total_electors": 1598012,
+        "total_votes_polled": 1025467,
+        "turnout_percentage": 64.9,
+        "margin_votes": 31438,
+        "margin_percentage": 3.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tatkare Sunil Dattatray",
+          "party": "Nationalist Congress Party",
+          "votes": 486968,
+          "votes_percentage": 47.5
+        },
+        {
+          "position": 2,
+          "name": "Anant Geete",
+          "party": "Shiv Sena",
+          "votes": 455530,
+          "votes_percentage": 44.4
+        },
+        {
+          "position": 3,
+          "name": "Suman Bhaskar Koli",
+          "party": "Vanchit Bahujan Aaghadi",
+          "votes": 23196,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 4,
+          "name": "Subhash Janardan Patil",
+          "party": "Independent",
+          "votes": 12265,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 5,
+          "name": "Sunil Sakharam Tatkare",
+          "party": "Independent",
+          "votes": 9752,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Milind B. Salvi",
+          "party": "Bahujan Samaj Party",
+          "votes": 6356,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Avinash Vasant Patil",
+          "party": "Independent",
+          "votes": 4689,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Sunil Pandurang Tatkare",
+          "party": "Independent",
+          "votes": 4126,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Gajendra Parshuram Turbadkar",
+          "party": "Kranti Kari Jai Hind Sena",
+          "votes": 2192,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Sandip Pandurang Parte",
+          "party": "Bahujan Maha Party",
+          "votes": 1482,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Yogesh Kadam",
+          "party": "Independent",
+          "votes": 1476,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Nathuram Hate",
+          "party": "Bahujan Mukti Party",
+          "votes": 1441,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Ghag Sanjay Arjun",
+          "party": "Independent",
+          "votes": 1417,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Munafar Jainubhidin Choudhary",
+          "party": "Independent",
+          "votes": 1215,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 15,
+          "name": "Madhukar Mahadev Khamkar",
+          "party": "Independent",
+          "votes": 1049,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 16,
+          "name": "Prakash Sakharam Kalke",
+          "party": "Bhartiya Kisan Party",
+          "votes": 823,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "24 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 1532781,
+        "total_votes_polled": 987766,
+        "turnout_percentage": 64.4,
+        "margin_votes": 2110,
+        "margin_percentage": 0.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Anant Geete",
+          "party": "Shiv Sena",
+          "votes": 396178,
+          "votes_percentage": 40.1
+        },
+        {
+          "position": 2,
+          "name": "Tatkare Sunil Dattatrey",
+          "party": "Nationalist Congress Party",
+          "votes": 394068,
+          "votes_percentage": 39.9
+        },
+        {
+          "position": 3,
+          "name": "Rameshbhai Kadam",
+          "party": "Peasants And Workers Party Of India",
+          "votes": 129730,
+          "votes_percentage": 13.1
+        },
+        {
+          "position": 4,
+          "name": "Yashwant Jayram Gaikwad",
+          "party": "Bahujan Samaj Party",
+          "votes": 10510,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Muzzafar Jainuddin Chaudhari Alias Modi",
+          "party": "Independent",
+          "votes": 9952,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Sunil Tatkare",
+          "party": "Independent",
+          "votes": 9849,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 7,
+          "name": "Dr. Aparanti Sanjay Yashwant",
+          "party": "Aam Aadmi Party",
+          "votes": 6759,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 8,
+          "name": "Sandeep Pandurang Parte",
+          "party": "Hindustan Janata Party",
+          "votes": 4287,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Dr. Ghone Adesh Yashawant",
+          "party": "Bahujan Mukti Party",
+          "votes": 3308,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Aziz Abdul Kadir Mukadam",
+          "party": "Samajwadi Party",
+          "votes": 2763,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 1359830,
+        "total_votes_polled": 769264,
+        "turnout_percentage": 56.6,
+        "margin_votes": 146521,
+        "margin_percentage": 19.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Anant Geete",
+          "party": "Shiv Sena",
+          "votes": 413546,
+          "votes_percentage": 53.8
+        },
+        {
+          "position": 2,
+          "name": "Barrister A.R. Antulay",
+          "party": "Indian National Congress",
+          "votes": 267025,
+          "votes_percentage": 34.7
+        },
+        {
+          "position": 3,
+          "name": "Adv. Pravin Madhukar Thakur",
+          "party": "Independent",
+          "votes": 39159,
+          "votes_percentage": 5.1
+        },
+        {
+          "position": 4,
+          "name": "Sunil Bhaskar Naik",
+          "party": "Independent",
+          "votes": 22200,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 5,
+          "name": "Mohite Kiran Baburao",
+          "party": "Bahujan Samaj Party",
+          "votes": 13053,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 6,
+          "name": "Dr. Siddharth Patil",
+          "party": "Independent",
+          "votes": 8559,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 7,
+          "name": "Ekanath Arjun Patil",
+          "party": "Rashtriya Samaj Paksha",
+          "votes": 3824,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

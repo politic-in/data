@@ -1,0 +1,106 @@
+{
+  "state": "Karnataka",
+  "constituency": "Hunasuru",
+  "district": "Mysore",
+  "ac_type": "GEN",
+  "results": {
+    "2023": {
+      "poll_date": "10 May 2023",
+      "counting_date": "10 May 2023",
+      "total_contestants": 12,
+      "aggregate": {
+        "total_electors": 241640,
+        "total_votes_polled": 200052,
+        "turnout_percentage": 83.2,
+        "margin_votes": 2412,
+        "margin_percentage": 1.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "G.D. Harish Gowda",
+          "party": "Janata Dal (Secular)",
+          "votes": 94666,
+          "votes_percentage": 47.1
+        },
+        {
+          "position": 2,
+          "name": "H.P.Manjunath",
+          "party": "Indian National Congress",
+          "votes": 92254,
+          "votes_percentage": 45.9
+        },
+        {
+          "position": 3,
+          "name": "Devarahalli Somashekara",
+          "party": "Bharatiya Janta Party",
+          "votes": 6258,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 4,
+          "name": "G. Ravikumar",
+          "party": "Aam Aadmi Party",
+          "votes": 2912,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Prasanna Somanahally",
+          "party": "Bahujan Samaj Party",
+          "votes": 975,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Yemmekoppal Thimmabovi",
+          "party": "Karnataka Rashtra Samithi",
+          "votes": 761,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Sunil.D.N.",
+          "party": "Uttama Prajaakeeya Party",
+          "votes": 654,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Channe Gowda",
+          "party": "Independent",
+          "votes": 449,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Syed Anif",
+          "party": "Independent",
+          "votes": 401,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Lokesha B.L",
+          "party": "Independent",
+          "votes": 332,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Umesh",
+          "party": "Independent",
+          "votes": 212,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "H.B.Rajendra",
+          "party": "Independent",
+          "votes": 178,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

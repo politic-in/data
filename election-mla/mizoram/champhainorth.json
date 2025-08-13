@@ -1,0 +1,64 @@
+{
+  "state": "Mizoram",
+  "constituency": "CHAMPHAINORTH",
+  "district": "Champhai",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 18121,
+        "total_votes_polled": 14713,
+        "turnout_percentage": 81.4,
+        "margin_votes": 1093,
+        "margin_percentage": 7.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr Zr.Thiamsanga",
+          "party": "Mizo National Front",
+          "votes": 6057,
+          "votes_percentage": 41.2
+        },
+        {
+          "position": 2,
+          "name": "T.T. Zothansanga",
+          "party": "Indian National Congress",
+          "votes": 4964,
+          "votes_percentage": 33.7
+        },
+        {
+          "position": 3,
+          "name": "C.Lalchhawnthanga",
+          "party": "Independent",
+          "votes": 2278,
+          "votes_percentage": 15.5
+        },
+        {
+          "position": 4,
+          "name": "C.Hrangsatkima",
+          "party": "Bharatiya Janta Party",
+          "votes": 980,
+          "votes_percentage": 6.7
+        },
+        {
+          "position": 5,
+          "name": "B.Suanzalang",
+          "party": "National People's Party",
+          "votes": 273,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 6,
+          "name": "Tbc Lalvenchhunga",
+          "party": "Prism",
+          "votes": 161,
+          "votes_percentage": 1.1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "state": "Meghalaya",
+  "constituency": "West Shillong",
+  "district": "East Khasi Hills",
+  "ac_type": "GEN",
+  "results": {
+    "2013": {
+      "poll_date": "23 February 2013",
+      "counting_date": "28 February 2013",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 23326,
+        "total_votes_polled": 18468,
+        "turnout_percentage": 79.2,
+        "margin_votes": 481,
+        "margin_percentage": 2.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Paul Lyngdoh",
+          "party": "United Democratic Party",
+          "votes": 9333,
+          "votes_percentage": 50.5
+        },
+        {
+          "position": 2,
+          "name": "Mohendro Rapsang",
+          "party": "Indian National Congress",
+          "votes": 8852,
+          "votes_percentage": 47.9
+        },
+        {
+          "position": 3,
+          "name": "Donaldson Shanpru",
+          "party": "Independent",
+          "votes": 283,
+          "votes_percentage": 1.5
+        }
+      ]
+    }
+  }
+}

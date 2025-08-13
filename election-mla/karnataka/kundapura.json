@@ -1,0 +1,106 @@
+{
+  "state": "Karnataka",
+  "constituency": "Kundapura",
+  "district": "Udupi",
+  "ac_type": "GEN",
+  "results": {
+    "2023": {
+      "poll_date": "10 May 2023",
+      "counting_date": "10 May 2023",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 209590,
+        "total_votes_polled": 166330,
+        "turnout_percentage": 79.9,
+        "margin_votes": 41556,
+        "margin_percentage": 25.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "A Kiran Kumar Kodgi",
+          "party": "Bharatiya Janta Party",
+          "votes": 102424,
+          "votes_percentage": 61.2
+        },
+        {
+          "position": 2,
+          "name": "Dinesh Hegde Molahalli",
+          "party": "Indian National Congress",
+          "votes": 60868,
+          "votes_percentage": 36.4
+        },
+        {
+          "position": 3,
+          "name": "Arun Deepak Mendonca",
+          "party": "Uttama Prajaakeeya Party",
+          "votes": 1257,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 4,
+          "name": "Ramesh",
+          "party": "Janata Dal (Secular)",
+          "votes": 1053,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 5,
+          "name": "Chandrashekar G",
+          "party": "Independent",
+          "votes": 728,
+          "votes_percentage": 0.4
+        }
+      ]
+    },
+    "2008": {
+      "poll_date": "16 May 2008",
+      "counting_date": "25 May 2008",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 158643,
+        "total_votes_polled": 124716,
+        "turnout_percentage": 78.6,
+        "margin_votes": 25083,
+        "margin_percentage": 20.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Haladi Srinivas Shetty",
+          "party": "Bharatiya Janta Party",
+          "votes": 71695,
+          "votes_percentage": 57.5
+        },
+        {
+          "position": 2,
+          "name": "K. Jayaprakash Hegde",
+          "party": "Indian National Congress",
+          "votes": 46612,
+          "votes_percentage": 37.4
+        },
+        {
+          "position": 3,
+          "name": "Mahammad Hussain",
+          "party": "Samajwadi Party",
+          "votes": 2493,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 4,
+          "name": "Oswald Fernandes",
+          "party": "Bahujan Samaj Party",
+          "votes": 2010,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 5,
+          "name": "B. T. Manjunath Poojari",
+          "party": "Janata Dal (Secular)",
+          "votes": 1906,
+          "votes_percentage": 1.5
+        }
+      ]
+    }
+  }
+}

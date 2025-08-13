@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 43466,
+        "male": 45609,
+        "percentage_of_total_population": 11.04,
+        "percentage_of_total_population_calculated": 11.04,
+        "percentage_of_total_population_stated": 11.04,
+        "sex_ratio": 953,
+        "total": 89075
+    },
+    "literacy": {
+        "female_literacy_rate": 61.16,
+        "female_literate": 221029,
+        "male_literacy_rate": 75.44,
+        "male_literate": 269007,
+        "rate_percentage": 68.26,
+        "total_literate": 490036
+    },
+    "population": {
+        "female": 404834,
+        "male": 402188,
+        "sex_ratio": 1007,
+        "total": 807022
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.18,
+            "population": 1476
+        },
+        "Christian": {
+            "percentage": 6.56,
+            "population": 52930
+        },
+        "Hindu": {
+            "percentage": 89.95,
+            "population": 725890
+        },
+        "Jain": {
+            "percentage": 0.23,
+            "population": 1828
+        },
+        "Muslims": {
+            "percentage": 2.76,
+            "population": 22309
+        },
+        "Not Stated": {
+            "percentage": 0.24,
+            "population": 1942
+        },
+        "Others": {
+            "percentage": 0.05,
+            "population": 408
+        },
+        "Sikh": {
+            "percentage": 0.03,
+            "population": 239
+        }
+    },
+    "rural": {
+        "child_population_female": 39161,
+        "child_population_male": 40887,
+        "child_population_percentage": 11.0,
+        "child_population_percentage_calculated": 11.0,
+        "child_population_percentage_stated": 11.0,
+        "child_population_total": 80048,
+        "child_sex_ratio": 958,
+        "female": 365987,
+        "literacy_rate_female": 59.25,
+        "literacy_rate_male": 73.83,
+        "literacy_rate_percentage": 66.47,
+        "literate_female": 193642,
+        "literate_male": 236734,
+        "literate_total": 430376,
+        "male": 361548,
+        "percentage_population": 90.15,
+        "population": 727535,
+        "sex_ratio": 1012
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/207-tapi.html",
+    "urban": {
+        "child_population_female": 4295,
+        "child_population_male": 4732,
+        "child_population_percentage": 11.36,
+        "child_population_percentage_calculated": 11.36,
+        "child_population_percentage_stated": 11.36,
+        "child_population_total": 9027,
+        "child_sex_ratio": 908,
+        "female": 38847,
+        "literacy_rate_female": 79.26,
+        "literacy_rate_male": 89.88,
+        "literacy_rate_percentage": 84.67,
+        "literate_female": 27387,
+        "literate_male": 32273,
+        "literate_total": 59660,
+        "male": 40640,
+        "percentage_population": 9.85,
+        "population": 79487,
+        "sex_ratio": 956
+    }
+}

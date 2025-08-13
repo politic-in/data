@@ -1,0 +1,64 @@
+{
+  "state": "Goa, Daman And Diu",
+  "constituency": "Satari",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 16305,
+        "total_votes_polled": 12432,
+        "turnout_percentage": 76.3,
+        "margin_votes": 2072,
+        "margin_percentage": 16.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rane Pratapsing Ravaji",
+          "party": "Indian National Congress (U)",
+          "votes": 5283,
+          "votes_percentage": 44.7
+        },
+        {
+          "position": 2,
+          "name": "Prabhu Tendulkar Sadanand Sonu",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 3211,
+          "votes_percentage": 27.2
+        },
+        {
+          "position": 3,
+          "name": "Rane Jaysingrao Benkatrao",
+          "party": "Janta Party",
+          "votes": 2038,
+          "votes_percentage": 17.3
+        },
+        {
+          "position": 4,
+          "name": "Sinai Usgaonkar Attchut Kashinath",
+          "party": "Independent",
+          "votes": 961,
+          "votes_percentage": 8.1
+        },
+        {
+          "position": 5,
+          "name": "Kauthankar Vishwanath Janardhan",
+          "party": "Independent",
+          "votes": 190,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 6,
+          "name": "Joshi Shrikant Ramchandra",
+          "party": "Independent",
+          "votes": 132,
+          "votes_percentage": 1.1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "state": "West Bengal",
+  "constituency": "Jaynagar",
+  "district": "South  Twenty Four Parganas",
+  "ac_type": "SC",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 228097,
+        "total_votes_polled": 201267,
+        "turnout_percentage": 88.8,
+        "margin_votes": 38683,
+        "margin_percentage": 19.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Biswanath Das",
+          "party": "All India Trinamool Congress",
+          "votes": 104952,
+          "votes_percentage": 52.2
+        },
+        {
+          "position": 2,
+          "name": "Rabin Sardar",
+          "party": "Bharatiya Janta Party",
+          "votes": 66269,
+          "votes_percentage": 32.9
+        },
+        {
+          "position": 3,
+          "name": "Apurba Pramanik (APU)",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 17368,
+          "votes_percentage": 8.6
+        },
+        {
+          "position": 4,
+          "name": "Tarun Kanti Naskar",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 9423,
+          "votes_percentage": 4.7
+        },
+        {
+          "position": 5,
+          "name": "Swapan Kumar Naskar",
+          "party": "Independent",
+          "votes": 1435,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Sankar Deb Mondal",
+          "party": "Bahujan Samaj Party",
+          "votes": 811,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Monotosh Naskar",
+          "party": "Bahujan Mukti Party",
+          "votes": 574,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Utpal Mandal",
+          "party": "Lok Jan Shakti Party",
+          "votes": 248,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Amitav Naskar",
+          "party": "Republican Party Of India (A)",
+          "votes": 187,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

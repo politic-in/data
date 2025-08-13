@@ -1,0 +1,92 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Tawang I",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1984": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 6059,
+        "total_votes_polled": 4885,
+        "turnout_percentage": 80.6,
+        "margin_votes": 1392,
+        "margin_percentage": 28.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Karma Wangchu",
+          "party": "Indian National Congress",
+          "votes": 2992,
+          "votes_percentage": 65.2
+        },
+        {
+          "position": 2,
+          "name": "Tashi Norbu",
+          "party": "Peoples Party Of Arunachal",
+          "votes": 1600,
+          "votes_percentage": 34.8
+        }
+      ]
+    },
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 5473,
+        "total_votes_polled": 3904,
+        "turnout_percentage": 71.3,
+        "margin_votes": 1441,
+        "margin_percentage": 36.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Karma Wangohu",
+          "party": "Peoples Party Of Arunachal",
+          "votes": 2555,
+          "votes_percentage": 69.6
+        },
+        {
+          "position": 2,
+          "name": "Pem Gombu",
+          "party": "Indian National Congress (I)",
+          "votes": 1114,
+          "votes_percentage": 30.4
+        }
+      ]
+    },
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 4960,
+        "total_votes_polled": 3695,
+        "turnout_percentage": 74.5,
+        "margin_votes": 1077,
+        "margin_percentage": 29.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Karma Wangchu",
+          "party": "Independent",
+          "votes": 2313,
+          "votes_percentage": 65.2
+        },
+        {
+          "position": 2,
+          "name": "Tashi Lama",
+          "party": "Janta Party",
+          "votes": 1236,
+          "votes_percentage": 34.8
+        }
+      ]
+    }
+  }
+}

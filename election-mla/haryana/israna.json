@@ -1,0 +1,87 @@
+{
+  "state": "Haryana",
+  "constituency": "Israna",
+  "district": "Panipat",
+  "ac_type": "SC",
+  "results": {
+    "2009": {
+      "poll_date": "13 October 2009",
+      "counting_date": "22 October 2009",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 128894,
+        "total_votes_polled": 94889,
+        "turnout_percentage": 73.6,
+        "total_valid_votes": 94874,
+        "total_valid_votes_percentage": 73.6,
+        "margin_votes": 2180,
+        "margin_percentage": 2.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Krishan Lal Panwar",
+          "party": "Indian National Lok Dal",
+          "votes": 43905,
+          "votes_percentage": 46.3
+        },
+        {
+          "position": 2,
+          "name": "Balbir",
+          "party": "Indian National Congress",
+          "votes": 41725,
+          "votes_percentage": 44.0
+        },
+        {
+          "position": 3,
+          "name": "Kuldeep",
+          "party": "Bahujan Samaj Party",
+          "votes": 5102,
+          "votes_percentage": 5.4
+        },
+        {
+          "position": 4,
+          "name": "Satpal S/o Bhagtu",
+          "party": "Bharatiya Janta Party",
+          "votes": 1065,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Krishan Lal Lohari",
+          "party": "Communist Party Of India",
+          "votes": 1042,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Rakesh Saroha",
+          "party": "Haryana Janhit Congress (BL)",
+          "votes": 1007,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 7,
+          "name": "Rohtas",
+          "party": "Independent",
+          "votes": 452,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Satpal S/o Manga Ram",
+          "party": "Upekshit Samaj Party",
+          "votes": 366,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Ram Niwas",
+          "party": "Smast Bhartiya Party",
+          "votes": 225,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

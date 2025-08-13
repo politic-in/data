@@ -1,0 +1,104 @@
+{
+    "district": "Vellore",
+    "state": "Tamil Nadu",
+    "source_census2011": "https://www.census2011.co.in/census/district/23-vellore.html",
+    "source_secondary": "https://www.censusindia.co.in/district/vellore-district-tamil-nadu-605",
+    "population": {
+        "total": 3936331,
+        "male": 1961688,
+        "female": 1974643,
+        "sex_ratio": 1007
+    },
+    "child_population": {
+        "total": 432550,
+        "male": 222460,
+        "female": 210090,
+        "sex_ratio": 944,
+        "percentage_of_total_population": 10.99,
+        "percentage_of_total_population_calculated": 10.99,
+        "percentage_of_total_population_stated": 10.99
+    },
+    "literacy": {
+        "rate_percentage": 79.17,
+        "male_literacy_rate": 86.5,
+        "female_literacy_rate": 71.95,
+        "total_literate": 2773928,
+        "male_literate": 0,
+        "female_literate": 0
+    },
+    "religion": {
+        "Hindu": {
+            "population": 3397857,
+            "percentage": 86.32
+        },
+        "Muslims": {
+            "population": 414760,
+            "percentage": 10.54
+        },
+        "Christian": {
+            "population": 111390,
+            "percentage": 2.83
+        },
+        "Sikh": {
+            "population": 676,
+            "percentage": 0.02
+        },
+        "Buddhist": {
+            "population": 438,
+            "percentage": 0.01
+        },
+        "Jain": {
+            "population": 3514,
+            "percentage": 0.09
+        },
+        "Others": {
+            "population": 251,
+            "percentage": 0.01
+        },
+        "Not Stated": {
+            "population": 7445,
+            "percentage": 0.19
+        }
+    },
+    "rural": {
+        "population": 2234344,
+        "male": 1117101,
+        "female": 1117243,
+        "sex_ratio": 1000,
+        "percentage_population": 56.76,
+        "child_population_total": 249146,
+        "child_population_male": 128558,
+        "child_population_female": 120588,
+        "child_sex_ratio": 938,
+        "child_population_percentage": 11.15,
+        "child_population_percentage_calculated": 11.15,
+        "child_population_percentage_stated": 11.15,
+        "literacy_rate_percentage": 74.7,
+        "literacy_rate_male": 83.39,
+        "literacy_rate_female": 66.08,
+        "literate_total": 1482931,
+        "literate_male": 0,
+        "literate_female": 0
+    },
+    "urban": {
+        "population": 1701987,
+        "male": 844587,
+        "female": 857400,
+        "sex_ratio": 1015,
+        "percentage_population": 43.24,
+        "child_population_total": 183404,
+        "child_population_male": 93902,
+        "child_population_female": 89502,
+        "child_sex_ratio": 953,
+        "child_population_percentage": 10.78,
+        "child_population_percentage_calculated": 10.78,
+        "child_population_percentage_stated": 10.78,
+        "literacy_rate_percentage": 85.01,
+        "literacy_rate_male": 90.59,
+        "literacy_rate_female": 79.56,
+        "literate_total": 1290997,
+        "literate_male": 0,
+        "literate_female": 0
+    },
+    "sc_st_skipped_auto_find_failed": true
+}

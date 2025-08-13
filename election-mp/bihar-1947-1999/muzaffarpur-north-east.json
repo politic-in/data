@@ -1,0 +1,48 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "MUZAFFARPUR NORTH EAST",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 329849,
+        "total_votes_polled": 154884,
+        "turnout_percentage": 47.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dig Vijoy Narayan Singh",
+          "party": "Indian National Congress",
+          "votes": 70603,
+          "votes_percentage": 45.6
+        },
+        {
+          "position": 2,
+          "name": "Ram Bahadur Lal",
+          "party": "Socialist Party",
+          "votes": 38094,
+          "votes_percentage": 24.6
+        },
+        {
+          "position": 3,
+          "name": "Narendra Prasad",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 35256,
+          "votes_percentage": 22.8
+        },
+        {
+          "position": 4,
+          "name": "Ram Pavitra Tiwari",
+          "party": "Independent",
+          "votes": 10931,
+          "votes_percentage": 7.1
+        }
+      ]
+    }
+  }
+}

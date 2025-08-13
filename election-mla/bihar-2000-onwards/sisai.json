@@ -1,0 +1,71 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "Sisai",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 165961,
+        "total_votes_polled": 52350,
+        "turnout_percentage": 31.5,
+        "margin_votes": 7763,
+        "margin_percentage": 14.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dinesh Oraon",
+          "party": "Bharatiya Janta Party",
+          "votes": 24508,
+          "votes_percentage": 47.4
+        },
+        {
+          "position": 2,
+          "name": "Bandi Oraon",
+          "party": "Indian National Congress",
+          "votes": 16745,
+          "votes_percentage": 32.4
+        },
+        {
+          "position": 3,
+          "name": "Deo Sharan Bhagat",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 5884,
+          "votes_percentage": 11.4
+        },
+        {
+          "position": 4,
+          "name": "K.D. Jojo",
+          "party": "Jharkhand Party",
+          "votes": 2001,
+          "votes_percentage": 3.9
+        },
+        {
+          "position": 5,
+          "name": "Durga Ohdar",
+          "party": "Rashtriya Janata Dal",
+          "votes": 1318,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 6,
+          "name": "Parsoyus Dhirkey",
+          "party": "Bahujan Samaj Party",
+          "votes": 716,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 7,
+          "name": "Mahesh Kumar Dhan",
+          "party": "Jharkhand People's Party",
+          "votes": 500,
+          "votes_percentage": 1.0
+        }
+      ]
+    }
+  }
+}

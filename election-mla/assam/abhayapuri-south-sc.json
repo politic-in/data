@@ -1,0 +1,64 @@
+{
+  "state": "Assam",
+  "constituency": "Abhayapuri South (SC)",
+  "district": "Bongaigaon",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 174303,
+        "total_votes_polled": 157416,
+        "turnout_percentage": 91.0,
+        "margin_votes": 191,
+        "margin_percentage": 0.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ananta Kumar Malo",
+          "party": "All India United Democratic Front",
+          "votes": 51525,
+          "votes_percentage": 32.7
+        },
+        {
+          "position": 2,
+          "name": "Chandan Kumar Sarkar",
+          "party": "Indian National Congress",
+          "votes": 51334,
+          "votes_percentage": 32.6
+        },
+        {
+          "position": 3,
+          "name": "Rabin Banikya",
+          "party": "Asom Gana Parisad",
+          "votes": 50957,
+          "votes_percentage": 32.4
+        },
+        {
+          "position": 4,
+          "name": "Nirmalendu Banikya",
+          "party": "Independent",
+          "votes": 1602,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Ashok Dutta",
+          "party": "Republican Party Of India (A)",
+          "votes": 1304,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Dhiren Majumdar",
+          "party": "Jan Congress Party",
+          "votes": 694,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

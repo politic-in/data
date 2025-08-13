@@ -1,0 +1,48 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "BALLIA DISTRICT (EAST)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 368287,
+        "total_votes_polled": 126480,
+        "turnout_percentage": 34.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Murli Manohar",
+          "party": "Independent",
+          "votes": 47393,
+          "votes_percentage": 37.5
+        },
+        {
+          "position": 2,
+          "name": "Govind Malaviya",
+          "party": "Indian National Congress",
+          "votes": 40962,
+          "votes_percentage": 32.4
+        },
+        {
+          "position": 3,
+          "name": "Baldoe Upadhya",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 25614,
+          "votes_percentage": 20.3
+        },
+        {
+          "position": 4,
+          "name": "Ram Vyas Shastri",
+          "party": "Akhil Bharatiya Ram Rajya Parishad",
+          "votes": 12511,
+          "votes_percentage": 9.9
+        }
+      ]
+    }
+  }
+}

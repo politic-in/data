@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 111369,
+        "male": 113757,
+        "percentage_of_total_population": 16.32,
+        "percentage_of_total_population_calculated": 16.32,
+        "percentage_of_total_population_stated": 16.32,
+        "sex_ratio": 979,
+        "total": 225126
+    },
+    "literacy": {
+        "female_literacy_rate": 38.55,
+        "female_literate": 227247,
+        "male_literacy_rate": 60.32,
+        "male_literate": 340843,
+        "rate_percentage": 49.21,
+        "total_literate": 568090
+    },
+    "population": {
+        "female": 700838,
+        "male": 678809,
+        "sex_ratio": 1032,
+        "total": 1379647
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 219
+        },
+        "Christian": {
+            "percentage": 4.97,
+            "population": 68550
+        },
+        "Hindu": {
+            "percentage": 93.8,
+            "population": 1294151
+        },
+        "Jain": {
+            "percentage": 0.04,
+            "population": 491
+        },
+        "Muslims": {
+            "percentage": 0.64,
+            "population": 8850
+        },
+        "Not Stated": {
+            "percentage": 0.25,
+            "population": 3484
+        },
+        "Others": {
+            "percentage": 0.25,
+            "population": 3384
+        },
+        "Sikh": {
+            "percentage": 0.04,
+            "population": 518
+        }
+    },
+    "rural": {
+        "child_population_female": 98712,
+        "child_population_male": 100325,
+        "child_population_percentage": 17.26,
+        "child_population_percentage_calculated": 17.26,
+        "child_population_percentage_stated": 17.26,
+        "child_population_total": 199037,
+        "child_sex_ratio": 984,
+        "female": 589707,
+        "literacy_rate_female": 31.26,
+        "literacy_rate_male": 54.14,
+        "literacy_rate_percentage": 42.37,
+        "literate_female": 153499,
+        "literate_male": 250926,
+        "literate_total": 404425,
+        "male": 563771,
+        "percentage_population": 83.61,
+        "population": 1153478,
+        "sex_ratio": 1046
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/422-koraput.html",
+    "urban": {
+        "child_population_female": 12672,
+        "child_population_male": 13417,
+        "child_population_percentage": 11.54,
+        "child_population_percentage_calculated": 11.54,
+        "child_population_percentage_stated": 11.54,
+        "child_population_total": 26089,
+        "child_sex_ratio": 944,
+        "female": 111131,
+        "literacy_rate_female": 74.9,
+        "literacy_rate_male": 88.48,
+        "literacy_rate_percentage": 81.8,
+        "literate_female": 73748,
+        "literate_male": 89917,
+        "literate_total": 163665,
+        "male": 115038,
+        "percentage_population": 16.39,
+        "population": 226169,
+        "sex_ratio": 966
+    }
+}

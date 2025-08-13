@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 96284,
+        "male": 115727,
+        "percentage_of_total_population": 12.97,
+        "percentage_of_total_population_calculated": 12.97,
+        "percentage_of_total_population_stated": 12.97,
+        "sex_ratio": 832,
+        "total": 212011
+    },
+    "literacy": {
+        "female_literacy_rate": 63.54,
+        "female_literate": 426713,
+        "male_literacy_rate": 85.65,
+        "male_literate": 643158,
+        "rate_percentage": 75.21,
+        "total_literate": 1069871
+    },
+    "population": {
+        "female": 767773,
+        "male": 866672,
+        "sex_ratio": 886,
+        "total": 1634445
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 254
+        },
+        "Christian": {
+            "percentage": 0.05,
+            "population": 873
+        },
+        "Hindu": {
+            "percentage": 98.57,
+            "population": 1611031
+        },
+        "Jain": {
+            "percentage": 0.06,
+            "population": 1016
+        },
+        "Muslims": {
+            "percentage": 0.95,
+            "population": 15515
+        },
+        "Not Stated": {
+            "percentage": 0.2,
+            "population": 3329
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 26
+        },
+        "Sikh": {
+            "percentage": 0.15,
+            "population": 2401
+        }
+    },
+    "rural": {
+        "child_population_female": 78569,
+        "child_population_male": 94039,
+        "child_population_percentage": 13.14,
+        "child_population_percentage_calculated": 13.14,
+        "child_population_percentage_stated": 13.14,
+        "child_population_total": 172608,
+        "child_sex_ratio": 835,
+        "female": 616911,
+        "literacy_rate_female": 61.0,
+        "literacy_rate_male": 84.99,
+        "literacy_rate_percentage": 73.67,
+        "literate_female": 328399,
+        "literate_male": 511763,
+        "literate_total": 840162,
+        "male": 696212,
+        "percentage_population": 80.34,
+        "population": 1313123,
+        "sex_ratio": 886
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/220-bhiwani.html",
+    "urban": {
+        "child_population_female": 17686,
+        "child_population_male": 21717,
+        "child_population_percentage": 12.26,
+        "child_population_percentage_calculated": 12.26,
+        "child_population_percentage_stated": 12.26,
+        "child_population_total": 39403,
+        "child_sex_ratio": 814,
+        "female": 150862,
+        "literacy_rate_female": 73.82,
+        "literacy_rate_male": 88.34,
+        "literacy_rate_percentage": 81.48,
+        "literate_female": 98314,
+        "literate_male": 131395,
+        "literate_total": 229709,
+        "male": 170460,
+        "percentage_population": 19.66,
+        "population": 321322,
+        "sex_ratio": 885
+    }
+}

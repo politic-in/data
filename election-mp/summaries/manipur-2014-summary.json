@@ -1,0 +1,45 @@
+{
+  "state": "Manipur",
+  "year": "2014",
+  "summary_stats": {
+    "total_electors_state": 1774325,
+    "total_votes_polled_state": 1412637,
+    "turnout_percentage_state": 79.6,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Inner Manipur",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Manipur",
+      "winning_candidate": "Dr. Thokchom Meinya",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 855359,
+      "total_votes_ac": 640871,
+      "poll_percentage_ac": 0.0,
+      "margin": 94674,
+      "margin_percentage": 14.8,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2014/manipur/inner-manipur/8038/24/16"
+    },
+    {
+      "ac_name": "Outer Manipur",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Manipur",
+      "winning_candidate": "Thangso Baite",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 918966,
+      "total_votes_ac": 771766,
+      "poll_percentage_ac": 0.0,
+      "margin": 15637,
+      "margin_percentage": 2.0,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2014/manipur/outer-manipur/8039/24/16"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 178425,
+        "male": 193310,
+        "percentage_of_total_population": 10.66,
+        "percentage_of_total_population_calculated": 10.66,
+        "percentage_of_total_population_stated": 10.66,
+        "sex_ratio": 923,
+        "total": 371735
+    },
+    "literacy": {
+        "female_literacy_rate": 54.19,
+        "female_literate": 840262,
+        "male_literacy_rate": 74.1,
+        "male_literate": 1160757,
+        "rate_percentage": 64.2,
+        "total_literate": 2001019
+    },
+    "population": {
+        "female": 1729037,
+        "male": 1759772,
+        "sex_ratio": 983,
+        "total": 3488809
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 241
+        },
+        "Christian": {
+            "percentage": 1.0,
+            "population": 35025
+        },
+        "Hindu": {
+            "percentage": 93.13,
+            "population": 3249231
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 250
+        },
+        "Muslims": {
+            "percentage": 5.41,
+            "population": 188646
+        },
+        "Not Stated": {
+            "percentage": 0.41,
+            "population": 14347
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 132
+        },
+        "Sikh": {
+            "percentage": 0.03,
+            "population": 937
+        }
+    },
+    "rural": {
+        "child_population_female": 145378,
+        "child_population_male": 158158,
+        "child_population_percentage": 10.74,
+        "child_population_percentage_calculated": 10.74,
+        "child_population_percentage_stated": 10.74,
+        "child_population_total": 303536,
+        "child_sex_ratio": 919,
+        "female": 1398586,
+        "literacy_rate_female": 49.36,
+        "literacy_rate_male": 70.65,
+        "literacy_rate_percentage": 60.07,
+        "literate_female": 618551,
+        "literate_male": 896996,
+        "literate_total": 1515547,
+        "male": 1427716,
+        "percentage_population": 81.01,
+        "population": 2826302,
+        "sex_ratio": 980
+    },
+    "sc_st_error": "Failed to parse SC/ST data from auto-found URL: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3D%2522Nalgonda%2Bdistrict%2522%2B%2522Andhra%2BPradesh%2522%2BSC%2BST%2Bpopulation%2Bsite%253Acensusindia.gov.in%2BOR%2Bsite%253Acensusindia.co.in&ec=GAZAAQ",
+    "source_census2011": "https://www.census2011.co.in/census/district/125-nalgonda.html",
+    "urban": {
+        "child_population_female": 33091,
+        "child_population_male": 35108,
+        "child_population_percentage": 10.29,
+        "child_population_percentage_calculated": 10.29,
+        "child_population_percentage_stated": 10.29,
+        "child_population_total": 68199,
+        "child_sex_ratio": 943,
+        "female": 330451,
+        "literacy_rate_female": 74.56,
+        "literacy_rate_male": 88.82,
+        "literacy_rate_percentage": 81.69,
+        "literate_female": 221711,
+        "literate_male": 263761,
+        "literate_total": 485472,
+        "male": 332056,
+        "percentage_population": 18.99,
+        "population": 662507,
+        "sex_ratio": 995
+    }
+}

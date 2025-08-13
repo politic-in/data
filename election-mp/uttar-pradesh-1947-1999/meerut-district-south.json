@@ -1,0 +1,55 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "MEERUT DISTRICT (SOUTH)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 374338,
+        "total_votes_polled": 185764,
+        "turnout_percentage": 49.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Krishna Chandra Sharma",
+          "party": "Indian National Congress",
+          "votes": 117256,
+          "votes_percentage": 63.1
+        },
+        {
+          "position": 2,
+          "name": "Harsaran Dass",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 27557,
+          "votes_percentage": 14.8
+        },
+        {
+          "position": 3,
+          "name": "Rajendra Singh",
+          "party": "Socialist Party",
+          "votes": 24872,
+          "votes_percentage": 13.4
+        },
+        {
+          "position": 4,
+          "name": "Sarojni Devi",
+          "party": "Independent",
+          "votes": 8471,
+          "votes_percentage": 4.6
+        },
+        {
+          "position": 5,
+          "name": "Bijeshwar Nath Tiagi",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 7608,
+          "votes_percentage": 4.1
+        }
+      ]
+    }
+  }
+}

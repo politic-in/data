@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 46464,
+        "male": 47950,
+        "percentage_of_total_population": 15.75,
+        "percentage_of_total_population_calculated": 15.75,
+        "percentage_of_total_population_stated": 15.75,
+        "sex_ratio": 969,
+        "total": 94414
+    },
+    "literacy": {
+        "female_literacy_rate": 59.92,
+        "female_literate": 151492,
+        "male_literacy_rate": 76.08,
+        "male_literate": 191991,
+        "rate_percentage": 67.99,
+        "total_literate": 343483
+    },
+    "population": {
+        "female": 299269,
+        "male": 300309,
+        "sex_ratio": 997,
+        "total": 599578
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.13,
+            "population": 753
+        },
+        "Christian": {
+            "percentage": 51.14,
+            "population": 306601
+        },
+        "Hindu": {
+            "percentage": 33.61,
+            "population": 201524
+        },
+        "Jain": {
+            "percentage": 0.02,
+            "population": 114
+        },
+        "Muslims": {
+            "percentage": 2.52,
+            "population": 15103
+        },
+        "Not Stated": {
+            "percentage": 0.25,
+            "population": 1502
+        },
+        "Others": {
+            "percentage": 12.33,
+            "population": 73930
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 51
+        }
+    },
+    "rural": {
+        "child_population_female": 43775,
+        "child_population_male": 45218,
+        "child_population_percentage": 15.99,
+        "child_population_percentage_calculated": 15.99,
+        "child_population_percentage_stated": 15.99,
+        "child_population_total": 88993,
+        "child_sex_ratio": 968,
+        "female": 278209,
+        "literacy_rate_female": 58.23,
+        "literacy_rate_male": 75.0,
+        "literacy_rate_percentage": 66.59,
+        "literate_female": 136502,
+        "literate_male": 174914,
+        "literate_total": 311416,
+        "male": 278425,
+        "percentage_population": 92.84,
+        "population": 556634,
+        "sex_ratio": 999
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/116-simdega.html",
+    "urban": {
+        "child_population_female": 2677,
+        "child_population_male": 2744,
+        "child_population_percentage": 12.62,
+        "child_population_percentage_calculated": 12.62,
+        "child_population_percentage_stated": 12.62,
+        "child_population_total": 5421,
+        "child_sex_ratio": 976,
+        "female": 21060,
+        "literacy_rate_female": 81.54,
+        "literacy_rate_male": 89.22,
+        "literacy_rate_percentage": 85.46,
+        "literate_female": 14990,
+        "literate_male": 17077,
+        "literate_total": 32067,
+        "male": 21884,
+        "percentage_population": 7.16,
+        "population": 42944,
+        "sex_ratio": 962
+    }
+}

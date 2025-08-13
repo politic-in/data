@@ -1,0 +1,57 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Dichpally",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1989": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 131559,
+        "total_votes_polled": 91446,
+        "turnout_percentage": 69.5,
+        "margin_votes": 225,
+        "margin_percentage": 0.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "M. Venkateshwata Rao",
+          "party": "Telugu Desam",
+          "votes": 42896,
+          "votes_percentage": 48.8
+        },
+        {
+          "position": 2,
+          "name": "N. L. Narayana",
+          "party": "Indian National Congress",
+          "votes": 42671,
+          "votes_percentage": 48.6
+        },
+        {
+          "position": 3,
+          "name": "Bandalla Agangaram",
+          "party": "Independent",
+          "votes": 1344,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 4,
+          "name": "Asadi Gangadhar",
+          "party": "Bahujan Samaj Party",
+          "votes": 746,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Sarasani Venkatarami Reddy",
+          "party": "Independent",
+          "votes": 227,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

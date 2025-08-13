@@ -1,0 +1,92 @@
+{
+  "state": "Meghalaya",
+  "constituency": "MAWTHADRAISHAN",
+  "district": "West Khasi Hills",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 613,
+        "total_votes_polled": 32270,
+        "turnout_percentage": 5290.4,
+        "margin_votes": 1829,
+        "margin_percentage": 5.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Brolding Nongsiej",
+          "party": "United Democratic Party",
+          "votes": 13520,
+          "votes_percentage": 41.9
+        },
+        {
+          "position": 2,
+          "name": "Biolinda L.Nonglait",
+          "party": "Hill State People's Democratic Party",
+          "votes": 11691,
+          "votes_percentage": 36.2
+        },
+        {
+          "position": 3,
+          "name": "Pios Kurbah",
+          "party": "Indian National Congress",
+          "votes": 3573,
+          "votes_percentage": 11.1
+        },
+        {
+          "position": 4,
+          "name": "Blandingstar Warjri",
+          "party": "Peoples Democratic Front",
+          "votes": 3486,
+          "votes_percentage": 10.8
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "23 February 2013",
+      "counting_date": "28 February 2013",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 28755,
+        "total_votes_polled": 25951,
+        "turnout_percentage": 90.3,
+        "margin_votes": 424,
+        "margin_percentage": 1.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Brolding Nongsiej",
+          "party": "United Democratic Party",
+          "votes": 7786,
+          "votes_percentage": 30.0
+        },
+        {
+          "position": 2,
+          "name": "Fenella Lyngdoh Nonglait",
+          "party": "Hill State People's Democratic Party",
+          "votes": 7362,
+          "votes_percentage": 28.4
+        },
+        {
+          "position": 3,
+          "name": "Irin Lyngdoh",
+          "party": "Independent",
+          "votes": 5408,
+          "votes_percentage": 20.8
+        },
+        {
+          "position": 4,
+          "name": "Boldness L.Nongum",
+          "party": "Indian National Congress",
+          "votes": 5395,
+          "votes_percentage": 20.8
+        }
+      ]
+    }
+  }
+}

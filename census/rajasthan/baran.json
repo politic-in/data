@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 87129,
+        "male": 95536,
+        "percentage_of_total_population": 14.94,
+        "percentage_of_total_population_calculated": 14.94,
+        "percentage_of_total_population_stated": 14.94,
+        "sex_ratio": 912,
+        "total": 182665
+    },
+    "literacy": {
+        "female_literacy_rate": 51.96,
+        "female_literate": 260700,
+        "male_literacy_rate": 80.35,
+        "male_literate": 432607,
+        "rate_percentage": 66.66,
+        "total_literate": 693307
+    },
+    "population": {
+        "female": 588810,
+        "male": 633945,
+        "sex_ratio": 929,
+        "total": 1222755
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 84
+        },
+        "Christian": {
+            "percentage": 0.12,
+            "population": 1432
+        },
+        "Hindu": {
+            "percentage": 92.69,
+            "population": 1133349
+        },
+        "Jain": {
+            "percentage": 0.23,
+            "population": 2795
+        },
+        "Muslims": {
+            "percentage": 6.54,
+            "population": 79984
+        },
+        "Not Stated": {
+            "percentage": 0.16,
+            "population": 1997
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 48
+        },
+        "Sikh": {
+            "percentage": 0.25,
+            "population": 3066
+        }
+    },
+    "rural": {
+        "child_population_female": 71121,
+        "child_population_male": 77773,
+        "child_population_percentage": 15.37,
+        "child_population_percentage_calculated": 15.37,
+        "child_population_percentage_stated": 15.37,
+        "child_population_total": 148894,
+        "child_sex_ratio": 914,
+        "female": 466313,
+        "literacy_rate_female": 47.78,
+        "literacy_rate_male": 78.36,
+        "literacy_rate_percentage": 63.62,
+        "literate_female": 188832,
+        "literate_male": 332591,
+        "literate_total": 521423,
+        "male": 502228,
+        "percentage_population": 79.21,
+        "population": 968541,
+        "sex_ratio": 928
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/453-baran.html",
+    "urban": {
+        "child_population_female": 16002,
+        "child_population_male": 17769,
+        "child_population_percentage": 13.28,
+        "child_population_percentage_calculated": 13.28,
+        "child_population_percentage_stated": 13.28,
+        "child_population_total": 33771,
+        "child_sex_ratio": 901,
+        "female": 122497,
+        "literacy_rate_female": 67.48,
+        "literacy_rate_male": 87.77,
+        "literacy_rate_percentage": 77.97,
+        "literate_female": 71868,
+        "literate_male": 100016,
+        "literate_total": 171884,
+        "male": 131717,
+        "percentage_population": 20.79,
+        "population": 254214,
+        "sex_ratio": 930
+    }
+}

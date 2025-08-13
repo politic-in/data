@@ -1,0 +1,43 @@
+{
+  "state": "Meghalaya",
+  "constituency": "East Shillong",
+  "district": "East Khasi Hills",
+  "ac_type": "ST",
+  "results": {
+    "2013": {
+      "poll_date": "23 February 2013",
+      "counting_date": "28 February 2013",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 21495,
+        "total_votes_polled": 16052,
+        "turnout_percentage": 74.7,
+        "margin_votes": 5084,
+        "margin_percentage": 31.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mazel Ampareen Lyngdoh",
+          "party": "Indian National Congress",
+          "votes": 10103,
+          "votes_percentage": 62.9
+        },
+        {
+          "position": 2,
+          "name": "B. M. Lanong",
+          "party": "United Democratic Party",
+          "votes": 5019,
+          "votes_percentage": 31.3
+        },
+        {
+          "position": 3,
+          "name": "Romeo Phira Rani",
+          "party": "Bharatiya Janta Party",
+          "votes": 930,
+          "votes_percentage": 5.8
+        }
+      ]
+    }
+  }
+}

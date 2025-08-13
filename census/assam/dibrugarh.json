@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 80024,
+        "male": 83186,
+        "percentage_of_total_population": 12.31,
+        "percentage_of_total_population_calculated": 12.31,
+        "percentage_of_total_population_stated": 12.31,
+        "sex_ratio": 962,
+        "total": 163210
+    },
+    "literacy": {
+        "female_literacy_rate": 68.99,
+        "female_literate": 393170,
+        "male_literacy_rate": 82.82,
+        "male_literate": 491361,
+        "rate_percentage": 76.05,
+        "total_literate": 884531
+    },
+    "population": {
+        "female": 649901,
+        "male": 676434,
+        "sex_ratio": 961,
+        "total": 1326335
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.35,
+            "population": 4673
+        },
+        "Christian": {
+            "percentage": 3.99,
+            "population": 52968
+        },
+        "Hindu": {
+            "percentage": 90.35,
+            "population": 1198401
+        },
+        "Jain": {
+            "percentage": 0.08,
+            "population": 1055
+        },
+        "Muslims": {
+            "percentage": 4.86,
+            "population": 64526
+        },
+        "Not Stated": {
+            "percentage": 0.18,
+            "population": 2405
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 46
+        },
+        "Sikh": {
+            "percentage": 0.17,
+            "population": 2261
+        }
+    },
+    "rural": {
+        "child_population_female": 68987,
+        "child_population_male": 71296,
+        "child_population_percentage": 12.96,
+        "child_population_percentage_calculated": 12.96,
+        "child_population_percentage_stated": 12.96,
+        "child_population_total": 140283,
+        "child_sex_ratio": 968,
+        "female": 532306,
+        "literacy_rate_female": 64.85,
+        "literacy_rate_male": 80.4,
+        "literacy_rate_percentage": 72.75,
+        "literate_female": 300451,
+        "literate_male": 385122,
+        "literate_total": 685573,
+        "male": 550299,
+        "percentage_population": 81.62,
+        "population": 1082605,
+        "sex_ratio": 967
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/149-dibrugarh.html",
+    "urban": {
+        "child_population_female": 11055,
+        "child_population_male": 11872,
+        "child_population_percentage": 9.41,
+        "child_population_percentage_calculated": 9.41,
+        "child_population_percentage_stated": 9.41,
+        "child_population_total": 22927,
+        "child_sex_ratio": 931,
+        "female": 117595,
+        "literacy_rate_female": 87.03,
+        "literacy_rate_male": 92.98,
+        "literacy_rate_percentage": 90.11,
+        "literate_female": 92719,
+        "literate_male": 106239,
+        "literate_total": 198958,
+        "male": 126135,
+        "percentage_population": 18.38,
+        "population": 243730,
+        "sex_ratio": 932
+    }
+}

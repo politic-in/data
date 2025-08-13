@@ -1,0 +1,101 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Koratla",
+  "district": "Karimnagar",
+  "ac_type": "GEN",
+  "results": {
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 191853,
+        "total_votes_polled": 129293,
+        "turnout_percentage": 67.4,
+        "total_valid_votes": 129291,
+        "total_valid_votes_percentage": 67.4,
+        "margin_votes": 15545,
+        "margin_percentage": 12.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kalvakuntla Vidyasagar Rao",
+          "party": "Telangana Rashtra Samithi",
+          "votes": 41861,
+          "votes_percentage": 32.4
+        },
+        {
+          "position": 2,
+          "name": "Juvvadi Rathnakar Rao",
+          "party": "Indian National Congress",
+          "votes": 26316,
+          "votes_percentage": 20.4
+        },
+        {
+          "position": 3,
+          "name": "Jangili Sunitha Venkat",
+          "party": "Praja Rajyam Party",
+          "votes": 20680,
+          "votes_percentage": 16.0
+        },
+        {
+          "position": 4,
+          "name": "Tummala Mamatha Reddy Damu",
+          "party": "Bharatiya Janta Party",
+          "votes": 16219,
+          "votes_percentage": 12.5
+        },
+        {
+          "position": 5,
+          "name": "M.A.Gaffar",
+          "party": "Independent",
+          "votes": 14612,
+          "votes_percentage": 11.3
+        },
+        {
+          "position": 6,
+          "name": "Komireddy Vijaya Azad",
+          "party": "Bahujan Samaj Party",
+          "votes": 2745,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 7,
+          "name": "Bokkenapally Gangadhar",
+          "party": "Independent",
+          "votes": 1627,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 8,
+          "name": "Chevulamaddi Shankar",
+          "party": "Pyramid Party Of India",
+          "votes": 1607,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 9,
+          "name": "Muthyala Venkata Reddy",
+          "party": "Lok Satta Party",
+          "votes": 1539,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 10,
+          "name": "Komireddy Linga Reddy",
+          "party": "Independent",
+          "votes": 1166,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 11,
+          "name": "Pothkoori Nadipi Rajam",
+          "party": "Independent",
+          "votes": 919,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

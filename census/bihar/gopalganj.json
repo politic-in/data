@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 219474,
+        "male": 230056,
+        "percentage_of_total_population": 17.55,
+        "percentage_of_total_population_calculated": 17.55,
+        "percentage_of_total_population_stated": 17.55,
+        "sex_ratio": 954,
+        "total": 449530
+    },
+    "literacy": {
+        "female_literacy_rate": 54.81,
+        "female_literate": 589093,
+        "male_literacy_rate": 76.51,
+        "male_literate": 793905,
+        "rate_percentage": 65.47,
+        "total_literate": 1382998
+    },
+    "population": {
+        "female": 1294346,
+        "male": 1267666,
+        "sex_ratio": 1021,
+        "total": 2562012
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 167
+        },
+        "Christian": {
+            "percentage": 0.1,
+            "population": 2463
+        },
+        "Hindu": {
+            "percentage": 82.72,
+            "population": 2119262
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 133
+        },
+        "Muslims": {
+            "percentage": 17.02,
+            "population": 436057
+        },
+        "Not Stated": {
+            "percentage": 0.14,
+            "population": 3631
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 28
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 271
+        }
+    },
+    "rural": {
+        "child_population_female": 207022,
+        "child_population_male": 216767,
+        "child_population_percentage": 17.66,
+        "child_population_percentage_calculated": 17.66,
+        "child_population_percentage_stated": 17.66,
+        "child_population_total": 423789,
+        "child_sex_ratio": 955,
+        "female": 1214240,
+        "literacy_rate_female": 53.99,
+        "literacy_rate_male": 76.05,
+        "literacy_rate_percentage": 64.8,
+        "literate_female": 543785,
+        "literate_male": 736279,
+        "literate_total": 1280064,
+        "male": 1184967,
+        "percentage_population": 93.65,
+        "population": 2399207,
+        "sex_ratio": 1025
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/69-gopalganj.html",
+    "urban": {
+        "child_population_female": 12494,
+        "child_population_male": 13247,
+        "child_population_percentage": 15.81,
+        "child_population_percentage_calculated": 15.81,
+        "child_population_percentage_stated": 15.81,
+        "child_population_total": 25741,
+        "child_sex_ratio": 943,
+        "female": 80106,
+        "literacy_rate_female": 67.01,
+        "literacy_rate_male": 82.97,
+        "literacy_rate_percentage": 75.1,
+        "literate_female": 45308,
+        "literate_male": 57626,
+        "literate_total": 102934,
+        "male": 82699,
+        "percentage_population": 6.35,
+        "population": 162805,
+        "sex_ratio": 969
+    }
+}

@@ -1,0 +1,50 @@
+{
+  "state": "Mizoram",
+  "constituency": "LUNGLEIEAST",
+  "district": "Lunglei",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 14141,
+        "total_votes_polled": 12295,
+        "turnout_percentage": 87.3,
+        "margin_votes": 72,
+        "margin_percentage": 0.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Lawmawma Tochhawng",
+          "party": "Mizo National Front",
+          "votes": 4063,
+          "votes_percentage": 33.1
+        },
+        {
+          "position": 2,
+          "name": "Lalrinpuii",
+          "party": "Independent",
+          "votes": 3991,
+          "votes_percentage": 32.5
+        },
+        {
+          "position": 3,
+          "name": "Joseph Lalhimpuia",
+          "party": "Indian National Congress",
+          "votes": 3836,
+          "votes_percentage": 31.2
+        },
+        {
+          "position": 4,
+          "name": "H.Lalruata",
+          "party": "Bharatiya Janta Party",
+          "votes": 405,
+          "votes_percentage": 3.3
+        }
+      ]
+    }
+  }
+}

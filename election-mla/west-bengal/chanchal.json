@@ -1,0 +1,169 @@
+{
+  "state": "West Bengal",
+  "constituency": "Chanchal",
+  "district": "Maldah",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 238225,
+        "total_votes_polled": 198656,
+        "turnout_percentage": 83.8,
+        "margin_votes": 67338,
+        "margin_percentage": 33.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nihar Ranjan Ghosh",
+          "party": "All India Trinamool Congress",
+          "votes": 115966,
+          "votes_percentage": 58.4
+        },
+        {
+          "position": 2,
+          "name": "Dipankar Ram (Bankat)",
+          "party": "Bharatiya Janta Party",
+          "votes": 48628,
+          "votes_percentage": 24.5
+        },
+        {
+          "position": 3,
+          "name": "Asif Mehbub",
+          "party": "Indian National Congress",
+          "votes": 31346,
+          "votes_percentage": 15.8
+        },
+        {
+          "position": 4,
+          "name": "Jhantu Kumar Rabidas",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1214,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 5,
+          "name": "Younish Mia",
+          "party": "Bahujan Samaj Party",
+          "votes": 1050,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Bhakta Prasad Saha",
+          "party": "Independent",
+          "votes": 452,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 215605,
+        "total_votes_polled": 169828,
+        "turnout_percentage": 79.9,
+        "margin_votes": 52368,
+        "margin_percentage": 30.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Asif Mehbub",
+          "party": "Indian National Congress",
+          "votes": 92590,
+          "votes_percentage": 54.5
+        },
+        {
+          "position": 2,
+          "name": "Soumitra Ray",
+          "party": "All India Trinamool Congress",
+          "votes": 40222,
+          "votes_percentage": 23.7
+        },
+        {
+          "position": 3,
+          "name": "Dipankar Ram",
+          "party": "Bharatiya Janta Party",
+          "votes": 33601,
+          "votes_percentage": 19.8
+        },
+        {
+          "position": 4,
+          "name": "Doli Chaudhury Roy",
+          "party": "Bahujan Samaj Party",
+          "votes": 1896,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Kalicharan Roy",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1519,
+          "votes_percentage": 0.9
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 171300,
+        "total_votes_polled": 140852,
+        "turnout_percentage": 82.2,
+        "margin_votes": 14187,
+        "margin_percentage": 10.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Asif Mehbub",
+          "party": "Indian National Congress",
+          "votes": 68586,
+          "votes_percentage": 48.7
+        },
+        {
+          "position": 2,
+          "name": "Anjuman Ara Begam",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 54399,
+          "votes_percentage": 38.6
+        },
+        {
+          "position": 3,
+          "name": "Sital Prasad Chakraborty",
+          "party": "Bharatiya Janta Party",
+          "votes": 11002,
+          "votes_percentage": 7.8
+        },
+        {
+          "position": 4,
+          "name": "Jayanta Kumar Sinha",
+          "party": "Independent",
+          "votes": 2867,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 5,
+          "name": "Abdul Khaleque",
+          "party": "Independent",
+          "votes": 2405,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 6,
+          "name": "Dally Choudhury Roy",
+          "party": "Bahujan Samaj Party",
+          "votes": 1593,
+          "votes_percentage": 1.1
+        }
+      ]
+    }
+  }
+}

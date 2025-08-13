@@ -1,0 +1,78 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Falaudi",
+  "district": "Jodhpur",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 220505,
+        "total_votes_polled": 172458,
+        "turnout_percentage": 79.4,
+        "margin_votes": 8737,
+        "margin_percentage": 5.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pabba Ram",
+          "party": "Bharatiya Janta Party",
+          "votes": 60735,
+          "votes_percentage": 35.2
+        },
+        {
+          "position": 2,
+          "name": "Mahesh Kumar",
+          "party": "Indian National Congress",
+          "votes": 51998,
+          "votes_percentage": 30.2
+        },
+        {
+          "position": 3,
+          "name": "Kumbh Singh",
+          "party": "Independent",
+          "votes": 48306,
+          "votes_percentage": 28.0
+        },
+        {
+          "position": 4,
+          "name": "Kishana Ram Urf Kishan Meghwal",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 4318,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 5,
+          "name": "Ramesh Chand Sahu",
+          "party": "Aam Aadmi Party",
+          "votes": 2037,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 6,
+          "name": "Kamla",
+          "party": "Bahujan Samaj Party",
+          "votes": 1978,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 7,
+          "name": "Gopal Urf Gopalram",
+          "party": "Independent",
+          "votes": 1906,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 8,
+          "name": "Subodh Urf S. L. Vyas",
+          "party": "Independent",
+          "votes": 1180,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

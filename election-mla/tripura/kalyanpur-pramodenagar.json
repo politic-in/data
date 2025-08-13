@@ -1,0 +1,57 @@
+{
+  "state": "Tripura",
+  "constituency": "Kalyanpur-Pramodenagar",
+  "district": "West Tripura",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 41973,
+        "total_votes_polled": 38306,
+        "turnout_percentage": 92.0,
+        "margin_votes": 3141,
+        "margin_percentage": 8.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pinaki Das Chowdhury",
+          "party": "Bharatiya Janta Party",
+          "votes": 20293,
+          "votes_percentage": 53.0
+        },
+        {
+          "position": 2,
+          "name": "Manindra Chandra Das",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 17152,
+          "votes_percentage": 44.8
+        },
+        {
+          "position": 3,
+          "name": "Bikram Kishore Sinha",
+          "party": "Indian National Congress",
+          "votes": 347,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 4,
+          "name": "Uttam Kumar Das",
+          "party": "Amra Bangalee",
+          "votes": 345,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Mano Ranjan Debbarma",
+          "party": "Tipraland State Party",
+          "votes": 169,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

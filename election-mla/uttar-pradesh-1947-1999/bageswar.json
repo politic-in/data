@@ -1,0 +1,50 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "Bageswar",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 107734,
+        "total_votes_polled": 28332,
+        "turnout_percentage": 26.3,
+        "margin_votes": 14774,
+        "margin_percentage": 52.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gopal Ram Das",
+          "party": "Indian National Congress (I)",
+          "votes": 19167,
+          "votes_percentage": 69.2
+        },
+        {
+          "position": 2,
+          "name": "Puran Chandra",
+          "party": "Independent",
+          "votes": 4393,
+          "votes_percentage": 15.9
+        },
+        {
+          "position": 3,
+          "name": "Girish Lal",
+          "party": "Bharatiya Janta Party",
+          "votes": 3537,
+          "votes_percentage": 12.8
+        },
+        {
+          "position": 4,
+          "name": "Narayan Ram Das",
+          "party": "Independent",
+          "votes": 596,
+          "votes_percentage": 2.2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "state": "West Bengal",
+  "constituency": "Bandwan",
+  "district": "Puruliya",
+  "ac_type": "ST",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 272796,
+        "total_votes_polled": 238101,
+        "turnout_percentage": 88.4,
+        "margin_votes": 18831,
+        "margin_percentage": 7.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rajib Lochan Saren",
+          "party": "All India Trinamool Congress",
+          "votes": 113337,
+          "votes_percentage": 47.6
+        },
+        {
+          "position": 2,
+          "name": "Parcy Murmu",
+          "party": "Bharatiya Janta Party",
+          "votes": 94506,
+          "votes_percentage": 39.7
+        },
+        {
+          "position": 3,
+          "name": "Besra Susanta Kumar",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 22204,
+          "votes_percentage": 9.3
+        },
+        {
+          "position": 4,
+          "name": "Sib Sankar Singh",
+          "party": "Independent",
+          "votes": 5067,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 5,
+          "name": "Tikaram Hembram",
+          "party": "Bahujan Samaj Party",
+          "votes": 2987,
+          "votes_percentage": 1.3
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 223789,
+        "total_votes_polled": 180192,
+        "turnout_percentage": 80.5,
+        "margin_votes": 22020,
+        "margin_percentage": 12.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Besra Susanta",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 87183,
+          "votes_percentage": 48.4
+        },
+        {
+          "position": 2,
+          "name": "Sital Chandra Hembram",
+          "party": "Indian National Congress",
+          "votes": 65163,
+          "votes_percentage": 36.2
+        },
+        {
+          "position": 3,
+          "name": "Chunaram Hembram",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 10769,
+          "votes_percentage": 6.0
+        },
+        {
+          "position": 4,
+          "name": "Manika Murmu",
+          "party": "Bharatiya Janta Party",
+          "votes": 6912,
+          "votes_percentage": 3.8
+        },
+        {
+          "position": 5,
+          "name": "Jagran Murmu",
+          "party": "Independent",
+          "votes": 4217,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 6,
+          "name": "Biswanath Baskey",
+          "party": "Jharkhand Disom Party",
+          "votes": 2338,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 7,
+          "name": "Fatik Kumar Hembram",
+          "party": "All Jharkhand Students Union",
+          "votes": 2051,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 8,
+          "name": "Jalim Chandra Saren",
+          "party": "Jharkhand Vikas Morcha (Prajatantrik)",
+          "votes": 1559,
+          "votes_percentage": 0.9
+        }
+      ]
+    }
+  }
+}

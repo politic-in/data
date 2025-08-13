@@ -1,0 +1,64 @@
+{
+  "state": "Himachal Pradesh",
+  "constituency": "Shimla Rural",
+  "district": "Shimla",
+  "ac_type": "GEN",
+  "results": {
+    "2012": {
+      "poll_date": "",
+      "counting_date": "20 December 2012",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 68326,
+        "total_votes_polled": 40423,
+        "turnout_percentage": 59.2,
+        "margin_votes": 20000,
+        "margin_percentage": 49.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Virbhadra Singh",
+          "party": "Indian National Congress",
+          "votes": 28892,
+          "votes_percentage": 71.5
+        },
+        {
+          "position": 2,
+          "name": "Ishwar Rohal",
+          "party": "Bharatiya Janta Party",
+          "votes": 8892,
+          "votes_percentage": 22.0
+        },
+        {
+          "position": 3,
+          "name": "Prem Chand Thakur",
+          "party": "Independent",
+          "votes": 1171,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 4,
+          "name": "Gaurav Sharma",
+          "party": "Himachal Lokhit Party",
+          "votes": 745,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 5,
+          "name": "Kushal Raj",
+          "party": "Himachal Swabhiman Party",
+          "votes": 491,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 6,
+          "name": "Ravi Kumar",
+          "party": "Bahujan Samaj Party",
+          "votes": 232,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

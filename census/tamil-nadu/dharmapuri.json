@@ -1,0 +1,120 @@
+{
+  "district": "Dharmapuri",
+  "state": "Tamil Nadu",
+  "census_year": 2011,
+  "source": [
+    "https://www.census2011.co.in/census/district/24-dharmapuri.html",
+    "https://www.censusindia.co.in/district/dharmapuri-district-tamil-nadu-630"
+  ],
+  "population": {
+    "total": 1506843,
+    "male": 774303,
+    "female": 732540,
+    "sex_ratio": 946
+  },
+  "area_distribution": {
+    "urban": {
+      "percentage_of_total_population": 17.32,
+      "total_population": 260912,
+      "male": 131088,
+      "female": 129824,
+      "sex_ratio": 990,
+      "child_population_0_6": {
+        "total": 27037,
+        "male": 13943,
+        "female": 13094,
+        "sex_ratio": 939,
+        "percentage_of_urban_population": 10.36
+      },
+      "literacy": {
+        "rate": 81.21,
+        "male_rate": 87.33,
+        "female_rate": 75.07,
+        "total_literates": 189924
+      }
+    },
+    "rural": {
+      "percentage_of_total_population": 82.68,
+      "total_population": 1245931,
+      "male": 643215,
+      "female": 602716,
+      "sex_ratio": 937,
+      "child_population_0_6": {
+        "total": 140903,
+        "male": 73834,
+        "female": 67069,
+        "sex_ratio": 908,
+        "percentage_of_rural_population": 11.31
+      },
+      "literacy": {
+        "rate": 65.86,
+        "male_rate": 74.69,
+        "female_rate": 56.47,
+        "total_literates": 727785
+      }
+    }
+  },
+  "age_groups": {
+    "children_0_6_years": {
+      "total": 167940,
+      "male": 87777,
+      "female": 80163,
+      "sex_ratio": 913,
+      "percentage_of_total_population": 11.15
+    }
+  },
+  "literacy_overall_district": {
+    "rate": 68.54,
+    "male_rate": 76.85,
+    "female_rate": 59.8,
+    "total_literates": 917709
+  },
+  "religion_distribution": {
+    "hindu": {
+      "percentage": 96.42,
+      "population": 1452956
+    },
+    "muslim": {
+      "percentage": 2.54,
+      "population": 38304
+    },
+    "christian": {
+      "percentage": 0.94,
+      "population": 14089
+    },
+    "sikh": {
+      "percentage": 0.01,
+      "population": 164
+    },
+    "buddhist": {
+      "percentage": 0.0,
+      "population": 39
+    },
+    "jain": {
+      "percentage": 0.0,
+      "population": 37
+    },
+    "other_religions": {
+      "percentage": 0.01,
+      "population": 87
+    },
+    "not_stated": {
+      "percentage": 0.08,
+      "population": 1167
+    }
+  },
+  "social_groups": {
+    "scheduled_caste_sc": {
+      "population": 244792,
+      "percentage": 16.25,
+      "male": 123083,
+      "female": 121709
+    },
+    "scheduled_tribe_st": {
+      "population": 56128,
+      "percentage": 3.72,
+      "male": 28883,
+      "female": 27245
+    }
+  }
+}

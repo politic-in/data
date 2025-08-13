@@ -1,0 +1,43 @@
+{
+  "state": "Maharashtra",
+  "constituency": "Osmanadbad",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 115980,
+        "total_votes_polled": 76268,
+        "turnout_percentage": 65.8,
+        "margin_votes": 11999,
+        "margin_percentage": 15.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Patil Padmasinha Bajirao",
+          "party": "Indian National Congress (U)",
+          "votes": 40320,
+          "votes_percentage": 54.0
+        },
+        {
+          "position": 2,
+          "name": "Patil Nana Saheb Harishchandra",
+          "party": "Indian National Congress (I)",
+          "votes": 28321,
+          "votes_percentage": 37.9
+        },
+        {
+          "position": 3,
+          "name": "Ghure Trimbakrao Sridharrao",
+          "party": "Peasants & Workers Party",
+          "votes": 6093,
+          "votes_percentage": 8.2
+        }
+      ]
+    }
+  }
+}

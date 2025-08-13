@@ -1,0 +1,101 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Nidadavole",
+  "district": "West Godavari",
+  "ac_type": "GEN",
+  "results": {
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 173086,
+        "total_votes_polled": 151442,
+        "turnout_percentage": 87.5,
+        "total_valid_votes": 151382,
+        "total_valid_votes_percentage": 87.5,
+        "margin_votes": 5766,
+        "margin_percentage": 3.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Burugupalli Sesha Rao",
+          "party": "Telugu Desam",
+          "votes": 51680,
+          "votes_percentage": 34.1
+        },
+        {
+          "position": 2,
+          "name": "G.Srinivas Naidu",
+          "party": "Indian National Congress",
+          "votes": 45914,
+          "votes_percentage": 30.3
+        },
+        {
+          "position": 3,
+          "name": "Rudraraju Gajapathi Kumar Raju",
+          "party": "Praja Rajyam Party",
+          "votes": 44511,
+          "votes_percentage": 29.4
+        },
+        {
+          "position": 4,
+          "name": "Nakka Venkateswarlu",
+          "party": "Bahujan Samaj Party",
+          "votes": 2832,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 5,
+          "name": "Bandi Satyanarayana",
+          "party": "Lok Satta Party",
+          "votes": 1691,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Talluri Satyanarayana",
+          "party": "Pyramid Party Of India",
+          "votes": 1427,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 7,
+          "name": "Manga Raju Cheekatimilli",
+          "party": "Independent",
+          "votes": 1297,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 8,
+          "name": "Visweswara Rao Raavi",
+          "party": "Bharatiya Janta Party",
+          "votes": 1026,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 9,
+          "name": "Gubbala Sreeranga Nayakulu",
+          "party": "Independent",
+          "votes": 396,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Bokka Satyanarayana",
+          "party": "Independent",
+          "votes": 330,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Galinki Krishna",
+          "party": "Independent",
+          "votes": 278,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

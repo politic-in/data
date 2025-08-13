@@ -1,0 +1,71 @@
+{
+  "state": "Nagaland",
+  "constituency": "ALONGTAKI",
+  "district": "Mokokchung",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 14332,
+        "total_votes_polled": 11876,
+        "turnout_percentage": 83.2,
+        "margin_votes": 86,
+        "margin_percentage": 0.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Temjen Imna Along",
+          "party": "Bharatiya Janta Party",
+          "votes": 5981,
+          "votes_percentage": 50.4
+        },
+        {
+          "position": 2,
+          "name": "Dr. Benjongliba Aier",
+          "party": "Naga Peoples Front",
+          "votes": 5895,
+          "votes_percentage": 49.6
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "23 February 2013",
+      "counting_date": "28 February 2013",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 13712,
+        "total_votes_polled": 12855,
+        "turnout_percentage": 93.8,
+        "margin_votes": 1491,
+        "margin_percentage": 11.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr. Benjongliba",
+          "party": "Naga Peoples Front",
+          "votes": 7087,
+          "votes_percentage": 55.1
+        },
+        {
+          "position": 2,
+          "name": "Moatoshi Longkumer",
+          "party": "Independent",
+          "votes": 5596,
+          "votes_percentage": 43.5
+        },
+        {
+          "position": 3,
+          "name": "Imlitemsu",
+          "party": "Indian National Congress",
+          "votes": 172,
+          "votes_percentage": 1.3
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "state": "Tripura",
+  "constituency": "Simna (ST)",
+  "district": "West Tripura",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 35881,
+        "total_votes_polled": 32648,
+        "turnout_percentage": 92.1,
+        "margin_votes": 1963,
+        "margin_percentage": 6.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Brishaketu Debbarma",
+          "party": "Indigenous People's Front Of Tripura",
+          "votes": 15977,
+          "votes_percentage": 48.9
+        },
+        {
+          "position": 2,
+          "name": "Pranab Debbarma",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 14014,
+          "votes_percentage": 42.9
+        },
+        {
+          "position": 3,
+          "name": "Rabindra Debbarma",
+          "party": "Indigenous Nationalist Party Of Twipra",
+          "votes": 1628,
+          "votes_percentage": 5.0
+        },
+        {
+          "position": 4,
+          "name": "Phani Lal Debbarma",
+          "party": "Indian National Congress",
+          "votes": 495,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Ananta Urang",
+          "party": "Tripura Peoples Party",
+          "votes": 388,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 7,
+          "name": "Subodh Debbarma",
+          "party": "Independent",
+          "votes": 146,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

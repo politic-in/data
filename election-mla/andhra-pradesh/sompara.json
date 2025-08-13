@@ -1,0 +1,64 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Sompara",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1989": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 153155,
+        "total_votes_polled": 112767,
+        "turnout_percentage": 73.6,
+        "margin_votes": 4967,
+        "margin_percentage": 4.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Anisettibulli Abbayee Alias Thathi Reddy",
+          "party": "Indian National Congress",
+          "votes": 53596,
+          "votes_percentage": 49.3
+        },
+        {
+          "position": 2,
+          "name": "Satyalinganaicker Tirumani",
+          "party": "Telugu Desam",
+          "votes": 48629,
+          "votes_percentage": 44.7
+        },
+        {
+          "position": 3,
+          "name": "B.S.A. Swamy",
+          "party": "Bahujan Samaj Party",
+          "votes": 5017,
+          "votes_percentage": 4.6
+        },
+        {
+          "position": 4,
+          "name": "Guddla Naga Raju",
+          "party": "Independent",
+          "votes": 742,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Penkey Pada Rao",
+          "party": "Independent",
+          "votes": 452,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Yarlagadda Nrayana Murty",
+          "party": "Independent",
+          "votes": 348,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

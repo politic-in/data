@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 194951,
+        "male": 209625,
+        "percentage_of_total_population": 20.21,
+        "percentage_of_total_population_calculated": 20.21,
+        "percentage_of_total_population_stated": 20.21,
+        "sex_ratio": 930,
+        "total": 404576
+    },
+    "literacy": {
+        "female_literacy_rate": 41.74,
+        "female_literate": 316911,
+        "male_literacy_rate": 61.77,
+        "male_literate": 517666,
+        "rate_percentage": 52.25,
+        "total_literate": 834577
+    },
+    "population": {
+        "female": 954203,
+        "male": 1047559,
+        "sex_ratio": 911,
+        "total": 2001762
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.0,
+            "population": 60
+        },
+        "Christian": {
+            "percentage": 0.07,
+            "population": 1342
+        },
+        "Hindu": {
+            "percentage": 87.61,
+            "population": 1753829
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 133
+        },
+        "Muslims": {
+            "percentage": 12.08,
+            "population": 241760
+        },
+        "Not Stated": {
+            "percentage": 0.22,
+            "population": 4387
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 81
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 170
+        }
+    },
+    "rural": {
+        "child_population_female": 188063,
+        "child_population_male": 202199,
+        "child_population_percentage": 20.4,
+        "child_population_percentage_calculated": 20.4,
+        "child_population_percentage_stated": 20.4,
+        "child_population_total": 390262,
+        "child_sex_ratio": 930,
+        "female": 912541,
+        "literacy_rate_female": 40.56,
+        "literacy_rate_male": 60.89,
+        "literacy_rate_percentage": 51.22,
+        "literate_female": 293874,
+        "literate_male": 486207,
+        "literate_total": 780081,
+        "male": 1000760,
+        "percentage_population": 95.58,
+        "population": 1913301,
+        "sex_ratio": 912
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/65-madhepura.html",
+    "urban": {
+        "child_population_female": 6942,
+        "child_population_male": 7372,
+        "child_population_percentage": 16.18,
+        "child_population_percentage_calculated": 16.18,
+        "child_population_percentage_stated": 16.18,
+        "child_population_total": 14314,
+        "child_sex_ratio": 942,
+        "female": 41662,
+        "literacy_rate_female": 66.35,
+        "literacy_rate_male": 79.79,
+        "literacy_rate_percentage": 73.5,
+        "literate_female": 23037,
+        "literate_male": 31459,
+        "literate_total": 54496,
+        "male": 46799,
+        "percentage_population": 4.42,
+        "population": 88461,
+        "sex_ratio": 890
+    }
+}

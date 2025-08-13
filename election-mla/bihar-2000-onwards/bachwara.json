@@ -1,0 +1,136 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "BACHWARA",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2005": {
+      "poll_date": "26 October 2005",
+      "counting_date": "21 November 2005",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 194151,
+        "total_votes_polled": 102280,
+        "turnout_percentage": 52.7,
+        "total_valid_votes": 102280,
+        "total_valid_votes_percentage": 52.7,
+        "margin_votes": 3018,
+        "margin_percentage": 3.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ramdeo Rai",
+          "party": "Indian National Congress",
+          "votes": 36807,
+          "votes_percentage": 36.0
+        },
+        {
+          "position": 2,
+          "name": "Awdhesh Kumar Rai",
+          "party": "Communist Party Of India",
+          "votes": 33789,
+          "votes_percentage": 33.0
+        },
+        {
+          "position": 3,
+          "name": "Arbind Singh",
+          "party": "Independent",
+          "votes": 17286,
+          "votes_percentage": 16.9
+        },
+        {
+          "position": 4,
+          "name": "Amrendra Kumar Amar",
+          "party": "Bharatiya Janta Party",
+          "votes": 10026,
+          "votes_percentage": 9.8
+        },
+        {
+          "position": 5,
+          "name": "Dharmendra Rajak",
+          "party": "Bahujan Samaj Party",
+          "votes": 2287,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 6,
+          "name": "Md. Moen Ansari",
+          "party": "Indian Justice Party",
+          "votes": 2085,
+          "votes_percentage": 2.0
+        }
+      ]
+    },
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 173629,
+        "total_votes_polled": 110004,
+        "turnout_percentage": 63.4,
+        "margin_votes": 458,
+        "margin_percentage": 0.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Uttam Kumar Yadav",
+          "party": "Rashtriya Janata Dal",
+          "votes": 29381,
+          "votes_percentage": 27.1
+        },
+        {
+          "position": 2,
+          "name": "Awdhesh Rai",
+          "party": "Communist Party Of India",
+          "votes": 28923,
+          "votes_percentage": 26.7
+        },
+        {
+          "position": 3,
+          "name": "Ramdeo Rai",
+          "party": "Indian National Congress",
+          "votes": 28764,
+          "votes_percentage": 26.5
+        },
+        {
+          "position": 4,
+          "name": "Chandra Kumar Singh",
+          "party": "Janata Dal (United)",
+          "votes": 19132,
+          "votes_percentage": 17.6
+        },
+        {
+          "position": 5,
+          "name": "Dilip Kumar Gupta",
+          "party": "Nationalist Congress Party",
+          "votes": 697,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Gunjan Kumar",
+          "party": "Independent",
+          "votes": 570,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Chandra Shekhar Ray",
+          "party": "National Democratic Peoples Front",
+          "votes": 563,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Rohit Kumar Ram",
+          "party": "Independent",
+          "votes": 453,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

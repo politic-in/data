@@ -1,0 +1,134 @@
+{
+  "state": "Maharashtra",
+  "constituency": "POONA",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 529041,
+        "total_votes_polled": 359485,
+        "turnout_percentage": 68.0,
+        "margin_votes": 94488,
+        "margin_percentage": 26.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mohan Manikchand Dharia",
+          "party": "Indian National Congress",
+          "votes": 208150,
+          "votes_percentage": 57.9
+        },
+        {
+          "position": 2,
+          "name": "Ramchandra Kashinath Mhalgi",
+          "party": "Bhartiya Jan Sangh",
+          "votes": 113662,
+          "votes_percentage": 31.6
+        },
+        {
+          "position": 3,
+          "name": "Bhalchandra Sadashiv Vaidya",
+          "party": "Samyukta Socialist Party",
+          "votes": 15275,
+          "votes_percentage": 4.2
+        },
+        {
+          "position": 4,
+          "name": "Bhagwant Ghate Laxman",
+          "party": "Shiv Sena",
+          "votes": 9458,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 5,
+          "name": "Kambale Bapu Chandrasen",
+          "party": "Independent",
+          "votes": 6453,
+          "votes_percentage": 1.8
+        }
+      ]
+    },
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 437596,
+        "total_votes_polled": 304742,
+        "turnout_percentage": 69.6,
+        "margin_votes": 13538,
+        "margin_percentage": 4.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "S. M. Joshi",
+          "party": "Samyukta Socialist Party",
+          "votes": 150696,
+          "votes_percentage": 49.5
+        },
+        {
+          "position": 2,
+          "name": "N. V. Gadgil",
+          "party": "Indian National Congress",
+          "votes": 137158,
+          "votes_percentage": 45.0
+        },
+        {
+          "position": 3,
+          "name": "A. G. Bhide",
+          "party": "Independent",
+          "votes": 3396,
+          "votes_percentage": 1.1
+        }
+      ]
+    },
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 434811,
+        "total_votes_polled": 278463,
+        "turnout_percentage": 64.0,
+        "margin_votes": 48406,
+        "margin_percentage": 17.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shankarrao Shantaram More",
+          "party": "Indian National Congress",
+          "votes": 115402,
+          "votes_percentage": 41.4
+        },
+        {
+          "position": 2,
+          "name": "Narayan Ganesh Goray",
+          "party": "Praja Socialist Party",
+          "votes": 66996,
+          "votes_percentage": 24.1
+        },
+        {
+          "position": 3,
+          "name": "Pralhad Keshav Atre",
+          "party": "Independent",
+          "votes": 58862,
+          "votes_percentage": 21.1
+        },
+        {
+          "position": 4,
+          "name": "Jagannath Anant Joshi",
+          "party": "Jan Sangh",
+          "votes": 26755,
+          "votes_percentage": 9.6
+        }
+      ]
+    }
+  }
+}

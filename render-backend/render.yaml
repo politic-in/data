@@ -1,0 +1,18 @@
+# Render.com Blueprint
+services:
+  - type: web
+    name: politic-data-oauth
+    runtime: node
+    region: singapore # or oregon, ohio, frankfurt
+    plan: free # or starter ($7/month)
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: GITHUB_CLIENT_ID
+        sync: false # Set manually in dashboard
+      - key: GITHUB_CLIENT_SECRET
+        sync: false # Set manually in dashboard
+    healthCheckPath: /health
+    autoDeploy: true

@@ -1,0 +1,62 @@
+{
+  "state": "Assam",
+  "constituency": "CACHAR LUSHAL HILLS",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 658171,
+        "total_votes_polled": 627706,
+        "turnout_percentage": 47.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Laskar, Nibaran Chandra",
+          "party": "Indian National Congress",
+          "votes": 192847,
+          "votes_percentage": 30.7
+        },
+        {
+          "position": 1,
+          "name": "Deb, Suresh Chandra",
+          "party": "Indian National Congress",
+          "votes": 182692,
+          "votes_percentage": 29.1
+        },
+        {
+          "position": 3,
+          "name": "Ghose, Satyendra Kishore",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 84160,
+          "votes_percentage": 13.4
+        },
+        {
+          "position": 4,
+          "name": "Patni, Nitai Chand",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 71704,
+          "votes_percentage": 11.4
+        },
+        {
+          "position": 5,
+          "name": "Das, Sanat Kumar",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 52708,
+          "votes_percentage": 8.4
+        },
+        {
+          "position": 6,
+          "name": "Suklabadya, Mahendra Chandra",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 43595,
+          "votes_percentage": 6.9
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "state": "Jammu & Kashmir",
+  "constituency": "MARH(SC)",
+  "district": "Jammu",
+  "ac_type": "SC",
+  "results": {
+    "2024": {
+      "poll_date": "08 October 2024",
+      "counting_date": "08 October 2024",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 93299,
+        "total_votes_polled": 76628,
+        "turnout_percentage": 82.6,
+        "margin_votes": 23086,
+        "margin_percentage": 30.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Surinder Kumar",
+          "party": "Bharatiya Janta Party",
+          "votes": 42563,
+          "votes_percentage": 55.3
+        },
+        {
+          "position": 2,
+          "name": "Mula Ram",
+          "party": "Indian National Congress",
+          "votes": 19477,
+          "votes_percentage": 25.3
+        },
+        {
+          "position": 3,
+          "name": "Mohan Lal Kaith",
+          "party": "Independent",
+          "votes": 12868,
+          "votes_percentage": 16.7
+        },
+        {
+          "position": 4,
+          "name": "Som Nath",
+          "party": "Aazad Samaj Party (Kanshi Ram)",
+          "votes": 802,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Jagdish Chander",
+          "party": "Bahujan Samaj Party",
+          "votes": 496,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Ashok Kumar",
+          "party": "Democratic Progressive Azad Party",
+          "votes": 422,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "state": "Assam",
+  "constituency": "Chapaguri (ST)",
+  "district": "Nalbari",
+  "ac_type": "ST",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 137267,
+        "total_votes_polled": 112361,
+        "turnout_percentage": 83.4,
+        "margin_votes": 1481,
+        "margin_percentage": 1.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Thaneswar Basumatary",
+          "party": "Bodaland Peoples Front",
+          "votes": 43250,
+          "votes_percentage": 38.5
+        },
+        {
+          "position": 2,
+          "name": "Sujan Das",
+          "party": "Independent",
+          "votes": 41769,
+          "votes_percentage": 37.2
+        },
+        {
+          "position": 3,
+          "name": "Hitesh Basumatary",
+          "party": "Independent",
+          "votes": 27342,
+          "votes_percentage": 24.3
+        }
+      ]
+    }
+  }
+}

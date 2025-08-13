@@ -1,0 +1,64 @@
+{
+  "state": "West Bengal",
+  "constituency": "Haora",
+  "district": "North Twenty Four Parganas",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 246763,
+        "total_votes_polled": 224465,
+        "turnout_percentage": 92.2,
+        "margin_votes": 80978,
+        "margin_percentage": 36.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Islam Sk Nurul (HAJI)",
+          "party": "All India Trinamool Congress",
+          "votes": 130398,
+          "votes_percentage": 58.1
+        },
+        {
+          "position": 2,
+          "name": "Kutubuddin Fathe",
+          "party": "Rashtriya Secular Majlis Party",
+          "votes": 49420,
+          "votes_percentage": 22.0
+        },
+        {
+          "position": 3,
+          "name": "Rajendra Saha (SOMU)",
+          "party": "Bharatiya Janta Party",
+          "votes": 38506,
+          "votes_percentage": 17.2
+        },
+        {
+          "position": 4,
+          "name": "Md Kutubuddin",
+          "party": "Independent",
+          "votes": 2484,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Akher Ali Molla",
+          "party": "United Socialist Party",
+          "votes": 2401,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Abul Kalam",
+          "party": "Justice And Development Party",
+          "votes": 1256,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

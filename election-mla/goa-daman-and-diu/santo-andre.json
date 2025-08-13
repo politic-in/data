@@ -1,0 +1,64 @@
+{
+  "state": "Goa, Daman And Diu",
+  "constituency": "Santo Andre",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 14136,
+        "total_votes_polled": 9918,
+        "turnout_percentage": 70.2,
+        "margin_votes": 771,
+        "margin_percentage": 7.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pereira Teotonio Francisco Paulo",
+          "party": "Indian National Congress (U)",
+          "votes": 4200,
+          "votes_percentage": 44.4
+        },
+        {
+          "position": 2,
+          "name": "Cuncolenkar Sripad Laxman",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 3429,
+          "votes_percentage": 36.2
+        },
+        {
+          "position": 3,
+          "name": "Fernandes Victoria Romeo",
+          "party": "Janta Party",
+          "votes": 804,
+          "votes_percentage": 8.5
+        },
+        {
+          "position": 4,
+          "name": "Melo Augustine Santano",
+          "party": "Independent",
+          "votes": 634,
+          "votes_percentage": 6.7
+        },
+        {
+          "position": 5,
+          "name": "Fernandes Ghanasyam Xavier",
+          "party": "Independent",
+          "votes": 214,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 6,
+          "name": "Fernandes Jose Nartins",
+          "party": "Independent",
+          "votes": 182,
+          "votes_percentage": 1.9
+        }
+      ]
+    }
+  }
+}

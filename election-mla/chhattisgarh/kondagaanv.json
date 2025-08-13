@@ -1,0 +1,127 @@
+{
+  "state": "Chhattisgarh",
+  "constituency": "Kondagaanv",
+  "district": "Bastar",
+  "ac_type": "ST",
+  "results": {
+    "2023": {
+      "poll_date": "07 November 2023",
+      "counting_date": "03 December 2023",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 378270,
+        "total_votes_polled": 153577,
+        "turnout_percentage": 41.5,
+        "margin_votes": 18572,
+        "margin_percentage": 12.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Lata Usendi",
+          "party": "Bharatiya Janta Party",
+          "votes": 80465,
+          "votes_percentage": 51.3
+        },
+        {
+          "position": 2,
+          "name": "Mohan Markam",
+          "party": "Indian National Congress",
+          "votes": 61893,
+          "votes_percentage": 39.5
+        },
+        {
+          "position": 3,
+          "name": "Budhsingh Netam",
+          "party": "Independent",
+          "votes": 2960,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 4,
+          "name": "Girdhar Netam",
+          "party": "Bahujan Samaj Party",
+          "votes": 2236,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 5,
+          "name": "Shankar Netam",
+          "party": "Janta Congress Chhattisgarh (J)",
+          "votes": 2141,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 6,
+          "name": "Gyanprakash Korram",
+          "party": "Sarv Adi Dal",
+          "votes": 1800,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 7,
+          "name": "Jayprakash Netam",
+          "party": "Communist Party Of India",
+          "votes": 1249,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 8,
+          "name": "Kanwal Singh Baghel",
+          "party": "Rashtriya Jansabha Party",
+          "votes": 833,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "2018": {
+      "poll_date": "20 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 164741,
+        "total_votes_polled": 132926,
+        "turnout_percentage": 83.8,
+        "margin_votes": 1796,
+        "margin_percentage": 1.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mohan Markam",
+          "party": "Indian National Congress",
+          "votes": 61582,
+          "votes_percentage": 46.3
+        },
+        {
+          "position": 2,
+          "name": "Lata Usendi",
+          "party": "Bharatiya Janta Party",
+          "votes": 59786,
+          "votes_percentage": 45.0
+        },
+        {
+          "position": 3,
+          "name": "Narendra Netam",
+          "party": "Bahujan Samaj Party",
+          "votes": 4769,
+          "votes_percentage": 3.6
+        },
+        {
+          "position": 4,
+          "name": "Ramchandra Nag",
+          "party": "Communist Party Of India",
+          "votes": 3883,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 5,
+          "name": "Sukharam Netam",
+          "party": "Independent",
+          "votes": 2906,
+          "votes_percentage": 2.2
+        }
+      ]
+    }
+  }
+}

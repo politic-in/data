@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 142462,
+        "male": 164315,
+        "percentage_of_total_population": 10.87,
+        "percentage_of_total_population_calculated": 10.87,
+        "percentage_of_total_population_stated": 10.87,
+        "sex_ratio": 867,
+        "total": 306777
+    },
+    "literacy": {
+        "female_literacy_rate": 74.59,
+        "female_literate": 927917,
+        "male_literacy_rate": 88.22,
+        "male_literate": 1121550,
+        "rate_percentage": 81.48,
+        "total_literate": 2049467
+    },
+    "population": {
+        "female": 1386415,
+        "male": 1435728,
+        "sex_ratio": 966,
+        "total": 2822143
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 1.35,
+            "population": 38210
+        },
+        "Christian": {
+            "percentage": 0.32,
+            "population": 9098
+        },
+        "Hindu": {
+            "percentage": 86.47,
+            "population": 2440312
+        },
+        "Jain": {
+            "percentage": 3.1,
+            "population": 87453
+        },
+        "Muslims": {
+            "percentage": 8.49,
+            "population": 239607
+        },
+        "Not Stated": {
+            "percentage": 0.19,
+            "population": 5434
+        },
+        "Others": {
+            "percentage": 0.03,
+            "population": 769
+        },
+        "Sikh": {
+            "percentage": 0.04,
+            "population": 1260
+        }
+    },
+    "rural": {
+        "child_population_female": 106428,
+        "child_population_male": 123855,
+        "child_population_percentage": 10.95,
+        "child_population_percentage_calculated": 10.95,
+        "child_population_percentage_stated": 10.95,
+        "child_population_total": 230283,
+        "child_sex_ratio": 859,
+        "female": 1031662,
+        "literacy_rate_female": 72.12,
+        "literacy_rate_male": 87.39,
+        "literacy_rate_percentage": 79.84,
+        "literate_female": 667288,
+        "literate_male": 827806,
+        "literate_total": 1495094,
+        "male": 1071124,
+        "percentage_population": 74.51,
+        "population": 2102786,
+        "sex_ratio": 963
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/369-sangli.html",
+    "urban": {
+        "child_population_female": 35994,
+        "child_population_male": 40500,
+        "child_population_percentage": 10.63,
+        "child_population_percentage_calculated": 10.63,
+        "child_population_percentage_stated": 10.63,
+        "child_population_total": 76494,
+        "child_sex_ratio": 889,
+        "female": 354753,
+        "literacy_rate_female": 81.76,
+        "literacy_rate_male": 90.63,
+        "literacy_rate_percentage": 86.24,
+        "literate_female": 260629,
+        "literate_male": 293744,
+        "literate_total": 554373,
+        "male": 364604,
+        "percentage_population": 25.49,
+        "population": 719357,
+        "sex_ratio": 973
+    }
+}

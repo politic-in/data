@@ -1,0 +1,50 @@
+{
+  "state": "West Bengal",
+  "constituency": "MINAKHAN (SC)",
+  "district": "North Twenty Four Parganas",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 208753,
+        "total_votes_polled": 181383,
+        "turnout_percentage": 88.7,
+        "margin_votes": 42598,
+        "margin_percentage": 23.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Usha Rani Mondal",
+          "party": "All India Trinamool Congress",
+          "votes": 103210,
+          "votes_percentage": 56.9
+        },
+        {
+          "position": 2,
+          "name": "Dinabandhu Mondal",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 60612,
+          "votes_percentage": 33.4
+        },
+        {
+          "position": 3,
+          "name": "Jayanta Mondal",
+          "party": "Bharatiya Janta Party",
+          "votes": 13566,
+          "votes_percentage": 7.5
+        },
+        {
+          "position": 4,
+          "name": "Krishna Kinkar Das",
+          "party": "Bahujan Samaj Party",
+          "votes": 3995,
+          "votes_percentage": 2.2
+        }
+      ]
+    }
+  }
+}

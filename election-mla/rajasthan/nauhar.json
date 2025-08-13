@@ -1,0 +1,85 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Nauhar",
+  "district": "Hanumangarh",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 240448,
+        "total_votes_polled": 201754,
+        "turnout_percentage": 84.8,
+        "margin_votes": 13727,
+        "margin_percentage": 6.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Amit Chachan",
+          "party": "Indian National Congress",
+          "votes": 93851,
+          "votes_percentage": 46.5
+        },
+        {
+          "position": 2,
+          "name": "Abhishek Matoria",
+          "party": "Bharatiya Janta Party",
+          "votes": 80124,
+          "votes_percentage": 39.7
+        },
+        {
+          "position": 3,
+          "name": "Ram Kishan Bhakar",
+          "party": "Independent",
+          "votes": 13312,
+          "votes_percentage": 6.6
+        },
+        {
+          "position": 4,
+          "name": "Mangej Choudhary",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 9870,
+          "votes_percentage": 4.9
+        },
+        {
+          "position": 5,
+          "name": "Radhesyam Megwal",
+          "party": "Bahujan Samaj Party",
+          "votes": 2065,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Ram Swaroop",
+          "party": "Independent",
+          "votes": 1240,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Jaswant Sihag",
+          "party": "Bharat Vahini Party",
+          "votes": 607,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Om Prakash Sangwal",
+          "party": "Independent",
+          "votes": 458,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Mukesh Sansi",
+          "party": "Dalit Kranti Dal",
+          "votes": 227,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

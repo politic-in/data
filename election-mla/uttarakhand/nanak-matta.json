@@ -1,0 +1,87 @@
+{
+  "state": "Uttarakhand",
+  "constituency": "Nanak matta",
+  "district": "Udham Singh Nagar",
+  "ac_type": "ST",
+  "results": {
+    "2012": {
+      "poll_date": "30 January 2012",
+      "counting_date": "03 June 2012",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 90386,
+        "total_votes_polled": 67363,
+        "turnout_percentage": 74.5,
+        "total_valid_votes": 67283,
+        "total_valid_votes_percentage": 74.4,
+        "margin_votes": 5631,
+        "margin_percentage": 8.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Prem Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 26652,
+          "votes_percentage": 39.6
+        },
+        {
+          "position": 2,
+          "name": "Gopal Singh Rana",
+          "party": "Indian National Congress",
+          "votes": 21021,
+          "votes_percentage": 31.2
+        },
+        {
+          "position": 3,
+          "name": "Bhim Singh",
+          "party": "Bahujan Samaj Party",
+          "votes": 9521,
+          "votes_percentage": 14.1
+        },
+        {
+          "position": 4,
+          "name": "Ansuiya Rana",
+          "party": "Samajwadi Party",
+          "votes": 4213,
+          "votes_percentage": 6.3
+        },
+        {
+          "position": 5,
+          "name": "Jasveer Singh",
+          "party": "Uttarakhand Kranti Dal(P)",
+          "votes": 1529,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 6,
+          "name": "Ramesh Chandra Rana",
+          "party": "Nationalist Congress Party",
+          "votes": 1432,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 7,
+          "name": "Mahendra Singh",
+          "party": "Independent",
+          "votes": 1303,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 8,
+          "name": "Hari Singh",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 1014,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 9,
+          "name": "Beer Singh",
+          "party": "Independent",
+          "votes": 678,
+          "votes_percentage": 1.0
+        }
+      ]
+    }
+  }
+}

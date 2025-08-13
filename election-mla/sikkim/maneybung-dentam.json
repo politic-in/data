@@ -1,0 +1,145 @@
+{
+  "state": "Sikkim",
+  "constituency": "Maneybung-dentam",
+  "district": "West",
+  "ac_type": "GEN",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 15174,
+        "total_votes_polled": 12764,
+        "turnout_percentage": 85.3,
+        "margin_votes": 1504,
+        "margin_percentage": 11.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Narendra Kumar Subba",
+          "party": "Sikkim Democratic Front",
+          "votes": 7134,
+          "votes_percentage": 55.9
+        },
+        {
+          "position": 2,
+          "name": "Purna Hang Subba",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 5630,
+          "votes_percentage": 44.1
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "12 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 12410,
+        "total_votes_polled": 10682,
+        "turnout_percentage": 86.1,
+        "total_valid_votes": 10526,
+        "total_valid_votes_percentage": 84.8,
+        "margin_votes": 5218,
+        "margin_percentage": 48.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Narendra Kumar Subba",
+          "party": "Sikkim Democratic Front",
+          "votes": 7737,
+          "votes_percentage": 73.5
+        },
+        {
+          "position": 2,
+          "name": "Birbal Tamling",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 2519,
+          "votes_percentage": 23.9
+        },
+        {
+          "position": 3,
+          "name": "Keshar Man Gurung",
+          "party": "Bharatiya Janta Party",
+          "votes": 140,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 4,
+          "name": "Man Maya Limbu",
+          "party": "Indian National Congress",
+          "votes": 130,
+          "votes_percentage": 1.2
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "30 April 2009",
+      "counting_date": "05 June 2009",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 10012,
+        "total_votes_polled": 8685,
+        "turnout_percentage": 86.8,
+        "total_valid_votes": 8510,
+        "total_valid_votes_percentage": 85.0,
+        "margin_votes": 4353,
+        "margin_percentage": 50.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chandra Maya Subba",
+          "party": "Sikkim Democratic Front",
+          "votes": 6252,
+          "votes_percentage": 72.0
+        },
+        {
+          "position": 2,
+          "name": "Laxuman Gurung",
+          "party": "Indian National Congress",
+          "votes": 1899,
+          "votes_percentage": 21.9
+        },
+        {
+          "position": 3,
+          "name": "Dilip Kumar Gurung",
+          "party": "Bharatiya Janta Party",
+          "votes": 153,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 4,
+          "name": "Tek Man Subba",
+          "party": "Sikkim Himali Rajya Parishad",
+          "votes": 131,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Santa Bir Gurung",
+          "party": "Independent",
+          "votes": 113,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 6,
+          "name": "Krishna Lall Basnett",
+          "party": "Nationalist Congress Party",
+          "votes": 80,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 7,
+          "name": "Nil Bikram Subba",
+          "party": "Sikkim Gorkha Prajatantric Party",
+          "votes": 57,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

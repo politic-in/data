@@ -1,0 +1,180 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Hayuliang",
+  "district": "Anjaw",
+  "ac_type": "ST",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 12275,
+        "total_votes_polled": 10966,
+        "turnout_percentage": 90.7,
+        "margin_votes": 1332,
+        "margin_percentage": 12.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dasanglu Pul",
+          "party": "Bharatiya Janta Party",
+          "votes": 6149,
+          "votes_percentage": 56.1
+        },
+        {
+          "position": 2,
+          "name": "Lupalum Kri",
+          "party": "Indian National Congress",
+          "votes": 4817,
+          "votes_percentage": 43.9
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "09 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 15024,
+        "total_votes_polled": 9361,
+        "turnout_percentage": 62.3,
+        "total_valid_votes": 9215,
+        "total_valid_votes_percentage": 61.3,
+        "margin_votes": 5770,
+        "margin_percentage": 61.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kalikho Pul",
+          "party": "Indian National Congress",
+          "votes": 7272,
+          "votes_percentage": 78.9
+        },
+        {
+          "position": 2,
+          "name": "Banim Kri",
+          "party": "Bharatiya Janta Party",
+          "votes": 1502,
+          "votes_percentage": 16.3
+        },
+        {
+          "position": 3,
+          "name": "Ejenso Yun",
+          "party": "Peoples Party Of Arunachal",
+          "votes": 441,
+          "votes_percentage": 4.8
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "13 October 2009",
+      "counting_date": "22 October 2009",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 9943,
+        "total_votes_polled": 9134,
+        "turnout_percentage": 91.9,
+        "total_valid_votes": 8800,
+        "total_valid_votes_percentage": 88.5,
+        "margin_votes": 6790,
+        "margin_percentage": 74.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shri Kalikho Pul",
+          "party": "Indian National Congress",
+          "votes": 7788,
+          "votes_percentage": 85.3
+        },
+        {
+          "position": 2,
+          "name": "Shri Baritlum Ama",
+          "party": "All India Trinamool Congress",
+          "votes": 998,
+          "votes_percentage": 10.9
+        },
+        {
+          "position": 3,
+          "name": "Sh. Banim Kri",
+          "party": "Bharatiya Janta Party",
+          "votes": 250,
+          "votes_percentage": 2.7
+        },
+        {
+          "position": 4,
+          "name": "Shri Khuje Drai",
+          "party": "Nationalist Congress Party",
+          "votes": 98,
+          "votes_percentage": 1.1
+        }
+      ]
+    },
+    "2004": {
+      "poll_date": "10 July 2004",
+      "counting_date": "10 October 2004",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 9549,
+        "total_votes_polled": 7716,
+        "turnout_percentage": 0.8,
+        "margin_votes": 1600,
+        "margin_percentage": 20.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Khaliko  Pul",
+          "party": "Indian National Congress",
+          "votes": 4658,
+          "votes_percentage": 60.4
+        },
+        {
+          "position": 2,
+          "name": "Khapriso  Krong",
+          "party": "Bharatiya Janta Party",
+          "votes": 3058,
+          "votes_percentage": 39.6
+        }
+      ]
+    },
+    "1990": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 8890,
+        "total_votes_polled": 6726,
+        "turnout_percentage": 75.7,
+        "margin_votes": 861,
+        "margin_percentage": 12.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Khapriso Krong",
+          "party": "Independent",
+          "votes": 2869,
+          "votes_percentage": 43.4
+        },
+        {
+          "position": 2,
+          "name": "Piola Kri",
+          "party": "Independent",
+          "votes": 2008,
+          "votes_percentage": 30.4
+        },
+        {
+          "position": 3,
+          "name": "Soli Kri",
+          "party": "Indian National Congress",
+          "votes": 1730,
+          "votes_percentage": 26.2
+        }
+      ]
+    }
+  }
+}

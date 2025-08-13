@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 94901,
+        "male": 106751,
+        "percentage_of_total_population": 11.88,
+        "percentage_of_total_population_calculated": 11.88,
+        "percentage_of_total_population_stated": 11.88,
+        "sex_ratio": 889,
+        "total": 201652
+    },
+    "literacy": {
+        "female_literacy_rate": 78.54,
+        "female_literate": 557290,
+        "male_literacy_rate": 89.4,
+        "male_literate": 702216,
+        "rate_percentage": 84.25,
+        "total_literate": 1259506
+    },
+    "population": {
+        "female": 804495,
+        "male": 892199,
+        "sex_ratio": 902,
+        "total": 1696694
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.69,
+            "population": 11778
+        },
+        "Christian": {
+            "percentage": 0.79,
+            "population": 13416
+        },
+        "Hindu": {
+            "percentage": 83.98,
+            "population": 1424916
+        },
+        "Jain": {
+            "percentage": 0.3,
+            "population": 5117
+        },
+        "Muslims": {
+            "percentage": 11.91,
+            "population": 202057
+        },
+        "Not Stated": {
+            "percentage": 0.16,
+            "population": 2739
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 217
+        },
+        "Sikh": {
+            "percentage": 2.15,
+            "population": 36454
+        }
+    },
+    "rural": {
+        "child_population_female": 47754,
+        "child_population_male": 52203,
+        "child_population_percentage": 13.24,
+        "child_population_percentage_calculated": 13.24,
+        "child_population_percentage_stated": 13.24,
+        "child_population_total": 99957,
+        "child_sex_ratio": 915,
+        "female": 361862,
+        "literacy_rate_female": 71.78,
+        "literacy_rate_male": 85.82,
+        "literacy_rate_percentage": 79.08,
+        "literate_female": 225454,
+        "literate_male": 292382,
+        "literate_total": 517836,
+        "male": 392891,
+        "percentage_population": 44.48,
+        "population": 754753,
+        "sex_ratio": 921
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/578-dehradun.html",
+    "urban": {
+        "child_population_female": 47152,
+        "child_population_male": 54543,
+        "child_population_percentage": 10.8,
+        "child_population_percentage_calculated": 10.8,
+        "child_population_percentage_stated": 10.8,
+        "child_population_total": 101695,
+        "child_sex_ratio": 864,
+        "female": 442633,
+        "literacy_rate_female": 83.91,
+        "literacy_rate_male": 92.15,
+        "literacy_rate_percentage": 88.27,
+        "literate_female": 331836,
+        "literate_male": 409834,
+        "literate_total": 741670,
+        "male": 499308,
+        "percentage_population": 55.52,
+        "population": 941941,
+        "sex_ratio": 886
+    }
+}

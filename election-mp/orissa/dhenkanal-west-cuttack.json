@@ -1,0 +1,62 @@
+{
+  "state": "Orissa",
+  "constituency": "DHENKANAL WEST CUTTACK",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 754809,
+        "total_votes_polled": 495558,
+        "turnout_percentage": 32.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Niranjan Jena",
+          "party": "Indian National Congress",
+          "votes": 133666,
+          "votes_percentage": 27.0
+        },
+        {
+          "position": 1,
+          "name": "Sarangadhar Das",
+          "party": "Socialist Party",
+          "votes": 95907,
+          "votes_percentage": 19.4
+        },
+        {
+          "position": 3,
+          "name": "Madanmohan Pradhan",
+          "party": "Indian National Congress",
+          "votes": 95660,
+          "votes_percentage": 19.3
+        },
+        {
+          "position": 4,
+          "name": "Jhuli Bhoi",
+          "party": "Socialist Party",
+          "votes": 71874,
+          "votes_percentage": 14.5
+        },
+        {
+          "position": 5,
+          "name": "Bholeswar Nayak",
+          "party": "All India Gantantra Parishad",
+          "votes": 54494,
+          "votes_percentage": 11.0
+        },
+        {
+          "position": 6,
+          "name": "Bhabagrahi Pradhan",
+          "party": "All India Gantantra Parishad",
+          "votes": 43957,
+          "votes_percentage": 8.9
+        }
+      ]
+    }
+  }
+}

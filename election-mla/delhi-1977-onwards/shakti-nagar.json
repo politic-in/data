@@ -1,0 +1,78 @@
+{
+  "state": "Delhi [1977 Onwards]",
+  "constituency": "Shakti Nagar",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1983": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 37462,
+        "total_votes_polled": 26385,
+        "turnout_percentage": 70.4,
+        "margin_votes": 1337,
+        "margin_percentage": 5.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kulanand Bhartiya",
+          "party": "Indian National Congress",
+          "votes": 13022,
+          "votes_percentage": 50.7
+        },
+        {
+          "position": 2,
+          "name": "Satyapal Chugh",
+          "party": "Bharatiya Janta Party",
+          "votes": 11685,
+          "votes_percentage": 45.5
+        },
+        {
+          "position": 3,
+          "name": "Raj Kumar",
+          "party": "Independent",
+          "votes": 995,
+          "votes_percentage": 3.9
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 39433,
+        "total_votes_polled": 22973,
+        "turnout_percentage": 58.3,
+        "margin_votes": 2709,
+        "margin_percentage": 11.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Satya Pal Chugh",
+          "party": "Janta Party",
+          "votes": 12527,
+          "votes_percentage": 55.5
+        },
+        {
+          "position": 2,
+          "name": "Kula Nand Bhartiya",
+          "party": "Indian National Congress",
+          "votes": 9818,
+          "votes_percentage": 43.5
+        },
+        {
+          "position": 3,
+          "name": "Bhagwan Dass Gupta",
+          "party": "Independent",
+          "votes": 230,
+          "votes_percentage": 1.0
+        }
+      ]
+    }
+  }
+}

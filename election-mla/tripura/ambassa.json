@@ -1,0 +1,57 @@
+{
+  "state": "Tripura",
+  "constituency": "AMBASSA",
+  "district": "Dhalai",
+  "ac_type": "ST",
+  "results": {
+    "2013": {
+      "poll_date": "14 February 2013",
+      "counting_date": "28 February 2013",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 41066,
+        "total_votes_polled": 38190,
+        "turnout_percentage": 93.0,
+        "margin_votes": 1054,
+        "margin_percentage": 2.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Lalit Kumar Debbarma",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 18755,
+          "votes_percentage": 49.1
+        },
+        {
+          "position": 2,
+          "name": "Bijoy Kumar Hrangkhawl",
+          "party": "Indigenous Nationalist Party Of Twipra",
+          "votes": 17701,
+          "votes_percentage": 46.4
+        },
+        {
+          "position": 3,
+          "name": "Pradip Debbarma",
+          "party": "Bharatiya Janta Party",
+          "votes": 655,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 4,
+          "name": "Bimal Debbarma",
+          "party": "Independent",
+          "votes": 598,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 5,
+          "name": "Krishan Kumar Debbarma",
+          "party": "Indigenous People's Front Of Tripura",
+          "votes": 481,
+          "votes_percentage": 1.3
+        }
+      ]
+    }
+  }
+}

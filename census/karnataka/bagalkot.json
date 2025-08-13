@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 131387,
+        "male": 140521,
+        "percentage_of_total_population": 14.39,
+        "percentage_of_total_population_calculated": 14.39,
+        "percentage_of_total_population_stated": 14.39,
+        "sex_ratio": 935,
+        "total": 271908
+    },
+    "literacy": {
+        "female_literacy_rate": 58.4,
+        "female_literate": 472024,
+        "male_literacy_rate": 79.23,
+        "male_literate": 641388,
+        "rate_percentage": 68.82,
+        "total_literate": 1113412
+    },
+    "population": {
+        "female": 939641,
+        "male": 950111,
+        "sex_ratio": 989,
+        "total": 1889752
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 412
+        },
+        "Christian": {
+            "percentage": 0.18,
+            "population": 3433
+        },
+        "Hindu": {
+            "percentage": 86.48,
+            "population": 1634229
+        },
+        "Jain": {
+            "percentage": 1.33,
+            "population": 25198
+        },
+        "Muslims": {
+            "percentage": 11.64,
+            "population": 219991
+        },
+        "Not Stated": {
+            "percentage": 0.31,
+            "population": 5880
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 166
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 443
+        }
+    },
+    "rural": {
+        "child_population_female": 93743,
+        "child_population_male": 100150,
+        "child_population_percentage": 15.01,
+        "child_population_percentage_calculated": 15.01,
+        "child_population_percentage_stated": 15.01,
+        "child_population_total": 193893,
+        "child_sex_ratio": 936,
+        "female": 641639,
+        "literacy_rate_female": 52.58,
+        "literacy_rate_male": 75.77,
+        "literacy_rate_percentage": 64.2,
+        "literate_female": 288066,
+        "literate_male": 416846,
+        "literate_total": 704912,
+        "male": 650267,
+        "percentage_population": 68.36,
+        "population": 1291906,
+        "sex_ratio": 987
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/241-bagalkot.html",
+    "urban": {
+        "child_population_female": 37614,
+        "child_population_male": 40401,
+        "child_population_percentage": 13.05,
+        "child_population_percentage_calculated": 13.05,
+        "child_population_percentage_stated": 13.05,
+        "child_population_total": 78015,
+        "child_sex_ratio": 931,
+        "female": 298002,
+        "literacy_rate_female": 70.65,
+        "literacy_rate_male": 86.55,
+        "literacy_rate_percentage": 78.58,
+        "literate_female": 183958,
+        "literate_male": 224542,
+        "literate_total": 408500,
+        "male": 299844,
+        "percentage_population": 31.64,
+        "population": 597846,
+        "sex_ratio": 994
+    }
+}

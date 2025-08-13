@@ -1,0 +1,71 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Bandi",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1993": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 130690,
+        "total_votes_polled": 75241,
+        "turnout_percentage": 57.6,
+        "margin_votes": 8784,
+        "margin_percentage": 11.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Om Prakash Sharma",
+          "party": "Bharatiya Janta Party",
+          "votes": 39003,
+          "votes_percentage": 53.2
+        },
+        {
+          "position": 2,
+          "name": "Mamta",
+          "party": "Indian National Congress",
+          "votes": 30219,
+          "votes_percentage": 41.2
+        },
+        {
+          "position": 3,
+          "name": "Madan Madir",
+          "party": "Janata Dal",
+          "votes": 2351,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 4,
+          "name": "Narendra Kumar",
+          "party": "Independent",
+          "votes": 639,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Dashrath  Kumar",
+          "party": "Independent",
+          "votes": 446,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Rajendra Kumar",
+          "party": "Doordarshi Party",
+          "votes": 394,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Durga Shanker",
+          "party": "Independent",
+          "votes": 261,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

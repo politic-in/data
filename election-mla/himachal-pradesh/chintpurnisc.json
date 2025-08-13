@@ -1,0 +1,92 @@
+{
+  "state": "Himachal Pradesh",
+  "constituency": "CHINTPURNI(SC)",
+  "district": "Una",
+  "ac_type": "SC",
+  "results": {
+    "2022": {
+      "poll_date": "12 November 2022",
+      "counting_date": "08 December 2022",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 81491,
+        "total_votes_polled": 61717,
+        "turnout_percentage": 76.2,
+        "margin_votes": 4858,
+        "margin_percentage": 7.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sudarshan Singh Babloo",
+          "party": "Indian National Congress",
+          "votes": 32712,
+          "votes_percentage": 52.7
+        },
+        {
+          "position": 2,
+          "name": "Balbir Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 27854,
+          "votes_percentage": 44.9
+        },
+        {
+          "position": 3,
+          "name": "Ram Paul",
+          "party": "Aam Aadmi Party",
+          "votes": 767,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 4,
+          "name": "Virender Kumar",
+          "party": "Bahujan Samaj Party",
+          "votes": 226,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 5,
+          "name": "Kewal Kumar",
+          "party": "Independent",
+          "votes": 158,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2017": {
+      "poll_date": "09 November 2017",
+      "counting_date": "18 December 2017",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 75359,
+        "total_votes_polled": 57018,
+        "turnout_percentage": 76.4,
+        "margin_votes": 8579,
+        "margin_percentage": 15.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Balbir Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 32488,
+          "votes_percentage": 57.0
+        },
+        {
+          "position": 2,
+          "name": "Kuldip  Kumar",
+          "party": "Indian National Congress",
+          "votes": 23909,
+          "votes_percentage": 41.9
+        },
+        {
+          "position": 3,
+          "name": "Ranjit Singh",
+          "party": "Bahujan Samaj Party",
+          "votes": 621,
+          "votes_percentage": 1.1
+        }
+      ]
+    }
+  }
+}

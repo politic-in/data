@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 31447,
+        "male": 33347,
+        "percentage_of_total_population": 11.18,
+        "percentage_of_total_population_calculated": 11.18,
+        "percentage_of_total_population_stated": 11.18,
+        "sex_ratio": 943,
+        "total": 64794
+    },
+    "literacy": {
+        "female_literacy_rate": 70.73,
+        "female_literate": 177787,
+        "male_literacy_rate": 86.61,
+        "male_literate": 228092,
+        "rate_percentage": 78.86,
+        "total_literate": 405879
+    },
+    "population": {
+        "female": 282815,
+        "male": 296690,
+        "sex_ratio": 953,
+        "total": 579505
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 80
+        },
+        "Christian": {
+            "percentage": 1.81,
+            "population": 10462
+        },
+        "Hindu": {
+            "percentage": 95.53,
+            "population": 553587
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 70
+        },
+        "Muslims": {
+            "percentage": 2.21,
+            "population": 12783
+        },
+        "Not Stated": {
+            "percentage": 0.18,
+            "population": 1015
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 67
+        },
+        "Sikh": {
+            "percentage": 0.25,
+            "population": 1441
+        }
+    },
+    "rural": {
+        "child_population_female": 18272,
+        "child_population_male": 19023,
+        "child_population_percentage": 10.71,
+        "child_population_percentage_calculated": 10.71,
+        "child_population_percentage_stated": 10.71,
+        "child_population_total": 37295,
+        "child_sex_ratio": 961,
+        "female": 172178,
+        "literacy_rate_female": 66.61,
+        "literacy_rate_male": 84.29,
+        "literacy_rate_percentage": 75.54,
+        "literate_female": 102514,
+        "literate_male": 132448,
+        "literate_total": 234962,
+        "male": 176162,
+        "percentage_population": 60.11,
+        "population": 348340,
+        "sex_ratio": 977
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/395-jharsuguda.html",
+    "urban": {
+        "child_population_female": 13181,
+        "child_population_male": 14318,
+        "child_population_percentage": 11.9,
+        "child_population_percentage_calculated": 11.9,
+        "child_population_percentage_stated": 11.9,
+        "child_population_total": 27499,
+        "child_sex_ratio": 921,
+        "female": 110637,
+        "literacy_rate_female": 77.24,
+        "literacy_rate_male": 90.05,
+        "literacy_rate_percentage": 83.92,
+        "literate_female": 75273,
+        "literate_male": 95644,
+        "literate_total": 170917,
+        "male": 120528,
+        "percentage_population": 39.89,
+        "population": 231165,
+        "sex_ratio": 918
+    }
+}

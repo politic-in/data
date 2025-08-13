@@ -1,0 +1,57 @@
+{
+  "state": "Maharashtra",
+  "constituency": "Taloda",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 91210,
+        "total_votes_polled": 46432,
+        "turnout_percentage": 50.9,
+        "margin_votes": 12513,
+        "margin_percentage": 26.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Abhimannu Nurji Valvi",
+          "party": "Indian National Congress (I)",
+          "votes": 21625,
+          "votes_percentage": 48.7
+        },
+        {
+          "position": 2,
+          "name": "Padvi Dilawarsing",
+          "party": "Bharatiya Janta Party",
+          "votes": 9112,
+          "votes_percentage": 20.5
+        },
+        {
+          "position": 3,
+          "name": "Padvi Jadu Surya",
+          "party": "Independent",
+          "votes": 6414,
+          "votes_percentage": 14.4
+        },
+        {
+          "position": 4,
+          "name": "Mali Bansi Shankar",
+          "party": "Independent",
+          "votes": 4216,
+          "votes_percentage": 9.5
+        },
+        {
+          "position": 5,
+          "name": "Padvi Udesing Kocharya",
+          "party": "Janata Party (JP)",
+          "votes": 3052,
+          "votes_percentage": 6.9
+        }
+      ]
+    }
+  }
+}

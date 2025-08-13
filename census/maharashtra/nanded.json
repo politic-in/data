@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 218958,
+        "male": 240614,
+        "percentage_of_total_population": 13.67,
+        "percentage_of_total_population_calculated": 13.67,
+        "percentage_of_total_population_stated": 13.67,
+        "sex_ratio": 910,
+        "total": 459572
+    },
+    "literacy": {
+        "female_literacy_rate": 66.15,
+        "female_literate": 934203,
+        "male_literacy_rate": 84.27,
+        "male_literate": 1255222,
+        "rate_percentage": 75.45,
+        "total_literate": 2189425
+    },
+    "population": {
+        "female": 1631217,
+        "male": 1730075,
+        "sex_ratio": 943,
+        "total": 3361292
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 10.54,
+            "population": 354189
+        },
+        "Christian": {
+            "percentage": 0.12,
+            "population": 3902
+        },
+        "Hindu": {
+            "percentage": 74.43,
+            "population": 2501741
+        },
+        "Jain": {
+            "percentage": 0.15,
+            "population": 5049
+        },
+        "Muslims": {
+            "percentage": 14.04,
+            "population": 471951
+        },
+        "Not Stated": {
+            "percentage": 0.29,
+            "population": 9647
+        },
+        "Others": {
+            "percentage": 0.04,
+            "population": 1273
+        },
+        "Sikh": {
+            "percentage": 0.4,
+            "population": 13540
+        }
+    },
+    "rural": {
+        "child_population_female": 162948,
+        "child_population_male": 178075,
+        "child_population_percentage": 13.93,
+        "child_population_percentage_calculated": 13.93,
+        "child_population_percentage_stated": 13.93,
+        "child_population_total": 341023,
+        "child_sex_ratio": 915,
+        "female": 1189234,
+        "literacy_rate_female": 62.09,
+        "literacy_rate_male": 82.59,
+        "literacy_rate_percentage": 72.6,
+        "literate_female": 637267,
+        "literate_male": 892050,
+        "literate_total": 1529317,
+        "male": 1258160,
+        "percentage_population": 72.81,
+        "population": 2447394,
+        "sex_ratio": 945
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/349-nanded.html",
+    "urban": {
+        "child_population_female": 56004,
+        "child_population_male": 62545,
+        "child_population_percentage": 12.97,
+        "child_population_percentage_calculated": 12.97,
+        "child_population_percentage_stated": 12.97,
+        "child_population_total": 118549,
+        "child_sex_ratio": 895,
+        "female": 441983,
+        "literacy_rate_female": 76.93,
+        "literacy_rate_male": 88.71,
+        "literacy_rate_percentage": 83.0,
+        "literate_female": 296936,
+        "literate_male": 363172,
+        "literate_total": 660108,
+        "male": 471915,
+        "percentage_population": 27.19,
+        "population": 913898,
+        "sex_ratio": 937
+    }
+}

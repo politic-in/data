@@ -1,0 +1,78 @@
+{
+  "state": "West Bengal",
+  "constituency": "KHARGRAM (SC)",
+  "district": "Murshidabad",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 202968,
+        "total_votes_polled": 159990,
+        "turnout_percentage": 79.8,
+        "margin_votes": 33173,
+        "margin_percentage": 20.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ashis Marjit",
+          "party": "Indian National Congress",
+          "votes": 88913,
+          "votes_percentage": 55.6
+        },
+        {
+          "position": 2,
+          "name": "Madhab Chandra Marjit",
+          "party": "All India Trinamool Congress",
+          "votes": 55740,
+          "votes_percentage": 34.8
+        },
+        {
+          "position": 3,
+          "name": "Sumanta Mondal",
+          "party": "Bharatiya Janta Party",
+          "votes": 9004,
+          "votes_percentage": 5.6
+        },
+        {
+          "position": 4,
+          "name": "Swapan Das",
+          "party": "Welfare Party Of India",
+          "votes": 2439,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Hemanta Mondal",
+          "party": "Independent",
+          "votes": 1323,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Sandip Rajak",
+          "party": "Samajwadi Party",
+          "votes": 936,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Sadhan Kumar Marjit",
+          "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+          "votes": 885,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "Ananta Mondal",
+          "party": "Shiv Sena",
+          "votes": 750,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

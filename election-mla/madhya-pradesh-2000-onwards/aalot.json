@@ -1,0 +1,64 @@
+{
+  "state": "Madhya Pradesh [2000 Onwards]",
+  "constituency": "Aalot",
+  "district": "Ratlam",
+  "ac_type": "SC",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 193985,
+        "total_votes_polled": 161105,
+        "turnout_percentage": 84.3,
+        "margin_votes": 5448,
+        "margin_percentage": 3.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Manoj Chawla",
+          "party": "Indian National Congress",
+          "votes": 80821,
+          "votes_percentage": 50.2
+        },
+        {
+          "position": 2,
+          "name": "Jitendra Thawarchand Gehlot",
+          "party": "Bharatiya Janta Party",
+          "votes": 75373,
+          "votes_percentage": 46.8
+        },
+        {
+          "position": 3,
+          "name": "Mukesh Panchola Tal",
+          "party": "Bahujan Sangharshh Dal",
+          "votes": 1687,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 4,
+          "name": "Advocate Vinod Katariya",
+          "party": "Bahujan Samaj Party",
+          "votes": 1565,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Sunil Kalyane",
+          "party": "Shiv Sena",
+          "votes": 1174,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Purnima Chouhan",
+          "party": "Aam Aadmi Party",
+          "votes": 485,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

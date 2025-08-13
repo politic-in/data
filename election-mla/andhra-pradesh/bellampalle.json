@@ -1,0 +1,73 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Bellampalle",
+  "district": "Adilabad",
+  "ac_type": "SC",
+  "results": {
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 139312,
+        "total_votes_polled": 102406,
+        "turnout_percentage": 73.5,
+        "total_valid_votes": 102237,
+        "total_valid_votes_percentage": 73.4,
+        "margin_votes": 8892,
+        "margin_percentage": 8.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gunda Mallesh",
+          "party": "Communist Party Of India",
+          "votes": 41957,
+          "votes_percentage": 41.0
+        },
+        {
+          "position": 2,
+          "name": "Chilumula Shankar",
+          "party": "Indian National Congress",
+          "votes": 33065,
+          "votes_percentage": 32.3
+        },
+        {
+          "position": 3,
+          "name": "Amurajula Sridevi",
+          "party": "Praja Rajyam Party",
+          "votes": 19040,
+          "votes_percentage": 18.6
+        },
+        {
+          "position": 4,
+          "name": "Sakinala Narayana",
+          "party": "Independent",
+          "votes": 2690,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 5,
+          "name": "Pagidi Venkati",
+          "party": "Independent",
+          "votes": 2459,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 6,
+          "name": "Ravula Ramakrishna",
+          "party": "Independent",
+          "votes": 1996,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 7,
+          "name": "Bolumalla Anjaiah",
+          "party": "Independent",
+          "votes": 1030,
+          "votes_percentage": 1.0
+        }
+      ]
+    }
+  }
+}

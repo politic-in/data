@@ -1,0 +1,66 @@
+{
+  "state": "Jammu & Kashmir",
+  "constituency": "Ram Nagar",
+  "district": "Udhampur",
+  "ac_type": "GEN",
+  "results": {
+    "2014": {
+      "poll_date": "20 December 2014",
+      "counting_date": "24 December 2014",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 107952,
+        "total_votes_polled": 82377,
+        "turnout_percentage": 76.3,
+        "total_valid_votes": 81329,
+        "total_valid_votes_percentage": 75.3,
+        "margin_votes": 17420,
+        "margin_percentage": 21.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ranbir Singh Pathania",
+          "party": "Bharatiya Janta Party",
+          "votes": 45891,
+          "votes_percentage": 55.7
+        },
+        {
+          "position": 2,
+          "name": "Harsh Dev Singh",
+          "party": "J & K National Panthers Party",
+          "votes": 28471,
+          "votes_percentage": 34.6
+        },
+        {
+          "position": 3,
+          "name": "Raj Kapoor",
+          "party": "Jammu & Kashmir National Conference",
+          "votes": 3073,
+          "votes_percentage": 3.7
+        },
+        {
+          "position": 4,
+          "name": "Sukham Chand",
+          "party": "Bahujan Samaj Party",
+          "votes": 1424,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 5,
+          "name": "Vinod Kumar Sharma",
+          "party": "Indian National Congress",
+          "votes": 1384,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 6,
+          "name": "Sanju Kumar",
+          "party": "Independent",
+          "votes": 1086,
+          "votes_percentage": 1.3
+        }
+      ]
+    }
+  }
+}

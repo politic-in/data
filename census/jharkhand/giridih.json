@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 223253,
+        "male": 236998,
+        "percentage_of_total_population": 18.82,
+        "percentage_of_total_population_calculated": 18.82,
+        "percentage_of_total_population_stated": 18.82,
+        "sex_ratio": 942,
+        "total": 460251
+    },
+    "literacy": {
+        "female_literacy_rate": 48.72,
+        "female_literate": 469739,
+        "male_literacy_rate": 76.76,
+        "male_literate": 783736,
+        "rate_percentage": 63.14,
+        "total_literate": 1253475
+    },
+    "population": {
+        "female": 1187376,
+        "male": 1258098,
+        "sex_ratio": 944,
+        "total": 2445474
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.03,
+            "population": 650
+        },
+        "Christian": {
+            "percentage": 0.6,
+            "population": 14645
+        },
+        "Hindu": {
+            "percentage": 75.9,
+            "population": 1856202
+        },
+        "Jain": {
+            "percentage": 0.06,
+            "population": 1503
+        },
+        "Muslims": {
+            "percentage": 20.8,
+            "population": 508586
+        },
+        "Not Stated": {
+            "percentage": 0.15,
+            "population": 3733
+        },
+        "Others": {
+            "percentage": 2.42,
+            "population": 59218
+        },
+        "Sikh": {
+            "percentage": 0.04,
+            "population": 937
+        }
+    },
+    "rural": {
+        "child_population_female": 208037,
+        "child_population_male": 220351,
+        "child_population_percentage": 19.15,
+        "child_population_percentage_calculated": 19.15,
+        "child_population_percentage_stated": 19.15,
+        "child_population_total": 428388,
+        "child_sex_ratio": 944,
+        "female": 1087842,
+        "literacy_rate_female": 46.42,
+        "literacy_rate_male": 75.88,
+        "literacy_rate_percentage": 61.55,
+        "literate_female": 408413,
+        "literate_male": 705100,
+        "literate_total": 1113513,
+        "male": 1149608,
+        "percentage_population": 91.49,
+        "population": 2237450,
+        "sex_ratio": 946
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/99-giridih.html",
+    "urban": {
+        "child_population_female": 15158,
+        "child_population_male": 16705,
+        "child_population_percentage": 15.32,
+        "child_population_percentage_calculated": 15.32,
+        "child_population_percentage_stated": 15.32,
+        "child_population_total": 31863,
+        "child_sex_ratio": 907,
+        "female": 99534,
+        "literacy_rate_female": 72.68,
+        "literacy_rate_male": 85.67,
+        "literacy_rate_percentage": 79.45,
+        "literate_female": 61326,
+        "literate_male": 78636,
+        "literate_total": 139962,
+        "male": 108490,
+        "percentage_population": 8.51,
+        "population": 208024,
+        "sex_ratio": 917
+    }
+}

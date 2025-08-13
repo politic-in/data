@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 335040,
+        "male": 401246,
+        "percentage_of_total_population": 12.11,
+        "percentage_of_total_population_calculated": 12.11,
+        "percentage_of_total_population_stated": 12.11,
+        "sex_ratio": 835,
+        "total": 736286
+    },
+    "literacy": {
+        "female_literacy_rate": 80.37,
+        "female_literate": 1883942,
+        "male_literacy_rate": 89.56,
+        "male_literate": 2687468,
+        "rate_percentage": 85.53,
+        "total_literate": 4571410
+    },
+    "population": {
+        "female": 2679098,
+        "male": 3402224,
+        "sex_ratio": 787,
+        "total": 6081322
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.21,
+            "population": 12902
+        },
+        "Christian": {
+            "percentage": 0.35,
+            "population": 21052
+        },
+        "Hindu": {
+            "percentage": 86.5,
+            "population": 5260193
+        },
+        "Jain": {
+            "percentage": 1.86,
+            "population": 112835
+        },
+        "Muslims": {
+            "percentage": 10.87,
+            "population": 660772
+        },
+        "Not Stated": {
+            "percentage": 0.06,
+            "population": 3945
+        },
+        "Others": {
+            "percentage": 0.06,
+            "population": 3920
+        },
+        "Sikh": {
+            "percentage": 0.09,
+            "population": 5703
+        }
+    },
+    "rural": {
+        "child_population_female": 67363,
+        "child_population_male": 72123,
+        "child_population_percentage": 11.32,
+        "child_population_percentage_calculated": 11.32,
+        "child_population_percentage_stated": 11.32,
+        "child_population_total": 139486,
+        "child_sex_ratio": 934,
+        "female": 592049,
+        "literacy_rate_female": 70.6,
+        "literacy_rate_male": 82.76,
+        "literacy_rate_percentage": 76.92,
+        "literate_female": 370429,
+        "literate_male": 470015,
+        "literate_total": 840444,
+        "male": 640060,
+        "percentage_population": 20.26,
+        "population": 1232109,
+        "sex_ratio": 925
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/206-surat.html",
+    "urban": {
+        "child_population_female": 267608,
+        "child_population_male": 329192,
+        "child_population_percentage": 12.31,
+        "child_population_percentage_calculated": 12.31,
+        "child_population_percentage_stated": 12.31,
+        "child_population_total": 596800,
+        "child_sex_ratio": 813,
+        "female": 2087049,
+        "literacy_rate_female": 83.19,
+        "literacy_rate_male": 91.14,
+        "literacy_rate_percentage": 87.74,
+        "literate_female": 1513513,
+        "literate_male": 2217453,
+        "literate_total": 3730966,
+        "male": 2762164,
+        "percentage_population": 79.74,
+        "population": 4849213,
+        "sex_ratio": 756
+    }
+}

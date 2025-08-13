@@ -1,0 +1,71 @@
+{
+  "state": "Madhya Pradesh [2000 Onwards]",
+  "constituency": "Naryavali",
+  "district": "Sagar",
+  "ac_type": "SC",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 227102,
+        "total_votes_polled": 145576,
+        "turnout_percentage": 65.0,
+        "margin_votes": 8900,
+        "margin_percentage": 6.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Eng. Pradeep Lariya",
+          "party": "Bharatiya Janta Party",
+          "votes": 74360,
+          "votes_percentage": 51.1
+        },
+        {
+          "position": 2,
+          "name": "Advocate Surendra Choudhary",
+          "party": "Indian National Congress",
+          "votes": 65460,
+          "votes_percentage": 45.0
+        },
+        {
+          "position": 3,
+          "name": "Eng. Yogendra Suraj Choudhary",
+          "party": "Bahujan Samaj Party",
+          "votes": 2393,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 4,
+          "name": "Nandkishore Athya",
+          "party": "Bhartiya Shakti Chetna Party",
+          "votes": 1517,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Babulal Ahirwar",
+          "party": "Aam Aadmi Party",
+          "votes": 716,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Ramsevak Pawar (CHADAR)",
+          "party": "Gondvana Gantantra Party",
+          "votes": 712,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Suneel Kumar Balmik",
+          "party": "Independent",
+          "votes": 418,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

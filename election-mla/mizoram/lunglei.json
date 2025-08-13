@@ -1,0 +1,127 @@
+{
+  "state": "Mizoram",
+  "constituency": "Lunglei",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1984": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 10942,
+        "total_votes_polled": 8641,
+        "turnout_percentage": 79.0,
+        "margin_votes": 846,
+        "margin_percentage": 9.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Lalhmingthana",
+          "party": "Peoples Conference",
+          "votes": 3975,
+          "votes_percentage": 46.5
+        },
+        {
+          "position": 2,
+          "name": "Lalduhawma",
+          "party": "Indian National Congress",
+          "votes": 3129,
+          "votes_percentage": 36.6
+        },
+        {
+          "position": 3,
+          "name": "Hnamte Vanthuama",
+          "party": "Independent",
+          "votes": 1141,
+          "votes_percentage": 13.4
+        },
+        {
+          "position": 4,
+          "name": "Chawngzama",
+          "party": "Independent",
+          "votes": 297,
+          "votes_percentage": 3.5
+        }
+      ]
+    },
+    "1979": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 9597,
+        "total_votes_polled": 6649,
+        "turnout_percentage": 69.3,
+        "margin_votes": 1597,
+        "margin_percentage": 24.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Lalhmingthanga",
+          "party": "Peoples Conference",
+          "votes": 3846,
+          "votes_percentage": 58.1
+        },
+        {
+          "position": 2,
+          "name": "R. Romawia",
+          "party": "Independent",
+          "votes": 2249,
+          "votes_percentage": 34.0
+        },
+        {
+          "position": 3,
+          "name": "Thansiama Khiangte",
+          "party": "Janta Party",
+          "votes": 524,
+          "votes_percentage": 7.9
+        }
+      ]
+    },
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 9065,
+        "total_votes_polled": 5835,
+        "turnout_percentage": 64.4,
+        "margin_votes": 2775,
+        "margin_percentage": 47.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Lalhmingthanga",
+          "party": "Peoples Conference",
+          "votes": 3761,
+          "votes_percentage": 65.4
+        },
+        {
+          "position": 2,
+          "name": "C. Lalthianghlima",
+          "party": "Independent",
+          "votes": 986,
+          "votes_percentage": 17.1
+        },
+        {
+          "position": 3,
+          "name": "Z.D. Sangliana",
+          "party": "Independent",
+          "votes": 926,
+          "votes_percentage": 16.1
+        },
+        {
+          "position": 4,
+          "name": "K. Theansiama",
+          "party": "Independent",
+          "votes": 79,
+          "votes_percentage": 1.4
+        }
+      ]
+    }
+  }
+}

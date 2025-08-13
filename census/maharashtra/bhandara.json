@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 61397,
+        "male": 64628,
+        "percentage_of_total_population": 10.5,
+        "percentage_of_total_population_calculated": 10.5,
+        "percentage_of_total_population_stated": 10.5,
+        "sex_ratio": 950,
+        "total": 126025
+    },
+    "literacy": {
+        "female_literacy_rate": 77.08,
+        "female_literate": 411151,
+        "male_literacy_rate": 90.35,
+        "male_literate": 488709,
+        "rate_percentage": 83.76,
+        "total_literate": 899860
+    },
+    "population": {
+        "female": 594814,
+        "male": 605520,
+        "sex_ratio": 982,
+        "total": 1200334
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 12.87,
+            "population": 154458
+        },
+        "Christian": {
+            "percentage": 0.18,
+            "population": 2145
+        },
+        "Hindu": {
+            "percentage": 84.09,
+            "population": 1009352
+        },
+        "Jain": {
+            "percentage": 0.08,
+            "population": 1017
+        },
+        "Muslims": {
+            "percentage": 2.21,
+            "population": 26502
+        },
+        "Not Stated": {
+            "percentage": 0.21,
+            "population": 2474
+        },
+        "Others": {
+            "percentage": 0.3,
+            "population": 3555
+        },
+        "Sikh": {
+            "percentage": 0.07,
+            "population": 831
+        }
+    },
+    "rural": {
+        "child_population_female": 50432,
+        "child_population_male": 52829,
+        "child_population_percentage": 10.68,
+        "child_population_percentage_calculated": 10.68,
+        "child_population_percentage_stated": 10.68,
+        "child_population_total": 103261,
+        "child_sex_ratio": 955,
+        "female": 479019,
+        "literacy_rate_female": 74.64,
+        "literacy_rate_male": 89.37,
+        "literacy_rate_percentage": 82.05,
+        "literate_female": 319886,
+        "literate_male": 388442,
+        "literate_total": 708328,
+        "male": 487484,
+        "percentage_population": 80.52,
+        "population": 966503,
+        "sex_ratio": 983
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/344-bhandara.html",
+    "urban": {
+        "child_population_female": 10967,
+        "child_population_male": 11797,
+        "child_population_percentage": 9.74,
+        "child_population_percentage_calculated": 9.74,
+        "child_population_percentage_stated": 9.74,
+        "child_population_total": 22764,
+        "child_sex_ratio": 930,
+        "female": 115795,
+        "literacy_rate_female": 87.06,
+        "literacy_rate_male": 94.38,
+        "literacy_rate_percentage": 90.74,
+        "literate_female": 91265,
+        "literate_male": 100267,
+        "literate_total": 191532,
+        "male": 118036,
+        "percentage_population": 19.48,
+        "population": 233831,
+        "sex_ratio": 981
+    }
+}

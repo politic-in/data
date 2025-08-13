@@ -1,0 +1,57 @@
+{
+  "state": "Goa, Daman And Diu",
+  "constituency": "Ponda",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 19695,
+        "total_votes_polled": 14367,
+        "turnout_percentage": 73.0,
+        "margin_votes": 691,
+        "margin_percentage": 4.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Aguiar Joildo Souza",
+          "party": "Indian National Congress (U)",
+          "votes": 6700,
+          "votes_percentage": 47.8
+        },
+        {
+          "position": 2,
+          "name": "Naik Ravi Sitaram",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 6009,
+          "votes_percentage": 42.8
+        },
+        {
+          "position": 3,
+          "name": "Sinai Usgaonkar Attchut Kashiram",
+          "party": "Independent",
+          "votes": 618,
+          "votes_percentage": 4.4
+        },
+        {
+          "position": 4,
+          "name": "Chari Ramesh Govind",
+          "party": "Janta Party",
+          "votes": 496,
+          "votes_percentage": 3.5
+        },
+        {
+          "position": 5,
+          "name": "Khandekar Shankar Krishna",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 202,
+          "votes_percentage": 1.4
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 17259,
+        "male": 19769,
+        "percentage_of_total_population": 14.26,
+        "percentage_of_total_population_calculated": 14.26,
+        "percentage_of_total_population_stated": 14.26,
+        "sex_ratio": 873,
+        "total": 37028
+    },
+    "literacy": {
+        "female_literacy_rate": 68.05,
+        "female_literate": 75711,
+        "male_literacy_rate": 91.61,
+        "male_literate": 102015,
+        "rate_percentage": 79.83,
+        "total_literate": 177726
+    },
+    "population": {
+        "female": 128523,
+        "male": 131125,
+        "sex_ratio": 980,
+        "total": 259648
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 24
+        },
+        "Christian": {
+            "percentage": 0.34,
+            "population": 870
+        },
+        "Hindu": {
+            "percentage": 96.12,
+            "population": 249563
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 28
+        },
+        "Muslims": {
+            "percentage": 3.35,
+            "population": 8693
+        },
+        "Not Stated": {
+            "percentage": 0.05,
+            "population": 128
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 6
+        },
+        "Sikh": {
+            "percentage": 0.13,
+            "population": 336
+        }
+    },
+    "rural": {
+        "child_population_female": 15144,
+        "child_population_male": 17198,
+        "child_population_percentage": 14.61,
+        "child_population_percentage_calculated": 14.61,
+        "child_population_percentage_stated": 14.61,
+        "child_population_total": 32342,
+        "child_sex_ratio": 881,
+        "female": 110463,
+        "literacy_rate_female": 66.65,
+        "literacy_rate_male": 92.24,
+        "literacy_rate_percentage": 79.33,
+        "literate_female": 63531,
+        "literate_male": 86379,
+        "literate_total": 149910,
+        "male": 110842,
+        "percentage_population": 85.23,
+        "population": 221305,
+        "sex_ratio": 997
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/583-champawat.html",
+    "urban": {
+        "child_population_female": 2118,
+        "child_population_male": 2568,
+        "child_population_percentage": 12.22,
+        "child_population_percentage_calculated": 12.22,
+        "child_population_percentage_stated": 12.22,
+        "child_population_total": 4686,
+        "child_sex_ratio": 825,
+        "female": 18060,
+        "literacy_rate_female": 76.4,
+        "literacy_rate_male": 88.26,
+        "literacy_rate_percentage": 82.65,
+        "literate_female": 12180,
+        "literate_male": 15636,
+        "literate_total": 27816,
+        "male": 20283,
+        "percentage_population": 14.77,
+        "population": 38343,
+        "sex_ratio": 890
+    }
+}

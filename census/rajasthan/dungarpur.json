@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 116204,
+        "male": 126035,
+        "percentage_of_total_population": 17.45,
+        "percentage_of_total_population_calculated": 17.45,
+        "percentage_of_total_population_stated": 17.45,
+        "sex_ratio": 922,
+        "total": 242239
+    },
+    "literacy": {
+        "female_literacy_rate": 46.16,
+        "female_literate": 265771,
+        "male_literacy_rate": 72.88,
+        "male_literate": 415820,
+        "rate_percentage": 59.46,
+        "total_literate": 681591
+    },
+    "population": {
+        "female": 692020,
+        "male": 696532,
+        "sex_ratio": 994,
+        "total": 1388552
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 226
+        },
+        "Christian": {
+            "percentage": 0.06,
+            "population": 830
+        },
+        "Hindu": {
+            "percentage": 96.51,
+            "population": 1340065
+        },
+        "Jain": {
+            "percentage": 1.16,
+            "population": 16141
+        },
+        "Muslims": {
+            "percentage": 2.06,
+            "population": 28662
+        },
+        "Not Stated": {
+            "percentage": 0.11,
+            "population": 1535
+        },
+        "Others": {
+            "percentage": 0.06,
+            "population": 853
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 240
+        }
+    },
+    "rural": {
+        "child_population_female": 111218,
+        "child_population_male": 120188,
+        "child_population_percentage": 17.8,
+        "child_population_percentage_calculated": 17.8,
+        "child_population_percentage_stated": 17.8,
+        "child_population_total": 231406,
+        "child_sex_ratio": 925,
+        "female": 648763,
+        "literacy_rate_female": 43.96,
+        "literacy_rate_male": 71.5,
+        "literacy_rate_percentage": 57.64,
+        "literate_female": 236280,
+        "literate_male": 379571,
+        "literate_total": 615851,
+        "male": 651046,
+        "percentage_population": 93.61,
+        "population": 1299809,
+        "sex_ratio": 996
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/449-dungarpur.html",
+    "urban": {
+        "child_population_female": 5013,
+        "child_population_male": 5820,
+        "child_population_percentage": 12.21,
+        "child_population_percentage_calculated": 12.21,
+        "child_population_percentage_stated": 12.21,
+        "child_population_total": 10833,
+        "child_sex_ratio": 861,
+        "female": 43257,
+        "literacy_rate_female": 77.11,
+        "literacy_rate_male": 91.39,
+        "literacy_rate_percentage": 84.38,
+        "literate_female": 29491,
+        "literate_male": 36249,
+        "literate_total": 65740,
+        "male": 45486,
+        "percentage_population": 6.39,
+        "population": 88743,
+        "sex_ratio": 951
+    }
+}

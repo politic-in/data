@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 64418,
+        "male": 68024,
+        "percentage_of_total_population": 12.44,
+        "percentage_of_total_population_calculated": 12.44,
+        "percentage_of_total_population_stated": 12.44,
+        "sex_ratio": 947,
+        "total": 132442
+    },
+    "literacy": {
+        "female_literacy_rate": 65.44,
+        "female_literate": 302999,
+        "male_literacy_rate": 84.66,
+        "male_literate": 397178,
+        "rate_percentage": 75.12,
+        "total_literate": 700177
+    },
+    "population": {
+        "female": 527423,
+        "male": 537147,
+        "sex_ratio": 982,
+        "total": 1064570
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 79
+        },
+        "Christian": {
+            "percentage": 0.32,
+            "population": 3432
+        },
+        "Hindu": {
+            "percentage": 85.27,
+            "population": 907750
+        },
+        "Jain": {
+            "percentage": 0.56,
+            "population": 5993
+        },
+        "Muslims": {
+            "percentage": 13.5,
+            "population": 143665
+        },
+        "Not Stated": {
+            "percentage": 0.31,
+            "population": 3346
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 74
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 231
+        }
+    },
+    "rural": {
+        "child_population_female": 42452,
+        "child_population_male": 44898,
+        "child_population_percentage": 12.75,
+        "child_population_percentage_calculated": 12.75,
+        "child_population_percentage_stated": 12.75,
+        "child_population_total": 87350,
+        "child_sex_ratio": 946,
+        "female": 337676,
+        "literacy_rate_female": 60.62,
+        "literacy_rate_male": 82.83,
+        "literacy_rate_percentage": 71.86,
+        "literate_female": 178972,
+        "literate_male": 250701,
+        "literate_total": 429673,
+        "male": 347585,
+        "percentage_population": 64.37,
+        "population": 685261,
+        "sex_ratio": 971
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/255-gadag.html",
+    "urban": {
+        "child_population_female": 21965,
+        "child_population_male": 23127,
+        "child_population_percentage": 11.89,
+        "child_population_percentage_calculated": 11.89,
+        "child_population_percentage_stated": 11.89,
+        "child_population_total": 45092,
+        "child_sex_ratio": 950,
+        "female": 189747,
+        "literacy_rate_female": 73.92,
+        "literacy_rate_male": 88.01,
+        "literacy_rate_percentage": 80.94,
+        "literate_female": 124027,
+        "literate_male": 146477,
+        "literate_total": 270504,
+        "male": 189562,
+        "percentage_population": 35.63,
+        "population": 379309,
+        "sex_ratio": 1001
+    }
+}

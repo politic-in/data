@@ -1,0 +1,45 @@
+{
+  "state": "Manipur",
+  "year": "2024",
+  "summary_stats": {
+    "total_electors_state": 2029601,
+    "total_votes_polled_state": 1593632,
+    "turnout_percentage_state": 78.5,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Inner Manipur",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Manipur",
+      "winning_candidate": "Angomcha Bimol Akoijam",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 991574,
+      "total_votes_ac": 796897,
+      "poll_percentage_ac": 0.0,
+      "margin": 109801,
+      "margin_percentage": 13.8,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2024/manipur/inner-manipur/10792/24/18"
+    },
+    {
+      "ac_name": "Outer Manipur",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Manipur",
+      "winning_candidate": "Alfred Kanngam S Arthur",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 1038027,
+      "total_votes_ac": 796735,
+      "poll_percentage_ac": 0.0,
+      "margin": 85418,
+      "margin_percentage": 10.7,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2024/manipur/outer-manipur/10793/24/18"
+    }
+  ]
+}

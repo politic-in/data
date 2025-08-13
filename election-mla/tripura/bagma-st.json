@@ -1,0 +1,50 @@
+{
+  "state": "Tripura",
+  "constituency": "Bagma (ST)",
+  "district": "South Tripura",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 51158,
+        "total_votes_polled": 46409,
+        "turnout_percentage": 91.6,
+        "margin_votes": 2833,
+        "margin_percentage": 6.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ram Pada Jamatia",
+          "party": "Bharatiya Janta Party",
+          "votes": 24074,
+          "votes_percentage": 51.9
+        },
+        {
+          "position": 2,
+          "name": "Naresh Chandra Jamatia",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 21241,
+          "votes_percentage": 45.8
+        },
+        {
+          "position": 3,
+          "name": "Jyotish Jamatia",
+          "party": "Indigenous Nationalist Party Of Twipra",
+          "votes": 695,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Anantalal Jamatia",
+          "party": "Indian National Congress",
+          "votes": 399,
+          "votes_percentage": 0.9
+        }
+      ]
+    }
+  }
+}

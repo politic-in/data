@@ -1,0 +1,57 @@
+{
+  "state": "Madhya Pradesh [2000 Onwards]",
+  "constituency": "Anjad",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "2003": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 135315,
+        "total_votes_polled": 99103,
+        "turnout_percentage": 73.2,
+        "margin_votes": 6923,
+        "margin_percentage": 7.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Devisingh Patel",
+          "party": "Bharatiya Janta Party",
+          "votes": 49093,
+          "votes_percentage": 49.5
+        },
+        {
+          "position": 2,
+          "name": "Miss Chandrabhaga Kirade",
+          "party": "Indian National Congress",
+          "votes": 42170,
+          "votes_percentage": 42.6
+        },
+        {
+          "position": 3,
+          "name": "Girdharilal Solanki",
+          "party": "Independent",
+          "votes": 3370,
+          "votes_percentage": 3.4
+        },
+        {
+          "position": 4,
+          "name": "Babulal Gore",
+          "party": "Bahujan Samaj Party",
+          "votes": 2364,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 5,
+          "name": "Lalu Prasad Chouhan",
+          "party": "Nationalist Congress Party",
+          "votes": 2104,
+          "votes_percentage": 2.1
+        }
+      ]
+    }
+  }
+}

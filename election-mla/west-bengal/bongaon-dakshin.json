@@ -1,0 +1,57 @@
+{
+  "state": "West Bengal",
+  "constituency": "Bongaon Dakshin",
+  "district": "North Twenty Four Parganas",
+  "ac_type": "SC",
+  "results": {
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 189041,
+        "total_votes_polled": 163230,
+        "turnout_percentage": 86.4,
+        "margin_votes": 21889,
+        "margin_percentage": 13.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Surajit Kumar Biswas",
+          "party": "All India Trinamool Congress",
+          "votes": 87677,
+          "votes_percentage": 53.7
+        },
+        {
+          "position": 2,
+          "name": "Anuj Baran Sarkar",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 65788,
+          "votes_percentage": 40.3
+        },
+        {
+          "position": 3,
+          "name": "Arun Halder",
+          "party": "Bharatiya Janta Party",
+          "votes": 5243,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 4,
+          "name": "Himangshu Biswas(PUCHU)",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 2561,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 5,
+          "name": "Rabindra Nath Biswas",
+          "party": "Bahujan Samaj Party",
+          "votes": 1961,
+          "votes_percentage": 1.2
+        }
+      ]
+    }
+  }
+}

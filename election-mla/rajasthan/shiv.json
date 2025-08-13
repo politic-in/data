@@ -1,0 +1,57 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Shiv",
+  "district": "Barmer",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 244068,
+        "total_votes_polled": 201417,
+        "turnout_percentage": 83.8,
+        "margin_votes": 23554,
+        "margin_percentage": 11.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ameen Khan",
+          "party": "Indian National Congress",
+          "votes": 84338,
+          "votes_percentage": 41.9
+        },
+        {
+          "position": 2,
+          "name": "Khangar Singh Sodha",
+          "party": "Bharatiya Janta Party",
+          "votes": 60784,
+          "votes_percentage": 30.2
+        },
+        {
+          "position": 3,
+          "name": "Udaram Meghwal",
+          "party": "Rashtriya Loktantrik Party",
+          "votes": 50944,
+          "votes_percentage": 25.3
+        },
+        {
+          "position": 4,
+          "name": "Naranaram",
+          "party": "Bahujan Samaj Party",
+          "votes": 3316,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 5,
+          "name": "Toga Ram",
+          "party": "Bahujan Sangharshh Dal",
+          "votes": 2035,
+          "votes_percentage": 1.0
+        }
+      ]
+    }
+  }
+}

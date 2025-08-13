@@ -1,0 +1,57 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Machuka",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1984": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 5443,
+        "total_votes_polled": 4396,
+        "turnout_percentage": 80.8,
+        "margin_votes": 182,
+        "margin_percentage": 4.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tadik Chije",
+          "party": "Independent",
+          "votes": 1492,
+          "votes_percentage": 35.6
+        },
+        {
+          "position": 2,
+          "name": "P.W. Sona",
+          "party": "Indian National Congress",
+          "votes": 1310,
+          "votes_percentage": 31.3
+        },
+        {
+          "position": 3,
+          "name": "Tasi Gaduk",
+          "party": "Independent",
+          "votes": 720,
+          "votes_percentage": 17.2
+        },
+        {
+          "position": 4,
+          "name": "Tanya Mosing",
+          "party": "Independent",
+          "votes": 422,
+          "votes_percentage": 10.1
+        },
+        {
+          "position": 5,
+          "name": "Tapik Rinya",
+          "party": "Independent",
+          "votes": 243,
+          "votes_percentage": 5.8
+        }
+      ]
+    }
+  }
+}

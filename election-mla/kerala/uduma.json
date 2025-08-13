@@ -1,0 +1,64 @@
+{
+  "state": "Kerala",
+  "constituency": "Uduma",
+  "district": "Kasaragod",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "06 April 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 203810,
+        "total_votes_polled": 164907,
+        "turnout_percentage": 81.1,
+        "margin_votes": 13322,
+        "margin_percentage": 8.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "C H Kunhambu",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 78664,
+          "votes_percentage": 47.7
+        },
+        {
+          "position": 2,
+          "name": "Balakrishnan Periye",
+          "party": "Indian National Congress",
+          "votes": 65342,
+          "votes_percentage": 39.6
+        },
+        {
+          "position": 3,
+          "name": "A Velayudhan",
+          "party": "Bharatiya Janta Party",
+          "votes": 20360,
+          "votes_percentage": 12.4
+        },
+        {
+          "position": 4,
+          "name": "Rameshan K",
+          "party": "Independent",
+          "votes": 207,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 5,
+          "name": "Govindan B Alinthaze",
+          "party": "Ambedkarite Party Of India",
+          "votes": 194,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 6,
+          "name": "Kunhambu K  S/o Kuttappan K C",
+          "party": "Independent",
+          "votes": 140,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

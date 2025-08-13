@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 19202,
+        "male": 20715,
+        "percentage_of_total_population": 12.77,
+        "percentage_of_total_population_calculated": 12.77,
+        "percentage_of_total_population_stated": 12.77,
+        "sex_ratio": 927,
+        "total": 39917
+    },
+    "literacy": {
+        "female_literacy_rate": 63.05,
+        "female_literate": 85170,
+        "male_literacy_rate": 81.92,
+        "male_literate": 112649,
+        "rate_percentage": 72.57,
+        "total_literate": 197819
+    },
+    "population": {
+        "female": 154290,
+        "male": 158230,
+        "sex_ratio": 975,
+        "total": 312520
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.03,
+            "population": 102
+        },
+        "Christian": {
+            "percentage": 4.65,
+            "population": 14518
+        },
+        "Hindu": {
+            "percentage": 94.71,
+            "population": 296001
+        },
+        "Jain": {
+            "percentage": 0.0,
+            "population": 7
+        },
+        "Muslims": {
+            "percentage": 0.23,
+            "population": 704
+        },
+        "Not Stated": {
+            "percentage": 0.23,
+            "population": 726
+        },
+        "Others": {
+            "percentage": 0.13,
+            "population": 409
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 53
+        }
+    },
+    "rural": {
+        "child_population_female": 17954,
+        "child_population_male": 19378,
+        "child_population_percentage": 12.87,
+        "child_population_percentage_calculated": 12.87,
+        "child_population_percentage_stated": 12.87,
+        "child_population_total": 37332,
+        "child_sex_ratio": 927,
+        "female": 143464,
+        "literacy_rate_female": 61.96,
+        "literacy_rate_male": 81.34,
+        "literacy_rate_percentage": 71.72,
+        "literate_female": 77764,
+        "literate_male": 103536,
+        "literate_total": 181300,
+        "male": 146666,
+        "percentage_population": 92.84,
+        "population": 290130,
+        "sex_ratio": 978
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/397-debagarh.html",
+    "urban": {
+        "child_population_female": 1245,
+        "child_population_male": 1340,
+        "child_population_percentage": 11.55,
+        "child_population_percentage_calculated": 11.55,
+        "child_population_percentage_stated": 11.55,
+        "child_population_total": 2585,
+        "child_sex_ratio": 929,
+        "female": 10826,
+        "literacy_rate_female": 77.3,
+        "literacy_rate_male": 89.13,
+        "literacy_rate_percentage": 83.41,
+        "literate_female": 7406,
+        "literate_male": 9113,
+        "literate_total": 16519,
+        "male": 11564,
+        "percentage_population": 7.16,
+        "population": 22390,
+        "sex_ratio": 936
+    }
+}

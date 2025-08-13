@@ -1,0 +1,105 @@
+{
+  "district": "Thiruvallur",
+  "state": "Tamil Nadu",
+  "census_year": 2011,
+  "source": "https://www.census2011.co.in/census/district/20-thiruvallur.html",
+  "population": {
+    "total": 3728104,
+    "male": 1876062,
+    "female": 1852042,
+    "sex_ratio": 987
+  },
+  "area_distribution": {
+    "urban": {
+      "percentage_of_total_population": 65.14,
+      "total_population": 2428395,
+      "male": 1225600,
+      "female": 1202795,
+      "sex_ratio": 981,
+      "child_population_0_6": {
+        "total": 263762,
+        "male": 135547,
+        "female": 128215,
+        "sex_ratio": 946,
+        "percentage_of_urban_population": 10.86
+      },
+      "literacy": {
+        "rate": 89.25,
+        "male_rate": 93.53,
+        "female_rate": 84.92,
+        "total_literates": 1932021
+      }
+    },
+    "rural": {
+      "percentage_of_total_population": 34.86,
+      "total_population": 1299709,
+      "male": 650462,
+      "female": 649247,
+      "sex_ratio": 998,
+      "child_population_0_6": {
+        "total": 141907,
+        "male": 72902,
+        "female": 69005,
+        "sex_ratio": 947,
+        "percentage_of_rural_population": 10.92
+      },
+      "literacy": {
+        "rate": 74.25,
+        "male_rate": 82.45,
+        "female_rate": 66.09,
+        "total_literates": 859700
+      }
+    }
+  },
+  "age_groups": {
+    "children_0_6_years": {
+      "total": 405669,
+      "male": 208449,
+      "female": 197220,
+      "sex_ratio": 946,
+      "percentage_of_total_population": 10.88
+    }
+  },
+  "literacy_overall_district": {
+    "rate": 84.03,
+    "male_rate": 89.69,
+    "female_rate": 78.32,
+    "total_literates": 2791721
+  },
+  "religion_distribution": {
+    "hindu": {
+      "percentage": 89.21,
+      "population": 3325823
+    },
+    "muslim": {
+      "percentage": 3.84,
+      "population": 143093
+    },
+    "christian": {
+      "percentage": 6.27,
+      "population": 233633
+    },
+    "sikh": {
+      "percentage": 0.04,
+      "population": 1422
+    },
+    "buddhist": {
+      "percentage": 0.03,
+      "population": 951
+    },
+    "jain": {
+      "percentage": 0.1,
+      "population": 3693
+    },
+    "other_religions": {
+      "percentage": 0.01,
+      "population": 530
+    },
+    "not_stated": {
+      "percentage": 0.51,
+      "population": 18959
+    }
+  },
+  "scheduled_caste_sc_population": null,
+  "scheduled_tribe_st_population": null
+}

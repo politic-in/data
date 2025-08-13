@@ -1,0 +1,99 @@
+{
+  "state": "Maharashtra",
+  "constituency": "BOMBAY CENTRAL",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 550555,
+        "total_votes_polled": 357338,
+        "turnout_percentage": 64.9,
+        "margin_votes": 99542,
+        "margin_percentage": 27.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "R. D. Bhandare",
+          "party": "Indian National Congress",
+          "votes": 216114,
+          "votes_percentage": 60.5
+        },
+        {
+          "position": 2,
+          "name": "Manohar Joshi",
+          "party": "Shiv Sena",
+          "votes": 116572,
+          "votes_percentage": 32.6
+        },
+        {
+          "position": 3,
+          "name": "B. C. Kamble",
+          "party": "Independent",
+          "votes": 15144,
+          "votes_percentage": 4.2
+        },
+        {
+          "position": 4,
+          "name": "Gangaram Dasharath Ghokshe",
+          "party": "Republican Party Of India (KHOBRAGADE)",
+          "votes": 2744,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 5,
+          "name": "Ramaswamy Kamala",
+          "party": "Independent",
+          "votes": 922,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 6,
+          "name": "Yeshwant Trimbak Pradhan",
+          "party": "Independent",
+          "votes": 788,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 520524,
+        "total_votes_polled": 357839,
+        "turnout_percentage": 68.8,
+        "margin_votes": 6952,
+        "margin_percentage": 1.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "R. D. Bhandare",
+          "party": "Indian National Congress",
+          "votes": 158060,
+          "votes_percentage": 44.2
+        },
+        {
+          "position": 2,
+          "name": "P. K. Atre",
+          "party": "Republican Party Of India",
+          "votes": 151108,
+          "votes_percentage": 42.2
+        },
+        {
+          "position": 3,
+          "name": "B. C. Kamble",
+          "party": "Independent",
+          "votes": 38405,
+          "votes_percentage": 10.7
+        }
+      ]
+    }
+  }
+}

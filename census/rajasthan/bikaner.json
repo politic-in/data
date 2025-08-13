@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 190620,
+        "male": 209934,
+        "percentage_of_total_population": 16.94,
+        "percentage_of_total_population_calculated": 16.94,
+        "percentage_of_total_population_stated": 16.94,
+        "sex_ratio": 908,
+        "total": 400554
+    },
+    "literacy": {
+        "female_literacy_rate": 53.23,
+        "female_literate": 496402,
+        "male_literacy_rate": 75.9,
+        "male_literate": 782399,
+        "rate_percentage": 65.13,
+        "total_literate": 1278801
+    },
+    "population": {
+        "female": 1123136,
+        "male": 1240801,
+        "sex_ratio": 905,
+        "total": 2363937
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 285
+        },
+        "Christian": {
+            "percentage": 0.08,
+            "population": 1901
+        },
+        "Hindu": {
+            "percentage": 87.71,
+            "population": 2073356
+        },
+        "Jain": {
+            "percentage": 1.31,
+            "population": 30850
+        },
+        "Muslims": {
+            "percentage": 9.97,
+            "population": 235741
+        },
+        "Not Stated": {
+            "percentage": 0.07,
+            "population": 1653
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 79
+        },
+        "Sikh": {
+            "percentage": 0.85,
+            "population": 20072
+        }
+    },
+    "rural": {
+        "child_population_female": 139076,
+        "child_population_male": 153056,
+        "child_population_percentage": 18.68,
+        "child_population_percentage_calculated": 18.68,
+        "child_population_percentage_stated": 18.68,
+        "child_population_total": 292132,
+        "child_sex_ratio": 909,
+        "female": 742119,
+        "literacy_rate_female": 44.32,
+        "literacy_rate_male": 70.61,
+        "literacy_rate_percentage": 58.14,
+        "literate_female": 267286,
+        "literate_male": 471918,
+        "literate_total": 739204,
+        "male": 821434,
+        "percentage_population": 66.14,
+        "population": 1563553,
+        "sex_ratio": 903
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/426-bikaner.html",
+    "urban": {
+        "child_population_female": 51526,
+        "child_population_male": 56896,
+        "child_population_percentage": 13.55,
+        "child_population_percentage_calculated": 13.55,
+        "child_population_percentage_stated": 13.55,
+        "child_population_total": 108422,
+        "child_sex_ratio": 906,
+        "female": 381017,
+        "literacy_rate_female": 69.54,
+        "literacy_rate_male": 85.66,
+        "literacy_rate_percentage": 77.98,
+        "literate_female": 229116,
+        "literate_male": 310481,
+        "literate_total": 539597,
+        "male": 419367,
+        "percentage_population": 33.86,
+        "population": 800384,
+        "sex_ratio": 909
+    }
+}

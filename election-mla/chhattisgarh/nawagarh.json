@@ -1,0 +1,127 @@
+{
+  "state": "Chhattisgarh",
+  "constituency": "Nawagarh",
+  "district": "Durg",
+  "ac_type": "SC",
+  "results": {
+    "2013": {
+      "poll_date": "19 November 2013",
+      "counting_date": "08 December 2013",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 213520,
+        "total_votes_polled": 157367,
+        "turnout_percentage": 76.0,
+        "margin_votes": 27193,
+        "margin_percentage": 17.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dayaldas Baghel",
+          "party": "Bharatiya Janta Party",
+          "votes": 69447,
+          "votes_percentage": 44.1
+        },
+        {
+          "position": 2,
+          "name": "Derhu Prashad Ghritlahare",
+          "party": "Chattisgarh Swabhiman Manch",
+          "votes": 42254,
+          "votes_percentage": 26.9
+        },
+        {
+          "position": 3,
+          "name": "Anita Patre",
+          "party": "Indian National Congress",
+          "votes": 19234,
+          "votes_percentage": 12.2
+        },
+        {
+          "position": 4,
+          "name": "Omprakash Batchpayi",
+          "party": "Bahujan Samaj Party",
+          "votes": 16075,
+          "votes_percentage": 10.2
+        },
+        {
+          "position": 5,
+          "name": "Gopal Chaturvedi",
+          "party": "Independent",
+          "votes": 3870,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 6,
+          "name": "Kirti Bai Hirwani",
+          "party": "Independent",
+          "votes": 2438,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 7,
+          "name": "Santosh Dahariya",
+          "party": "Independent",
+          "votes": 2315,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 8,
+          "name": "Shivaram Ghritlahare",
+          "party": "Bahujan Samaj Mukti Morcha",
+          "votes": 1734,
+          "votes_percentage": 1.1
+        }
+      ]
+    },
+    "2008": {
+      "poll_date": "20 November 2008",
+      "counting_date": "08 December 2008",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 192373,
+        "total_votes_polled": 129311,
+        "turnout_percentage": 67.2,
+        "margin_votes": 6507,
+        "margin_percentage": 5.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dyaldas Baghel",
+          "party": "Bharatiya Janta Party",
+          "votes": 53519,
+          "votes_percentage": 41.4
+        },
+        {
+          "position": 2,
+          "name": "Derhu Prasad Ghritlahre",
+          "party": "Indian National Congress",
+          "votes": 47012,
+          "votes_percentage": 36.4
+        },
+        {
+          "position": 3,
+          "name": "Omprakash Bajpayi",
+          "party": "Bahujan Samaj Party",
+          "votes": 20048,
+          "votes_percentage": 15.5
+        },
+        {
+          "position": 4,
+          "name": "Virendra Ghritlahre",
+          "party": "Independent",
+          "votes": 6090,
+          "votes_percentage": 4.7
+        },
+        {
+          "position": 5,
+          "name": "Umend Singh Bharti",
+          "party": "Independent",
+          "votes": 2642,
+          "votes_percentage": 2.0
+        }
+      ]
+    }
+  }
+}

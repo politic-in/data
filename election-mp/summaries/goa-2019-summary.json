@@ -1,0 +1,45 @@
+{
+  "state": "Goa",
+  "year": "2019",
+  "summary_stats": {
+    "total_electors_state": 1117209,
+    "total_votes_polled_state": 853203,
+    "turnout_percentage_state": 76.4,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "North Goa",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Goa",
+      "winning_candidate": "Shripad Yesso Naik",
+      "winning_party": "Bharatiya Janta Party",
+      "total_electors_ac": 545009,
+      "total_votes_ac": 428628,
+      "poll_percentage_ac": 0.0,
+      "margin": 80247,
+      "margin_percentage": 18.7,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2019/goa/north-goa/9428/51/17"
+    },
+    {
+      "ac_name": "South Goa",
+      "ac_no": 2,
+      "ac_type": "GEN",
+      "district": "Goa",
+      "winning_candidate": "Cosme Francisco Caitano Sardinha",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 572200,
+      "total_votes_ac": 424575,
+      "poll_percentage_ac": 0.0,
+      "margin": 9755,
+      "margin_percentage": 2.3,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2019/goa/south-goa/9429/51/17"
+    }
+  ]
+}

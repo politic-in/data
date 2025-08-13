@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 80067,
+        "male": 83752,
+        "percentage_of_total_population": 17.11,
+        "percentage_of_total_population_calculated": 17.11,
+        "percentage_of_total_population_stated": 17.11,
+        "sex_ratio": 956,
+        "total": 163819
+    },
+    "literacy": {
+        "female_literacy_rate": 64.04,
+        "female_literate": 250204,
+        "male_literacy_rate": 71.9,
+        "male_literate": 289698,
+        "rate_percentage": 68.03,
+        "total_literate": 539902
+    },
+    "population": {
+        "female": 470772,
+        "male": 486651,
+        "sex_ratio": 967,
+        "total": 957423
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 65
+        },
+        "Christian": {
+            "percentage": 0.09,
+            "population": 834
+        },
+        "Hindu": {
+            "percentage": 47.2,
+            "population": 451882
+        },
+        "Jain": {
+            "percentage": 0.03,
+            "population": 244
+        },
+        "Muslims": {
+            "percentage": 52.56,
+            "population": 503257
+        },
+        "Not Stated": {
+            "percentage": 0.11,
+            "population": 1017
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 11
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 113
+        }
+    },
+    "rural": {
+        "child_population_female": 75863,
+        "child_population_male": 79253,
+        "child_population_percentage": 17.54,
+        "child_population_percentage_calculated": 17.54,
+        "child_population_percentage_stated": 17.54,
+        "child_population_total": 155116,
+        "child_sex_ratio": 957,
+        "female": 435002,
+        "literacy_rate_female": 62.63,
+        "literacy_rate_male": 70.46,
+        "literacy_rate_percentage": 66.6,
+        "literate_female": 224927,
+        "literate_male": 260603,
+        "literate_total": 485530,
+        "male": 449123,
+        "percentage_population": 92.34,
+        "population": 884125,
+        "sex_ratio": 969
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/161-morigaon.html",
+    "urban": {
+        "child_population_female": 4210,
+        "child_population_male": 4493,
+        "child_population_percentage": 11.87,
+        "child_population_percentage_calculated": 11.87,
+        "child_population_percentage_stated": 11.87,
+        "child_population_total": 8703,
+        "child_sex_ratio": 937,
+        "female": 35770,
+        "literacy_rate_female": 80.09,
+        "literacy_rate_male": 88.07,
+        "literacy_rate_percentage": 84.17,
+        "literate_female": 25277,
+        "literate_male": 29095,
+        "literate_total": 54372,
+        "male": 37528,
+        "percentage_population": 7.66,
+        "population": 73298,
+        "sex_ratio": 953
+    }
+}

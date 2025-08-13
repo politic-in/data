@@ -1,0 +1,78 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Dhariyavaad",
+  "district": "Udaipur",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 239001,
+        "total_votes_polled": 188508,
+        "turnout_percentage": 81.3,
+        "margin_votes": 23842,
+        "margin_percentage": 12.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gotam Lal",
+          "party": "Bharatiya Janta Party",
+          "votes": 96457,
+          "votes_percentage": 51.2
+        },
+        {
+          "position": 2,
+          "name": "Nagraj",
+          "party": "Indian National Congress",
+          "votes": 72615,
+          "votes_percentage": 38.5
+        },
+        {
+          "position": 3,
+          "name": "Bhagwan Lal",
+          "party": "Communist Party Of India",
+          "votes": 5280,
+          "votes_percentage": 2.8
+        },
+        {
+          "position": 4,
+          "name": "Kesulal",
+          "party": "Bahujan Samaj Party",
+          "votes": 4465,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 5,
+          "name": "Bheru Lal",
+          "party": "Bhartiya Tribal Party",
+          "votes": 4406,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 6,
+          "name": "Gautama Lal Meena",
+          "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+          "votes": 2124,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 7,
+          "name": "Shanker Lal",
+          "party": "Bharatiya Yuva Shakti",
+          "votes": 2117,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 8,
+          "name": "Nagendra",
+          "party": "Janta Sena Rajasthan",
+          "votes": 1044,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

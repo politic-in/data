@@ -1,0 +1,36 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Kaloriang",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 7067,
+        "total_votes_polled": 4477,
+        "turnout_percentage": 63.4,
+        "margin_votes": 628,
+        "margin_percentage": 14.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Lokam Tado",
+          "party": "Indian National Congress (I)",
+          "votes": 2377,
+          "votes_percentage": 57.6
+        },
+        {
+          "position": 2,
+          "name": "Chera Talo",
+          "party": "Independent",
+          "votes": 1749,
+          "votes_percentage": 42.4
+        }
+      ]
+    }
+  }
+}

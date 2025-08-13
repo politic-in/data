@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 239662,
+        "male": 257425,
+        "percentage_of_total_population": 10.68,
+        "percentage_of_total_population_calculated": 10.68,
+        "percentage_of_total_population_stated": 10.68,
+        "sex_ratio": 931,
+        "total": 497087
+    },
+    "literacy": {
+        "female_literacy_rate": 84.51,
+        "female_literate": 1714588,
+        "male_literacy_rate": 92.09,
+        "male_literate": 1959220,
+        "rate_percentage": 88.39,
+        "total_literate": 3673808
+    },
+    "population": {
+        "female": 2268595,
+        "male": 2384975,
+        "sex_ratio": 951,
+        "total": 4653570
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 14.36,
+            "population": 668050
+        },
+        "Christian": {
+            "percentage": 0.74,
+            "population": 34667
+        },
+        "Hindu": {
+            "percentage": 75.04,
+            "population": 3492202
+        },
+        "Jain": {
+            "percentage": 0.53,
+            "population": 24528
+        },
+        "Muslims": {
+            "percentage": 8.4,
+            "population": 390974
+        },
+        "Not Stated": {
+            "percentage": 0.23,
+            "population": 10499
+        },
+        "Others": {
+            "percentage": 0.26,
+            "population": 12181
+        },
+        "Sikh": {
+            "percentage": 0.44,
+            "population": 20469
+        }
+    },
+    "rural": {
+        "child_population_female": 79990,
+        "child_population_male": 84973,
+        "child_population_percentage": 11.19,
+        "child_population_percentage_calculated": 11.19,
+        "child_population_percentage_stated": 11.19,
+        "child_population_total": 164963,
+        "child_sex_ratio": 941,
+        "female": 716454,
+        "literacy_rate_female": 75.91,
+        "literacy_rate_male": 87.59,
+        "literacy_rate_percentage": 81.92,
+        "literate_female": 483152,
+        "literate_male": 589827,
+        "literate_total": 1072979,
+        "male": 758357,
+        "percentage_population": 31.69,
+        "population": 1474811,
+        "sex_ratio": 945
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/343-nagpur.html",
+    "urban": {
+        "child_population_female": 159659,
+        "child_population_male": 172465,
+        "child_population_percentage": 10.45,
+        "child_population_percentage_calculated": 10.45,
+        "child_population_percentage_stated": 10.45,
+        "child_population_total": 332124,
+        "child_sex_ratio": 926,
+        "female": 1552141,
+        "literacy_rate_female": 88.43,
+        "literacy_rate_male": 94.17,
+        "literacy_rate_percentage": 91.37,
+        "literate_female": 1231436,
+        "literate_male": 1369393,
+        "literate_total": 2600829,
+        "male": 1626618,
+        "percentage_population": 68.31,
+        "population": 3178759,
+        "sex_ratio": 954
+    }
+}

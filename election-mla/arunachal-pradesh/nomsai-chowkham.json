@@ -1,0 +1,50 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Nomsai Chowkham",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 13880,
+        "total_votes_polled": 11343,
+        "turnout_percentage": 81.7,
+        "margin_votes": 1506,
+        "margin_percentage": 13.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chow Tewa Mien",
+          "party": "Janta Party",
+          "votes": 4542,
+          "votes_percentage": 42.0
+        },
+        {
+          "position": 2,
+          "name": "Chau Khouk Manpoong",
+          "party": "Peoples Party Of Arunachal",
+          "votes": 3036,
+          "votes_percentage": 28.1
+        },
+        {
+          "position": 3,
+          "name": "Omam Deori",
+          "party": "Independent",
+          "votes": 2781,
+          "votes_percentage": 25.7
+        },
+        {
+          "position": 4,
+          "name": "C.A. Gohain",
+          "party": "Independent",
+          "votes": 457,
+          "votes_percentage": 4.2
+        }
+      ]
+    }
+  }
+}

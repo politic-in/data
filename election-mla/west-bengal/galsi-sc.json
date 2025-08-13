@@ -1,0 +1,43 @@
+{
+  "state": "West Bengal",
+  "constituency": "GALSI (SC)",
+  "district": "Barddhaman",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 235947,
+        "total_votes_polled": 201070,
+        "turnout_percentage": 86.9,
+        "margin_votes": 10771,
+        "margin_percentage": 5.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Alok Kumar Majhi",
+          "party": "All India Trinamool Congress",
+          "votes": 95203,
+          "votes_percentage": 47.4
+        },
+        {
+          "position": 2,
+          "name": "Nandalal Pondit",
+          "party": "All India Forward Bloc",
+          "votes": 84432,
+          "votes_percentage": 42.0
+        },
+        {
+          "position": 3,
+          "name": "Sundar Paswan",
+          "party": "Bharatiya Janta Party",
+          "votes": 21435,
+          "votes_percentage": 10.7
+        }
+      ]
+    }
+  }
+}

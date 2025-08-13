@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 43748,
+        "male": 44596,
+        "percentage_of_total_population": 14.47,
+        "percentage_of_total_population_calculated": 14.47,
+        "percentage_of_total_population_stated": 14.47,
+        "sex_ratio": 981,
+        "total": 88344
+    },
+    "literacy": {
+        "female_literacy_rate": 44.76,
+        "female_literate": 118480,
+        "male_literacy_rate": 70.29,
+        "male_literate": 180903,
+        "rate_percentage": 57.35,
+        "total_literate": 299383
+    },
+    "population": {
+        "female": 308420,
+        "male": 301962,
+        "sex_ratio": 1021,
+        "total": 610382
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 76
+        },
+        "Christian": {
+            "percentage": 0.29,
+            "population": 1778
+        },
+        "Hindu": {
+            "percentage": 98.48,
+            "population": 601092
+        },
+        "Jain": {
+            "percentage": 0.15,
+            "population": 905
+        },
+        "Muslims": {
+            "percentage": 0.81,
+            "population": 4952
+        },
+        "Not Stated": {
+            "percentage": 0.14,
+            "population": 833
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 22
+        },
+        "Sikh": {
+            "percentage": 0.12,
+            "population": 724
+        }
+    },
+    "rural": {
+        "child_population_female": 41672,
+        "child_population_male": 42394,
+        "child_population_percentage": 14.59,
+        "child_population_percentage_calculated": 14.59,
+        "child_population_percentage_stated": 14.59,
+        "child_population_total": 84066,
+        "child_sex_ratio": 983,
+        "female": 291536,
+        "literacy_rate_female": 43.19,
+        "literacy_rate_male": 69.28,
+        "literacy_rate_percentage": 56.04,
+        "literate_female": 107927,
+        "literate_male": 167937,
+        "literate_total": 275864,
+        "male": 284792,
+        "percentage_population": 94.42,
+        "population": 576328,
+        "sex_ratio": 1024
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/418-nuapada.html",
+    "urban": {
+        "child_population_female": 2072,
+        "child_population_male": 2206,
+        "child_population_percentage": 12.56,
+        "child_population_percentage_calculated": 12.56,
+        "child_population_percentage_stated": 12.56,
+        "child_population_total": 4278,
+        "child_sex_ratio": 939,
+        "female": 16884,
+        "literacy_rate_female": 71.25,
+        "literacy_rate_male": 86.65,
+        "literacy_rate_percentage": 78.99,
+        "literate_female": 10553,
+        "literate_male": 12966,
+        "literate_total": 23519,
+        "male": 17170,
+        "percentage_population": 5.58,
+        "population": 34054,
+        "sex_ratio": 983
+    }
+}

@@ -1,0 +1,85 @@
+{
+  "state": "Chhattisgarh",
+  "constituency": "Bagicha",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "2003": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 120993,
+        "total_votes_polled": 87224,
+        "turnout_percentage": 72.1,
+        "margin_votes": 10572,
+        "margin_percentage": 12.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ganesh Ram Bhagat",
+          "party": "Bharatiya Janta Party",
+          "votes": 43846,
+          "votes_percentage": 50.3
+        },
+        {
+          "position": 2,
+          "name": "Anand Lal Kujur",
+          "party": "Indian National Congress",
+          "votes": 33274,
+          "votes_percentage": 38.2
+        },
+        {
+          "position": 3,
+          "name": "Ram Muni",
+          "party": "Independent",
+          "votes": 2456,
+          "votes_percentage": 2.8
+        },
+        {
+          "position": 4,
+          "name": "Jowakim",
+          "party": "Nationalist Congress Party",
+          "votes": 1996,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 5,
+          "name": "Hemlata",
+          "party": "Bahujan Samaj Party",
+          "votes": 1857,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 6,
+          "name": "Injor Sai",
+          "party": "Independent",
+          "votes": 1290,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 7,
+          "name": "Jeevan",
+          "party": "Independent",
+          "votes": 1132,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 8,
+          "name": "Andherias",
+          "party": "Independent",
+          "votes": 797,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 9,
+          "name": "Ramvrisha",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 576,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

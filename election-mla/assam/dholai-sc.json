@@ -1,0 +1,57 @@
+{
+  "state": "Assam",
+  "constituency": "Dholai (SC)",
+  "district": "Cachar",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 160092,
+        "total_votes_polled": 126193,
+        "turnout_percentage": 80.1,
+        "margin_votes": 26837,
+        "margin_percentage": 21.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Parimal Suklabaidya",
+          "party": "Bharatiya Janta Party",
+          "votes": 68694,
+          "votes_percentage": 54.4
+        },
+        {
+          "position": 2,
+          "name": "Girindra Mallik",
+          "party": "Indian National Congress",
+          "votes": 41857,
+          "votes_percentage": 33.2
+        },
+        {
+          "position": 3,
+          "name": "Lalta Prosad Mala",
+          "party": "All India United Democratic Front",
+          "votes": 13382,
+          "votes_percentage": 10.6
+        },
+        {
+          "position": 4,
+          "name": "Gour Chandra Das",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1146,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Nihar Ranjan Das",
+          "party": "Independent",
+          "votes": 1114,
+          "votes_percentage": 0.9
+        }
+      ]
+    }
+  }
+}

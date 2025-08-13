@@ -1,0 +1,57 @@
+{
+  "state": "Kerala",
+  "constituency": "Ernad",
+  "district": "Malappuram",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "06 April 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 171167,
+        "total_votes_polled": 142636,
+        "turnout_percentage": 83.7,
+        "margin_votes": 22546,
+        "margin_percentage": 15.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "P.K. Basheer",
+          "party": "Indian Union Muslim League",
+          "votes": 78076,
+          "votes_percentage": 54.7
+        },
+        {
+          "position": 2,
+          "name": "K.T. Abdurahiman",
+          "party": "Independent",
+          "votes": 55530,
+          "votes_percentage": 38.9
+        },
+        {
+          "position": 3,
+          "name": "Adv. C. Dinesh",
+          "party": "Bharatiya Janta Party",
+          "votes": 6683,
+          "votes_percentage": 4.7
+        },
+        {
+          "position": 4,
+          "name": "Velayudhan",
+          "party": "Bahujan Samaj Party",
+          "votes": 1247,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Adv. Sebastian",
+          "party": "Independent",
+          "votes": 1100,
+          "votes_percentage": 0.8
+        }
+      ]
+    }
+  }
+}

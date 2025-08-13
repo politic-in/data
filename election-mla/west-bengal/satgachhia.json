@@ -1,0 +1,64 @@
+{
+  "state": "West Bengal",
+  "constituency": "Satgachhia",
+  "district": "South  Twenty Four Parganas",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 258613,
+        "total_votes_polled": 234169,
+        "turnout_percentage": 91.1,
+        "margin_votes": 23318,
+        "margin_percentage": 10.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mohan Chandra Naskar",
+          "party": "All India Trinamool Congress",
+          "votes": 118635,
+          "votes_percentage": 50.7
+        },
+        {
+          "position": 2,
+          "name": "Chandan Pal",
+          "party": "Bharatiya Janta Party",
+          "votes": 95317,
+          "votes_percentage": 40.7
+        },
+        {
+          "position": 3,
+          "name": "Goutam Pal",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 16220,
+          "votes_percentage": 6.9
+        },
+        {
+          "position": 4,
+          "name": "Sk Rabiyal",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1625,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Sanjay Kumar Sah",
+          "party": "Bahujan Samaj Party",
+          "votes": 1379,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Debajyoti Basu",
+          "party": "Independent",
+          "votes": 993,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

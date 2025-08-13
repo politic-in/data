@@ -1,0 +1,118 @@
+{
+  "district_name": "Krishnagiri",
+  "source_urls": {
+    "primary_demographics": "https://www.census2011.co.in/census/district/25-krishnagiri.html",
+    "sc_st_population": "https://www.censusindia.co.in/district/krishnagiri-district-tamil-nadu-631"
+  },
+  "total_population_2011": {
+    "total": 1879809,
+    "male": 960232,
+    "female": 919577,
+    "sex_ratio": 958
+  },
+  "overall_child_population_0_6_years": {
+    "total": 217323,
+    "male": 112832,
+    "female": 104491,
+    "sex_ratio": 926,
+    "percentage_of_total_population": 11.56
+  },
+  "overall_literacy": {
+    "rate_percentage": 71.46,
+    "total_literate": 1187958,
+    "male_literate": 667062,
+    "female_literate": 520896,
+    "male_literacy_rate": 78.72,
+    "female_literacy_rate": 63.91
+  },
+  "urban_distribution": {
+    "percentage_of_total_population": 22.79,
+    "population": 428363,
+    "male": 217788,
+    "female": 210575,
+    "sex_ratio": 967,
+    "child_population_0_6": {
+      "total": 51092,
+      "male": 26271,
+      "female": 24821,
+      "sex_ratio": 945,
+      "percentage_of_urban_population": 11.93
+    },
+    "literacy": {
+      "rate_percentage": 85.54,
+      "total_literate": 322699,
+      "male_literate": 172344,
+      "female_literate": 150355,
+      "male_literacy_rate": 89.99,
+      "female_literacy_rate": 80.94
+    }
+  },
+  "rural_distribution": {
+    "percentage_of_total_population": 77.21,
+    "population": 1451446,
+    "male": 742444,
+    "female": 709002,
+    "sex_ratio": 955,
+    "child_population_0_6": {
+      "total": 166231,
+      "male": 86561,
+      "female": 79670,
+      "sex_ratio": 920,
+      "percentage_of_rural_population": 11.45
+    },
+    "literacy": {
+      "rate_percentage": 67.32,
+      "total_literate": 865259,
+      "male_literate": 494718,
+      "female_literate": 370541,
+      "male_literacy_rate": 75.43,
+      "female_literacy_rate": 58.88
+    }
+  },
+  "religion_distribution": {
+    "hindu": {
+      "percentage": 91.7,
+      "population": 1723737
+    },
+    "muslim": {
+      "percentage": 6.13,
+      "population": 115303
+    },
+    "christian": {
+      "percentage": 1.91,
+      "population": 35956
+    },
+    "sikh": {
+      "percentage": 0.02,
+      "population": 468
+    },
+    "buddhist": {
+      "percentage": 0.01,
+      "population": 121
+    },
+    "jain": {
+      "percentage": 0.02,
+      "population": 373
+    },
+    "others": {
+      "percentage": 0.01,
+      "population": 221
+    },
+    "not_stated": {
+      "percentage": 0.19,
+      "population": 3630
+    }
+  },
+  "scheduled_caste_sc_population": {
+    "total": 267386,
+    "male": 135474,
+    "female": 131912,
+    "percentage_of_total_population": 14.2
+  },
+  "scheduled_tribe_st_population": {
+    "total": 22388,
+    "male": 11419,
+    "female": 10969,
+    "percentage_of_total_population": 1.2
+  }
+}

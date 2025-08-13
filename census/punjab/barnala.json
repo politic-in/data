@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 29725,
+        "male": 35262,
+        "percentage_of_total_population": 10.91,
+        "percentage_of_total_population_calculated": 10.91,
+        "percentage_of_total_population_stated": 10.91,
+        "sex_ratio": 843,
+        "total": 64987
+    },
+    "literacy": {
+        "female_literacy_rate": 63.57,
+        "female_literate": 157832,
+        "male_literacy_rate": 71.57,
+        "male_literate": 201999,
+        "rate_percentage": 67.82,
+        "total_literate": 359831
+    },
+    "population": {
+        "female": 278005,
+        "male": 317522,
+        "sex_ratio": 876,
+        "total": 595527
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 108
+        },
+        "Christian": {
+            "percentage": 0.1,
+            "population": 622
+        },
+        "Hindu": {
+            "percentage": 18.95,
+            "population": 112859
+        },
+        "Jain": {
+            "percentage": 0.04,
+            "population": 246
+        },
+        "Muslims": {
+            "percentage": 2.2,
+            "population": 13100
+        },
+        "Not Stated": {
+            "percentage": 0.06,
+            "population": 360
+        },
+        "Others": {
+            "percentage": 0.08,
+            "population": 481
+        },
+        "Sikh": {
+            "percentage": 78.54,
+            "population": 467751
+        }
+    },
+    "rural": {
+        "child_population_female": 19610,
+        "child_population_male": 23151,
+        "child_population_percentage": 10.56,
+        "child_population_percentage_calculated": 10.56,
+        "child_population_percentage_stated": 10.56,
+        "child_population_total": 42761,
+        "child_sex_ratio": 847,
+        "female": 189632,
+        "literacy_rate_female": 60.52,
+        "literacy_rate_male": 68.48,
+        "literacy_rate_percentage": 64.74,
+        "literate_female": 102890,
+        "literate_male": 131516,
+        "literate_total": 234406,
+        "male": 215210,
+        "percentage_population": 67.98,
+        "population": 404842,
+        "sex_ratio": 881
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/607-barnala.html",
+    "urban": {
+        "child_population_female": 10111,
+        "child_population_male": 12115,
+        "child_population_percentage": 11.66,
+        "child_population_percentage_calculated": 11.66,
+        "child_population_percentage_stated": 11.66,
+        "child_population_total": 22226,
+        "child_sex_ratio": 835,
+        "female": 88373,
+        "literacy_rate_female": 70.2,
+        "literacy_rate_male": 78.14,
+        "literacy_rate_percentage": 74.45,
+        "literate_female": 54942,
+        "literate_male": 70483,
+        "literate_total": 125425,
+        "male": 102312,
+        "percentage_population": 32.02,
+        "population": 190685,
+        "sex_ratio": 864
+    }
+}

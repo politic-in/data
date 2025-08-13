@@ -1,0 +1,87 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Cheepurupalle",
+  "district": "Vizianagaram",
+  "ac_type": "GEN",
+  "results": {
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 178142,
+        "total_votes_polled": 142285,
+        "turnout_percentage": 79.9,
+        "total_valid_votes": 142281,
+        "total_valid_votes_percentage": 79.9,
+        "margin_votes": 5942,
+        "margin_percentage": 4.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Botcha Satyanarayana",
+          "party": "Indian National Congress",
+          "votes": 60677,
+          "votes_percentage": 42.7
+        },
+        {
+          "position": 2,
+          "name": "Gadde Baburao",
+          "party": "Telugu Desam",
+          "votes": 54735,
+          "votes_percentage": 38.5
+        },
+        {
+          "position": 3,
+          "name": "Sunitha Routhu",
+          "party": "Praja Rajyam Party",
+          "votes": 16418,
+          "votes_percentage": 11.5
+        },
+        {
+          "position": 4,
+          "name": "Sri Saketi Mohan Rao",
+          "party": "Bharatiya Janta Party",
+          "votes": 2837,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 5,
+          "name": "Peethala Murali Mohanrao",
+          "party": "Independent",
+          "votes": 2548,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 6,
+          "name": "Reddy Lakashmu Naidu",
+          "party": "Lok Satta Party",
+          "votes": 1630,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 7,
+          "name": "Byreddy Appala Naidu",
+          "party": "Bahujan Samaj Party",
+          "votes": 1512,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 8,
+          "name": "Pendurthi Venkatarao",
+          "party": "Rashtriya Janata Dal",
+          "votes": 1305,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 9,
+          "name": "Maredibilli Ramakrishna",
+          "party": "Bharatheeya Sadharma Samsthapana Party",
+          "votes": 619,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

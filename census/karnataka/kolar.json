@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 83561,
+        "male": 86862,
+        "percentage_of_total_population": 11.09,
+        "percentage_of_total_population_calculated": 11.09,
+        "percentage_of_total_population_stated": 11.09,
+        "sex_ratio": 962,
+        "total": 170423
+    },
+    "literacy": {
+        "female_literacy_rate": 66.84,
+        "female_literate": 452109,
+        "male_literacy_rate": 81.81,
+        "male_literate": 564110,
+        "rate_percentage": 74.39,
+        "total_literate": 1016219
+    },
+    "population": {
+        "female": 760005,
+        "male": 776396,
+        "sex_ratio": 979,
+        "total": 1536401
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 150
+        },
+        "Christian": {
+            "percentage": 1.74,
+            "population": 26722
+        },
+        "Hindu": {
+            "percentage": 84.97,
+            "population": 1305431
+        },
+        "Jain": {
+            "percentage": 0.16,
+            "population": 2494
+        },
+        "Muslims": {
+            "percentage": 13.01,
+            "population": 199873
+        },
+        "Not Stated": {
+            "percentage": 0.09,
+            "population": 1386
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 92
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 253
+        }
+    },
+    "rural": {
+        "child_population_female": 56772,
+        "child_population_male": 59459,
+        "child_population_percentage": 11.0,
+        "child_population_percentage_calculated": 11.0,
+        "child_population_percentage_stated": 11.0,
+        "child_population_total": 116231,
+        "child_sex_ratio": 955,
+        "female": 520897,
+        "literacy_rate_female": 59.82,
+        "literacy_rate_male": 78.11,
+        "literacy_rate_percentage": 69.08,
+        "literate_female": 277636,
+        "literate_male": 371785,
+        "literate_total": 649421,
+        "male": 535431,
+        "percentage_population": 68.75,
+        "population": 1056328,
+        "sex_ratio": 973
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/260-kolar.html",
+    "urban": {
+        "child_population_female": 26806,
+        "child_population_male": 27386,
+        "child_population_percentage": 11.29,
+        "child_population_percentage_calculated": 11.29,
+        "child_population_percentage_stated": 11.29,
+        "child_population_total": 54192,
+        "child_sex_ratio": 979,
+        "female": 239108,
+        "literacy_rate_female": 82.18,
+        "literacy_rate_male": 90.05,
+        "literacy_rate_percentage": 86.13,
+        "literate_female": 174473,
+        "literate_male": 192325,
+        "literate_total": 366798,
+        "male": 240965,
+        "percentage_population": 31.25,
+        "population": 480073,
+        "sex_ratio": 992
+    }
+}

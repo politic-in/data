@@ -1,0 +1,64 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "TEHRI GARWAL",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 503143,
+        "total_votes_polled": 148318,
+        "turnout_percentage": 29.5,
+        "margin_votes": 48235,
+        "margin_percentage": 32.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Paripoornanand Palmule",
+          "party": "Indian National Congress",
+          "votes": 79820,
+          "votes_percentage": 53.8
+        },
+        {
+          "position": 2,
+          "name": "Manabendra Shah",
+          "party": "Independent",
+          "votes": 31585,
+          "votes_percentage": 21.3
+        },
+        {
+          "position": 3,
+          "name": "Vidya Sagar",
+          "party": "Communist Party Of India",
+          "votes": 22258,
+          "votes_percentage": 15.0
+        },
+        {
+          "position": 4,
+          "name": "Prithvi Singh",
+          "party": "Independent",
+          "votes": 4730,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 5,
+          "name": "Sher Singh",
+          "party": "Independent",
+          "votes": 3539,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 6,
+          "name": "Gunanand",
+          "party": "Independent",
+          "votes": 1270,
+          "votes_percentage": 0.9
+        }
+      ]
+    }
+  }
+}

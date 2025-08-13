@@ -1,0 +1,57 @@
+{
+  "state": "Goa, Daman And Diu",
+  "constituency": "Panaji",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 16531,
+        "total_votes_polled": 11173,
+        "turnout_percentage": 67.6,
+        "margin_votes": 829,
+        "margin_percentage": 7.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Naik Vishnu Anant",
+          "party": "Independent",
+          "votes": 3967,
+          "votes_percentage": 36.6
+        },
+        {
+          "position": 2,
+          "name": "Naik Baban Anant",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 3138,
+          "votes_percentage": 28.9
+        },
+        {
+          "position": 3,
+          "name": "Bir Madhav Ramkrishna",
+          "party": "Janta Party",
+          "votes": 2449,
+          "votes_percentage": 22.6
+        },
+        {
+          "position": 4,
+          "name": "Priolkar Prafull Vaikunt",
+          "party": "Indian National Congress (I)",
+          "votes": 1005,
+          "votes_percentage": 9.3
+        },
+        {
+          "position": 5,
+          "name": "Dessai Yeshwant Sitaram",
+          "party": "Janta Party (SECULAR)",
+          "votes": 291,
+          "votes_percentage": 2.7
+        }
+      ]
+    }
+  }
+}

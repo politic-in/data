@@ -1,0 +1,45 @@
+{
+  "state": "Tripura",
+  "year": "1991",
+  "summary_stats": {
+    "total_electors_state": 1561085,
+    "total_votes_polled_state": 1050263,
+    "turnout_percentage_state": 67.3,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Tripura East",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Tripura",
+      "winning_candidate": "Bibhu Kumari Devi (W)",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 742857,
+      "total_votes_ac": 477132,
+      "poll_percentage_ac": 0.0,
+      "margin": 346653,
+      "margin_percentage": 72.7,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1991/tripura/tripura-east/4873/25/10"
+    },
+    {
+      "ac_name": "Tripura West",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Tripura",
+      "winning_candidate": "Santosh Mohan Deo",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 818228,
+      "total_votes_ac": 573131,
+      "poll_percentage_ac": 0.0,
+      "margin": 428984,
+      "margin_percentage": 74.8,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1991/tripura/tripura-west/4872/25/10"
+    }
+  ]
+}

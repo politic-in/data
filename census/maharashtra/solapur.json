@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 252498,
+        "male": 285955,
+        "percentage_of_total_population": 12.47,
+        "percentage_of_total_population_calculated": 12.47,
+        "percentage_of_total_population_stated": 12.47,
+        "sex_ratio": 883,
+        "total": 538453
+    },
+    "literacy": {
+        "female_literacy_rate": 68.55,
+        "female_literate": 1259410,
+        "male_literacy_rate": 85.03,
+        "male_literate": 1651266,
+        "rate_percentage": 77.02,
+        "total_literate": 2910676
+    },
+    "population": {
+        "female": 2089904,
+        "male": 2227852,
+        "sex_ratio": 938,
+        "total": 4317756
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.82,
+            "population": 35497
+        },
+        "Christian": {
+            "percentage": 0.23,
+            "population": 9882
+        },
+        "Hindu": {
+            "percentage": 87.9,
+            "population": 3795424
+        },
+        "Jain": {
+            "percentage": 0.65,
+            "population": 28134
+        },
+        "Muslims": {
+            "percentage": 10.22,
+            "population": 441254
+        },
+        "Not Stated": {
+            "percentage": 0.13,
+            "population": 5718
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 568
+        },
+        "Sikh": {
+            "percentage": 0.03,
+            "population": 1279
+        }
+    },
+    "rural": {
+        "child_population_female": 175465,
+        "child_population_male": 200863,
+        "child_population_percentage": 12.89,
+        "child_population_percentage_calculated": 12.89,
+        "child_population_percentage_stated": 12.89,
+        "child_population_total": 376328,
+        "child_sex_ratio": 874,
+        "female": 1400322,
+        "literacy_rate_female": 64.64,
+        "literacy_rate_male": 82.82,
+        "literacy_rate_percentage": 74.06,
+        "literate_female": 791703,
+        "literate_male": 1091085,
+        "literate_total": 1882788,
+        "male": 1518343,
+        "percentage_population": 67.6,
+        "population": 2918665,
+        "sex_ratio": 922
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/364-solapur.html",
+    "urban": {
+        "child_population_female": 77109,
+        "child_population_male": 85016,
+        "child_population_percentage": 11.59,
+        "child_population_percentage_calculated": 11.59,
+        "child_population_percentage_stated": 11.59,
+        "child_population_total": 162125,
+        "child_sex_ratio": 907,
+        "female": 689582,
+        "literacy_rate_female": 76.36,
+        "literacy_rate_male": 89.7,
+        "literacy_rate_percentage": 83.1,
+        "literate_female": 467707,
+        "literate_male": 560181,
+        "literate_total": 1027888,
+        "male": 709509,
+        "percentage_population": 32.4,
+        "population": 1399091,
+        "sex_ratio": 972
+    }
+}

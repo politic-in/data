@@ -1,0 +1,57 @@
+{
+  "state": "West Bengal",
+  "constituency": "MAL (ST)",
+  "district": "Jalpaiguri",
+  "ac_type": "ST",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 226272,
+        "total_votes_polled": 187393,
+        "turnout_percentage": 84.7,
+        "margin_votes": 18462,
+        "margin_percentage": 9.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bulu Chik Baraik",
+          "party": "All India Trinamool Congress",
+          "votes": 84877,
+          "votes_percentage": 45.3
+        },
+        {
+          "position": 2,
+          "name": "Augustus Kerketta",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 66415,
+          "votes_percentage": 35.4
+        },
+        {
+          "position": 3,
+          "name": "Mahesh Bage",
+          "party": "Bharatiya Janta Party",
+          "votes": 29380,
+          "votes_percentage": 15.7
+        },
+        {
+          "position": 4,
+          "name": "Anjali Malo",
+          "party": "Bahujan Samaj Party",
+          "votes": 4168,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 5,
+          "name": "Jyotish Minj",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 2553,
+          "votes_percentage": 1.4
+        }
+      ]
+    }
+  }
+}

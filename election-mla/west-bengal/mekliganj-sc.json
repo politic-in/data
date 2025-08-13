@@ -1,0 +1,78 @@
+{
+  "state": "West Bengal",
+  "constituency": "MEKLIGANJ (SC)",
+  "district": "Koch Bihar",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 201071,
+        "total_votes_polled": 178627,
+        "turnout_percentage": 90.0,
+        "margin_votes": 6637,
+        "margin_percentage": 3.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Arghya Roy Pradhan (BILU)",
+          "party": "All India Trinamool Congress",
+          "votes": 74823,
+          "votes_percentage": 41.9
+        },
+        {
+          "position": 2,
+          "name": "Paresh Chandra Adhikary",
+          "party": "All India Forward Bloc",
+          "votes": 68186,
+          "votes_percentage": 38.2
+        },
+        {
+          "position": 3,
+          "name": "Dadhiram Ray",
+          "party": "Bharatiya Janta Party",
+          "votes": 23355,
+          "votes_percentage": 13.1
+        },
+        {
+          "position": 4,
+          "name": "Jyotish Roy",
+          "party": "Bahujan Samaj Party",
+          "votes": 5650,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 5,
+          "name": "Pramila Roy",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 2090,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 6,
+          "name": "Ratan Barman",
+          "party": "Amra Bangalee",
+          "votes": 1809,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 7,
+          "name": "Golapi Roy",
+          "party": "Independent",
+          "votes": 955,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Dipen Roy",
+          "party": "Independent",
+          "votes": 914,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

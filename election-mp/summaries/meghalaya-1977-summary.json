@@ -1,0 +1,45 @@
+{
+  "state": "Meghalaya",
+  "year": "1977",
+  "summary_stats": {
+    "total_electors_state": 530326,
+    "total_votes_polled_state": 264544,
+    "turnout_percentage_state": 49.9,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Shillong",
+      "ac_no": 1,
+      "ac_type": "ST",
+      "district": "Meghalaya",
+      "winning_candidate": "Hoping Stone Lyngdoh",
+      "winning_party": "Independent",
+      "total_electors_ac": 341910,
+      "total_votes_ac": 190149,
+      "poll_percentage_ac": 0.0,
+      "margin": 4765,
+      "margin_percentage": 2.5,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1977/meghalaya/shillong/2635/44/6"
+    },
+    {
+      "ac_name": "Tura",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Meghalaya",
+      "winning_candidate": "Purna A. Sangma",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 188416,
+      "total_votes_ac": 74395,
+      "poll_percentage_ac": 0.0,
+      "margin": 14034,
+      "margin_percentage": 18.9,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1977/meghalaya/tura/2636/44/6"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "Chaibasa",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 144386,
+        "total_votes_polled": 90044,
+        "turnout_percentage": 62.4,
+        "margin_votes": 6419,
+        "margin_percentage": 7.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bagun Sumbrui",
+          "party": "Indian National Congress",
+          "votes": 28930,
+          "votes_percentage": 33.0
+        },
+        {
+          "position": 2,
+          "name": "Deepak Birua",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 22511,
+          "votes_percentage": 25.7
+        },
+        {
+          "position": 3,
+          "name": "Jawahar Lal Banra",
+          "party": "Bharatiya Janta Party",
+          "votes": 21466,
+          "votes_percentage": 24.5
+        },
+        {
+          "position": 4,
+          "name": "Gardi Munda",
+          "party": "Rashtriya Janata Dal",
+          "votes": 9400,
+          "votes_percentage": 10.7
+        },
+        {
+          "position": 5,
+          "name": "Pardhan Godsora",
+          "party": "Communist Party Of India",
+          "votes": 2978,
+          "votes_percentage": 3.4
+        },
+        {
+          "position": 6,
+          "name": "Turi Sundi",
+          "party": "Bahujan Samaj Party",
+          "votes": 1101,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 7,
+          "name": "Dula Sundi",
+          "party": "Independent",
+          "votes": 898,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 8,
+          "name": "Krishna Chandra Hembrom",
+          "party": "Independent",
+          "votes": 331,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

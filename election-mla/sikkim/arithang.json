@@ -1,0 +1,166 @@
+{
+  "state": "Sikkim",
+  "constituency": "Arithang",
+  "district": "East",
+  "ac_type": "GEN",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 11408,
+        "total_votes_polled": 7806,
+        "turnout_percentage": 69.0,
+        "margin_votes": 474,
+        "margin_percentage": 6.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Arun Kumar Upreti",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 3150,
+          "votes_percentage": 40.4
+        },
+        {
+          "position": 2,
+          "name": "Ashis Rai",
+          "party": "Independent",
+          "votes": 2676,
+          "votes_percentage": 34.3
+        },
+        {
+          "position": 3,
+          "name": "Shyam Pradhan",
+          "party": "Sikkim Democratic Front",
+          "votes": 1545,
+          "votes_percentage": 19.8
+        },
+        {
+          "position": 4,
+          "name": "Dal Bahadur Chettri",
+          "party": "Bharatiya Janta Party",
+          "votes": 393,
+          "votes_percentage": 5.0
+        },
+        {
+          "position": 5,
+          "name": "Sumitra Rai",
+          "party": "Indian National Congress",
+          "votes": 42,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "12 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 9483,
+        "total_votes_polled": 6951,
+        "turnout_percentage": 73.3,
+        "total_valid_votes": 6880,
+        "total_valid_votes_percentage": 72.6,
+        "margin_votes": 1606,
+        "margin_percentage": 23.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shyam Pradhan",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 4026,
+          "votes_percentage": 58.5
+        },
+        {
+          "position": 2,
+          "name": "Udai Lama",
+          "party": "Sikkim Democratic Front",
+          "votes": 2420,
+          "votes_percentage": 35.2
+        },
+        {
+          "position": 3,
+          "name": "Sherap Dorjee Bhutia",
+          "party": "Independent",
+          "votes": 253,
+          "votes_percentage": 3.7
+        },
+        {
+          "position": 4,
+          "name": "Gyalpo Tamang",
+          "party": "Indian National Congress",
+          "votes": 105,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 5,
+          "name": "Rajeney Gurung",
+          "party": "Independent",
+          "votes": 76,
+          "votes_percentage": 1.1
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "30 April 2009",
+      "counting_date": "05 June 2009",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 7396,
+        "total_votes_polled": 5447,
+        "turnout_percentage": 73.7,
+        "total_valid_votes": 5314,
+        "total_valid_votes_percentage": 71.8,
+        "margin_votes": 1455,
+        "margin_percentage": 26.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Narendra Kr. Pradhan",
+          "party": "Sikkim Democratic Front",
+          "votes": 3320,
+          "votes_percentage": 61.0
+        },
+        {
+          "position": 2,
+          "name": "Bharat Basnett",
+          "party": "Indian National Congress",
+          "votes": 1865,
+          "votes_percentage": 34.2
+        },
+        {
+          "position": 3,
+          "name": "Ashok Kr  Subba",
+          "party": "Nationalist Congress Party",
+          "votes": 141,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 4,
+          "name": "Atal Bahadur Tamang",
+          "party": "Sikkim Himali Rajya Parishad",
+          "votes": 48,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Amit Kumar Pradhan",
+          "party": "Independent",
+          "votes": 46,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Kharga Bahadur Rai",
+          "party": "Sikkim Gorkha Prajatantric Party",
+          "votes": 27,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

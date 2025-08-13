@@ -1,0 +1,159 @@
+{
+  "state": "Sikkim",
+  "constituency": "Martam-rumtek",
+  "district": "East",
+  "ac_type": "BL",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 17208,
+        "total_votes_polled": 13635,
+        "turnout_percentage": 79.9,
+        "margin_votes": 73,
+        "margin_percentage": 0.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dorjee Tshering Lepcha",
+          "party": "Sikkim Democratic Front",
+          "votes": 6244,
+          "votes_percentage": 45.8
+        },
+        {
+          "position": 2,
+          "name": "Sonam Tshering Venchungpa",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 6171,
+          "votes_percentage": 45.3
+        },
+        {
+          "position": 3,
+          "name": "Jigdal Chewang Bhutia",
+          "party": "Bharatiya Janta Party",
+          "votes": 804,
+          "votes_percentage": 5.9
+        },
+        {
+          "position": 4,
+          "name": "Nima Lepcha",
+          "party": "Hamro Sikkim Party",
+          "votes": 183,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 5,
+          "name": "Gyaltsen Bhutia",
+          "party": "Independent",
+          "votes": 121,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Sonam Tshering Bhutia",
+          "party": "Indian National Congress",
+          "votes": 112,
+          "votes_percentage": 0.8
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "12 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 14496,
+        "total_votes_polled": 12053,
+        "turnout_percentage": 83.2,
+        "total_valid_votes": 11814,
+        "total_valid_votes_percentage": 81.5,
+        "margin_votes": 479,
+        "margin_percentage": 4.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mechung Bhutia",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 6055,
+          "votes_percentage": 51.3
+        },
+        {
+          "position": 2,
+          "name": "Menlom Lepcha",
+          "party": "Sikkim Democratic Front",
+          "votes": 5576,
+          "votes_percentage": 47.2
+        },
+        {
+          "position": 3,
+          "name": "Sonam Tshering Bhutia",
+          "party": "Indian National Congress",
+          "votes": 183,
+          "votes_percentage": 1.6
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "30 April 2009",
+      "counting_date": "05 June 2009",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 11702,
+        "total_votes_polled": 9981,
+        "turnout_percentage": 85.3,
+        "total_valid_votes": 9651,
+        "total_valid_votes_percentage": 82.5,
+        "margin_votes": 3365,
+        "margin_percentage": 33.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Menlom Lepcha",
+          "party": "Sikkim Democratic Front",
+          "votes": 6392,
+          "votes_percentage": 64.0
+        },
+        {
+          "position": 2,
+          "name": "Rinzing Namgyal",
+          "party": "Indian National Congress",
+          "votes": 3027,
+          "votes_percentage": 30.3
+        },
+        {
+          "position": 3,
+          "name": "Nima Lepcha",
+          "party": "Bharatiya Janta Party",
+          "votes": 336,
+          "votes_percentage": 3.4
+        },
+        {
+          "position": 4,
+          "name": "Sonam Tashi Bhutia",
+          "party": "Independent",
+          "votes": 117,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 5,
+          "name": "Bindu Lepcha",
+          "party": "Sikkim Gorkha Prajatantric Party",
+          "votes": 68,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Tempo Tshering Bhutia",
+          "party": "Sikkim Himali Rajya Parishad",
+          "votes": 41,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

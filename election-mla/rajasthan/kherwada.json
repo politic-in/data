@@ -1,0 +1,57 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Kherwada",
+  "district": "Udaipur",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 266274,
+        "total_votes_polled": 186378,
+        "turnout_percentage": 72.2,
+        "margin_votes": 24991,
+        "margin_percentage": 13.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dayaram Parmar",
+          "party": "Indian National Congress",
+          "votes": 93155,
+          "votes_percentage": 50.0
+        },
+        {
+          "position": 2,
+          "name": "Nanalal Ahari",
+          "party": "Bharatiya Janta Party",
+          "votes": 68164,
+          "votes_percentage": 36.6
+        },
+        {
+          "position": 3,
+          "name": "Praveen Kumar Parmar",
+          "party": "Bhartiya Tribal Party",
+          "votes": 20383,
+          "votes_percentage": 10.9
+        },
+        {
+          "position": 4,
+          "name": "Savita",
+          "party": "Bahujan Samaj Party",
+          "votes": 2470,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 5,
+          "name": "Savita Parmar",
+          "party": "Aam Aadmi Party",
+          "votes": 2206,
+          "votes_percentage": 1.2
+        }
+      ]
+    }
+  }
+}

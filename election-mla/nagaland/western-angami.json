@@ -1,0 +1,358 @@
+{
+  "state": "Nagaland",
+  "constituency": "Western Angami",
+  "district": "Kohima",
+  "ac_type": "ST",
+  "results": {
+    "2013": {
+      "poll_date": "23 February 2013",
+      "counting_date": "28 February 2013",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 16274,
+        "total_votes_polled": 13507,
+        "turnout_percentage": 83.0,
+        "margin_votes": 1000,
+        "margin_percentage": 7.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kiyanilie Peseyie",
+          "party": "Naga Peoples Front",
+          "votes": 5969,
+          "votes_percentage": 44.2
+        },
+        {
+          "position": 2,
+          "name": "Asu Keyho",
+          "party": "Indian National Congress",
+          "votes": 4969,
+          "votes_percentage": 36.8
+        },
+        {
+          "position": 3,
+          "name": "Huzo Meru",
+          "party": "Independent",
+          "votes": 2569,
+          "votes_percentage": 19.0
+        }
+      ]
+    },
+    "2008": {
+      "poll_date": "05 March 2008",
+      "counting_date": "08 March 2008",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 20162,
+        "total_votes_polled": 15471,
+        "turnout_percentage": 76.7,
+        "margin_votes": 1430,
+        "margin_percentage": 9.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kiyanilie Peseyie",
+          "party": "Nagaland Peoples Front",
+          "votes": 6284,
+          "votes_percentage": 40.6
+        },
+        {
+          "position": 2,
+          "name": "Achubu",
+          "party": "Indian National Congress",
+          "votes": 4854,
+          "votes_percentage": 31.4
+        },
+        {
+          "position": 3,
+          "name": "Asu Keyho",
+          "party": "Independent",
+          "votes": 3990,
+          "votes_percentage": 25.8
+        },
+        {
+          "position": 4,
+          "name": "Kelhuzhato Nakhro",
+          "party": "Lok Jan Shakti Party",
+          "votes": 343,
+          "votes_percentage": 2.2
+        }
+      ]
+    },
+    "2003": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 17721,
+        "total_votes_polled": 12914,
+        "turnout_percentage": 72.9,
+        "margin_votes": 966,
+        "margin_percentage": 7.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shri: Kiyanilie",
+          "party": "Nagaland Peoples Front",
+          "votes": 5192,
+          "votes_percentage": 40.2
+        },
+        {
+          "position": 2,
+          "name": "Shri: Asu Keyho",
+          "party": "Indian National Congress",
+          "votes": 4226,
+          "votes_percentage": 32.8
+        },
+        {
+          "position": 3,
+          "name": "Dr. Ruungutuo",
+          "party": "Independent",
+          "votes": 2637,
+          "votes_percentage": 20.4
+        },
+        {
+          "position": 4,
+          "name": "Shri: Vikehielie",
+          "party": "Bharatiya Janta Party",
+          "votes": 848,
+          "votes_percentage": 6.6
+        }
+      ]
+    },
+    "1998": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 15509,
+        "total_votes_polled": 9936,
+        "turnout_percentage": 64.1,
+        "margin_votes": 1478,
+        "margin_percentage": 14.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Asu Keyho",
+          "party": "Independent",
+          "votes": 5562,
+          "votes_percentage": 57.7
+        },
+        {
+          "position": 2,
+          "name": "N.T. Nakhro",
+          "party": "Indian National Congress",
+          "votes": 4084,
+          "votes_percentage": 42.3
+        }
+      ]
+    },
+    "1993": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 12087,
+        "total_votes_polled": 9043,
+        "turnout_percentage": 74.8,
+        "margin_votes": 237,
+        "margin_percentage": 2.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shurhiu",
+          "party": "Nagaland Peoples Council",
+          "votes": 3215,
+          "votes_percentage": 36.1
+        },
+        {
+          "position": 2,
+          "name": "Asu Keyho",
+          "party": "Independent",
+          "votes": 2978,
+          "votes_percentage": 33.4
+        },
+        {
+          "position": 3,
+          "name": "Setu Ligise",
+          "party": "Indian National Congress",
+          "votes": 2723,
+          "votes_percentage": 30.5
+        }
+      ]
+    },
+    "1989": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 8933,
+        "total_votes_polled": 6572,
+        "turnout_percentage": 73.6,
+        "margin_votes": 548,
+        "margin_percentage": 8.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "N. T. Nakhro",
+          "party": "Nagaland Peoples Council",
+          "votes": 3499,
+          "votes_percentage": 54.3
+        },
+        {
+          "position": 2,
+          "name": "Crellan Peseyie",
+          "party": "Indian National Congress",
+          "votes": 2951,
+          "votes_percentage": 45.8
+        }
+      ]
+    },
+    "1987": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 8922,
+        "total_votes_polled": 6538,
+        "turnout_percentage": 73.3,
+        "margin_votes": 686,
+        "margin_percentage": 10.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shurhiu",
+          "party": "Naga National Democratic Party",
+          "votes": 2811,
+          "votes_percentage": 43.6
+        },
+        {
+          "position": 2,
+          "name": "Vibikho",
+          "party": "Indian National Congress",
+          "votes": 2125,
+          "votes_percentage": 32.9
+        },
+        {
+          "position": 3,
+          "name": "Mhiesizokho",
+          "party": "Nagaland Peoples Party",
+          "votes": 1516,
+          "votes_percentage": 23.5
+        }
+      ]
+    },
+    "1982": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 10984,
+        "total_votes_polled": 6640,
+        "turnout_percentage": 60.5,
+        "margin_votes": 681,
+        "margin_percentage": 10.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Setu Lietise",
+          "party": "Naga National Democratic Party",
+          "votes": 1780,
+          "votes_percentage": 27.1
+        },
+        {
+          "position": 2,
+          "name": "N. T. Nakhro",
+          "party": "Independent",
+          "votes": 1099,
+          "votes_percentage": 16.7
+        },
+        {
+          "position": 3,
+          "name": "C. K. Nakhro",
+          "party": "Indian National Congress",
+          "votes": 1062,
+          "votes_percentage": 16.1
+        },
+        {
+          "position": 4,
+          "name": "Mhiosizokho Zinyu",
+          "party": "Independent",
+          "votes": 973,
+          "votes_percentage": 14.8
+        },
+        {
+          "position": 5,
+          "name": "Dolhoukhou",
+          "party": "Independent",
+          "votes": 938,
+          "votes_percentage": 14.3
+        },
+        {
+          "position": 6,
+          "name": "Rano M. Shziaz",
+          "party": "Independent",
+          "votes": 637,
+          "votes_percentage": 9.7
+        },
+        {
+          "position": 7,
+          "name": "Ropfkhrieto",
+          "party": "Independent",
+          "votes": 89,
+          "votes_percentage": 1.4
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 7499,
+        "total_votes_polled": 5256,
+        "turnout_percentage": 70.1,
+        "margin_votes": 70,
+        "margin_percentage": 1.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Setu",
+          "party": "Independent",
+          "votes": 1926,
+          "votes_percentage": 37.5
+        },
+        {
+          "position": 2,
+          "name": "Tsolie",
+          "party": "United Democratic Front",
+          "votes": 1856,
+          "votes_percentage": 36.2
+        },
+        {
+          "position": 3,
+          "name": "Ngutsonyu Angami",
+          "party": "National Convention Of Nagaland",
+          "votes": 1051,
+          "votes_percentage": 20.5
+        },
+        {
+          "position": 4,
+          "name": "Kouhie",
+          "party": "Independent",
+          "votes": 301,
+          "votes_percentage": 5.9
+        }
+      ]
+    }
+  }
+}

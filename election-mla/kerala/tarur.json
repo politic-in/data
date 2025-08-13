@@ -1,0 +1,141 @@
+{
+  "state": "Kerala",
+  "constituency": "Tarur",
+  "district": "Palakkad",
+  "ac_type": "SC",
+  "results": {
+    "2021": {
+      "poll_date": "06 April 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 164354,
+        "total_votes_polled": 130407,
+        "turnout_percentage": 79.9,
+        "margin_votes": 24531,
+        "margin_percentage": 18.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "P.P.Sumod",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 67744,
+          "votes_percentage": 52.0
+        },
+        {
+          "position": 2,
+          "name": "K.A.Sheeba",
+          "party": "Indian National Congress",
+          "votes": 43213,
+          "votes_percentage": 33.1
+        },
+        {
+          "position": 3,
+          "name": "Jayaprakasan K.P.",
+          "party": "Bharatiya Janta Party",
+          "votes": 18465,
+          "votes_percentage": 14.2
+        },
+        {
+          "position": 4,
+          "name": "C.A.Ushakumari",
+          "party": "Welfare Party Of India",
+          "votes": 985,
+          "votes_percentage": 0.8
+        }
+      ]
+    },
+    "2016": {
+      "poll_date": "16 May 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 163539,
+        "total_votes_polled": 127182,
+        "turnout_percentage": 78.5,
+        "margin_votes": 23068,
+        "margin_percentage": 18.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "A.K.Balan",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 67047,
+          "votes_percentage": 52.7
+        },
+        {
+          "position": 2,
+          "name": "C.Prakash",
+          "party": "Indian National Congress",
+          "votes": 43979,
+          "votes_percentage": 34.6
+        },
+        {
+          "position": 3,
+          "name": "K V Divakaran",
+          "party": "Bharatiya Janta Party",
+          "votes": 15493,
+          "votes_percentage": 12.2
+        },
+        {
+          "position": 4,
+          "name": "Narayanankutty K T",
+          "party": "Bahujan Samaj Party",
+          "votes": 663,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "13 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 149389,
+        "total_votes_polled": 112288,
+        "turnout_percentage": 75.2,
+        "margin_votes": 25756,
+        "margin_percentage": 22.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "A. K. Balan",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 64175,
+          "votes_percentage": 57.2
+        },
+        {
+          "position": 2,
+          "name": "N. Vinesh",
+          "party": "Kerala Congress (Jacob)",
+          "votes": 38419,
+          "votes_percentage": 34.2
+        },
+        {
+          "position": 3,
+          "name": "M. Lakshmanan",
+          "party": "Bharatiya Janta Party",
+          "votes": 5385,
+          "votes_percentage": 4.8
+        },
+        {
+          "position": 4,
+          "name": "P.C.Narayanankutty",
+          "party": "Bahujan Samaj Party",
+          "votes": 2346,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 5,
+          "name": "K. Vinesh",
+          "party": "Independent",
+          "votes": 1963,
+          "votes_percentage": 1.8
+        }
+      ]
+    }
+  }
+}

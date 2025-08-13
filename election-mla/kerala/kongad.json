@@ -1,0 +1,141 @@
+{
+  "state": "Kerala",
+  "constituency": "Kongad",
+  "district": "Palakkad",
+  "ac_type": "SC",
+  "results": {
+    "2021": {
+      "poll_date": "06 April 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 174578,
+        "total_votes_polled": 137555,
+        "turnout_percentage": 79.3,
+        "margin_votes": 27219,
+        "margin_percentage": 19.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Santhakumari K",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 67881,
+          "votes_percentage": 49.4
+        },
+        {
+          "position": 2,
+          "name": "U C Raman",
+          "party": "Indian Union Muslim League",
+          "votes": 40662,
+          "votes_percentage": 29.6
+        },
+        {
+          "position": 3,
+          "name": "Suresh Babu M",
+          "party": "Bharatiya Janta Party",
+          "votes": 27661,
+          "votes_percentage": 20.1
+        },
+        {
+          "position": 4,
+          "name": "Guruvayoorappan P E",
+          "party": "Bahujan Samaj Party",
+          "votes": 1351,
+          "votes_percentage": 1.0
+        }
+      ]
+    },
+    "2016": {
+      "poll_date": "16 May 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 173274,
+        "total_votes_polled": 132898,
+        "turnout_percentage": 77.4,
+        "margin_votes": 13271,
+        "margin_percentage": 10.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "K.V.Vijayadas",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 60790,
+          "votes_percentage": 45.7
+        },
+        {
+          "position": 2,
+          "name": "Pandalam Sudhakaran",
+          "party": "Indian National Congress",
+          "votes": 47519,
+          "votes_percentage": 35.8
+        },
+        {
+          "position": 3,
+          "name": "Renu Suresh",
+          "party": "Bharatiya Janta Party",
+          "votes": 23800,
+          "votes_percentage": 17.9
+        },
+        {
+          "position": 4,
+          "name": "Ramesh P.V Kannampariyaram",
+          "party": "Bahujan Samaj Party",
+          "votes": 789,
+          "votes_percentage": 0.6
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "13 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 155792,
+        "total_votes_polled": 113483,
+        "turnout_percentage": 72.8,
+        "margin_votes": 3565,
+        "margin_percentage": 3.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "K.V.Vijayadas",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 52920,
+          "votes_percentage": 46.6
+        },
+        {
+          "position": 2,
+          "name": "P.Swaminathan",
+          "party": "Indian National Congress",
+          "votes": 49355,
+          "votes_percentage": 43.5
+        },
+        {
+          "position": 3,
+          "name": "V.Devayani",
+          "party": "Bharatiya Janta Party",
+          "votes": 8467,
+          "votes_percentage": 7.5
+        },
+        {
+          "position": 4,
+          "name": "Vijayadasan",
+          "party": "Independent",
+          "votes": 1543,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 5,
+          "name": "K. Velayudhan",
+          "party": "Bahujan Samaj Party",
+          "votes": 1198,
+          "votes_percentage": 1.1
+        }
+      ]
+    }
+  }
+}

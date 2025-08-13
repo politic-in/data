@@ -1,0 +1,45 @@
+{
+  "state": "Manipur",
+  "year": "1984",
+  "summary_stats": {
+    "total_electors_state": 1014071,
+    "total_votes_polled_state": 869614,
+    "turnout_percentage_state": 85.8,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Inner Manipur",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Manipur",
+      "winning_candidate": "N.Tombi Singh",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 514101,
+      "total_votes_ac": 441797,
+      "poll_percentage_ac": 0.0,
+      "margin": 14729,
+      "margin_percentage": 3.3,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1984/manipur/inner-manipur/3704/24/8"
+    },
+    {
+      "ac_name": "Outer Manipur",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Manipur",
+      "winning_candidate": "Meijinlung",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 499970,
+      "total_votes_ac": 427817,
+      "poll_percentage_ac": 0.0,
+      "margin": 40892,
+      "margin_percentage": 9.6,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1984/manipur/outer-manipur/3705/24/8"
+    }
+  ]
+}

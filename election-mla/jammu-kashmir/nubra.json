@@ -1,0 +1,66 @@
+{
+  "state": "Jammu & Kashmir",
+  "constituency": "Nubra",
+  "district": "Leh (Ladakh)",
+  "ac_type": "GEN",
+  "results": {
+    "2014": {
+      "poll_date": "20 December 2014",
+      "counting_date": "24 December 2014",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 13054,
+        "total_votes_polled": 10358,
+        "turnout_percentage": 79.4,
+        "total_valid_votes": 10309,
+        "total_valid_votes_percentage": 79.0,
+        "margin_votes": 1618,
+        "margin_percentage": 15.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Deldan Namgail",
+          "party": "Indian National Congress",
+          "votes": 3936,
+          "votes_percentage": 38.0
+        },
+        {
+          "position": 2,
+          "name": "Tsetan Namgyal",
+          "party": "Jammu & Kashmir National Conference",
+          "votes": 2318,
+          "votes_percentage": 22.4
+        },
+        {
+          "position": 3,
+          "name": "Stanzin Delik",
+          "party": "Bharatiya Janta Party",
+          "votes": 1947,
+          "votes_percentage": 18.8
+        },
+        {
+          "position": 4,
+          "name": "Tashi Gyalson",
+          "party": "Jammu & Kashmir Peoples Democratic Party",
+          "votes": 1415,
+          "votes_percentage": 13.7
+        },
+        {
+          "position": 5,
+          "name": "Tsewang Rigzin",
+          "party": "Independent",
+          "votes": 534,
+          "votes_percentage": 5.2
+        },
+        {
+          "position": 6,
+          "name": "Nisar Hussain",
+          "party": "Independent",
+          "votes": 159,
+          "votes_percentage": 1.5
+        }
+      ]
+    }
+  }
+}

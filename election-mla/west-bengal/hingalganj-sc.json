@@ -1,0 +1,57 @@
+{
+  "state": "West Bengal",
+  "constituency": "HINGALGANJ (SC)",
+  "district": "North Twenty Four Parganas",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 211731,
+        "total_votes_polled": 176917,
+        "turnout_percentage": 84.4,
+        "margin_votes": 30304,
+        "margin_percentage": 17.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Debes Mandal",
+          "party": "All India Trinamool Congress",
+          "votes": 94753,
+          "votes_percentage": 53.6
+        },
+        {
+          "position": 2,
+          "name": "Anandamay Mandal",
+          "party": "Communist Party Of India",
+          "votes": 64449,
+          "votes_percentage": 36.4
+        },
+        {
+          "position": 3,
+          "name": "Labanya Mondal",
+          "party": "Bharatiya Janta Party",
+          "votes": 14327,
+          "votes_percentage": 8.1
+        },
+        {
+          "position": 4,
+          "name": "Gayen Ranjit",
+          "party": "Independent",
+          "votes": 1921,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Nitish Kumar Biswas",
+          "party": "Bahujan Samaj Party",
+          "votes": 1467,
+          "votes_percentage": 0.8
+        }
+      ]
+    }
+  }
+}

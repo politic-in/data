@@ -1,0 +1,71 @@
+{
+  "state": "Kerala",
+  "constituency": "CHATHANNUR",
+  "district": "Kollam",
+  "ac_type": "GEN",
+  "results": {
+    "2011": {
+      "poll_date": "13 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 160775,
+        "total_votes_polled": 114298,
+        "turnout_percentage": 71.1,
+        "margin_votes": 12589,
+        "margin_percentage": 11.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "G.S.Jayalal",
+          "party": "Communist Party Of India",
+          "votes": 60187,
+          "votes_percentage": 52.7
+        },
+        {
+          "position": 2,
+          "name": "Adv: Bindu Krishna",
+          "party": "Indian National Congress",
+          "votes": 47598,
+          "votes_percentage": 41.6
+        },
+        {
+          "position": 3,
+          "name": "Adv:kizhakkanela Sudhakaran",
+          "party": "Bharatiya Janta Party",
+          "votes": 3839,
+          "votes_percentage": 3.4
+        },
+        {
+          "position": 4,
+          "name": "A.Sasi",
+          "party": "Independent",
+          "votes": 1134,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Jayalal",
+          "party": "Independent",
+          "votes": 763,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Mailode Sudhan",
+          "party": "Bahujan Samaj Party",
+          "votes": 490,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Sasikumar",
+          "party": "Shiv Sena",
+          "votes": 287,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

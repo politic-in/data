@@ -1,0 +1,164 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "Triveniganj (SC)",
+  "district": "Supaul",
+  "ac_type": "",
+  "results": {
+    "2020": {
+      "poll_date": "28 October 2020",
+      "counting_date": "10 November 2020",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 269961,
+        "total_votes_polled": 173662,
+        "turnout_percentage": 65.6,
+        "margin_votes": 3031,
+        "margin_percentage": 1.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Veena Bharti",
+          "party": "Janata Dal (United)",
+          "votes": 79458,
+          "votes_percentage": 45.8
+        },
+        {
+          "position": 2,
+          "name": "Santosh Kumar",
+          "party": "Rashtriya Janata Dal",
+          "votes": 76427,
+          "votes_percentage": 44.0
+        },
+        {
+          "position": 3,
+          "name": "Renu Lata Bharti",
+          "party": "Lok Jan Shakti Party",
+          "votes": 5194,
+          "votes_percentage": 3.0
+        },
+        {
+          "position": 4,
+          "name": "Rabindra Kumar Chaupal",
+          "party": "Vanchit Bahujan Aaghadi",
+          "votes": 3002,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 5,
+          "name": "Ranjan Kumar Sardar",
+          "party": "Jai Maha Bharath Party",
+          "votes": 2629,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 6,
+          "name": "Shankar Kumar Suman",
+          "party": "Lokpriya Samaj Party",
+          "votes": 2372,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 7,
+          "name": "Sikendra Paswan",
+          "party": "Mazdoor Kirayedar Vikas Party",
+          "votes": 2123,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 8,
+          "name": "Jay Prakash Paswan",
+          "party": "Jantantrik Vikas Party",
+          "votes": 1571,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 9,
+          "name": "Jitendra Ram",
+          "party": "Republican Party Of India (Rashtriya)",
+          "votes": 886,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "2015": {
+      "poll_date": "05 November 2015",
+      "counting_date": "08 November 2015",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 257034,
+        "total_votes_polled": 156215,
+        "turnout_percentage": 60.8,
+        "total_valid_votes": 149660,
+        "total_valid_votes_percentage": 58.2,
+        "margin_votes": 52400,
+        "margin_percentage": 33.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Veena Bharti",
+          "party": "Janata Dal (United)",
+          "votes": 89869,
+          "votes_percentage": 57.5
+        },
+        {
+          "position": 2,
+          "name": "Anant Kumar Bharti",
+          "party": "Lok Jan Shakti Party",
+          "votes": 37469,
+          "votes_percentage": 24.0
+        },
+        {
+          "position": 3,
+          "name": "Amla Devi",
+          "party": "Jan Adhikar Party (Loktantrik)",
+          "votes": 7340,
+          "votes_percentage": 4.7
+        },
+        {
+          "position": 4,
+          "name": "Sanjay Sardar",
+          "party": "Independent",
+          "votes": 3996,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 5,
+          "name": "Subash Rajak",
+          "party": "Bharat Nirman Party",
+          "votes": 3774,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 6,
+          "name": "Ram Narayan Chaupal",
+          "party": "Samajwadi Janata Dal Democratic",
+          "votes": 2390,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 7,
+          "name": "Mahendra Ram",
+          "party": "Bahujan Samaj Party",
+          "votes": 1824,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 8,
+          "name": "Upender Sideo",
+          "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+          "votes": 1690,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 9,
+          "name": "Ramesh Kumar Sardar",
+          "party": "The National Road Map Party Of India",
+          "votes": 1308,
+          "votes_percentage": 0.8
+        }
+      ]
+    }
+  }
+}

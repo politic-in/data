@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 110266,
+        "male": 119594,
+        "percentage_of_total_population": 16.81,
+        "percentage_of_total_population_calculated": 16.81,
+        "percentage_of_total_population_stated": 16.81,
+        "sex_ratio": 922,
+        "total": 229860
+    },
+    "literacy": {
+        "female_literacy_rate": 62.08,
+        "female_literate": 328076,
+        "male_literacy_rate": 77.74,
+        "male_literate": 473741,
+        "rate_percentage": 70.46,
+        "total_literate": 801817
+    },
+    "population": {
+        "female": 638724,
+        "male": 729041,
+        "sex_ratio": 876,
+        "total": 1367765
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 95
+        },
+        "Christian": {
+            "percentage": 0.13,
+            "population": 1815
+        },
+        "Hindu": {
+            "percentage": 91.56,
+            "population": 1252319
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 145
+        },
+        "Muslims": {
+            "percentage": 8.07,
+            "population": 110416
+        },
+        "Not Stated": {
+            "percentage": 0.19,
+            "population": 2576
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 61
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 338
+        }
+    },
+    "rural": {
+        "child_population_female": 84950,
+        "child_population_male": 91677,
+        "child_population_percentage": 17.88,
+        "child_population_percentage_calculated": 17.88,
+        "child_population_percentage_stated": 17.88,
+        "child_population_total": 176627,
+        "child_sex_ratio": 927,
+        "female": 460346,
+        "literacy_rate_female": 56.68,
+        "literacy_rate_male": 74.43,
+        "literacy_rate_percentage": 66.22,
+        "literate_female": 212780,
+        "literate_male": 324241,
+        "literate_total": 537021,
+        "male": 527299,
+        "percentage_population": 72.21,
+        "population": 987645,
+        "sex_ratio": 873
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/78-munger.html",
+    "urban": {
+        "child_population_female": 25299,
+        "child_population_male": 27934,
+        "child_population_percentage": 14.0,
+        "child_population_percentage_calculated": 14.0,
+        "child_population_percentage_stated": 14.0,
+        "child_population_total": 53233,
+        "child_sex_ratio": 906,
+        "female": 178378,
+        "literacy_rate_female": 75.32,
+        "literacy_rate_male": 86.01,
+        "literacy_rate_percentage": 81.01,
+        "literate_female": 115296,
+        "literate_male": 149500,
+        "literate_total": 264796,
+        "male": 201742,
+        "percentage_population": 27.79,
+        "population": 380120,
+        "sex_ratio": 884
+    }
+}

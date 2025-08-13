@@ -1,0 +1,55 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "AZAMGARH DISTRICT (EAST) CUM BALLIA DISTRICT (WEST)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 383060,
+        "total_votes_polled": 153266,
+        "turnout_percentage": 40.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Algu Rai Shastri",
+          "party": "Indian National Congress",
+          "votes": 47559,
+          "votes_percentage": 31.0
+        },
+        {
+          "position": 2,
+          "name": "Zainul Abdin Ahmad",
+          "party": "Communist Party Of India",
+          "votes": 40296,
+          "votes_percentage": 26.3
+        },
+        {
+          "position": 3,
+          "name": "Faridul Haq Ansari",
+          "party": "Socialist Party",
+          "votes": 33402,
+          "votes_percentage": 21.8
+        },
+        {
+          "position": 4,
+          "name": "Baij Nath",
+          "party": "Independent",
+          "votes": 27277,
+          "votes_percentage": 17.8
+        },
+        {
+          "position": 5,
+          "name": "Ram Nath",
+          "party": "Akhil Bharatiya Hindu Mahasabha",
+          "votes": 4732,
+          "votes_percentage": 3.1
+        }
+      ]
+    }
+  }
+}

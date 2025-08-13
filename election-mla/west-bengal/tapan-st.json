@@ -1,0 +1,64 @@
+{
+  "state": "West Bengal",
+  "constituency": "TAPAN (ST)",
+  "district": "Dakshin Dinajpur",
+  "ac_type": "ST",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 190061,
+        "total_votes_polled": 165387,
+        "turnout_percentage": 89.2,
+        "margin_votes": 4401,
+        "margin_percentage": 2.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bachchu Hansda",
+          "party": "All India Trinamool Congress",
+          "votes": 72511,
+          "votes_percentage": 43.8
+        },
+        {
+          "position": 2,
+          "name": "Urow Raghu",
+          "party": "Revolutionary Socialist Party",
+          "votes": 68110,
+          "votes_percentage": 41.2
+        },
+        {
+          "position": 3,
+          "name": "Krishna Kujur",
+          "party": "Bharatiya Janta Party",
+          "votes": 20510,
+          "votes_percentage": 12.4
+        },
+        {
+          "position": 4,
+          "name": "Bablu Kisku",
+          "party": "Bahujan Samaj Party",
+          "votes": 1913,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 5,
+          "name": "Ekka Kalicharan",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1298,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Ram Kisku",
+          "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+          "votes": 1045,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

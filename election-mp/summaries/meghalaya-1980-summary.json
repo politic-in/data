@@ -1,0 +1,45 @@
+{
+  "state": "Meghalaya",
+  "year": "1980",
+  "summary_stats": {
+    "total_electors_state": 225582,
+    "total_votes_polled_state": 115575,
+    "turnout_percentage_state": 51.2,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Shillong",
+      "ac_no": 1,
+      "ac_type": "ST",
+      "district": "Meghalaya",
+      "winning_candidate": "Data Not Available",
+      "winning_party": "-",
+      "total_electors_ac": 0,
+      "total_votes_ac": 0,
+      "poll_percentage_ac": 0.0,
+      "margin": 0,
+      "margin_percentage": 0.0,
+      "detail_url": ""
+    },
+    {
+      "ac_name": "Tura",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Meghalaya",
+      "winning_candidate": "Puron A. Sangma",
+      "winning_party": "Indian National Congress (I)",
+      "total_electors_ac": 225582,
+      "total_votes_ac": 115575,
+      "poll_percentage_ac": 0.0,
+      "margin": 69249,
+      "margin_percentage": 59.9,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1980/meghalaya/tura/3165/44/7"
+    }
+  ]
+}

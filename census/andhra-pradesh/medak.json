@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 179282,
+        "male": 188321,
+        "percentage_of_total_population": 12.12,
+        "percentage_of_total_population_calculated": 12.12,
+        "percentage_of_total_population_stated": 12.12,
+        "sex_ratio": 952,
+        "total": 367603
+    },
+    "literacy": {
+        "female_literacy_rate": 51.37,
+        "female_literate": 683731,
+        "male_literacy_rate": 71.43,
+        "male_literate": 953406,
+        "rate_percentage": 61.42,
+        "total_literate": 1637137
+    },
+    "population": {
+        "female": 1510258,
+        "male": 1523030,
+        "sex_ratio": 992,
+        "total": 3033288
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 554
+        },
+        "Christian": {
+            "percentage": 1.13,
+            "population": 34301
+        },
+        "Hindu": {
+            "percentage": 86.95,
+            "population": 2637313
+        },
+        "Jain": {
+            "percentage": 0.02,
+            "population": 457
+        },
+        "Muslims": {
+            "percentage": 11.29,
+            "population": 342449
+        },
+        "Not Stated": {
+            "percentage": 0.55,
+            "population": 16688
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 217
+        },
+        "Sikh": {
+            "percentage": 0.04,
+            "population": 1309
+        }
+    },
+    "rural": {
+        "child_population_female": 136239,
+        "child_population_male": 143238,
+        "child_population_percentage": 12.12,
+        "child_population_percentage_calculated": 12.12,
+        "child_population_percentage_stated": 12.12,
+        "child_population_total": 279477,
+        "child_sex_ratio": 951,
+        "female": 1152611,
+        "literacy_rate_female": 45.27,
+        "literacy_rate_male": 66.8,
+        "literacy_rate_percentage": 56.0,
+        "literate_female": 460073,
+        "literate_male": 674416,
+        "literate_total": 1134489,
+        "male": 1152806,
+        "percentage_population": 76.0,
+        "population": 2305417,
+        "sex_ratio": 1000
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/121-medak.html",
+    "urban": {
+        "child_population_female": 43052,
+        "child_population_male": 45074,
+        "child_population_percentage": 12.11,
+        "child_population_percentage_calculated": 12.11,
+        "child_population_percentage_stated": 12.11,
+        "child_population_total": 88126,
+        "child_sex_ratio": 955,
+        "female": 357647,
+        "literacy_rate_female": 71.09,
+        "literacy_rate_male": 85.8,
+        "literacy_rate_percentage": 78.57,
+        "literate_female": 223658,
+        "literate_male": 278990,
+        "literate_total": 502648,
+        "male": 370224,
+        "percentage_population": 24.0,
+        "population": 727871,
+        "sex_ratio": 966
+    }
+}

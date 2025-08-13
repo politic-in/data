@@ -1,0 +1,50 @@
+{
+  "state": "Mizoram",
+  "constituency": "WESTTUIPUI",
+  "district": "Lunglei",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 13963,
+        "total_votes_polled": 12847,
+        "turnout_percentage": 92.9,
+        "margin_votes": 2385,
+        "margin_percentage": 18.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nihar Kanti Chakma",
+          "party": "Indian National Congress",
+          "votes": 5943,
+          "votes_percentage": 46.3
+        },
+        {
+          "position": 2,
+          "name": "Kina Ranjan Chakma",
+          "party": "Bharatiya Janta Party",
+          "votes": 3558,
+          "votes_percentage": 27.7
+        },
+        {
+          "position": 3,
+          "name": "F Robert Hmingthansanga",
+          "party": "Mizo National Front",
+          "votes": 3243,
+          "votes_percentage": 25.2
+        },
+        {
+          "position": 4,
+          "name": "B Vanlalauva",
+          "party": "Independent",
+          "votes": 103,
+          "votes_percentage": 0.8
+        }
+      ]
+    }
+  }
+}

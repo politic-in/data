@@ -1,0 +1,134 @@
+{
+  "state": "Mizoram",
+  "constituency": "Champhai South",
+  "district": "Champhai",
+  "ac_type": "ST",
+  "results": {
+    "2023": {
+      "poll_date": "07 November 2023",
+      "counting_date": "04 December 2023",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 43062,
+        "total_votes_polled": 17273,
+        "turnout_percentage": 40.3,
+        "margin_votes": 329,
+        "margin_percentage": 1.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Lt Col. Clement Lalhmingthanga",
+          "party": "Zoram People’s Movement",
+          "votes": 7323,
+          "votes_percentage": 42.2
+        },
+        {
+          "position": 2,
+          "name": "T.J Lalnuntluanga",
+          "party": "Mizo National Front",
+          "votes": 6994,
+          "votes_percentage": 40.3
+        },
+        {
+          "position": 3,
+          "name": "Dr. Lallianchhunga",
+          "party": "Indian National Congress",
+          "votes": 2956,
+          "votes_percentage": 17.0
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "04 December 2013",
+      "counting_date": "09 December 2013",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 15590,
+        "total_votes_polled": 12624,
+        "turnout_percentage": 81.4,
+        "margin_votes": 1650,
+        "margin_percentage": 13.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jh.Rothuama",
+          "party": "Indian National Congress",
+          "votes": 5203,
+          "votes_percentage": 41.2
+        },
+        {
+          "position": 2,
+          "name": "Rosiamngheta",
+          "party": "Mizoram People's Conference",
+          "votes": 3553,
+          "votes_percentage": 28.1
+        },
+        {
+          "position": 3,
+          "name": "Vanlalneiha Ralte",
+          "party": "Zoram Nationalist Party",
+          "votes": 2471,
+          "votes_percentage": 19.6
+        },
+        {
+          "position": 4,
+          "name": "B .Sangkhumi",
+          "party": "Independent",
+          "votes": 1397,
+          "votes_percentage": 11.1
+        }
+      ]
+    },
+    "2008": {
+      "poll_date": "12 February 2008",
+      "counting_date": "12 August 2008",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 14822,
+        "total_votes_polled": 11888,
+        "turnout_percentage": 80.2,
+        "margin_votes": 1058,
+        "margin_percentage": 8.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jh.Rothuama",
+          "party": "Indian National Congress",
+          "votes": 5345,
+          "votes_percentage": 45.0
+        },
+        {
+          "position": 2,
+          "name": "Zoramthanga",
+          "party": "Mizo National Front",
+          "votes": 4287,
+          "votes_percentage": 36.1
+        },
+        {
+          "position": 3,
+          "name": "Lalhmingthangi Hmar",
+          "party": "Zoram Nationalist Party",
+          "votes": 2085,
+          "votes_percentage": 17.5
+        },
+        {
+          "position": 4,
+          "name": "Lalchhanhima",
+          "party": "Independent",
+          "votes": 124,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Tawnliana",
+          "party": "Lok Jan Shakti Party",
+          "votes": 47,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

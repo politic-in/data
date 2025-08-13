@@ -1,0 +1,85 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Masuuda",
+  "district": "Ajmer",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 251418,
+        "total_votes_polled": 183139,
+        "turnout_percentage": 73.5,
+        "margin_votes": 3374,
+        "margin_percentage": 1.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rakesh Pareek",
+          "party": "Indian National Congress",
+          "votes": 86008,
+          "votes_percentage": 47.0
+        },
+        {
+          "position": 2,
+          "name": "Sushil Kanwar",
+          "party": "Bharatiya Janta Party",
+          "votes": 82634,
+          "votes_percentage": 45.1
+        },
+        {
+          "position": 3,
+          "name": "Hazi Kayum Khan",
+          "party": "Rashtriya Loktantrik Party",
+          "votes": 6983,
+          "votes_percentage": 3.8
+        },
+        {
+          "position": 4,
+          "name": "Durga Lal",
+          "party": "Bahujan Samaj Party",
+          "votes": 4173,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 5,
+          "name": "Rakesh Pareek",
+          "party": "Independent",
+          "votes": 967,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Mahaveer Prasad",
+          "party": "Independent",
+          "votes": 792,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Mo. Yakub",
+          "party": "Aam Aadmi Party",
+          "votes": 608,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Shivram Singh",
+          "party": "Rajasthan Janta Party",
+          "votes": 574,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Ajamal Kathat",
+          "party": "Independent",
+          "votes": 400,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

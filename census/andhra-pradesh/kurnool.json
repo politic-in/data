@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 245022,
+        "male": 261217,
+        "percentage_of_total_population": 12.49,
+        "percentage_of_total_population_calculated": 12.49,
+        "percentage_of_total_population_stated": 12.49,
+        "sex_ratio": 938,
+        "total": 506239
+    },
+    "literacy": {
+        "female_literacy_rate": 49.78,
+        "female_literate": 880792,
+        "male_literacy_rate": 70.1,
+        "male_literate": 1246369,
+        "rate_percentage": 59.97,
+        "total_literate": 2127161
+    },
+    "population": {
+        "female": 2014236,
+        "male": 2039227,
+        "sex_ratio": 988,
+        "total": 4053463
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 255
+        },
+        "Christian": {
+            "percentage": 0.82,
+            "population": 33165
+        },
+        "Hindu": {
+            "percentage": 82.11,
+            "population": 3328380
+        },
+        "Jain": {
+            "percentage": 0.06,
+            "population": 2235
+        },
+        "Muslims": {
+            "percentage": 16.55,
+            "population": 670737
+        },
+        "Not Stated": {
+            "percentage": 0.43,
+            "population": 17520
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 434
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 737
+        }
+    },
+    "rural": {
+        "child_population_female": 180809,
+        "child_population_male": 192362,
+        "child_population_percentage": 12.85,
+        "child_population_percentage_calculated": 12.85,
+        "child_population_percentage_stated": 12.85,
+        "child_population_total": 373171,
+        "child_sex_ratio": 940,
+        "female": 1439608,
+        "literacy_rate_female": 43.61,
+        "literacy_rate_male": 66.15,
+        "literacy_rate_percentage": 54.94,
+        "literate_female": 548948,
+        "literate_male": 841511,
+        "literate_total": 1390459,
+        "male": 1464569,
+        "percentage_population": 71.65,
+        "population": 2904177,
+        "sex_ratio": 983
+    },
+    "sc_st_error": "Failed to parse SC/ST data from auto-found URL: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3D%2522Kurnool%2Bdistrict%2522%2B%2522Andhra%2BPradesh%2522%2BSC%2BST%2Bpopulation%2Bsite%253Acensusindia.gov.in%2BOR%2Bsite%253Acensusindia.co.in&ec=GAZAAQ",
+    "source_census2011": "https://www.census2011.co.in/census/district/138-kurnool.html",
+    "urban": {
+        "child_population_female": 64213,
+        "child_population_male": 68855,
+        "child_population_percentage": 11.58,
+        "child_population_percentage_calculated": 11.58,
+        "child_population_percentage_stated": 11.58,
+        "child_population_total": 133068,
+        "child_sex_ratio": 933,
+        "female": 574628,
+        "literacy_rate_female": 65.01,
+        "literacy_rate_male": 80.04,
+        "literacy_rate_percentage": 72.49,
+        "literate_female": 331844,
+        "literate_male": 404858,
+        "literate_total": 736702,
+        "male": 574658,
+        "percentage_population": 28.35,
+        "population": 1149286,
+        "sex_ratio": 1000
+    }
+}

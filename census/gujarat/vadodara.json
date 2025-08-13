@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 236337,
+        "male": 263474,
+        "percentage_of_total_population": 12.0,
+        "percentage_of_total_population_calculated": 12.0,
+        "percentage_of_total_population_stated": 12.0,
+        "sex_ratio": 897,
+        "total": 499811
+    },
+    "literacy": {
+        "female_literacy_rate": 72.03,
+        "female_literate": 1278993,
+        "male_literacy_rate": 85.39,
+        "male_literate": 1614087,
+        "rate_percentage": 78.92,
+        "total_literate": 2893080
+    },
+    "population": {
+        "female": 2011890,
+        "male": 2153736,
+        "sex_ratio": 934,
+        "total": 4165626
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.05,
+            "population": 2069
+        },
+        "Christian": {
+            "percentage": 0.57,
+            "population": 23813
+        },
+        "Hindu": {
+            "percentage": 89.16,
+            "population": 3713941
+        },
+        "Jain": {
+            "percentage": 0.66,
+            "population": 27650
+        },
+        "Muslims": {
+            "percentage": 9.23,
+            "population": 384579
+        },
+        "Not Stated": {
+            "percentage": 0.07,
+            "population": 3110
+        },
+        "Others": {
+            "percentage": 0.03,
+            "population": 1124
+        },
+        "Sikh": {
+            "percentage": 0.22,
+            "population": 9340
+        }
+    },
+    "rural": {
+        "child_population_female": 138859,
+        "child_population_male": 149899,
+        "child_population_percentage": 13.75,
+        "child_population_percentage_calculated": 13.75,
+        "child_population_percentage_stated": 13.75,
+        "child_population_total": 288758,
+        "child_sex_ratio": 926,
+        "female": 1021912,
+        "literacy_rate_female": 58.07,
+        "literacy_rate_male": 77.14,
+        "literacy_rate_percentage": 67.84,
+        "literate_female": 512748,
+        "literate_male": 715860,
+        "literate_total": 1228608,
+        "male": 1077943,
+        "percentage_population": 50.41,
+        "population": 2099855,
+        "sex_ratio": 948
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/200-vadodara.html",
+    "urban": {
+        "child_population_female": 97446,
+        "child_population_male": 113607,
+        "child_population_percentage": 10.22,
+        "child_population_percentage_calculated": 10.22,
+        "child_population_percentage_stated": 10.22,
+        "child_population_total": 211053,
+        "child_sex_ratio": 858,
+        "female": 989978,
+        "literacy_rate_female": 85.85,
+        "literacy_rate_male": 93.35,
+        "literacy_rate_percentage": 89.74,
+        "literate_female": 766245,
+        "literate_male": 898227,
+        "literate_total": 1664472,
+        "male": 1075793,
+        "percentage_population": 49.59,
+        "population": 2065771,
+        "sex_ratio": 920
+    }
+}

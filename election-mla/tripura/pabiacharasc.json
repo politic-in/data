@@ -1,0 +1,57 @@
+{
+  "state": "Tripura",
+  "constituency": "Pabiachara(SC)",
+  "district": "North Tripura",
+  "ac_type": "SC",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 45318,
+        "total_votes_polled": 41022,
+        "turnout_percentage": 91.4,
+        "margin_votes": 5827,
+        "margin_percentage": 14.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bhagaban Das",
+          "party": "Bharatiya Janta Party",
+          "votes": 22815,
+          "votes_percentage": 55.6
+        },
+        {
+          "position": 2,
+          "name": "Samiran Malakar",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 16988,
+          "votes_percentage": 41.4
+        },
+        {
+          "position": 3,
+          "name": "Swagata Das",
+          "party": "Indian National Congress",
+          "votes": 850,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 5,
+          "name": "Subrata Malakar",
+          "party": "Independent",
+          "votes": 193,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Pranesh Das",
+          "party": "Amra Bangalee",
+          "votes": 176,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "state": "Uttar Pradesh [2000 Onwards]",
+  "constituency": "Kerakat S.C.",
+  "district": "Jaunpur",
+  "ac_type": "SC",
+  "results": {
+    "2017": {
+      "poll_date": "04 March 2017",
+      "counting_date": "11 March 2017",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 388511,
+        "total_votes_polled": 224585,
+        "turnout_percentage": 58.5,
+        "margin_votes": 15259,
+        "margin_percentage": 6.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dinesh Chaudhary",
+          "party": "Bharatiya Janta Party",
+          "votes": 84078,
+          "votes_percentage": 37.0
+        },
+        {
+          "position": 2,
+          "name": "Sanjai Kumar Saroj",
+          "party": "Samajwadi Party",
+          "votes": 68819,
+          "votes_percentage": 30.3
+        },
+        {
+          "position": 3,
+          "name": "Urmila Raj",
+          "party": "Bahujan Samaj Party",
+          "votes": 66307,
+          "votes_percentage": 29.2
+        },
+        {
+          "position": 4,
+          "name": "Vijai",
+          "party": "Mahakranti Dal",
+          "votes": 2404,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Jitendra",
+          "party": "Pragatisheel Manav Samaj Party",
+          "votes": 1785,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Sadabrij",
+          "party": "Mahamukti Dal",
+          "votes": 1192,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Unukuru",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1989": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 130108,
+        "total_votes_polled": 101152,
+        "turnout_percentage": 77.7,
+        "margin_votes": 2237,
+        "margin_percentage": 2.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kimidi Kalavenkatarao",
+          "party": "Telugu Desam",
+          "votes": 49612,
+          "votes_percentage": 51.2
+        },
+        {
+          "position": 2,
+          "name": "Palavalasa Rajasekharam",
+          "party": "Indian National Congress",
+          "votes": 47375,
+          "votes_percentage": 48.9
+        }
+      ]
+    }
+  }
+}

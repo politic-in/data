@@ -1,0 +1,90 @@
+{
+    "district": "Thoothukkudi",
+    "state": "Tamil Nadu",
+    "source_census2011": "https://www.census2011.co.in/census/district/49-thoothukkudi.html",
+    "source_secondary": "https://www.censusindia.co.in/district/thoothukkudi-district-tamil-nadu-627",
+    "population": {
+        "total": 1750176,
+        "male": 865021,
+        "female": 885155,
+        "sex_ratio": 1023
+    },
+    "child_population": {
+        "total": 183763,
+        "male": 93605,
+        "female": 90158,
+        "sex_ratio": 963,
+        "percentage_of_total_population": 10.5,
+        "percentage_of_total_population_calculated": 10.5,
+        "percentage_of_total_population_stated": 10.5
+    },
+    "literacy": {
+        "rate_percentage": 86.16,
+        "male_literacy_rate": 91.14,
+        "female_literacy_rate": 81.33,
+        "total_literate": 1349697,
+        "male_literate": 703106,
+        "female_literate": 646591
+    },
+    "religion": {
+        "Hindu": {
+            "population": 1373920,
+            "percentage": 78.5
+        },
+        "Muslims": {
+            "population": 80740,
+            "percentage": 4.61
+        },
+        "Christian": {
+            "population": 291908,
+            "percentage": 16.68
+        },
+        "Sikh": {
+            "population": 127,
+            "percentage": 0.01
+        },
+        "Buddhist": {
+            "population": 286,
+            "percentage": 0.02
+        },
+        "Jain": {
+            "population": 53,
+            "percentage": 0.0
+        },
+        "Others": {
+            "population": 112,
+            "percentage": 0.01
+        },
+        "Not Stated": {
+            "population": 3030,
+            "percentage": 0.17
+        }
+    },
+    "rural": {
+        "population": 873374,
+        "male": 430361,
+        "female": 443013,
+        "sex_ratio": 1029,
+        "percentage_population": 0,
+        "literacy_rate_percentage": 82.16,
+        "literacy_rate_male": 0,
+        "literacy_rate_female": 0,
+        "literate_total": 642686,
+        "literate_male": 339739,
+        "literate_female": 302947
+    },
+    "urban": {
+        "population": 876802,
+        "male": 434660,
+        "female": 442142,
+        "sex_ratio": 1017,
+        "percentage_population": 0,
+        "literacy_rate_percentage": 90.16,
+        "literacy_rate_male": 0,
+        "literacy_rate_female": 0,
+        "literate_total": 707011,
+        "literate_male": 363367,
+        "literate_female": 343644
+    },
+    "sc_st_skipped_auto_find_failed": true
+}

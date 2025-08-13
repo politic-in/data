@@ -1,0 +1,92 @@
+{
+  "state": "Assam",
+  "constituency": "Halflong",
+  "district": "Dima Hasao",
+  "ac_type": "ST",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 137553,
+        "total_votes_polled": 118545,
+        "turnout_percentage": 86.9,
+        "margin_votes": 18598,
+        "margin_percentage": 15.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nandita Gorlosa",
+          "party": "Bharatiya Janta Party",
+          "votes": 67797,
+          "votes_percentage": 57.2
+        },
+        {
+          "position": 2,
+          "name": "Nirmal Langthasa",
+          "party": "Indian National Congress",
+          "votes": 49199,
+          "votes_percentage": 41.5
+        },
+        {
+          "position": 3,
+          "name": "Khandan Daulagupu",
+          "party": "Bhartiya Tribal Party",
+          "votes": 826,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 4,
+          "name": "Longki Enghi",
+          "party": "Janata Dal (United)",
+          "votes": 723,
+          "votes_percentage": 0.6
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "04 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 130390,
+        "total_votes_polled": 66757,
+        "turnout_percentage": 51.2,
+        "margin_votes": 25488,
+        "margin_percentage": 38.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gobinda Ch. Langthasa",
+          "party": "Indian National Congress",
+          "votes": 38076,
+          "votes_percentage": 57.0
+        },
+        {
+          "position": 2,
+          "name": "Kulendra Daulagupu",
+          "party": "Bharatiya Janta Party",
+          "votes": 12588,
+          "votes_percentage": 18.9
+        },
+        {
+          "position": 3,
+          "name": "Mohet Hojai",
+          "party": "Autonomous State Demand Committee",
+          "votes": 10361,
+          "votes_percentage": 15.5
+        },
+        {
+          "position": 4,
+          "name": "Ijirangbe Jeme",
+          "party": "Asom Gana Parisad",
+          "votes": 5732,
+          "votes_percentage": 8.6
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "state": "Andhra Pradesh",
+  "constituency": "Kotturu",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "1989": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 122825,
+        "total_votes_polled": 85404,
+        "turnout_percentage": 69.5,
+        "margin_votes": 1739,
+        "margin_percentage": 2.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gopalarao Nimmaka",
+          "party": "Telugu Desam",
+          "votes": 41190,
+          "votes_percentage": 50.6
+        },
+        {
+          "position": 2,
+          "name": "Viswasrai Narasimharao",
+          "party": "Indian National Congress",
+          "votes": 39451,
+          "votes_percentage": 48.4
+        },
+        {
+          "position": 3,
+          "name": "Savara Appaiah",
+          "party": "Independent",
+          "votes": 843,
+          "votes_percentage": 1.0
+        }
+      ]
+    }
+  }
+}

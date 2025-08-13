@@ -1,0 +1,71 @@
+{
+  "state": "Delhi [1977 Onwards]",
+  "constituency": "Tughlaquabad",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "1983": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 116331,
+        "total_votes_polled": 57981,
+        "turnout_percentage": 49.8,
+        "margin_votes": 25569,
+        "margin_percentage": 44.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Prem Singh",
+          "party": "Indian National Congress",
+          "votes": 36015,
+          "votes_percentage": 65.2
+        },
+        {
+          "position": 2,
+          "name": "Lekh Ram",
+          "party": "Lok Dal",
+          "votes": 10446,
+          "votes_percentage": 18.9
+        },
+        {
+          "position": 3,
+          "name": "Shabir Singh",
+          "party": "Janta Party",
+          "votes": 4756,
+          "votes_percentage": 8.6
+        },
+        {
+          "position": 4,
+          "name": "Ram Pal Singh",
+          "party": "Independent",
+          "votes": 2145,
+          "votes_percentage": 3.9
+        },
+        {
+          "position": 5,
+          "name": "Lahor Ram",
+          "party": "Independent",
+          "votes": 876,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 6,
+          "name": "Ram Niwas",
+          "party": "Independent",
+          "votes": 645,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 7,
+          "name": "Hoti Ram Balmiki",
+          "party": "Independent",
+          "votes": 380,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

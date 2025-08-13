@@ -1,0 +1,45 @@
+{
+  "state": "Meghalaya",
+  "year": "1998",
+  "summary_stats": {
+    "total_electors_state": 1157494,
+    "total_votes_polled_state": 860890,
+    "turnout_percentage_state": 74.4,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Shillong",
+      "ac_no": 1,
+      "ac_type": "ST",
+      "district": "Meghalaya",
+      "winning_candidate": "Paty Ripple Kyndiah",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 713395,
+      "total_votes_ac": 525796,
+      "poll_percentage_ac": 0.0,
+      "margin": 6012,
+      "margin_percentage": 1.1,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1998/meghalaya/shillong/5854/44/12"
+    },
+    {
+      "ac_name": "Tura",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Meghalaya",
+      "winning_candidate": "Purno Agitok Sangma",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 444099,
+      "total_votes_ac": 335094,
+      "poll_percentage_ac": 0.0,
+      "margin": 177659,
+      "margin_percentage": 53.0,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1998/meghalaya/tura/5855/44/12"
+    }
+  ]
+}

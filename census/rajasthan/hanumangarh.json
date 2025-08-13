@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 109505,
+        "male": 124721,
+        "percentage_of_total_population": 13.2,
+        "percentage_of_total_population_calculated": 13.2,
+        "percentage_of_total_population_stated": 13.2,
+        "sex_ratio": 878,
+        "total": 234226
+    },
+    "literacy": {
+        "female_literacy_rate": 55.84,
+        "female_literate": 409855,
+        "male_literacy_rate": 77.41,
+        "male_literate": 624281,
+        "rate_percentage": 67.13,
+        "total_literate": 1034136
+    },
+    "population": {
+        "female": 843508,
+        "male": 931184,
+        "sex_ratio": 906,
+        "total": 1774692
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 241
+        },
+        "Christian": {
+            "percentage": 0.09,
+            "population": 1542
+        },
+        "Hindu": {
+            "percentage": 80.75,
+            "population": 1433067
+        },
+        "Jain": {
+            "percentage": 0.11,
+            "population": 1935
+        },
+        "Muslims": {
+            "percentage": 6.69,
+            "population": 118673
+        },
+        "Not Stated": {
+            "percentage": 0.12,
+            "population": 2099
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 138
+        },
+        "Sikh": {
+            "percentage": 12.23,
+            "population": 216997
+        }
+    },
+    "rural": {
+        "child_population_female": 89393,
+        "child_population_male": 101170,
+        "child_population_percentage": 13.38,
+        "child_population_percentage_calculated": 13.38,
+        "child_population_percentage_stated": 13.38,
+        "child_population_total": 190563,
+        "child_sex_ratio": 884,
+        "female": 677341,
+        "literacy_rate_female": 53.12,
+        "literacy_rate_male": 75.94,
+        "literacy_rate_percentage": 65.06,
+        "literate_female": 312297,
+        "literate_male": 490362,
+        "literate_total": 802659,
+        "male": 746887,
+        "percentage_population": 80.25,
+        "population": 1424228,
+        "sex_ratio": 907
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/425-hanumangarh.html",
+    "urban": {
+        "child_population_female": 20093,
+        "child_population_male": 23570,
+        "child_population_percentage": 12.46,
+        "child_population_percentage_calculated": 12.46,
+        "child_population_percentage_stated": 12.46,
+        "child_population_total": 43663,
+        "child_sex_ratio": 852,
+        "female": 166167,
+        "literacy_rate_female": 66.79,
+        "literacy_rate_male": 83.32,
+        "literacy_rate_percentage": 75.45,
+        "literate_female": 97558,
+        "literate_male": 133919,
+        "literate_total": 231477,
+        "male": 184297,
+        "percentage_population": 19.75,
+        "population": 350464,
+        "sex_ratio": 902
+    }
+}

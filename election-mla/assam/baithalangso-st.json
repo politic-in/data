@@ -1,0 +1,50 @@
+{
+  "state": "Assam",
+  "constituency": "Baithalangso (ST)",
+  "district": "Karbi Anglong",
+  "ac_type": "ST",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 180203,
+        "total_votes_polled": 143129,
+        "turnout_percentage": 81.1,
+        "margin_votes": 9519,
+        "margin_percentage": 6.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr.Mansing Rongpi",
+          "party": "Indian National Congress",
+          "votes": 62596,
+          "votes_percentage": 43.7
+        },
+        {
+          "position": 2,
+          "name": "Arun Terang",
+          "party": "Bharatiya Janta Party",
+          "votes": 53077,
+          "votes_percentage": 37.1
+        },
+        {
+          "position": 3,
+          "name": "Holiram Terang",
+          "party": "Independent",
+          "votes": 25171,
+          "votes_percentage": 17.6
+        },
+        {
+          "position": 4,
+          "name": "Dhonsing Hanse",
+          "party": "Jan Congress Party",
+          "votes": 2285,
+          "votes_percentage": 1.6
+        }
+      ]
+    }
+  }
+}

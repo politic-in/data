@@ -1,0 +1,134 @@
+{
+  "state": "Kerala",
+  "constituency": "Chathannoor",
+  "district": "Kollam",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "06 April 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 180450,
+        "total_votes_polled": 136861,
+        "turnout_percentage": 76.2,
+        "margin_votes": 17206,
+        "margin_percentage": 12.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "G.S. Jayalal",
+          "party": "Communist Party Of India",
+          "votes": 59296,
+          "votes_percentage": 43.3
+        },
+        {
+          "position": 2,
+          "name": "B. B. Gopakumar",
+          "party": "Bharatiya Janta Party",
+          "votes": 42090,
+          "votes_percentage": 30.8
+        },
+        {
+          "position": 3,
+          "name": "N. Peethambarakurup",
+          "party": "Indian National Congress",
+          "votes": 34280,
+          "votes_percentage": 25.1
+        },
+        {
+          "position": 4,
+          "name": "Shanmughan Paravur",
+          "party": "Anna Democratic Human Rights Movement Party Of India",
+          "votes": 524,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 5,
+          "name": "Sunu Bhaskaran",
+          "party": "Bahujan Samaj Party",
+          "votes": 364,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 6,
+          "name": "Sethu",
+          "party": "Independent",
+          "votes": 172,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 7,
+          "name": "Varinjam Rajeev",
+          "party": "Independent",
+          "votes": 135,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2016": {
+      "poll_date": "16 May 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 178941,
+        "total_votes_polled": 132595,
+        "turnout_percentage": 74.4,
+        "margin_votes": 34407,
+        "margin_percentage": 25.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "G.S.Jayalal",
+          "party": "Communist Party Of India",
+          "votes": 67606,
+          "votes_percentage": 51.0
+        },
+        {
+          "position": 2,
+          "name": "B B Gopakumar",
+          "party": "Bharatiya Janta Party",
+          "votes": 33199,
+          "votes_percentage": 25.0
+        },
+        {
+          "position": 3,
+          "name": "Dr.Sooranad Rajasekharan",
+          "party": "Indian National Congress",
+          "votes": 30139,
+          "votes_percentage": 22.7
+        },
+        {
+          "position": 4,
+          "name": "Raju",
+          "party": "Independent",
+          "votes": 658,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "Salimraj A",
+          "party": "Bahujan Samaj Party",
+          "votes": 491,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Velayudhan Pillai",
+          "party": "Shiv Sena",
+          "votes": 290,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Jayakala L",
+          "party": "Ambedkarite Party Of India",
+          "votes": 212,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

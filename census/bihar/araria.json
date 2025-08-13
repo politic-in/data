@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 282594,
+        "male": 295292,
+        "percentage_of_total_population": 20.55,
+        "percentage_of_total_population_calculated": 20.55,
+        "percentage_of_total_population_stated": 20.55,
+        "sex_ratio": 957,
+        "total": 577886
+    },
+    "literacy": {
+        "female_literacy_rate": 43.93,
+        "female_literate": 468125,
+        "male_literacy_rate": 62.3,
+        "male_literate": 727643,
+        "rate_percentage": 53.53,
+        "total_literate": 1195768
+    },
+    "population": {
+        "female": 1348236,
+        "male": 1463333,
+        "sex_ratio": 921,
+        "total": 2811569
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 187
+        },
+        "Christian": {
+            "percentage": 0.15,
+            "population": 4116
+        },
+        "Hindu": {
+            "percentage": 56.68,
+            "population": 1593525
+        },
+        "Jain": {
+            "percentage": 0.07,
+            "population": 1910
+        },
+        "Muslims": {
+            "percentage": 42.95,
+            "population": 1207442
+        },
+        "Not Stated": {
+            "percentage": 0.14,
+            "population": 3955
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 63
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 371
+        }
+    },
+    "rural": {
+        "child_population_female": 268818,
+        "child_population_male": 280883,
+        "child_population_percentage": 20.8,
+        "child_population_percentage_calculated": 20.8,
+        "child_population_percentage_stated": 20.8,
+        "child_population_total": 549701,
+        "child_sex_ratio": 957,
+        "female": 1268538,
+        "literacy_rate_female": 42.5,
+        "literacy_rate_male": 61.24,
+        "literacy_rate_percentage": 52.29,
+        "literate_female": 424835,
+        "literate_male": 669568,
+        "literate_total": 1094403,
+        "male": 1374254,
+        "percentage_population": 94.0,
+        "population": 2642792,
+        "sex_ratio": 923
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/61-araria.html",
+    "urban": {
+        "child_population_female": 13753,
+        "child_population_male": 14432,
+        "child_population_percentage": 16.7,
+        "child_population_percentage_calculated": 16.7,
+        "child_population_percentage_stated": 16.7,
+        "child_population_total": 28185,
+        "child_sex_ratio": 953,
+        "female": 79698,
+        "literacy_rate_female": 65.65,
+        "literacy_rate_male": 77.8,
+        "literacy_rate_percentage": 72.1,
+        "literate_female": 43290,
+        "literate_male": 58075,
+        "literate_total": 101365,
+        "male": 89079,
+        "percentage_population": 6.0,
+        "population": 168777,
+        "sex_ratio": 895
+    }
+}

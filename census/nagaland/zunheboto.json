@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 9778,
+        "male": 10315,
+        "percentage_of_total_population": 14.27,
+        "percentage_of_total_population_calculated": 14.27,
+        "percentage_of_total_population_stated": 14.27,
+        "sex_ratio": 948,
+        "total": 20093
+    },
+    "literacy": {
+        "female_literacy_rate": 82.62,
+        "female_literate": 49377,
+        "male_literacy_rate": 87.85,
+        "male_literate": 53504,
+        "rate_percentage": 85.26,
+        "total_literate": 102881
+    },
+    "population": {
+        "female": 69540,
+        "male": 71217,
+        "sex_ratio": 976,
+        "total": 140757
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.2,
+            "population": 286
+        },
+        "Christian": {
+            "percentage": 97.33,
+            "population": 136995
+        },
+        "Hindu": {
+            "percentage": 1.83,
+            "population": 2580
+        },
+        "Jain": {
+            "percentage": 0.0,
+            "population": 6
+        },
+        "Muslims": {
+            "percentage": 0.55,
+            "population": 772
+        },
+        "Not Stated": {
+            "percentage": 0.05,
+            "population": 77
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 2
+        },
+        "Sikh": {
+            "percentage": 0.03,
+            "population": 39
+        }
+    },
+    "rural": {
+        "child_population_female": 7970,
+        "child_population_male": 8582,
+        "child_population_percentage": 14.63,
+        "child_population_percentage_calculated": 14.63,
+        "child_population_percentage_stated": 14.63,
+        "child_population_total": 16552,
+        "child_sex_ratio": 929,
+        "female": 56374,
+        "literacy_rate_female": 80.1,
+        "literacy_rate_male": 85.84,
+        "literacy_rate_percentage": 82.96,
+        "literate_female": 38772,
+        "literate_male": 41377,
+        "literate_total": 80149,
+        "male": 56786,
+        "percentage_population": 80.39,
+        "population": 113160,
+        "sex_ratio": 993
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/610-zunheboto.html",
+    "urban": {
+        "child_population_female": 1807,
+        "child_population_male": 1734,
+        "child_population_percentage": 12.83,
+        "child_population_percentage_calculated": 12.83,
+        "child_population_percentage_stated": 12.83,
+        "child_population_total": 3541,
+        "child_sex_ratio": 1042,
+        "female": 13166,
+        "literacy_rate_female": 93.36,
+        "literacy_rate_male": 95.51,
+        "literacy_rate_percentage": 94.5,
+        "literate_female": 10605,
+        "literate_male": 12127,
+        "literate_total": 22732,
+        "male": 14431,
+        "percentage_population": 19.61,
+        "population": 27597,
+        "sex_ratio": 912
+    }
+}

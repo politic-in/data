@@ -1,0 +1,41 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "MONGHYR NORTH WEST",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 216737,
+        "total_votes_polled": 115332,
+        "turnout_percentage": 53.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mathura Prasad Misra",
+          "party": "Indian National Congress",
+          "votes": 53473,
+          "votes_percentage": 46.4
+        },
+        {
+          "position": 2,
+          "name": "Brahamdeo Pd. Sinha",
+          "party": "Socialist Party",
+          "votes": 34345,
+          "votes_percentage": 29.8
+        },
+        {
+          "position": 3,
+          "name": "Chandra Sakhar Sinha",
+          "party": "Communist Party Of India",
+          "votes": 27514,
+          "votes_percentage": 23.9
+        }
+      ]
+    }
+  }
+}

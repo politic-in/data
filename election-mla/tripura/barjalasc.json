@@ -1,0 +1,57 @@
+{
+  "state": "Tripura",
+  "constituency": "Barjala(SC)",
+  "district": "West Tripura",
+  "ac_type": "SC",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 41951,
+        "total_votes_polled": 39005,
+        "turnout_percentage": 93.6,
+        "margin_votes": 6227,
+        "margin_percentage": 16.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dilip Kumar Das",
+          "party": "Bharatiya Janta Party",
+          "votes": 22052,
+          "votes_percentage": 56.5
+        },
+        {
+          "position": 2,
+          "name": "Jhumu Sarkar",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 15825,
+          "votes_percentage": 40.6
+        },
+        {
+          "position": 3,
+          "name": "Dipak Das",
+          "party": "Indian National Congress",
+          "votes": 650,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 4,
+          "name": "Utpal Das",
+          "party": "All India Trinamool Congress",
+          "votes": 293,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Sujit Mandal",
+          "party": "Independent",
+          "votes": 185,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

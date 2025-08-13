@@ -1,0 +1,101 @@
+{
+  "state": "Jammu & Kashmir",
+  "constituency": "Nobra",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2008": {
+      "poll_date": "23 November 2008",
+      "counting_date": "28 December 2008",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 12093,
+        "total_votes_polled": 8617,
+        "turnout_percentage": 71.3,
+        "margin_votes": 930,
+        "margin_percentage": 10.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tsetan Namgyal",
+          "party": "Independent",
+          "votes": 4608,
+          "votes_percentage": 53.5
+        },
+        {
+          "position": 2,
+          "name": "Tsewang Rigzin",
+          "party": "Indian National Congress",
+          "votes": 3678,
+          "votes_percentage": 42.7
+        },
+        {
+          "position": 3,
+          "name": "Urgain Chostak",
+          "party": "Independent",
+          "votes": 193,
+          "votes_percentage": 2.2
+        },
+        {
+          "position": 4,
+          "name": "Ahmad Shah",
+          "party": "Independent",
+          "votes": 138,
+          "votes_percentage": 1.6
+        }
+      ]
+    },
+    "2002": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 1,
+      "aggregate": {
+        "total_electors": 12244,
+        "total_votes_polled": 0,
+        "turnout_percentage": 0.0,
+        "total_valid_votes": 0,
+        "total_valid_votes_percentage": 0.0,
+        "margin_votes": 0,
+        "margin_percentage": 0.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sonam Wangchuk Narboo",
+          "party": "Independent",
+          "votes": 0,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "1996": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 9816,
+        "total_votes_polled": 6368,
+        "turnout_percentage": 64.9,
+        "margin_votes": 83,
+        "margin_percentage": 1.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tsetan Namgyal",
+          "party": "Jammu & Kashmir National Conference",
+          "votes": 3176,
+          "votes_percentage": 50.7
+        },
+        {
+          "position": 2,
+          "name": "Stanzin Tundup",
+          "party": "Indian National Congress",
+          "votes": 3093,
+          "votes_percentage": 49.3
+        }
+      ]
+    }
+  }
+}

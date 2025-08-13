@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 285773,
+        "male": 316120,
+        "percentage_of_total_population": 17.22,
+        "percentage_of_total_population_calculated": 17.22,
+        "percentage_of_total_population_stated": 17.22,
+        "sex_ratio": 904,
+        "total": 601893
+    },
+    "literacy": {
+        "female_literacy_rate": 56.73,
+        "female_literate": 774164,
+        "male_literacy_rate": 75.41,
+        "male_literate": 1152576,
+        "rate_percentage": 66.6,
+        "total_literate": 1926740
+    },
+    "population": {
+        "female": 1650486,
+        "male": 1844535,
+        "sex_ratio": 895,
+        "total": 3495021
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 362
+        },
+        "Christian": {
+            "percentage": 0.06,
+            "population": 2203
+        },
+        "Hindu": {
+            "percentage": 90.2,
+            "population": 3152346
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 246
+        },
+        "Muslims": {
+            "percentage": 9.56,
+            "population": 333980
+        },
+        "Not Stated": {
+            "percentage": 0.15,
+            "population": 5106
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 71
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 707
+        }
+    },
+    "rural": {
+        "child_population_female": 269017,
+        "child_population_male": 297503,
+        "child_population_percentage": 17.37,
+        "child_population_percentage_calculated": 17.37,
+        "child_population_percentage_stated": 17.37,
+        "child_population_total": 566520,
+        "child_sex_ratio": 904,
+        "female": 1540721,
+        "literacy_rate_female": 55.95,
+        "literacy_rate_male": 75.05,
+        "literacy_rate_percentage": 66.04,
+        "literate_female": 711484,
+        "literate_male": 1068503,
+        "literate_total": 1779987,
+        "male": 1721221,
+        "percentage_population": 93.33,
+        "population": 3261942,
+        "sex_ratio": 895
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/72-vaishali.html",
+    "urban": {
+        "child_population_female": 16747,
+        "child_population_male": 18626,
+        "child_population_percentage": 15.18,
+        "child_population_percentage_calculated": 15.18,
+        "child_population_percentage_stated": 15.18,
+        "child_population_total": 35373,
+        "child_sex_ratio": 899,
+        "female": 109765,
+        "literacy_rate_female": 67.38,
+        "literacy_rate_male": 80.31,
+        "literacy_rate_percentage": 74.23,
+        "literate_female": 62680,
+        "literate_male": 84073,
+        "literate_total": 146753,
+        "male": 123314,
+        "percentage_population": 6.67,
+        "population": 233079,
+        "sex_ratio": 890
+    }
+}

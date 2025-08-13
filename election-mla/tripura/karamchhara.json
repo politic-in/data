@@ -1,0 +1,71 @@
+{
+  "state": "Tripura",
+  "constituency": "KARAMCHHARA",
+  "district": "Dhalai",
+  "ac_type": "ST",
+  "results": {
+    "2013": {
+      "poll_date": "14 February 2013",
+      "counting_date": "28 February 2013",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 33941,
+        "total_votes_polled": 30963,
+        "turnout_percentage": 91.2,
+        "margin_votes": 1372,
+        "margin_percentage": 4.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Diba Chandra Hrangkhawl",
+          "party": "Indian National Congress",
+          "votes": 15411,
+          "votes_percentage": 49.8
+        },
+        {
+          "position": 2,
+          "name": "Gajendra Tripura",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 14039,
+          "votes_percentage": 45.3
+        },
+        {
+          "position": 3,
+          "name": "Chiranjoy Reang",
+          "party": "Independent",
+          "votes": 488,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 4,
+          "name": "Padma Bikash Tripura",
+          "party": "Bharatiya Janta Party",
+          "votes": 446,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 5,
+          "name": "Kalpa Mohan Tripura",
+          "party": "Independent",
+          "votes": 226,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Saimon Darlong",
+          "party": "Indigenous People's Front Of Tripura",
+          "votes": 208,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Khanna Marak",
+          "party": "Samajwadi Party",
+          "votes": 145,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

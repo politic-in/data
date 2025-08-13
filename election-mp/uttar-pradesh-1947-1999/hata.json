@@ -1,0 +1,97 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "HATA",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 430300,
+        "total_votes_polled": 224360,
+        "turnout_percentage": 52.1,
+        "margin_votes": 66305,
+        "margin_percentage": 29.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kashi Nath Pandey",
+          "party": "Indian National Congress",
+          "votes": 109999,
+          "votes_percentage": 49.0
+        },
+        {
+          "position": 2,
+          "name": "Vasudeo Pratap Narain Singh",
+          "party": "Jan Sangh",
+          "votes": 43694,
+          "votes_percentage": 19.5
+        },
+        {
+          "position": 3,
+          "name": "S. Shibban Lal",
+          "party": "Socialist",
+          "votes": 32720,
+          "votes_percentage": 14.6
+        },
+        {
+          "position": 4,
+          "name": "Anandeshwari",
+          "party": "Praja Socialist Party",
+          "votes": 30094,
+          "votes_percentage": 13.4
+        }
+      ]
+    },
+    "1957": {
+      "poll_date": "25 February 1957",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 416485,
+        "total_votes_polled": 173763,
+        "turnout_percentage": 41.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kashi Nath Pande",
+          "party": "Indian National Congress",
+          "votes": 81421,
+          "votes_percentage": 46.9
+        },
+        {
+          "position": 2,
+          "name": "Genda Singh",
+          "party": "Praja Socialist Party",
+          "votes": 37446,
+          "votes_percentage": 21.6
+        },
+        {
+          "position": 3,
+          "name": "Prof. Shibban Lal Saxena",
+          "party": "Independent",
+          "votes": 32484,
+          "votes_percentage": 18.7
+        },
+        {
+          "position": 4,
+          "name": "Rajendra",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 17180,
+          "votes_percentage": 9.9
+        },
+        {
+          "position": 5,
+          "name": "Madan Pal Singh",
+          "party": "Independent",
+          "votes": 5232,
+          "votes_percentage": 3.0
+        }
+      ]
+    }
+  }
+}

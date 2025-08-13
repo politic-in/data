@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 61155,
+        "male": 63439,
+        "percentage_of_total_population": 11.41,
+        "percentage_of_total_population_calculated": 11.41,
+        "percentage_of_total_population_stated": 11.41,
+        "sex_ratio": 964,
+        "total": 124594
+    },
+    "literacy": {
+        "female_literacy_rate": 76.45,
+        "female_literate": 362594,
+        "male_literacy_rate": 87.63,
+        "male_literate": 432335,
+        "rate_percentage": 82.15,
+        "total_literate": 794929
+    },
+    "population": {
+        "female": 535451,
+        "male": 556805,
+        "sex_ratio": 962,
+        "total": 1092256
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.22,
+            "population": 2378
+        },
+        "Christian": {
+            "percentage": 1.93,
+            "population": 21051
+        },
+        "Hindu": {
+            "percentage": 92.31,
+            "population": 1008219
+        },
+        "Jain": {
+            "percentage": 0.07,
+            "population": 719
+        },
+        "Muslims": {
+            "percentage": 5.01,
+            "population": 54684
+        },
+        "Not Stated": {
+            "percentage": 0.28,
+            "population": 3087
+        },
+        "Others": {
+            "percentage": 0.05,
+            "population": 578
+        },
+        "Sikh": {
+            "percentage": 0.14,
+            "population": 1540
+        }
+    },
+    "rural": {
+        "child_population_female": 50849,
+        "child_population_male": 52545,
+        "child_population_percentage": 11.86,
+        "child_population_percentage_calculated": 11.86,
+        "child_population_percentage_stated": 11.86,
+        "child_population_total": 103394,
+        "child_sex_ratio": 968,
+        "female": 428754,
+        "literacy_rate_female": 73.58,
+        "literacy_rate_male": 86.24,
+        "literacy_rate_percentage": 80.01,
+        "literate_female": 278050,
+        "literate_male": 336698,
+        "literate_total": 614748,
+        "male": 442968,
+        "percentage_population": 79.81,
+        "population": 871722,
+        "sex_ratio": 968
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/154-jorhat.html",
+    "urban": {
+        "child_population_female": 10317,
+        "child_population_male": 10883,
+        "child_population_percentage": 9.61,
+        "child_population_percentage_calculated": 9.61,
+        "child_population_percentage_stated": 9.61,
+        "child_population_total": 21200,
+        "child_sex_ratio": 948,
+        "female": 106697,
+        "literacy_rate_female": 87.72,
+        "literacy_rate_male": 92.89,
+        "literacy_rate_percentage": 90.39,
+        "literate_female": 84544,
+        "literate_male": 95637,
+        "literate_total": 180181,
+        "male": 113837,
+        "percentage_population": 20.19,
+        "population": 220534,
+        "sex_ratio": 937
+    }
+}

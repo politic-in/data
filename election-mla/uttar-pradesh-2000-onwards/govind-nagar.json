@@ -1,0 +1,64 @@
+{
+  "state": "Uttar Pradesh [2000 Onwards]",
+  "constituency": "GOVIND NAGAR",
+  "district": "Kanpur Nagar",
+  "ac_type": "GEN",
+  "results": {
+    "2022": {
+      "poll_date": "10 February 2022",
+      "counting_date": "10 March 2022",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 352534,
+        "total_votes_polled": 191108,
+        "turnout_percentage": 54.5,
+        "margin_votes": 80896,
+        "margin_percentage": 42.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Surendra Maithani",
+          "party": "Bharatiya Janta Party",
+          "votes": 117501,
+          "votes_percentage": 61.5
+        },
+        {
+          "position": 2,
+          "name": "Vikas Yadav",
+          "party": "Samajwadi Party",
+          "votes": 36605,
+          "votes_percentage": 19.2
+        },
+        {
+          "position": 3,
+          "name": "Karishma Thakur",
+          "party": "Indian National Congress",
+          "votes": 26267,
+          "votes_percentage": 13.7
+        },
+        {
+          "position": 4,
+          "name": "Ashok Kumar Kaliya",
+          "party": "Bahujan Samaj Party",
+          "votes": 8333,
+          "votes_percentage": 4.4
+        },
+        {
+          "position": 5,
+          "name": "Kawardeep Singh",
+          "party": "Aam Aadmi Party",
+          "votes": 2141,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Santosh Kumar Giri",
+          "party": "Proutist Bloc India",
+          "votes": 261,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

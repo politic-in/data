@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 58940,
+        "male": 61332,
+        "percentage_of_total_population": 11.21,
+        "percentage_of_total_population_calculated": 11.21,
+        "percentage_of_total_population_stated": 11.21,
+        "sex_ratio": 961,
+        "total": 120272
+    },
+    "literacy": {
+        "female_literacy_rate": 66.27,
+        "female_literate": 313255,
+        "male_literacy_rate": 82.31,
+        "male_literate": 395110,
+        "rate_percentage": 74.36,
+        "total_literate": 708365
+    },
+    "population": {
+        "female": 531614,
+        "male": 541328,
+        "sex_ratio": 982,
+        "total": 1072942
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 7.71,
+            "population": 82695
+        },
+        "Christian": {
+            "percentage": 0.36,
+            "population": 3872
+        },
+        "Hindu": {
+            "percentage": 86.44,
+            "population": 927411
+        },
+        "Jain": {
+            "percentage": 0.04,
+            "population": 454
+        },
+        "Muslims": {
+            "percentage": 1.96,
+            "population": 21063
+        },
+        "Not Stated": {
+            "percentage": 0.63,
+            "population": 6719
+        },
+        "Others": {
+            "percentage": 2.8,
+            "population": 30047
+        },
+        "Sikh": {
+            "percentage": 0.06,
+            "population": 681
+        }
+    },
+    "rural": {
+        "child_population_female": 53330,
+        "child_population_male": 55191,
+        "child_population_percentage": 11.36,
+        "child_population_percentage_calculated": 11.36,
+        "child_population_percentage_stated": 11.36,
+        "child_population_total": 108521,
+        "child_sex_ratio": 966,
+        "female": 473619,
+        "literacy_rate_female": 64.05,
+        "literacy_rate_male": 80.87,
+        "literacy_rate_percentage": 72.52,
+        "literate_female": 269178,
+        "literate_male": 344593,
+        "literate_total": 613771,
+        "male": 481290,
+        "percentage_population": 89.0,
+        "population": 954909,
+        "sex_ratio": 984
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/346-gadchiroli.html",
+    "urban": {
+        "child_population_female": 5622,
+        "child_population_male": 6129,
+        "child_population_percentage": 9.96,
+        "child_population_percentage_calculated": 9.96,
+        "child_population_percentage_stated": 9.96,
+        "child_population_total": 11751,
+        "child_sex_ratio": 917,
+        "female": 57995,
+        "literacy_rate_female": 84.16,
+        "literacy_rate_male": 93.71,
+        "literacy_rate_percentage": 89.0,
+        "literate_female": 44077,
+        "literate_male": 50517,
+        "literate_total": 94594,
+        "male": 60038,
+        "percentage_population": 11.0,
+        "population": 118033,
+        "sex_ratio": 966
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 10956,
+        "male": 11307,
+        "percentage_of_total_population": 11.12,
+        "percentage_of_total_population_calculated": 11.12,
+        "percentage_of_total_population_stated": 11.12,
+        "sex_ratio": 969,
+        "total": 22263
+    },
+    "literacy": {
+        "female_literacy_rate": 82.02,
+        "female_literate": 75013,
+        "male_literacy_rate": 92.37,
+        "male_literate": 79903,
+        "rate_percentage": 87.05,
+        "total_literate": 154916
+    },
+    "population": {
+        "female": 102413,
+        "male": 97809,
+        "sex_ratio": 1047,
+        "total": 200222
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.03,
+            "population": 63
+        },
+        "Christian": {
+            "percentage": 9.19,
+            "population": 18391
+        },
+        "Hindu": {
+            "percentage": 76.23,
+            "population": 152638
+        },
+        "Jain": {
+            "percentage": 0.03,
+            "population": 54
+        },
+        "Muslims": {
+            "percentage": 14.4,
+            "population": 28835
+        },
+        "Not Stated": {
+            "percentage": 0.09,
+            "population": 181
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 14
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 46
+        }
+    },
+    "rural": {
+        "child_population_female": 5609,
+        "child_population_male": 5902,
+        "child_population_percentage": 11.27,
+        "child_population_percentage_calculated": 11.27,
+        "child_population_percentage_stated": 11.27,
+        "child_population_total": 11511,
+        "child_sex_ratio": 950,
+        "female": 51982,
+        "literacy_rate_female": 79.54,
+        "literacy_rate_male": 90.91,
+        "literacy_rate_percentage": 85.09,
+        "literate_female": 36885,
+        "literate_male": 40216,
+        "literate_total": 77101,
+        "male": 50138,
+        "percentage_population": 51.0,
+        "population": 102120,
+        "sex_ratio": 1037
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/484-karaikal.html",
+    "urban": {
+        "child_population_female": 5347,
+        "child_population_male": 5405,
+        "child_population_percentage": 10.96,
+        "child_population_percentage_calculated": 10.96,
+        "child_population_percentage_stated": 10.96,
+        "child_population_total": 10752,
+        "child_sex_ratio": 989,
+        "female": 50431,
+        "literacy_rate_female": 84.57,
+        "literacy_rate_male": 93.9,
+        "literacy_rate_percentage": 89.08,
+        "literate_female": 38128,
+        "literate_male": 39687,
+        "literate_total": 77815,
+        "male": 47671,
+        "percentage_population": 49.0,
+        "population": 98102,
+        "sex_ratio": 1058
+    }
+}

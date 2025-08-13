@@ -1,0 +1,85 @@
+{
+  "state": "West Bengal",
+  "constituency": "ULUBERIA UTTAR (SC)",
+  "district": "Haora",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 198550,
+        "total_votes_polled": 163056,
+        "turnout_percentage": 83.1,
+        "margin_votes": 14182,
+        "margin_percentage": 8.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr. Nirmal Maji",
+          "party": "All India Trinamool Congress",
+          "votes": 79390,
+          "votes_percentage": 48.7
+        },
+        {
+          "position": 2,
+          "name": "Amiya Kumar Mondal",
+          "party": "Indian National Congress",
+          "votes": 65208,
+          "votes_percentage": 40.0
+        },
+        {
+          "position": 3,
+          "name": "Ananda Pandit",
+          "party": "Bharatiya Janta Party",
+          "votes": 13457,
+          "votes_percentage": 8.3
+        },
+        {
+          "position": 4,
+          "name": "Shyamapada Dhara",
+          "party": "Bahujan Samaj Party",
+          "votes": 1208,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Amiya Mondal",
+          "party": "Independent",
+          "votes": 1050,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Nirapada Pandit",
+          "party": "Independent",
+          "votes": 937,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Mahit Kar",
+          "party": "Indian Unity Centre",
+          "votes": 875,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Bimal Singha",
+          "party": "Independent",
+          "votes": 617,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Ajit Dutta",
+          "party": "Independent",
+          "votes": 314,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

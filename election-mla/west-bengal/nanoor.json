@@ -1,0 +1,85 @@
+{
+  "state": "West Bengal",
+  "constituency": "Nanoor",
+  "district": "Birbhum",
+  "ac_type": "SC",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 265933,
+        "total_votes_polled": 233179,
+        "turnout_percentage": 88.5,
+        "margin_votes": 6670,
+        "margin_percentage": 2.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bidhan Chandra Majhi",
+          "party": "All India Trinamool Congress",
+          "votes": 112116,
+          "votes_percentage": 48.1
+        },
+        {
+          "position": 2,
+          "name": "Tarakeswar Saha",
+          "party": "Bharatiya Janta Party",
+          "votes": 105446,
+          "votes_percentage": 45.2
+        },
+        {
+          "position": 3,
+          "name": "Shyamali Pradhan",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 12878,
+          "votes_percentage": 5.5
+        },
+        {
+          "position": 4,
+          "name": "Chandipada Das",
+          "party": "Bahujan Samaj Party",
+          "votes": 2739,
+          "votes_percentage": 1.2
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 217981,
+        "total_votes_polled": 186584,
+        "turnout_percentage": 85.6,
+        "margin_votes": 5863,
+        "margin_percentage": 3.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gadadhar Hazra",
+          "party": "All India Trinamool Congress",
+          "votes": 91818,
+          "votes_percentage": 49.2
+        },
+        {
+          "position": 2,
+          "name": "Shyamali Pradhan",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 85955,
+          "votes_percentage": 46.1
+        },
+        {
+          "position": 3,
+          "name": "Rajkumar Fulmali",
+          "party": "Bharatiya Janta Party",
+          "votes": 8811,
+          "votes_percentage": 4.7
+        }
+      ]
+    }
+  }
+}

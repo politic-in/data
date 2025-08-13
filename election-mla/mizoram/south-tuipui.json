@@ -1,0 +1,134 @@
+{
+  "state": "Mizoram",
+  "constituency": "South Tuipui",
+  "district": "Lunglei",
+  "ac_type": "ST",
+  "results": {
+    "2023": {
+      "poll_date": "07 November 2023",
+      "counting_date": "04 December 2023",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 32696,
+        "total_votes_polled": 13759,
+        "turnout_percentage": 42.3,
+        "margin_votes": 135,
+        "margin_percentage": 1.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jeje Lalpekhlua",
+          "party": "Zoram People’s Movement",
+          "votes": 5468,
+          "votes_percentage": 39.6
+        },
+        {
+          "position": 2,
+          "name": "Dr. R. Lalthangliana",
+          "party": "Mizo National Front",
+          "votes": 5333,
+          "votes_percentage": 38.6
+        },
+        {
+          "position": 3,
+          "name": "C. Laldintluanga",
+          "party": "Indian National Congress",
+          "votes": 2958,
+          "votes_percentage": 21.4
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "04 December 2013",
+      "counting_date": "09 December 2013",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 13604,
+        "total_votes_polled": 11526,
+        "turnout_percentage": 85.1,
+        "margin_votes": 1568,
+        "margin_percentage": 13.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "John Siamkunga",
+          "party": "Indian National Congress",
+          "votes": 4912,
+          "votes_percentage": 42.6
+        },
+        {
+          "position": 2,
+          "name": "J. Lalchhuana",
+          "party": "Zoram Nationalist Party",
+          "votes": 3344,
+          "votes_percentage": 29.0
+        },
+        {
+          "position": 3,
+          "name": "Z.H. Ropuia",
+          "party": "Mizo National Front",
+          "votes": 3217,
+          "votes_percentage": 27.9
+        },
+        {
+          "position": 4,
+          "name": "Pc.  Remthanga",
+          "party": "Bharatiya Janta Party",
+          "votes": 53,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "2008": {
+      "poll_date": "12 February 2008",
+      "counting_date": "12 August 2008",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 12789,
+        "total_votes_polled": 10639,
+        "turnout_percentage": 83.2,
+        "margin_votes": 96,
+        "margin_percentage": 0.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Lalthanhawla",
+          "party": "Indian National Congress",
+          "votes": 3772,
+          "votes_percentage": 35.5
+        },
+        {
+          "position": 2,
+          "name": "J. Lalchhuana",
+          "party": "Zoram Nationalist Party",
+          "votes": 3676,
+          "votes_percentage": 34.6
+        },
+        {
+          "position": 3,
+          "name": "F. Lalthanzuala",
+          "party": "Mizo National Front",
+          "votes": 2760,
+          "votes_percentage": 25.9
+        },
+        {
+          "position": 4,
+          "name": "L. Remlala Fanai",
+          "party": "Independent",
+          "votes": 387,
+          "votes_percentage": 3.6
+        },
+        {
+          "position": 5,
+          "name": "Lalramliana Ralte",
+          "party": "Lok Jan Shakti Party",
+          "votes": 44,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,703 @@
+{
+  "state": "Uttar Pradesh [2000 Onwards]",
+  "constituency": "BANSDIH",
+  "district": "Ballia",
+  "ac_type": "GEN",
+  "results": {
+    "2022": {
+      "poll_date": "10 February 2022",
+      "counting_date": "10 March 2022",
+      "total_contestants": 13,
+      "aggregate": {
+        "total_electors": 407021,
+        "total_votes_polled": 214694,
+        "turnout_percentage": 53.2,
+        "margin_votes": 21352,
+        "margin_percentage": 9.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ketakee Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 103305,
+          "votes_percentage": 48.1
+        },
+        {
+          "position": 2,
+          "name": "Ram Govind",
+          "party": "Samajwadi Party",
+          "votes": 81953,
+          "votes_percentage": 38.2
+        },
+        {
+          "position": 3,
+          "name": "Manti",
+          "party": "Bahujan Samaj Party",
+          "votes": 10854,
+          "votes_percentage": 5.1
+        },
+        {
+          "position": 4,
+          "name": "Ajay Shankar",
+          "party": "Vikassheel Insaan Party",
+          "votes": 7650,
+          "votes_percentage": 3.6
+        },
+        {
+          "position": 5,
+          "name": "Puneet",
+          "party": "Indian National Congress",
+          "votes": 4354,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 6,
+          "name": "Lakshman",
+          "party": "Communist Party Of India",
+          "votes": 1983,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 7,
+          "name": "Dayashanker Verma",
+          "party": "Jan Adhikar Party",
+          "votes": 1131,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Swami Nath Sahani",
+          "party": "Independent",
+          "votes": 741,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Pramod Paswan",
+          "party": "Independent",
+          "votes": 667,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Sushant",
+          "party": "Aam Aadmi Party",
+          "votes": 660,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 11,
+          "name": "Vinod Kumar Verma",
+          "party": "Independent",
+          "votes": 496,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Sangram Singh Tomar",
+          "party": "Lok Janshakti Party(Ram Vilas)",
+          "votes": 489,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 13,
+          "name": "Mamata",
+          "party": "Swadesh Jan Sewak Party",
+          "votes": 411,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2017": {
+      "poll_date": "04 March 2017",
+      "counting_date": "11 March 2017",
+      "total_contestants": 18,
+      "aggregate": {
+        "total_electors": 385408,
+        "total_votes_polled": 209015,
+        "turnout_percentage": 54.5,
+        "margin_votes": 1687,
+        "margin_percentage": 0.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ram Govind Chaudheri",
+          "party": "Samajwadi Party",
+          "votes": 51201,
+          "votes_percentage": 24.4
+        },
+        {
+          "position": 2,
+          "name": "Ketakee Singh",
+          "party": "Independent",
+          "votes": 49514,
+          "votes_percentage": 23.6
+        },
+        {
+          "position": 3,
+          "name": "Arvind Rajbhar",
+          "party": "Suheldev Bhartiya Samaj Party",
+          "votes": 40234,
+          "votes_percentage": 19.2
+        },
+        {
+          "position": 4,
+          "name": "Shivshankar",
+          "party": "Bahujan Samaj Party",
+          "votes": 38745,
+          "votes_percentage": 18.5
+        },
+        {
+          "position": 5,
+          "name": "Niraj Singh Gudu",
+          "party": "Lok Dal",
+          "votes": 10315,
+          "votes_percentage": 4.9
+        },
+        {
+          "position": 6,
+          "name": "Arvind",
+          "party": "Independent",
+          "votes": 6080,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 7,
+          "name": "Jawahir",
+          "party": "Independent",
+          "votes": 2718,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 8,
+          "name": "Punam",
+          "party": "Independent",
+          "votes": 1684,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 9,
+          "name": "Sanjay Kumar Singh",
+          "party": "Bharatiya Jan Kranti Dal (Democratic)",
+          "votes": 1244,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 10,
+          "name": "Ramesh Pandey (BABLU JI)",
+          "party": "Rashtriya Lok Dal",
+          "votes": 1171,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 11,
+          "name": "Chhoottu Prasad Gupta",
+          "party": "Parivartan Samaj Party",
+          "votes": 1164,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 12,
+          "name": "Pramod Paswan",
+          "party": "Independent",
+          "votes": 770,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 13,
+          "name": "Jairam",
+          "party": "Independent",
+          "votes": 755,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 14,
+          "name": "Rajesh",
+          "party": "Jan Adhikar Party",
+          "votes": 735,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 15,
+          "name": "Amarjit Kumar Singh",
+          "party": "Independent",
+          "votes": 710,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 16,
+          "name": "Dharmendra",
+          "party": "Independent",
+          "votes": 697,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 17,
+          "name": "Rajeev",
+          "party": "Independent",
+          "votes": 688,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 18,
+          "name": "Sangram Singh",
+          "party": "Independent",
+          "votes": 590,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2012": {
+      "poll_date": "23 February 2012",
+      "counting_date": "03 June 2012",
+      "total_contestants": 26,
+      "aggregate": {
+        "total_electors": 359415,
+        "total_votes_polled": 193355,
+        "turnout_percentage": 53.8,
+        "total_valid_votes": 193327,
+        "total_valid_votes_percentage": 53.8,
+        "margin_votes": 22877,
+        "margin_percentage": 11.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ram Govind",
+          "party": "Samajwadi Party",
+          "votes": 52085,
+          "votes_percentage": 26.9
+        },
+        {
+          "position": 2,
+          "name": "Ketakee",
+          "party": "Bharatiya Janta Party",
+          "votes": 29208,
+          "votes_percentage": 15.1
+        },
+        {
+          "position": 3,
+          "name": "Deenbandhoo",
+          "party": "Suheldev Bhartiya Samaj Party",
+          "votes": 28387,
+          "votes_percentage": 14.7
+        },
+        {
+          "position": 4,
+          "name": "Bade Lal",
+          "party": "Bahujan Samaj Party",
+          "votes": 24332,
+          "votes_percentage": 12.6
+        },
+        {
+          "position": 5,
+          "name": "Bachcha Pathak",
+          "party": "Indian National Congress",
+          "votes": 21799,
+          "votes_percentage": 11.3
+        },
+        {
+          "position": 6,
+          "name": "Shivshankar",
+          "party": "Janata Dal (United)",
+          "votes": 20222,
+          "votes_percentage": 10.5
+        },
+        {
+          "position": 7,
+          "name": "Ram Nath",
+          "party": "Independent",
+          "votes": 5272,
+          "votes_percentage": 2.7
+        },
+        {
+          "position": 8,
+          "name": "Veerendra Kumar Sahani",
+          "party": "Independent",
+          "votes": 1520,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 9,
+          "name": "Sanjay",
+          "party": "Rashtriya Lokmanch",
+          "votes": 1437,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 10,
+          "name": "Harindra Nath Chauhan",
+          "party": "Rashtriya Gondvana Party",
+          "votes": 1224,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 11,
+          "name": "Achche Lal",
+          "party": "Naki Bharatiya Ekta Party",
+          "votes": 810,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 12,
+          "name": "Yashwant",
+          "party": "Akhil Bharatiya Desh Bhakt Morcha",
+          "votes": 779,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 13,
+          "name": "Lal Sahab",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 666,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 14,
+          "name": "Radheshyam",
+          "party": "Independent",
+          "votes": 598,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 15,
+          "name": "Dr.Umashankar Nishad",
+          "party": "Jan Kranti Party(Rashtrawadi)",
+          "votes": 577,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 16,
+          "name": "Jitendra",
+          "party": "Bahujan Sangharsh Party (Kanshiram)",
+          "votes": 559,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 17,
+          "name": "Jai Ram",
+          "party": "Independent",
+          "votes": 528,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 18,
+          "name": "Ganga Ram",
+          "party": "Independent",
+          "votes": 519,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 19,
+          "name": "Suneshwar",
+          "party": "Bhartiya Krishak Dal",
+          "votes": 486,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 20,
+          "name": "Anju",
+          "party": "Independent",
+          "votes": 467,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 21,
+          "name": "Subhash",
+          "party": "Lok Jan Shakti Party",
+          "votes": 466,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 22,
+          "name": "Raj Kumar Prasad",
+          "party": "Bharatiya Samaj Dal",
+          "votes": 435,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 23,
+          "name": "Yogendra",
+          "party": "National Loktantrik Party",
+          "votes": 332,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 24,
+          "name": "Binod",
+          "party": "Independent",
+          "votes": 231,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 25,
+          "name": "Pranesh",
+          "party": "Independent",
+          "votes": 229,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 26,
+          "name": "Deen Dayal",
+          "party": "Independent",
+          "votes": 187,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2007": {
+      "poll_date": "07 April 2007",
+      "counting_date": "11 May 2007",
+      "total_contestants": 16,
+      "aggregate": {
+        "total_electors": 314094,
+        "total_votes_polled": 119112,
+        "turnout_percentage": 37.9,
+        "margin_votes": 488,
+        "margin_percentage": 0.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shiv Shanker",
+          "party": "Bahujan Samaj Party",
+          "votes": 31488,
+          "votes_percentage": 26.5
+        },
+        {
+          "position": 2,
+          "name": "Ramgovind Chaudhary",
+          "party": "Samajwadi Party",
+          "votes": 31000,
+          "votes_percentage": 26.1
+        },
+        {
+          "position": 3,
+          "name": "Bacha Pathak",
+          "party": "Indian National Congress",
+          "votes": 26618,
+          "votes_percentage": 22.4
+        },
+        {
+          "position": 4,
+          "name": "Vijay Narayan",
+          "party": "Suheldev Bhartiya Samaj Party",
+          "votes": 14030,
+          "votes_percentage": 11.8
+        },
+        {
+          "position": 5,
+          "name": "Pravin Kumar Singh Babbuji",
+          "party": "Samajwadi Janata Party (RASHTRIYA)",
+          "votes": 3329,
+          "votes_percentage": 2.8
+        },
+        {
+          "position": 6,
+          "name": "Devendra",
+          "party": "Bharatiya Janta Party",
+          "votes": 3015,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 7,
+          "name": "Subhash",
+          "party": "Independent",
+          "votes": 1989,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 8,
+          "name": "Surendra",
+          "party": "Pragtisheel Manav Samaj Party",
+          "votes": 1493,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 9,
+          "name": "Jai Prakash",
+          "party": "Independent",
+          "votes": 1230,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 10,
+          "name": "Brijmohan",
+          "party": "Independent",
+          "votes": 1066,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 11,
+          "name": "Narayan",
+          "party": "Bharatiya Samaj Dal",
+          "votes": 909,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 12,
+          "name": "Deenanath",
+          "party": "Independent",
+          "votes": 720,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 13,
+          "name": "Premshanker Yadav",
+          "party": "Rashtriya Janata Dal",
+          "votes": 630,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 14,
+          "name": "Anil",
+          "party": "Independent",
+          "votes": 425,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 15,
+          "name": "Kamlesh",
+          "party": "Independent",
+          "votes": 396,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 16,
+          "name": "Ashok",
+          "party": "Independent",
+          "votes": 339,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2002": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 16,
+      "aggregate": {
+        "total_electors": 273974,
+        "total_votes_polled": 136940,
+        "turnout_percentage": 50.0,
+        "margin_votes": 5819,
+        "margin_percentage": 4.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ram Govind Chowdhari",
+          "party": "Samajwadi Janata Party (RASHTRIYA)",
+          "votes": 43098,
+          "votes_percentage": 31.5
+        },
+        {
+          "position": 2,
+          "name": "Bachacha Pathak",
+          "party": "Akhil Bhartiya Lok Tantrik Congress",
+          "votes": 37279,
+          "votes_percentage": 27.2
+        },
+        {
+          "position": 3,
+          "name": "Shiv Shankar",
+          "party": "Rashtriya Kranti Party",
+          "votes": 34536,
+          "votes_percentage": 25.2
+        },
+        {
+          "position": 4,
+          "name": "Rameshwar",
+          "party": "Bahujan Samaj Party",
+          "votes": 9709,
+          "votes_percentage": 7.1
+        },
+        {
+          "position": 5,
+          "name": "Mahendra",
+          "party": "Indian National Congress",
+          "votes": 4193,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 6,
+          "name": "Sidhanath",
+          "party": "Independent",
+          "votes": 1683,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 7,
+          "name": "Ravindra",
+          "party": "Lok Shakti",
+          "votes": 1522,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 8,
+          "name": "Shiv Narayan",
+          "party": "Apna Dal",
+          "votes": 1278,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 9,
+          "name": "Sanjay",
+          "party": "Independent",
+          "votes": 805,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 10,
+          "name": "Ajay",
+          "party": "Independent",
+          "votes": 589,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 11,
+          "name": "Narendra",
+          "party": "Independent",
+          "votes": 503,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 12,
+          "name": "Adhilesh",
+          "party": "Independent",
+          "votes": 450,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 13,
+          "name": "Santosh",
+          "party": "Independent",
+          "votes": 427,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 14,
+          "name": "Brijmohan",
+          "party": "Independent",
+          "votes": 321,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 15,
+          "name": "Ajay Bahadur",
+          "party": "Independent",
+          "votes": 287,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 16,
+          "name": "Digvijay",
+          "party": "Independent",
+          "votes": 256,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

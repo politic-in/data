@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 264451,
+        "male": 281931,
+        "percentage_of_total_population": 17.99,
+        "percentage_of_total_population_calculated": 17.99,
+        "percentage_of_total_population_stated": 17.99,
+        "sex_ratio": 938,
+        "total": 546382
+    },
+    "literacy": {
+        "female_literacy_rate": 54.89,
+        "female_literate": 635397,
+        "male_literacy_rate": 70.3,
+        "male_literate": 937669,
+        "rate_percentage": 63.14,
+        "total_literate": 1573066
+    },
+    "population": {
+        "female": 1422103,
+        "male": 1615663,
+        "sex_ratio": 880,
+        "total": 3037766
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 180
+        },
+        "Christian": {
+            "percentage": 0.12,
+            "population": 3556
+        },
+        "Hindu": {
+            "percentage": 81.9,
+            "population": 2487866
+        },
+        "Jain": {
+            "percentage": 0.03,
+            "population": 1050
+        },
+        "Muslims": {
+            "percentage": 17.68,
+            "population": 537098
+        },
+        "Not Stated": {
+            "percentage": 0.25,
+            "population": 7569
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 32
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 415
+        }
+    },
+    "rural": {
+        "child_population_female": 221744,
+        "child_population_male": 235266,
+        "child_population_percentage": 18.77,
+        "child_population_percentage_calculated": 18.77,
+        "child_population_percentage_stated": 18.77,
+        "child_population_total": 457010,
+        "child_sex_ratio": 943,
+        "female": 1139848,
+        "literacy_rate_female": 50.86,
+        "literacy_rate_male": 67.61,
+        "literacy_rate_percentage": 59.84,
+        "literate_female": 466916,
+        "literate_male": 716790,
+        "literate_total": 1183706,
+        "male": 1295386,
+        "percentage_population": 80.17,
+        "population": 2435234,
+        "sex_ratio": 880
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/76-bhagalpur.html",
+    "urban": {
+        "child_population_female": 42701,
+        "child_population_male": 46671,
+        "child_population_percentage": 14.83,
+        "child_population_percentage_calculated": 14.83,
+        "child_population_percentage_stated": 14.83,
+        "child_population_total": 89372,
+        "child_sex_ratio": 915,
+        "female": 282255,
+        "literacy_rate_female": 70.33,
+        "literacy_rate_male": 80.73,
+        "literacy_rate_percentage": 75.87,
+        "literate_female": 168481,
+        "literate_male": 220879,
+        "literate_total": 389360,
+        "male": 320277,
+        "percentage_population": 19.83,
+        "population": 602532,
+        "sex_ratio": 881
+    }
+}

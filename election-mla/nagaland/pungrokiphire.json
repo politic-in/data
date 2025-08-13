@@ -1,0 +1,57 @@
+{
+  "state": "Nagaland",
+  "constituency": "PUNGROKIPHIRE",
+  "district": "Kiphire",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 28676,
+        "total_votes_polled": 22293,
+        "turnout_percentage": 78.5,
+        "margin_votes": 473,
+        "margin_percentage": 2.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "T. Torechu",
+          "party": "Naga Peoples Front",
+          "votes": 8056,
+          "votes_percentage": 36.1
+        },
+        {
+          "position": 2,
+          "name": "T.Yangseo Sangtam",
+          "party": "Janata Dal (United)",
+          "votes": 7583,
+          "votes_percentage": 34.0
+        },
+        {
+          "position": 3,
+          "name": "S K James",
+          "party": "National People's Party",
+          "votes": 3719,
+          "votes_percentage": 16.7
+        },
+        {
+          "position": 4,
+          "name": "Lithriyem Dupongle",
+          "party": "Nationalist Congress Party",
+          "votes": 1970,
+          "votes_percentage": 8.8
+        },
+        {
+          "position": 5,
+          "name": "T. Yankiu Yimchunger",
+          "party": "Bharatiya Janta Party",
+          "votes": 965,
+          "votes_percentage": 4.3
+        }
+      ]
+    }
+  }
+}

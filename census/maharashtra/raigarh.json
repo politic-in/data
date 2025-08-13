@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 145355,
+        "male": 155460,
+        "percentage_of_total_population": 11.42,
+        "percentage_of_total_population_calculated": 11.42,
+        "percentage_of_total_population_stated": 11.42,
+        "sex_ratio": 935,
+        "total": 300815
+    },
+    "literacy": {
+        "female_literacy_rate": 76.92,
+        "female_literate": 880302,
+        "male_literacy_rate": 89.13,
+        "male_literate": 1059692,
+        "rate_percentage": 83.14,
+        "total_literate": 1939994
+    },
+    "population": {
+        "female": 1289855,
+        "male": 1344345,
+        "sex_ratio": 959,
+        "total": 2634200
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 4.62,
+            "population": 121791
+        },
+        "Christian": {
+            "percentage": 0.66,
+            "population": 17452
+        },
+        "Hindu": {
+            "percentage": 85.01,
+            "population": 2239370
+        },
+        "Jain": {
+            "percentage": 0.47,
+            "population": 12260
+        },
+        "Muslims": {
+            "percentage": 8.64,
+            "population": 227465
+        },
+        "Not Stated": {
+            "percentage": 0.27,
+            "population": 7226
+        },
+        "Others": {
+            "percentage": 0.04,
+            "population": 1159
+        },
+        "Sikh": {
+            "percentage": 0.28,
+            "population": 7477
+        }
+    },
+    "rural": {
+        "child_population_female": 91929,
+        "child_population_male": 96875,
+        "child_population_percentage": 11.35,
+        "child_population_percentage_calculated": 11.35,
+        "child_population_percentage_stated": 11.35,
+        "child_population_total": 188804,
+        "child_sex_ratio": 949,
+        "female": 827009,
+        "literacy_rate_female": 71.17,
+        "literacy_rate_male": 86.43,
+        "literacy_rate_percentage": 78.83,
+        "literate_female": 523190,
+        "literate_male": 639701,
+        "literate_total": 1162891,
+        "male": 836996,
+        "percentage_population": 63.17,
+        "population": 1664005,
+        "sex_ratio": 988
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/358-raigarh.html",
+    "urban": {
+        "child_population_female": 53449,
+        "child_population_male": 58562,
+        "child_population_percentage": 11.55,
+        "child_population_percentage_calculated": 11.55,
+        "child_population_percentage_stated": 11.55,
+        "child_population_total": 112011,
+        "child_sex_ratio": 913,
+        "female": 462846,
+        "literacy_rate_female": 87.23,
+        "literacy_rate_male": 93.58,
+        "literacy_rate_percentage": 90.55,
+        "literate_female": 357112,
+        "literate_male": 419991,
+        "literate_total": 777103,
+        "male": 507349,
+        "percentage_population": 36.83,
+        "population": 970195,
+        "sex_ratio": 912
+    }
+}

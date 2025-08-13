@@ -1,0 +1,45 @@
+{
+  "state": "Meghalaya",
+  "year": "2004",
+  "summary_stats": {
+    "total_electors_state": 1289374,
+    "total_votes_polled_state": 679238,
+    "turnout_percentage_state": 52.7,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Shillong",
+      "ac_no": 1,
+      "ac_type": "ST",
+      "district": "Meghalaya",
+      "winning_candidate": "Paty Ripple Kyndiah",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 785062,
+      "total_votes_ac": 367736,
+      "poll_percentage_ac": 0.0,
+      "margin": 70896,
+      "margin_percentage": 19.3,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2004/meghalaya/shillong/6864/44/14"
+    },
+    {
+      "ac_name": "Tura",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Meghalaya",
+      "winning_candidate": "Purano Agitok Sangma",
+      "winning_party": "All India Trinamool Congress",
+      "total_electors_ac": 504312,
+      "total_votes_ac": 311502,
+      "poll_percentage_ac": 0.0,
+      "margin": 72763,
+      "margin_percentage": 23.4,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2004/meghalaya/tura/6865/44/14"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 101363,
+        "male": 111144,
+        "percentage_of_total_population": 13.76,
+        "percentage_of_total_population_calculated": 13.76,
+        "percentage_of_total_population_stated": 13.76,
+        "sex_ratio": 912,
+        "total": 212507
+    },
+    "literacy": {
+        "female_literacy_rate": 46.53,
+        "female_literate": 306974,
+        "male_literacy_rate": 76.61,
+        "male_literate": 514851,
+        "rate_percentage": 61.71,
+        "total_literate": 821825
+    },
+    "population": {
+        "female": 761167,
+        "male": 783171,
+        "sex_ratio": 972,
+        "total": 1544338
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 252
+        },
+        "Christian": {
+            "percentage": 0.08,
+            "population": 1274
+        },
+        "Hindu": {
+            "percentage": 91.51,
+            "population": 1413163
+        },
+        "Jain": {
+            "percentage": 1.67,
+            "population": 25843
+        },
+        "Muslims": {
+            "percentage": 6.34,
+            "population": 97855
+        },
+        "Not Stated": {
+            "percentage": 0.28,
+            "population": 4300
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 136
+        },
+        "Sikh": {
+            "percentage": 0.1,
+            "population": 1515
+        }
+    },
+    "rural": {
+        "child_population_female": 84744,
+        "child_population_male": 92471,
+        "child_population_percentage": 14.08,
+        "child_population_percentage_calculated": 14.08,
+        "child_population_percentage_stated": 14.08,
+        "child_population_total": 177215,
+        "child_sex_ratio": 916,
+        "female": 622659,
+        "literacy_rate_female": 40.24,
+        "literacy_rate_male": 73.26,
+        "literacy_rate_percentage": 56.84,
+        "literate_female": 216467,
+        "literate_male": 398512,
+        "literate_total": 614979,
+        "male": 636415,
+        "percentage_population": 81.53,
+        "population": 1259074,
+        "sex_ratio": 978
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/451-chittaurgarh.html",
+    "urban": {
+        "child_population_female": 16643,
+        "child_population_male": 18649,
+        "child_population_percentage": 12.37,
+        "child_population_percentage_calculated": 12.37,
+        "child_population_percentage_stated": 12.37,
+        "child_population_total": 35292,
+        "child_sex_ratio": 892,
+        "female": 138508,
+        "literacy_rate_female": 74.27,
+        "literacy_rate_male": 90.81,
+        "literacy_rate_percentage": 82.75,
+        "literate_female": 90507,
+        "literate_male": 116339,
+        "literate_total": 206846,
+        "male": 146756,
+        "percentage_population": 18.47,
+        "population": 285264,
+        "sex_ratio": 944
+    }
+}

@@ -1,0 +1,120 @@
+{
+  "state": "Maharashtra",
+  "constituency": "KHAMGAON",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 507976,
+        "total_votes_polled": 294987,
+        "turnout_percentage": 58.1,
+        "margin_votes": 180845,
+        "margin_percentage": 61.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Arjun Shripat Kasture",
+          "party": "Indian National Congress",
+          "votes": 228216,
+          "votes_percentage": 77.4
+        },
+        {
+          "position": 2,
+          "name": "Dagadu Zangoji Palaspagar",
+          "party": "Republican Party Of India (KHOBRAGADE)",
+          "votes": 47371,
+          "votes_percentage": 16.1
+        },
+        {
+          "position": 3,
+          "name": "Bindaram Rambhau Khiradkar",
+          "party": "Independent",
+          "votes": 7388,
+          "votes_percentage": 2.5
+        }
+      ]
+    },
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 496280,
+        "total_votes_polled": 350435,
+        "turnout_percentage": 70.6,
+        "margin_votes": 76295,
+        "margin_percentage": 21.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "A. S. Kasture",
+          "party": "Indian National Congress",
+          "votes": 188450,
+          "votes_percentage": 53.8
+        },
+        {
+          "position": 2,
+          "name": "D. B. Dabhade",
+          "party": "Republican Party Of India",
+          "votes": 112155,
+          "votes_percentage": 32.0
+        },
+        {
+          "position": 3,
+          "name": "D. G. Hiwale",
+          "party": "Independent",
+          "votes": 30626,
+          "votes_percentage": 8.7
+        }
+      ]
+    },
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 447158,
+        "total_votes_polled": 290264,
+        "turnout_percentage": 64.9,
+        "margin_votes": 70423,
+        "margin_percentage": 24.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Laxman Shrawan Bhatkar",
+          "party": "Indian National Congress",
+          "votes": 147168,
+          "votes_percentage": 50.7
+        },
+        {
+          "position": 2,
+          "name": "Dinanath Baxuram Badhade",
+          "party": "Republican Party",
+          "votes": 76745,
+          "votes_percentage": 26.4
+        },
+        {
+          "position": 3,
+          "name": "Hiralal Budhulal Manekar",
+          "party": "Jan Sangh",
+          "votes": 26711,
+          "votes_percentage": 9.2
+        },
+        {
+          "position": 4,
+          "name": "Gunaji Sadu Sawadekar",
+          "party": "Independent",
+          "votes": 22791,
+          "votes_percentage": 7.9
+        }
+      ]
+    }
+  }
+}

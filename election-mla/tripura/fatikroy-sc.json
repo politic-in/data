@@ -1,0 +1,57 @@
+{
+  "state": "Tripura",
+  "constituency": "Fatikroy (SC)",
+  "district": "North Tripura",
+  "ac_type": "SC",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 41847,
+        "total_votes_polled": 37325,
+        "turnout_percentage": 89.9,
+        "margin_votes": 2829,
+        "margin_percentage": 7.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sudhangshu Das",
+          "party": "Bharatiya Janta Party",
+          "votes": 19512,
+          "votes_percentage": 52.3
+        },
+        {
+          "position": 2,
+          "name": "Tunubala Malakar",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 16683,
+          "votes_percentage": 44.7
+        },
+        {
+          "position": 3,
+          "name": "Rakhu Das",
+          "party": "Indian National Congress",
+          "votes": 730,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 5,
+          "name": "Sajal Das",
+          "party": "Tripura Peoples Party",
+          "votes": 290,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Rajesh Malakar",
+          "party": "Independent",
+          "votes": 110,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

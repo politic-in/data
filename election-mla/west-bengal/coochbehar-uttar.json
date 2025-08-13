@@ -1,0 +1,71 @@
+{
+  "state": "West Bengal",
+  "constituency": "Coochbehar Uttar",
+  "district": "Koch Bihar",
+  "ac_type": "SC",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 272055,
+        "total_votes_polled": 242346,
+        "turnout_percentage": 89.7,
+        "margin_votes": 14615,
+        "margin_percentage": 6.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sukumar Roy",
+          "party": "Bharatiya Janta Party",
+          "votes": 120483,
+          "votes_percentage": 49.7
+        },
+        {
+          "position": 2,
+          "name": "Binay Krishna Barman",
+          "party": "All India Trinamool Congress",
+          "votes": 105868,
+          "votes_percentage": 43.7
+        },
+        {
+          "position": 3,
+          "name": "Nagendra Nath Roy",
+          "party": "All India Forward Bloc",
+          "votes": 11475,
+          "votes_percentage": 4.7
+        },
+        {
+          "position": 4,
+          "name": "Anil Chandra Roy",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1386,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 5,
+          "name": "Naresh Chandra Roy",
+          "party": "Independent",
+          "votes": 1379,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Samaresh Ray",
+          "party": "Kamatapur People’s Party (United)",
+          "votes": 1127,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Gopal Roy",
+          "party": "Amra Bangalee",
+          "votes": 628,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "state": "Rajasthan",
+  "constituency": "BANSWARA DUNGARPUR",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 396575,
+        "total_votes_polled": 117265,
+        "turnout_percentage": 29.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bhikha Bhai",
+          "party": "Indian National Congress",
+          "votes": 80064,
+          "votes_percentage": 68.3
+        },
+        {
+          "position": 2,
+          "name": "Shri Ramji",
+          "party": "Independent",
+          "votes": 37201,
+          "votes_percentage": 31.7
+        }
+      ]
+    }
+  }
+}

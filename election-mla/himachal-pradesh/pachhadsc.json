@@ -1,0 +1,99 @@
+{
+  "state": "Himachal Pradesh",
+  "constituency": "PACHHAD(SC)",
+  "district": "Sirmaur",
+  "ac_type": "SC",
+  "results": {
+    "2022": {
+      "poll_date": "12 November 2022",
+      "counting_date": "08 December 2022",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 75961,
+        "total_votes_polled": 60984,
+        "turnout_percentage": 80.9,
+        "margin_votes": 3857,
+        "margin_percentage": 6.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Reena",
+          "party": "Bharatiya Janta Party",
+          "votes": 21215,
+          "votes_percentage": 34.5
+        },
+        {
+          "position": 2,
+          "name": "Dayal Pyari",
+          "party": "Indian National Congress",
+          "votes": 17358,
+          "votes_percentage": 28.3
+        },
+        {
+          "position": 3,
+          "name": "Gangu Ram Musafir",
+          "party": "Independent",
+          "votes": 13187,
+          "votes_percentage": 21.5
+        },
+        {
+          "position": 4,
+          "name": "Susheel Kumar Bhrigu",
+          "party": "Rashtriya Devbhumi Party",
+          "votes": 8113,
+          "votes_percentage": 13.2
+        },
+        {
+          "position": 5,
+          "name": "Ajay Singh",
+          "party": "Aam Aadmi Party",
+          "votes": 568,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Ashish Kumar",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 543,
+          "votes_percentage": 0.9
+        }
+      ]
+    },
+    "2017": {
+      "poll_date": "09 November 2017",
+      "counting_date": "18 December 2017",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 67204,
+        "total_votes_polled": 55241,
+        "turnout_percentage": 82.9,
+        "margin_votes": 6427,
+        "margin_percentage": 11.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Suresh Kumar Kashyap",
+          "party": "Bharatiya Janta Party",
+          "votes": 30243,
+          "votes_percentage": 54.8
+        },
+        {
+          "position": 2,
+          "name": "Gangu Ram Musafir",
+          "party": "Indian National Congress",
+          "votes": 23816,
+          "votes_percentage": 43.1
+        },
+        {
+          "position": 3,
+          "name": "Rattan Singh Kashyap",
+          "party": "Independent",
+          "votes": 1182,
+          "votes_percentage": 2.1
+        }
+      ]
+    }
+  }
+}

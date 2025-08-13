@@ -1,0 +1,71 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Mariyang Mebo",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 9536,
+        "total_votes_polled": 6956,
+        "turnout_percentage": 72.9,
+        "margin_votes": 1680,
+        "margin_percentage": 24.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Onyok Rome",
+          "party": "Peoples Party Of Arunachal",
+          "votes": 4191,
+          "votes_percentage": 62.5
+        },
+        {
+          "position": 2,
+          "name": "Kabang Borang",
+          "party": "Indian National Congress (I)",
+          "votes": 2511,
+          "votes_percentage": 37.5
+        }
+      ]
+    },
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 8602,
+        "total_votes_polled": 6448,
+        "turnout_percentage": 75.0,
+        "margin_votes": 2130,
+        "margin_percentage": 33.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Onyok Rome",
+          "party": "Peoples Party Of Arunachal",
+          "votes": 3717,
+          "votes_percentage": 59.9
+        },
+        {
+          "position": 2,
+          "name": "Kabang Borang",
+          "party": "Independent",
+          "votes": 1587,
+          "votes_percentage": 25.6
+        },
+        {
+          "position": 3,
+          "name": "Mamil Tayeng",
+          "party": "Independent",
+          "votes": 897,
+          "votes_percentage": 14.5
+        }
+      ]
+    }
+  }
+}

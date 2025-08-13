@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 96022,
+        "male": 99299,
+        "percentage_of_total_population": 18.73,
+        "percentage_of_total_population_calculated": 18.73,
+        "percentage_of_total_population_stated": 18.73,
+        "sex_ratio": 967,
+        "total": 195321
+    },
+    "literacy": {
+        "female_literacy_rate": 49.92,
+        "female_literate": 206159,
+        "male_literacy_rate": 69.92,
+        "male_literate": 303902,
+        "rate_percentage": 60.18,
+        "total_literate": 510061
+    },
+    "population": {
+        "female": 508951,
+        "male": 533935,
+        "sex_ratio": 953,
+        "total": 1042886
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.0,
+            "population": 35
+        },
+        "Christian": {
+            "percentage": 0.63,
+            "population": 6565
+        },
+        "Hindu": {
+            "percentage": 86.6,
+            "population": 903179
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 129
+        },
+        "Muslims": {
+            "percentage": 11.19,
+            "population": 116710
+        },
+        "Not Stated": {
+            "percentage": 0.23,
+            "population": 2444
+        },
+        "Others": {
+            "percentage": 1.24,
+            "population": 12936
+        },
+        "Sikh": {
+            "percentage": 0.09,
+            "population": 888
+        }
+    },
+    "rural": {
+        "child_population_female": 91528,
+        "child_population_male": 94540,
+        "child_population_percentage": 18.99,
+        "child_population_percentage_calculated": 18.99,
+        "child_population_percentage_stated": 18.99,
+        "child_population_total": 186068,
+        "child_sex_ratio": 968,
+        "female": 479721,
+        "literacy_rate_female": 48.39,
+        "literacy_rate_male": 68.71,
+        "literacy_rate_percentage": 58.78,
+        "literate_female": 187852,
+        "literate_male": 278745,
+        "literate_total": 466597,
+        "male": 500211,
+        "percentage_population": 93.96,
+        "population": 979932,
+        "sex_ratio": 959
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/94-chatra.html",
+    "urban": {
+        "child_population_female": 4481,
+        "child_population_male": 4772,
+        "child_population_percentage": 14.7,
+        "child_population_percentage_calculated": 14.7,
+        "child_population_percentage_stated": 14.7,
+        "child_population_total": 9253,
+        "child_sex_ratio": 939,
+        "female": 29230,
+        "literacy_rate_female": 73.97,
+        "literacy_rate_male": 86.89,
+        "literacy_rate_percentage": 80.94,
+        "literate_female": 18307,
+        "literate_male": 25157,
+        "literate_total": 43464,
+        "male": 33724,
+        "percentage_population": 6.04,
+        "population": 62954,
+        "sex_ratio": 867
+    }
+}

@@ -1,0 +1,50 @@
+{
+  "state": "Tripura",
+  "constituency": "Town Bardowali",
+  "district": "West Tripura",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 45500,
+        "total_votes_polled": 38913,
+        "turnout_percentage": 86.2,
+        "margin_votes": 11178,
+        "margin_percentage": 28.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Asish Kumar Saha",
+          "party": "Bharatiya Janta Party",
+          "votes": 24293,
+          "votes_percentage": 62.4
+        },
+        {
+          "position": 2,
+          "name": "Biswanath Saha",
+          "party": "All India Forward Bloc",
+          "votes": 13115,
+          "votes_percentage": 33.7
+        },
+        {
+          "position": 3,
+          "name": "Ratna Datta",
+          "party": "Indian National Congress",
+          "votes": 1303,
+          "votes_percentage": 3.3
+        },
+        {
+          "position": 5,
+          "name": "Shibani Bhowmik",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 202,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

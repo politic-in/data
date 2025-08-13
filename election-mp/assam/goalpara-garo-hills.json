@@ -1,0 +1,62 @@
+{
+  "state": "Assam",
+  "constituency": "GOALPARA GARO HILLS",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 719456,
+        "total_votes_polled": 704435,
+        "turnout_percentage": 49.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jonab Amjad Ali",
+          "party": "Socialist Party",
+          "votes": 182093,
+          "votes_percentage": 25.8
+        },
+        {
+          "position": 1,
+          "name": "Sitanath Brahma Chowdhury",
+          "party": "Indian National Congress",
+          "votes": 165144,
+          "votes_percentage": 23.4
+        },
+        {
+          "position": 3,
+          "name": "Rani Manjula Devi",
+          "party": "Independent",
+          "votes": 158651,
+          "votes_percentage": 22.5
+        },
+        {
+          "position": 4,
+          "name": "Satish Chandra Basumatari",
+          "party": "Tribal Sangha",
+          "votes": 116629,
+          "votes_percentage": 16.6
+        },
+        {
+          "position": 5,
+          "name": "Sarat Chandra Brahma Dutta",
+          "party": "Independent",
+          "votes": 42967,
+          "votes_percentage": 6.1
+        },
+        {
+          "position": 6,
+          "name": "Surendra Mohan Sen Gupta",
+          "party": "Independent",
+          "votes": 38951,
+          "votes_percentage": 5.5
+        }
+      ]
+    }
+  }
+}

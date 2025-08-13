@@ -1,0 +1,43 @@
+{
+  "state": "Assam",
+  "constituency": "Howraghat (ST)",
+  "district": "Karbi Anglong",
+  "ac_type": "ST",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 117070,
+        "total_votes_polled": 96264,
+        "turnout_percentage": 83.9,
+        "margin_votes": 6391,
+        "margin_percentage": 6.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Joy Ram Engleng",
+          "party": "Bharatiya Janta Party",
+          "votes": 43378,
+          "votes_percentage": 45.1
+        },
+        {
+          "position": 2,
+          "name": "Khorsing Engti",
+          "party": "Indian National Congress",
+          "votes": 36987,
+          "votes_percentage": 38.4
+        },
+        {
+          "position": 3,
+          "name": "Chomang Kro",
+          "party": "Independent",
+          "votes": 15899,
+          "votes_percentage": 16.5
+        }
+      ]
+    }
+  }
+}

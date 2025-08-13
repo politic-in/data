@@ -1,0 +1,50 @@
+{
+  "state": "Tripura",
+  "constituency": "Golaghati (ST)",
+  "district": "West Tripura",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 38810,
+        "total_votes_polled": 35856,
+        "turnout_percentage": 93.5,
+        "margin_votes": 3498,
+        "margin_percentage": 9.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Birendra Kishore Debbarma",
+          "party": "Bharatiya Janta Party",
+          "votes": 19228,
+          "votes_percentage": 53.6
+        },
+        {
+          "position": 2,
+          "name": "Keshab Debbarma",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 15730,
+          "votes_percentage": 43.9
+        },
+        {
+          "position": 3,
+          "name": "Nishi Kanta Debbarma",
+          "party": "Indian National Congress",
+          "votes": 472,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 5,
+          "name": "Manab Debbarma",
+          "party": "Indigenous Nationalist Party Of Twipra",
+          "votes": 426,
+          "votes_percentage": 1.2
+        }
+      ]
+    }
+  }
+}

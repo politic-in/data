@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash",
+      "WebFetch"
+    ],
+    "deny": [
+      "Bash(git:commit)",
+      "Bash(git:push)",
+      "Bash(terraform:*)",
+      "Bash(gcloud:*)"
+    ]
+  }
+}

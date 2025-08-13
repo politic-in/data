@@ -1,0 +1,64 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Pasighat",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1984": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 13659,
+        "total_votes_polled": 10576,
+        "turnout_percentage": 77.4,
+        "margin_votes": 283,
+        "margin_percentage": 2.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tapum Jamoh",
+          "party": "Peoples Party Of Arunachal",
+          "votes": 5231,
+          "votes_percentage": 51.4
+        },
+        {
+          "position": 2,
+          "name": "Tarung Pabin",
+          "party": "Indian National Congress",
+          "votes": 4948,
+          "votes_percentage": 48.6
+        }
+      ]
+    },
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 11784,
+        "total_votes_polled": 9094,
+        "turnout_percentage": 77.2,
+        "margin_votes": 2370,
+        "margin_percentage": 26.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Talo Kadu",
+          "party": "Peoples Party Of Arunachal",
+          "votes": 5603,
+          "votes_percentage": 63.4
+        },
+        {
+          "position": 2,
+          "name": "Talom Rukbo",
+          "party": "Indian National Congress (I)",
+          "votes": 3233,
+          "votes_percentage": 36.6
+        }
+      ]
+    }
+  }
+}

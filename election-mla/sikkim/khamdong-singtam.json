@@ -1,0 +1,145 @@
+{
+  "state": "Sikkim",
+  "constituency": "Khamdong-singtam",
+  "district": "East",
+  "ac_type": "GEN",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 13165,
+        "total_votes_polled": 10549,
+        "turnout_percentage": 80.6,
+        "margin_votes": 873,
+        "margin_percentage": 8.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mani Kumar Sharma",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 5347,
+          "votes_percentage": 50.7
+        },
+        {
+          "position": 2,
+          "name": "Garjaman Gurung",
+          "party": "Sikkim Democratic Front",
+          "votes": 4474,
+          "votes_percentage": 42.4
+        },
+        {
+          "position": 3,
+          "name": "Sher Bahadur Karki",
+          "party": "Bharatiya Janta Party",
+          "votes": 558,
+          "votes_percentage": 5.3
+        },
+        {
+          "position": 4,
+          "name": "Tula Ram Guragai",
+          "party": "Indian National Congress",
+          "votes": 72,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Neeraj Adhikari",
+          "party": "Hamro Sikkim Party",
+          "votes": 67,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Gopal Khatiwara",
+          "party": "Independent",
+          "votes": 31,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "12 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 11417,
+        "total_votes_polled": 9604,
+        "turnout_percentage": 84.1,
+        "total_valid_votes": 9444,
+        "total_valid_votes_percentage": 82.7,
+        "margin_votes": 270,
+        "margin_percentage": 2.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Som Nath Poudyal",
+          "party": "Sikkim Democratic Front",
+          "votes": 4718,
+          "votes_percentage": 50.0
+        },
+        {
+          "position": 2,
+          "name": "Mani Kumar Sharma",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 4448,
+          "votes_percentage": 47.1
+        },
+        {
+          "position": 3,
+          "name": "Madan Kumar Sharma",
+          "party": "Bharatiya Janta Party",
+          "votes": 191,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 4,
+          "name": "Punya Prasad Koirala",
+          "party": "Indian National Congress",
+          "votes": 87,
+          "votes_percentage": 0.9
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "30 April 2009",
+      "counting_date": "05 June 2009",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 9051,
+        "total_votes_polled": 7625,
+        "turnout_percentage": 84.2,
+        "total_valid_votes": 7501,
+        "total_valid_votes_percentage": 82.9,
+        "margin_votes": 1266,
+        "margin_percentage": 16.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Am Prasad Sharma",
+          "party": "Sikkim Democratic Front",
+          "votes": 4298,
+          "votes_percentage": 56.4
+        },
+        {
+          "position": 2,
+          "name": "Nar Bahadur Bhandari",
+          "party": "Indian National Congress",
+          "votes": 3032,
+          "votes_percentage": 39.8
+        },
+        {
+          "position": 3,
+          "name": "Arun Kr. Pradhan",
+          "party": "Sikkim Gorkha Prajatantric Party",
+          "votes": 295,
+          "votes_percentage": 3.9
+        }
+      ]
+    }
+  }
+}

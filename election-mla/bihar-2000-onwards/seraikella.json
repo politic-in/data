@@ -1,0 +1,78 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "Seraikella",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 195509,
+        "total_votes_polled": 110910,
+        "turnout_percentage": 56.7,
+        "margin_votes": 8783,
+        "margin_percentage": 7.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Anant Ram Tudu",
+          "party": "Bharatiya Janta Party",
+          "votes": 49333,
+          "votes_percentage": 45.2
+        },
+        {
+          "position": 2,
+          "name": "Champai Soren",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 40550,
+          "votes_percentage": 37.2
+        },
+        {
+          "position": 3,
+          "name": "Mahendra Nath Murmu",
+          "party": "Indian National Congress",
+          "votes": 10160,
+          "votes_percentage": 9.3
+        },
+        {
+          "position": 4,
+          "name": "Durga Tiu",
+          "party": "Independent",
+          "votes": 3204,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 5,
+          "name": "Subarmanium Baskey",
+          "party": "Bahujan Samaj Party",
+          "votes": 2929,
+          "votes_percentage": 2.7
+        },
+        {
+          "position": 6,
+          "name": "Vishu Hembrom",
+          "party": "Rashtriya Janata Dal",
+          "votes": 2451,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 7,
+          "name": "Jai Mohan Sardar",
+          "party": "Amara Bengali",
+          "votes": 353,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Paresh Chandra Soren",
+          "party": "Independent",
+          "votes": 156,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

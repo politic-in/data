@@ -1,0 +1,85 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Pindwada abu",
+  "district": "Sirohi",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 196788,
+        "total_votes_polled": 134849,
+        "turnout_percentage": 70.9,
+        "margin_votes": 26974,
+        "margin_percentage": 20.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sama Ram Grasiya",
+          "party": "Bharatiya Janta Party",
+          "votes": 69360,
+          "votes_percentage": 51.4
+        },
+        {
+          "position": 2,
+          "name": "Lala Ram Grasiya",
+          "party": "Indian National Congress",
+          "votes": 42386,
+          "votes_percentage": 31.4
+        },
+        {
+          "position": 3,
+          "name": "Magan Lal",
+          "party": "Shiv Sena",
+          "votes": 6658,
+          "votes_percentage": 4.9
+        },
+        {
+          "position": 4,
+          "name": "Gouri Shankar",
+          "party": "Bhartiya Tribal Party",
+          "votes": 5137,
+          "votes_percentage": 3.8
+        },
+        {
+          "position": 5,
+          "name": "Rataram",
+          "party": "Independent",
+          "votes": 3983,
+          "votes_percentage": 3.0
+        },
+        {
+          "position": 6,
+          "name": "Revat Kumar",
+          "party": "Independent",
+          "votes": 2650,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 7,
+          "name": "Dalpatram",
+          "party": "Bahujan Samaj Party",
+          "votes": 2208,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 8,
+          "name": "Kesarmal",
+          "party": "Independent",
+          "votes": 1549,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 9,
+          "name": "Kapoora Ram Meena",
+          "party": "Independent",
+          "votes": 918,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

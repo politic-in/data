@@ -1,0 +1,152 @@
+{
+  "state": "Sikkim",
+  "constituency": "Namchi-singhithang",
+  "district": "South",
+  "ac_type": "GEN",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 12765,
+        "total_votes_polled": 9971,
+        "turnout_percentage": 78.7,
+        "margin_votes": 377,
+        "margin_percentage": 3.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pawan Chamling",
+          "party": "Sikkim Democratic Front",
+          "votes": 5054,
+          "votes_percentage": 50.7
+        },
+        {
+          "position": 2,
+          "name": "Ganesh Rai",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 4677,
+          "votes_percentage": 46.9
+        },
+        {
+          "position": 3,
+          "name": "Kamala Rai",
+          "party": "Indian National Congress",
+          "votes": 87,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 4,
+          "name": "Kharga Bahadur Rai",
+          "party": "Sikkim Republican Party",
+          "votes": 83,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 5,
+          "name": "Hukum Chandra Rai",
+          "party": "Hamro Sikkim Party",
+          "votes": 70,
+          "votes_percentage": 0.7
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "12 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 10820,
+        "total_votes_polled": 8668,
+        "turnout_percentage": 80.1,
+        "total_valid_votes": 8556,
+        "total_valid_votes_percentage": 79.1,
+        "margin_votes": 1084,
+        "margin_percentage": 12.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pawan Chamling",
+          "party": "Sikkim Democratic Front",
+          "votes": 4774,
+          "votes_percentage": 55.8
+        },
+        {
+          "position": 2,
+          "name": "Milan Rai",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 3690,
+          "votes_percentage": 43.1
+        },
+        {
+          "position": 3,
+          "name": "Khush Bdr. Rai",
+          "party": "Indian National Congress",
+          "votes": 92,
+          "votes_percentage": 1.1
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "30 April 2009",
+      "counting_date": "05 June 2009",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 9086,
+        "total_votes_polled": 6982,
+        "turnout_percentage": 76.8,
+        "total_valid_votes": 6706,
+        "total_valid_votes_percentage": 73.8,
+        "margin_votes": 4644,
+        "margin_percentage": 66.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pawan Chamling",
+          "party": "Sikkim Democratic Front",
+          "votes": 5653,
+          "votes_percentage": 81.0
+        },
+        {
+          "position": 2,
+          "name": "Khush Bdr Rai",
+          "party": "Indian National Congress",
+          "votes": 1009,
+          "votes_percentage": 14.5
+        },
+        {
+          "position": 3,
+          "name": "Basant Kr. Rai",
+          "party": "Sikkim Jan-Ekta Party",
+          "votes": 127,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 4,
+          "name": "Anjana Tamang",
+          "party": "Nationalist Congress Party",
+          "votes": 81,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 5,
+          "name": "Sheela Rai",
+          "party": "Independent",
+          "votes": 62,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Arjun Kumar Rai",
+          "party": "Sikkim Gorkha Prajatantric Party",
+          "votes": 50,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "state": "Himachal Pradesh",
+  "constituency": "SOLAN(SC)",
+  "district": "Solan",
+  "ac_type": "SC",
+  "results": {
+    "2022": {
+      "poll_date": "12 November 2022",
+      "counting_date": "08 December 2022",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 85419,
+        "total_votes_polled": 57751,
+        "turnout_percentage": 68.4,
+        "margin_votes": 3858,
+        "margin_percentage": 6.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dhani Ram Shandil",
+          "party": "Indian National Congress",
+          "votes": 30089,
+          "votes_percentage": 51.5
+        },
+        {
+          "position": 2,
+          "name": "Rajesh Kashyap",
+          "party": "Bharatiya Janta Party",
+          "votes": 26231,
+          "votes_percentage": 44.9
+        },
+        {
+          "position": 3,
+          "name": "Anju",
+          "party": "Aam Aadmi Party",
+          "votes": 1108,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 4,
+          "name": "Rajinder",
+          "party": "Bahujan Samaj Party",
+          "votes": 323,
+          "votes_percentage": 0.6
+        }
+      ]
+    },
+    "2017": {
+      "poll_date": "09 November 2017",
+      "counting_date": "18 December 2017",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 79516,
+        "total_votes_polled": 53750,
+        "turnout_percentage": 68.4,
+        "margin_votes": 671,
+        "margin_percentage": 1.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dr. (COL.) DHANI RAM SHANDIL",
+          "party": "Indian National Congress",
+          "votes": 26200,
+          "votes_percentage": 48.7
+        },
+        {
+          "position": 2,
+          "name": "Rajesh Kashyap",
+          "party": "Bharatiya Janta Party",
+          "votes": 25529,
+          "votes_percentage": 47.5
+        },
+        {
+          "position": 3,
+          "name": "Ajay Bhatti",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 1632,
+          "votes_percentage": 3.0
+        },
+        {
+          "position": 4,
+          "name": "Shashi Kant Chauhan",
+          "party": "Independent",
+          "votes": 389,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

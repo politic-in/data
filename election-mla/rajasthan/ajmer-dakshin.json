@@ -1,0 +1,99 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Ajmer dakshin",
+  "district": "Ajmer",
+  "ac_type": "SC",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 201983,
+        "total_votes_polled": 135904,
+        "turnout_percentage": 68.2,
+        "margin_votes": 5700,
+        "margin_percentage": 4.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Anita Bhadel",
+          "party": "Bharatiya Janta Party",
+          "votes": 69064,
+          "votes_percentage": 50.8
+        },
+        {
+          "position": 2,
+          "name": "Hemant Bhati",
+          "party": "Indian National Congress",
+          "votes": 63364,
+          "votes_percentage": 46.6
+        },
+        {
+          "position": 3,
+          "name": "Dr Rakesh Shivashiya",
+          "party": "Independent",
+          "votes": 1065,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 4,
+          "name": "Ganpat Lal",
+          "party": "Bahujan Samaj Party",
+          "votes": 793,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 5,
+          "name": "Vijay Kumar",
+          "party": "National Future Party",
+          "votes": 564,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Amit Lahiri",
+          "party": "Bharatiya Yuva Shakti",
+          "votes": 358,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "Pankaj",
+          "party": "Aam Aadmi Party",
+          "votes": 191,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "Ashok Kumar Nogiya",
+          "party": "Republican Party Of India (A)",
+          "votes": 135,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Beena Sukriya",
+          "party": "Bhartiya Public Labour Party",
+          "votes": 131,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Jagdish Bhambi",
+          "party": "Bharatiya Rashtravadi Samanta Party",
+          "votes": 129,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Pramendra Chouhan",
+          "party": "Shiv Sena",
+          "votes": 110,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "state": "Haryana",
+  "constituency": "Uklana",
+  "district": "Hisar",
+  "ac_type": "SC",
+  "results": {
+    "2009": {
+      "poll_date": "13 October 2009",
+      "counting_date": "22 October 2009",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 152276,
+        "total_votes_polled": 111653,
+        "turnout_percentage": 73.3,
+        "total_valid_votes": 111486,
+        "total_valid_votes_percentage": 73.2,
+        "margin_votes": 3738,
+        "margin_percentage": 3.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Naresh Selwal",
+          "party": "Indian National Congress",
+          "votes": 45973,
+          "votes_percentage": 41.2
+        },
+        {
+          "position": 2,
+          "name": "Seema Devi",
+          "party": "Indian National Lok Dal",
+          "votes": 42235,
+          "votes_percentage": 37.8
+        },
+        {
+          "position": 3,
+          "name": "Rajbala",
+          "party": "Haryana Janhit Congress (BL)",
+          "votes": 14820,
+          "votes_percentage": 13.3
+        },
+        {
+          "position": 4,
+          "name": "Sandeep",
+          "party": "Bahujan Samaj Party",
+          "votes": 3469,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 5,
+          "name": "Narsingh Dass",
+          "party": "Bharatiya Janta Party",
+          "votes": 2911,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 6,
+          "name": "Kavita",
+          "party": "Smast Bhartiya Party",
+          "votes": 881,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 7,
+          "name": "Mahender Singh",
+          "party": "Independent",
+          "votes": 704,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "Raghuvir Singh",
+          "party": "Independent",
+          "votes": 660,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 99311,
+        "male": 108894,
+        "percentage_of_total_population": 14.75,
+        "percentage_of_total_population_calculated": 14.75,
+        "percentage_of_total_population_stated": 14.75,
+        "sex_ratio": 912,
+        "total": 208205
+    },
+    "literacy": {
+        "female_literacy_rate": 46.53,
+        "female_literate": 272977,
+        "male_literacy_rate": 75.75,
+        "male_literate": 466815,
+        "rate_percentage": 61.5,
+        "total_literate": 739792
+    },
+    "population": {
+        "female": 685986,
+        "male": 725143,
+        "sex_ratio": 946,
+        "total": 1411129
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.0,
+            "population": 46
+        },
+        "Christian": {
+            "percentage": 0.06,
+            "population": 842
+        },
+        "Hindu": {
+            "percentage": 92.11,
+            "population": 1299751
+        },
+        "Jain": {
+            "percentage": 0.88,
+            "population": 12488
+        },
+        "Muslims": {
+            "percentage": 6.81,
+            "population": 96164
+        },
+        "Not Stated": {
+            "percentage": 0.07,
+            "population": 977
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 42
+        },
+        "Sikh": {
+            "percentage": 0.06,
+            "population": 819
+        }
+    },
+    "rural": {
+        "child_population_female": 84815,
+        "child_population_male": 92552,
+        "child_population_percentage": 15.01,
+        "child_population_percentage_calculated": 15.01,
+        "child_population_percentage_stated": 15.01,
+        "child_population_total": 177367,
+        "child_sex_ratio": 916,
+        "female": 575305,
+        "literacy_rate_female": 41.51,
+        "literacy_rate_male": 73.01,
+        "literacy_rate_percentage": 57.63,
+        "literate_female": 203624,
+        "literate_male": 375242,
+        "literate_total": 578866,
+        "male": 606533,
+        "percentage_population": 83.75,
+        "population": 1181838,
+        "sex_ratio": 949
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/454-jhalawar.html",
+    "urban": {
+        "child_population_female": 14500,
+        "child_population_male": 16338,
+        "child_population_percentage": 13.45,
+        "child_population_percentage_calculated": 13.45,
+        "child_population_percentage_stated": 13.45,
+        "child_population_total": 30838,
+        "child_sex_ratio": 888,
+        "female": 110681,
+        "literacy_rate_female": 72.11,
+        "literacy_rate_male": 89.54,
+        "literacy_rate_percentage": 81.09,
+        "literate_female": 69353,
+        "literate_male": 91573,
+        "literate_total": 160926,
+        "male": 118610,
+        "percentage_population": 16.25,
+        "population": 229291,
+        "sex_ratio": 933
+    }
+}

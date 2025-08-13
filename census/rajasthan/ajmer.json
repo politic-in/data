@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 180658,
+        "male": 200509,
+        "percentage_of_total_population": 14.76,
+        "percentage_of_total_population_calculated": 14.76,
+        "percentage_of_total_population_stated": 14.76,
+        "sex_ratio": 901,
+        "total": 381167
+    },
+    "literacy": {
+        "female_literacy_rate": 55.68,
+        "female_literate": 600405,
+        "male_literacy_rate": 82.44,
+        "male_literate": 926268,
+        "rate_percentage": 69.33,
+        "total_literate": 1526673
+    },
+    "population": {
+        "female": 1258967,
+        "male": 1324085,
+        "sex_ratio": 951,
+        "total": 2583052
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 417
+        },
+        "Christian": {
+            "percentage": 0.41,
+            "population": 10605
+        },
+        "Hindu": {
+            "percentage": 85.23,
+            "population": 2201663
+        },
+        "Jain": {
+            "percentage": 1.77,
+            "population": 45614
+        },
+        "Muslims": {
+            "percentage": 12.16,
+            "population": 314159
+        },
+        "Not Stated": {
+            "percentage": 0.14,
+            "population": 3611
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 184
+        },
+        "Sikh": {
+            "percentage": 0.26,
+            "population": 6799
+        }
+    },
+    "rural": {
+        "child_population_female": 120668,
+        "child_population_male": 133094,
+        "child_population_percentage": 16.4,
+        "child_population_percentage_calculated": 16.4,
+        "child_population_percentage_stated": 16.4,
+        "child_population_total": 253762,
+        "child_sex_ratio": 907,
+        "female": 758245,
+        "literacy_rate_female": 41.29,
+        "literacy_rate_male": 76.45,
+        "literacy_rate_percentage": 59.13,
+        "literate_female": 263252,
+        "literate_male": 501770,
+        "literate_total": 765022,
+        "male": 789397,
+        "percentage_population": 59.92,
+        "population": 1547642,
+        "sex_ratio": 961
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/444-ajmer.html",
+    "urban": {
+        "child_population_female": 59988,
+        "child_population_male": 67417,
+        "child_population_percentage": 12.3,
+        "child_population_percentage_calculated": 12.3,
+        "child_population_percentage_stated": 12.3,
+        "child_population_total": 127405,
+        "child_sex_ratio": 890,
+        "female": 500722,
+        "literacy_rate_female": 76.5,
+        "literacy_rate_male": 90.85,
+        "literacy_rate_percentage": 83.88,
+        "literate_female": 337153,
+        "literate_male": 424498,
+        "literate_total": 761651,
+        "male": 534688,
+        "percentage_population": 40.08,
+        "population": 1035410,
+        "sex_ratio": 936
+    }
+}

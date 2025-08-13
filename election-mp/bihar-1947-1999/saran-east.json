@@ -1,0 +1,41 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "SARAN EAST",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 307256,
+        "total_votes_polled": 104790,
+        "turnout_percentage": 34.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Satya Narain Singh",
+          "party": "Indian National Congress",
+          "votes": 69468,
+          "votes_percentage": 66.3
+        },
+        {
+          "position": 2,
+          "name": "Kanhaiya Prasad Verma",
+          "party": "Socialist Party",
+          "votes": 24165,
+          "votes_percentage": 23.1
+        },
+        {
+          "position": 3,
+          "name": "Bilas Ojha",
+          "party": "Independent",
+          "votes": 11157,
+          "votes_percentage": 10.6
+        }
+      ]
+    }
+  }
+}

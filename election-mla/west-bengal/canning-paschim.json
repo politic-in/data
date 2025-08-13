@@ -1,0 +1,113 @@
+{
+  "state": "West Bengal",
+  "constituency": "Canning Paschim",
+  "district": "South  Twenty Four Parganas",
+  "ac_type": "SC",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 241023,
+        "total_votes_polled": 215322,
+        "turnout_percentage": 90.6,
+        "margin_votes": 35243,
+        "margin_percentage": 16.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Paresh Ram Das",
+          "party": "All India Trinamool Congress",
+          "votes": 111059,
+          "votes_percentage": 51.6
+        },
+        {
+          "position": 2,
+          "name": "Arnab Roy",
+          "party": "Bharatiya Janta Party",
+          "votes": 75816,
+          "votes_percentage": 35.2
+        },
+        {
+          "position": 3,
+          "name": "Meghnath Halder",
+          "party": "Independent",
+          "votes": 13390,
+          "votes_percentage": 6.2
+        },
+        {
+          "position": 4,
+          "name": "Protap Chandra Mondal",
+          "party": "Indian National Congress",
+          "votes": 11908,
+          "votes_percentage": 5.5
+        },
+        {
+          "position": 5,
+          "name": "Narayan Naskar",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1963,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Maya Bag",
+          "party": "Independent",
+          "votes": 759,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Gopal Chandra Mandal",
+          "party": "Independent",
+          "votes": 427,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 177902,
+        "total_votes_polled": 153202,
+        "turnout_percentage": 86.1,
+        "margin_votes": 19614,
+        "margin_percentage": 12.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shyamal Mondal",
+          "party": "All India Trinamool Congress",
+          "votes": 81736,
+          "votes_percentage": 53.4
+        },
+        {
+          "position": 2,
+          "name": "Jaydeb Purkait",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 62122,
+          "votes_percentage": 40.6
+        },
+        {
+          "position": 3,
+          "name": "Manojit Mondal",
+          "party": "Bharatiya Janta Party",
+          "votes": 6108,
+          "votes_percentage": 4.0
+        },
+        {
+          "position": 4,
+          "name": "Ajit Kumar Majumdar",
+          "party": "Bahujan Samaj Party",
+          "votes": 3236,
+          "votes_percentage": 2.1
+        }
+      ]
+    }
+  }
+}

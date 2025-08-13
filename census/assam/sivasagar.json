@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 68268,
+        "male": 71112,
+        "percentage_of_total_population": 12.11,
+        "percentage_of_total_population_calculated": 12.11,
+        "percentage_of_total_population_stated": 12.11,
+        "sex_ratio": 960,
+        "total": 139380
+    },
+    "literacy": {
+        "female_literacy_rate": 74.71,
+        "female_literate": 368738,
+        "male_literacy_rate": 85.84,
+        "male_literate": 444767,
+        "rate_percentage": 80.41,
+        "total_literate": 813505
+    },
+    "population": {
+        "female": 561834,
+        "male": 589216,
+        "sex_ratio": 954,
+        "total": 1151050
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.34,
+            "population": 3953
+        },
+        "Christian": {
+            "percentage": 2.88,
+            "population": 33147
+        },
+        "Hindu": {
+            "percentage": 87.51,
+            "population": 1007277
+        },
+        "Jain": {
+            "percentage": 0.02,
+            "population": 286
+        },
+        "Muslims": {
+            "percentage": 8.3,
+            "population": 95553
+        },
+        "Not Stated": {
+            "percentage": 0.12,
+            "population": 1391
+        },
+        "Others": {
+            "percentage": 0.74,
+            "population": 8541
+        },
+        "Sikh": {
+            "percentage": 0.08,
+            "population": 902
+        }
+    },
+    "rural": {
+        "child_population_female": 62892,
+        "child_population_male": 65397,
+        "child_population_percentage": 12.32,
+        "child_population_percentage_calculated": 12.32,
+        "child_population_percentage_stated": 12.32,
+        "child_population_total": 128289,
+        "child_sex_ratio": 962,
+        "female": 509668,
+        "literacy_rate_female": 73.24,
+        "literacy_rate_male": 85.06,
+        "literacy_rate_percentage": 79.27,
+        "literate_female": 327218,
+        "literate_male": 396272,
+        "literate_total": 723490,
+        "male": 531286,
+        "percentage_population": 90.44,
+        "population": 1040954,
+        "sex_ratio": 959
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/164-sivasagar.html",
+    "urban": {
+        "child_population_female": 5386,
+        "child_population_male": 5705,
+        "child_population_percentage": 10.07,
+        "child_population_percentage_calculated": 10.07,
+        "child_population_percentage_stated": 10.07,
+        "child_population_total": 11091,
+        "child_sex_ratio": 944,
+        "female": 52166,
+        "literacy_rate_female": 88.76,
+        "literacy_rate_male": 92.86,
+        "literacy_rate_percentage": 90.92,
+        "literate_female": 41520,
+        "literate_male": 48495,
+        "literate_total": 90015,
+        "male": 57930,
+        "percentage_population": 9.56,
+        "population": 110096,
+        "sex_ratio": 901
+    }
+}

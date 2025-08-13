@@ -1,0 +1,57 @@
+{
+  "state": "Assam",
+  "constituency": "Dergaon (SC)",
+  "district": "Jorhat",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 146486,
+        "total_votes_polled": 118561,
+        "turnout_percentage": 82.3,
+        "margin_votes": 16272,
+        "margin_percentage": 13.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bhabendra Nath Bharali",
+          "party": "Asom Gana Parisad",
+          "votes": 63079,
+          "votes_percentage": 53.2
+        },
+        {
+          "position": 2,
+          "name": "Aroti Hazarika Kachari",
+          "party": "Indian National Congress",
+          "votes": 46807,
+          "votes_percentage": 39.5
+        },
+        {
+          "position": 3,
+          "name": "Rita Das",
+          "party": "Independent",
+          "votes": 3622,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 4,
+          "name": "Bhuban Chandra Saikia",
+          "party": "Independent",
+          "votes": 3225,
+          "votes_percentage": 2.7
+        },
+        {
+          "position": 5,
+          "name": "Ajit Hazarika",
+          "party": "Nationalist Congress Party",
+          "votes": 1828,
+          "votes_percentage": 1.5
+        }
+      ]
+    }
+  }
+}

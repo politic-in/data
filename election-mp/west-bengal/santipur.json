@@ -1,0 +1,62 @@
+{
+  "state": "West Bengal",
+  "constituency": "SANTIPUR",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 371454,
+        "total_votes_polled": 160938,
+        "turnout_percentage": 43.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Arun Chandra Guha",
+          "party": "Indian National Congress",
+          "votes": 80439,
+          "votes_percentage": 50.0
+        },
+        {
+          "position": 2,
+          "name": "Biml Kumar Chatterjee",
+          "party": "Revolutionary Communist Party Of India",
+          "votes": 26245,
+          "votes_percentage": 16.3
+        },
+        {
+          "position": 3,
+          "name": "Atul Krishna Ghosh",
+          "party": "Independent",
+          "votes": 23337,
+          "votes_percentage": 14.5
+        },
+        {
+          "position": 4,
+          "name": "J. P. Mitter",
+          "party": "Independent",
+          "votes": 20477,
+          "votes_percentage": 12.7
+        },
+        {
+          "position": 5,
+          "name": "Paran Ganguli",
+          "party": "Independent",
+          "votes": 6442,
+          "votes_percentage": 4.0
+        },
+        {
+          "position": 6,
+          "name": "Sailesh Mazumdar",
+          "party": "Independent",
+          "votes": 3998,
+          "votes_percentage": 2.5
+        }
+      ]
+    }
+  }
+}

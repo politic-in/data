@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 58934,
+        "male": 65338,
+        "percentage_of_total_population": 13.02,
+        "percentage_of_total_population_calculated": 13.02,
+        "percentage_of_total_population_stated": 13.02,
+        "sex_ratio": 902,
+        "total": 124272
+    },
+    "literacy": {
+        "female_literacy_rate": 77.29,
+        "female_literate": 310721,
+        "male_literacy_rate": 90.07,
+        "male_literate": 385779,
+        "rate_percentage": 83.88,
+        "total_literate": 696500
+    },
+    "population": {
+        "female": 460939,
+        "male": 493666,
+        "sex_ratio": 934,
+        "total": 954605
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.06,
+            "population": 570
+        },
+        "Christian": {
+            "percentage": 0.53,
+            "population": 5091
+        },
+        "Hindu": {
+            "percentage": 84.82,
+            "population": 809717
+        },
+        "Jain": {
+            "percentage": 0.04,
+            "population": 356
+        },
+        "Muslims": {
+            "percentage": 12.65,
+            "population": 120742
+        },
+        "Not Stated": {
+            "percentage": 0.06,
+            "population": 529
+        },
+        "Others": {
+            "percentage": 0.02,
+            "population": 181
+        },
+        "Sikh": {
+            "percentage": 1.82,
+            "population": 17419
+        }
+    },
+    "rural": {
+        "child_population_female": 37686,
+        "child_population_male": 41526,
+        "child_population_percentage": 13.59,
+        "child_population_percentage_calculated": 13.59,
+        "child_population_percentage_stated": 13.59,
+        "child_population_total": 79212,
+        "child_sex_ratio": 908,
+        "female": 283614,
+        "literacy_rate_female": 74.7,
+        "literacy_rate_male": 90.89,
+        "literacy_rate_percentage": 82.99,
+        "literate_female": 183716,
+        "literate_male": 234254,
+        "literate_total": 417970,
+        "male": 299257,
+        "percentage_population": 61.06,
+        "population": 582871,
+        "sex_ratio": 948
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/584-nainital.html",
+    "urban": {
+        "child_population_female": 21249,
+        "child_population_male": 23811,
+        "child_population_percentage": 12.12,
+        "child_population_percentage_calculated": 12.12,
+        "child_population_percentage_stated": 12.12,
+        "child_population_total": 45060,
+        "child_sex_ratio": 892,
+        "female": 177325,
+        "literacy_rate_female": 81.37,
+        "literacy_rate_male": 88.82,
+        "literacy_rate_percentage": 85.26,
+        "literate_female": 127005,
+        "literate_male": 151525,
+        "literate_total": 278530,
+        "male": 194409,
+        "percentage_population": 38.94,
+        "population": 371734,
+        "sex_ratio": 912
+    }
+}

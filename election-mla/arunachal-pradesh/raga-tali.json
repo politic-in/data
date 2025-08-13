@@ -1,0 +1,78 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Raga Tali",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 9304,
+        "total_votes_polled": 5236,
+        "turnout_percentage": 56.3,
+        "margin_votes": 1968,
+        "margin_percentage": 37.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Boa Tame",
+          "party": "Peoples Party Of Arunachal",
+          "votes": 2983,
+          "votes_percentage": 61.6
+        },
+        {
+          "position": 2,
+          "name": "Kabak Mem",
+          "party": "Indian National Congress (I)",
+          "votes": 1015,
+          "votes_percentage": 21.0
+        },
+        {
+          "position": 3,
+          "name": "Rigic Tada",
+          "party": "Independent",
+          "votes": 799,
+          "votes_percentage": 16.5
+        },
+        {
+          "position": 4,
+          "name": "Nido Techi",
+          "party": "Independent",
+          "votes": 48,
+          "votes_percentage": 1.0
+        }
+      ]
+    },
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 8662,
+        "total_votes_polled": 6664,
+        "turnout_percentage": 76.9,
+        "margin_votes": 643,
+        "margin_percentage": 9.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nido Techi",
+          "party": "Janta Party",
+          "votes": 3539,
+          "votes_percentage": 55.0
+        },
+        {
+          "position": 2,
+          "name": "Baotamo",
+          "party": "Peoples Party Of Arunachal",
+          "votes": 2896,
+          "votes_percentage": 45.0
+        }
+      ]
+    }
+  }
+}

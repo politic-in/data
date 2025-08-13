@@ -1,0 +1,78 @@
+{
+  "state": "Maharashtra",
+  "constituency": "Bhawani Peth",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 122541,
+        "total_votes_polled": 59587,
+        "turnout_percentage": 48.6,
+        "margin_votes": 7634,
+        "margin_percentage": 12.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Amminuddin A. A. Penwale",
+          "party": "Indian National Congress (I)",
+          "votes": 27520,
+          "votes_percentage": 46.7
+        },
+        {
+          "position": 2,
+          "name": "Bhai Vaidya",
+          "party": "Janata Party (JP)",
+          "votes": 19886,
+          "votes_percentage": 33.8
+        },
+        {
+          "position": 3,
+          "name": "Kirad Sheela Mathuradas",
+          "party": "Indian National Congress (U)",
+          "votes": 8929,
+          "votes_percentage": 15.2
+        },
+        {
+          "position": 4,
+          "name": "Suryawanshi Namdeorao",
+          "party": "Independent",
+          "votes": 1972,
+          "votes_percentage": 3.4
+        },
+        {
+          "position": 5,
+          "name": "Pagare C. P.",
+          "party": "Independent",
+          "votes": 349,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "More Shyamkant Damodar",
+          "party": "Janata Party (SECULAR) RAJ NARAIN",
+          "votes": 109,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "B. B. Alias Nanasaheb Naik",
+          "party": "Independent",
+          "votes": 101,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "Lokar Mohan Sopan",
+          "party": "Independent",
+          "votes": 56,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

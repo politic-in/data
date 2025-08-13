@@ -1,0 +1,71 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Pakke-Kasang",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "1999": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 6449,
+        "total_votes_polled": 4643,
+        "turnout_percentage": 72.0,
+        "margin_votes": 323,
+        "margin_percentage": 7.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dera Natung",
+          "party": "Indian National Congress",
+          "votes": 2421,
+          "votes_percentage": 53.6
+        },
+        {
+          "position": 2,
+          "name": "Techi Hemu",
+          "party": "Arunachal Congress",
+          "votes": 2098,
+          "votes_percentage": 46.4
+        }
+      ]
+    },
+    "1995": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 6124,
+        "total_votes_polled": 5150,
+        "turnout_percentage": 84.1,
+        "margin_votes": 1123,
+        "margin_percentage": 21.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dera Natung",
+          "party": "Indian National Congress",
+          "votes": 2838,
+          "votes_percentage": 56.3
+        },
+        {
+          "position": 2,
+          "name": "Techi Hemu",
+          "party": "Independent",
+          "votes": 1715,
+          "votes_percentage": 34.1
+        },
+        {
+          "position": 3,
+          "name": "Aka Tok",
+          "party": "Janata Dal",
+          "votes": 484,
+          "votes_percentage": 9.6
+        }
+      ]
+    }
+  }
+}

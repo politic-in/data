@@ -1,0 +1,41 @@
+{
+  "state": "Rajasthan",
+  "constituency": "BARMER JALORE",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 369470,
+        "total_votes_polled": 128092,
+        "turnout_percentage": 34.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bhawani Singh",
+          "party": "Independent",
+          "votes": 81546,
+          "votes_percentage": 63.7
+        },
+        {
+          "position": 2,
+          "name": "Poonam Chand",
+          "party": "Indian National Congress",
+          "votes": 37053,
+          "votes_percentage": 28.9
+        },
+        {
+          "position": 3,
+          "name": "Hukam Singh",
+          "party": "Independent",
+          "votes": 9493,
+          "votes_percentage": 7.4
+        }
+      ]
+    }
+  }
+}

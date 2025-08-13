@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 91891,
+        "male": 110711,
+        "percentage_of_total_population": 13.38,
+        "percentage_of_total_population_calculated": 13.38,
+        "percentage_of_total_population_stated": 13.38,
+        "sex_ratio": 830,
+        "total": 202602
+    },
+    "literacy": {
+        "female_literacy_rate": 77.98,
+        "female_literate": 472450,
+        "male_literacy_rate": 90.46,
+        "male_literate": 638666,
+        "rate_percentage": 84.7,
+        "total_literate": 1111116
+    },
+    "population": {
+        "female": 697742,
+        "male": 816690,
+        "sex_ratio": 854,
+        "total": 1514432
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.06,
+            "population": 944
+        },
+        "Christian": {
+            "percentage": 0.64,
+            "population": 9725
+        },
+        "Hindu": {
+            "percentage": 93.03,
+            "population": 1408801
+        },
+        "Jain": {
+            "percentage": 0.49,
+            "population": 7451
+        },
+        "Muslims": {
+            "percentage": 4.68,
+            "population": 70842
+        },
+        "Not Stated": {
+            "percentage": 0.09,
+            "population": 1318
+        },
+        "Others": {
+            "percentage": 0.02,
+            "population": 254
+        },
+        "Sikh": {
+            "percentage": 1.0,
+            "population": 15097
+        }
+    },
+    "rural": {
+        "child_population_female": 30004,
+        "child_population_male": 37469,
+        "child_population_percentage": 14.29,
+        "child_population_percentage_calculated": 14.29,
+        "child_population_percentage_stated": 14.29,
+        "child_population_total": 67473,
+        "child_sex_ratio": 801,
+        "female": 220717,
+        "literacy_rate_female": 69.11,
+        "literacy_rate_male": 89.86,
+        "literacy_rate_percentage": 80.08,
+        "literate_female": 131799,
+        "literate_male": 192288,
+        "literate_total": 324087,
+        "male": 251462,
+        "percentage_population": 31.18,
+        "population": 472179,
+        "sex_ratio": 878
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/225-gurgaon.html",
+    "urban": {
+        "child_population_female": 61893,
+        "child_population_male": 73236,
+        "child_population_percentage": 12.97,
+        "child_population_percentage_calculated": 12.97,
+        "child_population_percentage_stated": 12.97,
+        "child_population_total": 135129,
+        "child_sex_ratio": 845,
+        "female": 477025,
+        "literacy_rate_female": 82.06,
+        "literacy_rate_male": 90.73,
+        "literacy_rate_percentage": 86.76,
+        "literate_female": 340651,
+        "literate_male": 446378,
+        "literate_total": 787029,
+        "male": 565228,
+        "percentage_population": 68.82,
+        "population": 1042253,
+        "sex_ratio": 844
+    }
+}

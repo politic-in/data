@@ -1,0 +1,64 @@
+{
+  "state": "West Bengal",
+  "constituency": "RAGHUNATHPUR (SC)",
+  "district": "Puruliya",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 233812,
+        "total_votes_polled": 187732,
+        "turnout_percentage": 82.5,
+        "margin_votes": 16142,
+        "margin_percentage": 8.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Purna Chandra Bauri",
+          "party": "All India Trinamool Congress",
+          "votes": 83688,
+          "votes_percentage": 44.6
+        },
+        {
+          "position": 2,
+          "name": "Satyanarayan Bauri",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 67546,
+          "votes_percentage": 36.0
+        },
+        {
+          "position": 3,
+          "name": "Subhas Chandra Mondal",
+          "party": "Bharatiya Janta Party",
+          "votes": 24912,
+          "votes_percentage": 13.3
+        },
+        {
+          "position": 4,
+          "name": "Kishta Bauri",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 4664,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 5,
+          "name": "Gobordhan Bagdi",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 3735,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 6,
+          "name": "Mahadeb Bauri",
+          "party": "Bahujan Samaj Party",
+          "votes": 3187,
+          "votes_percentage": 1.7
+        }
+      ]
+    }
+  }
+}

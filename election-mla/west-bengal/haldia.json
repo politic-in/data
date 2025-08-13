@@ -1,0 +1,106 @@
+{
+  "state": "West Bengal",
+  "constituency": "Haldia",
+  "district": "Purba Medinipur",
+  "ac_type": "SC",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 239252,
+        "total_votes_polled": 219410,
+        "turnout_percentage": 92.3,
+        "margin_votes": 15008,
+        "margin_percentage": 6.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tapasi Mondal",
+          "party": "Bharatiya Janta Party",
+          "votes": 104126,
+          "votes_percentage": 47.5
+        },
+        {
+          "position": 2,
+          "name": "Swapan Naskar",
+          "party": "All India Trinamool Congress",
+          "votes": 89118,
+          "votes_percentage": 40.6
+        },
+        {
+          "position": 3,
+          "name": "Kar Paik Manika",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 22688,
+          "votes_percentage": 10.3
+        },
+        {
+          "position": 4,
+          "name": "Subrata Ghorai",
+          "party": "Bahujan Samaj Party",
+          "votes": 1922,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Narayan Pramanik",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1556,
+          "votes_percentage": 0.7
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 188653,
+        "total_votes_polled": 174469,
+        "turnout_percentage": 92.5,
+        "margin_votes": 11924,
+        "margin_percentage": 6.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Seuli Saha",
+          "party": "All India Trinamool Congress",
+          "votes": 89573,
+          "votes_percentage": 51.3
+        },
+        {
+          "position": 2,
+          "name": "Nityananda Bera.",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 77649,
+          "votes_percentage": 44.5
+        },
+        {
+          "position": 3,
+          "name": "Kalipada Das",
+          "party": "Bharatiya Janta Party",
+          "votes": 4640,
+          "votes_percentage": 2.7
+        },
+        {
+          "position": 4,
+          "name": "Basanti Manna (PATRA)",
+          "party": "Indian National League",
+          "votes": 1332,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 5,
+          "name": "Debaprasad Mandal",
+          "party": "Independent",
+          "votes": 1275,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

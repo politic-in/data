@@ -1,0 +1,55 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "PATNA CUM SHAHABAD",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 287272,
+        "total_votes_polled": 136851,
+        "turnout_percentage": 47.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Balram Bhagat",
+          "party": "Indian National Congress",
+          "votes": 69428,
+          "votes_percentage": 50.7
+        },
+        {
+          "position": 2,
+          "name": "Devendra Prasad Singh",
+          "party": "Socialist Party",
+          "votes": 23688,
+          "votes_percentage": 17.3
+        },
+        {
+          "position": 3,
+          "name": "Gopal Dutta Shastri",
+          "party": "Akhil Bharatiya Ram Rajya Parishad",
+          "votes": 20655,
+          "votes_percentage": 15.1
+        },
+        {
+          "position": 4,
+          "name": "Ishwar Daal Singh",
+          "party": "Independent",
+          "votes": 15071,
+          "votes_percentage": 11.0
+        },
+        {
+          "position": 5,
+          "name": "Birendradhari Sinha",
+          "party": "Independent",
+          "votes": 8009,
+          "votes_percentage": 5.9
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "state": "Orissa",
+  "constituency": "GANJAM SOUTH",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 390236,
+        "total_votes_polled": 109695,
+        "turnout_percentage": 28.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bijoy Chandra Das",
+          "party": "Communist Party Of India",
+          "votes": 61002,
+          "votes_percentage": 55.6
+        },
+        {
+          "position": 2,
+          "name": "Dataram Varaha Narsingh Rao",
+          "party": "Independent",
+          "votes": 28524,
+          "votes_percentage": 26.0
+        },
+        {
+          "position": 3,
+          "name": "Sadananda Padhi",
+          "party": "Independent",
+          "votes": 20169,
+          "votes_percentage": 18.4
+        }
+      ]
+    }
+  }
+}

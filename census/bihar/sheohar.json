@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 61981,
+        "male": 66717,
+        "percentage_of_total_population": 19.61,
+        "percentage_of_total_population_calculated": 19.61,
+        "percentage_of_total_population_stated": 19.61,
+        "sex_ratio": 929,
+        "total": 128698
+    },
+    "literacy": {
+        "female_literacy_rate": 45.26,
+        "female_literate": 112053,
+        "male_literacy_rate": 61.31,
+        "male_literate": 171645,
+        "rate_percentage": 53.78,
+        "total_literate": 283698
+    },
+    "population": {
+        "female": 309573,
+        "male": 346673,
+        "sex_ratio": 893,
+        "total": 656246
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 73
+        },
+        "Christian": {
+            "percentage": 0.08,
+            "population": 522
+        },
+        "Hindu": {
+            "percentage": 84.19,
+            "population": 552492
+        },
+        "Jain": {
+            "percentage": 0.01,
+            "population": 52
+        },
+        "Muslims": {
+            "percentage": 15.14,
+            "population": 99342
+        },
+        "Not Stated": {
+            "percentage": 0.53,
+            "population": 3505
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 44
+        },
+        "Sikh": {
+            "percentage": 0.03,
+            "population": 216
+        }
+    },
+    "rural": {
+        "child_population_female": 59349,
+        "child_population_male": 63950,
+        "child_population_percentage": 19.63,
+        "child_population_percentage_calculated": 19.63,
+        "child_population_percentage_stated": 19.63,
+        "child_population_total": 123299,
+        "child_sex_ratio": 928,
+        "female": 296338,
+        "literacy_rate_female": 44.92,
+        "literacy_rate_male": 60.92,
+        "literacy_rate_percentage": 53.41,
+        "literate_female": 106462,
+        "literate_male": 163161,
+        "literate_total": 269623,
+        "male": 331792,
+        "percentage_population": 95.72,
+        "population": 628130,
+        "sex_ratio": 893
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/57-sheohar.html",
+    "urban": {
+        "child_population_female": 2621,
+        "child_population_male": 2778,
+        "child_population_percentage": 19.2,
+        "child_population_percentage_calculated": 19.2,
+        "child_population_percentage_stated": 19.2,
+        "child_population_total": 5399,
+        "child_sex_ratio": 943,
+        "female": 13235,
+        "literacy_rate_female": 52.68,
+        "literacy_rate_male": 70.1,
+        "literacy_rate_percentage": 61.96,
+        "literate_female": 5591,
+        "literate_male": 8484,
+        "literate_total": 14075,
+        "male": 14881,
+        "percentage_population": 4.28,
+        "population": 28116,
+        "sex_ratio": 889
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 28440,
+        "male": 34853,
+        "percentage_of_total_population": 13.09,
+        "percentage_of_total_population_calculated": 13.09,
+        "percentage_of_total_population_stated": 13.09,
+        "sex_ratio": 816,
+        "total": 63293
+    },
+    "literacy": {
+        "female_literacy_rate": 72.29,
+        "female_literate": 155927,
+        "male_literacy_rate": 92.75,
+        "male_literate": 189623,
+        "rate_percentage": 82.25,
+        "total_literate": 345550
+    },
+    "population": {
+        "female": 244133,
+        "male": 239306,
+        "sex_ratio": 1020,
+        "total": 483439
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.04,
+            "population": 185
+        },
+        "Christian": {
+            "percentage": 0.29,
+            "population": 1401
+        },
+        "Hindu": {
+            "percentage": 98.28,
+            "population": 475105
+        },
+        "Jain": {
+            "percentage": 0.0,
+            "population": 13
+        },
+        "Muslims": {
+            "percentage": 1.24,
+            "population": 6015
+        },
+        "Not Stated": {
+            "percentage": 0.09,
+            "population": 430
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 30
+        },
+        "Sikh": {
+            "percentage": 0.05,
+            "population": 260
+        }
+    },
+    "rural": {
+        "child_population_female": 24914,
+        "child_population_male": 29986,
+        "child_population_percentage": 13.27,
+        "child_population_percentage_calculated": 13.27,
+        "child_population_percentage_stated": 13.27,
+        "child_population_total": 54900,
+        "child_sex_ratio": 831,
+        "female": 210904,
+        "literacy_rate_female": 69.64,
+        "literacy_rate_male": 92.36,
+        "literacy_rate_percentage": 80.59,
+        "literate_female": 129527,
+        "literate_male": 159729,
+        "literate_total": 289256,
+        "male": 202930,
+        "percentage_population": 85.6,
+        "population": 413834,
+        "sex_ratio": 1039
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/580-pithoragarh.html",
+    "urban": {
+        "child_population_female": 3526,
+        "child_population_male": 4867,
+        "child_population_percentage": 12.06,
+        "child_population_percentage_calculated": 12.06,
+        "child_population_percentage_stated": 12.06,
+        "child_population_total": 8393,
+        "child_sex_ratio": 724,
+        "female": 33229,
+        "literacy_rate_female": 88.88,
+        "literacy_rate_male": 94.87,
+        "literacy_rate_percentage": 91.97,
+        "literate_female": 26400,
+        "literate_male": 29894,
+        "literate_total": 56294,
+        "male": 36376,
+        "percentage_population": 14.4,
+        "population": 69605,
+        "sex_ratio": 913
+    }
+}

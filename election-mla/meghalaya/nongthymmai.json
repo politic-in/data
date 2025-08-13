@@ -1,0 +1,113 @@
+{
+  "state": "Meghalaya",
+  "constituency": "NONGTHYMMAI",
+  "district": "East Khasi Hills",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "27 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 33793,
+        "total_votes_polled": 23857,
+        "turnout_percentage": 71.4,
+        "margin_votes": 957,
+        "margin_percentage": 4.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Charles Pyngrope",
+          "party": "Indian National Congress",
+          "votes": 10225,
+          "votes_percentage": 42.9
+        },
+        {
+          "position": 2,
+          "name": "Dr. Jemino Mawthoh",
+          "party": "United Democratic Party",
+          "votes": 9268,
+          "votes_percentage": 38.8
+        },
+        {
+          "position": 3,
+          "name": "Ernest Mawrie",
+          "party": "Bharatiya Janta Party",
+          "votes": 3065,
+          "votes_percentage": 12.8
+        },
+        {
+          "position": 4,
+          "name": "Latiplang Kharkongor",
+          "party": "Peoples Democratic Front",
+          "votes": 655,
+          "votes_percentage": 2.7
+        },
+        {
+          "position": 5,
+          "name": "Ehkupar Nongrum",
+          "party": "National People's Party",
+          "votes": 352,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 6,
+          "name": "Ronaldson Dkhar",
+          "party": "Nationalist Congress Party",
+          "votes": 292,
+          "votes_percentage": 1.2
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "23 February 2013",
+      "counting_date": "28 February 2013",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 28350,
+        "total_votes_polled": 20793,
+        "turnout_percentage": 73.3,
+        "margin_votes": 1137,
+        "margin_percentage": 5.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jemino Mawthoh",
+          "party": "United Democratic Party",
+          "votes": 9347,
+          "votes_percentage": 45.0
+        },
+        {
+          "position": 2,
+          "name": "Charles Pyngrope",
+          "party": "Indian National Congress",
+          "votes": 8210,
+          "votes_percentage": 39.5
+        },
+        {
+          "position": 3,
+          "name": "Ehkupar Nongrum",
+          "party": "Bharatiya Janta Party",
+          "votes": 2002,
+          "votes_percentage": 9.6
+        },
+        {
+          "position": 4,
+          "name": "Bhabok Blaze Syiem",
+          "party": "Hill State People's Democratic Party",
+          "votes": 1027,
+          "votes_percentage": 4.9
+        },
+        {
+          "position": 5,
+          "name": "Manosha Warjri",
+          "party": "Khun Hynnieutrip National Awakaning Movement",
+          "votes": 207,
+          "votes_percentage": 1.0
+        }
+      ]
+    }
+  }
+}

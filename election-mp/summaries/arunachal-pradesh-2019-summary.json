@@ -1,0 +1,45 @@
+{
+  "state": "Arunachal Pradesh",
+  "year": "2019",
+  "summary_stats": {
+    "total_electors_state": 794362,
+    "total_votes_polled_state": 652091,
+    "turnout_percentage_state": 82.1,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Arunachal East",
+      "ac_no": 2,
+      "ac_type": "GENP",
+      "district": "Arunachal Pradesh",
+      "winning_candidate": "Tapir Gao",
+      "winning_party": "Bharatiya Janta Party",
+      "total_electors_ac": 335682,
+      "total_votes_ac": 293781,
+      "poll_percentage_ac": 0.0,
+      "margin": 69948,
+      "margin_percentage": 23.8,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2019/arunachal-pradesh/arunachal-east/10220/41/17"
+    },
+    {
+      "ac_name": "Arunachal West",
+      "ac_no": 1,
+      "ac_type": "GENP",
+      "district": "Arunachal Pradesh",
+      "winning_candidate": "Kiren Rijiju",
+      "winning_party": "Bharatiya Janta Party",
+      "total_electors_ac": 458680,
+      "total_votes_ac": 358310,
+      "poll_percentage_ac": 0.0,
+      "margin": 174843,
+      "margin_percentage": 48.8,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2019/arunachal-pradesh/arunachal-west/10219/41/17"
+    }
+  ]
+}

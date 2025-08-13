@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 129404,
+        "male": 144103,
+        "percentage_of_total_population": 13.34,
+        "percentage_of_total_population_calculated": 13.34,
+        "percentage_of_total_population_stated": 13.34,
+        "sex_ratio": 898,
+        "total": 273507
+    },
+    "literacy": {
+        "female_literacy_rate": 65.77,
+        "female_literate": 570528,
+        "male_literacy_rate": 79.5,
+        "male_literate": 723388,
+        "rate_percentage": 72.8,
+        "total_literate": 1293916
+    },
+    "population": {
+        "female": 996831,
+        "male": 1054031,
+        "sex_ratio": 946,
+        "total": 2050862
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.65,
+            "population": 13405
+        },
+        "Christian": {
+            "percentage": 0.18,
+            "population": 3653
+        },
+        "Hindu": {
+            "percentage": 89.01,
+            "population": 1825460
+        },
+        "Jain": {
+            "percentage": 0.63,
+            "population": 12818
+        },
+        "Muslims": {
+            "percentage": 9.16,
+            "population": 187901
+        },
+        "Not Stated": {
+            "percentage": 0.26,
+            "population": 5291
+        },
+        "Others": {
+            "percentage": 0.04,
+            "population": 912
+        },
+        "Sikh": {
+            "percentage": 0.07,
+            "population": 1422
+        }
+    },
+    "rural": {
+        "child_population_female": 97951,
+        "child_population_male": 108085,
+        "child_population_percentage": 13.92,
+        "child_population_percentage_calculated": 13.92,
+        "child_population_percentage_stated": 13.92,
+        "child_population_total": 206036,
+        "child_sex_ratio": 906,
+        "female": 720910,
+        "literacy_rate_female": 59.07,
+        "literacy_rate_male": 75.21,
+        "literacy_rate_percentage": 67.31,
+        "literate_female": 367962,
+        "literate_male": 489478,
+        "literate_total": 857440,
+        "male": 758916,
+        "percentage_population": 72.16,
+        "population": 1479826,
+        "sex_ratio": 950
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/336-dhule.html",
+    "urban": {
+        "child_population_female": 31435,
+        "child_population_male": 36036,
+        "child_population_percentage": 11.82,
+        "child_population_percentage_calculated": 11.82,
+        "child_population_percentage_stated": 11.82,
+        "child_population_total": 67471,
+        "child_sex_ratio": 872,
+        "female": 275921,
+        "literacy_rate_female": 82.85,
+        "literacy_rate_male": 90.29,
+        "literacy_rate_percentage": 86.68,
+        "literate_female": 202566,
+        "literate_male": 233910,
+        "literate_total": 436476,
+        "male": 295115,
+        "percentage_population": 27.84,
+        "population": 571036,
+        "sex_ratio": 935
+    }
+}

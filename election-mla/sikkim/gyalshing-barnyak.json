@@ -1,0 +1,152 @@
+{
+  "state": "Sikkim",
+  "constituency": "Gyalshing-barnyak",
+  "district": "West",
+  "ac_type": "GEN",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 12406,
+        "total_votes_polled": 10200,
+        "turnout_percentage": 82.8,
+        "margin_votes": 1814,
+        "margin_percentage": 17.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Lok Nath Sharma",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 5862,
+          "votes_percentage": 57.5
+        },
+        {
+          "position": 2,
+          "name": "Laxuman Sharma",
+          "party": "Sikkim Democratic Front",
+          "votes": 4048,
+          "votes_percentage": 39.7
+        },
+        {
+          "position": 3,
+          "name": "Bhanu Bhakta Dahal",
+          "party": "Bharatiya Janta Party",
+          "votes": 217,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 4,
+          "name": "Sukuhang Subba",
+          "party": "Hamro Sikkim Party",
+          "votes": 73,
+          "votes_percentage": 0.7
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "12 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 10447,
+        "total_votes_polled": 8905,
+        "turnout_percentage": 85.2,
+        "total_valid_votes": 8757,
+        "total_valid_votes_percentage": 83.8,
+        "margin_votes": 639,
+        "margin_percentage": 7.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sher Bahadur Subedi",
+          "party": "Sikkim Democratic Front",
+          "votes": 4529,
+          "votes_percentage": 51.7
+        },
+        {
+          "position": 2,
+          "name": "Lok Nath Sharma",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 3890,
+          "votes_percentage": 44.4
+        },
+        {
+          "position": 3,
+          "name": "Mandhoj Thapa",
+          "party": "Bharatiya Janta Party",
+          "votes": 135,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 4,
+          "name": "Dal Bahadur Karki",
+          "party": "Indian National Congress",
+          "votes": 107,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 5,
+          "name": "Hari Chandra Sharma",
+          "party": "All India Trinamool Congress",
+          "votes": 96,
+          "votes_percentage": 1.1
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "30 April 2009",
+      "counting_date": "05 June 2009",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 8647,
+        "total_votes_polled": 7291,
+        "turnout_percentage": 84.3,
+        "total_valid_votes": 7131,
+        "total_valid_votes_percentage": 82.5,
+        "margin_votes": 3410,
+        "margin_percentage": 46.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Man Bahadur Dahal",
+          "party": "Sikkim Democratic Front",
+          "votes": 4967,
+          "votes_percentage": 68.1
+        },
+        {
+          "position": 2,
+          "name": "Youa Raj Rai",
+          "party": "Indian National Congress",
+          "votes": 1557,
+          "votes_percentage": 21.4
+        },
+        {
+          "position": 3,
+          "name": "Laxmi Pd. Tiwari",
+          "party": "Sikkim Himali Rajya Parishad",
+          "votes": 361,
+          "votes_percentage": 5.0
+        },
+        {
+          "position": 4,
+          "name": "Man Dhoj Thapa",
+          "party": "Bharatiya Janta Party",
+          "votes": 258,
+          "votes_percentage": 3.5
+        },
+        {
+          "position": 5,
+          "name": "Yam Lall Dangal",
+          "party": "Sikkim Gorkha Prajatantric Party",
+          "votes": 148,
+          "votes_percentage": 2.0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 64879,
+        "male": 70291,
+        "percentage_of_total_population": 10.17,
+        "percentage_of_total_population_calculated": 10.17,
+        "percentage_of_total_population_stated": 10.17,
+        "sex_ratio": 923,
+        "total": 135170
+    },
+    "literacy": {
+        "female_literacy_rate": 78.83,
+        "female_literate": 462438,
+        "male_literacy_rate": 88.75,
+        "male_literate": 539471,
+        "rate_percentage": 83.88,
+        "total_literate": 1001909
+    },
+    "population": {
+        "female": 651507,
+        "male": 678165,
+        "sex_ratio": 961,
+        "total": 1329672
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.05,
+            "population": 601
+        },
+        "Christian": {
+            "percentage": 0.43,
+            "population": 5733
+        },
+        "Hindu": {
+            "percentage": 92.13,
+            "population": 1225087
+        },
+        "Jain": {
+            "percentage": 1.01,
+            "population": 13386
+        },
+        "Muslims": {
+            "percentage": 5.92,
+            "population": 78669
+        },
+        "Not Stated": {
+            "percentage": 0.07,
+            "population": 914
+        },
+        "Others": {
+            "percentage": 0.21,
+            "population": 2823
+        },
+        "Sikh": {
+            "percentage": 0.18,
+            "population": 2459
+        }
+    },
+    "rural": {
+        "child_population_female": 44961,
+        "child_population_male": 47505,
+        "child_population_percentage": 10.04,
+        "child_population_percentage_calculated": 10.04,
+        "child_population_percentage_stated": 10.04,
+        "child_population_total": 92466,
+        "child_sex_ratio": 946,
+        "female": 455786,
+        "literacy_rate_female": 76.23,
+        "literacy_rate_male": 86.98,
+        "literacy_rate_percentage": 81.65,
+        "literate_female": 313160,
+        "literate_male": 362923,
+        "literate_total": 676083,
+        "male": 464749,
+        "percentage_population": 69.23,
+        "population": 920535,
+        "sex_ratio": 981
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/204-navsari.html",
+    "urban": {
+        "child_population_female": 19911,
+        "child_population_male": 22793,
+        "child_population_percentage": 10.44,
+        "child_population_percentage_calculated": 10.44,
+        "child_population_percentage_stated": 10.44,
+        "child_population_total": 42704,
+        "child_sex_ratio": 874,
+        "female": 195721,
+        "literacy_rate_female": 84.91,
+        "literacy_rate_male": 92.62,
+        "literacy_rate_percentage": 88.92,
+        "literate_female": 149278,
+        "literate_male": 176548,
+        "literate_total": 325826,
+        "male": 213416,
+        "percentage_population": 30.77,
+        "population": 409137,
+        "sex_ratio": 917
+    }
+}

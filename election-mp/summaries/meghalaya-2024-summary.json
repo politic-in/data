@@ -1,0 +1,45 @@
+{
+  "state": "Meghalaya",
+  "year": "2024",
+  "summary_stats": {
+    "total_electors_state": 2226567,
+    "total_votes_polled_state": 1711967,
+    "turnout_percentage_state": 76.9,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Shillong",
+      "ac_no": 1,
+      "ac_type": "ST",
+      "district": "Meghalaya",
+      "winning_candidate": "Dr. Ricky Andrew J. Syngkon",
+      "winning_party": "Voice Of The People Party",
+      "total_electors_ac": 1400411,
+      "total_votes_ac": 1037911,
+      "poll_percentage_ac": 0.0,
+      "margin": 371910,
+      "margin_percentage": 35.8,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2024/meghalaya/shillong/10798/44/18"
+    },
+    {
+      "ac_name": "Tura",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Meghalaya",
+      "winning_candidate": "Saleng A Sangma",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 826156,
+      "total_votes_ac": 674056,
+      "poll_percentage_ac": 0.0,
+      "margin": 155241,
+      "margin_percentage": 23.0,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/2024/meghalaya/tura/10799/44/18"
+    }
+  ]
+}

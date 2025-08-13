@@ -1,0 +1,64 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "BODDA",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 551225,
+        "total_votes_polled": 198068,
+        "turnout_percentage": 35.9,
+        "margin_votes": 48141,
+        "margin_percentage": 24.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jagdish N. Mandal",
+          "party": "Indian National Congress",
+          "votes": 91549,
+          "votes_percentage": 46.2
+        },
+        {
+          "position": 2,
+          "name": "Prabhudayal Himat Singhka",
+          "party": "Indian National Congress (ORGANISATION)",
+          "votes": 43408,
+          "votes_percentage": 21.9
+        },
+        {
+          "position": 3,
+          "name": "Sahebram Marandi",
+          "party": "Independent",
+          "votes": 18669,
+          "votes_percentage": 9.4
+        },
+        {
+          "position": 4,
+          "name": "Parmeshwar Ram Bhagat",
+          "party": "Bihar Prant Hul Jharkhand",
+          "votes": 17325,
+          "votes_percentage": 8.7
+        },
+        {
+          "position": 5,
+          "name": "Hemant Kumar Jha",
+          "party": "Independent",
+          "votes": 12033,
+          "votes_percentage": 6.1
+        },
+        {
+          "position": 6,
+          "name": "Jaglal Roy",
+          "party": "All India Jharkhand Party",
+          "votes": 9185,
+          "votes_percentage": 4.6
+        }
+      ]
+    }
+  }
+}

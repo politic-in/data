@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 383539,
+        "male": 399520,
+        "percentage_of_total_population": 17.83,
+        "percentage_of_total_population_calculated": 17.83,
+        "percentage_of_total_population_stated": 17.83,
+        "sex_ratio": 960,
+        "total": 783059
+    },
+    "literacy": {
+        "female_literacy_rate": 53.34,
+        "female_literate": 928810,
+        "male_literacy_rate": 73.31,
+        "male_literate": 1368803,
+        "rate_percentage": 63.67,
+        "total_literate": 2297613
+    },
+    "population": {
+        "female": 2124852,
+        "male": 2266566,
+        "sex_ratio": 937,
+        "total": 4391418
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 870
+        },
+        "Christian": {
+            "percentage": 0.09,
+            "population": 3943
+        },
+        "Hindu": {
+            "percentage": 88.27,
+            "population": 3876395
+        },
+        "Jain": {
+            "percentage": 0.04,
+            "population": 1723
+        },
+        "Muslims": {
+            "percentage": 11.12,
+            "population": 488121
+        },
+        "Not Stated": {
+            "percentage": 0.44,
+            "population": 19345
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 108
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 913
+        }
+    },
+    "rural": {
+        "child_population_female": 344839,
+        "child_population_male": 357342,
+        "child_population_percentage": 18.43,
+        "child_population_percentage_calculated": 18.43,
+        "child_population_percentage_stated": 18.43,
+        "child_population_total": 702181,
+        "child_sex_ratio": 965,
+        "female": 1849225,
+        "literacy_rate_female": 50.02,
+        "literacy_rate_male": 71.32,
+        "literacy_rate_percentage": 61.01,
+        "literate_female": 752491,
+        "literate_male": 1143417,
+        "literate_total": 1895908,
+        "male": 1960592,
+        "percentage_population": 86.76,
+        "population": 3809817,
+        "sex_ratio": 943
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/88-gaya.html",
+    "urban": {
+        "child_population_female": 38794,
+        "child_population_male": 42084,
+        "child_population_percentage": 13.91,
+        "child_population_percentage_calculated": 13.91,
+        "child_population_percentage_stated": 13.91,
+        "child_population_total": 80878,
+        "child_sex_ratio": 922,
+        "female": 275627,
+        "literacy_rate_female": 74.45,
+        "literacy_rate_male": 85.41,
+        "literacy_rate_percentage": 80.22,
+        "literate_female": 176319,
+        "literate_male": 225386,
+        "literate_total": 401705,
+        "male": 305974,
+        "percentage_population": 13.24,
+        "population": 581601,
+        "sex_ratio": 901
+    }
+}

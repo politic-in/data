@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 250074,
+        "male": 268607,
+        "percentage_of_total_population": 18.02,
+        "percentage_of_total_population_calculated": 18.02,
+        "percentage_of_total_population_stated": 18.02,
+        "sex_ratio": 931,
+        "total": 518681
+    },
+    "literacy": {
+        "female_literacy_rate": 53.1,
+        "female_literate": 600375,
+        "male_literacy_rate": 74.86,
+        "male_literate": 919558,
+        "rate_percentage": 64.43,
+        "total_literate": 1519933
+    },
+    "population": {
+        "female": 1380593,
+        "male": 1497060,
+        "sex_ratio": 922,
+        "total": 2877653
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 414
+        },
+        "Christian": {
+            "percentage": 0.07,
+            "population": 1978
+        },
+        "Hindu": {
+            "percentage": 92.78,
+            "population": 2669775
+        },
+        "Jain": {
+            "percentage": 0.02,
+            "population": 561
+        },
+        "Muslims": {
+            "percentage": 6.88,
+            "population": 198033
+        },
+        "Not Stated": {
+            "percentage": 0.22,
+            "population": 6435
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 64
+        },
+        "Sikh": {
+            "percentage": 0.01,
+            "population": 393
+        }
+    },
+    "rural": {
+        "child_population_female": 215207,
+        "child_population_male": 231006,
+        "child_population_percentage": 18.44,
+        "child_population_percentage_calculated": 18.44,
+        "child_population_percentage_stated": 18.44,
+        "child_population_total": 446213,
+        "child_sex_ratio": 932,
+        "female": 1162031,
+        "literacy_rate_female": 50.24,
+        "literacy_rate_male": 73.68,
+        "literacy_rate_percentage": 62.44,
+        "literate_female": 475668,
+        "literate_male": 756523,
+        "literate_total": 1232191,
+        "male": 1257728,
+        "percentage_population": 84.09,
+        "population": 2419759,
+        "sex_ratio": 924
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/81-nalanda.html",
+    "urban": {
+        "child_population_female": 34814,
+        "child_population_male": 37654,
+        "child_population_percentage": 15.83,
+        "child_population_percentage_calculated": 15.83,
+        "child_population_percentage_stated": 15.83,
+        "child_population_total": 72468,
+        "child_sex_ratio": 925,
+        "female": 218562,
+        "literacy_rate_female": 67.87,
+        "literacy_rate_male": 80.84,
+        "literacy_rate_percentage": 74.66,
+        "literate_female": 124707,
+        "literate_male": 163035,
+        "literate_total": 287742,
+        "male": 239332,
+        "percentage_population": 15.91,
+        "population": 457894,
+        "sex_ratio": 913
+    }
+}

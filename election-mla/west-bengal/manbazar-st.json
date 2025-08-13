@@ -1,0 +1,57 @@
+{
+  "state": "West Bengal",
+  "constituency": "MANBAZAR (ST)",
+  "district": "Puruliya",
+  "ac_type": "ST",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 228491,
+        "total_votes_polled": 189654,
+        "turnout_percentage": 84.1,
+        "margin_votes": 9675,
+        "margin_percentage": 5.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Sandhya Rani Tudu",
+          "party": "All India Trinamool Congress",
+          "votes": 93642,
+          "votes_percentage": 49.4
+        },
+        {
+          "position": 2,
+          "name": "Ipil Murmu",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 83967,
+          "votes_percentage": 44.3
+        },
+        {
+          "position": 3,
+          "name": "Gouri Singh Sardar",
+          "party": "Bharatiya Janta Party",
+          "votes": 8882,
+          "votes_percentage": 4.7
+        },
+        {
+          "position": 4,
+          "name": "Bivisan Sing Sardar",
+          "party": "Ajsu Party",
+          "votes": 1807,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Suniti Mudi",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1356,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

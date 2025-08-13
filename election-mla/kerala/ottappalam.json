@@ -1,0 +1,50 @@
+{
+  "state": "Kerala",
+  "constituency": "Ottappalam",
+  "district": "Palakkad",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "06 April 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 200302,
+        "total_votes_polled": 160294,
+        "turnout_percentage": 80.5,
+        "margin_votes": 15152,
+        "margin_percentage": 9.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Adv. K. Premkumar",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 74859,
+          "votes_percentage": 46.7
+        },
+        {
+          "position": 2,
+          "name": "Doctor P. Sarin",
+          "party": "Indian National Congress",
+          "votes": 59707,
+          "votes_percentage": 37.3
+        },
+        {
+          "position": 3,
+          "name": "P. Venugopalan",
+          "party": "Bharatiya Janta Party",
+          "votes": 25056,
+          "votes_percentage": 15.6
+        },
+        {
+          "position": 4,
+          "name": "P.P. Sivan",
+          "party": "Bahujan Samaj Party",
+          "votes": 672,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

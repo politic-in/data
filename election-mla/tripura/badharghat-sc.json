@@ -1,0 +1,57 @@
+{
+  "state": "Tripura",
+  "constituency": "Badharghat (SC)",
+  "district": "West Tripura",
+  "ac_type": "SC",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 57394,
+        "total_votes_polled": 52566,
+        "turnout_percentage": 92.4,
+        "margin_votes": 5448,
+        "margin_percentage": 10.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dilip Sarkar",
+          "party": "Bharatiya Janta Party",
+          "votes": 28561,
+          "votes_percentage": 54.3
+        },
+        {
+          "position": 2,
+          "name": "Jharna Das(BAIDYA)",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 23113,
+          "votes_percentage": 44.0
+        },
+        {
+          "position": 3,
+          "name": "Ratan Ch. Das",
+          "party": "Indian National Congress",
+          "votes": 505,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 5,
+          "name": "Mridul Kanti Sarkar",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 246,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Brajendra Das",
+          "party": "Amra Bangalee",
+          "votes": 141,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

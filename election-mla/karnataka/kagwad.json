@@ -1,0 +1,841 @@
+{
+  "state": "Karnataka",
+  "constituency": "Kagwad",
+  "district": "Belgaum",
+  "ac_type": "GEN",
+  "results": {
+    "2023": {
+      "poll_date": "10 May 2023",
+      "counting_date": "10 May 2023",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 195981,
+        "total_votes_polled": 161093,
+        "turnout_percentage": 82.7,
+        "margin_votes": 8827,
+        "margin_percentage": 5.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bharamgouda Alagouda Kage",
+          "party": "Indian National Congress",
+          "votes": 83387,
+          "votes_percentage": 51.5
+        },
+        {
+          "position": 2,
+          "name": "Shrimant  Balasaheb  Patil",
+          "party": "Bharatiya Janta Party",
+          "votes": 74560,
+          "votes_percentage": 46.0
+        },
+        {
+          "position": 3,
+          "name": "Mallikarjun  Shrishail  Gunjiganvi",
+          "party": "Janata Dal (Secular)",
+          "votes": 887,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 4,
+          "name": "Sanjay  Shankar  Kambale",
+          "party": "Bahujan Samaj Party",
+          "votes": 632,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 5,
+          "name": "Chidanand  Krishna  Chavan",
+          "party": "Independent",
+          "votes": 350,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 6,
+          "name": "Rajak  Dastageersaheb   Mulla",
+          "party": "Aam Aadmi Party",
+          "votes": 330,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Hanamant  Bahusab  Patil",
+          "party": "Uttama Prajaakeeya Party",
+          "votes": 275,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "Satteppa Dasharath  Kaleli",
+          "party": "Independent",
+          "votes": 259,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Sadanand B Magadum",
+          "party": "Independent",
+          "votes": 228,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Vinod Sukhadev Nangare",
+          "party": "Karnataka Rashtra Samithi",
+          "votes": 113,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Satish  Bhupal  Sanadi",
+          "party": "Rashtriya Samaj Paksha",
+          "votes": 72,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "2018": {
+      "poll_date": "12 May 2018",
+      "counting_date": "11 June 2018",
+      "total_contestants": 14,
+      "aggregate": {
+        "total_electors": 178048,
+        "total_votes_polled": 144981,
+        "turnout_percentage": 81.9,
+        "margin_votes": 32942,
+        "margin_percentage": 22.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shrimant Balasaheb Patil",
+          "party": "Indian National Congress",
+          "votes": 83060,
+          "votes_percentage": 57.3
+        },
+        {
+          "position": 2,
+          "name": "Bharamagouda Alagouda Kage",
+          "party": "Bharatiya Janta Party",
+          "votes": 50118,
+          "votes_percentage": 34.6
+        },
+        {
+          "position": 3,
+          "name": "Kallappa Paris Magennavar",
+          "party": "Janata Dal (Secular)",
+          "votes": 7337,
+          "votes_percentage": 5.1
+        },
+        {
+          "position": 4,
+          "name": "Divakar Ramachandra Potadar",
+          "party": "Sarva Janata Party",
+          "votes": 1004,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Ganapati Bhutali Molekar",
+          "party": "Independent",
+          "votes": 784,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Murageppa Ningappa Devareddi",
+          "party": "Independent",
+          "votes": 580,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Bhimagouda Shankar Khot",
+          "party": "All India Mahila Empowerment Party",
+          "votes": 533,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Sanjay Honakhande",
+          "party": "Jana Samanyara Party (Karnataka)",
+          "votes": 305,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Sarojani-Akka M Arage",
+          "party": "Janahitha Paksha",
+          "votes": 279,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Bahusab Ashok Naik Urf Davale",
+          "party": "Indian New Congress Party",
+          "votes": 257,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Balasaheb Ravsaheb Rao",
+          "party": "Aam Aadmi Party",
+          "votes": 243,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Sachin Alagure",
+          "party": "Bharatiya Republican Paksha",
+          "votes": 210,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 13,
+          "name": "Nasirkhan Gajimammad Pathan",
+          "party": "Republican Party Of India (A)",
+          "votes": 150,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 14,
+          "name": "Dr. Rizwan  Balekundari",
+          "party": "Bahujan Mukti Party",
+          "votes": 121,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "05 May 2013",
+      "counting_date": "08 May 2013",
+      "total_contestants": 13,
+      "aggregate": {
+        "total_electors": 163335,
+        "total_votes_polled": 129200,
+        "turnout_percentage": 79.1,
+        "margin_votes": 2887,
+        "margin_percentage": 2.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bharamgoud Alagoud Kage",
+          "party": "Bharatiya Janta Party",
+          "votes": 41784,
+          "votes_percentage": 32.3
+        },
+        {
+          "position": 2,
+          "name": "Shrimant Balasaheb Patil",
+          "party": "Janata Dal (Secular)",
+          "votes": 38897,
+          "votes_percentage": 30.1
+        },
+        {
+          "position": 3,
+          "name": "Kirankumar Tatyagouda Patil",
+          "party": "Indian National Congress",
+          "votes": 33057,
+          "votes_percentage": 25.6
+        },
+        {
+          "position": 4,
+          "name": "Ajit Bharamu Chougale",
+          "party": "Karnataka Jantha Paksha",
+          "votes": 8788,
+          "votes_percentage": 6.8
+        },
+        {
+          "position": 5,
+          "name": "Vidyadhar S.  Kamble",
+          "party": "Bahujan Samaj Party",
+          "votes": 2158,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 6,
+          "name": "Shoba Balu Tavadare",
+          "party": "Independent",
+          "votes": 908,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Surendra Pradhanji Talwalkar",
+          "party": "Nationalist Congress Party",
+          "votes": 768,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "Narasinha Tukaram Patil",
+          "party": "Independent",
+          "votes": 642,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 9,
+          "name": "Jayshree Savant Pujari",
+          "party": "Independent",
+          "votes": 603,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 10,
+          "name": "Ramappa  Bheemappa Huddar",
+          "party": "Independent",
+          "votes": 493,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 11,
+          "name": "Bahusab Ashok Naik (DHAVALE)",
+          "party": "Independent",
+          "votes": 434,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 12,
+          "name": "Diwakar Ramachandra Potadar",
+          "party": "Badavara Shramikara Raitara Congress Party",
+          "votes": 363,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 13,
+          "name": "Raju Annasab Patil",
+          "party": "Janata Dal (United)",
+          "votes": 305,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2008": {
+      "poll_date": "16 May 2008",
+      "counting_date": "25 May 2008",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 152975,
+        "total_votes_polled": 107947,
+        "turnout_percentage": 70.6,
+        "margin_votes": 8982,
+        "margin_percentage": 8.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bharamgouda Alagouda Kage",
+          "party": "Bharatiya Janta Party",
+          "votes": 45286,
+          "votes_percentage": 42.0
+        },
+        {
+          "position": 2,
+          "name": "Digvijaya Yashawantrao Pawar Desai",
+          "party": "Indian National Congress",
+          "votes": 36304,
+          "votes_percentage": 33.6
+        },
+        {
+          "position": 3,
+          "name": "Srimant Balasaheb Patil",
+          "party": "Janata Dal (Secular)",
+          "votes": 15923,
+          "votes_percentage": 14.8
+        },
+        {
+          "position": 4,
+          "name": "Anand Shantappa Sadalage",
+          "party": "Bahujan Samaj Party",
+          "votes": 4119,
+          "votes_percentage": 3.8
+        },
+        {
+          "position": 5,
+          "name": "Sridhar Mahadev Joshi",
+          "party": "Rashtriya Hindustan Sena Karnataka",
+          "votes": 1532,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 6,
+          "name": "Narsinha Tukaram Patil",
+          "party": "Independent",
+          "votes": 1395,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 7,
+          "name": "Shravan Maruti Kamble",
+          "party": "Republican Party Of India (A)",
+          "votes": 962,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 8,
+          "name": "Annasab Irappa Sattikar",
+          "party": "Janata Dal (United)",
+          "votes": 846,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 9,
+          "name": "Kumar Rayappa Makannavar",
+          "party": "Independent",
+          "votes": 585,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 10,
+          "name": "Khatanve Mallappa Maruti",
+          "party": "Independent",
+          "votes": 510,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 11,
+          "name": "Vardhaman Tippanna Udagave",
+          "party": "Samajwadi Party",
+          "votes": 485,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "2004": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 149181,
+        "total_votes_polled": 104691,
+        "turnout_percentage": 70.2,
+        "margin_votes": 3452,
+        "margin_percentage": 3.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bharamagouda (RAJU) ALAGOUDA KAGE",
+          "party": "Bharatiya Janta Party",
+          "votes": 44529,
+          "votes_percentage": 42.5
+        },
+        {
+          "position": 2,
+          "name": "Kiran Kumar Tatyagouda Patil",
+          "party": "Indian National Congress",
+          "votes": 41077,
+          "votes_percentage": 39.2
+        },
+        {
+          "position": 3,
+          "name": "Mohan Hirachand Shah",
+          "party": "Janata Dal (Secular)",
+          "votes": 9895,
+          "votes_percentage": 9.4
+        },
+        {
+          "position": 4,
+          "name": "Surendra Siddappa Karigar",
+          "party": "Bahujan Samaj Party",
+          "votes": 5674,
+          "votes_percentage": 5.4
+        },
+        {
+          "position": 5,
+          "name": "Gadige Rajaram Shivaling",
+          "party": "Jharkhand Party",
+          "votes": 1869,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 6,
+          "name": "Rathod Tarer Sing Ram Sing",
+          "party": "Sirpanch Samaj Party",
+          "votes": 1764,
+          "votes_percentage": 1.7
+        }
+      ]
+    },
+    "1999": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 133972,
+        "total_votes_polled": 95788,
+        "turnout_percentage": 71.5,
+        "margin_votes": 8869,
+        "margin_percentage": 9.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pasagouda Urf Popat Appagoda Patil",
+          "party": "Indian National Congress",
+          "votes": 31462,
+          "votes_percentage": 35.4
+        },
+        {
+          "position": 2,
+          "name": "Bharamgouda (RAJU) ALAGOUDA KAGE",
+          "party": "Independent",
+          "votes": 22593,
+          "votes_percentage": 25.4
+        },
+        {
+          "position": 3,
+          "name": "Shaha Mohan Hirachand",
+          "party": "Independent",
+          "votes": 16952,
+          "votes_percentage": 19.1
+        },
+        {
+          "position": 4,
+          "name": "Anand Shanthappa Sadalage",
+          "party": "Bharatiya Janta Party",
+          "votes": 12255,
+          "votes_percentage": 13.8
+        },
+        {
+          "position": 5,
+          "name": "Shivagouda Balesh Chunar",
+          "party": "Bahujan Samaj Party",
+          "votes": 2385,
+          "votes_percentage": 2.7
+        },
+        {
+          "position": 6,
+          "name": "Shaila J Karchi",
+          "party": "Independent",
+          "votes": 2003,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 7,
+          "name": "Pujarijayashri Savant",
+          "party": "Independent",
+          "votes": 1274,
+          "votes_percentage": 1.4
+        }
+      ]
+    },
+    "1994": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 119186,
+        "total_votes_polled": 83084,
+        "turnout_percentage": 69.7,
+        "margin_votes": 16844,
+        "margin_percentage": 20.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shaha Mohan Hirachand",
+          "party": "Janata Dal",
+          "votes": 42514,
+          "votes_percentage": 52.4
+        },
+        {
+          "position": 2,
+          "name": "Annarao Balappa Jakanur",
+          "party": "Indian National Congress",
+          "votes": 25670,
+          "votes_percentage": 31.7
+        },
+        {
+          "position": 3,
+          "name": "Vasantrao Lakhagouda Patil",
+          "party": "Independent",
+          "votes": 8130,
+          "votes_percentage": 10.0
+        },
+        {
+          "position": 4,
+          "name": "Huddar Bharamappa Yeshwant",
+          "party": "Karnataka Congress Party",
+          "votes": 2778,
+          "votes_percentage": 3.4
+        },
+        {
+          "position": 5,
+          "name": "Kundargi Lalita Krishnaraj",
+          "party": "Bharatiya Janta Party",
+          "votes": 1133,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 6,
+          "name": "Gopal Tammanna Kamble",
+          "party": "Independent",
+          "votes": 284,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Sanjay Shankar Talwalkar",
+          "party": "Independent",
+          "votes": 157,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "Ruge Prabhakar Veerbhadra",
+          "party": "Independent",
+          "votes": 152,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 9,
+          "name": "Pralhad Govind Katkar Alias Rajawade E.",
+          "party": "Independent",
+          "votes": 147,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Pawar Shyamrao Balavant",
+          "party": "Independent",
+          "votes": 92,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Mutalik Desai Ravindra Murarav",
+          "party": "Independent",
+          "votes": 40,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1989": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 113620,
+        "total_votes_polled": 78669,
+        "turnout_percentage": 69.2,
+        "margin_votes": 10969,
+        "margin_percentage": 13.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Annarao B. Jakanur",
+          "party": "Indian National Congress",
+          "votes": 30658,
+          "votes_percentage": 41.7
+        },
+        {
+          "position": 2,
+          "name": "Kiran T. Patil",
+          "party": "Janata Dal",
+          "votes": 19689,
+          "votes_percentage": 26.8
+        },
+        {
+          "position": 3,
+          "name": "Mohan H. Shan",
+          "party": "Karnataka Rajya Ryota Sangha",
+          "votes": 17624,
+          "votes_percentage": 24.0
+        },
+        {
+          "position": 4,
+          "name": "Bapusaheb R. Patil",
+          "party": "Janata Party (JP)",
+          "votes": 4038,
+          "votes_percentage": 5.5
+        },
+        {
+          "position": 5,
+          "name": "Uttam P. Patil",
+          "party": "Independent",
+          "votes": 895,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 6,
+          "name": "Sudhir A. Patil",
+          "party": "Independent",
+          "votes": 456,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Pralhad G. Rajawade",
+          "party": "Independent",
+          "votes": 214,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "1985": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 12,
+      "aggregate": {
+        "total_electors": 88900,
+        "total_votes_polled": 63840,
+        "turnout_percentage": 71.8,
+        "margin_votes": 7608,
+        "margin_percentage": 11.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Patil Vasanthrao Lakhagouda",
+          "party": "Janta Party",
+          "votes": 33707,
+          "votes_percentage": 53.6
+        },
+        {
+          "position": 2,
+          "name": "Huddar Yashawant Bhramappa",
+          "party": "Indian National Congress",
+          "votes": 26099,
+          "votes_percentage": 41.5
+        },
+        {
+          "position": 3,
+          "name": "Kharade Pandu Ramu",
+          "party": "Independent",
+          "votes": 911,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 4,
+          "name": "Karoli Vijay Sattenna",
+          "party": "Independent",
+          "votes": 477,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 5,
+          "name": "Sukhadev Narayan Patil",
+          "party": "Independent",
+          "votes": 407,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Kinange Kallappa Annappa",
+          "party": "Independent",
+          "votes": 319,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Babu Bhavu Sajane",
+          "party": "Independent",
+          "votes": 259,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 8,
+          "name": "Nidagundi Hanamanth Chandrashekhar",
+          "party": "Independent",
+          "votes": 189,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Shantinath Rayappa Savadatti",
+          "party": "Independent",
+          "votes": 163,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 9,
+          "name": "Hanamanth Shakreppa Chougala",
+          "party": "Independent",
+          "votes": 163,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 11,
+          "name": "Durgannavar Annappa Rayappa",
+          "party": "Independent",
+          "votes": 147,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Annappa Tammanna Korbu",
+          "party": "Independent",
+          "votes": 61,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1983": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 79506,
+        "total_votes_polled": 57411,
+        "turnout_percentage": 72.2,
+        "margin_votes": 14074,
+        "margin_percentage": 24.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Patil Vasantrao Lakhagoud",
+          "party": "Janta Party",
+          "votes": 35007,
+          "votes_percentage": 62.6
+        },
+        {
+          "position": 2,
+          "name": "Jakanur Annarao Balappa",
+          "party": "Indian National Congress",
+          "votes": 20933,
+          "votes_percentage": 37.4
+        }
+      ]
+    },
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 73898,
+        "total_votes_polled": 56215,
+        "turnout_percentage": 76.1,
+        "margin_votes": 6299,
+        "margin_percentage": 11.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Jakanur Annarao Balappa",
+          "party": "Indian National Congress (I)",
+          "votes": 27892,
+          "votes_percentage": 51.1
+        },
+        {
+          "position": 2,
+          "name": "Padanad Parappa Laxman",
+          "party": "Janta Party",
+          "votes": 21593,
+          "votes_percentage": 39.5
+        },
+        {
+          "position": 3,
+          "name": "Patil Prataprao Alagouda",
+          "party": "Indian National Congress",
+          "votes": 5123,
+          "votes_percentage": 9.4
+        }
+      ]
+    }
+  }
+}

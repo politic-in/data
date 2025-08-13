@@ -1,0 +1,78 @@
+{
+  "state": "Assam",
+  "constituency": "Guwahati",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2024": {
+      "poll_date": "19 April 2024",
+      "counting_date": "01 June 2024",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 2036846,
+        "total_votes_polled": 1599389,
+        "turnout_percentage": 78.5,
+        "margin_votes": 251090,
+        "margin_percentage": 15.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bijuli Kalita Medhi",
+          "party": "Bharatiya Janta Party",
+          "votes": 894887,
+          "votes_percentage": 56.0
+        },
+        {
+          "position": 2,
+          "name": "Mira Borthakur Goswami",
+          "party": "Indian National Congress",
+          "votes": 643797,
+          "votes_percentage": 40.3
+        },
+        {
+          "position": 3,
+          "name": "Dipak Kr Boro",
+          "party": "Voters Party International",
+          "votes": 8548,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 4,
+          "name": "Colonel Gokul Chandra Singha",
+          "party": "Independent",
+          "votes": 7678,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "Amitabh Sarma",
+          "party": "Ekam Sanatan Bharat Dal",
+          "votes": 7527,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Kazi Nekib Ahmed",
+          "party": "Independent",
+          "votes": 6761,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 7,
+          "name": "Samad Choudhury",
+          "party": "Bharatiya Gana Parishad",
+          "votes": 5095,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Shejon Goyary",
+          "party": "Bahujan Maha Party",
+          "votes": 4847,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

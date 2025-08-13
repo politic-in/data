@@ -1,0 +1,55 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "MAINPURI DISTRICT (EAST)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 340120,
+        "total_votes_polled": 139345,
+        "turnout_percentage": 41.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Badshah Gupta",
+          "party": "Indian National Congress",
+          "votes": 61736,
+          "votes_percentage": 44.3
+        },
+        {
+          "position": 2,
+          "name": "Raghuber Sahai",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 23265,
+          "votes_percentage": 16.7
+        },
+        {
+          "position": 3,
+          "name": "Narsingh Datt Sharma",
+          "party": "Independent",
+          "votes": 20787,
+          "votes_percentage": 14.9
+        },
+        {
+          "position": 4,
+          "name": "Putto Singh",
+          "party": "Revolutionary Socialist Party",
+          "votes": 19722,
+          "votes_percentage": 14.2
+        },
+        {
+          "position": 5,
+          "name": "Sri Krishna",
+          "party": "Socialist Party",
+          "votes": 13835,
+          "votes_percentage": 9.9
+        }
+      ]
+    }
+  }
+}

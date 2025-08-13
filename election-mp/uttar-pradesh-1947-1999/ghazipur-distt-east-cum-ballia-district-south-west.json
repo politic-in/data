@@ -1,0 +1,55 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "GHAZIPUR DISTT (EAST) CUM BALLIA DISTRICT SOUTH (WEST)",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 360946,
+        "total_votes_polled": 117115,
+        "turnout_percentage": 32.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ram Nagina",
+          "party": "Socialist Party",
+          "votes": 44195,
+          "votes_percentage": 37.7
+        },
+        {
+          "position": 2,
+          "name": "Krishna Nand",
+          "party": "Indian National Congress",
+          "votes": 43793,
+          "votes_percentage": 37.4
+        },
+        {
+          "position": 3,
+          "name": "Lakshmi Shanker",
+          "party": "U.P. Revolutionary Socialist Party",
+          "votes": 13601,
+          "votes_percentage": 11.6
+        },
+        {
+          "position": 4,
+          "name": "Param Hans",
+          "party": "Independent",
+          "votes": 9103,
+          "votes_percentage": 7.8
+        },
+        {
+          "position": 5,
+          "name": "Shiva Kumar Rai",
+          "party": "Akhil Bharatiya Ram Rajya Parishad",
+          "votes": 6423,
+          "votes_percentage": 5.5
+        }
+      ]
+    }
+  }
+}

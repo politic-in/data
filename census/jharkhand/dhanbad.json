@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 178512,
+        "male": 194882,
+        "percentage_of_total_population": 13.91,
+        "percentage_of_total_population_calculated": 13.91,
+        "percentage_of_total_population_stated": 13.91,
+        "sex_ratio": 916,
+        "total": 373394
+    },
+    "literacy": {
+        "female_literacy_rate": 64.29,
+        "female_literate": 707254,
+        "male_literacy_rate": 83.81,
+        "male_literate": 1014950,
+        "rate_percentage": 74.52,
+        "total_literate": 1722204
+    },
+    "population": {
+        "female": 1278531,
+        "male": 1405956,
+        "sex_ratio": 909,
+        "total": 2684487
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 331
+        },
+        "Christian": {
+            "percentage": 0.42,
+            "population": 11243
+        },
+        "Hindu": {
+            "percentage": 80.07,
+            "population": 2149480
+        },
+        "Jain": {
+            "percentage": 0.05,
+            "population": 1268
+        },
+        "Muslims": {
+            "percentage": 16.08,
+            "population": 431762
+        },
+        "Not Stated": {
+            "percentage": 0.13,
+            "population": 3494
+        },
+        "Others": {
+            "percentage": 2.88,
+            "population": 77182
+        },
+        "Sikh": {
+            "percentage": 0.36,
+            "population": 9727
+        }
+    },
+    "rural": {
+        "child_population_female": 82884,
+        "child_population_male": 88786,
+        "child_population_percentage": 15.27,
+        "child_population_percentage_calculated": 15.27,
+        "child_population_percentage_stated": 15.27,
+        "child_population_total": 171670,
+        "child_sex_ratio": 934,
+        "female": 542137,
+        "literacy_rate_female": 54.9,
+        "literacy_rate_male": 80.53,
+        "literacy_rate_percentage": 68.17,
+        "literate_female": 252111,
+        "literate_male": 397144,
+        "literate_total": 649255,
+        "male": 581956,
+        "percentage_population": 41.87,
+        "population": 1124093,
+        "sex_ratio": 932
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/96-dhanbad.html",
+    "urban": {
+        "child_population_female": 95631,
+        "child_population_male": 106093,
+        "child_population_percentage": 12.93,
+        "child_population_percentage_calculated": 12.93,
+        "child_population_percentage_stated": 12.93,
+        "child_population_total": 201724,
+        "child_sex_ratio": 901,
+        "female": 736394,
+        "literacy_rate_female": 71.03,
+        "literacy_rate_male": 86.06,
+        "literacy_rate_percentage": 78.97,
+        "literate_female": 455143,
+        "literate_male": 617806,
+        "literate_total": 1072949,
+        "male": 824000,
+        "percentage_population": 58.13,
+        "population": 1560394,
+        "sex_ratio": 894
+    }
+}

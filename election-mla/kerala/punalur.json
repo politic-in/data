@@ -1,0 +1,127 @@
+{
+  "state": "Kerala",
+  "constituency": "Punalur",
+  "district": "Kollam",
+  "ac_type": "GEN",
+  "results": {
+    "2021": {
+      "poll_date": "06 April 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 203732,
+        "total_votes_polled": 145563,
+        "turnout_percentage": 71.8,
+        "margin_votes": 37057,
+        "margin_percentage": 25.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "P S Supal",
+          "party": "Communist Party Of India",
+          "votes": 80428,
+          "votes_percentage": 55.3
+        },
+        {
+          "position": 2,
+          "name": "Abdurahiman Randathani",
+          "party": "Indian Union Muslim League",
+          "votes": 43371,
+          "votes_percentage": 29.8
+        },
+        {
+          "position": 3,
+          "name": "Ayoor Murali",
+          "party": "Bharatiya Janta Party",
+          "votes": 20069,
+          "votes_percentage": 13.8
+        },
+        {
+          "position": 4,
+          "name": "Shibu M Skaria",
+          "party": "Independent",
+          "votes": 617,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 5,
+          "name": "Prakash Anchal",
+          "party": "Anna Democratic Human Rights Movement Party Of India",
+          "votes": 407,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 6,
+          "name": "K Mahesh",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 407,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "Thenmala Nagarajan",
+          "party": "Independent",
+          "votes": 264,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "13 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 187071,
+        "total_votes_polled": 133245,
+        "turnout_percentage": 71.2,
+        "margin_votes": 18005,
+        "margin_percentage": 13.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Adv.K.Raju",
+          "party": "Communist Party Of India",
+          "votes": 72648,
+          "votes_percentage": 54.5
+        },
+        {
+          "position": 2,
+          "name": "Adv.Johnson Abraham",
+          "party": "Indian National Congress",
+          "votes": 54643,
+          "votes_percentage": 41.0
+        },
+        {
+          "position": 3,
+          "name": "B.Radhamony",
+          "party": "Bharatiya Janta Party",
+          "votes": 4155,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 4,
+          "name": "S.Jayakumar",
+          "party": "Independent",
+          "votes": 699,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "Kuzhichayil Sunil",
+          "party": "Bahujan Samaj Party",
+          "votes": 606,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "S.Shailaja",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 494,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

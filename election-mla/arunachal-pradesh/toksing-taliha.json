@@ -1,0 +1,50 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Toksing Taliha",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1978": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 8480,
+        "total_votes_polled": 6118,
+        "turnout_percentage": 72.2,
+        "margin_votes": 132,
+        "margin_percentage": 2.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tara Payeng",
+          "party": "Peoples Party Of Arunachal",
+          "votes": 1908,
+          "votes_percentage": 32.6
+        },
+        {
+          "position": 2,
+          "name": "Pakda Mayeng",
+          "party": "Independent",
+          "votes": 1776,
+          "votes_percentage": 30.3
+        },
+        {
+          "position": 3,
+          "name": "Taw Choker",
+          "party": "Independent",
+          "votes": 1495,
+          "votes_percentage": 25.5
+        },
+        {
+          "position": 4,
+          "name": "Tajen Sengdu",
+          "party": "Janta Party",
+          "votes": 678,
+          "votes_percentage": 11.6
+        }
+      ]
+    }
+  }
+}

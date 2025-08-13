@@ -1,0 +1,71 @@
+{
+  "state": "Madhya Pradesh [2000 Onwards]",
+  "constituency": "Amarvada",
+  "district": "Chhindwara",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 222905,
+        "total_votes_polled": 195760,
+        "turnout_percentage": 90.5,
+        "margin_votes": 10393,
+        "margin_percentage": 5.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kamlesh Pratap Shah",
+          "party": "Indian National Congress",
+          "votes": 71662,
+          "votes_percentage": 36.6
+        },
+        {
+          "position": 2,
+          "name": "Manmohan Shah Batti",
+          "party": "Gondvana Gantantra Party",
+          "votes": 61269,
+          "votes_percentage": 31.3
+        },
+        {
+          "position": 3,
+          "name": "Premnarayan Thakur",
+          "party": "Bharatiya Janta Party",
+          "votes": 53499,
+          "votes_percentage": 27.3
+        },
+        {
+          "position": 4,
+          "name": "Kallulal Uikey",
+          "party": "Independent",
+          "votes": 3408,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 5,
+          "name": "Vinita Amodiya",
+          "party": "Independent",
+          "votes": 2294,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 6,
+          "name": "Sumran Uikey",
+          "party": "Bahujan Samaj Party",
+          "votes": 2099,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 7,
+          "name": "Galiram Badiva",
+          "party": "Independent",
+          "votes": 1529,
+          "votes_percentage": 0.8
+        }
+      ]
+    }
+  }
+}

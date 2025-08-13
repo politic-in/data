@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 177601,
+        "male": 206513,
+        "percentage_of_total_population": 10.98,
+        "percentage_of_total_population_calculated": 10.98,
+        "percentage_of_total_population_stated": 10.98,
+        "sex_ratio": 860,
+        "total": 384114
+    },
+    "literacy": {
+        "female_literacy_rate": 77.88,
+        "female_literate": 1131877,
+        "male_literacy_rate": 85.98,
+        "male_literate": 1428348,
+        "rate_percentage": 82.2,
+        "total_literate": 2560225
+    },
+    "population": {
+        "female": 1630923,
+        "male": 1867816,
+        "sex_ratio": 873,
+        "total": 3498739
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.06,
+            "population": 2007
+        },
+        "Christian": {
+            "percentage": 0.47,
+            "population": 16517
+        },
+        "Hindu": {
+            "percentage": 42.94,
+            "population": 1502403
+        },
+        "Jain": {
+            "percentage": 0.56,
+            "population": 19620
+        },
+        "Muslims": {
+            "percentage": 2.22,
+            "population": 77713
+        },
+        "Not Stated": {
+            "percentage": 0.45,
+            "population": 15817
+        },
+        "Others": {
+            "percentage": 0.04,
+            "population": 1254
+        },
+        "Sikh": {
+            "percentage": 53.26,
+            "population": 1863408
+        }
+    },
+    "rural": {
+        "child_population_female": 68857,
+        "child_population_male": 80113,
+        "child_population_percentage": 10.42,
+        "child_population_percentage_calculated": 10.42,
+        "child_population_percentage_stated": 10.42,
+        "child_population_total": 148970,
+        "child_sex_ratio": 859,
+        "female": 675587,
+        "literacy_rate_female": 73.31,
+        "literacy_rate_male": 82.77,
+        "literacy_rate_percentage": 78.28,
+        "literate_female": 444773,
+        "literate_male": 557296,
+        "literate_total": 1002069,
+        "male": 753444,
+        "percentage_population": 40.84,
+        "population": 1429031,
+        "sex_ratio": 897
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/594-ludhiana.html",
+    "urban": {
+        "child_population_female": 108755,
+        "child_population_male": 126389,
+        "child_population_percentage": 11.36,
+        "child_population_percentage_calculated": 11.36,
+        "child_population_percentage_stated": 11.36,
+        "child_population_total": 235144,
+        "child_sex_ratio": 860,
+        "female": 955336,
+        "literacy_rate_female": 81.16,
+        "literacy_rate_male": 88.16,
+        "literacy_rate_percentage": 84.93,
+        "literate_female": 687104,
+        "literate_male": 871052,
+        "literate_total": 1558156,
+        "male": 1114372,
+        "percentage_population": 59.16,
+        "population": 2069708,
+        "sex_ratio": 857
+    }
+}

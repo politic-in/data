@@ -1,0 +1,64 @@
+{
+  "state": "Mizoram",
+  "constituency": "AIZAWLNORTHII",
+  "district": "Aizawl",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "28 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 21897,
+        "total_votes_polled": 18061,
+        "turnout_percentage": 82.7,
+        "margin_votes": 1801,
+        "margin_percentage": 10.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Vanlalthlana",
+          "party": "Independent",
+          "votes": 7775,
+          "votes_percentage": 43.1
+        },
+        {
+          "position": 2,
+          "name": "Laltlanzova Khiangte",
+          "party": "Mizo National Front",
+          "votes": 5974,
+          "votes_percentage": 33.1
+        },
+        {
+          "position": 3,
+          "name": "H. Liansailova",
+          "party": "Indian National Congress",
+          "votes": 4106,
+          "votes_percentage": 22.7
+        },
+        {
+          "position": 4,
+          "name": "Lalhrilzeli Hlawndo",
+          "party": "Independent",
+          "votes": 98,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "C. Lalnunziri",
+          "party": "Bharatiya Janta Party",
+          "votes": 69,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 6,
+          "name": "Rochungnunga",
+          "party": "Prism",
+          "votes": 39,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

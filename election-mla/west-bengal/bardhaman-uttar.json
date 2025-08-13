@@ -1,0 +1,106 @@
+{
+  "state": "West Bengal",
+  "constituency": "Bardhaman Uttar",
+  "district": "Barddhaman",
+  "ac_type": "SC",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 262125,
+        "total_votes_polled": 239529,
+        "turnout_percentage": 92.3,
+        "margin_votes": 17268,
+        "margin_percentage": 7.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nisith Kumar Malik",
+          "party": "All India Trinamool Congress",
+          "votes": 111211,
+          "votes_percentage": 46.4
+        },
+        {
+          "position": 2,
+          "name": "Radha Kanta Roy",
+          "party": "Bharatiya Janta Party",
+          "votes": 93943,
+          "votes_percentage": 39.2
+        },
+        {
+          "position": 3,
+          "name": "Chandi Choran Let",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 31028,
+          "votes_percentage": 13.0
+        },
+        {
+          "position": 4,
+          "name": "Ramkrishna Malik",
+          "party": "Bahujan Samaj Party",
+          "votes": 3347,
+          "votes_percentage": 1.4
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 211205,
+        "total_votes_polled": 193007,
+        "turnout_percentage": 91.4,
+        "margin_votes": 14233,
+        "margin_percentage": 7.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Aparna Saha",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 98182,
+          "votes_percentage": 50.9
+        },
+        {
+          "position": 2,
+          "name": "Nisith Kumar Malik",
+          "party": "All India Trinamool Congress",
+          "votes": 83949,
+          "votes_percentage": 43.5
+        },
+        {
+          "position": 3,
+          "name": "Sunil Sen",
+          "party": "Bharatiya Janta Party",
+          "votes": 5607,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 4,
+          "name": "Dipu Chowdhury",
+          "party": "Janata Dal (United)",
+          "votes": 2228,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 5,
+          "name": "Jay Gopal Das",
+          "party": "Bahujan Samaj Party",
+          "votes": 1699,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Tarun Kanti Majhi",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 1342,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

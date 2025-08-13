@@ -1,0 +1,85 @@
+{
+  "state": "Assam",
+  "constituency": "Jonai (ST)",
+  "district": "Dhemaji",
+  "ac_type": "ST",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 251792,
+        "total_votes_polled": 204366,
+        "turnout_percentage": 81.9,
+        "margin_votes": 49293,
+        "margin_percentage": 24.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bhubon Pegu",
+          "party": "Independent",
+          "votes": 88441,
+          "votes_percentage": 43.3
+        },
+        {
+          "position": 2,
+          "name": "Aswini Pait",
+          "party": "Bharatiya Janta Party",
+          "votes": 39148,
+          "votes_percentage": 19.2
+        },
+        {
+          "position": 3,
+          "name": "Satho Basumatary",
+          "party": "Independent",
+          "votes": 33265,
+          "votes_percentage": 16.3
+        },
+        {
+          "position": 4,
+          "name": "Sushil Pegu",
+          "party": "Indian National Congress",
+          "votes": 30890,
+          "votes_percentage": 15.1
+        },
+        {
+          "position": 5,
+          "name": "Lenindra Kumar Doley",
+          "party": "Independent",
+          "votes": 5625,
+          "votes_percentage": 2.8
+        },
+        {
+          "position": 6,
+          "name": "Hitesh Deori",
+          "party": "Independent",
+          "votes": 2290,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 7,
+          "name": "Bhupen Narah",
+          "party": "Independent",
+          "votes": 2120,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 8,
+          "name": "Janki Kumar Pegu",
+          "party": "Independent",
+          "votes": 1519,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 9,
+          "name": "Naren Sonowal",
+          "party": "Independent",
+          "votes": 1068,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}

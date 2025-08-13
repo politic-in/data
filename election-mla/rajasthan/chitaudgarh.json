@@ -1,0 +1,78 @@
+{
+  "state": "Rajasthan",
+  "constituency": "Chitaudgarh",
+  "district": "Chittaurgarh",
+  "ac_type": "GEN",
+  "results": {
+    "2018": {
+      "poll_date": "07 December 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 245249,
+        "total_votes_polled": 197503,
+        "turnout_percentage": 81.4,
+        "margin_votes": 23894,
+        "margin_percentage": 12.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chandrabhan Singh Aakya",
+          "party": "Bharatiya Janta Party",
+          "votes": 106563,
+          "votes_percentage": 54.0
+        },
+        {
+          "position": 2,
+          "name": "Surendra Singh Jadawat",
+          "party": "Indian National Congress",
+          "votes": 82669,
+          "votes_percentage": 41.9
+        },
+        {
+          "position": 3,
+          "name": "Mangi Lal Bairwa",
+          "party": "Communist Party Of India",
+          "votes": 2281,
+          "votes_percentage": 1.2
+        },
+        {
+          "position": 4,
+          "name": "Alauddin",
+          "party": "Bahujan Samaj Party",
+          "votes": 1730,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Gopal Singh Rathore",
+          "party": "Aam Aadmi Party",
+          "votes": 1574,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 6,
+          "name": "Vishnu Sen",
+          "party": "Independent",
+          "votes": 1284,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Jabbar Khan",
+          "party": "Independent",
+          "votes": 909,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 8,
+          "name": "Faruk Husain",
+          "party": "Independent",
+          "votes": 493,
+          "votes_percentage": 0.3
+        }
+      ]
+    }
+  }
+}

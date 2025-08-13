@@ -1,0 +1,41 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "MAHRAJGANJ",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1957": {
+      "poll_date": "25 February 1957",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 395546,
+        "total_votes_polled": 176183,
+        "turnout_percentage": 44.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Prof. Shibban Lal Saxena",
+          "party": "Independent",
+          "votes": 92617,
+          "votes_percentage": 52.6
+        },
+        {
+          "position": 2,
+          "name": "Hari Shanker",
+          "party": "Indian National Congress",
+          "votes": 64836,
+          "votes_percentage": 36.8
+        },
+        {
+          "position": 3,
+          "name": "Mahatam",
+          "party": "Praja Socialist Party",
+          "votes": 18730,
+          "votes_percentage": 10.6
+        }
+      ]
+    }
+  }
+}

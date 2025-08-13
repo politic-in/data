@@ -1,0 +1,152 @@
+{
+  "state": "Sikkim",
+  "constituency": "Gnathang-machong",
+  "district": "East",
+  "ac_type": "BL",
+  "results": {
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 12216,
+        "total_votes_polled": 10046,
+        "turnout_percentage": 82.9,
+        "margin_votes": 2920,
+        "margin_percentage": 29.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dorjee Tshering Lepcha",
+          "party": "Sikkim Democratic Front",
+          "votes": 6380,
+          "votes_percentage": 63.5
+        },
+        {
+          "position": 2,
+          "name": "Tshering Bhutia",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 3460,
+          "votes_percentage": 34.4
+        },
+        {
+          "position": 3,
+          "name": "Dorjee Ongden Bhutia",
+          "party": "Indian National Congress",
+          "votes": 127,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 4,
+          "name": "Sangay Chopel Bhutia",
+          "party": "Hamro Sikkim Party",
+          "votes": 79,
+          "votes_percentage": 0.8
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "12 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 10053,
+        "total_votes_polled": 8619,
+        "turnout_percentage": 85.7,
+        "total_valid_votes": 8550,
+        "total_valid_votes_percentage": 85.0,
+        "margin_votes": 1916,
+        "margin_percentage": 22.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dorjee Tsh. Lepcha",
+          "party": "Sikkim Democratic Front",
+          "votes": 5017,
+          "votes_percentage": 58.7
+        },
+        {
+          "position": 2,
+          "name": "Sonam Dorjee",
+          "party": "Sikkim Krantikari Morcha",
+          "votes": 3101,
+          "votes_percentage": 36.3
+        },
+        {
+          "position": 3,
+          "name": "Pempa Tshering Bhutia",
+          "party": "Independent",
+          "votes": 325,
+          "votes_percentage": 3.8
+        },
+        {
+          "position": 4,
+          "name": "Dorjee Ongden Bhutia",
+          "party": "Indian National Congress",
+          "votes": 107,
+          "votes_percentage": 1.3
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "30 April 2009",
+      "counting_date": "05 June 2009",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 8113,
+        "total_votes_polled": 6959,
+        "turnout_percentage": 85.8,
+        "total_valid_votes": 6708,
+        "total_valid_votes_percentage": 82.7,
+        "margin_votes": 2400,
+        "margin_percentage": 34.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "L.M. Lepcha",
+          "party": "Sikkim Democratic Front",
+          "votes": 4077,
+          "votes_percentage": 58.6
+        },
+        {
+          "position": 2,
+          "name": "Chhopel Dzongpo Bhutia",
+          "party": "Sikkim Himali Rajya Parishad",
+          "votes": 1677,
+          "votes_percentage": 24.1
+        },
+        {
+          "position": 3,
+          "name": "Nima Wangchuk Bhutia",
+          "party": "Indian National Congress",
+          "votes": 994,
+          "votes_percentage": 14.3
+        },
+        {
+          "position": 4,
+          "name": "Phurba Tsh. Sherpa",
+          "party": "Sikkim Gorkha Prajatantric Party",
+          "votes": 90,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 5,
+          "name": "Chewang Dorjee Bhutia",
+          "party": "Independent",
+          "votes": 63,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Namgay Tsh. Bhutia",
+          "party": "Nationalist Congress Party",
+          "votes": 58,
+          "votes_percentage": 0.8
+        }
+      ]
+    }
+  }
+}

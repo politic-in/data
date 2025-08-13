@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 240855,
+        "male": 254874,
+        "percentage_of_total_population": 10.14,
+        "percentage_of_total_population_calculated": 10.14,
+        "percentage_of_total_population_stated": 10.14,
+        "sex_ratio": 945,
+        "total": 495729
+    },
+    "literacy": {
+        "female_literacy_rate": 60.09,
+        "female_literate": 1325715,
+        "male_literacy_rate": 74.79,
+        "male_literate": 1634726,
+        "rate_percentage": 67.4,
+        "total_literate": 2960441
+    },
+    "population": {
+        "female": 2447292,
+        "male": 2440521,
+        "sex_ratio": 1003,
+        "total": 4887813
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 323
+        },
+        "Christian": {
+            "percentage": 1.84,
+            "population": 89763
+        },
+        "Hindu": {
+            "percentage": 86.29,
+            "population": 4217597
+        },
+        "Jain": {
+            "percentage": 0.07,
+            "population": 3282
+        },
+        "Muslims": {
+            "percentage": 11.45,
+            "population": 559770
+        },
+        "Not Stated": {
+            "percentage": 0.33,
+            "population": 15982
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 332
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 764
+        }
+    },
+    "rural": {
+        "child_population_female": 161641,
+        "child_population_male": 171120,
+        "child_population_percentage": 10.29,
+        "child_population_percentage_calculated": 10.29,
+        "child_population_percentage_stated": 10.29,
+        "child_population_total": 332761,
+        "child_sex_ratio": 945,
+        "female": 1613584,
+        "literacy_rate_female": 53.77,
+        "literacy_rate_male": 70.14,
+        "literacy_rate_percentage": 61.95,
+        "literate_female": 780640,
+        "literate_male": 1017294,
+        "literate_total": 1797934,
+        "male": 1621491,
+        "percentage_population": 66.19,
+        "population": 3235075,
+        "sex_ratio": 995
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/134-guntur.html",
+    "urban": {
+        "child_population_female": 79255,
+        "child_population_male": 83713,
+        "child_population_percentage": 9.86,
+        "child_population_percentage_calculated": 9.86,
+        "child_population_percentage_stated": 9.86,
+        "child_population_total": 162968,
+        "child_sex_ratio": 947,
+        "female": 833708,
+        "literacy_rate_female": 72.25,
+        "literacy_rate_male": 83.97,
+        "literacy_rate_percentage": 78.03,
+        "literate_female": 545075,
+        "literate_male": 617432,
+        "literate_total": 1162507,
+        "male": 819030,
+        "percentage_population": 33.81,
+        "population": 1652738,
+        "sex_ratio": 1018
+    }
+}

@@ -1,0 +1,491 @@
+{
+  "state": "Chhattisgarh",
+  "constituency": "Sitapur",
+  "district": "Surguja",
+  "ac_type": "ST",
+  "results": {
+    "2023": {
+      "poll_date": "07 November 2023",
+      "counting_date": "03 December 2023",
+      "total_contestants": 16,
+      "aggregate": {
+        "total_electors": 403318,
+        "total_votes_polled": 163566,
+        "turnout_percentage": 40.9,
+        "margin_votes": 17160,
+        "margin_percentage": 10.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Poorv Sainik Ramkumar Toppo",
+          "party": "Bharatiya Janta Party",
+          "votes": 83088,
+          "votes_percentage": 50.4
+        },
+        {
+          "position": 2,
+          "name": "Amarjeet Bhagat",
+          "party": "Indian National Congress",
+          "votes": 65928,
+          "votes_percentage": 40.0
+        },
+        {
+          "position": 3,
+          "name": "Santosh Kumar Khess",
+          "party": "Independent",
+          "votes": 3264,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 4,
+          "name": "Priyanka",
+          "party": "Aam Aadmi Party",
+          "votes": 1464,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Kamal Nath Singh",
+          "party": "Hamar Raj Party",
+          "votes": 1456,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 6,
+          "name": "Jems Toppo",
+          "party": "Janta Congress Chhattisgarh (J)",
+          "votes": 1254,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 7,
+          "name": "Shanti Devi",
+          "party": "Independent",
+          "votes": 1114,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 8,
+          "name": "Ram Kumar",
+          "party": "Independent",
+          "votes": 1033,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 9,
+          "name": "Bipin Bihari Painkra",
+          "party": "Independent",
+          "votes": 939,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 10,
+          "name": "Ramkumar Kindo",
+          "party": "Independent",
+          "votes": 743,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 11,
+          "name": "Balamdina Nirala",
+          "party": "Independent",
+          "votes": 695,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 12,
+          "name": "Prakash Kispotta",
+          "party": "Bahujan Samaj Party",
+          "votes": 641,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 13,
+          "name": "Nirmal Kujur",
+          "party": "Bahujan Mukti Party",
+          "votes": 612,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 14,
+          "name": "Anil Minj",
+          "party": "Independent",
+          "votes": 548,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 15,
+          "name": "Dr. Aajad Bhagat",
+          "party": "Independent",
+          "votes": 424,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 16,
+          "name": "Francis Ekka",
+          "party": "Independent",
+          "votes": 363,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2018": {
+      "poll_date": "20 November 2018",
+      "counting_date": "11 December 2018",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 188476,
+        "total_votes_polled": 148034,
+        "turnout_percentage": 81.3,
+        "margin_votes": 36137,
+        "margin_percentage": 24.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Amarjeet Bhagat",
+          "party": "Indian National Congress",
+          "votes": 86670,
+          "votes_percentage": 58.6
+        },
+        {
+          "position": 2,
+          "name": "Professor Gopal Ram",
+          "party": "Bharatiya Janta Party",
+          "votes": 50533,
+          "votes_percentage": 34.1
+        },
+        {
+          "position": 3,
+          "name": "Setram Bara",
+          "party": "Janta Congress Chhattisgarh (J)",
+          "votes": 2495,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 4,
+          "name": "Shanti Prakash",
+          "party": "Independent",
+          "votes": 1938,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 5,
+          "name": "Ashok Tirkey",
+          "party": "Aam Aadmi Party",
+          "votes": 1680,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 6,
+          "name": "Munna Toppo",
+          "party": "Independent",
+          "votes": 1629,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 7,
+          "name": "Vipin Bihari Paikara",
+          "party": "Independent",
+          "votes": 890,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "Ramchandra Paikara",
+          "party": "Independent",
+          "votes": 876,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 9,
+          "name": "Jems Toppo",
+          "party": "Independent",
+          "votes": 500,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Gopal Ram Tigga",
+          "party": "Independent",
+          "votes": 452,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 11,
+          "name": "Gopal Ram Lakra",
+          "party": "Independent",
+          "votes": 371,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2013": {
+      "poll_date": "19 November 2013",
+      "counting_date": "08 December 2013",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 170069,
+        "total_votes_polled": 135546,
+        "turnout_percentage": 83.2,
+        "margin_votes": 17855,
+        "margin_percentage": 13.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Amarjeet Bhagat",
+          "party": "Indian National Congress",
+          "votes": 70217,
+          "votes_percentage": 51.8
+        },
+        {
+          "position": 2,
+          "name": "Raja Ram Bhagat",
+          "party": "Bharatiya Janta Party",
+          "votes": 52362,
+          "votes_percentage": 38.6
+        },
+        {
+          "position": 3,
+          "name": "Ram Chandra Paikra",
+          "party": "Independent",
+          "votes": 3887,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 4,
+          "name": "Ram Sai Bhagat",
+          "party": "Bahujan Samaj Party",
+          "votes": 3297,
+          "votes_percentage": 2.4
+        },
+        {
+          "position": 5,
+          "name": "Stephan Lakra",
+          "party": "Independent",
+          "votes": 1982,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 6,
+          "name": "Balamdina Ekka",
+          "party": "Independent",
+          "votes": 1402,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 7,
+          "name": "Sudhan Nagwanshi(KHADADORNA)",
+          "party": "Independent",
+          "votes": 893,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 8,
+          "name": "Raj Kumar Ekka (AMARJEET)",
+          "party": "Independent",
+          "votes": 785,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 9,
+          "name": "Deodatt Singh Paikra",
+          "party": "Independent",
+          "votes": 721,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "2008": {
+      "poll_date": "20 November 2008",
+      "counting_date": "08 December 2008",
+      "total_contestants": 15,
+      "aggregate": {
+        "total_electors": 153180,
+        "total_votes_polled": 116718,
+        "turnout_percentage": 76.2,
+        "margin_votes": 1722,
+        "margin_percentage": 1.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Amarjeet Bhagat",
+          "party": "Indian National Congress",
+          "votes": 36301,
+          "votes_percentage": 31.1
+        },
+        {
+          "position": 2,
+          "name": "Ganesh Ram Bhagat",
+          "party": "Bharatiya Janta Party",
+          "votes": 34579,
+          "votes_percentage": 29.6
+        },
+        {
+          "position": 3,
+          "name": "Professor Gopalram",
+          "party": "Independent",
+          "votes": 24345,
+          "votes_percentage": 20.9
+        },
+        {
+          "position": 4,
+          "name": "Raja Ram Tirkey",
+          "party": "Independent",
+          "votes": 6423,
+          "votes_percentage": 5.5
+        },
+        {
+          "position": 5,
+          "name": "Prabhat Khalkho",
+          "party": "Independent",
+          "votes": 4526,
+          "votes_percentage": 3.9
+        },
+        {
+          "position": 6,
+          "name": "Saurabh Bhagat",
+          "party": "Bahujan Samaj Party",
+          "votes": 2273,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 7,
+          "name": "Budhan Singh",
+          "party": "Independent",
+          "votes": 1893,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 8,
+          "name": "Abhimanyu Singh Paikra",
+          "party": "Independent",
+          "votes": 1013,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 9,
+          "name": "Kameshwar Paikra",
+          "party": "Shiv Sena",
+          "votes": 945,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 10,
+          "name": "Nohar Sai",
+          "party": "Independent",
+          "votes": 890,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 11,
+          "name": "Upendra Paikra",
+          "party": "Independent",
+          "votes": 875,
+          "votes_percentage": 0.8
+        },
+        {
+          "position": 12,
+          "name": "Gopal Budhram Urawn",
+          "party": "Independent",
+          "votes": 805,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 13,
+          "name": "J.L.Minj (ADVOCATE)",
+          "party": "Independent",
+          "votes": 778,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 14,
+          "name": "Shirachand Ekka",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 539,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 15,
+          "name": "Bhuneshwar Singh",
+          "party": "Samajwadi Party",
+          "votes": 533,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "2003": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 119397,
+        "total_votes_polled": 82961,
+        "turnout_percentage": 69.5,
+        "margin_votes": 5102,
+        "margin_percentage": 6.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Amarjeet",
+          "party": "Indian National Congress",
+          "votes": 35369,
+          "votes_percentage": 42.6
+        },
+        {
+          "position": 2,
+          "name": "Raja Ram Bhagat",
+          "party": "Bharatiya Janta Party",
+          "votes": 30267,
+          "votes_percentage": 36.5
+        },
+        {
+          "position": 3,
+          "name": "Amar Singh",
+          "party": "Nationalist Congress Party",
+          "votes": 9037,
+          "votes_percentage": 10.9
+        },
+        {
+          "position": 4,
+          "name": "Ful Sai Lakra",
+          "party": "Independent",
+          "votes": 3083,
+          "votes_percentage": 3.7
+        },
+        {
+          "position": 5,
+          "name": "Bhuneswar Singh Painkara",
+          "party": "Samajwadi Party",
+          "votes": 1575,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 6,
+          "name": "Net Ram",
+          "party": "Independent",
+          "votes": 1547,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 7,
+          "name": "Aalam Sai Ghichha Manjhi",
+          "party": "Independent",
+          "votes": 1294,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 8,
+          "name": "Shirachand",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 789,
+          "votes_percentage": 1.0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "state": "Manipur",
+  "year": "1967",
+  "summary_stats": {
+    "total_electors_state": 483049,
+    "total_votes_polled_state": 324796,
+    "turnout_percentage_state": 67.2,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Inner Manipur",
+      "ac_no": 516,
+      "ac_type": "GEN",
+      "district": "Manipur",
+      "winning_candidate": "M. Meghachandra",
+      "winning_party": "Communist Party Of India",
+      "total_electors_ac": 263495,
+      "total_votes_ac": 204788,
+      "poll_percentage_ac": 0.0,
+      "margin": 16983,
+      "margin_percentage": 8.3,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1967/manipur/inner-manipur/1814/24/4"
+    },
+    {
+      "ac_name": "Outer Manipur",
+      "ac_no": 517,
+      "ac_type": "ST",
+      "district": "Manipur",
+      "winning_candidate": "P. Haokip",
+      "winning_party": "Independent",
+      "total_electors_ac": 219554,
+      "total_votes_ac": 120008,
+      "poll_percentage_ac": 0.0,
+      "margin": 1541,
+      "margin_percentage": 1.3,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1967/manipur/outer-manipur/1815/24/4"
+    }
+  ]
+}

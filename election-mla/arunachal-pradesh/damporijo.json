@@ -1,0 +1,64 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Damporijo",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "1999": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 9939,
+        "total_votes_polled": 8256,
+        "turnout_percentage": 83.1,
+        "margin_votes": 1892,
+        "margin_percentage": 22.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Takar Marde",
+          "party": "Indian National Congress",
+          "votes": 5006,
+          "votes_percentage": 61.7
+        },
+        {
+          "position": 2,
+          "name": "Takar Doni",
+          "party": "Arunachal Congress",
+          "votes": 3114,
+          "votes_percentage": 38.4
+        }
+      ]
+    },
+    "1995": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 6884,
+        "total_votes_polled": 6136,
+        "turnout_percentage": 89.1,
+        "margin_votes": 763,
+        "margin_percentage": 12.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Takar Doni",
+          "party": "Indian National Congress",
+          "votes": 3405,
+          "votes_percentage": 56.3
+        },
+        {
+          "position": 2,
+          "name": "Tadam Lida",
+          "party": "Janata Dal",
+          "votes": 2642,
+          "votes_percentage": 43.7
+        }
+      ]
+    }
+  }
+}

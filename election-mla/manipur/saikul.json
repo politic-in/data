@@ -1,0 +1,654 @@
+{
+  "state": "Manipur",
+  "constituency": "Saikul",
+  "district": "Senapati",
+  "ac_type": "ST",
+  "results": {
+    "2022": {
+      "poll_date": "28 February 2022",
+      "counting_date": "10 March 2022",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 28888,
+        "total_votes_polled": 26436,
+        "turnout_percentage": 91.5,
+        "margin_votes": 1249,
+        "margin_percentage": 4.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Kimneo Haokip Hangshing",
+          "party": "Kuki People's Alliance",
+          "votes": 6710,
+          "votes_percentage": 25.5
+        },
+        {
+          "position": 2,
+          "name": "Kenn Raikhan",
+          "party": "Independent",
+          "votes": 5461,
+          "votes_percentage": 20.7
+        },
+        {
+          "position": 3,
+          "name": "Chungkhokai Doungel",
+          "party": "Independent",
+          "votes": 5107,
+          "votes_percentage": 19.4
+        },
+        {
+          "position": 4,
+          "name": "Ch. Ajang Khongsai",
+          "party": "Janata Dal (United)",
+          "votes": 4486,
+          "votes_percentage": 17.0
+        },
+        {
+          "position": 5,
+          "name": "Yamthong Haokip",
+          "party": "Bharatiya Janta Party",
+          "votes": 2667,
+          "votes_percentage": 10.1
+        },
+        {
+          "position": 6,
+          "name": "Lhingkim Haokip",
+          "party": "Indian National Congress",
+          "votes": 935,
+          "votes_percentage": 3.6
+        },
+        {
+          "position": 7,
+          "name": "Seikholal Haokip",
+          "party": "National People's Party",
+          "votes": 645,
+          "votes_percentage": 2.5
+        },
+        {
+          "position": 8,
+          "name": "Jamchinlen Lunkim",
+          "party": "Republican Party Of India (Athawale)",
+          "votes": 322,
+          "votes_percentage": 1.2
+        }
+      ]
+    },
+    "2012": {
+      "poll_date": "28 January 2012",
+      "counting_date": "03 June 2012",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 35629,
+        "total_votes_polled": 20980,
+        "turnout_percentage": 58.9,
+        "total_valid_votes": 20974,
+        "total_valid_votes_percentage": 58.9,
+        "margin_votes": 1489,
+        "margin_percentage": 7.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Yamthong Haokip",
+          "party": "Indian National Congress",
+          "votes": 8700,
+          "votes_percentage": 41.5
+        },
+        {
+          "position": 2,
+          "name": "Chungkhokai Doungel",
+          "party": "All India Trinamool Congress",
+          "votes": 7211,
+          "votes_percentage": 34.4
+        },
+        {
+          "position": 3,
+          "name": "Doukhomang Khongsai",
+          "party": "Nationalist Congress Party",
+          "votes": 5069,
+          "votes_percentage": 24.2
+        }
+      ]
+    },
+    "2007": {
+      "poll_date": "23 February 2007",
+      "counting_date": "27 February 2007",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 35358,
+        "total_votes_polled": 30061,
+        "turnout_percentage": 85.0,
+        "margin_votes": 458,
+        "margin_percentage": 1.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Doukhomang Khongsai",
+          "party": "Nationalist Congress Party",
+          "votes": 11664,
+          "votes_percentage": 38.8
+        },
+        {
+          "position": 2,
+          "name": "Chungkhokai Doungel",
+          "party": "Indian National Congress",
+          "votes": 11206,
+          "votes_percentage": 37.3
+        },
+        {
+          "position": 3,
+          "name": "Yamthong Haokip",
+          "party": "Independent",
+          "votes": 7191,
+          "votes_percentage": 23.9
+        }
+      ]
+    },
+    "2002": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 31251,
+        "total_votes_polled": 28490,
+        "turnout_percentage": 91.2,
+        "margin_votes": 2162,
+        "margin_percentage": 7.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chungkhokai Doungel",
+          "party": "Nationalist Congress Party",
+          "votes": 9989,
+          "votes_percentage": 35.4
+        },
+        {
+          "position": 2,
+          "name": "Doukhomang Khongsai",
+          "party": "Samata Party",
+          "votes": 7827,
+          "votes_percentage": 27.7
+        },
+        {
+          "position": 3,
+          "name": "Yamthong Haokip",
+          "party": "Indian National Congress",
+          "votes": 7733,
+          "votes_percentage": 27.4
+        },
+        {
+          "position": 4,
+          "name": "Soineimang",
+          "party": "Federal Party Of Manipur",
+          "votes": 1869,
+          "votes_percentage": 6.6
+        },
+        {
+          "position": 5,
+          "name": "Ch. Ajang Khongsai",
+          "party": "Manipur State Congress Party",
+          "votes": 489,
+          "votes_percentage": 1.7
+        },
+        {
+          "position": 6,
+          "name": "Nehkhomang (mangcha) Haokip",
+          "party": "Bharatiya Janta Party",
+          "votes": 291,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 7,
+          "name": "Haokhopao",
+          "party": "Independent",
+          "votes": 34,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "Songlal",
+          "party": "Lok Shakti",
+          "votes": 15,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Jampao",
+          "party": "Janata Dal (United)",
+          "votes": 2,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 29788,
+        "total_votes_polled": 27060,
+        "turnout_percentage": 90.8,
+        "margin_votes": 10905,
+        "margin_percentage": 40.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chungkhokai Doungel",
+          "party": "Nationalist Congress Party",
+          "votes": 14746,
+          "votes_percentage": 55.0
+        },
+        {
+          "position": 2,
+          "name": "Johnson Keishing",
+          "party": "Federal Party Of Manipur",
+          "votes": 3841,
+          "votes_percentage": 14.3
+        },
+        {
+          "position": 3,
+          "name": "Yamthong Haokip",
+          "party": "Indian National Congress",
+          "votes": 3377,
+          "votes_percentage": 12.6
+        },
+        {
+          "position": 4,
+          "name": "Doukhomang Khongsai",
+          "party": "Samata Party",
+          "votes": 2996,
+          "votes_percentage": 11.2
+        },
+        {
+          "position": 5,
+          "name": "Demkhokhai",
+          "party": "Mahabharat Peples Party",
+          "votes": 853,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 6,
+          "name": "Ch. Ajang Khongsai",
+          "party": "Communist Party Of India",
+          "votes": 512,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 7,
+          "name": "Nehkhomang (Mangcha) Haokip",
+          "party": "Independent",
+          "votes": 227,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 8,
+          "name": "Holkholet Khongsai",
+          "party": "Manipur State Congress Party",
+          "votes": 160,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 9,
+          "name": "Ngamkhai",
+          "party": "Janata Dal (United)",
+          "votes": 87,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "1995": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 23796,
+        "total_votes_polled": 21998,
+        "turnout_percentage": 92.4,
+        "margin_votes": 3428,
+        "margin_percentage": 15.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chungkhokai Doungel",
+          "party": "Mahabharat Peples Party",
+          "votes": 10730,
+          "votes_percentage": 49.4
+        },
+        {
+          "position": 2,
+          "name": "Holkholet Khongsai",
+          "party": "Indian National Congress",
+          "votes": 7302,
+          "votes_percentage": 33.6
+        },
+        {
+          "position": 3,
+          "name": "Thangjakam",
+          "party": "Indian Congress (SOCIALIST)",
+          "votes": 2422,
+          "votes_percentage": 11.2
+        },
+        {
+          "position": 4,
+          "name": "John L. Kilong",
+          "party": "Independent",
+          "votes": 1148,
+          "votes_percentage": 5.3
+        },
+        {
+          "position": 5,
+          "name": "Ngamkhai",
+          "party": "Janata Dal",
+          "votes": 108,
+          "votes_percentage": 0.5
+        }
+      ]
+    },
+    "1990": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 24207,
+        "total_votes_polled": 22039,
+        "turnout_percentage": 91.0,
+        "margin_votes": 3485,
+        "margin_percentage": 15.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Chungkhokai",
+          "party": "Indian Congress (SOCIALIST- SARAT CHANDRA SINHA)",
+          "votes": 8508,
+          "votes_percentage": 39.1
+        },
+        {
+          "position": 2,
+          "name": "Holkholet Khongsai",
+          "party": "Indian National Congress",
+          "votes": 5023,
+          "votes_percentage": 23.1
+        },
+        {
+          "position": 3,
+          "name": "Paojakhup",
+          "party": "Bharatiya Janta Party",
+          "votes": 2856,
+          "votes_percentage": 13.1
+        },
+        {
+          "position": 4,
+          "name": "R. Michael Athing",
+          "party": "Janata Dal",
+          "votes": 2420,
+          "votes_percentage": 11.1
+        },
+        {
+          "position": 5,
+          "name": "Ramthing",
+          "party": "Manipur Hill Peoples Council",
+          "votes": 1778,
+          "votes_percentage": 8.2
+        },
+        {
+          "position": 6,
+          "name": "John L. Kilong",
+          "party": "Mahabharat Peples Party",
+          "votes": 693,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 7,
+          "name": "K. L. Kom",
+          "party": "Kuki National Assembly",
+          "votes": 509,
+          "votes_percentage": 2.3
+        }
+      ]
+    },
+    "1984": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 19657,
+        "total_votes_polled": 18485,
+        "turnout_percentage": 94.0,
+        "margin_votes": 3097,
+        "margin_percentage": 16.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Holkholet Khongsai",
+          "party": "Independent",
+          "votes": 6515,
+          "votes_percentage": 36.0
+        },
+        {
+          "position": 2,
+          "name": "Ramthing Hungy",
+          "party": "Indian National Congress",
+          "votes": 3418,
+          "votes_percentage": 18.9
+        },
+        {
+          "position": 3,
+          "name": "John",
+          "party": "Independent",
+          "votes": 2546,
+          "votes_percentage": 14.1
+        },
+        {
+          "position": 4,
+          "name": "R. Michael Athing",
+          "party": "Independent",
+          "votes": 2217,
+          "votes_percentage": 12.2
+        },
+        {
+          "position": 5,
+          "name": "Haopao Touthang",
+          "party": "Manipur Peoples Party",
+          "votes": 2181,
+          "votes_percentage": 12.1
+        },
+        {
+          "position": 6,
+          "name": "Letkhosei",
+          "party": "Independent",
+          "votes": 699,
+          "votes_percentage": 3.9
+        },
+        {
+          "position": 7,
+          "name": "Shonkhothang",
+          "party": "Independent",
+          "votes": 530,
+          "votes_percentage": 2.9
+        }
+      ]
+    },
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 17484,
+        "total_votes_polled": 13366,
+        "turnout_percentage": 76.5,
+        "margin_votes": 320,
+        "margin_percentage": 2.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Holkholet Khongsai",
+          "party": "Indian National Congress (U)",
+          "votes": 2456,
+          "votes_percentage": 19.2
+        },
+        {
+          "position": 2,
+          "name": "K. S. Seiboy",
+          "party": "Kuki National Assembly",
+          "votes": 2136,
+          "votes_percentage": 16.7
+        },
+        {
+          "position": 3,
+          "name": "John",
+          "party": "Independent",
+          "votes": 1884,
+          "votes_percentage": 14.7
+        },
+        {
+          "position": 4,
+          "name": "R. Michael Athing",
+          "party": "Independent",
+          "votes": 1825,
+          "votes_percentage": 14.3
+        },
+        {
+          "position": 5,
+          "name": "Shonkhothan (Ason)",
+          "party": "Independent",
+          "votes": 1706,
+          "votes_percentage": 13.3
+        },
+        {
+          "position": 6,
+          "name": "Haokhopao",
+          "party": "Indian National Congress (I)",
+          "votes": 1189,
+          "votes_percentage": 9.3
+        },
+        {
+          "position": 7,
+          "name": "Khangba Anth",
+          "party": "Manipur Peoples Party",
+          "votes": 776,
+          "votes_percentage": 6.1
+        },
+        {
+          "position": 8,
+          "name": "K. Envy",
+          "party": "Janta Party",
+          "votes": 713,
+          "votes_percentage": 5.6
+        },
+        {
+          "position": 9,
+          "name": "Thangjakam",
+          "party": "Independent",
+          "votes": 115,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 10,
+          "name": "Thangjamang",
+          "party": "Independent",
+          "votes": 11,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2017": {
+      "poll_date": "04 February 2017",
+      "counting_date": "11 March 2017",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 36301,
+        "total_votes_polled": 29277,
+        "turnout_percentage": 80.8,
+        "margin_votes": 3261,
+        "margin_percentage": 11.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Yamthong Haokip",
+          "party": "Indian National Congress",
+          "votes": 8677,
+          "votes_percentage": 29.6
+        },
+        {
+          "position": 2,
+          "name": "Chungkhokai Doungel",
+          "party": "Nationalist Congress Party",
+          "votes": 5416,
+          "votes_percentage": 18.5
+        },
+        {
+          "position": 3,
+          "name": "Paojalet Touthang",
+          "party": "Bharatiya Janta Party",
+          "votes": 4439,
+          "votes_percentage": 15.1
+        },
+        {
+          "position": 4,
+          "name": "Doukhomang Khongsai",
+          "party": "North East India Development Party",
+          "votes": 4008,
+          "votes_percentage": 13.7
+        },
+        {
+          "position": 5,
+          "name": "Ch. Ajang Khongsai",
+          "party": "National People's Party",
+          "votes": 2993,
+          "votes_percentage": 10.2
+        },
+        {
+          "position": 6,
+          "name": "Thangjamang Haokip",
+          "party": "Lok Jan Shakti Party",
+          "votes": 2803,
+          "votes_percentage": 9.6
+        },
+        {
+          "position": 7,
+          "name": "L. Samuel Kom",
+          "party": "Republican Party Of India (A)",
+          "votes": 464,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 8,
+          "name": "Mangvung Thangboi Haokip",
+          "party": "Naga Peoples Front",
+          "votes": 304,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 9,
+          "name": "Letjam Singson",
+          "party": "Manipur National Democratic Front",
+          "votes": 67,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 10,
+          "name": "Horngam Keishing",
+          "party": "All India Trinamool Congress",
+          "votes": 61,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Kenn Raikhan",
+          "party": "Independent",
+          "votes": 45,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "KAIMGANJ",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 427579,
+        "total_votes_polled": 243950,
+        "turnout_percentage": 57.1,
+        "margin_votes": 14487,
+        "margin_percentage": 5.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Prem Kishan Khanna",
+          "party": "Indian National Congress",
+          "votes": 70014,
+          "votes_percentage": 28.7
+        },
+        {
+          "position": 2,
+          "name": "Kabir Shah",
+          "party": "Praja Socialist Party",
+          "votes": 55527,
+          "votes_percentage": 22.8
+        },
+        {
+          "position": 3,
+          "name": "Om Prakash",
+          "party": "Jan Sangh",
+          "votes": 45689,
+          "votes_percentage": 18.7
+        },
+        {
+          "position": 4,
+          "name": "Hardayal Singh",
+          "party": "Socialist",
+          "votes": 35685,
+          "votes_percentage": 14.6
+        },
+        {
+          "position": 5,
+          "name": "Hakim Akhtar Ali",
+          "party": "Republican Party",
+          "votes": 20153,
+          "votes_percentage": 8.3
+        },
+        {
+          "position": 6,
+          "name": "Madan Mohan Shukla Madnesh",
+          "party": "Akhil Bharatiya Hindu Mahasabha",
+          "votes": 7076,
+          "votes_percentage": 2.9
+        }
+      ]
+    }
+  }
+}

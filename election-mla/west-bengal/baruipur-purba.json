@@ -1,0 +1,134 @@
+{
+  "state": "West Bengal",
+  "constituency": "Baruipur Purba",
+  "district": "South  Twenty Four Parganas",
+  "ac_type": "SC",
+  "results": {
+    "2021": {
+      "poll_date": "27 March 2021",
+      "counting_date": "02 May 2021",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 245546,
+        "total_votes_polled": 223259,
+        "turnout_percentage": 91.7,
+        "margin_votes": 49641,
+        "margin_percentage": 22.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bivas Sardar (VOBO)",
+          "party": "All India Trinamool Congress",
+          "votes": 123243,
+          "votes_percentage": 55.2
+        },
+        {
+          "position": 2,
+          "name": "Chandan Mondal",
+          "party": "Bharatiya Janta Party",
+          "votes": 73602,
+          "votes_percentage": 33.0
+        },
+        {
+          "position": 3,
+          "name": "Swapan Naskar",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 21467,
+          "votes_percentage": 9.6
+        },
+        {
+          "position": 4,
+          "name": "Snehasis Saha",
+          "party": "Independent",
+          "votes": 1627,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Joydev Naskar",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 1525,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Sankar Deb Mondal",
+          "party": "Bahujan Samaj Party",
+          "votes": 1393,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Chinmay Naskar",
+          "party": "Independent",
+          "votes": 402,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2011": {
+      "poll_date": "23 April 2011",
+      "counting_date": "13 May 2011",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 189023,
+        "total_votes_polled": 160241,
+        "turnout_percentage": 84.8,
+        "margin_votes": 18479,
+        "margin_percentage": 11.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nirmal Chandra Mandal",
+          "party": "All India Trinamool Congress",
+          "votes": 83636,
+          "votes_percentage": 52.2
+        },
+        {
+          "position": 2,
+          "name": "Bimal Mistry",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 65157,
+          "votes_percentage": 40.7
+        },
+        {
+          "position": 3,
+          "name": "Tapas Naskar",
+          "party": "Bharatiya Janta Party",
+          "votes": 5432,
+          "votes_percentage": 3.4
+        },
+        {
+          "position": 4,
+          "name": "Sukumar Mandal",
+          "party": "Bahujan Samaj Party",
+          "votes": 1721,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 5,
+          "name": "Shibdas Naskar",
+          "party": "Independent",
+          "votes": 1627,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 6,
+          "name": "Pramod Mandal",
+          "party": "Independent",
+          "votes": 1429,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 7,
+          "name": "Rabindra Nath Mistri",
+          "party": "Party For Democratic Socialism",
+          "votes": 1239,
+          "votes_percentage": 0.8
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "state": "West Bengal",
+  "constituency": "KALIAGANJ (SC)",
+  "district": "Uttar Dinajpur",
+  "ac_type": "SC",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 248970,
+        "total_votes_polled": 211109,
+        "turnout_percentage": 86.2,
+        "margin_votes": 46602,
+        "margin_percentage": 22.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Pramatha Nath Ray",
+          "party": "Indian National Congress",
+          "votes": 112868,
+          "votes_percentage": 53.5
+        },
+        {
+          "position": 2,
+          "name": "Basanta Roy",
+          "party": "All India Trinamool Congress",
+          "votes": 66266,
+          "votes_percentage": 31.4
+        },
+        {
+          "position": 3,
+          "name": "Rupak Roy",
+          "party": "Bharatiya Janta Party",
+          "votes": 27252,
+          "votes_percentage": 12.9
+        },
+        {
+          "position": 4,
+          "name": "Basudeb Debsharma",
+          "party": "Bahujan Samaj Party",
+          "votes": 1850,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Jiten Roy Sinha",
+          "party": "Samajwadi Jan Parishad",
+          "votes": 1560,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 6,
+          "name": "Jagadish Rajbhar",
+          "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+          "votes": 1313,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

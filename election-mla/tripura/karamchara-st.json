@@ -1,0 +1,64 @@
+{
+  "state": "Tripura",
+  "constituency": "Karamchara (ST)",
+  "district": "Dhalai",
+  "ac_type": "ST",
+  "results": {
+    "2018": {
+      "poll_date": "18 February 2018",
+      "counting_date": "03 March 2018",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 39097,
+        "total_votes_polled": 34527,
+        "turnout_percentage": 89.5,
+        "margin_votes": 7336,
+        "margin_percentage": 21.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Diba Chandra Hrangkhawl",
+          "party": "Bharatiya Janta Party",
+          "votes": 19397,
+          "votes_percentage": 56.2
+        },
+        {
+          "position": 2,
+          "name": "Umakanta Tripura",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 12061,
+          "votes_percentage": 34.9
+        },
+        {
+          "position": 3,
+          "name": "Ratish Tripura",
+          "party": "Indigenous Nationalist Party Of Twipra",
+          "votes": 1864,
+          "votes_percentage": 5.4
+        },
+        {
+          "position": 4,
+          "name": "Ranjanbati Debbarma",
+          "party": "Indian National Congress",
+          "votes": 739,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 6,
+          "name": "Kalpa Mohan Tripura",
+          "party": "Independent",
+          "votes": 258,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 7,
+          "name": "Chiranjay Reang",
+          "party": "Tripura Peoples Party",
+          "votes": 208,
+          "votes_percentage": 0.6
+        }
+      ]
+    }
+  }
+}

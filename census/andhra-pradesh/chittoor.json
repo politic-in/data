@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 214343,
+        "male": 230229,
+        "percentage_of_total_population": 10.65,
+        "percentage_of_total_population_calculated": 10.65,
+        "percentage_of_total_population_stated": 10.65,
+        "sex_ratio": 931,
+        "total": 444572
+    },
+    "literacy": {
+        "female_literacy_rate": 63.28,
+        "female_literate": 1183084,
+        "male_literacy_rate": 79.83,
+        "male_literate": 1484794,
+        "rate_percentage": 71.53,
+        "total_literate": 2667878
+    },
+    "population": {
+        "female": 2083860,
+        "male": 2090204,
+        "sex_ratio": 997,
+        "total": 4174064
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 253
+        },
+        "Christian": {
+            "percentage": 0.58,
+            "population": 24129
+        },
+        "Hindu": {
+            "percentage": 89.54,
+            "population": 3737588
+        },
+        "Jain": {
+            "percentage": 0.03,
+            "population": 1322
+        },
+        "Muslims": {
+            "percentage": 9.53,
+            "population": 397870
+        },
+        "Not Stated": {
+            "percentage": 0.28,
+            "population": 11677
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 358
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 867
+        }
+    },
+    "rural": {
+        "child_population_female": 154499,
+        "child_population_male": 165695,
+        "child_population_percentage": 10.88,
+        "child_population_percentage_calculated": 10.88,
+        "child_population_percentage_stated": 10.88,
+        "child_population_total": 320194,
+        "child_sex_ratio": 932,
+        "female": 1468626,
+        "literacy_rate_female": 57.72,
+        "literacy_rate_male": 76.34,
+        "literacy_rate_percentage": 67.01,
+        "literate_female": 758465,
+        "literate_male": 998751,
+        "literate_total": 1757216,
+        "male": 1474052,
+        "percentage_population": 70.5,
+        "population": 2942678,
+        "sex_ratio": 996
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/140-chittoor.html",
+    "urban": {
+        "child_population_female": 59790,
+        "child_population_male": 64588,
+        "child_population_percentage": 10.1,
+        "child_population_percentage_calculated": 10.1,
+        "child_population_percentage_stated": 10.1,
+        "child_population_total": 124378,
+        "child_sex_ratio": 926,
+        "female": 615234,
+        "literacy_rate_female": 76.45,
+        "literacy_rate_male": 88.12,
+        "literacy_rate_percentage": 82.26,
+        "literate_female": 424619,
+        "literate_male": 486043,
+        "literate_total": 910662,
+        "male": 616152,
+        "percentage_population": 29.5,
+        "population": 1231386,
+        "sex_ratio": 999
+    }
+}

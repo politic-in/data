@@ -1,0 +1,45 @@
+{
+  "state": "Manipur",
+  "year": "1977",
+  "summary_stats": {
+    "total_electors_state": 788223,
+    "total_votes_polled_state": 473895,
+    "turnout_percentage_state": 60.1,
+    "total_acs": 0,
+    "ac_type_breakdown": {
+      "general": 0,
+      "sc": 0,
+      "st": 0
+    }
+  },
+  "constituencies_summary": [
+    {
+      "ac_name": "Inner Manipur",
+      "ac_no": 1,
+      "ac_type": "GEN",
+      "district": "Manipur",
+      "winning_candidate": "N. Tombi Singh",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 407918,
+      "total_votes_ac": 251631,
+      "poll_percentage_ac": 0.0,
+      "margin": 25659,
+      "margin_percentage": 10.2,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1977/manipur/inner-manipur/2633/24/6"
+    },
+    {
+      "ac_name": "Outer Manipur",
+      "ac_no": 2,
+      "ac_type": "ST",
+      "district": "Manipur",
+      "winning_candidate": "Yangmaso Shaiza",
+      "winning_party": "Indian National Congress",
+      "total_electors_ac": 380305,
+      "total_votes_ac": 222264,
+      "poll_percentage_ac": 0.0,
+      "margin": 76062,
+      "margin_percentage": 34.2,
+      "detail_url": "https://www.indiavotes.com/lok-sabha-details/1977/manipur/outer-manipur/2634/24/6"
+    }
+  ]
+}

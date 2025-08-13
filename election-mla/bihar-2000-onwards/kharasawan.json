@@ -1,0 +1,85 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "Kharasawan",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 143272,
+        "total_votes_polled": 90108,
+        "turnout_percentage": 62.9,
+        "margin_votes": 13674,
+        "margin_percentage": 15.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Arjun Munda",
+          "party": "Bharatiya Janta Party",
+          "votes": 44521,
+          "votes_percentage": 50.8
+        },
+        {
+          "position": 2,
+          "name": "Vijay Singh Soy",
+          "party": "Indian National Congress",
+          "votes": 30847,
+          "votes_percentage": 35.2
+        },
+        {
+          "position": 3,
+          "name": "Lal Singh Leyangi",
+          "party": "Jharkhand Mukti Morcha",
+          "votes": 6771,
+          "votes_percentage": 7.7
+        },
+        {
+          "position": 4,
+          "name": "Ashok Kumar Tiu",
+          "party": "United Goans Democratic Party",
+          "votes": 2490,
+          "votes_percentage": 2.8
+        },
+        {
+          "position": 5,
+          "name": "Budhan Singh Hembrom",
+          "party": "Bahujan Samaj Party",
+          "votes": 1207,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 6,
+          "name": "Lakhi Ram Majhi",
+          "party": "Rashtriya Janata Dal",
+          "votes": 549,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Jag Mohan Soy",
+          "party": "Independent",
+          "votes": 504,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 8,
+          "name": "Sanjay",
+          "party": "Independent",
+          "votes": 402,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 9,
+          "name": "Babu Lal Jarika",
+          "party": "Independent",
+          "votes": 388,
+          "votes_percentage": 0.4
+        }
+      ]
+    }
+  }
+}

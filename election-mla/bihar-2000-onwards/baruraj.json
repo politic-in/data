@@ -1,0 +1,523 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "Baruraj",
+  "district": "Muzaffarpur",
+  "ac_type": "",
+  "results": {
+    "2020": {
+      "poll_date": "28 October 2020",
+      "counting_date": "10 November 2020",
+      "total_contestants": 14,
+      "aggregate": {
+        "total_electors": 268867,
+        "total_votes_polled": 171516,
+        "turnout_percentage": 65.7,
+        "margin_votes": 43654,
+        "margin_percentage": 25.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Arun Kumar Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 87407,
+          "votes_percentage": 51.0
+        },
+        {
+          "position": 2,
+          "name": "Nand Kumar Rai",
+          "party": "Rashtriya Janata Dal",
+          "votes": 43753,
+          "votes_percentage": 25.5
+        },
+        {
+          "position": 3,
+          "name": "Hiralal Khadia",
+          "party": "Bahujan Samaj Party",
+          "votes": 22650,
+          "votes_percentage": 13.2
+        },
+        {
+          "position": 4,
+          "name": "Rakesh Kumar",
+          "party": "Independent",
+          "votes": 7304,
+          "votes_percentage": 4.3
+        },
+        {
+          "position": 5,
+          "name": "Sanjay Kumar Paswan",
+          "party": "Independent",
+          "votes": 3877,
+          "votes_percentage": 2.3
+        },
+        {
+          "position": 6,
+          "name": "Bhuneshwar Rai",
+          "party": "Independent",
+          "votes": 1575,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 7,
+          "name": "Mazharul Haque",
+          "party": "Independent",
+          "votes": 1575,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 8,
+          "name": "Mohammad Anzar",
+          "party": "Independent",
+          "votes": 714,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 9,
+          "name": "Ranjan Kumar",
+          "party": "Vanchit Bahujan Aaghadi",
+          "votes": 668,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 10,
+          "name": "Abhay Kumar",
+          "party": "Bajjikanchal Vikas Party",
+          "votes": 583,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 11,
+          "name": "Santosh Kumar",
+          "party": "Hindustan Sampoorna Azad Party",
+          "votes": 378,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 12,
+          "name": "Vikki Ram",
+          "party": "All India Majlis-E-Inquilab-E-Millat",
+          "votes": 355,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 13,
+          "name": "Dilip Kumar",
+          "party": "The Plurals Party",
+          "votes": 344,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 14,
+          "name": "Vidhalal Sahni",
+          "party": "Lok  Chetna  Dal",
+          "votes": 333,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2015": {
+      "poll_date": "05 November 2015",
+      "counting_date": "08 November 2015",
+      "total_contestants": 12,
+      "aggregate": {
+        "total_electors": 257132,
+        "total_votes_polled": 155924,
+        "turnout_percentage": 60.6,
+        "total_valid_votes": 149716,
+        "total_valid_votes_percentage": 58.2,
+        "margin_votes": 4909,
+        "margin_percentage": 3.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nand Kumar Rai",
+          "party": "Rashtriya Janata Dal",
+          "votes": 68011,
+          "votes_percentage": 43.6
+        },
+        {
+          "position": 2,
+          "name": "Arun Kumar Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 63102,
+          "votes_percentage": 40.5
+        },
+        {
+          "position": 3,
+          "name": "Najmul Hoda",
+          "party": "Bahujan Samaj Party",
+          "votes": 5658,
+          "votes_percentage": 3.6
+        },
+        {
+          "position": 4,
+          "name": "Vidhalal Sahni",
+          "party": "Independent",
+          "votes": 2967,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 5,
+          "name": "Raghuwar Bhagat",
+          "party": "Communist Party Of India",
+          "votes": 2319,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 6,
+          "name": "Hiralal Khadia",
+          "party": "Sarvajan Kalyan Loktantrik Party",
+          "votes": 2161,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 7,
+          "name": "Sanjay Kumar Paswan",
+          "party": "Independent",
+          "votes": 2099,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 8,
+          "name": "Ajay Kumar",
+          "party": "Samajwadi Party",
+          "votes": 827,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 9,
+          "name": "Ram Ekwal Ray",
+          "party": "Garib Janta Dal (Secular)",
+          "votes": 799,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 10,
+          "name": "Md. Rustam Ali",
+          "party": "Akhil Bharatiya Hind Kranti Party",
+          "votes": 706,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 11,
+          "name": "Abhay Kumar",
+          "party": "Bajjikanchal Vikas Party",
+          "votes": 582,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 12,
+          "name": "Krishna Ray",
+          "party": "Rashtriya Samanta Dal",
+          "votes": 485,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "2010": {
+      "poll_date": "24 October 2010",
+      "counting_date": "24 November 2010",
+      "total_contestants": 14,
+      "aggregate": {
+        "total_electors": 204587,
+        "total_votes_polled": 112639,
+        "turnout_percentage": 55.1,
+        "margin_votes": 14317,
+        "margin_percentage": 12.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Brij Kishor Singh",
+          "party": "Rashtriya Janata Dal",
+          "votes": 42783,
+          "votes_percentage": 38.0
+        },
+        {
+          "position": 2,
+          "name": "Nand Kumar Rai",
+          "party": "Janata Dal (United)",
+          "votes": 28466,
+          "votes_percentage": 25.3
+        },
+        {
+          "position": 3,
+          "name": "Baldeo Mahto",
+          "party": "Indian National Congress",
+          "votes": 14274,
+          "votes_percentage": 12.7
+        },
+        {
+          "position": 4,
+          "name": "Ram Ekwal Roy",
+          "party": "Independent",
+          "votes": 5841,
+          "votes_percentage": 5.2
+        },
+        {
+          "position": 5,
+          "name": "Krishna Kumar Choudhry",
+          "party": "Independent",
+          "votes": 5412,
+          "votes_percentage": 4.8
+        },
+        {
+          "position": 6,
+          "name": "Kiran Devi",
+          "party": "Shiv Sena",
+          "votes": 4161,
+          "votes_percentage": 3.7
+        },
+        {
+          "position": 7,
+          "name": "Kedar Nath Gupta",
+          "party": "Rashtriya Pragati Party",
+          "votes": 2390,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 8,
+          "name": "Ranjan Kumar",
+          "party": "Communist Party Of India",
+          "votes": 2087,
+          "votes_percentage": 1.9
+        },
+        {
+          "position": 9,
+          "name": "Krishan Kumar",
+          "party": "Independent",
+          "votes": 1744,
+          "votes_percentage": 1.6
+        },
+        {
+          "position": 10,
+          "name": "Md. Razaullah",
+          "party": "Samajwadi Janata Party (RASHTRIYA)",
+          "votes": 1572,
+          "votes_percentage": 1.4
+        },
+        {
+          "position": 11,
+          "name": "Rinku Rani",
+          "party": "Bharatiya Ekta Dal",
+          "votes": 1088,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 12,
+          "name": "Lalan Kumar",
+          "party": "Bahujan Samaj Party",
+          "votes": 1018,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 13,
+          "name": "Lakhan Lal Singh",
+          "party": "Nationalist Congress Party",
+          "votes": 1013,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 14,
+          "name": "Makeshwar Chaudhary",
+          "party": "Loktantrik Sarvjan Samaj Party",
+          "votes": 790,
+          "votes_percentage": 0.7
+        }
+      ]
+    },
+    "2005": {
+      "poll_date": "26 October 2005",
+      "counting_date": "21 November 2005",
+      "total_contestants": 12,
+      "aggregate": {
+        "total_electors": 201168,
+        "total_votes_polled": 97323,
+        "turnout_percentage": 48.4,
+        "total_valid_votes": 97323,
+        "total_valid_votes_percentage": 48.4,
+        "margin_votes": 2974,
+        "margin_percentage": 3.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shashi Kumar Ray",
+          "party": "Janata Dal (United)",
+          "votes": 32992,
+          "votes_percentage": 33.9
+        },
+        {
+          "position": 2,
+          "name": "Brij Kishor Singh",
+          "party": "Rashtriya Janata Dal",
+          "votes": 30018,
+          "votes_percentage": 30.8
+        },
+        {
+          "position": 3,
+          "name": "Baldeo Mahato",
+          "party": "Lok Jan Shakti Party",
+          "votes": 15431,
+          "votes_percentage": 15.9
+        },
+        {
+          "position": 4,
+          "name": "Ram Sakal Ray",
+          "party": "Samajwadi Party",
+          "votes": 4762,
+          "votes_percentage": 4.9
+        },
+        {
+          "position": 5,
+          "name": "Shambhu Ram",
+          "party": "Independent",
+          "votes": 3979,
+          "votes_percentage": 4.1
+        },
+        {
+          "position": 6,
+          "name": "Sita Ram  Sahani",
+          "party": "Bahujan Samaj Party",
+          "votes": 2525,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 7,
+          "name": "Rambharos Patel",
+          "party": "Independent",
+          "votes": 2002,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 8,
+          "name": "Raj Mangal Ram",
+          "party": "Independent",
+          "votes": 1772,
+          "votes_percentage": 1.8
+        },
+        {
+          "position": 9,
+          "name": "Mohamad Omair",
+          "party": "Independent",
+          "votes": 1421,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 10,
+          "name": "Ajay Kumar Paswan",
+          "party": "Independent",
+          "votes": 931,
+          "votes_percentage": 1.0
+        },
+        {
+          "position": 11,
+          "name": "Mahendra Manjhi",
+          "party": "Independent",
+          "votes": 846,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 12,
+          "name": "Chhabindar Paswan",
+          "party": "Independent",
+          "votes": 644,
+          "votes_percentage": 0.7
+        }
+      ]
+    },
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 11,
+      "aggregate": {
+        "total_electors": 179570,
+        "total_votes_polled": 116208,
+        "turnout_percentage": 64.7,
+        "margin_votes": 15033,
+        "margin_percentage": 12.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shashi Kumar Rai",
+          "party": "Janata Dal (United)",
+          "votes": 48850,
+          "votes_percentage": 42.8
+        },
+        {
+          "position": 2,
+          "name": "Braj Kishore Singh",
+          "party": "Rashtriya Janata Dal",
+          "votes": 33817,
+          "votes_percentage": 29.6
+        },
+        {
+          "position": 3,
+          "name": "Ram Sakal Rai",
+          "party": "Independent",
+          "votes": 12388,
+          "votes_percentage": 10.8
+        },
+        {
+          "position": 4,
+          "name": "Balendra Prasad Singh",
+          "party": "Samata Party",
+          "votes": 5108,
+          "votes_percentage": 4.5
+        },
+        {
+          "position": 5,
+          "name": "Raghubar Bhakta",
+          "party": "Communist Party Of India",
+          "votes": 4644,
+          "votes_percentage": 4.1
+        },
+        {
+          "position": 6,
+          "name": "Lalit Kumar Shahi",
+          "party": "Independent",
+          "votes": 3685,
+          "votes_percentage": 3.2
+        },
+        {
+          "position": 7,
+          "name": "Pankaj Kumar",
+          "party": "Indian National Congress",
+          "votes": 3330,
+          "votes_percentage": 2.9
+        },
+        {
+          "position": 8,
+          "name": "Arjun Kuwar",
+          "party": "Independent",
+          "votes": 1747,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 9,
+          "name": "Ajay Kumar Paswan",
+          "party": "Independent",
+          "votes": 296,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 10,
+          "name": "Digesh Ram",
+          "party": "Independent",
+          "votes": 255,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 11,
+          "name": "Bishwanath Paswan",
+          "party": "Independent",
+          "votes": 151,
+          "votes_percentage": 0.1
+        }
+      ]
+    }
+  }
+}

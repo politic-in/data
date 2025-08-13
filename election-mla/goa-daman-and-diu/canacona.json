@@ -1,0 +1,43 @@
+{
+  "state": "Goa, Daman And Diu",
+  "constituency": "Canacona",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 17463,
+        "total_votes_polled": 13143,
+        "turnout_percentage": 75.3,
+        "margin_votes": 5103,
+        "margin_percentage": 38.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Gaonkar Vassu Paik",
+          "party": "Indian National Congress (U)",
+          "votes": 8855,
+          "votes_percentage": 69.4
+        },
+        {
+          "position": 2,
+          "name": "Namshikar Eknath Tukaram",
+          "party": "Maharashtrawadi Gomantak",
+          "votes": 3752,
+          "votes_percentage": 29.4
+        },
+        {
+          "position": 3,
+          "name": "Phal Desai Sharad Datta",
+          "party": "Janta Party (SECULAR)",
+          "votes": 161,
+          "votes_percentage": 1.3
+        }
+      ]
+    }
+  }
+}

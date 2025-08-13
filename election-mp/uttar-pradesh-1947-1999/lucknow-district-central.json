@@ -1,0 +1,48 @@
+{
+  "state": "Uttar Pradesh [1947   1999]",
+  "constituency": "LUCKNOW DISTRICT CENTRAL",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 353447,
+        "total_votes_polled": 148569,
+        "turnout_percentage": 42.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Vijayalakshmi Pandit",
+          "party": "Indian National Congress",
+          "votes": 102764,
+          "votes_percentage": 69.2
+        },
+        {
+          "position": 2,
+          "name": "Har Govind Dayal",
+          "party": "All India Bhartiya Jan Sangh",
+          "votes": 35112,
+          "votes_percentage": 23.6
+        },
+        {
+          "position": 3,
+          "name": "Gaya Prasad Shukla",
+          "party": "Akhil Bharatiya Ram Rajya Parishad",
+          "votes": 6021,
+          "votes_percentage": 4.1
+        },
+        {
+          "position": 4,
+          "name": "Nathu Ram",
+          "party": "Independent",
+          "votes": 4672,
+          "votes_percentage": 3.1
+        }
+      ]
+    }
+  }
+}

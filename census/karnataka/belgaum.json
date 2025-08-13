@@ -1,0 +1,123 @@
+{
+  "district": "Belgaum",
+  "state": "Karnataka",
+  "source_urls": {
+    "primary_demographics": "https://www.census2011.co.in/census/district/244-belgaum.html",
+    "sc_st_data": "https://www.censusindia.co.in/district/belgaum-district-karnataka-555"
+  },
+  "total_population": {
+    "total": 4779661,
+    "male": 2423063,
+    "female": 2356598,
+    "sex_ratio": 973
+  },
+  "child_population_0_6": {
+    "total": 626269,
+    "male": 323761,
+    "female": 302508,
+    "sex_ratio": 934,
+    "percentage_of_total_population": 13.1
+  },
+  "literacy": {
+    "total_literate": 3052032,
+    "literacy_rate_percentage": 73.48,
+    "male_literate": 1725548,
+    "male_literacy_rate_percentage": 82.2,
+    "female_literate": 1326484,
+    "female_literacy_rate_percentage": 64.58
+  },
+  "urban_rural_distribution": {
+    "urban": {
+      "percentage": 25.34,
+      "population": 1211195,
+      "male": 611969,
+      "female": 599226,
+      "sex_ratio": 979,
+      "child_population": {
+        "total": 139166,
+        "male": 72162,
+        "female": 67004,
+        "sex_ratio": 929,
+        "percentage_of_urban_population": 11.49
+      },
+      "literacy": {
+        "rate_percentage": 85.56,
+        "total_literate": 917240,
+        "male_literate": 491746,
+        "female_literate": 425494,
+        "male_literacy_rate_percentage": 91.1,
+        "female_literacy_rate_percentage": 79.95
+      }
+    },
+    "rural": {
+      "percentage": 74.66,
+      "population": 3568466,
+      "male": 1811094,
+      "female": 1757372,
+      "sex_ratio": 970,
+      "child_population": {
+        "total": 487103,
+        "male": 251599,
+        "female": 235504,
+        "sex_ratio": 936,
+        "percentage_of_rural_population": 13.65
+      },
+      "literacy": {
+        "rate_percentage": 69.28,
+        "total_literate": 2134792,
+        "male_literate": 1233802,
+        "female_literate": 900990,
+        "male_literacy_rate_percentage": 79.12,
+        "female_literacy_rate_percentage": 59.2
+      }
+    }
+  },
+  "religion_distribution": {
+    "hindu": {
+      "population": 4038331,
+      "percentage": 84.49
+    },
+    "muslim": {
+      "population": 528412,
+      "percentage": 11.06
+    },
+    "christian": {
+      "population": 18418,
+      "percentage": 0.39
+    },
+    "sikh": {
+      "population": 2037,
+      "percentage": 0.04
+    },
+    "buddhist": {
+      "population": 1086,
+      "percentage": 0.02
+    },
+    "jain": {
+      "population": 178310,
+      "percentage": 3.73
+    },
+    "others": {
+      "population": 149,
+      "percentage": 0.0
+    },
+    "not_stated": {
+      "population": 12918,
+      "percentage": 0.27
+    }
+  },
+  "sc_st_population": {
+    "scheduled_caste": {
+      "total": 577418,
+      "percentage_of_total_population": 12.1,
+      "male": 289096,
+      "female": 288322
+    },
+    "scheduled_tribe": {
+      "total": 297198,
+      "percentage_of_total_population": 6.2,
+      "male": 148673,
+      "female": 148525
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "state": "Chhattisgarh",
+  "constituency": "Keskala",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "2003": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 133619,
+        "total_votes_polled": 92180,
+        "turnout_percentage": 69.0,
+        "margin_votes": 11282,
+        "margin_percentage": 12.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mahesh Baghel",
+          "party": "Bharatiya Janta Party",
+          "votes": 44477,
+          "votes_percentage": 48.3
+        },
+        {
+          "position": 2,
+          "name": "Phoolo Devi Netam",
+          "party": "Indian National Congress",
+          "votes": 33195,
+          "votes_percentage": 36.0
+        },
+        {
+          "position": 3,
+          "name": "Lakhan Lal",
+          "party": "Independent",
+          "votes": 6722,
+          "votes_percentage": 7.3
+        },
+        {
+          "position": 4,
+          "name": "Ramlal Korram",
+          "party": "Nationalist Congress Party",
+          "votes": 5376,
+          "votes_percentage": 5.8
+        },
+        {
+          "position": 5,
+          "name": "Jailal",
+          "party": "Independent",
+          "votes": 2410,
+          "votes_percentage": 2.6
+        }
+      ]
+    }
+  }
+}

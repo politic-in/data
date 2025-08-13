@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 211210,
+        "male": 219326,
+        "percentage_of_total_population": 12.88,
+        "percentage_of_total_population_calculated": 12.88,
+        "percentage_of_total_population_stated": 12.88,
+        "sex_ratio": 963,
+        "total": 430536
+    },
+    "literacy": {
+        "female_literacy_rate": 70.23,
+        "female_literate": 1018766,
+        "male_literacy_rate": 87.82,
+        "male_literate": 1284612,
+        "rate_percentage": 79.06,
+        "total_literate": 2303378
+    },
+    "population": {
+        "female": 1661771,
+        "male": 1682101,
+        "sex_ratio": 988,
+        "total": 3343872
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.59,
+            "population": 19587
+        },
+        "Christian": {
+            "percentage": 0.73,
+            "population": 24304
+        },
+        "Hindu": {
+            "percentage": 93.6,
+            "population": 3129745
+        },
+        "Jain": {
+            "percentage": 0.51,
+            "population": 17209
+        },
+        "Muslims": {
+            "percentage": 2.5,
+            "population": 83499
+        },
+        "Not Stated": {
+            "percentage": 0.08,
+            "population": 2683
+        },
+        "Others": {
+            "percentage": 1.27,
+            "population": 42569
+        },
+        "Sikh": {
+            "percentage": 0.73,
+            "population": 24276
+        }
+    },
+    "rural": {
+        "child_population_female": 139444,
+        "child_population_male": 143385,
+        "child_population_percentage": 13.74,
+        "child_population_percentage_calculated": 13.74,
+        "child_population_percentage_stated": 13.74,
+        "child_population_total": 282829,
+        "child_sex_ratio": 973,
+        "female": 1032955,
+        "literacy_rate_female": 64.68,
+        "literacy_rate_male": 85.21,
+        "literacy_rate_percentage": 74.88,
+        "literate_female": 577933,
+        "literate_male": 752220,
+        "literate_total": 1330153,
+        "male": 1026152,
+        "percentage_population": 61.58,
+        "population": 2059107,
+        "sex_ratio": 1007
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/494-durg.html",
+    "urban": {
+        "child_population_female": 71751,
+        "child_population_male": 75956,
+        "child_population_percentage": 11.5,
+        "child_population_percentage_calculated": 11.5,
+        "child_population_percentage_stated": 11.5,
+        "child_population_total": 147707,
+        "child_sex_ratio": 945,
+        "female": 628816,
+        "literacy_rate_female": 79.13,
+        "literacy_rate_male": 91.79,
+        "literacy_rate_percentage": 85.59,
+        "literate_female": 440833,
+        "literate_male": 532392,
+        "literate_total": 973225,
+        "male": 655949,
+        "percentage_population": 38.42,
+        "population": 1284765,
+        "sex_ratio": 959
+    }
+}

@@ -1,0 +1,143 @@
+{
+  "state": "Bihar [2000 Onwards]",
+  "constituency": "DALSINGHSARAI",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2005": {
+      "poll_date": "29 October 2005",
+      "counting_date": "21 November 2005",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 230174,
+        "total_votes_polled": 115322,
+        "turnout_percentage": 50.1,
+        "total_valid_votes": 115316,
+        "total_valid_votes_percentage": 50.1,
+        "margin_votes": 2572,
+        "margin_percentage": 2.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ram Lakhan Mahto",
+          "party": "Rashtriya Janata Dal",
+          "votes": 41456,
+          "votes_percentage": 36.0
+        },
+        {
+          "position": 2,
+          "name": "Sheel Kumar Roy",
+          "party": "Lok Jan Shakti Party",
+          "votes": 38884,
+          "votes_percentage": 33.7
+        },
+        {
+          "position": 3,
+          "name": "Upendra Prasad Singh",
+          "party": "Janata Dal (United)",
+          "votes": 25542,
+          "votes_percentage": 22.2
+        },
+        {
+          "position": 4,
+          "name": "Hari Narayan Paswan",
+          "party": "Independent",
+          "votes": 4085,
+          "votes_percentage": 3.5
+        },
+        {
+          "position": 5,
+          "name": "Premchandra Kumar",
+          "party": "Independent",
+          "votes": 2994,
+          "votes_percentage": 2.6
+        },
+        {
+          "position": 6,
+          "name": "Nand Kumar Choudhary",
+          "party": "Bahujan Samaj Party",
+          "votes": 2355,
+          "votes_percentage": 2.0
+        }
+      ]
+    },
+    "2000": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 9,
+      "aggregate": {
+        "total_electors": 202815,
+        "total_votes_polled": 127152,
+        "turnout_percentage": 62.7,
+        "margin_votes": 19265,
+        "margin_percentage": 15.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Ram Padarath Mahto",
+          "party": "Rashtriya Janata Dal",
+          "votes": 47580,
+          "votes_percentage": 38.0
+        },
+        {
+          "position": 2,
+          "name": "Vijaywant Kumar Chaudhary",
+          "party": "Janata Dal (United)",
+          "votes": 28315,
+          "votes_percentage": 22.6
+        },
+        {
+          "position": 3,
+          "name": "Vijay Kumar Chaudhary",
+          "party": "Indian National Congress",
+          "votes": 16509,
+          "votes_percentage": 13.2
+        },
+        {
+          "position": 4,
+          "name": "Ram Vilas Rai Vimal",
+          "party": "Communist Party Of India",
+          "votes": 16476,
+          "votes_percentage": 13.2
+        },
+        {
+          "position": 5,
+          "name": "Ram Lakhan Mahto",
+          "party": "Samajwadi Party",
+          "votes": 12260,
+          "votes_percentage": 9.8
+        },
+        {
+          "position": 6,
+          "name": "Ram Varan Mahto",
+          "party": "Independent",
+          "votes": 1849,
+          "votes_percentage": 1.5
+        },
+        {
+          "position": 7,
+          "name": "Lal Mani Prasad",
+          "party": "Ajeya Bharat Party",
+          "votes": 1325,
+          "votes_percentage": 1.1
+        },
+        {
+          "position": 8,
+          "name": "Mritunjaya Shankar Jai",
+          "party": "Loktantrik Samajwadi Party",
+          "votes": 785,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 9,
+          "name": "Shivchander Paswan",
+          "party": "Independent",
+          "votes": 234,
+          "votes_percentage": 0.2
+        }
+      ]
+    }
+  }
+}

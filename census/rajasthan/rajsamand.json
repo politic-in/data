@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 83534,
+        "male": 92507,
+        "percentage_of_total_population": 15.22,
+        "percentage_of_total_population_calculated": 15.22,
+        "percentage_of_total_population_stated": 15.22,
+        "sex_ratio": 903,
+        "total": 176041
+    },
+    "literacy": {
+        "female_literacy_rate": 47.95,
+        "female_literate": 235805,
+        "male_literacy_rate": 78.42,
+        "male_literate": 383334,
+        "rate_percentage": 63.14,
+        "total_literate": 619139
+    },
+    "population": {
+        "female": 575258,
+        "male": 581339,
+        "sex_ratio": 990,
+        "total": 1156597
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.01,
+            "population": 100
+        },
+        "Christian": {
+            "percentage": 0.07,
+            "population": 759
+        },
+        "Hindu": {
+            "percentage": 95.6,
+            "population": 1105676
+        },
+        "Jain": {
+            "percentage": 1.29,
+            "population": 14966
+        },
+        "Muslims": {
+            "percentage": 2.91,
+            "population": 33677
+        },
+        "Not Stated": {
+            "percentage": 0.09,
+            "population": 1091
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 68
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 260
+        }
+    },
+    "rural": {
+        "child_population_female": 72716,
+        "child_population_male": 80392,
+        "child_population_percentage": 15.74,
+        "child_population_percentage_calculated": 15.74,
+        "child_population_percentage_stated": 15.74,
+        "child_population_total": 153108,
+        "child_sex_ratio": 905,
+        "female": 485817,
+        "literacy_rate_female": 43.32,
+        "literacy_rate_male": 75.86,
+        "literacy_rate_percentage": 59.46,
+        "literate_female": 178967,
+        "literate_male": 308438,
+        "literate_total": 487405,
+        "male": 486960,
+        "percentage_population": 84.11,
+        "population": 972777,
+        "sex_ratio": 998
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/448-rajsamand.html",
+    "urban": {
+        "child_population_female": 10798,
+        "child_population_male": 12135,
+        "child_population_percentage": 12.48,
+        "child_population_percentage_calculated": 12.48,
+        "child_population_percentage_stated": 12.48,
+        "child_population_total": 22933,
+        "child_sex_ratio": 890,
+        "female": 89441,
+        "literacy_rate_female": 72.27,
+        "literacy_rate_male": 91.07,
+        "literacy_rate_percentage": 81.88,
+        "literate_female": 56838,
+        "literate_male": 74896,
+        "literate_total": 131734,
+        "male": 94379,
+        "percentage_population": 15.89,
+        "population": 183820,
+        "sex_ratio": 948
+    }
+}

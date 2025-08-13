@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 52624,
+        "male": 64333,
+        "percentage_of_total_population": 12.12,
+        "percentage_of_total_population_calculated": 12.12,
+        "percentage_of_total_population_stated": 12.12,
+        "sex_ratio": 818,
+        "total": 116957
+    },
+    "literacy": {
+        "female_literacy_rate": 68.84,
+        "female_literate": 276065,
+        "male_literacy_rate": 83.02,
+        "male_literate": 370828,
+        "rate_percentage": 76.31,
+        "total_literate": 646893
+    },
+    "population": {
+        "female": 453679,
+        "male": 510976,
+        "sex_ratio": 888,
+        "total": 964655
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.02,
+            "population": 214
+        },
+        "Christian": {
+            "percentage": 0.2,
+            "population": 1943
+        },
+        "Hindu": {
+            "percentage": 83.47,
+            "population": 805175
+        },
+        "Jain": {
+            "percentage": 0.04,
+            "population": 375
+        },
+        "Muslims": {
+            "percentage": 1.66,
+            "population": 15970
+        },
+        "Not Stated": {
+            "percentage": 0.05,
+            "population": 477
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 106
+        },
+        "Sikh": {
+            "percentage": 14.55,
+            "population": 140395
+        }
+    },
+    "rural": {
+        "child_population_female": 39039,
+        "child_population_male": 47734,
+        "child_population_percentage": 12.66,
+        "child_population_percentage_calculated": 12.66,
+        "child_population_percentage_stated": 12.66,
+        "child_population_total": 86773,
+        "child_sex_ratio": 818,
+        "female": 324410,
+        "literacy_rate_female": 64.61,
+        "literacy_rate_male": 80.85,
+        "literacy_rate_percentage": 73.11,
+        "literate_female": 184384,
+        "literate_male": 253287,
+        "literate_total": 437671,
+        "male": 361020,
+        "percentage_population": 71.05,
+        "population": 685430,
+        "sex_ratio": 899
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/211-kurukshetra.html",
+    "urban": {
+        "child_population_female": 13598,
+        "child_population_male": 16586,
+        "child_population_percentage": 10.81,
+        "child_population_percentage_calculated": 10.81,
+        "child_population_percentage_stated": 10.81,
+        "child_population_total": 30184,
+        "child_sex_ratio": 820,
+        "female": 129269,
+        "literacy_rate_female": 79.26,
+        "literacy_rate_male": 88.13,
+        "literacy_rate_percentage": 84.01,
+        "literate_female": 91681,
+        "literate_male": 117541,
+        "literate_total": 209222,
+        "male": 149956,
+        "percentage_population": 28.95,
+        "population": 279225,
+        "sex_ratio": 862
+    }
+}

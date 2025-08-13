@@ -1,0 +1,41 @@
+{
+  "state": "Bihar [1947   1999]",
+  "constituency": "DARBHANGA NORTH",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 376316,
+        "total_votes_polled": 167758,
+        "turnout_percentage": 44.6
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Shyam Nandan Prasad",
+          "party": "Indian National Congress",
+          "votes": 64314,
+          "votes_percentage": 38.3
+        },
+        {
+          "position": 2,
+          "name": "Kameshwar Singh",
+          "party": "Independent",
+          "votes": 56053,
+          "votes_percentage": 33.4
+        },
+        {
+          "position": 3,
+          "name": "Surai Narayan Sinha",
+          "party": "Socialist Party",
+          "votes": 47391,
+          "votes_percentage": 28.2
+        }
+      ]
+    }
+  }
+}

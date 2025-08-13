@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 117678,
+        "male": 137797,
+        "percentage_of_total_population": 12.97,
+        "percentage_of_total_population_calculated": 12.97,
+        "percentage_of_total_population_stated": 12.97,
+        "sex_ratio": 854,
+        "total": 255475
+    },
+    "literacy": {
+        "female_literacy_rate": 59.7,
+        "female_literate": 482435,
+        "male_literacy_rate": 78.5,
+        "male_literate": 710908,
+        "rate_percentage": 69.64,
+        "total_literate": 1193343
+    },
+    "population": {
+        "female": 925828,
+        "male": 1043340,
+        "sex_ratio": 887,
+        "total": 1969168
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.05,
+            "population": 938
+        },
+        "Christian": {
+            "percentage": 0.11,
+            "population": 2077
+        },
+        "Hindu": {
+            "percentage": 72.98,
+            "population": 1437144
+        },
+        "Jain": {
+            "percentage": 0.1,
+            "population": 1988
+        },
+        "Muslims": {
+            "percentage": 2.57,
+            "population": 50688
+        },
+        "Not Stated": {
+            "percentage": 0.07,
+            "population": 1316
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 164
+        },
+        "Sikh": {
+            "percentage": 24.11,
+            "population": 474853
+        }
+    },
+    "rural": {
+        "child_population_female": 88910,
+        "child_population_male": 103551,
+        "child_population_percentage": 13.42,
+        "child_population_percentage_calculated": 13.42,
+        "child_population_percentage_stated": 13.42,
+        "child_population_total": 192461,
+        "child_sex_ratio": 859,
+        "female": 675467,
+        "literacy_rate_female": 55.31,
+        "literacy_rate_male": 75.9,
+        "literacy_rate_percentage": 66.17,
+        "literate_female": 324437,
+        "literate_male": 496935,
+        "literate_total": 821372,
+        "male": 758269,
+        "percentage_population": 72.81,
+        "population": 1433736,
+        "sex_ratio": 891
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/424-ganganagar.html",
+    "urban": {
+        "child_population_female": 28797,
+        "child_population_male": 34217,
+        "child_population_percentage": 11.77,
+        "child_population_percentage_calculated": 11.77,
+        "child_population_percentage_stated": 11.77,
+        "child_population_total": 63014,
+        "child_sex_ratio": 842,
+        "female": 250361,
+        "literacy_rate_female": 71.31,
+        "literacy_rate_male": 85.3,
+        "literacy_rate_percentage": 78.74,
+        "literate_female": 157998,
+        "literate_male": 213973,
+        "literate_total": 371971,
+        "male": 285071,
+        "percentage_population": 27.19,
+        "population": 535432,
+        "sex_ratio": 878
+    }
+}

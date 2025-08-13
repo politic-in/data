@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Indian Political Data Editor</title>
+    
+    <!-- Tabulator CSS -->
+    <link href="https://unpkg.com/tabulator-tables@5.5.2/dist/css/tabulator_bootstrap5.min.css" rel="stylesheet">
+    
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="assets/css/style.css">
+    
+    <!-- Additional styles for election and census displays -->
+    <style>
+        /* Election timeline styles */
+        .election-timeline {
+            position: relative;
+            padding-left: 20px;
+        }
+        
+        .election-timeline::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            width: 3px;
+            background: linear-gradient(to bottom, #007bff, #6c757d);
+        }
+        
+        .election-timeline .card {
+            position: relative;
+            margin-left: 10px;
+            transition: transform 0.3s ease;
+        }
+        
+        .election-timeline .card:hover {
+            transform: translateX(5px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        
+        .election-timeline .card::before {
+            content: '';
+            position: absolute;
+            left: -17px;
+            top: 20px;
+            width: 12px;
+            height: 12px;
+            background: #007bff;
+            border-radius: 50%;
+            border: 3px solid white;
+            box-shadow: 0 0 0 2px #007bff;
+        }
+        
+        /* Progress bar styles */
+        .progress {
+            background-color: #f8f9fa;
+        }
+        
+        /* Census tables styles */
+        .census-tables-wrapper .card {
+            transition: transform 0.2s ease;
+        }
+        
+        .census-tables-wrapper .card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        
+        /* MP Winners table styles */
+        #mpWinnersTable tbody tr:hover {
+            background-color: #f8f9fa;
+        }
+        
+        /* Results summary styles */
+        .results-summary {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 8px;
+        }
+        
+        .winner-info, .runner-up-info {
+            padding: 10px;
+            background: white;
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">📊 Indian Political Data</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://github.com/politic-in/data" target="_blank">GitHub</a>
+                    </li>
+                </ul>
+                <div class="ms-auto">
+                    <button id="authBtn" class="btn btn-outline-light">Login to GitHub to Edit</button>
+                    <span id="userInfo" class="text-light ms-2" style="display:none;"></span>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container-fluid mt-4">
+        <!-- Main Content -->
+        <div id="mainContent">
+            <div class="row mb-3">
+                <div class="col-md-4">
+                    <select id="dataType" class="form-select">
+                        <option value="">Select Data Type</option>
+                        <option value="booth">Booth Data</option>
+                        <option value="census">Census Data</option>
+                        <option value="election-mla">MLA Elections</option>
+                        <option value="election-mp">MP Elections</option>
+                    </select>
+                </div>
+                <div class="col-md-4">
+                    <select id="stateSelect" class="form-select" disabled>
+                        <option value="">Select State</option>
+                    </select>
+                </div>
+                <div class="col-md-4">
+                    <select id="fileSelect" class="form-select" disabled>
+                        <option value="">Select File</option>
+                    </select>
+                </div>
+            </div>
+            
+            <div id="dataTable"></div>
+            
+            <div id="stats" class="mt-3" style="display:none;">
+                <div class="alert alert-info d-flex justify-content-between align-items-center">
+                    <div>
+                        <strong>Statistics:</strong>
+                        <span id="rowCount"></span> records loaded
+                    </div>
+                    <div>
+                        <button id="editModeBtn" class="btn btn-primary btn-sm" style="display:none;">Edit Data</button>
+                        <button id="saveChangesBtn" class="btn btn-success btn-sm ms-2" style="display:none;">Save Changes & Create PR</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Hidden Editor Content (will be shown when logged in) -->
+        <div id="editorPage" class="page-content" style="display:none;">
+            <div class="alert alert-warning" id="authWarning">
+                <strong>Authentication Required:</strong> Please login with GitHub to edit data and create pull requests.
+            </div>
+            
+            <div id="editorContent" style="display:none;">
+                <div class="row mb-3">
+                    <div class="col-md-3">
+                        <select id="editDataType" class="form-select">
+                            <option value="">Select Data Type</option>
+                            <option value="booth">Booth Data</option>
+                            <option value="census">Census Data</option>
+                            <option value="election-mla">MLA Elections</option>
+                            <option value="election-mp">MP Elections</option>
+                        </select>
+                    </div>
+                    <div class="col-md-3">
+                        <select id="editStateSelect" class="form-select" disabled>
+                            <option value="">Select State</option>
+                        </select>
+                    </div>
+                    <div class="col-md-3">
+                        <select id="editFileSelect" class="form-select" disabled>
+                            <option value="">Select File</option>
+                        </select>
+                    </div>
+                    <div class="col-md-3">
+                        <button id="loadEditData" class="btn btn-primary" disabled>Load for Editing</button>
+                    </div>
+                </div>
+                
+                <div id="editToolbar" class="mb-3" style="display:none;">
+                    <button id="addRow" class="btn btn-success btn-sm">Add Row</button>
+                    <button id="deleteSelected" class="btn btn-danger btn-sm">Delete Selected</button>
+                    <button id="undoChanges" class="btn btn-warning btn-sm">Undo Changes</button>
+                    <button id="saveChanges" class="btn btn-primary btn-sm">Save & Create PR</button>
+                </div>
+                
+                <div id="editTable"></div>
+                
+                <div id="changesSummary" class="mt-3" style="display:none;">
+                    <div class="alert alert-info">
+                        <strong>Pending Changes:</strong>
+                        <ul id="changesList"></ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    
+    <!-- Tabulator JS -->
+    <script type="text/javascript" src="https://unpkg.com/tabulator-tables@5.5.2/dist/js/tabulator.min.js"></script>
+    
+    <!-- PR Creation Modal -->
+    <div class="modal fade" id="prModal" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Create Pull Request</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="mb-3">
+                        <label for="prTitle" class="form-label">PR Title</label>
+                        <input type="text" class="form-control" id="prTitle" placeholder="Update data...">
+                    </div>
+                    <div class="mb-3">
+                        <label for="prDescription" class="form-label">Description</label>
+                        <textarea class="form-control" id="prDescription" rows="4" placeholder="Describe your changes..."></textarea>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                    <button type="button" class="btn btn-primary" id="submitPR">Create Pull Request</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Main Application with Device Flow Authentication -->
+    <script src="assets/js/displayCensusUnified.js"></script>
+    <script src="assets/js/displayElectionUnified.js"></script>
+    <script src="assets/js/editableData.js"></script>
+    <script src="assets/js/app.js"></script>
+</body>
+</html>

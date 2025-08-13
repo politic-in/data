@@ -1,0 +1,50 @@
+{
+  "state": "Sikkim",
+  "constituency": "Lachen Mangshila Bl",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1989": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 5072,
+        "total_votes_polled": 3801,
+        "turnout_percentage": 74.9,
+        "margin_votes": 1420,
+        "margin_percentage": 37.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Tasa Tengey Lepcha",
+          "party": "Sikkim Sangram Parishad",
+          "votes": 2452,
+          "votes_percentage": 68.1
+        },
+        {
+          "position": 2,
+          "name": "Nimching Lepcha",
+          "party": "Indian National Congress",
+          "votes": 1032,
+          "votes_percentage": 28.7
+        },
+        {
+          "position": 3,
+          "name": "Sonam Wangchuk Lepcha",
+          "party": "Independent",
+          "votes": 75,
+          "votes_percentage": 2.1
+        },
+        {
+          "position": 4,
+          "name": "Loden Lepcha",
+          "party": "Rising Sun Party",
+          "votes": 42,
+          "votes_percentage": 1.2
+        }
+      ]
+    }
+  }
+}

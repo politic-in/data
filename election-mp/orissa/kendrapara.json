@@ -1,0 +1,949 @@
+{
+  "state": "Orissa",
+  "constituency": "Kendrapara",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "2024": {
+      "poll_date": "19 April 2024",
+      "counting_date": "01 June 2024",
+      "total_contestants": 10,
+      "aggregate": {
+        "total_electors": 1792723,
+        "total_votes_polled": 1277108,
+        "turnout_percentage": 71.2,
+        "margin_votes": 66536,
+        "margin_percentage": 5.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Baijayant Panda",
+          "party": "Bharatiya Janta Party",
+          "votes": 615705,
+          "votes_percentage": 48.2
+        },
+        {
+          "position": 2,
+          "name": "Anshuman Mohanty",
+          "party": "Biju Janata Dal",
+          "votes": 549169,
+          "votes_percentage": 43.0
+        },
+        {
+          "position": 3,
+          "name": "Sidharth Swarup Dash",
+          "party": "Indian National Congress",
+          "votes": 94832,
+          "votes_percentage": 7.4
+        },
+        {
+          "position": 4,
+          "name": "Soubhagya Ketan Samal",
+          "party": "Socialist Unity Centre Of India (COMMUNIST)",
+          "votes": 3395,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 5,
+          "name": "Sekha Sadika Hosen",
+          "party": "Bahujan Samaj Party",
+          "votes": 1852,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 6,
+          "name": "Suprava Das",
+          "party": "Akhil Bhartiya Parivar Party",
+          "votes": 1561,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 7,
+          "name": "Sriram Pandey",
+          "party": "Independent",
+          "votes": 1399,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "Santosh Kumar Patra",
+          "party": "Independent",
+          "votes": 1373,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Pratap Chandra Mohanty",
+          "party": "Independent",
+          "votes": 1095,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Prangyan Prakash Mohapatra",
+          "party": "Odisha Janata Party",
+          "votes": 912,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2019": {
+      "poll_date": "11 April 2019",
+      "counting_date": "23 May 2019",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 1658168,
+        "total_votes_polled": 1236466,
+        "turnout_percentage": 75.0,
+        "margin_votes": 152584,
+        "margin_percentage": 12.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Anubhav Mohanty",
+          "party": "Biju Janata Dal",
+          "votes": 628939,
+          "votes_percentage": 50.9
+        },
+        {
+          "position": 2,
+          "name": "Baijayant Panda",
+          "party": "Bharatiya Janta Party",
+          "votes": 476355,
+          "votes_percentage": 38.5
+        },
+        {
+          "position": 3,
+          "name": "Dharanidhar Nayak",
+          "party": "Indian National Congress",
+          "votes": 113841,
+          "votes_percentage": 9.2
+        },
+        {
+          "position": 4,
+          "name": "Rabindra Nath Behera",
+          "party": "Samajwadi Party",
+          "votes": 5138,
+          "votes_percentage": 0.4
+        },
+        {
+          "position": 5,
+          "name": "Santosh Kumar Patra",
+          "party": "Independent",
+          "votes": 2281,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 6,
+          "name": "Srikanta Samal",
+          "party": "Krupaa Party",
+          "votes": 1868,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Santosh Kumar Das",
+          "party": "Independent",
+          "votes": 1456,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "2014": {
+      "poll_date": "17 April 2014",
+      "counting_date": "16 May 2014",
+      "total_contestants": 7,
+      "aggregate": {
+        "total_electors": 1555444,
+        "total_votes_polled": 1140999,
+        "turnout_percentage": 73.4,
+        "margin_votes": 209108,
+        "margin_percentage": 18.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Baijayant Panda",
+          "party": "Biju Janata Dal",
+          "votes": 601574,
+          "votes_percentage": 52.7
+        },
+        {
+          "position": 2,
+          "name": "Dharanidhar Nayak",
+          "party": "Indian National Congress",
+          "votes": 392466,
+          "votes_percentage": 34.4
+        },
+        {
+          "position": 3,
+          "name": "Bishnu Prasad Das",
+          "party": "Bharatiya Janta Party",
+          "votes": 118707,
+          "votes_percentage": 10.4
+        },
+        {
+          "position": 4,
+          "name": "Sk. Faruk",
+          "party": "Bahujan Samaj Party",
+          "votes": 6199,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "Pramod Sahu",
+          "party": "Independent",
+          "votes": 6193,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Md.Samim Aktar",
+          "party": "Aam Aadmi Party",
+          "votes": 6029,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 7,
+          "name": "Sukumar Mallick",
+          "party": "Independent",
+          "votes": 2221,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2009": {
+      "poll_date": "16 April 2009",
+      "counting_date": "16 May 2009",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 1434425,
+        "total_votes_polled": 982950,
+        "turnout_percentage": 68.5,
+        "margin_votes": 127107,
+        "margin_percentage": 12.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Baijayant Panda",
+          "party": "Biju Janata Dal",
+          "votes": 502635,
+          "votes_percentage": 51.1
+        },
+        {
+          "position": 2,
+          "name": "Ranjib Biswal",
+          "party": "Indian National Congress",
+          "votes": 375528,
+          "votes_percentage": 38.2
+        },
+        {
+          "position": 3,
+          "name": "Jnandev Beura",
+          "party": "Bharatiya Janta Party",
+          "votes": 80392,
+          "votes_percentage": 8.2
+        },
+        {
+          "position": 4,
+          "name": "Lenin Lenka",
+          "party": "Bahujan Samaj Party",
+          "votes": 8565,
+          "votes_percentage": 0.9
+        },
+        {
+          "position": 5,
+          "name": "Pratap Chandra Jena",
+          "party": "Samruddha Odisha",
+          "votes": 5777,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Sarat Chandra Swain",
+          "party": "Independent",
+          "votes": 5698,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 7,
+          "name": "Rama Krishna Dash",
+          "party": "Communist Party Of India (MARXIST-LENINIST) (LIBERATION)",
+          "votes": 2636,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 8,
+          "name": "Pravakar Nayak",
+          "party": "Kalinga Sena",
+          "votes": 1779,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "2004": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 1186834,
+        "total_votes_polled": 836194,
+        "turnout_percentage": 70.5,
+        "margin_votes": 86843,
+        "margin_percentage": 10.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Archana Nayak",
+          "party": "Biju Janata Dal",
+          "votes": 453276,
+          "votes_percentage": 54.2
+        },
+        {
+          "position": 2,
+          "name": "Srikant Kumar Jena",
+          "party": "Indian National Congress",
+          "votes": 366433,
+          "votes_percentage": 43.8
+        },
+        {
+          "position": 3,
+          "name": "Bikram Keshari Routray",
+          "party": "Independent",
+          "votes": 16556,
+          "votes_percentage": 2.0
+        }
+      ]
+    },
+    "1999": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 1121183,
+        "total_votes_polled": 624939,
+        "turnout_percentage": 55.7,
+        "margin_votes": 102139,
+        "margin_percentage": 16.3
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Prabhat Kumar Samantray",
+          "party": "Biju Janata Dal",
+          "votes": 359314,
+          "votes_percentage": 57.5
+        },
+        {
+          "position": 2,
+          "name": "Archana Nayak",
+          "party": "Indian National Congress",
+          "votes": 257175,
+          "votes_percentage": 41.2
+        },
+        {
+          "position": 3,
+          "name": "Baisnab Charan Parida",
+          "party": "Independent",
+          "votes": 3947,
+          "votes_percentage": 0.6
+        }
+      ]
+    },
+    "1998": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 1099066,
+        "total_votes_polled": 658175,
+        "turnout_percentage": 59.9,
+        "margin_votes": 7825,
+        "margin_percentage": 1.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Prabhat Kumar Samantaray",
+          "party": "Biju Janata Dal",
+          "votes": 282736,
+          "votes_percentage": 43.0
+        },
+        {
+          "position": 2,
+          "name": "Archana Nayak",
+          "party": "Indian National Congress",
+          "votes": 274911,
+          "votes_percentage": 41.8
+        },
+        {
+          "position": 3,
+          "name": "Srikanta Kumar Jena",
+          "party": "Janata Dal",
+          "votes": 91556,
+          "votes_percentage": 13.9
+        },
+        {
+          "position": 4,
+          "name": "Akshaya  Kumar Mallik",
+          "party": "Bahujan Samaj Party",
+          "votes": 3033,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 5,
+          "name": "Dhirendra Das",
+          "party": "Shiv Sena",
+          "votes": 1184,
+          "votes_percentage": 0.2
+        }
+      ]
+    },
+    "1996": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 12,
+      "aggregate": {
+        "total_electors": 1046128,
+        "total_votes_polled": 655988,
+        "turnout_percentage": 62.7,
+        "margin_votes": 39712,
+        "margin_percentage": 6.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Srikanta Kumar Jena",
+          "party": "Janata Dal",
+          "votes": 328190,
+          "votes_percentage": 50.0
+        },
+        {
+          "position": 2,
+          "name": "Batakrushna Jena",
+          "party": "Indian National Congress",
+          "votes": 288478,
+          "votes_percentage": 44.0
+        },
+        {
+          "position": 3,
+          "name": "Jagabandhu Mishra",
+          "party": "Bharatiya Janta Party",
+          "votes": 20620,
+          "votes_percentage": 3.1
+        },
+        {
+          "position": 4,
+          "name": "Sarat Chandra Swain",
+          "party": "Independent",
+          "votes": 3918,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 5,
+          "name": "Chandramani Sahoo",
+          "party": "Independent",
+          "votes": 3120,
+          "votes_percentage": 0.5
+        },
+        {
+          "position": 6,
+          "name": "Ganeswar Parida",
+          "party": "Proutist Sarva Samaj Samiti",
+          "votes": 1876,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 7,
+          "name": "Hrusikesha Dhal",
+          "party": "Independent",
+          "votes": 1287,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 8,
+          "name": "Amarabar Biswal",
+          "party": "Independent",
+          "votes": 623,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 9,
+          "name": "Chitaranjan Sahoo",
+          "party": "Independent",
+          "votes": 613,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 10,
+          "name": "Ananta Kishor Dash",
+          "party": "Independent",
+          "votes": 581,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 11,
+          "name": "Pyarimohan Das",
+          "party": "Independent",
+          "votes": 332,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 12,
+          "name": "Narayan Mallick",
+          "party": "Independent",
+          "votes": 157,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "1991": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 942303,
+        "total_votes_polled": 599903,
+        "turnout_percentage": 63.7,
+        "margin_votes": 41430,
+        "margin_percentage": 6.9
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rabi Ray",
+          "party": "Janata Dal",
+          "votes": 300299,
+          "votes_percentage": 50.1
+        },
+        {
+          "position": 2,
+          "name": "Bhagabat Prasad Mohanty",
+          "party": "Indian National Congress",
+          "votes": 258869,
+          "votes_percentage": 43.2
+        },
+        {
+          "position": 3,
+          "name": "Mahameghabahan Aira Kharabela Swain",
+          "party": "Bharatiya Janta Party",
+          "votes": 29437,
+          "votes_percentage": 4.9
+        },
+        {
+          "position": 4,
+          "name": "Sukumar Mallick",
+          "party": "Independent",
+          "votes": 2028,
+          "votes_percentage": 0.3
+        },
+        {
+          "position": 5,
+          "name": "Narayan Mallik",
+          "party": "Independent",
+          "votes": 1284,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 6,
+          "name": "Dhrub Charan Sahu",
+          "party": "Independent",
+          "votes": 704,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 7,
+          "name": "Chittaranjan Sahu",
+          "party": "Independent",
+          "votes": 556,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "Samrat Kulamani Dash",
+          "party": "Independent",
+          "votes": 281,
+          "votes_percentage": 0.0
+        }
+      ]
+    },
+    "1989": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 8,
+      "aggregate": {
+        "total_electors": 910798,
+        "total_votes_polled": 627566,
+        "turnout_percentage": 68.9,
+        "margin_votes": 96791,
+        "margin_percentage": 15.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Rabi Ray",
+          "party": "Janata Dal",
+          "votes": 348881,
+          "votes_percentage": 55.6
+        },
+        {
+          "position": 2,
+          "name": "Bhagahat Prasad Mohanti",
+          "party": "Indian National Congress",
+          "votes": 252090,
+          "votes_percentage": 40.2
+        },
+        {
+          "position": 3,
+          "name": "Prashanta Kumar Mishra",
+          "party": "Janata Pary (JP)",
+          "votes": 12527,
+          "votes_percentage": 2.0
+        },
+        {
+          "position": 4,
+          "name": "Nrusingha Chapan Jena",
+          "party": "Doordarshi Party",
+          "votes": 1196,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 5,
+          "name": "Prasanna Kumar Parida",
+          "party": "Independent",
+          "votes": 1096,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 6,
+          "name": "Siba Prasad Samantray",
+          "party": "Independent",
+          "votes": 992,
+          "votes_percentage": 0.2
+        },
+        {
+          "position": 7,
+          "name": "Rasananda Manthan",
+          "party": "Independent",
+          "votes": 913,
+          "votes_percentage": 0.1
+        },
+        {
+          "position": 8,
+          "name": "Dhruha Charan Sahu",
+          "party": "Independent",
+          "votes": 443,
+          "votes_percentage": 0.1
+        }
+      ]
+    },
+    "1984": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 733910,
+        "total_votes_polled": 516539,
+        "turnout_percentage": 70.4,
+        "margin_votes": 16776,
+        "margin_percentage": 3.2
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bijayananda Pattnaik",
+          "party": "Janta Party",
+          "votes": 255506,
+          "votes_percentage": 49.5
+        },
+        {
+          "position": 2,
+          "name": "Bhagabat Prasad Mohanty",
+          "party": "Indian National Congress",
+          "votes": 238730,
+          "votes_percentage": 46.2
+        },
+        {
+          "position": 3,
+          "name": "Pradyumna Kishore Bal",
+          "party": "Independent",
+          "votes": 6889,
+          "votes_percentage": 1.3
+        },
+        {
+          "position": 4,
+          "name": "Pramod Kumar Chaudhary",
+          "party": "Independent",
+          "votes": 3548,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Rasananda Manthan",
+          "party": "Independent",
+          "votes": 3162,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Ganesh Chandra Rout",
+          "party": "Independent",
+          "votes": 1761,
+          "votes_percentage": 0.3
+        }
+      ]
+    },
+    "1980": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 689449,
+        "total_votes_polled": 422753,
+        "turnout_percentage": 61.3,
+        "margin_votes": 5743,
+        "margin_percentage": 1.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bijoynanda Patanaik",
+          "party": "Janta Party (SECULAR)",
+          "votes": 177579,
+          "votes_percentage": 42.0
+        },
+        {
+          "position": 2,
+          "name": "Gaya Chandra Bhuyan",
+          "party": "Indian National Congress (I)",
+          "votes": 171836,
+          "votes_percentage": 40.6
+        },
+        {
+          "position": 3,
+          "name": "Surendranath Dwivedy",
+          "party": "Janta Party",
+          "votes": 46362,
+          "votes_percentage": 11.0
+        },
+        {
+          "position": 4,
+          "name": "Promoda Kumar Choudhury",
+          "party": "Independent",
+          "votes": 16784,
+          "votes_percentage": 4.0
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 629067,
+        "total_votes_polled": 396224,
+        "turnout_percentage": 63.0,
+        "margin_votes": 144376,
+        "margin_percentage": 36.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bijayananda Pattanayak",
+          "party": "Bharatiya Lok Dal",
+          "votes": 265868,
+          "votes_percentage": 67.1
+        },
+        {
+          "position": 2,
+          "name": "Bhagabata Prasad Mohanty",
+          "party": "Indian National Congress",
+          "votes": 121492,
+          "votes_percentage": 30.7
+        }
+      ]
+    },
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 612635,
+        "total_votes_polled": 370982,
+        "turnout_percentage": 60.6,
+        "margin_votes": 2973,
+        "margin_percentage": 0.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Surendra Mohanty",
+          "party": "Utkal Congress",
+          "votes": 123680,
+          "votes_percentage": 33.3
+        },
+        {
+          "position": 2,
+          "name": "Surendra Nath Dwivedi",
+          "party": "Praja Socialist Party",
+          "votes": 120707,
+          "votes_percentage": 32.5
+        },
+        {
+          "position": 3,
+          "name": "Pradyumma Kishorebal",
+          "party": "Indian National Congress",
+          "votes": 111235,
+          "votes_percentage": 30.0
+        }
+      ]
+    },
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 561875,
+        "total_votes_polled": 344263,
+        "turnout_percentage": 61.3,
+        "margin_votes": 111397,
+        "margin_percentage": 32.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "S. Dwivedy",
+          "party": "Praja Socialist Party",
+          "votes": 220582,
+          "votes_percentage": 64.1
+        },
+        {
+          "position": 2,
+          "name": "S. Mohantty",
+          "party": "Indian National Congress",
+          "votes": 109185,
+          "votes_percentage": 31.7
+        }
+      ]
+    },
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 489055,
+        "total_votes_polled": 207852,
+        "turnout_percentage": 42.5,
+        "margin_votes": 66,
+        "margin_percentage": 0.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Surendranath Dwivedy",
+          "party": "Praja Socialist Party",
+          "votes": 99391,
+          "votes_percentage": 47.8
+        },
+        {
+          "position": 2,
+          "name": "Surendra Mahanty",
+          "party": "Indian National Congress",
+          "votes": 99325,
+          "votes_percentage": 47.8
+        }
+      ]
+    },
+    "1957": {
+      "poll_date": "25 February 1957",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 853833,
+        "total_votes_polled": 759146,
+        "turnout_percentage": 44.5
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Surendranath Dwivedy",
+          "party": "Praja Socialist Party",
+          "votes": 184516,
+          "votes_percentage": 24.3
+        },
+        {
+          "position": 1,
+          "name": "Baishanab Charan Malik",
+          "party": "Praja Socialist Party",
+          "votes": 157488,
+          "votes_percentage": 20.7
+        },
+        {
+          "position": 2,
+          "name": "Bharrab Chandra Mahanty",
+          "party": "Indian National Congress",
+          "votes": 165220,
+          "votes_percentage": 21.8
+        },
+        {
+          "position": 4,
+          "name": "Laxmidhar Jena",
+          "party": "Indian National Congress",
+          "votes": 155744,
+          "votes_percentage": 20.5
+        },
+        {
+          "position": 5,
+          "name": "Fuzle Haque",
+          "party": "Ganatantra Parishad",
+          "votes": 51786,
+          "votes_percentage": 6.8
+        },
+        {
+          "position": 6,
+          "name": "Krushna Kanta Ray",
+          "party": "Independent",
+          "votes": 44392,
+          "votes_percentage": 5.8
+        }
+      ]
+    },
+    "1952": {
+      "poll_date": "27 March 1952",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 400630,
+        "total_votes_polled": 173806,
+        "turnout_percentage": 43.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nityananda Kanungo",
+          "party": "Indian National Congress",
+          "votes": 84540,
+          "votes_percentage": 48.6
+        },
+        {
+          "position": 2,
+          "name": "Dhruba Ch. Sahu",
+          "party": "Socialist Party",
+          "votes": 46488,
+          "votes_percentage": 26.7
+        },
+        {
+          "position": 3,
+          "name": "Jyotish Ch. Lenka",
+          "party": "Kisan Mazdoor Praja Party",
+          "votes": 42778,
+          "votes_percentage": 24.6
+        }
+      ]
+    }
+  }
+}

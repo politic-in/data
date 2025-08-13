@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 120738,
+        "male": 136582,
+        "percentage_of_total_population": 14.01,
+        "percentage_of_total_population_calculated": 14.01,
+        "percentage_of_total_population_stated": 14.01,
+        "sex_ratio": 884,
+        "total": 257320
+    },
+    "literacy": {
+        "female_literacy_rate": 63.63,
+        "female_literate": 491523,
+        "male_literacy_rate": 82.64,
+        "male_literate": 666291,
+        "rate_percentage": 73.34,
+        "total_literate": 1157814
+    },
+    "population": {
+        "female": 893216,
+        "male": 942870,
+        "sex_ratio": 947,
+        "total": 1836086
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 10.23,
+            "population": 187899
+        },
+        "Christian": {
+            "percentage": 0.11,
+            "population": 2081
+        },
+        "Hindu": {
+            "percentage": 72.35,
+            "population": 1328385
+        },
+        "Jain": {
+            "percentage": 0.34,
+            "population": 6238
+        },
+        "Muslims": {
+            "percentage": 16.69,
+            "population": 306364
+        },
+        "Not Stated": {
+            "percentage": 0.19,
+            "population": 3486
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 262
+        },
+        "Sikh": {
+            "percentage": 0.07,
+            "population": 1371
+        }
+    },
+    "rural": {
+        "child_population_female": 83966,
+        "child_population_male": 95996,
+        "child_population_percentage": 14.21,
+        "child_population_percentage_calculated": 14.21,
+        "child_population_percentage_stated": 14.21,
+        "child_population_total": 179962,
+        "child_sex_ratio": 875,
+        "female": 614394,
+        "literacy_rate_female": 58.96,
+        "literacy_rate_male": 81.08,
+        "literacy_rate_percentage": 70.28,
+        "literate_female": 312752,
+        "literate_male": 450696,
+        "literate_total": 763448,
+        "male": 651886,
+        "percentage_population": 68.97,
+        "population": 1266280,
+        "sex_ratio": 942
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/351-parbhani.html",
+    "urban": {
+        "child_population_female": 36749,
+        "child_population_male": 40609,
+        "child_population_percentage": 13.58,
+        "child_population_percentage_calculated": 13.58,
+        "child_population_percentage_stated": 13.58,
+        "child_population_total": 77358,
+        "child_sex_ratio": 905,
+        "female": 278822,
+        "literacy_rate_female": 73.85,
+        "literacy_rate_male": 86.11,
+        "literacy_rate_percentage": 80.08,
+        "literate_female": 178771,
+        "literate_male": 215595,
+        "literate_total": 394366,
+        "male": 290984,
+        "percentage_population": 31.03,
+        "population": 569806,
+        "sex_ratio": 958
+    }
+}

@@ -1,0 +1,36 @@
+{
+  "state": "Arunachal Pradesh",
+  "constituency": "Meriang-mebo",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1984": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 10498,
+        "total_votes_polled": 8447,
+        "turnout_percentage": 80.5,
+        "margin_votes": 230,
+        "margin_percentage": 2.7
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Bakin Pertin",
+          "party": "Peoples Party Of Arunachal",
+          "votes": 4167,
+          "votes_percentage": 51.4
+        },
+        {
+          "position": 2,
+          "name": "Kabang Borang",
+          "party": "Indian National Congress",
+          "votes": 3937,
+          "votes_percentage": 48.6
+        }
+      ]
+    }
+  }
+}

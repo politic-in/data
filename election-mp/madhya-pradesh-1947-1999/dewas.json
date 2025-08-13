@@ -1,0 +1,43 @@
+{
+  "state": "Madhya Pradesh [1947   1999]",
+  "constituency": "DEWAS",
+  "district": "",
+  "ac_type": "SC",
+  "results": {
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 438964,
+        "total_votes_polled": 240615,
+        "turnout_percentage": 54.8,
+        "margin_votes": 7149,
+        "margin_percentage": 3.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Hukumchand",
+          "party": "Jan Sangh",
+          "votes": 106706,
+          "votes_percentage": 44.3
+        },
+        {
+          "position": 2,
+          "name": "Kanhaiyalal",
+          "party": "Indian National Congress",
+          "votes": 99557,
+          "votes_percentage": 41.4
+        },
+        {
+          "position": 3,
+          "name": "Ramlal",
+          "party": "Akhil Bharatiya Ram Rajya Parishad",
+          "votes": 23240,
+          "votes_percentage": 9.7
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "state": "Orissa",
+  "constituency": "BHANJANAGAR",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1971": {
+      "poll_date": "01 March 1971",
+      "counting_date": "",
+      "total_contestants": 3,
+      "aggregate": {
+        "total_electors": 560369,
+        "total_votes_polled": 255729,
+        "turnout_percentage": 45.6,
+        "margin_votes": 2858,
+        "margin_percentage": 1.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Dutikrishna Panda",
+          "party": "Communist Party Of India",
+          "votes": 102956,
+          "votes_percentage": 40.3
+        },
+        {
+          "position": 2,
+          "name": "Bijaya Nanda Pattanayak",
+          "party": "Utkal Congress",
+          "votes": 100098,
+          "votes_percentage": 39.1
+        },
+        {
+          "position": 3,
+          "name": "Sarat Chandra  Mohapatra",
+          "party": "Swatantra",
+          "votes": 43529,
+          "votes_percentage": 17.0
+        }
+      ]
+    },
+    "1967": {
+      "poll_date": "15 February 1967",
+      "counting_date": "",
+      "total_contestants": 5,
+      "aggregate": {
+        "total_electors": 506312,
+        "total_votes_polled": 225954,
+        "turnout_percentage": 44.6,
+        "margin_votes": 4695,
+        "margin_percentage": 2.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "A. T. Sarma",
+          "party": "Indian National Congress",
+          "votes": 69120,
+          "votes_percentage": 30.6
+        },
+        {
+          "position": 2,
+          "name": "D. Panda",
+          "party": "Communist Party Of India",
+          "votes": 64425,
+          "votes_percentage": 28.5
+        },
+        {
+          "position": 3,
+          "name": "S. Padhy",
+          "party": "Swatantra",
+          "votes": 43594,
+          "votes_percentage": 19.3
+        },
+        {
+          "position": 4,
+          "name": "T. Mahapatro",
+          "party": "Independent",
+          "votes": 20682,
+          "votes_percentage": 9.2
+        },
+        {
+          "position": 5,
+          "name": "R.. Misra",
+          "party": "Independent",
+          "votes": 17268,
+          "votes_percentage": 7.6
+        }
+      ]
+    },
+    "1962": {
+      "poll_date": "19 March 1962",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 403922,
+        "total_votes_polled": 48650,
+        "turnout_percentage": 12.0,
+        "margin_votes": 34124,
+        "margin_percentage": 70.1
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Mohan Nayak",
+          "party": "Indian National Congress",
+          "votes": 40735,
+          "votes_percentage": 83.7
+        },
+        {
+          "position": 2,
+          "name": "Dondapani Das",
+          "party": "Socialist",
+          "votes": 6611,
+          "votes_percentage": 13.6
+        }
+      ]
+    }
+  }
+}

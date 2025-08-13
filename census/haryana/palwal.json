@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 82374,
+        "male": 95120,
+        "percentage_of_total_population": 17.02,
+        "percentage_of_total_population_calculated": 17.02,
+        "percentage_of_total_population_stated": 17.02,
+        "sex_ratio": 866,
+        "total": 177494
+    },
+    "literacy": {
+        "female_literacy_rate": 54.23,
+        "female_literate": 220100,
+        "male_literacy_rate": 82.66,
+        "male_literate": 379696,
+        "rate_percentage": 69.32,
+        "total_literate": 599796
+    },
+    "population": {
+        "female": 488211,
+        "male": 554497,
+        "sex_ratio": 880,
+        "total": 1042708
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 0.03,
+            "population": 345
+        },
+        "Christian": {
+            "percentage": 0.09,
+            "population": 932
+        },
+        "Hindu": {
+            "percentage": 79.25,
+            "population": 826342
+        },
+        "Jain": {
+            "percentage": 0.09,
+            "population": 915
+        },
+        "Muslims": {
+            "percentage": 20.0,
+            "population": 208566
+        },
+        "Not Stated": {
+            "percentage": 0.16,
+            "population": 1617
+        },
+        "Others": {
+            "percentage": 0.0,
+            "population": 20
+        },
+        "Sikh": {
+            "percentage": 0.38,
+            "population": 3971
+        }
+    },
+    "rural": {
+        "child_population_female": 67061,
+        "child_population_male": 76705,
+        "child_population_percentage": 17.83,
+        "child_population_percentage_calculated": 17.83,
+        "child_population_percentage_stated": 17.83,
+        "child_population_total": 143766,
+        "child_sex_ratio": 874,
+        "female": 377257,
+        "literacy_rate_female": 49.85,
+        "literacy_rate_male": 81.59,
+        "literacy_rate_percentage": 66.72,
+        "literate_female": 154625,
+        "literate_male": 287360,
+        "literate_total": 441985,
+        "male": 428907,
+        "percentage_population": 77.31,
+        "population": 806164,
+        "sex_ratio": 880
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/228-palwal.html",
+    "urban": {
+        "child_population_female": 15301,
+        "child_population_male": 18427,
+        "child_population_percentage": 14.26,
+        "child_population_percentage_calculated": 14.26,
+        "child_population_percentage_stated": 14.26,
+        "child_population_total": 33728,
+        "child_sex_ratio": 830,
+        "female": 110954,
+        "literacy_rate_female": 68.45,
+        "literacy_rate_male": 86.16,
+        "literacy_rate_percentage": 77.81,
+        "literate_female": 65475,
+        "literate_male": 92336,
+        "literate_total": 157811,
+        "male": 125590,
+        "percentage_population": 22.69,
+        "population": 236544,
+        "sex_ratio": 883
+    }
+}

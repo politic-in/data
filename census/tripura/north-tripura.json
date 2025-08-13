@@ -1,0 +1,101 @@
+{
+    "child_population": {
+        "female": 48821,
+        "male": 50383,
+        "percentage_of_total_population": 14.3,
+        "percentage_of_total_population_calculated": 14.3,
+        "percentage_of_total_population_stated": 14.3,
+        "sex_ratio": 969,
+        "total": 99204
+    },
+    "literacy": {
+        "female_literacy_rate": 83.75,
+        "female_literate": 244756,
+        "male_literacy_rate": 91.13,
+        "male_literate": 275646,
+        "rate_percentage": 87.5,
+        "total_literate": 520402
+    },
+    "population": {
+        "female": 341087,
+        "male": 352860,
+        "sex_ratio": 967,
+        "total": 693947
+    },
+    "religion": {
+        "Buddhist": {
+            "percentage": 5.0,
+            "population": 34717
+        },
+        "Christian": {
+            "percentage": 6.35,
+            "population": 44062
+        },
+        "Hindu": {
+            "percentage": 73.2,
+            "population": 507967
+        },
+        "Jain": {
+            "percentage": 0.04,
+            "population": 307
+        },
+        "Muslims": {
+            "percentage": 15.24,
+            "population": 105737
+        },
+        "Not Stated": {
+            "percentage": 0.13,
+            "population": 936
+        },
+        "Others": {
+            "percentage": 0.01,
+            "population": 70
+        },
+        "Sikh": {
+            "percentage": 0.02,
+            "population": 151
+        }
+    },
+    "rural": {
+        "child_population_female": 42543,
+        "child_population_male": 43942,
+        "child_population_percentage": 15.08,
+        "child_population_percentage_calculated": 15.08,
+        "child_population_percentage_stated": 15.08,
+        "child_population_total": 86485,
+        "child_sex_ratio": 968,
+        "female": 281769,
+        "literacy_rate_female": 81.77,
+        "literacy_rate_male": 90.12,
+        "literacy_rate_percentage": 86.02,
+        "literate_female": 195605,
+        "literate_male": 223462,
+        "literate_total": 419067,
+        "male": 291893,
+        "percentage_population": 82.67,
+        "population": 573662,
+        "sex_ratio": 965
+    },
+    "sc_st_skipped_auto_find_failed": true,
+    "source_census2011": "https://www.census2011.co.in/census/district/460-north-tripura.html",
+    "urban": {
+        "child_population_female": 6282,
+        "child_population_male": 6437,
+        "child_population_percentage": 10.57,
+        "child_population_percentage_calculated": 10.57,
+        "child_population_percentage_stated": 10.57,
+        "child_population_total": 12719,
+        "child_sex_ratio": 976,
+        "female": 59318,
+        "literacy_rate_female": 92.67,
+        "literacy_rate_male": 95.7,
+        "literacy_rate_percentage": 94.21,
+        "literate_female": 49151,
+        "literate_male": 52184,
+        "literate_total": 101335,
+        "male": 60967,
+        "percentage_population": 17.33,
+        "population": 120285,
+        "sex_ratio": 973
+    }
+}

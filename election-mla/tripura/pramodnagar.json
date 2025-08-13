@@ -1,0 +1,106 @@
+{
+  "state": "Tripura",
+  "constituency": "Pramodnagar",
+  "district": "",
+  "ac_type": "ST",
+  "results": {
+    "2003": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 4,
+      "aggregate": {
+        "total_electors": 29911,
+        "total_votes_polled": 21860,
+        "turnout_percentage": 73.1,
+        "margin_votes": 387,
+        "margin_percentage": 1.8
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Animesh Debbarma",
+          "party": "Indigenous Nationalist Party Of Twipra",
+          "votes": 10607,
+          "votes_percentage": 48.5
+        },
+        {
+          "position": 2,
+          "name": "Aghore Debbarma",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 10220,
+          "votes_percentage": 46.8
+        },
+        {
+          "position": 3,
+          "name": "Managal Urang",
+          "party": "Bharatiya Janta Party",
+          "votes": 794,
+          "votes_percentage": 3.6
+        },
+        {
+          "position": 4,
+          "name": "Mantu Debbarma",
+          "party": "Independent",
+          "votes": 239,
+          "votes_percentage": 1.1
+        }
+      ]
+    },
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 18874,
+        "total_votes_polled": 15534,
+        "turnout_percentage": 82.3,
+        "margin_votes": 6221,
+        "margin_percentage": 40.0
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Nripen Chakrabarty",
+          "party": "Communist Party Of India (MARXIST)",
+          "votes": 8786,
+          "votes_percentage": 57.5
+        },
+        {
+          "position": 2,
+          "name": "Upendra Chandra Debnath",
+          "party": "Indian National Congress",
+          "votes": 2565,
+          "votes_percentage": 16.8
+        },
+        {
+          "position": 3,
+          "name": "Dakhai Tanti",
+          "party": "Tripura State Congress For Democracy",
+          "votes": 1468,
+          "votes_percentage": 9.6
+        },
+        {
+          "position": 4,
+          "name": "Maran Chandra Dey",
+          "party": "Janta Party",
+          "votes": 1280,
+          "votes_percentage": 8.4
+        },
+        {
+          "position": 5,
+          "name": "Siromani Roy",
+          "party": "Proutist Bloc Of India",
+          "votes": 1061,
+          "votes_percentage": 7.0
+        },
+        {
+          "position": 6,
+          "name": "Upananda Nath",
+          "party": "Independent",
+          "votes": 113,
+          "votes_percentage": 0.7
+        }
+      ]
+    }
+  }
+}

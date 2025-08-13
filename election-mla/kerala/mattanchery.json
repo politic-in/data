@@ -1,0 +1,36 @@
+{
+  "state": "Kerala",
+  "constituency": "Mattanchery",
+  "district": "",
+  "ac_type": "GEN",
+  "results": {
+    "1977": {
+      "poll_date": "",
+      "counting_date": "",
+      "total_contestants": 2,
+      "aggregate": {
+        "total_electors": 77784,
+        "total_votes_polled": 56469,
+        "turnout_percentage": 72.6,
+        "margin_votes": 4195,
+        "margin_percentage": 7.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "K. J. Harschel",
+          "party": "Bharatiya Lok Dal",
+          "votes": 29543,
+          "votes_percentage": 53.8
+        },
+        {
+          "position": 2,
+          "name": "A. A. Kochunny",
+          "party": "Indian National Congress",
+          "votes": 25348,
+          "votes_percentage": 46.2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "state": "West Bengal",
+  "constituency": "METIABRUZ",
+  "district": "South  Twenty Four Parganas",
+  "ac_type": "GEN",
+  "results": {
+    "2016": {
+      "poll_date": "04 April 2016",
+      "counting_date": "19 May 2016",
+      "total_contestants": 6,
+      "aggregate": {
+        "total_electors": 222938,
+        "total_votes_polled": 157533,
+        "turnout_percentage": 71.9,
+        "margin_votes": 17976,
+        "margin_percentage": 11.4
+      },
+      "candidates": [
+        {
+          "position": 1,
+          "name": "Abdul Khaleque Molla",
+          "party": "All India Trinamool Congress",
+          "votes": 79749,
+          "votes_percentage": 50.6
+        },
+        {
+          "position": 2,
+          "name": "Monirul Islam",
+          "party": "Communist Party Of India (Marxist)",
+          "votes": 61773,
+          "votes_percentage": 39.2
+        },
+        {
+          "position": 3,
+          "name": "Sanjay Singh",
+          "party": "Bharatiya Janta Party",
+          "votes": 13259,
+          "votes_percentage": 8.4
+        },
+        {
+          "position": 4,
+          "name": "Ahammad Ali Molla",
+          "party": "Independent",
+          "votes": 1110,
+          "votes_percentage": 0.7
+        },
+        {
+          "position": 5,
+          "name": "Abdul Rahim",
+          "party": "Indian Union Muslim League",
+          "votes": 939,
+          "votes_percentage": 0.6
+        },
+        {
+          "position": 6,
+          "name": "Bedar Bakht",
+          "party": "Rashtriya Lok Dal",
+          "votes": 703,
+          "votes_percentage": 0.5
+        }
+      ]
+    }
+  }
+}
