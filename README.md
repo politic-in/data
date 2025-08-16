@@ -100,31 +100,31 @@ Literacy & gender data
 <tbody>
 <tr>
 <td><strong>SQLite</strong></td>
-<td>~450 MB</td>
+<td>~112 MB</td>
 <td>Local analysis, Python/R</td>
 <td><a href="https://github.com/politic-in/data/releases/latest/download/politic-data-sqlite.tar.gz">⬇️ Download</a></td>
 </tr>
 <tr>
 <td><strong>PostgreSQL</strong></td>
-<td>~520 MB</td>
+<td>~80 MB</td>
 <td>Production apps, APIs</td>
 <td><a href="https://github.com/politic-in/data/releases/latest/download/politic-data-postgres.tar.gz">⬇️ Download</a></td>
 </tr>
 <tr>
 <td><strong>Parquet</strong></td>
-<td>~180 MB</td>
+<td>~127 MB</td>
 <td>Big data, Spark, DuckDB</td>
 <td><a href="https://github.com/politic-in/data/releases/latest/download/politic-data-parquet.tar.gz">⬇️ Download</a></td>
 </tr>
 <tr>
 <td><strong>Neo4j</strong></td>
-<td>~650 MB</td>
+<td>~120 MB</td>
 <td>Graph analysis, relationships</td>
 <td><a href="https://github.com/politic-in/data/releases/latest/download/politic-data-neo4j.tar.gz">⬇️ Download</a></td>
 </tr>
 <tr>
 <td><strong>Vectors</strong></td>
-<td>~380 MB</td>
+<td>~98 MB</td>
 <td>ML, semantic search</td>
 <td><a href="https://github.com/politic-in/data/releases/latest/download/politic-data-vectors.tar.gz">⬇️ Download</a></td>
 </tr>
@@ -865,48 +865,58 @@ const census = db.prepare('SELECT * FROM census WHERE district_code = ?').all('1
 <tr>
 <th>Operation</th>
 <th>Records</th>
-<th>CPU Time</th>
-<th>GPU Time</th>
-<th>Speedup</th>
-</tr>
-<tr>
-<td>Vector Generation</td>
-<td>1,043,267</td>
-<td>16 hours</td>
-<td>3 minutes</td>
-<td>320x</td>
+<th>Time</th>
+<th>Rate</th>
+<th>Notes</th>
 </tr>
 <tr>
 <td>Database Build</td>
 <td>1,043,267</td>
-<td>45 minutes</td>
-<td>N/A</td>
+<td>40 seconds</td>
+<td>26,000/sec</td>
+<td>SQLite + PostgreSQL</td>
+</tr>
+<tr>
+<td>Parquet Generation</td>
+<td>1,043,267</td>
+<td>Included above</td>
 <td>-</td>
+<td>Parallel with DB</td>
+</tr>
+<tr>
+<td>Vector Generation (GPU)</td>
+<td>8,476</td>
+<td>156 seconds</td>
+<td>54/sec</td>
+<td>RunPod RTX A6000</td>
 </tr>
 <tr>
 <td>JSON Validation</td>
 <td>1,043,267</td>
-<td>2 minutes</td>
-<td>N/A</td>
-<td>-</td>
+<td>< 2 minutes</td>
+<td>8,600/sec</td>
+<td>AJV schema validation</td>
 </tr>
 <tr>
-<td>Delta Generation</td>
-<td>~10,000</td>
-<td>5 seconds</td>
-<td>N/A</td>
-<td>-</td>
+<td>Neo4j Export</td>
+<td>8,476 vectors</td>
+<td>< 10 seconds</td>
+<td>847/sec</td>
+<td>Cypher statements</td>
 </tr>
 </table>
 
 ### 💾 Storage Efficiency
 
-| Format | Size (Compressed) | Size (Uncompressed) | Compression Ratio |
-|--------|------------------|---------------------|-------------------|
-| SQLite | 450 MB | 1.2 GB | 62.5% |
-| PostgreSQL | 520 MB | 1.4 GB | 62.9% |
-| Parquet | 180 MB | 1.2 GB | 85.0% |
-| JSON | 890 MB | 3.5 GB | 74.6% |
+| Format | Actual Size | Description |
+|--------|------------|-------------|
+| **SQLite Database** | 112 MB | Complete relational database |
+| **PostgreSQL Dump** | 80 MB | SQL statements for import |
+| **Booth Parquet** | 117 MB | Columnar format for analytics |
+| **Election MLA Parquet** | 8.0 MB | State election results |
+| **Election MP Parquet** | 1.5 MB | Parliamentary results |
+| **Vector Embeddings** | 98 MB | 8,476 pre-computed embeddings |
+| **Total Package** | ~420 MB | All formats combined |
 
 ### 🔍 Query Performance
 
@@ -920,21 +930,48 @@ const census = db.prepare('SELECT * FROM census WHERE district_code = ?').all('1
 
 ## 🚀 GPU-Accelerated Vector Processing
 
-We use **RunPod.io with RTX A6000 GPUs** (48GB VRAM) for high-performance vector generation:
+We use **RunPod.io** for high-performance vector generation with the following configuration:
+
+### RunPod Configuration
+- **Docker Image**: `runpod/worker-infinity-embedding:1.1.4`
+- **Environment Variable**: `MODEL_NAMES=sentence-transformers/all-MiniLM-L6-v2`
+- **Endpoint Type**: Serverless (Queue-based)
+- **GPU**: RTX A6000 (24GB VRAM) or similar
+- **Workers**: 1-4 active workers recommended
 
 ### Performance Metrics
-- **1M+ booth records**: Processed in < 3 minutes (vs 16 hours on CPU)
-- **Processing rate**: 5000+ embeddings/second (320x faster than CPU)
-- **Cost**: Process entire dataset for < $5
+- **Processing rate**: 54 embeddings/second (8,476 vectors in 156 seconds)
+- **Batch size**: 50 texts per request (optimal for stability)
+- **Total time**: 2.6 minutes for 8,476 records
+- **Cost**: < $0.50 for typical processing run
 
-### Setup RunPod
+### Setup Instructions
+
+1. **Create RunPod Endpoint**:
+   - Go to [RunPod Serverless](https://www.runpod.io/console/serverless)
+   - Create new endpoint with image: `runpod/worker-infinity-embedding:1.1.4`
+   - Add environment variable: `MODEL_NAMES=sentence-transformers/all-MiniLM-L6-v2`
+   - Set 1-4 active workers
+
+2. **Configure Credentials**:
 ```bash
-# Set credentials
+# Set RunPod credentials (use API key without "Bearer" prefix)
 export RUNPOD_ENDPOINT_ID="your-endpoint-id"
-export RUNPOD_API_KEY="your-api-key"
+export RUNPOD_API_KEY="your-api-key"  # Format: rpa_xxxxx
 
 # Generate vectors
+npm run build:vectors
+# or
 make build-vectors
+```
+
+### API Authentication Note
+⚠️ **Important**: When using the RunPod API, the authorization header should contain just the API key without the "Bearer" prefix:
+```javascript
+headers: {
+  'authorization': 'rpa_YOUR_API_KEY',  // Correct ✅
+  // NOT: 'Authorization: Bearer rpa_YOUR_API_KEY' ❌
+}
 ```
 
 ## 🤖 Vector Search & ML
